@@ -22,17 +22,18 @@ export interface Env {
   ASSETS: Fetcher;
   NEWSFLOW_KV?: KVNamespace;
   MUNS_TOKEN?: string;
-  MUNS_EMAIL?: string; // from-address
+  MUNS_EMAIL?: string; // from-address (unused by the Raw Email API; kept for reference)
   MUNS_EMAIL_ENDPOINT?: string;
   SEND_EMPTY?: string; // "true" to email on quiet days
   SITE_URL?: string; // fallback origin for unsubscribe links (cron has no request)
+  SEND_TEST_KEY?: string; // when set, unlocks GET /api/send-test?email=&key=
 }
 
 const K_KEYWORDS = 'custom:keywords';
 const K_STOCKS = 'custom:stocks';
 const CAP = 200;
 const EMAIL_RE = /^[^@\s]+@[^@\s]+\.[^@\s]+$/;
-const DEFAULT_EMAIL_ENDPOINT = 'https://fastapi.muns.io/tools/email-send';
+const DEFAULT_EMAIL_ENDPOINT = 'https://devde.muns.io/email/send/raw';
 
 interface Stock {
   name: string;
@@ -244,26 +245,74 @@ async function readAsset(env: Env, name: string): Promise<any> {
   }
 }
 
-async function sendEmail(env: Env, to: string, subject: string, body: string): Promise<boolean> {
+/**
+ * Send one email via the Munshot Raw Email API (POST /email/send/raw).
+ * Verified live: the endpoint expects a Bearer token and the JSON body
+ * { email, subject, html } — the recipient field is "email" (NOT "to"),
+ * the content field is "html" (NOT "text"), and there is NO "from" field.
+ * Returns { ok, status } so the /api/send-test route can echo the HTTP status.
+ */
+async function sendEmail(
+  env: Env,
+  to: string,
+  subject: string,
+  body: string,
+): Promise<{ ok: boolean; status: number }> {
   if (!env.MUNS_TOKEN) {
     console.log('[cron] MUNS_TOKEN not set — not sending to', to);
-    return false;
+    return { ok: false, status: 0 };
   }
   const endpoint = env.MUNS_EMAIL_ENDPOINT || DEFAULT_EMAIL_ENDPOINT;
   try {
     const res = await fetch(endpoint, {
       method: 'POST',
-      headers: { authorization: `Bearer ${env.MUNS_TOKEN}`, 'content-type': 'application/json' },
-      body: JSON.stringify({ to, from: env.MUNS_EMAIL, subject, html: body }),
+      headers: {
+        Authorization: `Bearer ${env.MUNS_TOKEN}`,
+        'Content-Type': 'application/json',
+        Accept: 'application/json',
+      },
+      body: JSON.stringify({ email: to, subject, html: body }),
     });
     const text = await res.text().catch(() => '');
-    // Log the first bytes so the exact field names can be corrected quickly.
     console.log(`[cron] email -> ${to} · HTTP ${res.status} · ${text.slice(0, 200)}`);
-    return res.ok;
+    return { ok: res.ok, status: res.status };
   } catch (e) {
     console.log(`[cron] email send error for ${to}:`, (e as Error).message);
-    return false;
+    return { ok: false, status: 0 };
   }
+}
+
+/* ---------------- GET /api/send-test?email=&key= (Prompt 4) ----------------
+ * A small authenticated smoke test: renders the newspaper for the default
+ * feeds from the live news.json and sends ONE real email, so the Munshot
+ * Raw Email API wiring can be verified end-to-end. Locked behind SEND_TEST_KEY
+ * (a Worker secret) so it can never be triggered by an anonymous visitor. */
+async function handleSendTest(request: Request, env: Env): Promise<Response> {
+  const url = new URL(request.url);
+  // Hidden unless the secret is configured AND the caller's key matches.
+  if (!env.SEND_TEST_KEY || url.searchParams.get('key') !== env.SEND_TEST_KEY) {
+    return json({ ok: false, error: 'Not found', path: url.pathname }, 404);
+  }
+  const to = String(url.searchParams.get('email') || '').trim().toLowerCase();
+  if (!EMAIL_RE.test(to)) return json({ ok: false, error: 'Provide a valid ?email=' }, 400);
+
+  const feeds = ['portfolio', 'watchlist'];
+  const news = (await readAsset(env, 'news.json')) || { items: [] };
+  const allItems: any[] = Array.isArray(news.items) ? news.items : [];
+  const items = selectItems(allItems, feeds, 14);
+  const nowIso = new Date().toISOString();
+  const origin = (url.origin || env.SITE_URL || '').replace(/\/$/, '');
+  const htmlBody = renderNewspaper({
+    items,
+    feeds,
+    days: 'daily',
+    hour: istParts().hour,
+    unsubUrl: `${origin}/api/unsubscribe?token=test`,
+    nowIso,
+  });
+  const subject = buildSubject(items.length, feeds, nowIso);
+  const { ok, status } = await sendEmail(env, to, subject, htmlBody);
+  return json({ ok, status });
 }
 
 async function runDigests(env: Env): Promise<void> {
@@ -332,7 +381,7 @@ async function runDigests(env: Env): Promise<void> {
       });
       const subject = buildSubject(items.length, sub.feeds, new Date().toISOString());
       const sent = await sendEmail(env, sub.email, subject, html);
-      if (sent) {
+      if (sent.ok) {
         sub.lastSentDate = ist.dateStr;
         await kv.put(key, JSON.stringify(sub));
         console.log('[cron] sent', sub.email, `(${items.length} items)`);
@@ -352,6 +401,7 @@ export default {
     if (url.pathname === '/api/custom') return handleCustom(request, env);
     if (url.pathname === '/api/subscribe') return handleSubscribe(request, env);
     if (url.pathname === '/api/unsubscribe') return handleUnsubscribe(request, env);
+    if (url.pathname === '/api/send-test') return handleSendTest(request, env);
     if (url.pathname.startsWith('/api/')) return json({ ok: false, error: 'Not found', path: url.pathname }, 404);
 
     return env.ASSETS.fetch(request);
