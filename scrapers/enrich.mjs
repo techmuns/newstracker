@@ -22,6 +22,7 @@ import {
   NEWS_PATH,
   loadKeywords,
   isBlockedSource,
+  collapseDuplicates,
   fetchWithTimeout,
   nowISO,
   countsByScope,
@@ -276,6 +277,11 @@ async function main() {
   const universeDropped = beforeUniv - kept.length;
   const droppedTotal = items.length - kept.length;
 
+  // Collapse near-duplicate stories (same event reported by many sources).
+  const beforeCollapse = kept.length;
+  kept = collapseDuplicates(kept);
+  const collapsed = beforeCollapse - kept.length;
+
   // Sample of what was dropped, for the run summary.
   const dropSamples = items
     .filter((it) => dropIds.has(it.id))
@@ -283,11 +289,11 @@ async function main() {
     .map((it) => `“${it.title.slice(0, 70)}” (${it.source})`);
 
   console.log(
-    `[enrich] kept ${kept.length} · dropped ${droppedTotal} (blocked ${preBlocked}, universe-low ${universeDropped}) · newly enriched ${enrichedCount}`,
+    `[enrich] kept ${kept.length} · dropped ${droppedTotal} (blocked ${preBlocked}, universe-low ${universeDropped}) · collapsed ${collapsed} dupes · newly enriched ${enrichedCount}`,
   );
   if (dropSamples.length) console.log('[enrich] example drops:\n  - ' + dropSamples.join('\n  - '));
 
-  if (enrichedCount === 0 && droppedTotal === 0) {
+  if (enrichedCount === 0 && droppedTotal === 0 && collapsed === 0) {
     console.log('[enrich] no changes — leaving file untouched.');
     return;
   }

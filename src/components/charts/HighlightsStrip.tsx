@@ -23,9 +23,19 @@ function HighlightCard({ item }: { item: NewsItem }) {
         <span className={`h-2 w-2 rounded-full ${mood.dot}`} title={mood.label} />
         <ExternalLink className="ml-auto h-3.5 w-3.5 text-slate-300 group-hover:text-indigo-500" />
       </div>
-      <p className="text-[11px] font-bold uppercase tracking-wide text-slate-500">
-        {item.company}
-      </p>
+      <div className="flex items-center justify-between gap-2">
+        <p className="truncate text-[11px] font-bold uppercase tracking-wide text-slate-500">
+          {item.company}
+        </p>
+        {item.sources_count && item.sources_count > 1 ? (
+          <span
+            className="shrink-0 text-[10px] font-semibold text-slate-400"
+            title={`Reported by ${item.sources_count} sources`}
+          >
+            +{item.sources_count - 1}
+          </span>
+        ) : null}
+      </div>
       <p className="mt-0.5 line-clamp-3 text-xs font-semibold leading-snug text-slate-800 group-hover:text-indigo-600">
         {item.takeaway}
       </p>

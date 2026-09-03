@@ -428,3 +428,145 @@ export function countsByExchange(items) {
   for (const it of items) if (it.exchange in c) c[it.exchange]++;
   return c;
 }
+
+/* ------------------------------------------------------------------ */
+/* Collapse near-duplicate stories (same event from many sources)      */
+/* ------------------------------------------------------------------ */
+// Stopwords stripped from titles before comparing (numbers/amounts/% are KEPT).
+const DUP_STOP = new Set([
+  'the', 'a', 'an', 'to', 'of', 'in', 'on', 'for', 'and', 'or', 'at', 'by', 'with', 'from',
+  'as', 'its', 'it', 'is', 'are', 'was', 'be', 'has', 'have', 'will', 'after', 'over', 'amid',
+  'via', 'said', 'says', 'say', 'report', 'reports', 'update', 'video', 'watch', 'read', 'new',
+  'into', 'out', 'up', 'down', 'than', 'that', 'this', 'these', 'those', 'crore', 'cr', 'lakh',
+  'billion', 'trillion', 'million', 'rs', 'inr', 'fy', 'q1', 'q2', 'q3', 'q4', 'ltd', 'limited',
+  'india', 'indian', 'company', 'stock', 'stocks', 'shares', 'share', 'per', 'cent', 'percent',
+  'pm', 'am', 'plans', 'plan', 'eyes', 'sees', 'set', 'gets', 'get', 'announces', 'announce',
+]);
+
+// Real publishers rank above aggregators/social when choosing the survivor.
+const GOOD_SRC = ['businessstandard', 'livemint', 'mint', 'economictimes', 'moneycontrol', 'cnbctv18', 'hindubusinessline', 'businessline', 'financialexpress', 'reuters', 'bloomberg', 'ndtvprofit', 'zeebiz', 'zeebusiness', 'valuepickr', 'thehindu'];
+const WEAK_SRC = ['linkedin', 'sahi', 'investywise', 'univest', 'simplywall', 'tradingview', 'marketscreener', 'midday', 'scanx', 'whalesbook', 'tradebrains', 'indiainfoline', 'ipowatch', 'ipocentral', 'inshorts', 'businessupturn', 'devdiscourse', 'medicaldialogues'];
+
+function srcScore(source) {
+  const s = String(source || '').toLowerCase().replace(/[^a-z0-9]/g, '');
+  if (GOOD_SRC.some((g) => s.includes(g))) return 2;
+  if (WEAK_SRC.some((w) => s.includes(w))) return 0;
+  return 1;
+}
+
+function dupTokens(title, company) {
+  let t = ' ' + String(title || '').toLowerCase() + ' ';
+  t = t.replace(/₹|\brs\.?\b/g, ' '); // currency symbols
+  t = t.replace(/(\d),(\d)/g, '$1$2'); // 3,000 -> 3000
+  for (const w of String(company || '').toLowerCase().split(/\s+/)) {
+    if (w.length >= 3) t = t.split(w).join(' '); // drop company-name words
+  }
+  t = t.replace(/[^a-z0-9%\s]/g, ' ');
+  const out = new Set();
+  for (const tok of t.split(/\s+/)) {
+    if (!tok) continue;
+    if (/\d/.test(tok) || tok.endsWith('%')) {
+      out.add(tok); // KEEP numbers / amounts / percentages
+      continue;
+    }
+    if (tok.length < 3 || DUP_STOP.has(tok)) continue;
+    out.add(tok);
+  }
+  return out;
+}
+
+function moneySigs(title) {
+  const out = new Set();
+  const re = /(\d[\d,]*(?:\.\d+)?)\s*(crore|cr|lakh|billion|trillion|million|bn|mn)\b/gi;
+  let m;
+  while ((m = re.exec(String(title || '').toLowerCase()))) {
+    let unit = m[2];
+    if (unit === 'cr') unit = 'crore';
+    else if (unit === 'bn') unit = 'billion';
+    else if (unit === 'mn') unit = 'million';
+    out.add(`${m[1].replace(/,/g, '')}${unit}`);
+  }
+  return out;
+}
+
+const DUP_IMP = { high: 0, medium: 1, low: 2 };
+
+// Collapse near-duplicate stories into one. Only ever merges items that share
+// the SAME ticker/company AND topic (universe items group by their theme label,
+// which is carried in `company`); never across companies or topics. Two items
+// are the same event when their normalised titles overlap >= 0.6 (overlap
+// coefficient), or they share a distinctive money amount + the same keyword.
+// Keeps one survivor per cluster: best source, then importance, then a takeaway,
+// then newest; and sets survivor.sources_count when it stands in for >1 report.
+export function collapseDuplicates(items) {
+  const groups = new Map();
+  for (const it of items) {
+    const key = `${(it.ticker || '').toLowerCase()}|${(it.company || '').toLowerCase()}|${it.topic}`;
+    if (!groups.has(key)) groups.set(key, []);
+    groups.get(key).push(it);
+  }
+
+  const tokCache = new Map();
+  const moneyCache = new Map();
+  const tok = (it) => {
+    if (!tokCache.has(it)) tokCache.set(it, dupTokens(it.title, it.company));
+    return tokCache.get(it);
+  };
+  const money = (it) => {
+    if (!moneyCache.has(it)) moneyCache.set(it, moneySigs(it.title));
+    return moneyCache.get(it);
+  };
+  const sameEvent = (a, b) => {
+    const ta = tok(a);
+    const tb = tok(b);
+    const denom = Math.min(ta.size, tb.size);
+    if (denom > 0) {
+      let inter = 0;
+      for (const x of ta) if (tb.has(x)) inter++;
+      if (inter / denom >= 0.6) return true;
+    }
+    if (a.keyword && a.keyword === b.keyword) {
+      const mb = money(b);
+      for (const x of money(a)) if (mb.has(x)) return true;
+    }
+    return false;
+  };
+
+  const survivors = [];
+  for (const group of groups.values()) {
+    if (group.length === 1) {
+      survivors.push(group[0]);
+      continue;
+    }
+    const clusters = [];
+    for (const it of group) {
+      let placed = false;
+      for (const cl of clusters) {
+        if (cl.some((m) => sameEvent(it, m))) {
+          cl.push(it);
+          placed = true;
+          break;
+        }
+      }
+      if (!placed) clusters.push([it]);
+    }
+    for (const cl of clusters) {
+      cl.sort((a, b) => {
+        const sa = srcScore(a.source);
+        const sb = srcScore(b.source);
+        if (sa !== sb) return sb - sa; // best source first
+        const ia = DUP_IMP[a.importance] ?? 1;
+        const ib = DUP_IMP[b.importance] ?? 1;
+        if (ia !== ib) return ia - ib; // high > medium > low
+        const tka = a.takeaway && a.takeaway.trim() ? 1 : 0;
+        const tkb = b.takeaway && b.takeaway.trim() ? 1 : 0;
+        if (tka !== tkb) return tkb - tka; // has a takeaway
+        return String(b.date || '').localeCompare(String(a.date || '')); // newest
+      });
+      const survivor = cl[0];
+      if (cl.length > 1) survivor.sources_count = cl.length;
+      survivors.push(survivor);
+    }
+  }
+  return survivors;
+}

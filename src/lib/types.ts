@@ -54,6 +54,7 @@ export interface NewsItem {
   mood: Mood;
   takeaway: string;
   enriched?: boolean; // set by the Claude enrichment step (Prompt 3)
+  sources_count?: number; // >1 when this survivor stands in for de-duped reports (Prompt 4)
 }
 
 export interface NewsData {

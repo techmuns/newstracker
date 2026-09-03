@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-03T13:59:59.237Z",
+  "generated_at": "2026-09-03T19:05:14.464Z",
   "source": "google-news",
   "counts": {
     "portfolio": 2,
-    "watchlist": 24,
+    "watchlist": 20,
     "universe": 6,
-    "total": 30
+    "total": 26
   },
   "items": [
     {
@@ -25,6 +25,24 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "India’s private capex moderates 2.8% to Rs 11.9 lakh crore in FY26 after record high in FY25: Report"
+    },
+    {
+      "id": "nabaa275ce403",
+      "ticker": "THEME",
+      "company": "Electronics / PLI",
+      "sector": "Consumer Durables",
+      "scope": [
+        "universe"
+      ],
+      "title": "Govt notifies ₹1.27 trillion Semicon 2.0, offers 40% fab capex support",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSjROV2V6VXpGTUUyV3V0bm14Z0hXT0JvdmhURTJsd3UyWFQ3bTdqcDFpOWE5TVFNcWpWeDdXRFh1a01BcGsyLVAzWG1fT3NuVU5vM05CMnNBZ2MtU3FkNkJVamVKTVM5ZnAzcHJjWDNacXJBSDRRR0NxaUVjVHNWSEJyRUNsQXIwVDk1a2FvWVJ1cEVzMllONU1JRlhzU0FIZzl2LVNMM0xYaXFDbFdZVmgyNUY3YkktNXhjcWt0Nm5EVmRYdE5UalJtX3Y2ZXZE0gHWAUFVX3lxTE5JVUdzYTRVQVJ6WUdYTV9DUFpneUlFZXhLdDhZNFUyQmZQRUUtVUN2MkdwbjJjam1hS3JoLUxPSGtQOGE1YlNTblM0THpfUEVCdnFoVkh4Y3V1LUw0TWVJMUM0QTZfLTZOR19KVVh4dGZOMnZyQkx5SjhLaDdQMkhvbFRtWF9NamdkWlRab1lSdjZHOHBkdHNsWnA3bFl0WTYwZ21KRnlHYTNDWkJIVjRBSHRiZnZCUXhCZDRENmpVT1VKVEpuMGo3T2tZejdDaENiVzIwUGc?oc=5",
+      "source": "Business Standard",
+      "date": "2026-08-31T13:56:33.000Z",
+      "topic": "Growth",
+      "keyword": "Capex",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Govt notifies ₹1.27 trillion Semicon 2.0, offers 40% fab capex support"
     },
     {
       "id": "nede382c717ab",
@@ -63,22 +81,41 @@
       "takeaway": "Video | Zen Tech Sees Stronger FY27 Ahead; Atluri Expects Order Inflows to Pick Up"
     },
     {
-      "id": "nabaa275ce403",
-      "ticker": "THEME",
-      "company": "Electronics / PLI",
-      "sector": "Consumer Durables",
+      "id": "n396f75fa6c8f",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies",
+      "sector": "Capital Goods",
       "scope": [
-        "universe"
+        "watchlist"
       ],
-      "title": "Govt notifies ₹1.27 trillion Semicon 2.0, offers 40% fab capex support",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSjROV2V6VXpGTUUyV3V0bm14Z0hXT0JvdmhURTJsd3UyWFQ3bTdqcDFpOWE5TVFNcWpWeDdXRFh1a01BcGsyLVAzWG1fT3NuVU5vM05CMnNBZ2MtU3FkNkJVamVKTVM5ZnAzcHJjWDNacXJBSDRRR0NxaUVjVHNWSEJyRUNsQXIwVDk1a2FvWVJ1cEVzMllONU1JRlhzU0FIZzl2LVNMM0xYaXFDbFdZVmgyNUY3YkktNXhjcWt0Nm5EVmRYdE5UalJtX3Y2ZXZE0gHWAUFVX3lxTE5JVUdzYTRVQVJ6WUdYTV9DUFpneUlFZXhLdDhZNFUyQmZQRUUtVUN2MkdwbjJjam1hS3JoLUxPSGtQOGE1YlNTblM0THpfUEVCdnFoVkh4Y3V1LUw0TWVJMUM0QTZfLTZOR19KVVh4dGZOMnZyQkx5SjhLaDdQMkhvbFRtWF9NamdkWlRab1lSdjZHOHBkdHNsWnA3bFl0WTYwZ21KRnlHYTNDWkJIVjRBSHRiZnZCUXhCZDRENmpVT1VKVEpuMGo3T2tZejdDaENiVzIwUGc?oc=5",
-      "source": "Business Standard",
-      "date": "2026-08-31T13:56:33.000Z",
-      "topic": "Growth",
-      "keyword": "Capex",
+      "title": "Zen Technologies shares to be in focus on Tuesday after company secures ₹295 crore defence order",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQekdtOTFQa0YtRGt5XzNPYnREVWNHLTV0ZzJ2U1p0ejRodjI2dk5JdkZPYzhDXy1QdmFzMmNQdlh5ZERrdnIzUmdscE1OMEdGcXJJVnk5bUFNOGtOdnVGbHBkbWptOTZTeVdHMXk2UmRqZGt5SW43TjBidWREYWpNcm92Z0dBMEJQLTI3bEMxSURSaWMtUk9TMHJuQURvTGtlQkV4QmdXT04tZ05IYjFmLVVDd2lDLW9Ib01jWWxGbEpTaTUwdnZLY3VPc0hGTFd1aUlBMHNFTWdfeG1wS0tMeFQ1WG5YdTExZlNvNExpRWowUzBBbjVaNF8wOWXSAYICQVVfeXFMTWNWemhOeHo0TVdhWXQzcGhNM1lsRzhUM3g3c1pxQ3NHam90Q2pkYjlSRWJNbC02bFNobm5pay04bUprdzkxcG51c0o4M2NwUkk0akZZN20yd21SbmZCS3owbXp1NzRSRkdJSnJNRUtKUWhQeWhxQnFna3ZEV2dwck83WHdneUlLN2pYa0xLaHA5a2tSbXFvYU02ZlVwTXVqZVI1Vm9nd1NJV0U3ekFIekFnSjFKbjJIZ3RkQTVTcG0xdVlGZ1JtQVRCTWdDVXRxcHJPRXNVOHAxcjctZ29GWkNHU0tiR2Z4OXlVeWw0X2VnXzlfelFfczRQc0l1Tzc2clRB?oc=5",
+      "source": "Livemint",
+      "date": "2026-08-10T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
       "importance": "medium",
       "mood": "neutral",
-      "takeaway": "Govt notifies ₹1.27 trillion Semicon 2.0, offers 40% fab capex support"
+      "takeaway": "Zen Technologies shares to be in focus on Tuesday after company secures ₹295 crore defence order",
+      "sources_count": 3
+    },
+    {
+      "id": "n316089096314",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Zen Technologies FY26 Results: Revenue falls, order book rises",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaWxDNkJYMWl5RkFLZ3ZpVFRaY0RmWGpkWnRTLUZDZENJVkNkOVRsSWxkNGxDRDQ1Smk1TmxmcElhdVpKVlVmXzg2TEtJSGFxR3VvdUFVeTRGbnRxV0cwU0dVMGIzN0U1LUpaLUx4aFJnLWdJVTVXV2FhLXZvaUg2MlVNTXVpVkp1bkpOM3h3QnlnaDl0RzkzaGdPR2tfZEk1dUpqM3Vaa1NBY0loTmMyNE9Ic094ZzA1?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-08-06T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Zen Technologies FY26 Results: Revenue falls, order book rises"
     },
     {
       "id": "nc6cc18441fbc",
@@ -117,24 +154,6 @@
       "takeaway": "Gilead Wins USFDA Approval for Bixlenvo HIV Combination Treatment"
     },
     {
-      "id": "nce20aa8853b6",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions",
-      "sector": "IT",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Aurionpro Solutions hosts Q1 FY27 earnings call on July 28",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb1VjVlhFR19va2U1RHNMcUU0QzM0a3pPYTdSSTBsTndSX0dhMXhiaWdNbWo3NTZrZE84b1dVc21yVFc0b0Z4UTVjWTJQMmtISExicVlTTnN3QkZBQnlVdjBELWR1N0g0RnV0cEpfWGhqT3o5MnJRSy1vM3ZqeVlsSFJqdDdEbklybzBkdXNNRXhzZUhDcFRvRV9FczVkcEFEZG1rNmo4VDVKSTRLM0hNa0hkODEwVmU1cmp3S3ZxN2JydGxwZXIxZ2xaWlY?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-08-30T06:38:31.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Aurionpro Solutions hosts Q1 FY27 earnings call on July 28"
-    },
-    {
       "id": "nee769360a137",
       "ticker": "THEME",
       "company": "Pharma Approvals",
@@ -151,6 +170,24 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Lupin Receives Tentative Approval from U.S. FDA for Sugammadex Injection"
+    },
+    {
+      "id": "nce20aa8853b6",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions",
+      "sector": "IT",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Aurionpro Solutions hosts Q1 FY27 earnings call on July 28",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb1VjVlhFR19va2U1RHNMcUU0QzM0a3pPYTdSSTBsTndSX0dhMXhiaWdNbWo3NTZrZE84b1dVc21yVFc0b0Z4UTVjWTJQMmtISExicVlTTnN3QkZBQnlVdjBELWR1N0g0RnV0cEpfWGhqT3o5MnJRSy1vM3ZqeVlsSFJqdDdEbklybzBkdXNNRXhzZUhDcFRvRV9FczVkcEFEZG1rNmo4VDVKSTRLM0hNa0hkODEwVmU1cmp3S3ZxN2JydGxwZXIxZ2xaWlY?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-08-30T06:38:31.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Aurionpro Solutions hosts Q1 FY27 earnings call on July 28"
     },
     {
       "id": "n572573dcbe30",
@@ -244,24 +281,6 @@
       "takeaway": "Silica-Carbide Brick Market Growth to 2035 Driven by EAF Steelmaking Capacity Expansion in India and Middle East"
     },
     {
-      "id": "na7a4fe7e0354",
-      "ticker": "DIXON",
-      "company": "Dixon Technologies",
-      "sector": "Consumer Durables",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Dixon Tech may see an earnings upgrade from new mobile mfg scheme",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUlp6UE1aVjV5My13R0E2czUxeENsQV9CODdRVkZOVHAtX2UyTGNUNm41Q1BvdENIZDFMZUhaR25SRG9ueTlySkQ2X1ZkZHpnRmNUWVp2VjhibWhNN04ya0piSC1YQkN3SUVma2Fnd0RRV28xalByMGVsTHJoNzNtOGdrSGJ2TVRkQ0lKX0tMdGRLem14UXpiY0FPM2JKcUhtSWRycXdPVE9uX1Izb0xJ0gG0AUFVX3lxTE9GMnhFaUQ5YzFmbmNZYmlUNUJoaTFNbVRSc2hzcDJBeFlNY0c3SnJrOV9FYTJvM2FBUl9hTnFEaFF4RWtHSDF1Qm9HWnZObVplYWpNVWh0TFRIZDcxckJEZThsVjh4ZmhLZ090LTNxQmFjU0I5NTRsNUF6TzRhR0NSM19oR2xuODVlY1dZV0VfMTUxVV83UnJ2WS0zcWxESVNrcGRiNmFEdWV5QWVSNklOU21UdA?oc=5",
-      "source": "CNBC TV18",
-      "date": "2026-08-24T02:47:01.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Dixon Tech may see an earnings upgrade from new mobile mfg scheme"
-    },
-    {
       "id": "ne9e790403b81",
       "ticker": "THEME",
       "company": "Specialty Chemicals",
@@ -278,6 +297,24 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Quaternary Ammonium Surfactant Blends Market to Double by 2035 on Biopharma Capacity Expansion"
+    },
+    {
+      "id": "na7a4fe7e0354",
+      "ticker": "DIXON",
+      "company": "Dixon Technologies",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Dixon Tech may see an earnings upgrade from new mobile mfg scheme",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUlp6UE1aVjV5My13R0E2czUxeENsQV9CODdRVkZOVHAtX2UyTGNUNm41Q1BvdENIZDFMZUhaR25SRG9ueTlySkQ2X1ZkZHpnRmNUWVp2VjhibWhNN04ya0piSC1YQkN3SUVma2Fnd0RRV28xalByMGVsTHJoNzNtOGdrSGJ2TVRkQ0lKX0tMdGRLem14UXpiY0FPM2JKcUhtSWRycXdPVE9uX1Izb0xJ0gG0AUFVX3lxTE9GMnhFaUQ5YzFmbmNZYmlUNUJoaTFNbVRSc2hzcDJBeFlNY0c3SnJrOV9FYTJvM2FBUl9hTnFEaFF4RWtHSDF1Qm9HWnZObVplYWpNVWh0TFRIZDcxckJEZThsVjh4ZmhLZ090LTNxQmFjU0I5NTRsNUF6TzRhR0NSM19oR2xuODVlY1dZV0VfMTUxVV83UnJ2WS0zcWxESVNrcGRiNmFEdWV5QWVSNklOU21UdA?oc=5",
+      "source": "CNBC TV18",
+      "date": "2026-08-24T02:47:01.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Dixon Tech may see an earnings upgrade from new mobile mfg scheme"
     },
     {
       "id": "nca69a9d17cb4",
@@ -371,24 +408,6 @@
       "takeaway": "Jyoti CNC Automation: ₹1,020 Crore Capex Approved for Manufacturing Expansion"
     },
     {
-      "id": "n93123994183e",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions",
-      "sector": "IT",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Aurionpro Lands ₹100 Cr AI Data Centre Order From Global Hyperscaler",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYWUzeUtRdDJIcHNJNEc0dE5RVGtrV3JWbjduVV95ajBUdFM4LUN3NG04RFVpaDJDdkhNYlRfX0hCQ3lyQk5VWndlRUtzSnU5anZXY09Za1FNU2QyQ1A2Z1Y0MllEWm5ld1NpQ0tsd18wVU02cC1KN2FoSUs1ZDNDWERrREs4QVpBZEpkVnE5d0pkMTdjanc?oc=5",
-      "source": "Trade Brains",
-      "date": "2026-08-13T10:39:07.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Aurionpro Lands ₹100 Cr AI Data Centre Order From Global Hyperscaler"
-    },
-    {
       "id": "nda59b11a43cf",
       "ticker": "AURIONPRO",
       "company": "Aurionpro Solutions",
@@ -404,25 +423,8 @@
       "keyword": "Order",
       "importance": "medium",
       "mood": "neutral",
-      "takeaway": "Aurionpro bags data centre order worth nearly ₹100 crore from global hyperscaler in Navi Mumbai"
-    },
-    {
-      "id": "n988ceacfcd12",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions",
-      "sector": "IT",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Aurionpro climbs on bagging order worth Rs 100 crore",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZElTTzZ6TTI3aVNnSGZqZWU2YTlsdFZUR1lUaDhyc0ZycURsdHFJM1Q4ZmRfT0h4Z0pxR2kxRlZmOWM3LUVqZ2QzQUdYTTFUM242WjJMWnJvZ3hMc2pWZjY3VEEwM0t1SVNWQXNMNjBIUVBlOUVuVGlxNmxsRkt4WmlMR3FDanY0UnJ2ZUVMaThFQ1A2TmZ6RmRuOUstT1BSTDE4?oc=5",
-      "source": "Investment Guru India",
-      "date": "2026-08-13T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Aurionpro climbs on bagging order worth Rs 100 crore"
+      "takeaway": "Aurionpro bags data centre order worth nearly ₹100 crore from global hyperscaler in Navi Mumbai",
+      "sources_count": 3
     },
     {
       "id": "n0abeacdf83ba",
@@ -441,60 +443,6 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Aurionpro Solutions secures significant order from global hyperscale data centre operator"
-    },
-    {
-      "id": "n91f4af854cbe",
-      "ticker": "ZENTEC",
-      "company": "Zen Technologies",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Zen Technologies Secures ₹295 Crore Defence Order for Simulators",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVLXh1S2pwZXF1ZzBCODZ6bzR3cGxndFVHSmVEZXNhcHBuQ3NEc24yOEI2dDY5VDRvMDQ3a0JZVHFqbG1sZS1BWVE0dXVlNkxXOUhGZW40c2prbjYzcWZodHJkb1NNTDViczRfUW1FTEtDWDRTZmhDWUpzNjZEUQ?oc=5",
-      "source": "ascendants.in",
-      "date": "2026-08-11T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Zen Technologies Secures ₹295 Crore Defence Order for Simulators"
-    },
-    {
-      "id": "n396f75fa6c8f",
-      "ticker": "ZENTEC",
-      "company": "Zen Technologies",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Zen Technologies shares to be in focus on Tuesday after company secures ₹295 crore defence order",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQekdtOTFQa0YtRGt5XzNPYnREVWNHLTV0ZzJ2U1p0ejRodjI2dk5JdkZPYzhDXy1QdmFzMmNQdlh5ZERrdnIzUmdscE1OMEdGcXJJVnk5bUFNOGtOdnVGbHBkbWptOTZTeVdHMXk2UmRqZGt5SW43TjBidWREYWpNcm92Z0dBMEJQLTI3bEMxSURSaWMtUk9TMHJuQURvTGtlQkV4QmdXT04tZ05IYjFmLVVDd2lDLW9Ib01jWWxGbEpTaTUwdnZLY3VPc0hGTFd1aUlBMHNFTWdfeG1wS0tMeFQ1WG5YdTExZlNvNExpRWowUzBBbjVaNF8wOWXSAYICQVVfeXFMTWNWemhOeHo0TVdhWXQzcGhNM1lsRzhUM3g3c1pxQ3NHam90Q2pkYjlSRWJNbC02bFNobm5pay04bUprdzkxcG51c0o4M2NwUkk0akZZN20yd21SbmZCS3owbXp1NzRSRkdJSnJNRUtKUWhQeWhxQnFna3ZEV2dwck83WHdneUlLN2pYa0xLaHA5a2tSbXFvYU02ZlVwTXVqZVI1Vm9nd1NJV0U3ekFIekFnSjFKbjJIZ3RkQTVTcG0xdVlGZ1JtQVRCTWdDVXRxcHJPRXNVOHAxcjctZ29GWkNHU0tiR2Z4OXlVeWw0X2VnXzlfelFfczRQc0l1Tzc2clRB?oc=5",
-      "source": "Livemint",
-      "date": "2026-08-10T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Zen Technologies shares to be in focus on Tuesday after company secures ₹295 crore defence order"
-    },
-    {
-      "id": "nd88af8d8a3f2",
-      "ticker": "ZENTEC",
-      "company": "Zen Technologies",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Zen Technologies bags ₹295 crore order from Defence Ministry for simulators",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcjU0Z1RVTE9UX25RYjAxdHVJTTBoaXRyTGh0bVRkaHE3T0ttbzdhMmQ4aFc2VFhpYkQwajNKdnNFT1lKRm54SWVBZVlQeW5yZ3dVTG1DLTFaXzlBN1dORDFiY0J3eEZ0akwxM2kwRnJwNmo2ZkRuVGcycHFBVmduT3JGT1Zmbk1XallhamFDLUd4dW9BSHV1ZUNzYXdoTFdqVnc5ekpaNVJodmhZMnRKN1hPMzhlRk5JODVWS0l2aTZZYjROMVppbEpMQzE5Z3VnZUxucU1WdUvSAd4BQVVfeXFMTlA5NE1UOE9mOVduelFFVWtWd2pfZjNMOVk2WTBzUGh1YWVUaVd0eXZkMnFKdXZLeHQ1QnVtRVRRN1U0ZVdTNHpmS2ZESnRMTm1GNGpBVWk2bVo4cDdqUFpQaXBrbFVJeWVMWmR1T2pmNEM1WjM0Y1o5dEtCTUc3aEJZelEtTTBIanlVNmtHSEdYTWo3amQtUExzTmxRUjVVeUxmUG9TM1UyZXdvdEx3N3h6R3NubzBoVlNfNUpkT19KSHhNXzA5TzhmLWF5dkMteDFtcE9aaFRQNHpwUHhB?oc=5",
-      "source": "CNBC TV18",
-      "date": "2026-08-10T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Zen Technologies bags ₹295 crore order from Defence Ministry for simulators"
     },
     {
       "id": "n88323ea56af9",
@@ -531,24 +479,6 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Jyoti CNC Automation: Q1 FY27 Earnings & Growth Strategies"
-    },
-    {
-      "id": "n316089096314",
-      "ticker": "ZENTEC",
-      "company": "Zen Technologies",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Zen Technologies FY26 Results: Revenue falls, order book rises",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaWxDNkJYMWl5RkFLZ3ZpVFRaY0RmWGpkWnRTLUZDZENJVkNkOVRsSWxkNGxDRDQ1Smk1TmxmcElhdVpKVlVmXzg2TEtJSGFxR3VvdUFVeTRGbnRxV0cwU0dVMGIzN0U1LUpaLUx4aFJnLWdJVTVXV2FhLXZvaUg2MlVNTXVpVkp1bkpOM3h3QnlnaDl0RzkzaGdPR2tfZEk1dUpqM3Vaa1NBY0loTmMyNE9Ic094ZzA1?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-08-06T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Zen Technologies FY26 Results: Revenue falls, order book rises"
     }
   ]
 }

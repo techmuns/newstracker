@@ -28,6 +28,7 @@ import {
   fetchWithTimeout,
   mapLimit,
   mergeItems,
+  collapseDuplicates,
   countsByScope,
   normalizeUrl,
   sha1short,
@@ -364,24 +365,30 @@ async function main() {
   }
 
   const merged = mergeItems(existing, incoming, { retentionDays: 45, cap: 500 });
-  if (merged.items.length === 0) {
+  // Collapse near-duplicate stories so the feed never shows the same event twice.
+  const finalItems = collapseDuplicates(merged.items).sort((a, b) =>
+    String(b.date || '').localeCompare(String(a.date || '')),
+  );
+  const collapsed = merged.items.length - finalItems.length;
+
+  if (finalItems.length === 0) {
     console.log('[news] Nothing to write after merge — leaving file untouched.');
     return;
   }
-  if (merged.added === 0 && merged.removed === 0) {
-    console.log('[news] No new items and nothing aged out — leaving file untouched.');
+  if (merged.added === 0 && merged.removed === 0 && collapsed === 0) {
+    console.log('[news] No new items, nothing aged out, no dupes — leaving file untouched.');
     return;
   }
 
   const envelope = {
     generated_at: nowISO(),
     source: sourcesUsed.join('+') || 'google-news',
-    counts: countsByScope(merged.items),
-    items: merged.items,
+    counts: countsByScope(finalItems),
+    items: finalItems,
   };
   writeJSON(NEWS_PATH, envelope);
   console.log(
-    `[news] WROTE ${merged.items.length} items (+${merged.added} new, -${merged.removed} aged out) · ${JSON.stringify(envelope.counts)}`,
+    `[news] WROTE ${finalItems.length} items (+${merged.added} new, -${merged.removed} aged, -${collapsed} dupes) · ${JSON.stringify(envelope.counts)}`,
   );
 }
 

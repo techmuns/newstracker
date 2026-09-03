@@ -56,6 +56,14 @@ export function NewsCard({ item }: { item: NewsItem }) {
             </span>
             <span aria-hidden>·</span>
             <ImportanceBadge importance={item.importance} />
+            {item.sources_count && item.sources_count > 1 ? (
+              <>
+                <span aria-hidden>·</span>
+                <span className="font-medium text-slate-400">
+                  +{item.sources_count - 1} source{item.sources_count - 1 === 1 ? '' : 's'}
+                </span>
+              </>
+            ) : null}
           </div>
         </div>
       </div>
