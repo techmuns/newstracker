@@ -116,12 +116,22 @@ async function main() {
     return;
   }
 
-  const portfolio = dedupe(rows.filter((r) => r.bucket === 'held')).map(toCompany);
-  if (portfolio.length === 0) {
+  const heldRows = rows.filter((r) => r.bucket === 'held');
+  if (heldRows.length === 0) {
     // A live family office always holds something; zero held = junk/partial feed.
     console.log('[sync] no "held" rows in feed — keeping committed companies.json.');
     return;
   }
+
+  // Every ticker the live feed can represent (held + exited). The family-office
+  // feed is NSE-only, so BSE-only holdings (e.g. TANFACIND, YASHHV) never appear
+  // in it — we must not let the sync silently drop them.
+  const feedTickers = new Set(rows.map((r) => r.ticker.toLowerCase()).filter(Boolean));
+  const preserved = existingPortfolio.filter((c) => {
+    const t = String(c.ticker || '').toLowerCase();
+    return t && !feedTickers.has(t); // committed holding the feed can't express → keep
+  });
+  const portfolio = dedupe([...heldRows.map(toCompany), ...preserved]);
 
   // Union of feed exits + committed exits, so a curated exit that has dropped
   // out of the live NSE-tickered feed is never lost.

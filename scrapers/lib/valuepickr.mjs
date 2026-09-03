@@ -11,7 +11,7 @@ const BASE = 'https://forum.valuepickr.com';
 const VP_UA =
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36';
 
-export async function valuepickrSearch(company, sinceDate = ymd(daysAgo(30))) {
+export async function valuepickrSearch(company, sinceDate = ymd(daysAgo(90))) {
   const q = `"${company}" after:${sinceDate}`;
   const url = `${BASE}/search.json?q=${encodeURIComponent(q)}`;
   try {
