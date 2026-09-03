@@ -16,11 +16,15 @@ binding = "ASSETS"
 # Fall back to index.html for unknown paths (single-page app behaviour).
 not_found_handling = "single-page-application"
 
-# TODO(Prompt 3): add a KV namespace for the "memory" the scraper reads —
-# user-added keywords + watchlist stocks (currently in localStorage).
+# KV "memory" for the add-keyword / add-stock boxes (Prompt 3), which the
+# scraper also reads. ONE-TIME setup (then automatic forever):
+#   npx wrangler kv namespace create NEWSFLOW_KV
+# Paste the printed id below and UNCOMMENT these three lines, then push.
+# Until configured, the Worker's /api/custom returns empty and the add-boxes
+# fall back to localStorage — so leaving this commented never breaks the deploy.
 # [[kv_namespaces]]
 # binding = "NEWSFLOW_KV"
-# id = "<create-with: wrangler kv namespace create NEWSFLOW_KV>"
+# id = "<paste-the-id-here>"
 
 # TODO(Prompt 4): add a scheduled trigger for the morning email digest.
 # [triggers]

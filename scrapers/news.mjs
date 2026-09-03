@@ -1,12 +1,16 @@
-// Newsflow news scraper (Prompt 2).
+// Newsflow news scraper (Prompt 3).
 //
 // Backbone: Google News RSS (free, no key). Supplement: Munshot news-search
-// (only if MUNS_TOKEN set). Keyword-match = the fundamental filter; a crude
-// regex drops obvious price noise. Mood / importance / takeaway are safe
-// defaults here — the real Claude brain arrives in Prompt 3.
+// (MUNS_TOKEN) + optional Firecrawl (FIRECRAWL_API_KEY).
 //
-// Writes public/data/news.json in the exact shape the dashboard already reads.
-// Never blanks the file: if no source produces items, the previous file stays.
+// Recall over precision (Prompt 3): keep every item that (a) mentions the
+// company and (b) isn't caught by the crude noise / SEO blocklist. A literal
+// keyword match is now a HINT (topic guess), not a hard gate — Claude decides
+// keep/drop + the real bucket in enrich.mjs. Fallback when the Claude brain is
+// OFF (no BEDROCK key): require a literal keyword so the interim feed stays clean.
+//
+// Custom keywords + watchlist stocks are pulled from the Worker KV (NEWSFLOW_URL)
+// and merged in. Writes public/data/news.json; never blanks it.
 
 import {
   maybeSetupProxy,
@@ -17,6 +21,7 @@ import {
   loadKeywords,
   buildKeywordMatcher,
   isNoise,
+  isBlockedSource,
   mentionsCompany,
   googleNews,
   resolveUrl,
@@ -37,16 +42,27 @@ import { firecrawlNews } from './lib/firecrawl.mjs';
 
 const MUNS_TOKEN = process.env.MUNS_TOKEN || '';
 const FIRECRAWL_API_KEY = process.env.FIRECRAWL_API_KEY || '';
+const NEWSFLOW_URL = process.env.NEWSFLOW_URL || '';
+// Is the Claude brain available downstream? If so we can be loose here and let
+// enrich.mjs do the real keep/drop; if not, keep the interim feed keyword-clean.
+const BRAIN_ON = !!(process.env.BEDROCK_API_KEY && process.env.BEDROCK_MODEL_ID);
+
 const PER_COMPANY_CAP = 8;
 const UNIVERSE_PER_QUERY = 2;
+const MAX_UNIVERSE_QUERIES = 14;
 
-// Company-agnostic theme queries for the (light) Universe pass.
+// Company-agnostic theme queries for the Universe pass — global keyword stories
+// (R32 duty), plus sector/product themes derived from the portfolio.
 const UNIVERSE = [
   { q: '"R32 refrigerant" (anti-dumping OR duty OR import)', label: 'R32 Refrigerant', ticker: 'GLOBAL', sector: 'Chemicals', keyword: 'Anti-dumping duty' },
   { q: 'India defence exports order', label: 'India Defence Exports', ticker: 'MACRO', sector: 'Capital Goods', keyword: 'Order' },
   { q: '"optical fibre" (price OR demand OR shortage)', label: 'Optical Fibre', ticker: 'GLOBAL', sector: 'Telecom', keyword: 'Capex' },
   { q: 'PFAS fluorochemical regulation Europe', label: 'PFAS Regulation', ticker: 'GLOBAL', sector: 'Chemicals', keyword: 'Regulation' },
   { q: 'chlor-alkali caustic soda price India', label: 'Chlor-Alkali', ticker: 'GLOBAL', sector: 'Chemicals', keyword: 'Capex' },
+  { q: 'India specialty chemicals capacity expansion', label: 'Specialty Chemicals', ticker: 'THEME', sector: 'Chemicals', keyword: 'Capacity Expansion' },
+  { q: 'India pharma USFDA approval', label: 'Pharma Approvals', ticker: 'THEME', sector: 'Healthcare', keyword: 'Approval' },
+  { q: 'India transformer power equipment order', label: 'Power Equipment', ticker: 'THEME', sector: 'Capital Goods', keyword: 'Order' },
+  { q: 'India electronics manufacturing PLI capex', label: 'Electronics / PLI', ticker: 'THEME', sector: 'Consumer Durables', keyword: 'Capex' },
 ];
 
 const stat = {
@@ -57,6 +73,15 @@ const stat = {
   universeKept: 0,
 };
 
+function slugTicker(name) {
+  return (
+    String(name || '')
+      .toUpperCase()
+      .replace(/[^A-Z0-9]/g, '')
+      .slice(0, 12) || 'CUSTOM'
+  );
+}
+
 function titleKey(it) {
   return `${String(it.title || '').toLowerCase().replace(/\s+/g, ' ').trim()}|${String(
     it.company || '',
@@ -66,9 +91,11 @@ function titleKey(it) {
 function toNewsItem(raw, company, matcher) {
   const text = `${raw.title} ${raw.snippet || ''}`;
   if (!mentionsCompany(company, text)) return null; // must be about this company
-  const hit = matcher.match(text);
-  if (!hit) return null; // fundamental filter: must match a tracked keyword
   if (isNoise(raw.title)) return null; // crude price-noise pre-filter
+  if (isBlockedSource(raw.source, raw.link)) return null; // hard data/SEO blocklist
+  const hit = matcher.match(text); // HINT only (may be null)
+  // Fallback with no brain: require a literal keyword so the feed stays clean.
+  if (!BRAIN_ON && !hit) return null;
   const url = raw.link;
   return {
     id: 'n' + sha1short(normalizeUrl(url)),
@@ -80,17 +107,19 @@ function toNewsItem(raw, company, matcher) {
     url,
     source: raw.source || hostname(url),
     date: raw.date,
-    topic: hit.topic,
-    keyword: hit.keyword,
-    importance: 'medium', // TODO(Prompt 3): Claude sets real importance
-    mood: 'neutral', // TODO(Prompt 3): Claude sets real mood
+    topic: hit ? hit.topic : 'Other', // Claude refines in enrich.mjs
+    keyword: hit ? hit.keyword : '',
+    importance: 'medium', // enrich.mjs (Claude) sets the real value
+    mood: 'neutral',
     takeaway: cleanText(raw.snippet || raw.title, 180) || raw.title,
   };
 }
 
 function toUniverseItem(raw, cfg, matcher) {
   if (isNoise(raw.title)) return null;
+  if (isBlockedSource(raw.source, raw.link)) return null;
   const hit = matcher.match(`${raw.title} ${raw.snippet || ''}`);
+  if (!BRAIN_ON && !hit) return null; // keep universe clean when brain is off
   const url = raw.link;
   return {
     id: 'n' + sha1short(normalizeUrl(url)),
@@ -108,6 +137,27 @@ function toUniverseItem(raw, cfg, matcher) {
     mood: 'neutral',
     takeaway: cleanText(raw.snippet || raw.title, 180) || raw.title,
   };
+}
+
+// Pull custom keywords + watchlist stocks from the Worker KV (Prompt 3).
+async function fetchCustom() {
+  if (!NEWSFLOW_URL) return { keywords: [], stocks: [] };
+  try {
+    const res = await fetchWithTimeout(
+      `${NEWSFLOW_URL.replace(/\/$/, '')}/api/custom`,
+      { headers: { accept: 'application/json' } },
+      12000,
+    );
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const j = await res.json();
+    const keywords = Array.isArray(j.keywords) ? j.keywords.filter(Boolean) : [];
+    const stocks = Array.isArray(j.stocks) ? j.stocks : [];
+    console.log(`[custom] KV: ${keywords.length} keywords, ${stocks.length} stocks`);
+    return { keywords, stocks };
+  } catch (e) {
+    console.log(`[custom] fetch failed (${e.message}) — using base lists only.`);
+    return { keywords: [], stocks: [] };
+  }
 }
 
 let munsLogged = false;
@@ -177,9 +227,23 @@ function dedupeRun(items) {
 async function main() {
   await maybeSetupProxy();
 
-  const { all: companies } = loadCompanies();
+  const base = loadCompanies();
   const keywords = loadKeywords();
-  const matcher = buildKeywordMatcher(keywords);
+  const custom = await fetchCustom();
+
+  // Merge custom watchlist stocks into the company list.
+  const seenTickers = new Set(base.all.map((c) => c.ticker));
+  const customCompanies = [];
+  for (const s of custom.stocks) {
+    const name = (typeof s === 'string' ? s : s.name || '').trim();
+    if (!name) continue;
+    const ticker = (typeof s === 'object' && s.ticker) ? s.ticker : slugTicker(name);
+    if (seenTickers.has(ticker)) continue;
+    seenTickers.add(ticker);
+    customCompanies.push({ company: name, ticker, sector: '', scope: ['watchlist'] });
+  }
+  const companies = [...base.all, ...customCompanies];
+  const matcher = buildKeywordMatcher(keywords, custom.keywords);
 
   const existingEnv = readJSON(NEWS_PATH, { items: [] });
   // Prompt 1 shipped fabricated sample data; discard it on the first real run.
@@ -188,7 +252,9 @@ async function main() {
     console.log('[news] existing file is Prompt-1 sample — replacing with real data.');
   }
 
-  console.log(`[news] ${companies.length} companies · ${(keywords.base || []).length} keywords · Munshot ${MUNS_TOKEN ? 'ON' : 'off'}`);
+  console.log(
+    `[news] ${companies.length} companies (+${customCompanies.length} custom) · ${(keywords.base || []).length}+${custom.keywords.length} keywords · brain ${BRAIN_ON ? 'ON' : 'off'} · Munshot ${MUNS_TOKEN ? 'ON' : 'off'}`,
+  );
 
   /* ---- per-company pass ---- */
   const perCompany = await mapLimit(companies, 4, async (co) => {
@@ -233,8 +299,16 @@ async function main() {
 
   let incoming = perCompany.flat().filter(Boolean);
 
-  /* ---- universe pass (light, best-effort) ---- */
-  for (const cfg of UNIVERSE) {
+  /* ---- universe pass (themes + custom keywords) ---- */
+  const customUniverse = custom.keywords.map((kw) => ({
+    q: `${kw} India`,
+    label: kw,
+    ticker: 'THEME',
+    sector: '',
+    keyword: kw,
+  }));
+  const universeQueries = [...UNIVERSE, ...customUniverse].slice(0, MAX_UNIVERSE_QUERIES);
+  for (const cfg of universeQueries) {
     try {
       const g = await googleNews(`${cfg.q} when:30d`);
       const kept = [];
@@ -251,7 +325,7 @@ async function main() {
     }
   }
 
-  /* ---- dedupe, resolve to publisher URLs, dedupe again ---- */
+  /* ---- dedupe, resolve non-google URLs, dedupe again ---- */
   incoming = dedupeRun(incoming);
   await mapLimit(incoming, 6, async (it) => {
     const resolved = await resolveUrl(it.url);

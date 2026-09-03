@@ -53,6 +53,7 @@ export interface NewsItem {
   importance: Importance;
   mood: Mood;
   takeaway: string;
+  enriched?: boolean; // set by the Claude enrichment step (Prompt 3)
 }
 
 export interface NewsData {

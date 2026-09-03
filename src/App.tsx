@@ -8,6 +8,13 @@ import {
   getCustomWatchlist,
   setCustomWatchlist,
 } from './lib/storage';
+import {
+  loadCustom,
+  addKeywordRemote,
+  removeKeywordRemote,
+  addStockRemote,
+  removeStockRemote,
+} from './lib/api';
 import { TopBar } from './components/TopBar';
 import { Tabs, type TabKey } from './components/Tabs';
 import { AddPanel } from './components/AddPanel';
@@ -61,53 +68,68 @@ export default function App() {
     void fetchData();
   }, [fetchData]);
 
-  /* ---- customisation handlers (persisted) ---- */
+  // Load custom keywords / stocks from the Worker KV (falls back to the
+  // localStorage cache inside loadCustom if the API isn't reachable).
+  useEffect(() => {
+    void loadCustom().then(({ keywords, stocks }) => {
+      setCustomKeywordsState(keywords);
+      setCustomWatchlistState(stocks);
+    });
+  }, []);
+
+  /* ---- customisation handlers: state + localStorage cache + KV (best-effort) ---- */
   const addKeywords = useCallback(
     (words: string[]) => {
-      const base = new Set(
-        (data?.keywords.base ?? []).map((w) => w.toLowerCase()),
-      );
-      setCustomKeywordsState((prev) => {
-        const seen = new Set(prev.map((w) => w.toLowerCase()));
-        const merged = [...prev];
-        for (const w of words) {
-          const lw = w.toLowerCase();
-          if (!seen.has(lw) && !base.has(lw)) {
-            merged.push(w);
-            seen.add(lw);
-          }
+      const base = new Set((data?.keywords.base ?? []).map((w) => w.toLowerCase()));
+      const seen = new Set(customKeywords.map((w) => w.toLowerCase()));
+      const toAdd: string[] = [];
+      for (const w of words) {
+        const lw = w.toLowerCase();
+        if (!seen.has(lw) && !base.has(lw)) {
+          toAdd.push(w);
+          seen.add(lw);
         }
-        setCustomKeywords(merged);
-        return merged;
-      });
+      }
+      if (toAdd.length === 0) return;
+      const next = [...customKeywords, ...toAdd];
+      setCustomKeywordsState(next);
+      setCustomKeywords(next);
+      toAdd.forEach((w) => void addKeywordRemote(w));
     },
-    [data],
+    [data, customKeywords],
   );
 
-  const removeKeyword = useCallback((kw: string) => {
-    setCustomKeywordsState((prev) => {
-      const next = prev.filter((w) => w !== kw);
+  const removeKeyword = useCallback(
+    (kw: string) => {
+      const next = customKeywords.filter((w) => w !== kw);
+      setCustomKeywordsState(next);
       setCustomKeywords(next);
-      return next;
-    });
-  }, []);
+      void removeKeywordRemote(kw);
+    },
+    [customKeywords],
+  );
 
-  const addCompany = useCallback((c: Company) => {
-    setCustomWatchlistState((prev) => {
-      if (prev.some((x) => x.ticker === c.ticker)) return prev;
-      const next = [...prev, c];
+  const addCompany = useCallback(
+    (c: Company) => {
+      if (customWatchlist.some((x) => x.ticker === c.ticker)) return;
+      const next = [...customWatchlist, c];
+      setCustomWatchlistState(next);
       setCustomWatchlist(next);
-      return next;
-    });
-  }, []);
+      void addStockRemote(c);
+    },
+    [customWatchlist],
+  );
 
-  const removeCompany = useCallback((ticker: string) => {
-    setCustomWatchlistState((prev) => {
-      const next = prev.filter((x) => x.ticker !== ticker);
+  const removeCompany = useCallback(
+    (ticker: string) => {
+      const target = customWatchlist.find((x) => x.ticker === ticker);
+      const next = customWatchlist.filter((x) => x.ticker !== ticker);
+      setCustomWatchlistState(next);
       setCustomWatchlist(next);
-      return next;
-    });
-  }, []);
+      if (target) void removeStockRemote(target);
+    },
+    [customWatchlist],
+  );
 
   /* ---- derived data ---- */
   const newsItems = data?.news.items ?? [];

@@ -234,25 +234,30 @@ function escapeRe(s) {
   return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
 
-// Build a matcher from keywords.json. Longest keyword wins so multi-word
-// phrases ("Receipt of Order") beat their sub-words ("Order").
-export function buildKeywordMatcher(keywordsData) {
+// Build a matcher from keywords.json (+ optional custom keywords from KV).
+// Longest keyword wins so multi-word phrases ("Receipt of Order") beat their
+// sub-words ("Order"). In Prompt 3 a match is a HINT (topic guess), not a hard
+// gate — Claude assigns the final bucket. Custom keywords get topic "Other".
+export function buildKeywordMatcher(keywordsData, customKeywords = []) {
   const kw2topic = new Map();
-  for (const [topic, list] of Object.entries(keywordsData.buckets || {})) {
-    for (const kw of list) kw2topic.set(kw.toLowerCase(), topic);
-  }
-  // Ensure every base keyword is present (fallback topic Other).
-  for (const kw of keywordsData.base || []) {
-    if (!kw2topic.has(kw.toLowerCase())) kw2topic.set(kw.toLowerCase(), 'Other');
-  }
+  const display = new Map();
+  const add = (kw, topic) => {
+    const lc = String(kw || '').toLowerCase().trim();
+    if (!lc) return;
+    if (!kw2topic.has(lc)) kw2topic.set(lc, topic);
+    if (!display.has(lc))
+      display.set(lc, lc === 'qualified institutional placement' ? 'QIP' : kw);
+  };
+  for (const [topic, list] of Object.entries(keywordsData.buckets || {}))
+    for (const kw of list) add(kw, topic);
+  for (const kw of keywordsData.base || [])
+    add(kw, kw2topic.get(String(kw).toLowerCase()) || 'Other');
+  for (const kw of customKeywords) add(kw, 'Other'); // topic decided by Claude
+
   const entries = [...kw2topic.keys()]
     .map((lc) => ({
       lc,
-      // display keyword: canonicalise the QIP synonym
-      display:
-        lc === 'qualified institutional placement'
-          ? 'QIP'
-          : (keywordsData.base || []).find((b) => b.toLowerCase() === lc) || lc,
+      display: display.get(lc),
       topic: kw2topic.get(lc),
       re: new RegExp(`\\b${escapeRe(lc)}\\b`, 'i'),
     }))
@@ -315,6 +320,31 @@ const NOISE = [
 export function isNoise(title) {
   const t = String(title || '');
   return NOISE.some((re) => re.test(t));
+}
+
+// Hard blocklist of pure data / screener / SEO hosts — dropped BEFORE Claude to
+// save tokens (Claude still makes the nuanced call on everything else). Matched
+// against both the publisher name and the URL host.
+const BLOCKED_HOSTS = [
+  'simplywall',
+  'tradingview',
+  'marketscreener',
+  'wallmine',
+  'stockanalysis',
+  'tipranks',
+  'barchart',
+  'trendlyne',
+  'stockedge',
+  'screener.in',
+  'equitymaster',
+  'moneyworks4me',
+  'markets.businessinsider',
+];
+
+export function isBlockedSource(source, url) {
+  const s = String(source || '').toLowerCase();
+  const h = hostname(url).toLowerCase();
+  return BLOCKED_HOSTS.some((b) => s.includes(b) || h.includes(b));
 }
 
 /* ------------------------------------------------------------------ */
