@@ -22,8 +22,11 @@ not_found_handling = "single-page-application"
 binding = "NEWSFLOW_KV"
 id = "b5876a0f652543ab82dccd2b3464896c"
 
-# Hourly cron (Prompt 4): the Worker's scheduled() handler emails due
-# subscribers their newspaper digest once per day at their chosen IST hour.
-# (Registered automatically by the connected Workers Build on deploy.)
-[triggers]
-crons = ["0 * * * *"]
+# NOTE: the hourly digest is triggered by GitHub Actions (.github/workflows/
+# send-digests.yml), which POSTs to /api/run-digests every hour. That keeps the
+# feature fully automated WITHOUT consuming a Cloudflare cron slot — the Workers
+# Free plan caps the whole account at 5 cron triggers, and this account is at
+# that limit. The Worker still ships a scheduled() handler, so if the account is
+# ever upgraded you can re-enable a native trigger by uncommenting:
+#   [triggers]
+#   crons = ["0 * * * *"]

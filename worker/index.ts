@@ -27,6 +27,15 @@ export interface Env {
   SEND_EMPTY?: string; // "true" to email on quiet days
   SITE_URL?: string; // fallback origin for unsubscribe links (cron has no request)
   SEND_TEST_KEY?: string; // when set, unlocks GET /api/send-test?email=&key=
+  DIGEST_KEY?: string; // when set, unlocks POST /api/run-digests (the hourly trigger)
+}
+
+interface DigestSummary {
+  total: number; // subscriptions on file
+  due: number; // due this hour (right day, at/after hour, not yet sent today)
+  sent: number;
+  quiet: number; // due but no items — marked done for the day
+  failed: number;
 }
 
 const K_KEYWORDS = 'custom:keywords';
@@ -315,11 +324,12 @@ async function handleSendTest(request: Request, env: Env): Promise<Response> {
   return json({ ok, status });
 }
 
-async function runDigests(env: Env): Promise<void> {
+async function runDigests(env: Env): Promise<DigestSummary> {
+  const summary: DigestSummary = { total: 0, due: 0, sent: 0, quiet: 0, failed: 0 };
   const kv = env.NEWSFLOW_KV;
   if (!kv) {
     console.log('[cron] NEWSFLOW_KV not bound — no subscriptions to process.');
-    return;
+    return summary;
   }
   const ist = istParts();
 
@@ -349,9 +359,12 @@ async function runDigests(env: Env): Promise<void> {
     due.push({ key, sub });
   }
 
+  summary.total = keys.length;
+  summary.due = due.length;
+
   if (!due.length) {
     console.log(`[cron] IST ${ist.dateStr} ${ist.hour}:00 — no subscriptions due (${keys.length} total).`);
-    return;
+    return summary;
   }
 
   const news = (await readAsset(env, 'news.json')) || { items: [] };
@@ -367,6 +380,7 @@ async function runDigests(env: Env): Promise<void> {
       if (items.length === 0 && !sendEmptyFlag) {
         sub.lastSentDate = ist.dateStr; // quiet day handled for today
         await kv.put(key, JSON.stringify(sub));
+        summary.quiet++;
         console.log('[cron] quiet day — skipped', sub.email);
         continue;
       }
@@ -384,14 +398,39 @@ async function runDigests(env: Env): Promise<void> {
       if (sent.ok) {
         sub.lastSentDate = ist.dateStr;
         await kv.put(key, JSON.stringify(sub));
+        summary.sent++;
         console.log('[cron] sent', sub.email, `(${items.length} items)`);
       } else {
+        summary.failed++;
         console.log('[cron] send failed (will retry next hour):', sub.email);
       }
     } catch (e) {
+      summary.failed++;
       console.log('[cron] error for', sub.email, (e as Error).message);
     }
   }
+
+  console.log(
+    `[cron] IST ${ist.dateStr} ${ist.hour}:00 — ${summary.sent} sent, ${summary.quiet} quiet, ${summary.failed} failed (${summary.due}/${summary.total} due).`,
+  );
+  return summary;
+}
+
+/* ---------------- POST /api/run-digests (the hourly trigger) ----------------
+ * Runs the same digest loop as scheduled(), but over HTTP so GitHub Actions can
+ * drive it hourly (.github/workflows/send-digests.yml) — the Cloudflare Free
+ * plan caps the account at 5 cron triggers, so we don't spend one here. Locked
+ * behind DIGEST_KEY (a Worker secret), passed as the x-digest-key header or a
+ * ?key= param; returns 404 when the secret is unset or the key doesn't match so
+ * the subscriber blast can never be triggered anonymously. */
+async function handleRunDigests(request: Request, env: Env): Promise<Response> {
+  const url = new URL(request.url);
+  const provided = request.headers.get('x-digest-key') || url.searchParams.get('key') || '';
+  if (!env.DIGEST_KEY || provided !== env.DIGEST_KEY) {
+    return json({ ok: false, error: 'Not found', path: url.pathname }, 404);
+  }
+  const summary = await runDigests(env);
+  return json({ ok: true, ...summary });
 }
 
 export default {
@@ -402,6 +441,7 @@ export default {
     if (url.pathname === '/api/subscribe') return handleSubscribe(request, env);
     if (url.pathname === '/api/unsubscribe') return handleUnsubscribe(request, env);
     if (url.pathname === '/api/send-test') return handleSendTest(request, env);
+    if (url.pathname === '/api/run-digests') return handleRunDigests(request, env);
     if (url.pathname.startsWith('/api/')) return json({ ok: false, error: 'Not found', path: url.pathname }, 404);
 
     return env.ASSETS.fetch(request);
