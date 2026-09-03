@@ -7,10 +7,11 @@
 //     one-line takeaway (<=140 chars),
 //   - marks the item enriched:true. Dropped items are removed from news.json.
 //
-// Bedrock is called with raw HTTPS using a Bedrock API key (bearer token) — no
-// AWS SDK / SigV4 / AWS credentials. Everything is optional: if BEDROCK_API_KEY
-// or BEDROCK_MODEL_ID is missing this script is a NO-OP and items keep their
-// Prompt-2 defaults. It never breaks the pipeline and never blanks the file.
+// Bedrock is called with raw HTTPS to the Converse endpoint using a Bedrock API
+// key (bearer token) — no AWS SDK / SigV4 / AWS credentials — walking a model
+// fallback chain. It runs whenever BEDROCK_API_KEY is set (the model id is
+// optional, defaulting to the chain); with no key it is a NO-OP and items keep
+// their Prompt-2 defaults. It never breaks the pipeline and never blanks the file.
 //
 // Local testing without a key: set ENRICH_MOCK=1 to run a deterministic mock
 // classifier (no network) that exercises the exact keep/drop + write path.
@@ -27,9 +28,21 @@ import {
 } from './lib/util.mjs';
 
 const BEDROCK_API_KEY = process.env.BEDROCK_API_KEY || '';
-const BEDROCK_MODEL_ID = process.env.BEDROCK_MODEL_ID || '';
 const AWS_REGION = process.env.AWS_REGION || 'us-east-1';
 const MOCK = process.env.ENRICH_MOCK === '1';
+
+// Model fallback chain (matches techmuns/paramemo). Pin one with BEDROCK_MODEL_ID;
+// else a comma-separated BEDROCK_MODEL_IDS; else a default chain. The model id is
+// optional now — enrichment runs whenever BEDROCK_API_KEY is set.
+const MODEL_CHAIN = process.env.BEDROCK_MODEL_ID
+  ? [process.env.BEDROCK_MODEL_ID]
+  : process.env.BEDROCK_MODEL_IDS
+    ? process.env.BEDROCK_MODEL_IDS.split(',').map((s) => s.trim()).filter(Boolean)
+    : [
+        'anthropic.claude-sonnet-5',
+        'us.anthropic.claude-sonnet-5',
+        'us.anthropic.claude-sonnet-4-5-20250929-v1:0',
+      ];
 // TODO(optional): MISTRAL_API_KEY — a cheap first-pass keep/drop before Claude.
 // Left unimplemented on purpose; Claude is the authority.
 
@@ -72,45 +85,63 @@ function parseJsonArray(text) {
   }
 }
 
-// --- Bedrock InvokeModel (Anthropic Messages shape, bearer-token auth) ---
-async function classifyBedrock(batch, system) {
+// --- Bedrock Converse endpoint (bearer-token auth), one call ---
+async function converseOnce(modelId, system, userText) {
   const url = `https://bedrock-runtime.${AWS_REGION}.amazonaws.com/model/${encodeURIComponent(
-    BEDROCK_MODEL_ID,
-  )}/invoke`;
+    modelId,
+  )}/converse`;
   const body = {
-    anthropic_version: 'bedrock-2023-05-31',
-    max_tokens: 1500,
-    system,
-    messages: [
-      {
-        role: 'user',
-        content:
-          'Classify these news items for an Indian equity investor. Return ONLY a JSON array of {id, keep, topic, mood, importance, takeaway}, no prose.\n' +
-          JSON.stringify(batch),
-      },
-    ],
+    system: [{ text: system }],
+    messages: [{ role: 'user', content: [{ text: userText }] }],
+    inferenceConfig: { temperature: 0, maxTokens: 1500 },
   };
-  const res = await fetchWithTimeout(
+  return fetchWithTimeout(
     url,
     {
       method: 'POST',
       headers: {
-        authorization: `Bearer ${BEDROCK_API_KEY}`,
-        'content-type': 'application/json',
+        Authorization: `Bearer ${BEDROCK_API_KEY}`,
+        'Content-Type': 'application/json',
+        Accept: 'application/json',
       },
       body: JSON.stringify(body),
     },
     60000,
   );
-  if (!res.ok) {
-    const t = await res.text().catch(() => '');
-    throw new Error(`Bedrock HTTP ${res.status}: ${t.slice(0, 200)}`);
+}
+
+// Classify a batch, walking the model chain: 400/403/404 -> next id;
+// 429/5xx or network error -> retry the same id once, then next id.
+async function classifyBedrock(batch, system) {
+  const userText =
+    'Classify these news items for an Indian equity investor. Return ONLY a JSON array of {id, keep, topic, mood, importance, takeaway}, no prose.\n' +
+    JSON.stringify(batch);
+  let lastErr = 'no model attempted';
+  for (const modelId of MODEL_CHAIN) {
+    for (let attempt = 1; attempt <= 2; attempt++) {
+      let res = null;
+      try {
+        res = await converseOnce(modelId, system, userText);
+      } catch (e) {
+        lastErr = `${modelId}: ${e.message}`;
+        if (attempt === 1) continue; // network error — retry same id once
+        break; // then next id
+      }
+      if (res.ok) {
+        const data = await res.json().catch(() => null);
+        const parts = data?.output?.message?.content;
+        const text = Array.isArray(parts) ? parts.map((c) => c?.text || '').join('') : '';
+        return parseJsonArray(text);
+      }
+      lastErr = `${modelId}: HTTP ${res.status} ${(await res.text().catch(() => '')).slice(0, 160)}`;
+      if (res.status === 429 || res.status >= 500) {
+        if (attempt === 1) continue; // retry same id once
+        break; // then next id
+      }
+      break; // 400 / 403 / 404 / other — fall through to the next id
+    }
   }
-  const data = await res.json();
-  const text = Array.isArray(data?.content)
-    ? data.content.map((c) => c?.text || '').join('')
-    : data?.content?.[0]?.text || '';
-  return parseJsonArray(text);
+  throw new Error(`Bedrock converse failed — ${lastErr}`);
 }
 
 // --- Deterministic mock (ENRICH_MOCK=1) — a faithful local stand-in for Claude.
@@ -160,9 +191,9 @@ function chunk(arr, n) {
 }
 
 async function main() {
-  if (!MOCK && (!BEDROCK_API_KEY || !BEDROCK_MODEL_ID)) {
+  if (!MOCK && !BEDROCK_API_KEY) {
     console.log(
-      '[enrich] BEDROCK_API_KEY / BEDROCK_MODEL_ID not set — skipping (items keep Prompt-2 defaults). Set ENRICH_MOCK=1 to test locally.',
+      '[enrich] BEDROCK_API_KEY not set — skipping (items keep Prompt-2 defaults). Set ENRICH_MOCK=1 to test locally.',
     );
     return;
   }
@@ -191,7 +222,7 @@ async function main() {
   const preBlocked = dropIds.size;
 
   console.log(
-    `[enrich] ${items.length} items · ${candidates.length} to classify · ${preBlocked} pre-blocked · model ${MOCK ? 'MOCK' : BEDROCK_MODEL_ID}`,
+    `[enrich] ${items.length} items · ${candidates.length} to classify · ${preBlocked} pre-blocked · model ${MOCK ? 'MOCK' : MODEL_CHAIN.join(' → ')}`,
   );
 
   let enrichedCount = 0;
