@@ -179,7 +179,7 @@ async function munshotNews(query) {
         body: JSON.stringify({
           query,
           country: 'INDIA',
-          from_date: ymd(daysAgo(30)),
+          from_date: ymd(daysAgo(90)),
           to_date: ymd(new Date()),
         }),
       },
@@ -264,7 +264,7 @@ async function main() {
   const perCompany = await mapLimit(companies, 4, async (co) => {
     const out = [];
     try {
-      const g = await googleNews(`"${co.company}" when:30d`);
+      const g = await googleNews(`"${co.company}" when:90d`);
       for (const raw of g) {
         const it = toNewsItem(raw, co, matcher);
         if (it) {
@@ -325,7 +325,7 @@ async function main() {
   const universeQueries = [...UNIVERSE, ...customUniverse].slice(0, MAX_UNIVERSE_QUERIES);
   for (const cfg of universeQueries) {
     try {
-      const g = await googleNews(`${cfg.q} when:30d`);
+      const g = await googleNews(`${cfg.q} when:90d`);
       const kept = [];
       for (const raw of g) {
         const it = toUniverseItem(raw, cfg, matcher);
@@ -364,7 +364,7 @@ async function main() {
     return;
   }
 
-  const merged = mergeItems(existing, incoming, { retentionDays: 45, cap: 500 });
+  const merged = mergeItems(existing, incoming, { retentionDays: 100, cap: 500 });
   // Collapse near-duplicate stories so the feed never shows the same event twice.
   const finalItems = collapseDuplicates(merged.items).sort((a, b) =>
     String(b.date || '').localeCompare(String(a.date || '')),

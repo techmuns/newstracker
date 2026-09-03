@@ -36,6 +36,13 @@ jobs:
         working-directory: scrapers
         run: npm install
 
+      - name: Sync companies from Dhamma FO
+        continue-on-error: true
+        working-directory: scrapers
+        env:
+          DHAMMA_SYNC_TOKEN: ${{ secrets.DHAMMA_SYNC_TOKEN }}
+        run: node sync-companies.mjs
+
       - name: Scrape news (Google News + optional Munshot/Firecrawl)
         continue-on-error: true
         working-directory: scrapers
@@ -76,14 +83,14 @@ jobs:
           git config user.name "newsflow-bot"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          if git diff --quiet -- public/data/news.json public/data/filings.json; then
+          if git diff --quiet -- public/data/news.json public/data/filings.json public/data/companies.json; then
             echo "No data changes — nothing to commit."
             echo "changed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
 
-          git add public/data/news.json public/data/filings.json
-          git commit -m "chore(data): refresh news + filings"
+          git add public/data/news.json public/data/filings.json public/data/companies.json
+          git commit -m "chore(data): refresh companies + news + filings"
 
           n=0
           until [ "$n" -ge 4 ]; do
