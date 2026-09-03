@@ -93,17 +93,23 @@ zero items never blanks the file.
 
 Google News needs no key, so the news scraper always produces data.
 
-## Deployment (set up once, automated forever)
+## Deployment (Cloudflare Workers Builds — connected repo, automated forever)
 
-- **`.github/workflows/refresh-news.yml`** — weekday mornings (07:01 IST) and on
-  demand: runs the scrapers, commits the refreshed JSON to `main`, then triggers
-  the deploy. Add the optional secrets above once (Munshot/Firecrawl) to enrich
-  sources; without them Google News still populates the dashboard.
-- **`.github/workflows/deploy.yml`** — builds and deploys to Cloudflare Workers
-  on every push to `main`. One-time secrets (repo → Settings → Secrets →
-  Actions): `CLOUDFLARE_API_TOKEN` and `CLOUDFLARE_ACCOUNT_ID`.
+The repo is connected to **Cloudflare Workers Builds**, so **every push to
+`main` auto-deploys** — no GitHub secrets and no manual steps for deployment:
 
-After that, no manual steps are ever needed.
+- Cloudflare runs `npx wrangler deploy`; the `[build]` hook in `wrangler.toml`
+  builds the site first (`npm run build` → `dist/`), so nothing needs to be set
+  as a "build command" in the dashboard.
+- The Worker `name` in `wrangler.toml` (`newstracker`) matches the Cloudflare
+  project.
+- **`.github/workflows/refresh-news.yml`** — weekday mornings (07:01 IST) + on
+  demand: runs the scrapers and commits refreshed JSON to `main`; that push is
+  picked up by Workers Builds and deployed. Optional scraper secrets enrich the
+  sources (repo → Settings → Secrets → Actions): `MUNS_TOKEN`, `MUNS_EMAIL`,
+  `FIRECRAWL_API_KEY`. Without them, Google News still populates the dashboard.
+
+To deploy manually: `npm run deploy` (after `wrangler login`).
 
 ## Project structure
 
@@ -124,7 +130,7 @@ src/
   pages/             Pulse.tsx, Feed.tsx, Filings.tsx
   App.tsx main.tsx index.css
 worker/index.ts      Cloudflare Worker (serves dist/; /api/* reserved)
-.github/workflows/   refresh-news.yml, deploy.yml
+.github/workflows/   refresh-news.yml (scheduled scrape -> commit -> auto-deploy)
 ```
 
 ## Roadmap

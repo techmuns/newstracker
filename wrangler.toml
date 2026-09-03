@@ -1,10 +1,15 @@
-name = "newsflow"
+name = "newstracker"
 main = "worker/index.ts"
 compatibility_date = "2024-11-01"
 
+# Build the site before deploying. This runs automatically on `wrangler deploy`
+# (locally AND in Cloudflare Workers Builds), so the connected-repo deploy needs
+# no separate "build command" configured in the dashboard.
+[build]
+command = "npm run build"
+
 # Serve the built Vite site (dist/) as static assets. The Worker is the entry
-# point (see main above) so that /api/* routes can be added in later prompts
-# without changing the deploy setup.
+# point (see main above) so that /api/* routes can be added in later prompts.
 [assets]
 directory = "./dist"
 binding = "ASSETS"

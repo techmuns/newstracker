@@ -14,8 +14,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write # push the data commit
-  actions: write # dispatch deploy.yml after committing
+  contents: write # push the data commit (Cloudflare Workers Builds auto-deploys it)
 
 jobs:
   refresh:
@@ -88,10 +87,5 @@ jobs:
           echo "Push failed after 4 attempts."
           exit 1
 
-      - name: Trigger deploy
-        # A GITHUB_TOKEN push does not re-trigger deploy.yml's push event, so
-        # dispatch it explicitly whenever data actually changed.
-        if: steps.commit.outputs.changed == 'true'
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: gh workflow run deploy.yml --ref main
+    # Note: no explicit deploy step — the push to main above is picked up by
+    # Cloudflare Workers Builds (connected repo), which rebuilds and deploys.
