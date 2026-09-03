@@ -1,127 +1,612 @@
 {
-  "generated_at": "2026-09-03",
+  "generated_at": "2026-09-03T20:33:23.796Z",
   "portfolio": [
-    {"company":"Acutaas Chemicals Limited","ticker":"ACUTAAS","sector":"Healthcare"},
-    {"company":"Apsis Aerocom Limited","ticker":"APSISAERO","sector":"Capital Goods"},
-    {"company":"Cartrade Tech Limited","ticker":"CARTRADE","sector":"Consumer Services"},
-    {"company":"Epigral Limited","ticker":"EPIGRAL","sector":"Chemicals"},
-    {"company":"Jubilant Agri and Consumer Products Limited","ticker":"JUBLCPL","sector":"Chemicals"},
-    {"company":"KSH International Limited","ticker":"KSHINTL","sector":"Capital Goods"},
-    {"company":"Menon Bearings Limited","ticker":"MENONBE","sector":"Automobile and Auto Components"},
-    {"company":"Monolithisch India Limited","ticker":"MONOLITH","sector":"Capital Goods"},
-    {"company":"Omnitech Engineering Limited","ticker":"OMNI","sector":"Capital Goods"},
-    {"company":"Saregama India Limited","ticker":"SAREGAMA","sector":"Media Entertainment & Publication"},
-    {"company":"Senores Pharmaceuticals Limited","ticker":"SENORES","sector":"Healthcare"},
-    {"company":"Shadowfax Technologies Limited","ticker":"SHADOWFAX","sector":"Services"},
-    {"company":"Sterlite Technologies Limited","ticker":"STLTECH","sector":"Telecommunication"},
-    {"company":"Stylam Industries Limited","ticker":"STYLAMIND","sector":"Consumer Durables"},
-    {"company":"Sudeep Pharma Limited","ticker":"SUDEEPPHRM","sector":"Chemicals"},
-    {"company":"TANFAC Industries Ltd","ticker":"TANFACIND","sector":"Chemicals"},
-    {"company":"Tempsens Instruments (India) Limited","ticker":"TEMPSENS","sector":"Capital Goods"},
-    {"company":"Venus Remedies Limited","ticker":"VENUSREM","sector":"Healthcare"},
-    {"company":"Vivid Electromech Limited","ticker":"VIVIDEL","sector":"Capital Goods"},
-    {"company":"Xpro India Limited","ticker":"XPROINDIA","sector":"Capital Goods"},
-    {"company":"Yash Highvoltage Ltd","ticker":"YASHHV","sector":"Capital Goods"}
+    {
+      "company": "Monolithisch India Limited",
+      "ticker": "MONOLITH",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "Senores Pharmaceuticals Limited",
+      "ticker": "SENORES",
+      "sector": "Healthcare"
+    },
+    {
+      "company": "Menon Bearings Limited",
+      "ticker": "MENONBE",
+      "sector": "Automobile and Auto Components"
+    },
+    {
+      "company": "Vivid Electromech Limited",
+      "ticker": "VIVIDEL",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "Sterlite Technologies Limited",
+      "ticker": "STLTECH",
+      "sector": "Telecommunication"
+    },
+    {
+      "company": "Shadowfax Technologies Limited",
+      "ticker": "SHADOWFAX",
+      "sector": "Services"
+    },
+    {
+      "company": "Xpro India Limited",
+      "ticker": "XPROINDIA",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "KSH International Limited",
+      "ticker": "KSHINTL",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "Stylam Industries Limited",
+      "ticker": "STYLAMIND",
+      "sector": "Consumer Durables"
+    },
+    {
+      "company": "Apsis Aerocom Limited",
+      "ticker": "APSISAERO",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "Cartrade Tech Limited",
+      "ticker": "CARTRADE",
+      "sector": "Consumer Services"
+    },
+    {
+      "company": "Acutaas Chemicals Limited",
+      "ticker": "ACUTAAS",
+      "sector": "Healthcare"
+    },
+    {
+      "company": "Epigral Limited",
+      "ticker": "EPIGRAL",
+      "sector": "Chemicals"
+    },
+    {
+      "company": "Saregama India Limited",
+      "ticker": "SAREGAMA",
+      "sector": "Media Entertainment & Publication"
+    },
+    {
+      "company": "Omnitech Engineering Limited",
+      "ticker": "OMNI",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "Jubilant Agri and Consumer Products Limited",
+      "ticker": "JUBLCPL",
+      "sector": "Chemicals"
+    },
+    {
+      "company": "Tempsens Instruments (India) Limited",
+      "ticker": "TEMPSENS",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "Venus Remedies Limited",
+      "ticker": "VENUSREM",
+      "sector": "Healthcare"
+    },
+    {
+      "company": "Sudeep Pharma Limited",
+      "ticker": "SUDEEPPHRM",
+      "sector": "Chemicals"
+    },
+    {
+      "company": "Lumino Industries Limited",
+      "ticker": "LUMINO",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "TANFAC Industries Ltd",
+      "ticker": "TANFACIND",
+      "sector": "Chemicals"
+    },
+    {
+      "company": "Yash Highvoltage Ltd",
+      "ticker": "YASHHV",
+      "sector": "Capital Goods"
+    }
   ],
   "watchlist_exited": [
-    {"company":"Adcounty Media India Ltd","ticker":"ADCOUNTY","sector":"Media Entertainment & Publication"},
-    {"company":"Advait Energy Transitions Limited","ticker":"ADVAIT","sector":"Capital Goods"},
-    {"company":"Anawil Wire and Engineering Limited","ticker":"ANAWIL","sector":"Capital Goods"},
-    {"company":"Aptus Value Housing Finance India Limited","ticker":"APTUS","sector":"Financial Services"},
-    {"company":"Aurionpro Solutions Limited","ticker":"AURIONPRO","sector":"Information Technology"},
-    {"company":"Austere Systems Ltd","ticker":"AUSTERE","sector":"Information Technology"},
-    {"company":"Avantel Limited","ticker":"AVANTEL","sector":"Capital Goods"},
-    {"company":"Balu Forge Industries Limited","ticker":"BALUFORGE","sector":"Capital Goods"},
-    {"company":"Bharat Coking Coal Limited","ticker":"BHARATCOAL","sector":"Oil Gas & Consumable Fuels"},
-    {"company":"Billionbrains Garage Ventures Limited","ticker":"GROWW","sector":"Financial Services"},
-    {"company":"BLACKBUCK LIMITED","ticker":"BLACKBUCK","sector":"Services"},
-    {"company":"Caliber Mining and Logistics Limited","ticker":"CMLL","sector":"Oil Gas & Consumable Fuels"},
-    {"company":"Can Fin Homes Limited","ticker":"CANFINHOME","sector":"Financial Services"},
-    {"company":"Capitalnumbers Infotech Ltd","ticker":"CNINFOTECH","sector":"Information Technology"},
-    {"company":"Concord Biotech Limited","ticker":"CONCORDBIO","sector":"Healthcare"},
-    {"company":"Cosmo Ferrites Ltd","ticker":"COSMOFE","sector":"Capital Goods"},
-    {"company":"Current Infraprojects Limited","ticker":"CURRENT","sector":"Construction"},
-    {"company":"Dam Capital Advisors Limited","ticker":"DAMCAPITAL","sector":"Financial Services"},
-    {"company":"DEE Development Engineers Limited","ticker":"DEEDEV","sector":"Capital Goods"},
-    {"company":"Denta Water and Infra Solutions Limited","ticker":"DENTA","sector":"Utilities"},
-    {"company":"Devyani International Limited","ticker":"DEVYANI","sector":"Consumer Services"},
-    {"company":"Dhoot Transmission Limited","ticker":"DHOOTTRANS","sector":"Automobile and Auto Components"},
-    {"company":"Dixon Technologies (India) Limited","ticker":"DIXON","sector":"Consumer Durables"},
-    {"company":"Dynamatic Technologies Limited","ticker":"DYNAMATECH","sector":"Capital Goods"},
-    {"company":"E2E Networks Limited","ticker":"E2E","sector":"Information Technology"},
-    {"company":"EMA Partners India Limited","ticker":"EMAPARTNER","sector":"Services"},
-    {"company":"Faze Three Limited","ticker":"FAZE3Q","sector":"Textiles"},
-    {"company":"FlySBS Aviation Limited","ticker":"FLYSBS","sector":"Services"},
-    {"company":"Ganesh Benzoplast Limited","ticker":"GANESHBE","sector":"Oil Gas & Consumable Fuels"},
-    {"company":"Glen Industries Ltd","ticker":"GLEN","sector":"Capital Goods"},
-    {"company":"GMM Pfaudler Limited","ticker":"GMMPFAUDLR","sector":"Capital Goods"},
-    {"company":"Goldiam International Limited","ticker":"GOLDIAM","sector":"Consumer Durables"},
-    {"company":"Gulf Oil Lubricants India Limited","ticker":"GULFOILLUB","sector":"Oil Gas & Consumable Fuels"},
-    {"company":"Hariom Pipe Industries Limited","ticker":"HARIOMPIPE","sector":"Capital Goods"},
-    {"company":"Highway Infrastructure Limited","ticker":"HILINFRA","sector":"Services"},
-    {"company":"Hy-Tech Engineers Limited","ticker":"HTEL","sector":"Capital Goods"},
-    {"company":"Indo Farm Equipment Limited","ticker":"INDOFARM","sector":"Capital Goods"},
-    {"company":"INDO-MIM Limited","ticker":"INDOMIM","sector":"Capital Goods"},
-    {"company":"Inventurus Knowledge Solutions Limited","ticker":"IKS","sector":"Information Technology"},
-    {"company":"JD Cables Ltd","ticker":"JDCABLES","sector":"Capital Goods"},
-    {"company":"Jyoti CNC Automation Limited","ticker":"JYOTICNC","sector":"Capital Goods"},
-    {"company":"Kabra Jewels Limited","ticker":"KKJEWELS","sector":"Consumer Durables"},
-    {"company":"KPIT Technologies Limited","ticker":"KPITTECH","sector":"Information Technology"},
-    {"company":"LAPL Automotive Ltd","ticker":"LAPL","sector":"Automobile and Auto Components"},
-    {"company":"Laxmi Dental Limited","ticker":"LAXMIDENTL","sector":"Healthcare"},
-    {"company":"Lenskart Solutions Limited","ticker":"LENSKART","sector":"Consumer Services"},
-    {"company":"LG Electronics India Limited","ticker":"LGEINDIA","sector":"Consumer Durables"},
-    {"company":"Man Industries (India) Limited","ticker":"MANINDS","sector":"Capital Goods"},
-    {"company":"MAS Financial Services Limited","ticker":"MASFIN","sector":"Financial Services"},
-    {"company":"Medi Assist Healthcare Services Limited","ticker":"MEDIASSIST","sector":"Financial Services"},
-    {"company":"Meesho Limited","ticker":"MEESHO","sector":"Consumer Services"},
-    {"company":"Midwest Limited","ticker":"MIDWESTLTD","sector":"Consumer Durables"},
-    {"company":"Millworks Technologies Ltd","ticker":"MILLWORKS","sector":"Capital Goods"},
-    {"company":"Mold-Tek Packaging Limited","ticker":"MOLDTKPAC","sector":"Capital Goods"},
-    {"company":"Monarch Surveyors and Engineering Consultants Ltd","ticker":"MSECL","sector":"Services"},
-    {"company":"Mtar Technologies Limited","ticker":"MTARTECH","sector":"Capital Goods"},
-    {"company":"MV Electrosystems Limited","ticker":"MVELECTRO","sector":"Capital Goods"},
-    {"company":"Northern Arc Capital Limited","ticker":"NORTHARC","sector":"Financial Services"},
-    {"company":"One Mobikwik Systems Limited","ticker":"MOBIKWIK","sector":"Financial Services"},
-    {"company":"Onesource Specialty Pharma Limited","ticker":"ONESOURCE","sector":"Healthcare"},
-    {"company":"PDS Limited","ticker":"PDSL","sector":"Textiles"},
-    {"company":"Permanent Magnets Limited","ticker":"PERMAGN","sector":"Capital Goods"},
-    {"company":"Poojaa Precision Engg. Ltd","ticker":"PPEL","sector":"Automobile and Auto Components"},
-    {"company":"PVR INOX Limited","ticker":"PVRINOX","sector":"Media Entertainment & Publication"},
-    {"company":"Rajesh Power Services Ltd","ticker":"RAJESH","sector":"Utilities"},
-    {"company":"Rikhav Securities Ltd","ticker":"RIKHAV","sector":"Financial Services"},
-    {"company":"RPSG VENTURES LIMITED","ticker":"RPSGVENT","sector":"Services"},
-    {"company":"Rubicon Research Limited","ticker":"RUBICON","sector":"Healthcare"},
-    {"company":"Sai Life Sciences Limited","ticker":"SAILIFE","sector":"Healthcare"},
-    {"company":"Sapphire Foods India Limited","ticker":"SAPPHIRE","sector":"Consumer Services"},
-    {"company":"SBI Funds Management Limited","ticker":"SBIFUNDS","sector":"Financial Services"},
-    {"company":"Scoda Tubes Limited","ticker":"SCODATUBES","sector":"Capital Goods"},
-    {"company":"SG Mart Limited","ticker":"SGMART","sector":"Metals & Mining"},
-    {"company":"Shaily Engineering Plastics Limited","ticker":"SHAILY","sector":"Consumer Durables"},
-    {"company":"Shiprocket Limited","ticker":"SHIPROCKET","sector":"Services"},
-    {"company":"Shivalik Bimetal Controls Limited","ticker":"SBCL","sector":"Capital Goods"},
-    {"company":"Shree Refrigerations Ltd","ticker":"SHREEREF","sector":"Capital Goods"},
-    {"company":"Shri Ahimsa Naturals Limited","ticker":"SHRIAHIMSA","sector":"Fast Moving Consumer Goods"},
-    {"company":"SKY GOLD AND DIAMONDS LIMITED","ticker":"SKYGOLD","sector":"Consumer Durables"},
-    {"company":"Solar Industries India Limited","ticker":"SOLARINDS","sector":"Chemicals"},
-    {"company":"Sona BLW Precision Forgings Limited","ticker":"SONACOMS","sector":"Automobile and Auto Components"},
-    {"company":"Sonata Software Limited","ticker":"SONATSOFTW","sector":"Information Technology"},
-    {"company":"Spunweb Nonwoven Limited","ticker":"SPUNWEB","sector":"Textiles"},
-    {"company":"Standard Engineering Technology Limited","ticker":"SETL","sector":"Capital Goods"},
-    {"company":"Sunshine Pictures Limited","ticker":"SUNSHINE","sector":"Media Entertainment & Publication"},
-    {"company":"Surya Roshni Limited","ticker":"SURYAROSNI","sector":"Capital Goods"},
-    {"company":"Technocrats Plasma Systems Ltd","ticker":"TECHNOCRAT","sector":"Capital Goods"},
-    {"company":"Tenneco Clean Air India Limited","ticker":"TENNIND","sector":"Automobile and Auto Components"},
-    {"company":"Triveni Engineering & Industries Limited","ticker":"TRIVENI","sector":"Fast Moving Consumer Goods"},
-    {"company":"True Colors Ltd","ticker":"TRUECOLORS","sector":"Capital Goods"},
-    {"company":"Unimech Aerospace and Manufacturing Limited","ticker":"UNIMECH","sector":"Capital Goods"},
-    {"company":"Urban Company Limited","ticker":"URBANCO","sector":"Consumer Services"},
-    {"company":"Varun Beverages Limited","ticker":"VBL","sector":"Fast Moving Consumer Goods"},
-    {"company":"Vasa Denticity Limited","ticker":"DENTALKART","sector":"Healthcare"},
-    {"company":"Vedanta Aluminium Metal Limited","ticker":"VAML","sector":"Metals & Mining"},
-    {"company":"Virtuoso Optoelectronics Limited","ticker":"VOEPL","sector":"Consumer Durables"},
-    {"company":"Wockhardt Limited","ticker":"WOCKPHARMA","sector":"Healthcare"},
-    {"company":"Yasho Industries Limited","ticker":"YASHO","sector":"Chemicals"},
-    {"company":"Zen Technologies Limited","ticker":"ZENTEC","sector":"Capital Goods"}
+    {
+      "company": "Advait Energy Transitions Limited",
+      "ticker": "ADVAIT",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "Anawil Wire and Engineering Limited",
+      "ticker": "ANAWIL",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "Aptus Value Housing Finance India Limited",
+      "ticker": "APTUS",
+      "sector": "Financial Services"
+    },
+    {
+      "company": "Aurionpro Solutions Limited",
+      "ticker": "AURIONPRO",
+      "sector": "Information Technology"
+    },
+    {
+      "company": "Avantel Limited",
+      "ticker": "AVANTEL",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "Balu Forge Industries Limited",
+      "ticker": "BALUFORGE",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "Bharat Coking Coal Limited",
+      "ticker": "BHARATCOAL",
+      "sector": "Oil Gas & Consumable Fuels"
+    },
+    {
+      "company": "BLACKBUCK LIMITED",
+      "ticker": "BLACKBUCK",
+      "sector": "Services"
+    },
+    {
+      "company": "Can Fin Homes Limited",
+      "ticker": "CANFINHOME",
+      "sector": "Financial Services"
+    },
+    {
+      "company": "Caliber Mining and Logistics Limited",
+      "ticker": "CMLL",
+      "sector": "Oil Gas & Consumable Fuels"
+    },
+    {
+      "company": "Concord Biotech Limited",
+      "ticker": "CONCORDBIO",
+      "sector": "Healthcare"
+    },
+    {
+      "company": "Current Infraprojects Limited",
+      "ticker": "CURRENT",
+      "sector": "Construction"
+    },
+    {
+      "company": "Dam Capital Advisors Limited",
+      "ticker": "DAMCAPITAL",
+      "sector": "Financial Services"
+    },
+    {
+      "company": "DEE Development Engineers Limited",
+      "ticker": "DEEDEV",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "Denta Water and Infra Solutions Limited",
+      "ticker": "DENTA",
+      "sector": "Utilities"
+    },
+    {
+      "company": "Vasa Denticity Limited",
+      "ticker": "DENTALKART",
+      "sector": "Healthcare"
+    },
+    {
+      "company": "Devyani International Limited",
+      "ticker": "DEVYANI",
+      "sector": "Consumer Services"
+    },
+    {
+      "company": "Dhoot Transmission Limited",
+      "ticker": "DHOOTTRANS",
+      "sector": "Automobile and Auto Components"
+    },
+    {
+      "company": "Dixon Technologies (India) Limited",
+      "ticker": "DIXON",
+      "sector": "Consumer Durables"
+    },
+    {
+      "company": "Dynamatic Technologies Limited",
+      "ticker": "DYNAMATECH",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "E2E Networks Limited",
+      "ticker": "E2E",
+      "sector": "Information Technology"
+    },
+    {
+      "company": "EMA Partners India Limited",
+      "ticker": "EMAPARTNER",
+      "sector": "Services"
+    },
+    {
+      "company": "Faze Three Limited",
+      "ticker": "FAZE3Q",
+      "sector": "Textiles"
+    },
+    {
+      "company": "FlySBS Aviation Limited",
+      "ticker": "FLYSBS",
+      "sector": "Services"
+    },
+    {
+      "company": "Ganesh Benzoplast Limited",
+      "ticker": "GANESHBE",
+      "sector": "Oil Gas & Consumable Fuels"
+    },
+    {
+      "company": "GMM Pfaudler Limited",
+      "ticker": "GMMPFAUDLR",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "Goldiam International Limited",
+      "ticker": "GOLDIAM",
+      "sector": "Consumer Durables"
+    },
+    {
+      "company": "Billionbrains Garage Ventures Limited",
+      "ticker": "GROWW",
+      "sector": "Financial Services"
+    },
+    {
+      "company": "Gulf Oil Lubricants India Limited",
+      "ticker": "GULFOILLUB",
+      "sector": "Oil Gas & Consumable Fuels"
+    },
+    {
+      "company": "Hariom Pipe Industries Limited",
+      "ticker": "HARIOMPIPE",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "Highway Infrastructure Limited",
+      "ticker": "HILINFRA",
+      "sector": "Services"
+    },
+    {
+      "company": "Hy-Tech Engineers Limited",
+      "ticker": "HTEL",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "Inventurus Knowledge Solutions Limited",
+      "ticker": "IKS",
+      "sector": "Information Technology"
+    },
+    {
+      "company": "Indo Farm Equipment Limited",
+      "ticker": "INDOFARM",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "INDO-MIM Limited",
+      "ticker": "INDOMIM",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "Jyoti CNC Automation Limited",
+      "ticker": "JYOTICNC",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "Kabra Jewels Limited",
+      "ticker": "KKJEWELS",
+      "sector": "Consumer Durables"
+    },
+    {
+      "company": "KPIT Technologies Limited",
+      "ticker": "KPITTECH",
+      "sector": "Information Technology"
+    },
+    {
+      "company": "Laxmi Dental Limited",
+      "ticker": "LAXMIDENTL",
+      "sector": "Healthcare"
+    },
+    {
+      "company": "Lenskart Solutions Limited",
+      "ticker": "LENSKART",
+      "sector": "Consumer Services"
+    },
+    {
+      "company": "LG Electronics India Limited",
+      "ticker": "LGEINDIA",
+      "sector": "Consumer Durables"
+    },
+    {
+      "company": "Man Industries (India) Limited",
+      "ticker": "MANINDS",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "MAS Financial Services Limited",
+      "ticker": "MASFIN",
+      "sector": "Financial Services"
+    },
+    {
+      "company": "Medi Assist Healthcare Services Limited",
+      "ticker": "MEDIASSIST",
+      "sector": "Financial Services"
+    },
+    {
+      "company": "Meesho Limited",
+      "ticker": "MEESHO",
+      "sector": "Consumer Services"
+    },
+    {
+      "company": "Midwest Limited",
+      "ticker": "MIDWESTLTD",
+      "sector": "Consumer Durables"
+    },
+    {
+      "company": "One Mobikwik Systems Limited",
+      "ticker": "MOBIKWIK",
+      "sector": "Financial Services"
+    },
+    {
+      "company": "Mold-Tek Packaging Limited",
+      "ticker": "MOLDTKPAC",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "Mtar Technologies Limited",
+      "ticker": "MTARTECH",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "MV Electrosystems Limited",
+      "ticker": "MVELECTRO",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "Northern Arc Capital Limited",
+      "ticker": "NORTHARC",
+      "sector": "Financial Services"
+    },
+    {
+      "company": "Onesource Specialty Pharma Limited",
+      "ticker": "ONESOURCE",
+      "sector": "Healthcare"
+    },
+    {
+      "company": "PDS Limited",
+      "ticker": "PDSL",
+      "sector": "Textiles"
+    },
+    {
+      "company": "Permanent Magnets Limited",
+      "ticker": "PERMAGN",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "PVR INOX Limited",
+      "ticker": "PVRINOX",
+      "sector": "Media Entertainment & Publication"
+    },
+    {
+      "company": "RPSG VENTURES LIMITED",
+      "ticker": "RPSGVENT",
+      "sector": "Services"
+    },
+    {
+      "company": "Rubicon Research Limited",
+      "ticker": "RUBICON",
+      "sector": "Healthcare"
+    },
+    {
+      "company": "Sai Life Sciences Limited",
+      "ticker": "SAILIFE",
+      "sector": "Healthcare"
+    },
+    {
+      "company": "Sapphire Foods India Limited",
+      "ticker": "SAPPHIRE",
+      "sector": "Consumer Services"
+    },
+    {
+      "company": "Shivalik Bimetal Controls Limited",
+      "ticker": "SBCL",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "SBI Funds Management Limited",
+      "ticker": "SBIFUNDS",
+      "sector": "Financial Services"
+    },
+    {
+      "company": "Scoda Tubes Limited",
+      "ticker": "SCODATUBES",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "Standard Engineering Technology Limited",
+      "ticker": "SETL",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "SG Mart Limited",
+      "ticker": "SGMART",
+      "sector": "Metals & Mining"
+    },
+    {
+      "company": "Shaily Engineering Plastics Limited",
+      "ticker": "SHAILY",
+      "sector": "Consumer Durables"
+    },
+    {
+      "company": "Shiprocket Limited",
+      "ticker": "SHIPROCKET",
+      "sector": "Services"
+    },
+    {
+      "company": "Shri Ahimsa Naturals Limited",
+      "ticker": "SHRIAHIMSA",
+      "sector": "Fast Moving Consumer Goods"
+    },
+    {
+      "company": "SKY GOLD AND DIAMONDS LIMITED",
+      "ticker": "SKYGOLD",
+      "sector": "Consumer Durables"
+    },
+    {
+      "company": "Solar Industries India Limited",
+      "ticker": "SOLARINDS",
+      "sector": "Chemicals"
+    },
+    {
+      "company": "Sona BLW Precision Forgings Limited",
+      "ticker": "SONACOMS",
+      "sector": "Automobile and Auto Components"
+    },
+    {
+      "company": "Sonata Software Limited",
+      "ticker": "SONATSOFTW",
+      "sector": "Information Technology"
+    },
+    {
+      "company": "Spunweb Nonwoven Limited",
+      "ticker": "SPUNWEB",
+      "sector": "Textiles"
+    },
+    {
+      "company": "Sunshine Pictures Limited",
+      "ticker": "SUNSHINE",
+      "sector": "Media Entertainment & Publication"
+    },
+    {
+      "company": "Surya Roshni Limited",
+      "ticker": "SURYAROSNI",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "Tenneco Clean Air India Limited",
+      "ticker": "TENNIND",
+      "sector": "Automobile and Auto Components"
+    },
+    {
+      "company": "Triveni Engineering & Industries Limited",
+      "ticker": "TRIVENI",
+      "sector": "Fast Moving Consumer Goods"
+    },
+    {
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "ticker": "UNIMECH",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "Urban Company Limited",
+      "ticker": "URBANCO",
+      "sector": "Consumer Services"
+    },
+    {
+      "company": "Vedanta Aluminium Metal Limited",
+      "ticker": "VAML",
+      "sector": "Metals & Mining"
+    },
+    {
+      "company": "Varun Beverages Limited",
+      "ticker": "VBL",
+      "sector": "Fast Moving Consumer Goods"
+    },
+    {
+      "company": "Virtuoso Optoelectronics Limited",
+      "ticker": "VOEPL",
+      "sector": "Consumer Durables"
+    },
+    {
+      "company": "Wockhardt Limited",
+      "ticker": "WOCKPHARMA",
+      "sector": "Healthcare"
+    },
+    {
+      "company": "Yasho Industries Limited",
+      "ticker": "YASHO",
+      "sector": "Chemicals"
+    },
+    {
+      "company": "Zen Technologies Limited",
+      "ticker": "ZENTEC",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "Adcounty Media India Ltd",
+      "ticker": "ADCOUNTY",
+      "sector": "Media Entertainment & Publication"
+    },
+    {
+      "company": "Austere Systems Ltd",
+      "ticker": "AUSTERE",
+      "sector": "Information Technology"
+    },
+    {
+      "company": "Capitalnumbers Infotech Ltd",
+      "ticker": "CNINFOTECH",
+      "sector": "Information Technology"
+    },
+    {
+      "company": "Cosmo Ferrites Ltd",
+      "ticker": "COSMOFE",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "Glen Industries Ltd",
+      "ticker": "GLEN",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "JD Cables Ltd",
+      "ticker": "JDCABLES",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "LAPL Automotive Ltd",
+      "ticker": "LAPL",
+      "sector": "Automobile and Auto Components"
+    },
+    {
+      "company": "Millworks Technologies Ltd",
+      "ticker": "MILLWORKS",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "Monarch Surveyors and Engineering Consultants Ltd",
+      "ticker": "MSECL",
+      "sector": "Services"
+    },
+    {
+      "company": "Poojaa Precision Engg. Ltd",
+      "ticker": "PPEL",
+      "sector": "Automobile and Auto Components"
+    },
+    {
+      "company": "Rajesh Power Services Ltd",
+      "ticker": "RAJESH",
+      "sector": "Utilities"
+    },
+    {
+      "company": "Rikhav Securities Ltd",
+      "ticker": "RIKHAV",
+      "sector": "Financial Services"
+    },
+    {
+      "company": "Shree Refrigerations Ltd",
+      "ticker": "SHREEREF",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "Technocrats Plasma Systems Ltd",
+      "ticker": "TECHNOCRAT",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "True Colors Ltd",
+      "ticker": "TRUECOLORS",
+      "sector": "Capital Goods"
+    }
   ]
 }
