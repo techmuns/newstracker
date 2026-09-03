@@ -2,7 +2,7 @@ name: Refresh News Data
 
 # Scrapes fundamental news (Google News backbone + optional Munshot/Firecrawl)
 # and NSE/BSE filings (Munshot), then commits the refreshed JSON back to main.
-# Runs weekday mornings at 07:01 IST (01:31 UTC) and on demand.
+# Runs twice daily at 08:01 and 20:01 IST (02:31 / 14:31 UTC) and on demand.
 #
 # ALL secrets are OPTIONAL — Google News needs no key, so the news scraper
 # always produces data. MUNS_TOKEN/MUNS_EMAIL add Munshot news + filings;
@@ -10,7 +10,7 @@ name: Refresh News Data
 
 on:
   schedule:
-    - cron: '31 1 * * 1-5' # 07:01 IST, Mon–Fri (set off the quarter-hour)
+    - cron: '31 2,14 * * *' # 08:01 and 20:01 IST, every day (off the quarter-hour)
   workflow_dispatch:
 
 permissions:

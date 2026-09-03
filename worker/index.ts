@@ -28,6 +28,7 @@ export interface Env {
   SITE_URL?: string; // fallback origin for unsubscribe links (cron has no request)
   SEND_TEST_KEY?: string; // when set, unlocks GET /api/send-test?email=&key=
   DIGEST_KEY?: string; // when set, unlocks POST /api/run-digests (the hourly trigger)
+  GH_DISPATCH_TOKEN?: string; // when set, POST /api/refresh dispatches the scrape workflow
 }
 
 interface DigestSummary {
@@ -43,6 +44,16 @@ const K_STOCKS = 'custom:stocks';
 const CAP = 200;
 const EMAIL_RE = /^[^@\s]+@[^@\s]+\.[^@\s]+$/;
 const DEFAULT_EMAIL_ENDPOINT = 'https://devde.muns.io/email/send/raw';
+
+// On-demand refresh (POST /api/refresh): dispatch the GitHub Actions scrape.
+const REFRESH_WORKFLOW = 'refresh-news.yml';
+const REFRESH_DISPATCH_URL = `https://api.github.com/repos/techmuns/newstracker/actions/workflows/${REFRESH_WORKFLOW}/dispatches`;
+const REFRESH_COOLDOWN_SEC = 300; // at most one dispatch per 5 minutes
+const K_REFRESH_LAST = 'refresh:last';
+
+// "Email me this edition now" (POST /api/send-now): per-email hourly cap.
+const SENDNOW_MAX_PER_HOUR = 3;
+const SENDNOW_WINDOW_SEC = 3600;
 
 interface Stock {
   name: string;
@@ -433,6 +444,105 @@ async function handleRunDigests(request: Request, env: Env): Promise<Response> {
   return json({ ok: true, ...summary });
 }
 
+/* ---------------- POST /api/refresh (on-demand scrape) ----------------
+ * Lets a visitor pull fresh stories on demand by dispatching the refresh-news
+ * GitHub Actions workflow. Rate-limited to one dispatch per 5 minutes via KV.
+ * Never 500s: a missing token or a GitHub error is reported as { ok:false, reason }. */
+async function handleRefresh(request: Request, env: Env): Promise<Response> {
+  if (request.method !== 'POST') return json({ ok: false, error: 'POST only' }, 405);
+  if (!env.GH_DISPATCH_TOKEN) return json({ ok: false, reason: 'not_configured' });
+
+  const kv = env.NEWSFLOW_KV;
+  if (kv) {
+    const last = Number((await kv.get(K_REFRESH_LAST)) || 0);
+    const elapsed = (Date.now() - last) / 1000;
+    if (last && elapsed < REFRESH_COOLDOWN_SEC) {
+      return json({ ok: false, reason: 'cooldown', retryInSec: Math.ceil(REFRESH_COOLDOWN_SEC - elapsed) });
+    }
+  }
+
+  try {
+    const res = await fetch(REFRESH_DISPATCH_URL, {
+      method: 'POST',
+      headers: {
+        Authorization: `Bearer ${env.GH_DISPATCH_TOKEN}`,
+        Accept: 'application/vnd.github+json',
+        'User-Agent': 'newsflow',
+        'X-GitHub-Api-Version': '2022-11-28',
+      },
+      body: JSON.stringify({ ref: 'main' }),
+    });
+    if (res.status === 204) {
+      if (kv) await kv.put(K_REFRESH_LAST, String(Date.now()), { expirationTtl: REFRESH_COOLDOWN_SEC });
+      return json({ ok: true });
+    }
+    const text = await res.text().catch(() => '');
+    console.log(`[refresh] dispatch failed · HTTP ${res.status} · ${text.slice(0, 200)}`);
+    return json({ ok: false, reason: 'dispatch_failed', status: res.status });
+  } catch (e) {
+    console.log('[refresh] error:', (e as Error).message);
+    return json({ ok: false, reason: 'error' });
+  }
+}
+
+/* ---------------- POST /api/send-now (email me this edition) ----------------
+ * Renders the current newspaper (portfolio + watchlist) from news.json and
+ * emails it once to { email } via the Munshot Raw Email API. Capped at 3 sends
+ * per email per hour via KV (sliding window). Returns { ok, status }. */
+async function handleSendNow(request: Request, env: Env): Promise<Response> {
+  if (request.method !== 'POST') return json({ ok: false, error: 'POST only' }, 405);
+
+  let body: { email?: string };
+  try {
+    body = (await request.json()) as typeof body;
+  } catch {
+    return json({ ok: false, error: 'Invalid JSON body' }, 400);
+  }
+  const to = String(body.email || '').trim().toLowerCase();
+  if (!EMAIL_RE.test(to)) return json({ ok: false, error: 'Please enter a valid email address.' }, 400);
+
+  // Per-email hourly rate limit (sliding window of send timestamps in KV).
+  const kv = env.NEWSFLOW_KV;
+  let rlKey = '';
+  let stamps: number[] = [];
+  if (kv) {
+    rlKey = 'sendnow:' + (await sha256hex(to));
+    const now = Date.now();
+    try {
+      const raw = await kv.get(rlKey);
+      stamps = raw ? (JSON.parse(raw) as number[]) : [];
+    } catch {
+      stamps = [];
+    }
+    stamps = stamps.filter((t) => now - t < SENDNOW_WINDOW_SEC * 1000);
+    if (stamps.length >= SENDNOW_MAX_PER_HOUR) return json({ ok: false, reason: 'rate_limited' });
+  }
+
+  const feeds = ['portfolio', 'watchlist'];
+  const news = (await readAsset(env, 'news.json')) || { items: [] };
+  const allItems: any[] = Array.isArray(news.items) ? news.items : [];
+  const items = selectItems(allItems, feeds, 14);
+  const nowIso = new Date().toISOString();
+  const origin = (new URL(request.url).origin || env.SITE_URL || '').replace(/\/$/, '');
+  const htmlBody = renderNewspaper({
+    items,
+    feeds,
+    days: 'daily',
+    hour: istParts().hour,
+    unsubUrl: `${origin}/api/unsubscribe?token=preview`,
+    nowIso,
+  });
+  const subject = buildSubject(items.length, feeds, nowIso);
+  const { ok, status } = await sendEmail(env, to, subject, htmlBody);
+
+  // Count the attempt so the endpoint can't be hammered (any post-validation call).
+  if (kv && rlKey) {
+    stamps.push(Date.now());
+    await kv.put(rlKey, JSON.stringify(stamps), { expirationTtl: SENDNOW_WINDOW_SEC });
+  }
+  return json({ ok, status });
+}
+
 export default {
   async fetch(request: Request, env: Env): Promise<Response> {
     const url = new URL(request.url);
@@ -442,6 +552,8 @@ export default {
     if (url.pathname === '/api/unsubscribe') return handleUnsubscribe(request, env);
     if (url.pathname === '/api/send-test') return handleSendTest(request, env);
     if (url.pathname === '/api/run-digests') return handleRunDigests(request, env);
+    if (url.pathname === '/api/refresh') return handleRefresh(request, env);
+    if (url.pathname === '/api/send-now') return handleSendNow(request, env);
     if (url.pathname.startsWith('/api/')) return json({ ok: false, error: 'Not found', path: url.pathname }, 404);
 
     return env.ASSETS.fetch(request);

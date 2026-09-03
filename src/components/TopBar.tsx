@@ -1,4 +1,4 @@
-import { Plus, RefreshCw, Newspaper } from 'lucide-react';
+import { Plus, RefreshCw, Newspaper, Rss } from 'lucide-react';
 import type { FeedKey } from '../lib/types';
 import { formatShortStamp } from '../lib/format';
 import { FeedToggle } from './FeedToggle';
@@ -9,18 +9,24 @@ export function TopBar({
   onFeedChange,
   lastUpdated,
   refreshing,
+  refreshDisabled,
+  refreshNote,
   onRefresh,
   onOpenAdd,
   onOpenSubscribe,
+  onOpenSources,
 }: {
   feed: FeedKey;
   feedCounts: Record<FeedKey, number>;
   onFeedChange: (f: FeedKey) => void;
   lastUpdated?: string;
   refreshing: boolean;
+  refreshDisabled?: boolean;
+  refreshNote?: string | null;
   onRefresh: () => void;
   onOpenAdd: () => void;
   onOpenSubscribe: () => void;
+  onOpenSources: () => void;
 }) {
   return (
     <header className="sticky top-0 z-30 border-b border-slate-200/70 bg-white/80 backdrop-blur-md">
@@ -57,12 +63,20 @@ export function TopBar({
           )}
           <button
             onClick={onRefresh}
-            title="Refresh data"
-            className="inline-flex h-9 w-9 items-center justify-center rounded-lg text-slate-500 ring-1 ring-slate-200 transition hover:bg-slate-50 hover:text-slate-800"
+            disabled={refreshDisabled}
+            title="Refresh — reload data and fetch new stories"
+            className="inline-flex h-9 w-9 items-center justify-center rounded-lg text-slate-500 ring-1 ring-slate-200 transition hover:bg-slate-50 hover:text-slate-800 disabled:cursor-not-allowed disabled:opacity-50"
           >
             <RefreshCw
               className={`h-4 w-4 ${refreshing ? 'animate-spin' : ''}`}
             />
+          </button>
+          <button
+            onClick={onOpenSources}
+            className="inline-flex items-center gap-1.5 rounded-lg px-3 py-2 text-sm font-bold text-slate-600 ring-1 ring-slate-200 transition hover:bg-slate-50 hover:text-slate-900"
+          >
+            <Rss className="h-4 w-4" />
+            <span className="hidden sm:inline">Sources</span>
           </button>
           <button
             onClick={onOpenSubscribe}
@@ -80,6 +94,15 @@ export function TopBar({
           </button>
         </div>
       </div>
+
+      {refreshNote && (
+        <div className="border-t border-indigo-100 bg-indigo-50/70">
+          <div className="mx-auto flex max-w-7xl items-center gap-1.5 px-4 py-1.5 sm:px-6">
+            <RefreshCw className="h-3 w-3 shrink-0 text-indigo-500" />
+            <p className="text-xs font-medium text-indigo-700">{refreshNote}</p>
+          </div>
+        </div>
+      )}
     </header>
   );
 }

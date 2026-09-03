@@ -14,11 +14,13 @@ import {
   removeKeywordRemote,
   addStockRemote,
   removeStockRemote,
+  requestRefresh,
 } from './lib/api';
 import { TopBar } from './components/TopBar';
 import { Tabs, type TabKey } from './components/Tabs';
 import { AddPanel } from './components/AddPanel';
 import { SubscribePanel } from './components/SubscribePanel';
+import { SourcesPanel } from './components/SourcesPanel';
 import { Pulse } from './pages/Pulse';
 import { Feed } from './pages/Feed';
 import { Filings } from './pages/Filings';
@@ -43,6 +45,9 @@ export default function App() {
   const [tab, setTab] = useState<TabKey>('pulse');
   const [addOpen, setAddOpen] = useState(false);
   const [subscribeOpen, setSubscribeOpen] = useState(false);
+  const [sourcesOpen, setSourcesOpen] = useState(false);
+  const [refreshNote, setRefreshNote] = useState<string | null>(null);
+  const [refreshCooling, setRefreshCooling] = useState(false);
 
   const [customKeywords, setCustomKeywordsState] = useState<string[]>(() =>
     getCustomKeywords(),
@@ -68,6 +73,24 @@ export default function App() {
 
   useEffect(() => {
     void fetchData();
+  }, [fetchData]);
+
+  // Refresh button: reload the latest committed data (as before) AND ask the
+  // Worker to dispatch a fresh scrape. Degrades silently when the dispatch
+  // isn't configured — the data reload still happens.
+  const handleRefresh = useCallback(async () => {
+    await fetchData(true);
+    const r = await requestRefresh();
+    if (r.ok) {
+      setRefreshNote('Refreshing — new stories appear in ~5 minutes.');
+      setRefreshCooling(true);
+      window.setTimeout(() => setRefreshCooling(false), 8000);
+      window.setTimeout(() => setRefreshNote(null), 12000);
+    } else if (r.reason === 'cooldown') {
+      const mins = Math.max(1, Math.ceil((r.retryInSec ?? 300) / 60));
+      setRefreshNote(`Just refreshed — new stories are on the way. Try again in ~${mins} min.`);
+      window.setTimeout(() => setRefreshNote(null), 6000);
+    }
   }, [fetchData]);
 
   // Load custom keywords / stocks from the Worker KV (falls back to the
@@ -173,9 +196,12 @@ export default function App() {
         onFeedChange={setFeed}
         lastUpdated={data?.news.generated_at}
         refreshing={refreshing}
-        onRefresh={() => void fetchData(true)}
+        refreshDisabled={refreshing || refreshCooling}
+        refreshNote={refreshNote}
+        onRefresh={() => void handleRefresh()}
         onOpenAdd={() => setAddOpen(true)}
         onOpenSubscribe={() => setSubscribeOpen(true)}
+        onOpenSources={() => setSourcesOpen(true)}
       />
 
       <main className="mx-auto max-w-7xl px-4 py-5 sm:px-6">
@@ -234,6 +260,12 @@ export default function App() {
       )}
 
       <SubscribePanel open={subscribeOpen} onClose={() => setSubscribeOpen(false)} />
+
+      <SourcesPanel
+        open={sourcesOpen}
+        onClose={() => setSourcesOpen(false)}
+        items={newsItems}
+      />
     </div>
   );
 }

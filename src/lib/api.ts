@@ -92,3 +92,47 @@ export async function subscribe(input: SubscribeInput): Promise<{ ok: boolean; e
     return { ok: false, error: 'Could not reach the server — is the site deployed?' };
   }
 }
+
+/* ---- on-demand refresh: trigger a fresh scrape (Prompt 5) ---- */
+export interface RefreshResult {
+  ok: boolean;
+  reason?: 'not_configured' | 'cooldown' | 'dispatch_failed' | 'error';
+  retryInSec?: number;
+  status?: number;
+}
+
+export async function requestRefresh(): Promise<RefreshResult> {
+  try {
+    const res = await fetch('/api/refresh', {
+      method: 'POST',
+      headers: { 'content-type': 'application/json' },
+    });
+    const j = (await res.json().catch(() => ({}))) as RefreshResult;
+    return { ok: !!j.ok, reason: j.reason, retryInSec: j.retryInSec, status: j.status };
+  } catch {
+    return { ok: false, reason: 'error' };
+  }
+}
+
+/* ---- "email me this edition now" (Prompt 5) ---- */
+export interface SendNowResult {
+  ok: boolean;
+  status?: number;
+  reason?: 'rate_limited';
+  error?: string;
+}
+
+export async function sendNow(email: string): Promise<SendNowResult> {
+  try {
+    const res = await fetch('/api/send-now', {
+      method: 'POST',
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({ email }),
+    });
+    const j = (await res.json().catch(() => ({}))) as SendNowResult;
+    if (res.ok && j.ok) return { ok: true, status: j.status };
+    return { ok: false, status: j.status, reason: j.reason, error: j.error };
+  } catch {
+    return { ok: false, error: 'Could not reach the server — is the site deployed?' };
+  }
+}
