@@ -16,15 +16,11 @@ binding = "ASSETS"
 # Fall back to index.html for unknown paths (single-page app behaviour).
 not_found_handling = "single-page-application"
 
-# KV "memory" for the add-keyword / add-stock boxes (Prompt 3), which the
-# scraper also reads. ONE-TIME setup (then automatic forever):
-#   npx wrangler kv namespace create NEWSFLOW_KV
-# Paste the printed id below and UNCOMMENT these three lines, then push.
-# Until configured, the Worker's /api/custom returns empty and the add-boxes
-# fall back to localStorage — so leaving this commented never breaks the deploy.
-# [[kv_namespaces]]
-# binding = "NEWSFLOW_KV"
-# id = "<paste-the-id-here>"
+# KV "memory" for the add-keyword / add-stock boxes and email subscriptions,
+# which the scraper also reads (/api/custom, /api/subscribe).
+[[kv_namespaces]]
+binding = "NEWSFLOW_KV"
+id = "b5876a0f652543ab82dccd2b3464896c"
 
 # Hourly cron (Prompt 4): the Worker's scheduled() handler emails due
 # subscribers their newspaper digest once per day at their chosen IST hour.
