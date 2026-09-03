@@ -1,30 +1,149 @@
 {
-  "generated_at": "2026-09-03T13:59:59.237Z",
-  "source": "google-news",
+  "generated_at": "2026-09-03T18:40:05.674Z",
+  "source": "google-news+valuepickr+claude",
   "counts": {
-    "portfolio": 2,
-    "watchlist": 24,
-    "universe": 6,
-    "total": 30
+    "portfolio": 8,
+    "watchlist": 38,
+    "universe": 5,
+    "total": 43
   },
   "items": [
     {
-      "id": "n26b4fba941bd",
-      "ticker": "THEME",
-      "company": "Electronics / PLI",
-      "sector": "Consumer Durables",
+      "id": "n670de570d471",
+      "ticker": "STLTECH",
+      "company": "Sterlite Technologies",
+      "sector": "Telecom",
       "scope": [
-        "universe"
+        "portfolio",
+        "watchlist"
       ],
-      "title": "India’s private capex moderates 2.8% to Rs 11.9 lakh crore in FY26 after record high in FY25: Report",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYm01N3E4Wk9FZlg0N01DdmJVR3lXNG5TVl9UbjROdW40a0JaZ3FOaEV3TWR4S2Q4SEsyUGMwaW5kdERmZVMwbjY5ZmRlV19iZXFzLTRLQ29JUm1jUU9EV0VSTmdTa01ObjJldTlaM0dURHlWUU9vcnVaZ3kxMVVRcWF1ZWZzWDk1VXMtTWRfMnNDM0pQRy1xb3ZmN0k5YXFjcTVNWG05bXVOcTFqN0g1bFF0MHVMa05mZF9OTEFRdHhibXEwdG5fUnRpUEgxWWdka2toRnhZMnFQQ3VMYkhiRG9PWdIB6AFBVV95cUxNUzAxb0NyNUhrLXRfejVnNHltcEhDQ3pDZmZWZjFkRHU3LXB1cV8tZERVV0tjTWRHMlVFSmhLY2JybDVtNFhKYzJHVnhjMlVycEVrcFgwajVWT3gxZnB5UXRmLXZyTFhicnRPTTJPSDAyM2dRRUpzMGF5YUJDRTdfbFBOSC01cUl6Tm9hV2xFTWJ2Q1JiRFBSWDNpT0FOOUZpWkR0Z2VzQkQtVHdGX2lwbXZ5RTNfRFJQaDk4dEl4WnFSM0t5bEMtczdUNnNtOG9HRTlqaEZlVnl5Z2lSSURLZGI1R1ctRlpo?oc=5",
-      "source": "Devdiscourse",
-      "date": "2026-09-03T05:59:09.000Z",
+      "title": "Sterlite Technologies approves ₹3,000 crore capex for 50% manufacturing capacity addition - CNBC TV18",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWEUydnVCMDRMVnZvUEF0R1M2emVBNFlfUUZZVnF5ck5LY3UyZGZBbG1PVEx3YWl1ZjV5a3BlNERRYjJiMVFnVUxmZlFLbHVORVNFeU5Dc1JJUFhlRHJBQmdUc3VFOTZOek9MVjRkM2x5Tm1ZWXlKYmdNaHJHa25GeElCdnM0aTdSVmJJMUhwc1JnTkZzVnRZNnVXQkp3NlpBS1gwSkVOajlEVkRIdnV6VEhvNFNuWVk?oc=5",
+      "source": "LinkedIn",
+      "date": "2026-09-03T13:09:38.000Z",
       "topic": "Growth",
       "keyword": "Capex",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Sterlite Technologies approves ₹3,000 crore investment to expand manufacturing capacity by 50%.",
+      "enriched": true
+    },
+    {
+      "id": "n1817ac86abf4",
+      "ticker": "STLTECH",
+      "company": "Sterlite Technologies",
+      "sector": "Telecom",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Sterlite Technologies approves ₹3,000 crore capex for 50% manufacturing capacity addition",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQY0lBM3A0WTZoNWdVaGxmczVvZmRHRnByaW5ta3VQUF9TUXF3LTBTNjNvV3BiTmhXT0hsRjZSbUxDSlBxVk50RW91QXRzWjJkLXBfUW14LVRzZlRjb05NM2U4dXhFY0FHUzZFMnpPOGo4NkJ4WFdjWlVLM2xvcVZDWlZSTWFEZDVsbWJONWQ1S1hGLTgxMDJmV01MelRmSjdhT3owQmdRTFJLTzV0YlZ1bC1BdDBZOUFtUTBSa1I5V094ZFhSWTAxOVpJSkllUzhPcU8wWUczTG1taXJ4TzkzSDVjcGgzakpt0gHuAUFVX3lxTFBySTgta1JWVVZlR1hrcElLemh4alRBYmxSR3pDQXRlcFkwV19yc2lWMVU3bk9OamJjWWppWVdnNTJ4LWJBLW5YQXVOWG9UUl9Zb29PbDNvOFVuX19zbkVCbFNMYlRlWlNXOGlWNzBEQmVnb2w3ZU9jTHlxWk5aZGJtUUJ0N1FnMEF5XzJZcG5NWm5JMVBMSkNlMzNGTTlYVm1KUGhhM204RVoxNUNaQ0dmQngzZUFIZ1hGeFZVYjR5Uk12RWlSdXZWUTdQdE9DZDh4aE9qVTQ5WnVJNWljbGk3blpyQXdpUlVZSkQyb2c?oc=5",
+      "source": "CNBC TV18",
+      "date": "2026-09-03T13:07:48.000Z",
+      "topic": "Growth",
+      "keyword": "Capex",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Sterlite Technologies approves ₹3,000 crore investment to expand manufacturing capacity by 50%.",
+      "enriched": true
+    },
+    {
+      "id": "n33efa74c3c52",
+      "ticker": "STLTECH",
+      "company": "Sterlite Technologies",
+      "sector": "Telecom",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Sterlite Technologies Approves ₹3,000 Crore Capex to Boost Capacity by 50% by FY29",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT1FHbFZPb24xRXlTY0ZMVlBXTloyeHZrTkh1cEprMTVtdUVEUVU4Ml9hTkxvWUdNaVpDWlJ1M0FJaEI0NkRTaFEzTlZIYVdzaTdubDdxVnI2dGZuNEJDemxEVE14ekhBUnZtakJ2Wi10NDFRVlgwdW03bl84a3pJZjA2NS1HS2tZRDAyMTVBOV9NOXNBLXJGbkg3X2RIOERfcFpocG9sZ2JmR053Tm9xNFlUSnMxYzJtaG5R?oc=5",
+      "source": "Sahi",
+      "date": "2026-09-03T12:28:30.000Z",
+      "topic": "Growth",
+      "keyword": "Capex",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Sterlite Technologies approves ₹3,000 crore investment to boost capacity by 50% by FY29.",
+      "enriched": true
+    },
+    {
+      "id": "n9c3b82e4e517",
+      "ticker": "STLTECH",
+      "company": "Sterlite Technologies",
+      "sector": "Telecom",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Sterlite Technologies: Approves ₹3,000 Crore Capex for Capacity Expansion",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ01rbTNWR011WmNvNkRweF8yTmtKVVJRcUZwYWpoOFNNNnpMZEgwenR1dW5PMDdTbE5IdmRQbzJIVDItMDUzMmx4aE1sQ3VZOHhDOS1NZVV6bndxTjQ0aVdHcV9RMDk4ak4ybGpYWF9sTmU0WTY2UlNtVmRVSl90V05VZndlNUtJOXQ1WlZIbw?oc=5",
+      "source": "InvestyWise",
+      "date": "2026-09-03T12:28:23.000Z",
+      "topic": "Growth",
+      "keyword": "Capacity Expansion",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Sterlite Technologies approves ₹3,000 crore investment for capacity expansion.",
+      "enriched": true
+    },
+    {
+      "id": "n931577e51473",
+      "ticker": "PVRINOX",
+      "company": "PVR INOX",
+      "sector": "Media",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "PVR INOX Approves Rs 300 Cr Share Buyback At Rs 1,450 Per Share",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTm9ZNHVqaHdvcTN1NVJ0bFRKNkdPVEZTa3JlVzIzUWE1eUxHUkh1T3o2VnI5OG9SZ3h4am9WdnNmMjMtdU52QUZEeHEtSTZqLVVXWFZNT2hhTXlhSE1yN1cycnNvaGl2NGhZMy1rMW5vNTgxYUJNcEJ1enhXSmsxRWdMTDgzd0dvR04tdm5hWFFtbFdPU3R1RUlnaTlNMWxYZ29nUzg3VlhKZFE?oc=5",
+      "source": "BW Businessworld",
+      "date": "2026-09-03T08:54:04.000Z",
+      "topic": "Money",
+      "keyword": "Buyback",
       "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "India’s private capex moderates 2.8% to Rs 11.9 lakh crore in FY26 after record high in FY25: Report"
+      "mood": "positive",
+      "takeaway": "PVR INOX approves ₹300 crore share buyback at ₹1,450 per share.",
+      "enriched": true
+    },
+    {
+      "id": "n3e8224a84308",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Saatvik Green Wins ₹297.5 Crore Solar PV Module Order",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONzlWcXFaLUlMODEtTUl4UkJPcFQydnp3NFcwTDdnLTdIWWFGTDJoMTg0eXJkVHpLaEE0STVvRDNiemRPV3NXNmU0NjltV2I4WDB3TXM3V0k2YkxpSlVaeEhxejJfeER4M2pyRmYyY3owX1JyNkdVUVJqaWlPdDZFdUJ3OTh1c3FBUC0wUEF4amE4dXV0dGc?oc=5",
+      "source": "Sahi",
+      "date": "2026-09-03T08:27:48.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Saatvik Green wins ₹297.5 crore order for solar PV modules.",
+      "enriched": true
+    },
+    {
+      "id": "n8c1b88bc1888",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Saatvik Green Energy wins ₹297.5 crore order for solar PV modules",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMjByTC1OSVJIRThQaVlHclBGdU9IY1Vqb2IwRDZHSnNiVHJhSC1sRzlzUmFjMXJoQ2lqWUhpWDE4V0VvWHA5LVpOOGZZek9fRFRhc1EzTjlGNW9URGlwQldEUFV5MS1CQmYtMHJITWpqZl81X0ZnUDIza2t5ekx4ZUtiMXlxaEhQUlBhYVFBODhoNVIwZVZHNXRwRF91NF9kSWd3Mjh3?oc=5",
+      "source": "Business Upturn",
+      "date": "2026-09-03T08:13:41.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Saatvik Green Energy wins ₹297.5 crore order for solar PV modules.",
+      "enriched": true
     },
     {
       "id": "nede382c717ab",
@@ -41,26 +160,47 @@
       "topic": "Orders",
       "keyword": "Order",
       "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Zen Technologies Eyes Record Rs 1,300-1,500 Crore Revenue In FY26 On Simulator Order Rebound: CMD"
+      "mood": "positive",
+      "takeaway": "Zen Technologies expects revenue of Rs 1,300-1,500 crore in FY26 driven by simulator order recovery.",
+      "enriched": true
     },
     {
-      "id": "nfc22590bc8c5",
-      "ticker": "ZENTEC",
-      "company": "Zen Technologies",
-      "sector": "Capital Goods",
+      "id": "n32f781f6931d",
+      "ticker": "PVRINOX",
+      "company": "PVR INOX",
+      "sector": "Media",
       "scope": [
         "watchlist"
       ],
-      "title": "Video | Zen Tech Sees Stronger FY27 Ahead; Atluri Expects Order Inflows to Pick Up",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQmJUS05xekRYNjdhbU4xWGQ5czJNMWlwVmZ5eG1UNTk2dXczX2hvT1JhdVlpakFQMkVYSl9udV9QQUloTnVJSWU3V0VPMnF4TThBdGtZOTE1S0daUkh2TmhPRDhSY3ZheUxmdHlSd3d0MzhRVzhuVDQxRkpvQi16VnBlNjMxRXA5VWpBV1AydVpWTFFNaDVUOGplMldRYk1nSzF3YWRFelZueDZacTVTVHpReHpDaERSRmttY2ZGSksyQQ?oc=5",
-      "source": "NDTV Profit",
-      "date": "2026-09-02T08:34:55.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
+      "title": "PVR INOX approves buyback of equity shares worth INR 300 Crores",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT2JsOFBSU1JXelFRZTg3Y3BIZ0p1R29wLUZmUzlNSHMtVjU2SGNLQVh5bW9qWXhmWTRtaDI2ZmM5NC1CSUJraU5idS0zRVZ3aVQxcG5Db3ZUc0czX1dDa3ZrMm1GTWZWaVNSb1gtdFRwZDk2ajN4dDZ3ZmNUcUotQzhCSmdHVjhKQnkzaWx0RWJueXJIYURrOXI0ZXo2bmw3bXZad2ZVOA?oc=5",
+      "source": "Business Upturn",
+      "date": "2026-09-02T09:13:38.000Z",
+      "topic": "Money",
+      "keyword": "Buyback",
       "importance": "medium",
       "mood": "neutral",
-      "takeaway": "Video | Zen Tech Sees Stronger FY27 Ahead; Atluri Expects Order Inflows to Pick Up"
+      "takeaway": "PVR INOX approved a buyback of equity shares worth Rs 300 crore.",
+      "enriched": true
+    },
+    {
+      "id": "nc7a74a402d45",
+      "ticker": "THEME",
+      "company": "Power Equipment",
+      "sector": "Capital Goods",
+      "scope": [
+        "universe"
+      ],
+      "title": "TARIL Enters India’s Nuclear Power Sector with NPCIL Order for Transformers and Reactors",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ2g4ZThRWWt1Yng3enhkQS1JUlVEeXBRX3VWQzRtdWxpZzU5SGIxS3pBcm9NNHA3UnhrUXhEczhOUjRKblYwQmM1QVNTeXBGNUpJUjFXTEsxaFBrejlibFRGUUNGUDFPVzZXUDJybk55VnVKdUhmUHk2NUhIQVZRaFZMVndfRFBEU2Vfc0ZZWkZsOUJqM0RzbzZjWG1GUWJEdUFSNzE4MXl2ZFlWWW1CMFdrWXQ4dWhfZVhrZmowRUE4ZjQ?oc=5",
+      "source": "Energetica India Magazine",
+      "date": "2026-09-01T07:37:29.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "TARIL secured order from NPCIL for transformers and reactors, entering India's nuclear power sector.",
+      "enriched": true
     },
     {
       "id": "nabaa275ce403",
@@ -74,11 +214,12 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSjROV2V6VXpGTUUyV3V0bm14Z0hXT0JvdmhURTJsd3UyWFQ3bTdqcDFpOWE5TVFNcWpWeDdXRFh1a01BcGsyLVAzWG1fT3NuVU5vM05CMnNBZ2MtU3FkNkJVamVKTVM5ZnAzcHJjWDNacXJBSDRRR0NxaUVjVHNWSEJyRUNsQXIwVDk1a2FvWVJ1cEVzMllONU1JRlhzU0FIZzl2LVNMM0xYaXFDbFdZVmgyNUY3YkktNXhjcWt0Nm5EVmRYdE5UalJtX3Y2ZXZE0gHWAUFVX3lxTE5JVUdzYTRVQVJ6WUdYTV9DUFpneUlFZXhLdDhZNFUyQmZQRUUtVUN2MkdwbjJjam1hS3JoLUxPSGtQOGE1YlNTblM0THpfUEVCdnFoVkh4Y3V1LUw0TWVJMUM0QTZfLTZOR19KVVh4dGZOMnZyQkx5SjhLaDdQMkhvbFRtWF9NamdkWlRab1lSdjZHOHBkdHNsWnA3bFl0WTYwZ21KRnlHYTNDWkJIVjRBSHRiZnZCUXhCZDRENmpVT1VKVEpuMGo3T2tZejdDaENiVzIwUGc?oc=5",
       "source": "Business Standard",
       "date": "2026-08-31T13:56:33.000Z",
-      "topic": "Growth",
+      "topic": "Approvals&IP",
       "keyword": "Capex",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Govt notifies ₹1.27 trillion Semicon 2.0, offers 40% fab capex support"
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Government launches ₹1.27 trillion semiconductor scheme offering 40% support for chip factory investments.",
+      "enriched": true
     },
     {
       "id": "nc6cc18441fbc",
@@ -95,8 +236,28 @@
       "topic": "Money",
       "keyword": "QIP",
       "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Unimech Aerospace shareholders pass QIP and loan resolutions at 10th AGM"
+      "mood": "positive",
+      "takeaway": "Unimech Aerospace shareholders approve fundraising through QIP and loan arrangements at annual meeting.",
+      "enriched": true
+    },
+    {
+      "id": "n282544f07795",
+      "ticker": "GLOBAL",
+      "company": "Optical Fibre",
+      "sector": "Telecom",
+      "scope": [
+        "universe"
+      ],
+      "title": "Rs 1,537-crore BSNL order gives Tejas Networks a boost, but Arnob Roy faces a bigger challenge",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjJtTU5vQWl6RWJ5QWFaYkJnOTdrSS1mT1paMENNVXEzRndiUWx5RGFHcjhlWUE1Y1R4UlJZSWk2TlhCbW5XNmdJUGJ4SjdwajJ4N3BueVA3Z3lJdGF1c3FuOVBqRUtJUnNpR0EyQmd3TXJvLXdObEh4RVBkQV9pcEY4clpBclR3N29xajE0c2JDVHYyNUxUUlBJQWZBcE41WDdJdy1TdVktdktaMU5CbzlKYVF2WV9KdmNQWi0wbmtnWDBxaUZjeDJTangybEVvTFdOZDZGeWlmWHZDa2VUZ1FaNNIB6AFBVV95cUxPNXpGQXpjdTVCb0lBcjYwN3ZQekR3Mi1ZV1Q3UWF6ckNTRFc1Q29PS21hUU9rMUNBTnhUcHJiRk5sLUlxLS13VGtGblhjdjV2anphYllHaWI3Rm5MYXZ3dkQ2eHNTamVUendpeUxGV2NJWGlfZmRmR1hJX2E2ZXdpZ1YwTEI1SVlGaEFGX2FwOG84MG45RjJOQTN4dnJmbHlGelRQRmxlb1B0VWpRNURXb0tmTGlrWUNrd1NoM3RWek9CckFYNWg3VmFtUEJqRVlsRlB2cDJjLWJDejBCSkIyOFdfWnhQajl4?oc=5",
+      "source": "Moneycontrol.com",
+      "date": "2026-08-31T07:44:15.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Tejas Networks wins ₹1,537 crore order from BSNL for optical fiber equipment.",
+      "enriched": true
     },
     {
       "id": "nad9835d6442a",
@@ -113,26 +274,29 @@
       "topic": "Approvals&IP",
       "keyword": "Approval",
       "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Gilead Wins USFDA Approval for Bixlenvo HIV Combination Treatment"
+      "mood": "positive",
+      "takeaway": "Gilead receives US FDA approval for Bixlenvo, a new HIV combination treatment.",
+      "enriched": true
     },
     {
-      "id": "nce20aa8853b6",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions",
-      "sector": "IT",
+      "id": "n3e1bf2387933",
+      "ticker": "KSHINTL",
+      "company": "KSH International",
+      "sector": "Capital Goods",
       "scope": [
+        "portfolio",
         "watchlist"
       ],
-      "title": "Aurionpro Solutions hosts Q1 FY27 earnings call on July 28",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb1VjVlhFR19va2U1RHNMcUU0QzM0a3pPYTdSSTBsTndSX0dhMXhiaWdNbWo3NTZrZE84b1dVc21yVFc0b0Z4UTVjWTJQMmtISExicVlTTnN3QkZBQnlVdjBELWR1N0g0RnV0cEpfWGhqT3o5MnJRSy1vM3ZqeVlsSFJqdDdEbklybzBkdXNNRXhzZUhDcFRvRV9FczVkcEFEZG1rNmo4VDVKSTRLM0hNa0hkODEwVmU1cmp3S3ZxN2JydGxwZXIxZ2xaWlY?oc=5",
+      "title": "KSH International ratifies ESOS 2025 with 89.99% shareholder approval",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdWpkTkE0T2lBdEJkal93M2d4eDZJSzE3SDl5WVFVQ0ZqOUdsQnBCbl9wTjdiRGUzaXdZWXVuUFhFSERsUDM2bmlGME5Hcm1QeEpQRzdqZ0pkTlNoeWdweVFyYS1JZEZqTGFvQTlqM2kzMS01V0otV2FKbFlXSU1vd2pPYkNOZHFSbEhjS200NUxrbEk3T1E4YmRWQlktRGs3cUFPdEVqNHM2a0cxQjlCeDVqOVZlUWtCNVFyYzdhMDRrZ2M?oc=5",
       "source": "scanx.trade",
-      "date": "2026-08-30T06:38:31.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
+      "date": "2026-08-30T08:07:59.000Z",
+      "topic": "Other",
+      "keyword": "Approval",
+      "importance": "low",
       "mood": "neutral",
-      "takeaway": "Aurionpro Solutions hosts Q1 FY27 earnings call on July 28"
+      "takeaway": "KSH International shareholders approve employee stock option scheme with 89.99% votes.",
+      "enriched": true
     },
     {
       "id": "nee769360a137",
@@ -149,8 +313,9 @@
       "topic": "Approvals&IP",
       "keyword": "Approval",
       "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Lupin Receives Tentative Approval from U.S. FDA for Sugammadex Injection"
+      "mood": "positive",
+      "takeaway": "Lupin gets tentative US FDA approval for generic Sugammadex injection used in anesthesia reversal.",
+      "enriched": true
     },
     {
       "id": "n572573dcbe30",
@@ -166,9 +331,10 @@
       "date": "2026-08-26T15:05:56.000Z",
       "topic": "Deals",
       "keyword": "Merger",
-      "importance": "medium",
+      "importance": "high",
       "mood": "neutral",
-      "takeaway": "Sapphire Foods approves revised merger scheme with Devyani International"
+      "takeaway": "Sapphire Foods approves revised merger plan with Devyani International after earlier changes.",
+      "enriched": true
     },
     {
       "id": "n703ca2c727cc",
@@ -184,9 +350,10 @@
       "date": "2026-08-26T13:57:55.000Z",
       "topic": "Deals",
       "keyword": "Merger",
-      "importance": "medium",
+      "importance": "high",
       "mood": "neutral",
-      "takeaway": "Devyani International Merger Amended After Share Sale Termination"
+      "takeaway": "Devyani International merger scheme amended following termination of related share sale transaction.",
+      "enriched": true
     },
     {
       "id": "nb9a71663d0f6",
@@ -203,8 +370,9 @@
       "topic": "Orders",
       "keyword": "Order",
       "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "MTAR Tech rises after securing order worth nearly Rs 127 crore for coolant channel assemblies"
+      "mood": "positive",
+      "takeaway": "MTAR Tech secured a Rs 127 crore order for coolant channel assemblies.",
+      "enriched": true
     },
     {
       "id": "nfe40cdf1f69e",
@@ -222,81 +390,47 @@
       "topic": "Orders",
       "keyword": "Order",
       "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Vivid Electromech wins Rs 52.81 crore order from Cosmic Pv power limited, Bondada engineering limited and Drn infrastructure private limited"
+      "mood": "positive",
+      "takeaway": "Vivid Electromech won Rs 52.81 crore order from three companies for infrastructure projects.",
+      "enriched": true
     },
     {
-      "id": "n653d07096208",
-      "ticker": "THEME",
-      "company": "Specialty Chemicals",
+      "id": "n5beb09e0a4d9",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries",
       "sector": "Chemicals",
-      "scope": [
-        "universe"
-      ],
-      "title": "Silica-Carbide Brick Market Growth to 2035 Driven by EAF Steelmaking Capacity Expansion in India and Middle East",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWVA2QUl3TW0yclh6SmZmQU1femRWRkRoNXRqMFJDLU5JeUNHQldDZWNkdXRyc1pRQ1FQMEpaRDFKRFFPVkZYbDBaUFFzZmtTVWVYdFpkSVZwMi1uZjU1eVhnbnpqd2FJMzZycFBiLU8zdU1LUjFTQUNaV0NkdjMteEZIREtsT2FrNXVmS05fTldmRDlPTXVuTkRjbGNWOE5Fc2tNeWdMd3piRGFBQ2VVdVU2MUdSNWdPQnlqa2s4YzRqMHZRd0dnblpVckNpS0xwN0wtdnEzcDJTZw?oc=5",
-      "source": "IndexBox",
-      "date": "2026-08-24T07:00:00.000Z",
-      "topic": "Growth",
-      "keyword": "Capacity Expansion",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Silica-Carbide Brick Market Growth to 2035 Driven by EAF Steelmaking Capacity Expansion in India and Middle East"
-    },
-    {
-      "id": "na7a4fe7e0354",
-      "ticker": "DIXON",
-      "company": "Dixon Technologies",
-      "sector": "Consumer Durables",
       "scope": [
         "watchlist"
       ],
-      "title": "Dixon Tech may see an earnings upgrade from new mobile mfg scheme",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUlp6UE1aVjV5My13R0E2czUxeENsQV9CODdRVkZOVHAtX2UyTGNUNm41Q1BvdENIZDFMZUhaR25SRG9ueTlySkQ2X1ZkZHpnRmNUWVp2VjhibWhNN04ya0piSC1YQkN3SUVma2Fnd0RRV28xalByMGVsTHJoNzNtOGdrSGJ2TVRkQ0lKX0tMdGRLem14UXpiY0FPM2JKcUhtSWRycXdPVE9uX1Izb0xJ0gG0AUFVX3lxTE9GMnhFaUQ5YzFmbmNZYmlUNUJoaTFNbVRSc2hzcDJBeFlNY0c3SnJrOV9FYTJvM2FBUl9hTnFEaFF4RWtHSDF1Qm9HWnZObVplYWpNVWh0TFRIZDcxckJEZThsVjh4ZmhLZ090LTNxQmFjU0I5NTRsNUF6TzRhR0NSM19oR2xuODVlY1dZV0VfMTUxVV83UnJ2WS0zcWxESVNrcGRiNmFEdWV5QWVSNklOU21UdA?oc=5",
-      "source": "CNBC TV18",
-      "date": "2026-08-24T02:47:01.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Dixon Tech may see an earnings upgrade from new mobile mfg scheme"
+      "title": "Saatvik Green Energy Bags ₹190 Cr Solar PV Module Order From Domestic IPP Player",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbm5kb2Rsb2hMTmpua1JiWGF6eUpreGJPTzZubDh0bjh3V18yd2lnTFp0cmw0VFppdDBFVEhwQ1ZzRW1jdzh1MU1MM201RGQxTHZpa0ZWQnhCZGdXWm9NWHY0SGpsQ2d4VkgzMFA1WnJ2YXJ6aS1hTlhFZzhWTTlZcVJOc1RKV1R4MlpVY2MyLUNOSWpwNDR4WTlRSTB0aGU0aURNWFh3?oc=5",
+      "source": "Trade Brains",
+      "date": "2026-08-21T06:14:11.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Saatvik Green Energy secured Rs 190 crore order for solar PV modules from domestic IPP player.",
+      "enriched": true
     },
     {
-      "id": "ne9e790403b81",
-      "ticker": "THEME",
-      "company": "Specialty Chemicals",
+      "id": "n7190a4329e62",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries",
       "sector": "Chemicals",
       "scope": [
-        "universe"
-      ],
-      "title": "Quaternary Ammonium Surfactant Blends Market to Double by 2035 on Biopharma Capacity Expansion",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3JpODhQNHA5cmlKaUtDbnZkOTRwVmQ2UVhmZVVoNTNyblpSTkxibGVfdXpQazdySUUwOVJlNGFjRU9wMElWbHRHaFMybGdkQm9pS05iNTNidW0zQlZQLTZEdlc3eHB5Vlg0dmgtU01pcDhzTjA3cUpoenJMWGROVUgxWWpxSDN4NnBSUW1JVm5RR0RkNXllSXdMX1BWQ255YkNtVlNRVmhlVlpueEM5M1hXMG00RUlHTXZwcnIweHAxQQ?oc=5",
-      "source": "IndexBox",
-      "date": "2026-08-23T22:36:18.000Z",
-      "topic": "Growth",
-      "keyword": "Capacity Expansion",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Quaternary Ammonium Surfactant Blends Market to Double by 2035 on Biopharma Capacity Expansion"
-    },
-    {
-      "id": "nca69a9d17cb4",
-      "ticker": "TEMPSENS",
-      "company": "Tempsens Instruments",
-      "sector": "Capital Goods",
-      "scope": [
-        "portfolio",
         "watchlist"
       ],
-      "title": "Tempsens Instruments targets growth through exports, capacity expansion and new products",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPU3Q3Sl9GdWlVOGh1NHUtQW42ME5NT3U1OXFpQTNudjc1N2xrNEZQTnVGOFVDYWdDZzNlNThKMHRSRndQcEZZUzU4cFFJaGhoR1BEWDd2ckRJeXhJOS04M3I2MWhlYkUzLW4zekd6ZXQzV2tjUkFsVGVqV1ZuUVdYOUhrdURuMVBtejNwZ0ZQQ05NNHBuTUx5WGYxTnBPWGVCYkMtem5USWhWUXE1VmNONG5EWnp4b3doeV9kekJPRnNXdDQxdi1BSG9xbXVlNXh0NlBTeDlqQ1R1SWlNck5RN05ZNFrSAeoBQVVfeXFMT1A3WXhMSklOOHBrOHhYUFRhRXlXY1dwbmJvYXRLX2VPMGVYUHduNjdYM1R2MXhHRjg5Z1hFQnlDRlB3NDVkYUtKdVBMSmhPcWRKVDJlTGFBaDhyVVNKbXA1eUh3cWo1dXBXaldRSW5xWk03YXRoWEhzOFpVSnZQaU5FMnY5T1ZHSGZDcnRVT29VeF9saExFMnRaYU9fUU9RRk0zdDYxX2R2NFNYMUVVemlubnhTZnRYeGxhdXo0M0R0Y1BmOFRLd1Bac051N1VQeDYyY3VTR1lQbUw2SHZTVndrdTBYZ252dGFn?oc=5",
-      "source": "CNBC TV18",
+      "title": "Saatvik Solar Secures ₹400-Crore Solar PV Module Supply Order",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb1hIMG0tdVE1TncwZFhZa0I1Q1o0SHRDZVY2anhfSlZXWl8zUm9YUGZpOXI1eXN5Z1I0c21JM3VxMU1PZ1JQdkhOaDJoOE9RS1BnV2NiN2p5TUE5NDZHbkQ5SjljS1FwU0thZ2xMM2FjTjJrNEJQRktVRmlHQm9jQUdWUWRuNEMwbDN1VWJ6cG0xVWtPeXBxTExzdHBVY2hR?oc=5",
+      "source": "Sahi",
       "date": "2026-08-20T07:00:00.000Z",
-      "topic": "Growth",
-      "keyword": "Capacity Expansion",
+      "topic": "Orders",
+      "keyword": "Order",
       "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Tempsens Instruments targets growth through exports, capacity expansion and new products"
+      "mood": "positive",
+      "takeaway": "Saatvik Solar secured Rs 400 crore order for solar PV module supply.",
+      "enriched": true
     },
     {
       "id": "n547462ede3a7",
@@ -313,8 +447,28 @@
       "topic": "Growth",
       "keyword": "Capex",
       "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Dixon Tech plans annual capex of ₹800-1,000 crore with improving margins.",
+      "enriched": true
+    },
+    {
+      "id": "n259cf2887c5b",
+      "ticker": "VBL",
+      "company": "Varun Beverages",
+      "sector": "FMCG",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Varun Beverages completes merger of Twizza with Bevco",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYWtWbUhZTkxwZTBFWFFVaWlsai1fNHNXWU1qSWFLLU1Md1Uxc2lhaGVhQWVXMi1hQnp2akZnUVFkRHdlZk1NeDNNQm9zS0tqdmZqNnpnMGxBSlBIdFpSaXd6ZW9rSWJ1ZlNHck0yOWFxRTMtdUYwRHJDSDdhZnVTcGZqRWtOZWliMnFXYkdFN0RBRmZG?oc=5",
+      "source": "Business Upturn",
+      "date": "2026-08-17T15:07:11.000Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "medium",
       "mood": "neutral",
-      "takeaway": "Dixon Tech sees margins improving, plans ₹800-1,000 crore annual capex"
+      "takeaway": "Varun Beverages completes merger of Twizza with subsidiary Bevco.",
+      "enriched": true
     },
     {
       "id": "n1806660f1c6f",
@@ -330,9 +484,10 @@
       "date": "2026-08-17T07:00:00.000Z",
       "topic": "Money",
       "keyword": "Earnings",
-      "importance": "medium",
+      "importance": "low",
       "mood": "neutral",
-      "takeaway": "Shaily Engineering Plastics: Q1 FY27 Earnings Transcript Released"
+      "takeaway": "Shaily Engineering releases Q1 FY27 earnings transcript.",
+      "enriched": true
     },
     {
       "id": "n8c07ada16f1f",
@@ -348,9 +503,10 @@
       "date": "2026-08-17T07:00:00.000Z",
       "topic": "Approvals&IP",
       "keyword": "Approval",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Jyoti CNC Automation secures MeitY approval for ₹1,020.65 crore capex"
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Jyoti CNC receives MeitY approval for ₹1,020.65 crore manufacturing expansion.",
+      "enriched": true
     },
     {
       "id": "na62fcfe2690d",
@@ -366,9 +522,48 @@
       "date": "2026-08-17T07:00:00.000Z",
       "topic": "Growth",
       "keyword": "Capex",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Jyoti CNC gets approval for ₹1,020 crore capex for manufacturing expansion.",
+      "enriched": true
+    },
+    {
+      "id": "n9bba0171327e",
+      "ticker": "VBL",
+      "company": "Varun Beverages",
+      "sector": "FMCG",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Varun Beverages completes merger of Twizza with subsidiary Bevco",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2pLVGE3cGp1a1J6Rjl3UE82dWVCLVVwYjJycXRDSHdfbHdZQ3FLd081QmMyazlpT2x3OUdsTUVSN3phaVdIWnNUbWgxbFRvd2FKQTNuWU9zY3poaEZNekZfbW92NVJzTW01Z1E5VGZTaFE1ZkRMLU9FNFhGWUNReDQ5ejdxWUVFbWNmVEhPZEtQVGNhVW9hcDZqOC10NG5Wa2dTRUdaNTdGTVRzRUJNemZDcw?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-08-17T07:00:00.000Z",
+      "topic": "Deals",
+      "keyword": "Merger",
       "importance": "medium",
       "mood": "neutral",
-      "takeaway": "Jyoti CNC Automation: ₹1,020 Crore Capex Approved for Manufacturing Expansion"
+      "takeaway": "Varun Beverages completes merger of Twizza with subsidiary Bevco.",
+      "enriched": true
+    },
+    {
+      "id": "nfe958097a76d",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Saatvik Subsidiary Secures Rs 4.76 Billion Solar Module Order",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMHVXYnl0V1pxTHNuTE5jcWlFaFdjVTBQeV82aFA3UHhNOFVCb0dDaktxYVNFdU9WQ0JidkVBLTJWVHVCSzUyMDdyX1BRQnE3UmZsMU1DTDVwTnh1Y3VRZVp2UXNBMWJBcEhSbnRxS1FDZXJraVViZUFiVkgxWHZvR0x3WTNUcmZBZHFhaHFWb1ZsZDUyVkUxal9WckVwbTdCUXJVRFY1OE4zU3Zqd0JFVTVJYklFdndDUi1NYzZxMVhmd2hURjhXMmJNMUhMdw?oc=5",
+      "source": "Construction World",
+      "date": "2026-08-17T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Solar Industries subsidiary Saatvik secures ₹476 crore solar module order.",
+      "enriched": true
     },
     {
       "id": "n93123994183e",
@@ -385,8 +580,9 @@
       "topic": "Orders",
       "keyword": "Order",
       "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Aurionpro Lands ₹100 Cr AI Data Centre Order From Global Hyperscaler"
+      "mood": "positive",
+      "takeaway": "Aurionpro wins ₹100 crore AI data centre order from global hyperscaler.",
+      "enriched": true
     },
     {
       "id": "nda59b11a43cf",
@@ -403,8 +599,9 @@
       "topic": "Orders",
       "keyword": "Order",
       "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Aurionpro bags data centre order worth nearly ₹100 crore from global hyperscaler in Navi Mumbai"
+      "mood": "positive",
+      "takeaway": "Aurionpro secures nearly ₹100 crore data centre order in Navi Mumbai.",
+      "enriched": true
     },
     {
       "id": "n988ceacfcd12",
@@ -421,8 +618,28 @@
       "topic": "Orders",
       "keyword": "Order",
       "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Aurionpro climbs on bagging order worth Rs 100 crore"
+      "mood": "positive",
+      "takeaway": "Aurionpro wins Rs 100 crore order.",
+      "enriched": true
+    },
+    {
+      "id": "n4f90dbc23511",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "A-1 Limited Secures Rs 387 mn Supply Order From Solar Industries",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSlB1VEQ5STZOcEJRU2NVLUFhcVkzS1k0R0c5MjBIVms5Y1RXTHRMZkJxZnBOenVFb1B6bkdkOWZBZml6WWpadDVLTXdSTlJSMzBmLXhsV2JfMm0zdEZTdU9rakFPVkVTcDVxc3htNU1UNEhfTDREemNyYVRob0dkR3Bsam9zVzgzcWlHTDdJSjFWM25wYnZmRVktSk8tS2JXOV8zb25QRmtyU3lDMElpdTdJRnJwUUNTY3lRQUFOWnBxajlQSVVvYmxWdzhkckw5U2pCMEdrOWNfLU9mcUZzN1liT2lZX2c?oc=5",
+      "source": "Construction World",
+      "date": "2026-08-13T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Solar Industries places Rs 387 million supply order with A-1 Limited.",
+      "enriched": true
     },
     {
       "id": "n0abeacdf83ba",
@@ -439,8 +656,9 @@
       "topic": "Orders",
       "keyword": "Order",
       "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Aurionpro Solutions secures significant order from global hyperscale data centre operator"
+      "mood": "positive",
+      "takeaway": "Aurionpro secures order from global hyperscale data centre operator.",
+      "enriched": true
     },
     {
       "id": "n91f4af854cbe",
@@ -456,27 +674,10 @@
       "date": "2026-08-11T07:00:00.000Z",
       "topic": "Orders",
       "keyword": "Order",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Zen Technologies Secures ₹295 Crore Defence Order for Simulators"
-    },
-    {
-      "id": "n396f75fa6c8f",
-      "ticker": "ZENTEC",
-      "company": "Zen Technologies",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Zen Technologies shares to be in focus on Tuesday after company secures ₹295 crore defence order",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQekdtOTFQa0YtRGt5XzNPYnREVWNHLTV0ZzJ2U1p0ejRodjI2dk5JdkZPYzhDXy1QdmFzMmNQdlh5ZERrdnIzUmdscE1OMEdGcXJJVnk5bUFNOGtOdnVGbHBkbWptOTZTeVdHMXk2UmRqZGt5SW43TjBidWREYWpNcm92Z0dBMEJQLTI3bEMxSURSaWMtUk9TMHJuQURvTGtlQkV4QmdXT04tZ05IYjFmLVVDd2lDLW9Ib01jWWxGbEpTaTUwdnZLY3VPc0hGTFd1aUlBMHNFTWdfeG1wS0tMeFQ1WG5YdTExZlNvNExpRWowUzBBbjVaNF8wOWXSAYICQVVfeXFMTWNWemhOeHo0TVdhWXQzcGhNM1lsRzhUM3g3c1pxQ3NHam90Q2pkYjlSRWJNbC02bFNobm5pay04bUprdzkxcG51c0o4M2NwUkk0akZZN20yd21SbmZCS3owbXp1NzRSRkdJSnJNRUtKUWhQeWhxQnFna3ZEV2dwck83WHdneUlLN2pYa0xLaHA5a2tSbXFvYU02ZlVwTXVqZVI1Vm9nd1NJV0U3ekFIekFnSjFKbjJIZ3RkQTVTcG0xdVlGZ1JtQVRCTWdDVXRxcHJPRXNVOHAxcjctZ29GWkNHU0tiR2Z4OXlVeWw0X2VnXzlfelFfczRQc0l1Tzc2clRB?oc=5",
-      "source": "Livemint",
-      "date": "2026-08-10T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Zen Technologies shares to be in focus on Tuesday after company secures ₹295 crore defence order"
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Zen Technologies wins Rs 295 crore defence order for simulators.",
+      "enriched": true
     },
     {
       "id": "nd88af8d8a3f2",
@@ -492,27 +693,48 @@
       "date": "2026-08-10T07:00:00.000Z",
       "topic": "Orders",
       "keyword": "Order",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Zen Technologies bags ₹295 crore order from Defence Ministry for simulators"
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Zen Technologies bags Rs 295 crore order from Defence Ministry for simulators.",
+      "enriched": true
     },
     {
-      "id": "n88323ea56af9",
-      "ticker": "SBCL",
-      "company": "Shivalik Bimetal",
-      "sector": "Capital Goods",
+      "id": "n374d036170b6",
+      "ticker": "WOCKPHARMA",
+      "company": "Wockhardt",
+      "sector": "Healthcare",
       "scope": [
         "watchlist"
       ],
-      "title": "Results: Shivalik Bimetal Controls Limited Beat Earnings Expectations And Analysts Now Have New Forecasts",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzQm9KTWhBWHZDc01HdVcxXzNtM3c5REhXbTBzTkx4RUh0LXV6c3VqLTRPUzVJbXZWZF9OaGM2VzM1QjRmeDhpNlZPWlkzNlJLVEl6ZFBkTWg?oc=5",
-      "source": "webull.com",
-      "date": "2026-08-08T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
+      "title": "Wockhardt eyes US launch of Zaynich in first quarter 2027; Europe approval expected by year-end, says...",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZjFFWlBvaTdoVUo3OUxxNng4OUFrTEZUemZrbXY0OEVBdFhERXh1RUh0RGxMVWJoZ0xUdFFHalVrdUtoRjJPUkNUb29mQ01aLW1CRVBkSTlVOGNHdm1vUnI0VjQxeTVmNU5wTGdmaFBRaTYyOTY0dFZWUDF2c2dydS1OSUIxUWVfbklMaUtGOEJuVGx3c3VoMlY5Z1F3Z25vUG1vWnczTmZteklha0hOSm1pU2VuSThhUmJQZ2xTSGZjdUQ3Z242WmdlNWluUU5PZ2ZkMDd5RWtVLXlwTXFDMjhDREtUUlU2Q2NkRDY4SnQzZ09WMUFKcFF3eTlXdjA3OWFTOdIBigJBVV95cUxNekN1aE95LUVydDBRSWVEeHpSOHdsdkNLVmo2SktHWlVhZzdSOHlLTzNWSEtYNDE0NlhsQVlmZkliZV9OeEtWMGttcWVUTG9lSUxjcktOTnNxTFdmTW9RSmpza2J6YXFja2JzcVdtRWlCaUVHZUdUUGVteFlYb2Y1SV9HZWlMdWMycDdqWEhjWjJDZjBxNmhybFZtZkpmNmJFaXd6Z1hPbjNXdHVpSGxMTHRQcHhNa3ViLWthNXBycEs0QlhpNnZkbDhIRVk5NjQ3RkRNcnhWSWF2RkxvYkxMaFhWQVp6bkN5ZUhOZEdSNlpxeGU4WGszaHNvWmRNU0REUWRoSHpOR0xJdw?oc=5",
+      "source": "Moneycontrol.com",
+      "date": "2026-08-10T07:00:00.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
       "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Wockhardt targets US launch of Zaynich in Q1 2027, Europe approval expected by year-end.",
+      "enriched": true
+    },
+    {
+      "id": "nceb673533146",
+      "ticker": "WOCKPHARMA",
+      "company": "Wockhardt",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Wockhardt: QIP Fund Use Confirmed No Deviation",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQXhhbUh1TzZ1U0FRMXg4am9WRVlON2Z2b3laZGdKMzIxRzVoeUVwRzZvTElOZjVrYldfOVZZR1ZXWnE1dElsRzF6eEdQZm01cmwyRmtfUDhKMnhFaV9mMHcwNERRNUdPOE1YNFp4T05HM3dWZE9DUUlJeDlXU2tEX2x3eUs4Z3hrUGJkeDE4WUFKQQ?oc=5",
+      "source": "InvestyWise",
+      "date": "2026-08-10T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "QIP",
+      "importance": "low",
       "mood": "neutral",
-      "takeaway": "Results: Shivalik Bimetal Controls Limited Beat Earnings Expectations And Analysts Now Have New Forecasts"
+      "takeaway": "Wockhardt confirms no deviation in QIP fund use.",
+      "enriched": true
     },
     {
       "id": "n149991937386",
@@ -530,7 +752,27 @@
       "keyword": "Earnings",
       "importance": "medium",
       "mood": "neutral",
-      "takeaway": "Jyoti CNC Automation: Q1 FY27 Earnings & Growth Strategies"
+      "takeaway": "Jyoti CNC reported Q1 FY27 earnings and discussed growth strategies.",
+      "enriched": true
+    },
+    {
+      "id": "n1207fa5a206c",
+      "ticker": "SONATSOFTW",
+      "company": "Sonata Software",
+      "sector": "IT",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Earnings call transcript: Sonata Software Q1 2026 revenue beats as profit misses",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMVhrSzJZc0FYM2MtTWZFc2UxLXFGMUJITXpHRFpWLVRNTDZKREplWkI2UFVCMHViWG9USTBWckRUOVBfdkhDeWxRRVJHTmxfLXNqaVVXRkFFQkZ5NEloZ0FDeUVCYndEZ2ozQ1g1NXd5QkdySy1jTE5RN3FkR1V2VUdZbDJsODFCQ2lTLTNCd0oyOFVOYnZkZkpMVkh5MEduOUR0Unl2VC1sYzZGTWxtcjVxa3lQSXAwSExIZDhkWVJQU0YySzJ0a1VMOU05eDB1?oc=5",
+      "source": "Investing.com",
+      "date": "2026-08-07T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Sonata Software Q1 2026 revenue exceeded expectations but profit fell short.",
+      "enriched": true
     },
     {
       "id": "n316089096314",
@@ -547,8 +789,49 @@
       "topic": "Orders",
       "keyword": "Order",
       "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Zen Technologies FY26 Results: Revenue falls, order book rises"
+      "mood": "positive",
+      "takeaway": "Zen Technologies FY26 revenue declined but order book increased.",
+      "enriched": true
+    },
+    {
+      "id": "ndc06e0ccdfc1",
+      "ticker": "SUDEEPPHRM",
+      "company": "Sudeep Pharma",
+      "sector": "Chemicals",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Sudeep Pharma Outlines Strategic Growth Guidance and Battery Materials Capacity Expansion",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUjMwdFpqSHl6Qzg5Q1dmTjUxMVFLbEw5RFlQYlRZY1NwajBmMkJDT2FiSlUxWXpOTnllLW11bkJselVhUHlPYzh5dHhzZlNTY2YwNnBPaWdGc1dFMzhIclpCTTltUTBNUDVzaHJJQzIwNE5WYmx4c3JSQ0Jlbk1MNFR0TDlYdEVTNWJkUzFsb1NWTWtQUDFLY3A3aVo5SlJsUFhjVm5FV0VZbl9TbXB3b2p4ZFZIU3l4Q0RwSnhVcHlkYkF3c0dJ?oc=5",
+      "source": "Sahi",
+      "date": "2026-08-06T07:00:00.000Z",
+      "topic": "Growth",
+      "keyword": "Capacity Expansion",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Sudeep Pharma announced capacity expansion plans for battery materials.",
+      "enriched": true
+    },
+    {
+      "id": "n2380b0c33ce4",
+      "ticker": "STLTECH",
+      "company": "Sterlite Technologies",
+      "sector": "Telecom",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Sterlite Technologies Secures ₹960 Crore Optical Fibre Cable Supply Order",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV0hvQ2RlMHJ0SmZTeDh0ZW44RU1yMjlwdXBxSnFMcVJWVXp3cERHUllVTDVCT0hSS3lwLXJZRjhQbW40aUt5SmRSeVZJdHpsZk1ZeUtzbkRQS2JGYTNYUG93V2ZLZG90X0tZY3NfSTRUZ2x3Z1FkVmk0Z0daOF84SlNvU2dLU0M5d0hwZVZ1b0hIcHVkeU91UTdLRDNVbHNhcXAyX2JCaDl4SmMtaHFRNQ?oc=5",
+      "source": "Sahi",
+      "date": "2026-08-05T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Sterlite Technologies won ₹960 crore order for optical fibre cable supply.",
+      "enriched": true
     }
   ]
 }
