@@ -17,6 +17,11 @@ export function maxDay(items: NewsItem[]): string {
   return m || new Date().toISOString().slice(0, 10);
 }
 
+// Today's date (YYYY-MM-DD) in IST — the honest right edge of the timeline.
+export function istToday(): string {
+  return new Date().toLocaleDateString('en-CA', { timeZone: 'Asia/Kolkata' });
+}
+
 export interface DayPoint {
   key: string;
   label: string;

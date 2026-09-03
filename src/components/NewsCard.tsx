@@ -39,9 +39,11 @@ export function NewsCard({ item }: { item: NewsItem }) {
             <ExternalLink className="mt-0.5 h-3.5 w-3.5 shrink-0 text-slate-300 group-hover:text-indigo-500" />
           </h3>
 
-          <p className="mt-1 line-clamp-2 text-sm text-slate-500">
-            {item.takeaway}
-          </p>
+          {item.takeaway && item.takeaway.trim() !== item.title.trim() && (
+            <p className="mt-1 line-clamp-2 text-sm text-slate-500">
+              {item.takeaway}
+            </p>
+          )}
 
           <div className="mt-2 flex flex-wrap items-center gap-x-2 gap-y-1 text-xs text-slate-400">
             <span className="font-medium text-slate-500">{item.source}</span>

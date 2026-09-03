@@ -7,10 +7,7 @@ import {
   setCustomKeywords,
   getCustomWatchlist,
   setCustomWatchlist,
-  isAuthed,
-  setAuthed,
 } from './lib/storage';
-import { Login } from './components/Login';
 import { TopBar } from './components/TopBar';
 import { Tabs, type TabKey } from './components/Tabs';
 import { AddPanel } from './components/AddPanel';
@@ -29,7 +26,6 @@ function scopeCount(items: NewsItem[], key: FeedKey): number {
 }
 
 export default function App() {
-  const [authed, setAuthedState] = useState<boolean>(() => isAuthed());
   const [data, setData] = useState<AppData | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -62,8 +58,8 @@ export default function App() {
   }, []);
 
   useEffect(() => {
-    if (authed) void fetchData();
-  }, [authed, fetchData]);
+    void fetchData();
+  }, [fetchData]);
 
   /* ---- customisation handlers (persisted) ---- */
   const addKeywords = useCallback(
@@ -113,11 +109,6 @@ export default function App() {
     });
   }, []);
 
-  function handleLogout() {
-    setAuthed(false);
-    setAuthedState(false);
-  }
-
   /* ---- derived data ---- */
   const newsItems = data?.news.items ?? [];
 
@@ -150,17 +141,6 @@ export default function App() {
   );
 
   /* ---- render ---- */
-  if (!authed) {
-    return (
-      <Login
-        onSuccess={() => {
-          setAuthed(true);
-          setAuthedState(true);
-        }}
-      />
-    );
-  }
-
   return (
     <div className="app-bg min-h-screen">
       <TopBar
@@ -171,7 +151,6 @@ export default function App() {
         refreshing={refreshing}
         onRefresh={() => void fetchData(true)}
         onOpenAdd={() => setAddOpen(true)}
-        onLogout={handleLogout}
       />
 
       <main className="mx-auto max-w-7xl px-4 py-5 sm:px-6">

@@ -1,0 +1,97 @@
+name: Refresh News Data
+
+# Scrapes fundamental news (Google News backbone + optional Munshot/Firecrawl)
+# and NSE/BSE filings (Munshot), then commits the refreshed JSON back to main.
+# Runs weekday mornings at 07:01 IST (01:31 UTC) and on demand.
+#
+# ALL secrets are OPTIONAL — Google News needs no key, so the news scraper
+# always produces data. MUNS_TOKEN/MUNS_EMAIL add Munshot news + filings;
+# FIRECRAWL_API_KEY adds a bonus publisher pass.
+
+on:
+  schedule:
+    - cron: '31 1 * * 1-5' # 07:01 IST, Mon–Fri (set off the quarter-hour)
+  workflow_dispatch:
+
+permissions:
+  contents: write # push the data commit
+  actions: write # dispatch deploy.yml after committing
+
+jobs:
+  refresh:
+    # Only ever write data to main.
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install scraper deps
+        working-directory: scrapers
+        run: npm install
+
+      - name: Scrape news (Google News + optional Munshot/Firecrawl)
+        continue-on-error: true
+        working-directory: scrapers
+        env:
+          MUNS_TOKEN: ${{ secrets.MUNS_TOKEN }}
+          MUNS_EMAIL: ${{ secrets.MUNS_EMAIL }}
+          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+        run: node news.mjs
+
+      - name: Scrape filings (Munshot)
+        continue-on-error: true
+        working-directory: scrapers
+        env:
+          MUNS_TOKEN: ${{ secrets.MUNS_TOKEN }}
+          MUNS_EMAIL: ${{ secrets.MUNS_EMAIL }}
+        run: node filings.mjs
+
+      - name: Commit & push refreshed data
+        id: commit
+        run: |
+          set -e
+          git config user.name "newsflow-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet -- public/data/news.json public/data/filings.json; then
+            echo "No data changes — nothing to commit."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          git add public/data/news.json public/data/filings.json
+          git commit -m "chore(data): refresh news + filings"
+
+          n=0
+          until [ "$n" -ge 4 ]; do
+            if git push origin HEAD:main; then
+              echo "Pushed refreshed data."
+              echo "changed=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            n=$((n + 1))
+            wait=$((2 ** n))
+            echo "Push failed (attempt $n) — fetch + rebase, retry in ${wait}s…"
+            git fetch origin main
+            git rebase origin/main || git rebase --abort
+            sleep "$wait"
+          done
+
+          echo "Push failed after 4 attempts."
+          exit 1
+
+      - name: Trigger deploy
+        # A GITHUB_TOKEN push does not re-trigger deploy.yml's push event, so
+        # dispatch it explicitly whenever data actually changed.
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run deploy.yml --ref main

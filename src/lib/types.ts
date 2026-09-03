@@ -58,6 +58,7 @@ export interface NewsItem {
 export interface NewsData {
   generated_at: string;
   source: string;
+  counts?: Record<string, number>; // written by the scraper (Prompt 2+)
   items: NewsItem[];
 }
 
@@ -75,5 +76,6 @@ export interface Filing {
 export interface FilingsData {
   generated_at: string;
   source: string;
+  counts?: Record<string, number>; // written by the scraper (Prompt 2+)
   items: Filing[];
 }

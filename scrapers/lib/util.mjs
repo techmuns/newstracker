@@ -1,0 +1,400 @@
+// Shared helpers for the Newsflow scrapers (Prompt 2).
+// Plain Node ESM, Node 20+, global fetch. No front-end code here.
+
+import fs from 'node:fs';
+import path from 'node:path';
+import crypto from 'node:crypto';
+import { fileURLToPath } from 'node:url';
+import { XMLParser } from 'fast-xml-parser';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+export const DATA_DIR = path.resolve(__dirname, '..', '..', 'public', 'data');
+
+export const UA =
+  'Mozilla/5.0 (compatible; NewsflowBot/1.0; +https://github.com/techmuns/newstracker)';
+
+/* ------------------------------------------------------------------ */
+/* Local test proxy (no-op in CI)                                      */
+/* ------------------------------------------------------------------ */
+// When developing behind the agent proxy, set HTTPS_PROXY and this routes
+// global fetch through it via undici. In CI HTTPS_PROXY is unset -> no-op.
+export async function maybeSetupProxy() {
+  const proxy = process.env.HTTPS_PROXY || process.env.https_proxy;
+  if (!proxy) return;
+  try {
+    const { ProxyAgent, setGlobalDispatcher } = await import('undici');
+    setGlobalDispatcher(new ProxyAgent(proxy));
+    console.log(`[proxy] routing fetch through ${proxy}`);
+  } catch (e) {
+    console.log(`[proxy] undici unavailable, using direct fetch (${e.message})`);
+  }
+}
+
+/* ------------------------------------------------------------------ */
+/* File IO                                                             */
+/* ------------------------------------------------------------------ */
+export function readJSON(file, fallback = null) {
+  try {
+    return JSON.parse(fs.readFileSync(file, 'utf8'));
+  } catch {
+    return fallback;
+  }
+}
+
+export function writeJSON(file, obj) {
+  fs.mkdirSync(path.dirname(file), { recursive: true });
+  fs.writeFileSync(file, JSON.stringify(obj, null, 2) + '\n');
+}
+
+export const NEWS_PATH = path.join(DATA_DIR, 'news.json');
+export const FILINGS_PATH = path.join(DATA_DIR, 'filings.json');
+export const COMPANIES_PATH = path.join(DATA_DIR, 'companies.json');
+export const KEYWORDS_PATH = path.join(DATA_DIR, 'keywords.json');
+
+/* ------------------------------------------------------------------ */
+/* Small utilities                                                     */
+/* ------------------------------------------------------------------ */
+export function sha1short(str, len = 12) {
+  return crypto.createHash('sha1').update(String(str)).digest('hex').slice(0, len);
+}
+
+export function nowISO() {
+  return new Date().toISOString();
+}
+
+export function daysAgo(n) {
+  const d = new Date();
+  d.setDate(d.getDate() - n);
+  return d;
+}
+
+export function ymd(d) {
+  return d.toISOString().slice(0, 10);
+}
+
+export function sleep(ms) {
+  return new Promise((r) => setTimeout(r, ms));
+}
+
+export function stripHtml(s) {
+  if (!s) return '';
+  return String(s)
+    .replace(/<[^>]*>/g, ' ')
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&amp;/g, '&')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;|&apos;/g, "'")
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+export function cleanText(s, max = 200) {
+  const t = stripHtml(s);
+  return t.length > max ? t.slice(0, max - 1).trimEnd() + '…' : t;
+}
+
+export function hostname(u) {
+  try {
+    return new URL(u).hostname.replace(/^www\./, '');
+  } catch {
+    return '';
+  }
+}
+
+// Normalised key for dedupe (not the stored URL).
+export function normalizeUrl(u) {
+  try {
+    const url = new URL(u);
+    url.hash = '';
+    for (const k of [...url.searchParams.keys()]) {
+      if (/^(utm_|gclid|fbclid|oc|ved|usg|ei|sca_|_hsenc|mc_|ref|source|cmpid|ncid)$/i.test(k))
+        url.searchParams.delete(k);
+    }
+    return url.toString().replace(/\/$/, '').toLowerCase();
+  } catch {
+    return String(u || '').trim().toLowerCase();
+  }
+}
+
+export async function mapLimit(items, limit, fn) {
+  const out = new Array(items.length);
+  let i = 0;
+  const n = Math.max(1, Math.min(limit, items.length));
+  const workers = Array.from({ length: n }, async () => {
+    while (i < items.length) {
+      const idx = i++;
+      try {
+        out[idx] = await fn(items[idx], idx);
+      } catch (e) {
+        out[idx] = null;
+      }
+    }
+  });
+  await Promise.all(workers);
+  return out;
+}
+
+/* ------------------------------------------------------------------ */
+/* HTTP                                                                */
+/* ------------------------------------------------------------------ */
+export async function fetchWithTimeout(url, opts = {}, ms = 15000) {
+  const ac = new AbortController();
+  const t = setTimeout(() => ac.abort(), ms);
+  try {
+    return await fetch(url, {
+      ...opts,
+      signal: ac.signal,
+      headers: { 'user-agent': UA, ...(opts.headers || {}) },
+    });
+  } finally {
+    clearTimeout(t);
+  }
+}
+
+export async function fetchText(url, opts = {}, ms = 15000) {
+  const res = await fetchWithTimeout(url, opts, ms);
+  if (!res.ok) throw new Error(`HTTP ${res.status} for ${url}`);
+  return await res.text();
+}
+
+// Best-effort: follow the Google News redirect to the real publisher URL.
+// Falls back to the original link on any failure (the google link still works).
+export async function resolveUrl(link) {
+  if (process.env.RESOLVE_URLS === '0') return link;
+  // Newer Google News RSS links are encrypted redirectors that don't HTTP-302
+  // to the publisher (they JS-redirect in a browser). Fetching them just wastes
+  // time, so keep the working google link and rely on the `source` field for
+  // the publisher name. Non-google links (Munshot/Firecrawl) are resolved.
+  if (hostname(link).endsWith('google.com')) return link;
+  try {
+    const res = await fetchWithTimeout(link, { redirect: 'follow' }, 9000);
+    const final = res.url || link;
+    const h = hostname(final);
+    if (!h || h.endsWith('google.com') || h.includes('consent')) return link;
+    return final;
+  } catch {
+    return link;
+  }
+}
+
+/* ------------------------------------------------------------------ */
+/* Google News RSS                                                     */
+/* ------------------------------------------------------------------ */
+const xml = new XMLParser({ ignoreAttributes: false, attributeNamePrefix: '@_' });
+
+function asArray(x) {
+  if (x == null) return [];
+  return Array.isArray(x) ? x : [x];
+}
+
+// Query Google News RSS (free, no key). Returns raw {title, link, date, source, snippet}.
+export async function googleNews(query) {
+  const url = `https://news.google.com/rss/search?q=${encodeURIComponent(
+    query,
+  )}&hl=en-IN&gl=IN&ceid=IN:en`;
+  const text = await fetchText(url, {}, 20000);
+  const doc = xml.parse(text);
+  const items = asArray(doc?.rss?.channel?.item);
+  return items
+    .map((it) => {
+      const link = it.link;
+      if (!link) return null;
+      let source = '';
+      if (it.source && typeof it.source === 'object') source = it.source['#text'] || '';
+      else if (typeof it.source === 'string') source = it.source;
+      let title = stripHtml(it.title || '');
+      if (source && title.endsWith(' - ' + source)) {
+        title = title.slice(0, -(source.length + 3)).trim();
+      } else if (!source) {
+        const m = title.match(/\s-\s([^-]{2,40})$/);
+        if (m) source = m[1].trim();
+      }
+      if (!source) source = hostname(link);
+      let date = it.pubDate ? new Date(it.pubDate) : new Date();
+      if (isNaN(date.getTime())) date = new Date();
+      return {
+        title,
+        link,
+        date: date.toISOString(),
+        source,
+        // Google News RSS <description> is just the title + publisher (no real
+        // summary), so we drop it — the takeaway falls back to the clean title.
+        snippet: '',
+      };
+    })
+    .filter(Boolean);
+}
+
+/* ------------------------------------------------------------------ */
+/* Keyword matching (the fundamental filter)                           */
+/* ------------------------------------------------------------------ */
+function escapeRe(s) {
+  return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+// Build a matcher from keywords.json. Longest keyword wins so multi-word
+// phrases ("Receipt of Order") beat their sub-words ("Order").
+export function buildKeywordMatcher(keywordsData) {
+  const kw2topic = new Map();
+  for (const [topic, list] of Object.entries(keywordsData.buckets || {})) {
+    for (const kw of list) kw2topic.set(kw.toLowerCase(), topic);
+  }
+  // Ensure every base keyword is present (fallback topic Other).
+  for (const kw of keywordsData.base || []) {
+    if (!kw2topic.has(kw.toLowerCase())) kw2topic.set(kw.toLowerCase(), 'Other');
+  }
+  const entries = [...kw2topic.keys()]
+    .map((lc) => ({
+      lc,
+      // display keyword: canonicalise the QIP synonym
+      display:
+        lc === 'qualified institutional placement'
+          ? 'QIP'
+          : (keywordsData.base || []).find((b) => b.toLowerCase() === lc) || lc,
+      topic: kw2topic.get(lc),
+      re: new RegExp(`\\b${escapeRe(lc)}\\b`, 'i'),
+    }))
+    .sort((a, b) => b.lc.length - a.lc.length);
+
+  return {
+    match(text) {
+      const t = String(text || '');
+      for (const e of entries) {
+        if (e.re.test(t)) return { keyword: e.display, topic: e.topic };
+      }
+      return null;
+    },
+  };
+}
+
+// Conservative relevance guard: is this article actually about the company?
+// Google News phrase search is fuzzy and returns cross-company results, so we
+// require the full name, its distinctive first word, or the ticker in the text.
+// (Still crude — Claude does the real relevance judgement in Prompt 3.)
+const NAME_STOP = new Set(['the', 'india', 'ltd', 'limited', 'and', 'group']);
+export function mentionsCompany(co, text) {
+  const t = String(text || '').toLowerCase();
+  if (!t) return false;
+  if (t.includes(co.company.toLowerCase())) return true;
+  const first = co.company.split(/\s+/)[0].toLowerCase().replace(/[^a-z0-9]/g, '');
+  if (first.length >= 3 && !NAME_STOP.has(first) && new RegExp(`\\b${first}\\b`).test(t))
+    return true;
+  const tk = String(co.ticker || '').toLowerCase();
+  if (tk.length >= 3 && new RegExp(`\\b${tk}\\b`).test(t)) return true;
+  return false;
+}
+
+/* ------------------------------------------------------------------ */
+/* Crude noise pre-filter (conservative — Claude does the real one)    */
+/* ------------------------------------------------------------------ */
+const MOVE =
+  '(?:rises?|rose|falls?|fell|gains?|gained|slips?|slipped|jumps?|jumped|tumbles?|tumbled|surges?|surged|plunges?|plunged|soars?|soared|drops?|dropped|declines?|declined|rally|rallies|rallied|slumps?|slumped|zoom(?:s|ed)?|spikes?|spiked)';
+const EQUITY = '(?:share|shares|stock|stocks|scrip|equity)';
+
+const NOISE = [
+  /\btop (gainers|losers)\b/i,
+  /\bstocks?\s+to\s+(watch|buy|sell|avoid|add|hold)\b/i,
+  /\b52[-\s]?week\b/i,
+  /\btarget price\b/i,
+  /\bprice target\b/i,
+  /\b(buy|sell|hold|accumulate|reduce|neutral|overweight|underweight)\b[^.]{0,18}\b(rating|call|recommendation)\b/i,
+  new RegExp(`\\b${EQUITY}\\b[^.]{0,25}\\b${MOVE}\\b`, 'i'),
+  new RegExp(`\\b${MOVE}\\b[^.]{0,20}\\b${EQUITY}\\b`, 'i'),
+  new RegExp(`\\b${MOVE}\\b[^.]{0,15}(?:\\d+(?:\\.\\d+)?\\s?%|per cent|percent)`, 'i'),
+  /^\s*[₹$]?\s*[-+]?\d+(?:\.\d+)?\s*%/,
+  /\b(nifty|sensex)\b[^.]{0,25}\b(up|down|higher|lower|close[sd]?|gain|gains|fall|falls|rise|rises|surge|slip|slips|end[s]?)\b/i,
+  // SEO / research-report / stock-tip spam (never real fundamental news)
+  /\bmarket size\b/i,
+  /\bcagr\b/i,
+  /\bmarket (research|report|forecast|outlook to)\b/i,
+  /\b(hidden gems|hidden picks|multibagger|stocks to buy)\b/i,
+];
+
+export function isNoise(title) {
+  const t = String(title || '');
+  return NOISE.some((re) => re.test(t));
+}
+
+/* ------------------------------------------------------------------ */
+/* Companies / scope                                                   */
+/* ------------------------------------------------------------------ */
+export function loadCompanies() {
+  const data = readJSON(COMPANIES_PATH, { portfolio: [], watchlist_exited: [] });
+  const portfolio = (data.portfolio || []).map((c) => ({
+    ...c,
+    scope: ['portfolio', 'watchlist'],
+  }));
+  const watchlist = (data.watchlist_exited || []).map((c) => ({
+    ...c,
+    scope: ['watchlist'],
+  }));
+  return { portfolio, watchlist, all: [...portfolio, ...watchlist] };
+}
+
+export function loadKeywords() {
+  return readJSON(KEYWORDS_PATH, { base: [], buckets: {} });
+}
+
+/* ------------------------------------------------------------------ */
+/* Merge / dedupe / retention                                          */
+/* ------------------------------------------------------------------ */
+function titleKey(it) {
+  return `${String(it.title || '').toLowerCase().replace(/\s+/g, ' ').trim()}|${String(
+    it.company || '',
+  ).toLowerCase()}`;
+}
+
+// Merge incoming into existing (existing wins on conflict, so Prompt 3's
+// enriched fields are never clobbered by a re-scrape). Sort newest-first,
+// drop items older than retentionDays, cap total.
+export function mergeItems(existing, incoming, { retentionDays = 45, cap = 500 } = {}) {
+  const byUrl = new Map();
+  const seenTitles = new Set();
+
+  for (const it of existing) {
+    const k = normalizeUrl(it.url);
+    if (!byUrl.has(k)) {
+      byUrl.set(k, it);
+      seenTitles.add(titleKey(it));
+    }
+  }
+
+  let added = 0;
+  for (const it of incoming) {
+    if (!it || !it.url) continue;
+    const k = normalizeUrl(it.url);
+    const tk = titleKey(it);
+    if (byUrl.has(k) || seenTitles.has(tk)) continue;
+    byUrl.set(k, it);
+    seenTitles.add(tk);
+    added++;
+  }
+
+  let all = [...byUrl.values()];
+  const before = all.length;
+  const cutoff = Date.now() - retentionDays * 86400000;
+  all = all.filter((it) => {
+    const t = Date.parse(it.date);
+    return isNaN(t) ? true : t >= cutoff;
+  });
+  const removed = before - all.length;
+  all.sort((a, b) => String(b.date || '').localeCompare(String(a.date || '')));
+  if (all.length > cap) all = all.slice(0, cap);
+  return { items: all, added, removed };
+}
+
+export function countsByScope(items) {
+  const c = { portfolio: 0, watchlist: 0, universe: 0, total: items.length };
+  for (const it of items) {
+    for (const s of it.scope || []) if (s in c) c[s]++;
+  }
+  return c;
+}
+
+export function countsByExchange(items) {
+  const c = { NSE: 0, BSE: 0, total: items.length };
+  for (const it of items) if (it.exchange in c) c[it.exchange]++;
+  return c;
+}

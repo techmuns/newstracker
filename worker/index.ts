@@ -3,11 +3,11 @@
 /**
  * Newsflow Cloudflare Worker.
  *
- * Prompt 1: the Worker simply serves the built static site (dist/) through the
- * ASSETS binding. It is wired as the Worker entry point (see wrangler.toml) so
- * that later prompts can mount /api/* routes here without changing deployment.
+ * The Worker serves the built static site (dist/) through the ASSETS binding.
+ * There is no login/auth — the dashboard is open. News + filings are committed
+ * as static JSON by the GitHub Actions scrapers (see /scrapers), so no API is
+ * needed to read them; the /api/* stub below is reserved for later prompts.
  *
- * TODO(Prompt 2): GET /api/news, /api/filings — serve scraper output.
  * TODO(Prompt 3): GET/POST /api/keywords, /api/watchlist — KV-backed "memory".
  * TODO(Prompt 4): POST /api/digest — trigger / preview the morning email.
  */

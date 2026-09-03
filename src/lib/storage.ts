@@ -10,7 +10,6 @@ import type { Company } from './types';
 
 const KEYWORDS_KEY = 'newsflow.customKeywords.v1';
 const WATCHLIST_KEY = 'newsflow.customWatchlist.v1';
-const AUTH_KEY = 'newsflow.auth.v1';
 
 function read<T>(key: string, fallback: T): T {
   try {
@@ -47,15 +46,4 @@ export function getCustomWatchlist(): Company[] {
 
 export function setCustomWatchlist(list: Company[]): void {
   write(WATCHLIST_KEY, list);
-}
-
-/* ---- auth (stub) ---- */
-// TODO(Prompt 4): harden with a Cloudflare Worker salted-hash + signed-cookie gate.
-
-export function isAuthed(): boolean {
-  return read<boolean>(AUTH_KEY, false);
-}
-
-export function setAuthed(v: boolean): void {
-  write(AUTH_KEY, v);
 }

@@ -7,7 +7,7 @@ import {
   YAxis,
 } from 'recharts';
 import type { NewsItem } from '../../lib/types';
-import { dailyCounts, maxDay } from '../../lib/metrics';
+import { dailyCounts, maxDay, istToday } from '../../lib/metrics';
 import { GlassCard, Swatch, type RTooltipProps } from './tooltip';
 
 function TimelineTooltip({ active, payload, label }: RTooltipProps) {
@@ -26,7 +26,12 @@ function TimelineTooltip({ active, payload, label }: RTooltipProps) {
 }
 
 export function NewsflowChart({ items }: { items: NewsItem[] }) {
-  const data = dailyCounts(items, 14, maxDay(items));
+  // End the 14-day window at today (IST) so recent zero-story days are shown
+  // honestly. If the data somehow runs ahead of "today", extend to that.
+  const latest = maxDay(items);
+  const today = istToday();
+  const end = latest > today ? latest : today;
+  const data = dailyCounts(items, 14, end);
   return (
     <ResponsiveContainer width="100%" height={200}>
       <AreaChart data={data} margin={{ top: 8, right: 12, left: 4, bottom: 0 }}>

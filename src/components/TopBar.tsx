@@ -1,4 +1,4 @@
-import { Plus, RefreshCw, LogOut } from 'lucide-react';
+import { Plus, RefreshCw } from 'lucide-react';
 import type { FeedKey } from '../lib/types';
 import { formatShortStamp } from '../lib/format';
 import { FeedToggle } from './FeedToggle';
@@ -11,7 +11,6 @@ export function TopBar({
   refreshing,
   onRefresh,
   onOpenAdd,
-  onLogout,
 }: {
   feed: FeedKey;
   feedCounts: Record<FeedKey, number>;
@@ -20,7 +19,6 @@ export function TopBar({
   refreshing: boolean;
   onRefresh: () => void;
   onOpenAdd: () => void;
-  onLogout: () => void;
 }) {
   return (
     <header className="sticky top-0 z-30 border-b border-slate-200/70 bg-white/80 backdrop-blur-md">
@@ -70,13 +68,6 @@ export function TopBar({
           >
             <Plus className="h-4 w-4" />
             <span className="hidden sm:inline">Add</span>
-          </button>
-          <button
-            onClick={onLogout}
-            title="Sign out"
-            className="inline-flex h-9 w-9 items-center justify-center rounded-lg text-slate-400 ring-1 ring-slate-200 transition hover:bg-slate-50 hover:text-slate-700"
-          >
-            <LogOut className="h-4 w-4" />
           </button>
         </div>
       </div>
