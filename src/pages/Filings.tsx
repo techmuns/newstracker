@@ -1,0 +1,181 @@
+import { useMemo, useState } from 'react';
+import { ExternalLink, FileX2, ArrowUpDown } from 'lucide-react';
+import type { Filing, Exchange } from '../lib/types';
+import { formatDateTime } from '../lib/format';
+import { Avatar } from '../components/ui/Avatar';
+import { Pill } from '../components/ui/Pill';
+import { EmptyState } from '../components/ui/EmptyState';
+
+const EXCHANGE_PILL: Record<Exchange, string> = {
+  NSE: 'bg-indigo-100 text-indigo-700 ring-1 ring-indigo-200',
+  BSE: 'bg-amber-100 text-amber-700 ring-1 ring-amber-200',
+};
+
+function MiniSelect({
+  label,
+  value,
+  options,
+  onChange,
+}: {
+  label: string;
+  value: string;
+  options: { value: string; label: string }[];
+  onChange: (v: string) => void;
+}) {
+  return (
+    <label className="flex flex-col gap-1">
+      <span className="text-[11px] font-bold uppercase tracking-wide text-slate-500">
+        {label}
+      </span>
+      <select
+        value={value}
+        onChange={(e) => onChange(e.target.value)}
+        className="min-w-[8rem] cursor-pointer rounded-lg border-0 bg-white py-2 pl-3 pr-8 text-sm font-medium text-slate-700 shadow-sm ring-1 ring-slate-200 transition focus:outline-none focus:ring-2 focus:ring-indigo-400"
+      >
+        {options.map((o) => (
+          <option key={o.value} value={o.value}>
+            {o.label}
+          </option>
+        ))}
+      </select>
+    </label>
+  );
+}
+
+export function Filings({ filings }: { filings: Filing[] }) {
+  const [company, setCompany] = useState<string>('All');
+  const [exchange, setExchange] = useState<string>('All');
+  const [sort, setSort] = useState<'newest' | 'oldest'>('newest');
+
+  const companies = useMemo(
+    () =>
+      [...new Set(filings.map((f) => f.company))].sort((a, b) =>
+        a.localeCompare(b),
+      ),
+    [filings],
+  );
+
+  const shown = useMemo(() => {
+    const out = filings.filter((f) => {
+      if (company !== 'All' && f.company !== company) return false;
+      if (exchange !== 'All' && f.exchange !== exchange) return false;
+      return true;
+    });
+    out.sort((a, b) =>
+      sort === 'newest'
+        ? b.date.localeCompare(a.date)
+        : a.date.localeCompare(b.date),
+    );
+    return out;
+  }, [filings, company, exchange, sort]);
+
+  return (
+    <div className="space-y-4">
+      {/* Filters */}
+      <div className="flex flex-wrap items-end gap-3 rounded-2xl bg-white/70 p-3 ring-1 ring-slate-200/70 backdrop-blur">
+        <MiniSelect
+          label="Company"
+          value={company}
+          options={[
+            { value: 'All', label: 'All companies' },
+            ...companies.map((c) => ({ value: c, label: c })),
+          ]}
+          onChange={setCompany}
+        />
+        <MiniSelect
+          label="Exchange"
+          value={exchange}
+          options={[
+            { value: 'All', label: 'Both' },
+            { value: 'NSE', label: 'NSE' },
+            { value: 'BSE', label: 'BSE' },
+          ]}
+          onChange={setExchange}
+        />
+        <button
+          onClick={() => setSort((s) => (s === 'newest' ? 'oldest' : 'newest'))}
+          className="mb-0.5 inline-flex items-center gap-1.5 rounded-lg bg-white px-3 py-2 text-xs font-bold text-slate-600 shadow-sm ring-1 ring-slate-200 transition hover:text-slate-900"
+        >
+          <ArrowUpDown className="h-3.5 w-3.5" />
+          {sort === 'newest' ? 'Newest first' : 'Oldest first'}
+        </button>
+        <p className="mb-1 ml-auto text-xs text-slate-500">
+          <span className="font-bold tabular-nums text-slate-700">
+            {shown.length}
+          </span>{' '}
+          announcements
+        </p>
+      </div>
+
+      {shown.length === 0 ? (
+        <EmptyState
+          icon={FileX2}
+          title="No filings match these filters"
+          hint="Try a different company or exchange."
+        />
+      ) : (
+        <div className="overflow-hidden rounded-2xl bg-white shadow-sm ring-1 ring-slate-200/70">
+          {/* Header (desktop) */}
+          <div className="hidden grid-cols-[1.6fr_auto_1fr_auto] items-center gap-4 border-b border-slate-100 px-4 py-2.5 text-[11px] font-bold uppercase tracking-wide text-slate-500 md:grid">
+            <span>Company</span>
+            <span>Exchange</span>
+            <span>Announcement</span>
+            <span className="text-right">Date</span>
+          </div>
+
+          <ul className="divide-y divide-slate-100">
+            {shown.map((f) => (
+              <li key={f.id}>
+                <a
+                  href={f.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="group grid grid-cols-1 items-center gap-2 px-4 py-3 transition hover:bg-slate-50 md:grid-cols-[1.6fr_auto_1fr_auto] md:gap-4"
+                >
+                  {/* Company */}
+                  <div className="flex items-center gap-2.5">
+                    <Avatar name={f.company} size={34} />
+                    <div className="min-w-0">
+                      <p className="truncate text-sm font-bold text-slate-800">
+                        {f.company}
+                      </p>
+                      <p className="text-[11px] font-medium uppercase tracking-wide text-slate-400">
+                        {f.ticker}
+                      </p>
+                    </div>
+                  </div>
+
+                  {/* Exchange + category (category shown inline on mobile) */}
+                  <div className="flex items-center gap-2">
+                    <Pill className={EXCHANGE_PILL[f.exchange]}>
+                      {f.exchange}
+                    </Pill>
+                    <Pill className="bg-slate-100 text-slate-600 ring-1 ring-slate-200 md:hidden">
+                      {f.category}
+                    </Pill>
+                  </div>
+
+                  {/* Announcement */}
+                  <div className="min-w-0">
+                    <p className="hidden text-[11px] font-semibold uppercase tracking-wide text-slate-400 md:block">
+                      {f.category}
+                    </p>
+                    <p className="flex items-start gap-1 text-sm font-medium text-slate-700 group-hover:text-indigo-600">
+                      <span className="line-clamp-2">{f.title}</span>
+                      <ExternalLink className="mt-0.5 h-3.5 w-3.5 shrink-0 text-slate-300 group-hover:text-indigo-500" />
+                    </p>
+                  </div>
+
+                  {/* Date */}
+                  <p className="whitespace-nowrap text-left text-xs tabular-nums text-slate-500 md:text-right">
+                    {formatDateTime(f.date)}
+                  </p>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+    </div>
+  );
+}

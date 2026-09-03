@@ -1,0 +1,22 @@
+name = "newsflow"
+main = "worker/index.ts"
+compatibility_date = "2024-11-01"
+
+# Serve the built Vite site (dist/) as static assets. The Worker is the entry
+# point (see main above) so that /api/* routes can be added in later prompts
+# without changing the deploy setup.
+[assets]
+directory = "./dist"
+binding = "ASSETS"
+# Fall back to index.html for unknown paths (single-page app behaviour).
+not_found_handling = "single-page-application"
+
+# TODO(Prompt 3): add a KV namespace for the "memory" the scraper reads —
+# user-added keywords + watchlist stocks (currently in localStorage).
+# [[kv_namespaces]]
+# binding = "NEWSFLOW_KV"
+# id = "<create-with: wrangler kv namespace create NEWSFLOW_KV>"
+
+# TODO(Prompt 4): add a scheduled trigger for the morning email digest.
+# [triggers]
+# crons = ["30 1 * * *"] # 07:00 IST
