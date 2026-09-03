@@ -1,4 +1,4 @@
-import { Plus, RefreshCw } from 'lucide-react';
+import { Plus, RefreshCw, Newspaper } from 'lucide-react';
 import type { FeedKey } from '../lib/types';
 import { formatShortStamp } from '../lib/format';
 import { FeedToggle } from './FeedToggle';
@@ -11,6 +11,7 @@ export function TopBar({
   refreshing,
   onRefresh,
   onOpenAdd,
+  onOpenSubscribe,
 }: {
   feed: FeedKey;
   feedCounts: Record<FeedKey, number>;
@@ -19,6 +20,7 @@ export function TopBar({
   refreshing: boolean;
   onRefresh: () => void;
   onOpenAdd: () => void;
+  onOpenSubscribe: () => void;
 }) {
   return (
     <header className="sticky top-0 z-30 border-b border-slate-200/70 bg-white/80 backdrop-blur-md">
@@ -61,6 +63,13 @@ export function TopBar({
             <RefreshCw
               className={`h-4 w-4 ${refreshing ? 'animate-spin' : ''}`}
             />
+          </button>
+          <button
+            onClick={onOpenSubscribe}
+            className="inline-flex items-center gap-1.5 rounded-lg px-3 py-2 text-sm font-bold text-slate-600 ring-1 ring-slate-200 transition hover:bg-slate-50 hover:text-slate-900"
+          >
+            <Newspaper className="h-4 w-4" />
+            <span className="hidden sm:inline">Brief</span>
           </button>
           <button
             onClick={onOpenAdd}

@@ -68,3 +68,27 @@ export const addStockRemote = (c: Company) =>
   push('POST', 'stock', { name: c.company, ticker: c.ticker });
 export const removeStockRemote = (c: Company) =>
   push('DELETE', 'stock', { name: c.company, ticker: c.ticker });
+
+/* ---- email digest subscription (Prompt 4) ---- */
+export interface SubscribeInput {
+  email: string;
+  days: 'daily' | 'weekdays';
+  hour: number;
+  feeds: string[];
+}
+
+export async function subscribe(input: SubscribeInput): Promise<{ ok: boolean; error?: string }> {
+  try {
+    const res = await fetch('/api/subscribe', {
+      method: 'POST',
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify(input),
+    });
+    const j = (await res.json().catch(() => ({}))) as { ok?: boolean; error?: string };
+    if (res.ok && j.ok !== false) return { ok: true };
+    if (res.status === 503) return { ok: false, error: 'Subscriptions aren’t enabled yet (KV not configured).' };
+    return { ok: false, error: j.error || `Request failed (${res.status}).` };
+  } catch {
+    return { ok: false, error: 'Could not reach the server — is the site deployed?' };
+  }
+}

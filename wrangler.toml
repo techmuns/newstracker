@@ -26,6 +26,8 @@ not_found_handling = "single-page-application"
 # binding = "NEWSFLOW_KV"
 # id = "<paste-the-id-here>"
 
-# TODO(Prompt 4): add a scheduled trigger for the morning email digest.
-# [triggers]
-# crons = ["30 1 * * *"] # 07:00 IST
+# Hourly cron (Prompt 4): the Worker's scheduled() handler emails due
+# subscribers their newspaper digest once per day at their chosen IST hour.
+# (Registered automatically by the connected Workers Build on deploy.)
+[triggers]
+crons = ["0 * * * *"]

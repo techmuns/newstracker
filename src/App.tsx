@@ -18,6 +18,7 @@ import {
 import { TopBar } from './components/TopBar';
 import { Tabs, type TabKey } from './components/Tabs';
 import { AddPanel } from './components/AddPanel';
+import { SubscribePanel } from './components/SubscribePanel';
 import { Pulse } from './pages/Pulse';
 import { Feed } from './pages/Feed';
 import { Filings } from './pages/Filings';
@@ -41,6 +42,7 @@ export default function App() {
   const [feed, setFeed] = useState<FeedKey>('portfolio');
   const [tab, setTab] = useState<TabKey>('pulse');
   const [addOpen, setAddOpen] = useState(false);
+  const [subscribeOpen, setSubscribeOpen] = useState(false);
 
   const [customKeywords, setCustomKeywordsState] = useState<string[]>(() =>
     getCustomKeywords(),
@@ -173,6 +175,7 @@ export default function App() {
         refreshing={refreshing}
         onRefresh={() => void fetchData(true)}
         onOpenAdd={() => setAddOpen(true)}
+        onOpenSubscribe={() => setSubscribeOpen(true)}
       />
 
       <main className="mx-auto max-w-7xl px-4 py-5 sm:px-6">
@@ -229,6 +232,8 @@ export default function App() {
           onRemoveCompany={removeCompany}
         />
       )}
+
+      <SubscribePanel open={subscribeOpen} onClose={() => setSubscribeOpen(false)} />
     </div>
   );
 }

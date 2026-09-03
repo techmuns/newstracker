@@ -39,10 +39,12 @@ import {
   ymd,
 } from './lib/util.mjs';
 import { firecrawlNews } from './lib/firecrawl.mjs';
+import { valuepickrSearch } from './lib/valuepickr.mjs';
 
 const MUNS_TOKEN = process.env.MUNS_TOKEN || '';
 const FIRECRAWL_API_KEY = process.env.FIRECRAWL_API_KEY || '';
 const NEWSFLOW_URL = process.env.NEWSFLOW_URL || '';
+const VALUEPICKR = process.env.VALUEPICKR !== '0'; // Valuepickr forum source (on by default)
 // Is the Claude brain available downstream? If so we can be loose here and let
 // enrich.mjs do the real keep/drop; if not, keep the interim feed keyword-clean.
 const BRAIN_ON = !!(process.env.BEDROCK_API_KEY && process.env.BEDROCK_MODEL_ID);
@@ -70,6 +72,7 @@ const stat = {
   googleErrors: 0,
   munshotKept: 0,
   firecrawlKept: 0,
+  valuepickrKept: 0,
   universeKept: 0,
 };
 
@@ -293,6 +296,17 @@ async function main() {
         }
       }
     }
+    // Valuepickr forum threads (no key). Opinion-heavy — Claude filters in enrich.
+    if (VALUEPICKR) {
+      const vp = await valuepickrSearch(co.company);
+      for (const raw of vp) {
+        const it = toNewsItem(raw, co, matcher);
+        if (it) {
+          out.push(it);
+          stat.valuepickrKept++;
+        }
+      }
+    }
     out.sort((a, b) => b.date.localeCompare(a.date));
     return out.slice(0, PER_COMPANY_CAP);
   });
@@ -338,9 +352,10 @@ async function main() {
   if (stat.googleKept > 0 || stat.universeKept > 0) sourcesUsed.push('google-news');
   if (stat.munshotKept > 0) sourcesUsed.push('munshot');
   if (stat.firecrawlKept > 0) sourcesUsed.push('firecrawl');
+  if (stat.valuepickrKept > 0) sourcesUsed.push('valuepickr');
 
   console.log(
-    `[news] kept — google:${stat.googleKept} munshot:${stat.munshotKept} firecrawl:${stat.firecrawlKept} universe:${stat.universeKept} · google errors:${stat.googleErrors} · unique incoming:${incoming.length}`,
+    `[news] kept — google:${stat.googleKept} munshot:${stat.munshotKept} firecrawl:${stat.firecrawlKept} valuepickr:${stat.valuepickrKept} universe:${stat.universeKept} · google errors:${stat.googleErrors} · unique incoming:${incoming.length}`,
   );
 
   if (incoming.length === 0) {

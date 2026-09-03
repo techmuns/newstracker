@@ -5,15 +5,17 @@ surfaces only **fundamental business news** about the companies you track —
 orders, capex, mergers, approvals, fraud, and so on — with day-to-day
 share-price noise stripped out. Every story is source-backed with a real link.
 
-> **Status: Prompt 3 of 4 — the Claude brain + live "add" boxes.**
-> Real news is scraped (Google News + optional Munshot / Firecrawl), then a
-> **Claude (Bedrock)** step decides keep/drop and assigns topic, mood,
-> importance, and a plain one-line takeaway — junk (price moves, broker ratings,
-> data/SEO pages) is dropped. The **add-keyword / add-stock** boxes now persist
-> to **Cloudflare KV** via `/api/custom` and feed the next scrape.
-> There is **no login** — the app opens straight to the dashboard.
-> If no Bedrock key is set, everything still runs in a clean interim state
-> (keyword-matched, neutral mood/medium importance). The morning email is Prompt 4.
+> **Status: Prompt 4 of 4 — complete.**
+> Real news is scraped (Google News + **Valuepickr** forum + optional Munshot /
+> Firecrawl), a **Claude (Bedrock)** step decides keep/drop and assigns topic,
+> mood, importance, and a plain takeaway, and visitors can **subscribe** with
+> their email + a day/time to receive a **Munshot-branded newspaper email
+> digest** of their feeds — sent by an hourly Cloudflare **Cron Trigger**, with
+> one-click unsubscribe. The add-keyword / add-stock boxes persist to Cloudflare
+> **KV** via `/api/custom`. There is **no login**.
+> Everything degrades gracefully: no Bedrock key → clean neutral interim; no
+> Munshot email secrets → the digest just doesn't send. See `email-preview.html`
+> for the exact email look.
 
 ---
 
@@ -71,6 +73,8 @@ ENRICH_MOCK=1 node enrich.mjs # test the enrich pipeline locally, no Bedrock key
 any custom stocks from KV) one lightweight query per source:
 
 - **Google News RSS** — the free, no-key backbone (always works).
+- **Valuepickr forum** — the Discourse forum's JSON search, no key (opinion-heavy,
+  so Claude keeps only the genuinely fundamental threads). Disable with `VALUEPICKR=0`.
 - **Munshot news-search** — supplement, only if `MUNS_TOKEN` is set.
 - **Firecrawl** — optional bonus publisher pass, only if `FIRECRAWL_API_KEY` is set.
 
@@ -105,12 +109,19 @@ zero items never blanks the file; existing enriched items are never re-clobbered
 | `BEDROCK_MODEL_ID`  | The Claude model / inference-profile id (Haiku 4.5 rec.)  |
 | `AWS_REGION`        | Bedrock region (defaults to `us-east-1`)                  |
 | `NEWSFLOW_URL`      | Deployed site URL — lets the scraper read custom KV lists |
-| `MUNS_TOKEN`        | Munshot news + filings                                    |
-| `MUNS_EMAIL`        | Munshot filings (endpoint requires it)                    |
+| `MUNS_TOKEN`        | Munshot news + filings, and the email digest send         |
+| `MUNS_EMAIL`        | Munshot filings + the email digest from-address           |
 | `FIRECRAWL_API_KEY` | Firecrawl publisher pass (bonus)                          |
+| `VALUEPICKR`        | set `0` to disable the Valuepickr source (on by default)  |
 
 Google News needs no key, so the news scraper always produces data; without
 `BEDROCK_*` the feed stays in the neutral interim state.
+
+The Worker reads a few more (set as Worker vars/secrets in the Cloudflare
+dashboard, not repo secrets): `MUNS_TOKEN` + `MUNS_EMAIL` + `MUNS_EMAIL_ENDPOINT`
+(defaults to `https://fastapi.muns.io/tools/email-send`) enable the digest send;
+`SITE_URL` is a fallback origin for unsubscribe links; `SEND_EMPTY=true` sends a
+"quiet day" note when there's no news.
 
 ### Custom keywords / stocks (Cloudflare KV) — one-time setup
 
@@ -125,6 +136,28 @@ Paste the printed id into the `[[kv_namespaces]]` block in `wrangler.toml` and
 uncomment those three lines, then push. Add a `NEWSFLOW_URL` repo secret (your
 deployed site URL) so the scraper reads the lists. Until configured, the boxes
 fall back to `localStorage` and nothing breaks.
+
+## Email digest (Prompt 4)
+
+Visitors subscribe from the **Brief** button in the top bar (email + day/time +
+feeds). The Worker stores each subscription in the same `NEWSFLOW_KV` under
+`sub:<sha256(email)>`, and an **hourly Cloudflare Cron Trigger**
+(`[triggers] crons = ["0 * * * *"]`) runs `scheduled()`:
+
+- computes the current IST weekday + hour, finds subscriptions due now (day
+  matches, at/after their chosen hour, not already sent today),
+- reads `news.json` via the ASSETS binding, filters to the subscriber's feeds
+  (enriched items preferred), takes the top ~14 by importance then recency,
+- renders a **Munshot-branded newspaper email** (`worker/email.mjs` — masthead,
+  by-the-numbers strip, a front page, topic sections in the dashboard's colours,
+  a footer) and sends it via the Munshot Email API, then marks `lastSentDate` so
+  it sends **once per day**. Every email has a one-click unsubscribe link
+  (`GET /api/unsubscribe?token=…`).
+
+`worker/email.mjs` is shared: `node scrapers/email-preview.mjs` writes
+**`email-preview.html`** so the exact look can be reviewed in a browser
+(`PREVIEW_FROM_LIVE=1` renders the committed feed instead of the sample).
+Without the Munshot email secrets, everything still runs and just doesn't send.
 
 ## Deployment (Cloudflare Workers Builds — connected repo, automated forever)
 
@@ -154,25 +187,29 @@ public/data/
   news.json          scraped, keyword-matched news (envelope: generated_at, source, counts, items)
   filings.json       NSE/BSE filings (Munshot; sample until MUNS_* is set)
 scrapers/
-  news.mjs           Google News + Munshot + Firecrawl -> news.json (recall gate)
+  news.mjs           Google News + Valuepickr + Munshot + Firecrawl -> news.json
   enrich.mjs         Claude (Bedrock) keep/drop + topic/mood/importance/takeaway
   filings.mjs        Munshot filings -> filings.json
+  email-preview.mjs  writes ../email-preview.html from the shared renderer
   lib/util.mjs       fetch, RSS parse, keyword match, noise + data/SEO blocklist, merge
+  lib/valuepickr.mjs Valuepickr Discourse forum search
   lib/firecrawl.mjs  optional publisher pass
 src/
-  lib/               types, theme, data layer, metrics, storage, format, api (/api/custom)
-  components/         TopBar, FeedToggle, Tabs, FilterBar, AddPanel, NewsCard, charts/, ui/
+  lib/               types, theme, data layer, metrics, storage, format, api
+  components/         TopBar, FeedToggle, Tabs, FilterBar, AddPanel, SubscribePanel, NewsCard, charts/, ui/
   pages/             Pulse.tsx, Feed.tsx, Filings.tsx
   App.tsx main.tsx index.css
-worker/index.ts      Cloudflare Worker (serves dist/; /api/custom -> KV)
-.github/workflows/   refresh-news.yml (scheduled scrape -> commit -> auto-deploy)
+worker/index.ts      Worker: serves dist/, /api/custom + /api/subscribe -> KV, scheduled() cron
+worker/email.mjs     newspaper email renderer (shared with the preview script)
+email-preview.html   saved preview of the newspaper email
+.github/workflows/   refresh-news.yml (news -> enrich -> filings -> commit -> auto-deploy)
 ```
 
 ## Roadmap
 
 - **Prompt 1:** full front-end on sample data. ✅
 - **Prompt 2:** real scrapers → real `news.json` / `filings.json`; login removed. ✅
-- **Prompt 3 (this):** Claude (Bedrock) enrichment — real noise-filter, topic,
-  mood, importance, one-line takeaway; Cloudflare KV "memory" so custom
-  keywords/stocks feed the scraper; wider Universe. ✅
-- **Prompt 4:** a morning email digest.
+- **Prompt 3:** Claude (Bedrock) enrichment — noise-filter, topic, mood,
+  importance, takeaway; Cloudflare KV "memory" for custom keywords/stocks. ✅
+- **Prompt 4 (this):** Valuepickr forum source; email subscriptions + an hourly
+  Cron Trigger sending a Munshot-branded newspaper digest with unsubscribe. ✅
