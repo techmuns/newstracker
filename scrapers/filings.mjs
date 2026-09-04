@@ -259,7 +259,7 @@ async function main() {
     return;
   }
 
-  const merged = mergeItems(existing, incoming, { retentionDays: 100, cap: 400 });
+  const merged = mergeItems(existing, incoming, { retentionDays: 100, cap: 2000 });
   if (merged.items.length === 0) {
     console.log('[filings] Nothing to write after merge — leaving file untouched.');
     return;

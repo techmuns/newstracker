@@ -364,7 +364,7 @@ async function main() {
     return;
   }
 
-  const merged = mergeItems(existing, incoming, { retentionDays: 100, cap: 500 });
+  const merged = mergeItems(existing, incoming, { retentionDays: 100, cap: 2000 });
   // Collapse near-duplicate stories so the feed never shows the same event twice.
   const finalItems = collapseDuplicates(merged.items).sort((a, b) =>
     String(b.date || '').localeCompare(String(a.date || '')),
