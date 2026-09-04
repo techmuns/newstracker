@@ -319,7 +319,7 @@ async function handleSendTest(request: Request, env: Env): Promise<Response> {
   const feeds = ['portfolio', 'watchlist'];
   const news = (await readAsset(env, 'news.json')) || { items: [] };
   const allItems: any[] = Array.isArray(news.items) ? news.items : [];
-  const items = selectItems(allItems, feeds, 14);
+  const items = selectItems(allItems, feeds, 30);
   const nowIso = new Date().toISOString();
   const origin = (url.origin || env.SITE_URL || '').replace(/\/$/, '');
   const htmlBody = renderNewspaper({
@@ -384,7 +384,7 @@ async function runDigests(env: Env): Promise<DigestSummary> {
 
   for (const { key, sub } of due) {
     try {
-      const items = selectItems(allItems, sub.feeds, 14);
+      const items = selectItems(allItems, sub.feeds, 30);
       const origin = (sub.origin || env.SITE_URL || '').replace(/\/$/, '');
       const unsubUrl = `${origin}/api/unsubscribe?token=${sub.unsubToken}`;
 
@@ -521,7 +521,7 @@ async function handleSendNow(request: Request, env: Env): Promise<Response> {
   const feeds = ['portfolio', 'watchlist'];
   const news = (await readAsset(env, 'news.json')) || { items: [] };
   const allItems: any[] = Array.isArray(news.items) ? news.items : [];
-  const items = selectItems(allItems, feeds, 14);
+  const items = selectItems(allItems, feeds, 30);
   const nowIso = new Date().toISOString();
   const origin = (new URL(request.url).origin || env.SITE_URL || '').replace(/\/$/, '');
   const htmlBody = renderNewspaper({

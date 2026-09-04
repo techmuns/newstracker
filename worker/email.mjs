@@ -77,18 +77,15 @@ export function buildSubject(count, feeds, iso) {
 }
 
 // Pick + order the items for one subscriber's edition.
-export function selectItems(items, feeds, limit = 14) {
+export function selectItems(items, feeds, limit = 30) {
   const inFeed = (it) => (it.scope || []).some((s) => feeds.includes(s));
   let pool = items.filter(inFeed);
   const enriched = pool.filter((it) => it.enriched);
   if (enriched.length) pool = enriched; // once Claude is on, only clean items
   const seen = new Set();
   pool = pool.filter((it) => (seen.has(it.id) ? false : (seen.add(it.id), true)));
-  pool.sort(
-    (a, b) =>
-      (IMP_RANK[a.importance] ?? 1) - (IMP_RANK[b.importance] ?? 1) ||
-      String(b.date || '').localeCompare(String(a.date || '')),
-  );
+  // Recency-first: the digest carries the most RECENT fundamental updates.
+  pool.sort((a, b) => String(b.date || '').localeCompare(String(a.date || '')));
   return pool.slice(0, limit);
 }
 
