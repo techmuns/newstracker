@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T20:33:23.796Z",
+  "generated_at": "2026-09-04T17:44:57.773Z",
   "portfolio": [
     {
       "company": "Monolithisch India Limited",
@@ -47,6 +47,11 @@
       "sector": "Consumer Durables"
     },
     {
+      "company": "Acutaas Chemicals Limited",
+      "ticker": "ACUTAAS",
+      "sector": "Healthcare"
+    },
+    {
       "company": "Apsis Aerocom Limited",
       "ticker": "APSISAERO",
       "sector": "Capital Goods"
@@ -55,11 +60,6 @@
       "company": "Cartrade Tech Limited",
       "ticker": "CARTRADE",
       "sector": "Consumer Services"
-    },
-    {
-      "company": "Acutaas Chemicals Limited",
-      "ticker": "ACUTAAS",
-      "sector": "Healthcare"
     },
     {
       "company": "Epigral Limited",
@@ -100,6 +100,11 @@
       "company": "Lumino Industries Limited",
       "ticker": "LUMINO",
       "sector": "Capital Goods"
+    },
+    {
+      "company": "ESDS Software Solution Limited",
+      "ticker": "ESDS",
+      "sector": "Information Technology"
     },
     {
       "company": "TANFAC Industries Ltd",

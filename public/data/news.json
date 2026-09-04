@@ -1,13 +1,748 @@
 {
-  "generated_at": "2026-09-04T07:45:22.245Z",
+  "generated_at": "2026-09-04T17:53:19.850Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 60,
-    "watchlist": 312,
-    "universe": 13,
-    "total": 325
+    "portfolio": 64,
+    "watchlist": 362,
+    "universe": 16,
+    "total": 378
   },
   "items": [
+    {
+      "id": "n8f03f4fa38ae",
+      "ticker": "MSECL",
+      "company": "Monarch Surveyors and Engineering Consultants Ltd",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Monarch Surveyors and Engineering gains on bagging Rs 2-cr work order | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/markets/capital-market-news/monarch-surveyors-and-engineering-gains-on-bagging-rs-2-cr-work-order-126082400282_1.html",
+      "source": "business-standard.com",
+      "date": "2026-09-04T17:50:04.093Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Monarch Surveyors wins Rs 2 crore work order.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nad5de4bb6be0",
+      "ticker": "MSECL",
+      "company": "Monarch Surveyors and Engineering Consultants Ltd",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Monarch Surveyors wins Rs 2.53 Cr order for DPRs",
+      "url": "https://scanx.trade/stock-market-news/companies/monarch-surveyors-wins-rs-2-53-cr-order-for-dprs/45936773",
+      "source": "scanx.trade",
+      "date": "2026-09-04T17:50:04.093Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Monarch Surveyors secures Rs 2.53 crore order for detailed project reports.",
+      "enriched": true
+    },
+    {
+      "id": "n2afbb832ba6b",
+      "ticker": "VOEPL",
+      "company": "Virtuoso Optoelectronics Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Virtuoso Optoelectronics Sets July 10 Investor Meeting Amid ₹150 Cr Capacity Expansion Program",
+      "url": "https://www.sahi.com/news/virtuoso-optoelectronics-sets-july-10-investor-meeting-amid-150-cr-capacity-expansion-program-5207-PE1_COR",
+      "source": "sahi.com",
+      "date": "2026-09-04T17:49:22.226Z",
+      "topic": "Growth",
+      "keyword": "Capacity Expansion",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Virtuoso Optoelectronics announces Rs 150 crore capacity expansion program.",
+      "enriched": true
+    },
+    {
+      "id": "n9945ecfa6872",
+      "ticker": "VBL",
+      "company": "Varun Beverages Limited",
+      "sector": "Fast Moving Consumer Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Varun Beverages Plans Alcoholic Beverage Foray, Appoints Prathmesh Mishra as its MD & CEO",
+      "url": "https://www.businessoffood.in/varun-beverages-plans-alcoholic-beverage-foray-appoints-prathmesh-mishra-as-its-md-ceo/",
+      "source": "businessoffood.in",
+      "date": "2026-09-04T17:49:20.516Z",
+      "topic": "Deals",
+      "keyword": "Joint Venture",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Varun Beverages entering alcoholic drinks business and appointed Prathmesh Mishra as MD & CEO.",
+      "enriched": true
+    },
+    {
+      "id": "ne7d91286c510",
+      "ticker": "UNIMECH",
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Unimech Aerospace And Manufacturing Ltd (NSE:UNIMECH) (Q1 FY27) Earnings Call Highlights: ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/unimech-aerospace-manufacturing-ltd-nse-010220485.html",
+      "source": "finance.yahoo.com",
+      "date": "2026-09-04T17:49:15.818Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Unimech Aerospace held Q1 FY27 earnings call discussing quarterly results.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n713af8f1c248",
+      "ticker": "UNIMECH",
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Unimech Aerospace: Approves ₹750 Cr QIP, ₹5 Cr Investment | InvestyWise",
+      "url": "https://www.investywise.com/unimech-aerospace-board-approves-qip-and-financial-results/",
+      "source": "investywise.com",
+      "date": "2026-09-04T17:49:15.818Z",
+      "topic": "Money",
+      "keyword": "QIP",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Unimech Aerospace approved ₹750 crore QIP fundraising and ₹5 crore investment.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n48f16d26ca43",
+      "ticker": "SONACOMS",
+      "company": "Sona BLW Precision Forgings Limited",
+      "sector": "Automobile and Auto Components",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Khaitan & Co Advised Denso Corporation On Strategic Joint Venture With Sona BLW Precision Forgings",
+      "url": "https://www.legaleraonline.com/deal-street/khaitan-advised-denso-sona-blw-strategic-jv-989338",
+      "source": "legaleraonline.com",
+      "date": "2026-09-04T17:49:01.122Z",
+      "topic": "Deals",
+      "keyword": "Joint Venture",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Sona BLW formed strategic joint venture with Denso Corporation.",
+      "enriched": true
+    },
+    {
+      "id": "n078a78b8716c",
+      "ticker": "SHAILY",
+      "company": "Shaily Engineering Plastics Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Q1 2027 Shaily Engineering Plastics Ltd Earnings Call Transcript",
+      "url": "https://www.gurufocus.com/news/9026371/q1-2027-shaily-engineering-plastics-ltd-earnings-call-transcript",
+      "source": "gurufocus.com",
+      "date": "2026-09-04T17:48:30.837Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Shaily Engineering Plastics released Q1 2027 earnings call transcript.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "na103e2cf25b8",
+      "ticker": "SETL",
+      "company": "Standard Engineering Technology Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Standard Engineering Technology Evaluates Q1 Results Against ₹20.9 Crore YoY Profit Baseline",
+      "url": "https://www.sahi.com/news/standard-engineering-technology-evaluates-q1-results-against-20-9-crore-yoy-profit-baseline-1577645-PE1_",
+      "source": "sahi.com",
+      "date": "2026-09-04T17:48:29.325Z",
+      "topic": "Money",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Standard Engineering Technology evaluates Q1 results against ₹20.9 crore profit baseline.",
+      "enriched": true
+    },
+    {
+      "id": "n5d8e68210a6b",
+      "ticker": "SETL",
+      "company": "Standard Engineering Technology Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Standard Engineering Technology hosts Q1FY27 earnings call on Aug 6",
+      "url": "https://scanx.trade/stock-market-news/companies/standard-engineering-technology-q1-results-earnings-call-scheduled-for-aug-6/47318509",
+      "source": "scanx.trade",
+      "date": "2026-09-04T17:48:29.325Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Standard Engineering Technology schedules Q1FY27 earnings call for August 6.",
+      "enriched": true
+    },
+    {
+      "id": "nb4025427e43e",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Sapphire Foods India Schedules Q1 FY27 Earnings Call for July 24 at 4:30 PM IST",
+      "url": "https://scanx.trade/stock-market-news/companies/sapphire-foods-india-ltd-to-discuss-q1-fy27-results-on-july-24/46089551",
+      "source": "scanx.trade",
+      "date": "2026-09-04T17:48:21.154Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Sapphire Foods India schedules Q1 FY27 earnings call for July 24 at 4:30 PM IST.",
+      "enriched": true
+    },
+    {
+      "id": "n2655375fd099",
+      "ticker": "RUBICON",
+      "company": "Rubicon Research Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Rubicon Research Reports Q1 Net Profit Of 848M Rupees and Revenue Of 5.3B Rupees",
+      "url": "https://www.sahi.com/news/rubicon-research-reports-q1-net-profit-of-848m-rupees-and-revenue-of-5-3b-rupees-4905389-PE1_",
+      "source": "sahi.com",
+      "date": "2026-09-04T17:48:18.023Z",
+      "topic": "Money",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Rubicon Research reports Q1 net profit of ₹848 million and revenue of ₹5.3 billion.",
+      "enriched": true
+    },
+    {
+      "id": "nddbfa0f36f35",
+      "ticker": "PVRINOX",
+      "company": "PVR INOX Limited",
+      "sector": "Media Entertainment & Publication",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "PVR INOX: Publishes Corrigendum for Equity Share Buyback Announcement | InvestyWise",
+      "url": "https://www.investywise.com/pvr-inox-corrigendum-issued-for-share-buyback-announcement/",
+      "source": "investywise.com",
+      "date": "2026-09-04T17:48:15.060Z",
+      "topic": "Money",
+      "keyword": "Buyback",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "PVR INOX publishes corrigendum for equity share buyback announcement.",
+      "enriched": true
+    },
+    {
+      "id": "n5337940bc777",
+      "ticker": "PVRINOX",
+      "company": "PVR INOX Limited",
+      "sector": "Media Entertainment & Publication",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "PVR INOX buyback approved: From price per share to record date - what investors need to know | Stock Market News",
+      "url": "https://www.livemint.com/market/pvr-inox-buyback-approved-from-price-per-share-to-record-date-what-investors-need-to-know-11788188753724.html",
+      "source": "livemint.com",
+      "date": "2026-09-04T17:48:15.060Z",
+      "topic": "Money",
+      "keyword": "Buyback",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "PVR INOX buyback approved with price and record date set for shareholders.",
+      "enriched": true
+    },
+    {
+      "id": "n75b80342bf43",
+      "ticker": "PVRINOX",
+      "company": "PVR INOX Limited",
+      "sector": "Media Entertainment & Publication",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "PVR Inox Board to Consider Share Buyback on Aug 31: Rediff Moneynews",
+      "url": "https://money.rediff.com/news/market/pvr-inox-board-to-consider-share-buyback-on-aug-31/53127520260825",
+      "source": "money.rediff.com",
+      "date": "2026-09-04T17:48:15.060Z",
+      "topic": "Money",
+      "keyword": "Buyback",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "PVR INOX board to consider share buyback proposal on August 31.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n83fb42743c60",
+      "ticker": "MEDIASSIST",
+      "company": "Medi Assist Healthcare Services Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Medi Assist Q1 Results: Board meets Aug 8 to approve financials",
+      "url": "https://scanx.trade/stock-market-news/companies/medi-assist-q1-results-board-meets-aug-8-to-approve-financials/47306973",
+      "source": "scanx.trade",
+      "date": "2026-09-04T17:47:45.483Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Board meeting scheduled for August 8 to approve quarterly financial results.",
+      "enriched": true
+    },
+    {
+      "id": "n93b708a251dd",
+      "ticker": "LAXMIDENTL",
+      "company": "Laxmi Dental Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Q1 2027 Laxmi Dental Ltd Earnings Call Transcript",
+      "url": "https://www.gurufocus.com/news/9027891/q1-2027-laxmi-dental-ltd-earnings-call-transcript",
+      "source": "gurufocus.com",
+      "date": "2026-09-04T17:47:25.529Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Company held earnings call to discuss first quarter 2027 financial performance.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "nac7abeee9c46",
+      "ticker": "INDOFARM",
+      "company": "Indo Farm Equipment Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Indo Farm Equipment Ltd (NSE:INDOFARM) (Q1 2027) Earnings Call Highlights: Tractor Sales Surge ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/indo-farm-equipment-ltd-nse-010738169.html",
+      "source": "finance.yahoo.com",
+      "date": "2026-09-04T17:47:19.461Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Tractor sales surged in Q1 FY27.",
+      "enriched": true
+    },
+    {
+      "id": "n55442e054cb1",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Q1 2027 Goldiam International Ltd Earnings Call Transcript",
+      "url": "https://www.gurufocus.com/news/9026361/q1-2027-goldiam-international-ltd-earnings-call-transcript",
+      "source": "gurufocus.com",
+      "date": "2026-09-04T17:47:07.134Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Q1 FY27 earnings call held.",
+      "enriched": true
+    },
+    {
+      "id": "n3b6b1b2aaac4",
+      "ticker": "GMMPFAUDLR",
+      "company": "GMM Pfaudler Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Q1 2027 GMM Pfaudler Ltd Earnings Call Transcript",
+      "url": "https://www.gurufocus.com/news/9029409/q1-2027-gmm-pfaudler-ltd-earnings-call-transcript",
+      "source": "gurufocus.com",
+      "date": "2026-09-04T17:47:04.171Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Q1 FY27 earnings call held.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "nd9852062ad1b",
+      "ticker": "EMAPARTNER",
+      "company": "EMA Partners India Limited",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "EMA Partners India acquires digital RPO services provider Taggd in Rs 95 crore all-cash deal - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/ema-partners-india-acquires-digital-rpo-services-provider-taggd-in-rs-95-crore-all-cash-deal/articleshow/131954048.cms?from=mdr",
+      "source": "m.economictimes.com",
+      "date": "2026-09-04T17:46:46.093Z",
+      "topic": "Deals",
+      "keyword": "Partnership",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Acquired digital RPO provider Taggd for Rs 95 crore in all-cash deal.",
+      "enriched": true
+    },
+    {
+      "id": "n4b590119f2a6",
+      "ticker": "DHOOTTRANS",
+      "company": "Dhoot Transmission Limited",
+      "sector": "Automobile and Auto Components",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Dhoot Transmission Q1FY27 Results: Earnings call scheduled for Sep 4",
+      "url": "https://scanx.trade/stock-market-news/companies/dhoot-transmission-q1fy27-results-earnings-call-scheduled-sep-4/49824779",
+      "source": "scanx.trade",
+      "date": "2026-09-04T17:46:28.221Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Dhoot Transmission scheduled earnings call for Q1FY27 results on Sep 4.",
+      "enriched": true
+    },
+    {
+      "id": "n390dee3a024a",
+      "ticker": "DHOOTTRANS",
+      "company": "Dhoot Transmission Limited",
+      "sector": "Automobile and Auto Components",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Earnings call transcript: Dhoot Transmission posts 50% revenue growth in Q1 2027 By Investing.com",
+      "url": "https://investing.com/news/transcripts/earnings-call-transcript-dhoot-transmission-posts-50-revenue-growth-in-q1-2027-93CH-4889334",
+      "source": "investing.com",
+      "date": "2026-09-04T17:46:28.221Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Dhoot Transmission reported 50% revenue growth in Q1 2027.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nfe58b5293414",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "DEE Development Engineers Maintains ₹2,428.79 Crore Order Book | Machine Maker - Latest Manufacturing News | Indian Manufacturing News - Latest Manufacturing News | Indian Manufacturing News - Machine Maker",
+      "url": "https://themachinemaker.com/news/dee-development-engineers-maintains-%E2%82%B92428-79-crore-order-book/",
+      "source": "themachinemaker.com",
+      "date": "2026-09-04T17:46:22.574Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "DEE Development Engineers maintains order book of ₹2,428.79 crore.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n205fe5b30139",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "DEE Development Engineers Q1 FY27 Call Audio Recording 2026 | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/dee-development-q1fy27-call-audio-cmsp1jlx86voy0znzx4idfpo0",
+      "source": "multibagg.ai",
+      "date": "2026-09-04T17:46:22.574Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "DEE Development Engineers released Q1 FY27 earnings call audio recording.",
+      "enriched": true
+    },
+    {
+      "id": "nd49872d25355",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "DEE Development Engineers Q1 Results: Earnings call audio released",
+      "url": "https://scanx.trade/stock-market-news/companies/dee-development-engineers-q1-results-earnings-call-audio-released/47633088",
+      "source": "scanx.trade",
+      "date": "2026-09-04T17:46:22.574Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "DEE Development Engineers released Q1 results earnings call audio.",
+      "enriched": true
+    },
+    {
+      "id": "n4c897d992753",
+      "ticker": "DAMCAPITAL",
+      "company": "Dam Capital Advisors Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "PVR Inox stock in focus today as board clears share buyback - BusinessToday",
+      "url": "https://www.businesstoday.in/markets/stocks/story/pvr-inox-stock-in-focus-today-as-board-clears-share-buyback-552434-2026-09-01",
+      "source": "businesstoday.in",
+      "date": "2026-09-04T17:46:20.778Z",
+      "topic": "Money",
+      "keyword": "Buyback",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "PVR Inox board approves share buyback worth up to ₹300 crore.",
+      "enriched": true
+    },
+    {
+      "id": "ne2f23f8ba58c",
+      "ticker": "DAMCAPITAL",
+      "company": "Dam Capital Advisors Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "PVR Inox board approves share buyback worth up to ₹300 crore; all you need to know",
+      "url": "https://upstox.com/news/market-news/stocks/pvr-inox-shares-in-focus-as-board-approves-proposal-to-buyback-shares-up-to-300-crore-all-you-need-to-know/article-199539/",
+      "source": "upstox.com",
+      "date": "2026-09-04T17:46:20.778Z",
+      "topic": "Money",
+      "keyword": "Buyback",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "PVR Inox board approves share buyback worth up to ₹300 crore.",
+      "enriched": true
+    },
+    {
+      "id": "n49a4dd1146c8",
+      "ticker": "BALUFORGE",
+      "company": "Balu Forge Industries Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Balu Forge Industries acquires major ring rolling production line | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/markets/capital-market-news/balu-forge-industries-acquires-major-ring-rolling-production-line-126090300492_1.html",
+      "source": "business-standard.com",
+      "date": "2026-09-04T17:46:10.315Z",
+      "topic": "Growth",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Balu Forge Industries acquires major ring rolling production line to expand capacity.",
+      "enriched": true,
+      "sources_count": 2
+    },
+    {
+      "id": "nd8041284bae6",
+      "ticker": "ADVAIT",
+      "company": "Advait Energy Transitions Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Advait Energy Transitions gains after bagging Rs 135-cr order from MPPTCL | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/markets/capital-market-news/advait-energy-transitions-gains-after-bagging-rs-135-cr-order-from-mpptcl-126082600330_1.html",
+      "source": "business-standard.com",
+      "date": "2026-09-04T17:46:00.693Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Advait Energy won Rs 135 crore order from MPPTCL for power transmission work.",
+      "enriched": true
+    },
+    {
+      "id": "n892ee98fabdf",
+      "ticker": "ADVAIT",
+      "company": "Advait Energy Transitions Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Advait Energy secures Rs 134.62 crore MPPTCL order",
+      "url": "https://manufacturingtodayindia.com/advait-energy-secures-rs-134-62-cr",
+      "source": "manufacturingtodayindia.com",
+      "date": "2026-09-04T17:46:00.693Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Advait Energy secured Rs 134.62 crore contract from MPPTCL.",
+      "enriched": true
+    },
+    {
+      "id": "n97622943fa8c",
+      "ticker": "ADVAIT",
+      "company": "Advait Energy Transitions Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Advait Energy Transitions secures turnkey contract from GETCO | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/markets/capital-market-news/advait-energy-transitions-secures-turnkey-contract-from-getco-126081101169_1.html",
+      "source": "business-standard.com",
+      "date": "2026-09-04T17:46:00.693Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Advait Energy won turnkey contract from GETCO for power infrastructure.",
+      "enriched": true
+    },
+    {
+      "id": "n2f3d07cd5678",
+      "ticker": "STLTECH",
+      "company": "Sterlite Technologies Limited",
+      "sector": "Telecommunication",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Sterlite Tech shares hit 5% upper circuit as firm targets Rs 20,000 crore revenue by FY29 amid booming AI demand - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sterlite-tech-shares-hit-5-upper-circuit-as-firm-targets-rs-20000-crore-revenue-by-fy29-amid-booming-ai-demand/articleshow/133752549.cms",
+      "source": "economictimes.indiatimes.com",
+      "date": "2026-09-04T17:45:11.679Z",
+      "topic": "Growth",
+      "keyword": "Capex",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Sterlite Tech targets Rs 20,000 crore revenue by FY29, driven by AI demand growth.",
+      "enriched": true
+    },
+    {
+      "id": "n27f9b899857c",
+      "ticker": "STLTECH",
+      "company": "Sterlite Technologies Limited",
+      "sector": "Telecommunication",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Sterlite Technologies gains momentum with Rs 3,000-crore expansion roadmap | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/markets/capital-market-news/sterlite-technologies-gains-momentum-with-rs-3-000-crore-expansion-roadmap-126090400644_1.html",
+      "source": "business-standard.com",
+      "date": "2026-09-04T17:45:11.679Z",
+      "topic": "Growth",
+      "keyword": "Capacity Expansion",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Sterlite Technologies announces Rs 3,000 crore expansion plan to boost capacity.",
+      "enriched": true
+    },
+    {
+      "id": "nea0a66fcd7b0",
+      "ticker": "SHAILY",
+      "company": "Shaily Engineering Plastics Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Shaily Engineering Plastics proposes ₹3 dividend, seeks ₹500 crore fund-raising approval",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeUNNT2tOeHdQR2VIUkJvZGREdVY3SVJ5R1RqVzBuTUlyRjNGRkdvV09GTTFseDBCTlk4N1lkbFFpQnhsWmlGU005dFZueWQ0MDRBSjJIb1NkZThJaGs1OWE4Z3JpZm12SW8wQ295TWdfcGR6NlgwOUZ3dHM0X1J4ODc3NzlaMHZfYVRNTVVIMXlHNFd6bVVpN0FWWXRIOU9XU21WOFFDR3AxZWV3dU1sNjMwTVNxN04teUJpb1dKbFA4MFE?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-09-04T14:16:00.000Z",
+      "topic": "Money",
+      "keyword": "Approval",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Shaily Engineering proposes ₹3 dividend and seeks shareholder approval to raise ₹500 crore.",
+      "enriched": true
+    },
+    {
+      "id": "nb088577c3862",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
+      "scope": [
+        "universe"
+      ],
+      "title": "Lupin gets USFDA approval for Modafinil tablets to treat excessive sleepiness",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOYU5oLWpEazVVai10TDVYbDRnZjFKREF4RVA5NDI5ZnZFdi1felNpRjJiNEVtb1NQelZrX1dXRGcxZlJfZTRtX3dIdkVFRG9Ua0c0V1hxMXRpbXJyWTZMa0VWanh1LThHODJDZjBRUkZudnBQZE5telNVN2tJRnVVcEFlZjA1M29fa1JQVEJpSXVWb2ZvanRMaTFjajdDOHFVQmdlM003eVFRWlRBbUdWNk9GUjR1c3ZaRlNzcWg0blVjaXo2NE1VMGUzb0NSVERLM0hrTm4yeHluNHNhYko3VFZZV0xGTFBjWExEZzRjSGJOYlZ4bXZPMVNoUTJWLWlNZGFuX0hB0gGLAkFVX3lxTE1xX2pOc0EyWFVpWGpNdlFrcm8tYnhTOS1rYVM4Qk9ZNjVaMEQ4cWxrek43NUVhcVpLYzZMQlFHb3VuWU1hcWQwelA4TnR1RlNkVWlUUlhWd0RIa3dTZFhBMk53azY0cnpGUTdZbVRFc3NYc1h1enk5V0QyQ1kwQWlrUERoUVE5UlR4cHhKZmx2QzREcTdoLUVTV1NSQ1hoRmgzNDllOFFsVk9jR25BeXVCV0lVMGp4YWtQSml3cXJxNFRoeFhtOVc3Z3hRdkJVU2pmNTdVTmQ2RnhxX0JWVHRwTERrSUhvOUk2QkphdDJkMHV2YmNTa1hrVzFIZjQ2RFJvS3RxTmVkQUFvUQ?oc=5",
+      "source": "The Economic Times",
+      "date": "2026-09-04T13:25:01.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Lupin receives US FDA approval for Modafinil tablets to treat excessive sleepiness.",
+      "enriched": true
+    },
+    {
+      "id": "naba23ac8546d",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries India Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Solar Industries India Clarifies on South Africa Acquisition Reports",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVGJ4SU1zRklXdUFSMXZQS0VXcUxPX2lpR0hOaXFoWU5Obnkyc1dfNXJHNmZsSE5VbVNhVzItaUw1SURoWEVCMXpPaXZsdllnWHdPcUt0dTd0UHA3eGxNTjh2elRPaGVJeXliWXVzMmJFZ3FPWlRxemhZa05IZEVrRF93VkRXaDhjRlVHMm9Ka2pEWm9CYUdDRUFvbXlkWVN4N1JsRmtKa1pYQ0JFNVZJSlJEY1Zua28zYkVVZ0tvX3hEOWRrZDhpd29B?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-09-04T08:50:00.000Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Solar Industries clarifies on reports about potential South Africa acquisition.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nb44f71e607ee",
+      "ticker": "GLOBAL",
+      "company": "Optical Fibre",
+      "sector": "Telecom",
+      "scope": [
+        "universe"
+      ],
+      "title": "Sterlite Tech Shares Hit Upper Circuit After Rs 3,000 Crore Capex Plan",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYy1NM3RMQnBkcXR2bXY0UW5KV1ZBU1dkeXNQS3BRUnlDSTlZbWFqLUJvRHhGczB6aG5vYUlvUkk3dUZxODZIM0ZDSEFQQ0p4Nm5Ha3lrQXdqYmQ5Q1pkeWEtWTc4TFFtYjU4QnFNc2JlT0ZDZWhTcktBN3U2SzJrdE9aX0RaRGtGUVBYS2RCb2JubDZDSE5YUlNoM1VFUVFB?oc=5",
+      "source": "Equitypandit",
+      "date": "2026-09-04T08:41:58.000Z",
+      "topic": "Growth",
+      "keyword": "Capex",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Sterlite Tech announces ₹3,000 crore capex plan for capacity expansion.",
+      "enriched": true
+    },
     {
       "id": "nab7831fa225a",
       "ticker": "ADCOUNTY",
@@ -144,25 +879,6 @@
       "enriched": true
     },
     {
-      "id": "nc411a93c58a0",
-      "ticker": "PVRINOX",
-      "company": "PVR INOX Limited",
-      "sector": "Media Entertainment & Publication",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "PVR Inox Share Buyback: Board Meets Aug 31, Stock at High",
-      "url": "https://www.sahi.com/blogs/pvr-inox-share-buyback-board-meeting-52-week-high",
-      "source": "sahi.com",
-      "date": "2026-09-04T07:33:44.796Z",
-      "topic": "Money",
-      "keyword": "Buyback",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "PVR Inox board meeting scheduled for August 31 to discuss buyback.",
-      "enriched": true
-    },
-    {
       "id": "n16c38e731edf",
       "ticker": "PVRINOX",
       "company": "PVR INOX Limited",
@@ -259,26 +975,6 @@
       "enriched": true
     },
     {
-      "id": "nddaa524773ad",
-      "ticker": "LAXMIDENTL",
-      "company": "Laxmi Dental Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Laxmi Dental Ltd (NSE:LAXMIDENTL) (Q1 2027) Earnings Call Highlights: Record Revenue and ...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/laxmi-dental-ltd-nse-laxmidentl-150024610.html",
-      "source": "finance.yahoo.com",
-      "date": "2026-09-04T07:32:54.909Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Laxmi Dental reported record revenue in Q1 FY27 earnings.",
-      "enriched": true,
-      "sources_count": 2
-    },
-    {
       "id": "nd47906e2bcdc",
       "ticker": "JYOTICNC",
       "company": "Jyoti CNC Automation Limited",
@@ -315,46 +1011,6 @@
       "mood": "neutral",
       "takeaway": "Shareholders approved FY26 dividend and appointed Gelhaus as CEO.",
       "enriched": true
-    },
-    {
-      "id": "ne488730d156b",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "DEE Development Engineers Maintains Strong ?2,428.79 Crore Order Book in July 2026",
-      "url": "https://smestreet.in/infocus/dee-development-engineers-maintains-strong-242879-crore-order-book-in-july-2026-12249461",
-      "source": "smestreet.in",
-      "date": "2026-09-04T07:31:52.631Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "DEE Development Engineers maintains order book of ₹2,429 crore as of July 2026.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "nf4a34eb5acc9",
-      "ticker": "BALUFORGE",
-      "company": "Balu Forge Industries Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Balu Forge acquires state-of-the-art ring rolling production line | Capital Market News - Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/balu-forge-acquires-state-of-the-art-ring-rolling-production-line-126090300141_1.html",
-      "source": "business-standard.com",
-      "date": "2026-09-04T07:31:40.948Z",
-      "topic": "Growth",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Balu Forge acquires new ring rolling production line to expand manufacturing capacity.",
-      "enriched": true,
-      "sources_count": 2
     },
     {
       "id": "nf48998cafc8e",
@@ -588,7 +1244,8 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Rajesh Power Services secures Rs 363 crore order from PGVCL.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "na3faac8aacc0",
@@ -726,26 +1383,6 @@
       "enriched": true
     },
     {
-      "id": "ndbac1d406588",
-      "ticker": "MSECL",
-      "company": "Monarch Surveyors and Engineering Consultants Ltd",
-      "sector": "Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Monarch Surveyors and Engineering Consultants receives Rs 2-cr work order | Capital Market News - Business Standard",
-      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-and-engineering-consultants-receives-rs-2-cr-work-order-126082200734_1.html",
-      "source": "business-standard.com",
-      "date": "2026-09-03T20:34:46.612Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Company received a Rs 2 crore work order.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "n1239090ff7c4",
       "ticker": "MSECL",
       "company": "Monarch Surveyors and Engineering Consultants Ltd",
@@ -876,7 +1513,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Secured orders worth Rs 53.74 crore.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -1188,25 +1825,6 @@
       "sources_count": 2
     },
     {
-      "id": "n7fb350281929",
-      "ticker": "VBL",
-      "company": "Varun Beverages Limited",
-      "sector": "Fast Moving Consumer Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Varun Beverages to foray into alcohol biz, set up subsidiary - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/liquor/varun-beverages-to-foray-into-alcohol-biz-set-up-subsidiary/articleshow/133522829.cms?from=mdr",
-      "source": "economictimes.indiatimes.com",
-      "date": "2026-09-03T20:34:40.779Z",
-      "topic": "Growth",
-      "keyword": "Joint Venture",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Varun Beverages entering alcohol business by setting up new subsidiary, marking major diversification move.",
-      "enriched": true
-    },
-    {
       "id": "nf4ad511451ad",
       "ticker": "VBL",
       "company": "Varun Beverages Limited",
@@ -1225,6 +1843,25 @@
       "takeaway": "Varun Beverages board approves alcoholic beverage subsidiary and joint venture in Tunisia.",
       "enriched": true,
       "sources_count": 2
+    },
+    {
+      "id": "n7fb350281929",
+      "ticker": "VBL",
+      "company": "Varun Beverages Limited",
+      "sector": "Fast Moving Consumer Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Varun Beverages to foray into alcohol biz, set up subsidiary - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/liquor/varun-beverages-to-foray-into-alcohol-biz-set-up-subsidiary/articleshow/133522829.cms?from=mdr",
+      "source": "economictimes.indiatimes.com",
+      "date": "2026-09-03T20:34:40.779Z",
+      "topic": "Growth",
+      "keyword": "Joint Venture",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Varun Beverages entering alcohol business by setting up new subsidiary, marking major diversification move.",
+      "enriched": true
     },
     {
       "id": "n62f61b60680d",
@@ -1265,45 +1902,6 @@
       "enriched": true
     },
     {
-      "id": "n04d205a4a32c",
-      "ticker": "UNIMECH",
-      "company": "Unimech Aerospace and Manufacturing Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Unimech Aerospace Projects 34-35% EBITDA Margins And Doubling Gross Block By FY27",
-      "url": "https://www.sahi.com/news/unimech-aerospace-projects-34-35-ebitda-margins-and-doubling-gross-block-by-fy27-1449440-PE1_",
-      "source": "sahi.com",
-      "date": "2026-09-03T20:34:39.271Z",
-      "topic": "Growth",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Unimech Aerospace expects to double gross block by FY27 with 34-35% EBITDA margins.",
-      "enriched": true
-    },
-    {
-      "id": "n20b233734ed1",
-      "ticker": "UNIMECH",
-      "company": "Unimech Aerospace and Manufacturing Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Q1 2027 Unimech Aerospace and Manufacturing Ltd Earnings Call Transcript",
-      "url": "https://www.gurufocus.com/news/9008872/q1-2027-unimech-aerospace-and-manufacturing-ltd-earnings-call-transcript",
-      "source": "gurufocus.com",
-      "date": "2026-09-03T20:34:39.271Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Unimech Aerospace Q1 FY27 earnings call transcript released.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "n4691e66394bc",
       "ticker": "UNIMECH",
       "company": "Unimech Aerospace and Manufacturing Limited",
@@ -1321,6 +1919,25 @@
       "mood": "positive",
       "takeaway": "Unimech Aerospace planning major capital raise through qualified institutional placement.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n04d205a4a32c",
+      "ticker": "UNIMECH",
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Unimech Aerospace Projects 34-35% EBITDA Margins And Doubling Gross Block By FY27",
+      "url": "https://www.sahi.com/news/unimech-aerospace-projects-34-35-ebitda-margins-and-doubling-gross-block-by-fy27-1449440-PE1_",
+      "source": "sahi.com",
+      "date": "2026-09-03T20:34:39.271Z",
+      "topic": "Growth",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Unimech Aerospace expects to double gross block by FY27 with 34-35% EBITDA margins.",
       "enriched": true
     },
     {
@@ -1476,44 +2093,6 @@
       "enriched": true
     },
     {
-      "id": "n34962ffcf466",
-      "ticker": "SETL",
-      "company": "Standard Engineering Technology Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Standard Engineering Technology completes 33.55% acquisition in GScale Energy",
-      "url": "https://scanx.trade/stock-market-news/companies/standard-engineering-technology-completes-33-55-acquisition-in-gscale-energy/46979968",
-      "source": "scanx.trade",
-      "date": "2026-09-03T20:34:32.504Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Standard Engineering Technology acquired 33.55% stake in GScale Energy.",
-      "enriched": true
-    },
-    {
-      "id": "nbf8d0a73d5f0",
-      "ticker": "SETL",
-      "company": "Standard Engineering Technology Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Standard Engineering Technology Acquires Majority Stake in Gscale Energy",
-      "url": "https://aninews.in/news/business/standard-engineering-technology-acquires-majority-stake-in-gscale-energy20260626103356/",
-      "source": "aninews.in",
-      "date": "2026-09-03T20:34:32.504Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Standard Engineering Technology acquired majority stake in Gscale Energy.",
-      "enriched": true
-    },
-    {
       "id": "n25cdaf986be3",
       "ticker": "SETL",
       "company": "Standard Engineering Technology Limited",
@@ -1549,6 +2128,44 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Standard Engineering Technology board to consider preferential share issue on July 11.",
+      "enriched": true
+    },
+    {
+      "id": "n34962ffcf466",
+      "ticker": "SETL",
+      "company": "Standard Engineering Technology Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Standard Engineering Technology completes 33.55% acquisition in GScale Energy",
+      "url": "https://scanx.trade/stock-market-news/companies/standard-engineering-technology-completes-33-55-acquisition-in-gscale-energy/46979968",
+      "source": "scanx.trade",
+      "date": "2026-09-03T20:34:32.504Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Standard Engineering Technology acquired 33.55% stake in GScale Energy.",
+      "enriched": true
+    },
+    {
+      "id": "nbf8d0a73d5f0",
+      "ticker": "SETL",
+      "company": "Standard Engineering Technology Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Standard Engineering Technology Acquires Majority Stake in Gscale Energy",
+      "url": "https://aninews.in/news/business/standard-engineering-technology-acquires-majority-stake-in-gscale-energy20260626103356/",
+      "source": "aninews.in",
+      "date": "2026-09-03T20:34:32.504Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Standard Engineering Technology acquired majority stake in Gscale Energy.",
       "enriched": true
     },
     {
@@ -2333,7 +2950,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Secured export order for lab-grown diamond jewellery.",
-      "sources_count": 3,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -2375,26 +2992,6 @@
       "enriched": true
     },
     {
-      "id": "n3c699cdccbf2",
-      "ticker": "EMAPARTNER",
-      "company": "EMA Partners India Limited",
-      "sector": "Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "EMA Partners India-Taggd all-cash deal creates India’s largest talent fulfilment company - India CSR",
-      "url": "https://indiacsr.in/ema-partners-india-taggd-largest-talent-company/",
-      "source": "indiacsr.in",
-      "date": "2026-09-03T20:34:12.397Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "EMA Partners acquired Taggd to create India's largest talent recruitment platform.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "nd4f6df8fd090",
       "ticker": "EMAPARTNER",
       "company": "EMA Partners India Limited",
@@ -2412,6 +3009,26 @@
       "mood": "positive",
       "takeaway": "EMA Partners acquired Taggd for ₹113 crore to form India's largest talent platform.",
       "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "n3c699cdccbf2",
+      "ticker": "EMAPARTNER",
+      "company": "EMA Partners India Limited",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "EMA Partners India-Taggd all-cash deal creates India’s largest talent fulfilment company - India CSR",
+      "url": "https://indiacsr.in/ema-partners-india-taggd-largest-talent-company/",
+      "source": "indiacsr.in",
+      "date": "2026-09-03T20:34:12.397Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "EMA Partners acquired Taggd to create India's largest talent recruitment platform.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -3002,7 +3619,8 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Avantel secured ₹117.88 crore order from DRDO for voice and data communication hub.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n6c6815df02ae",
@@ -3600,7 +4218,7 @@
       "mood": "positive",
       "takeaway": "Sterlite Technologies approved ₹3,000 crore capex to expand manufacturing capacity.",
       "enriched": true,
-      "sources_count": 5
+      "sources_count": 4
     },
     {
       "id": "nee4e811c2470",
@@ -3846,25 +4464,6 @@
       "sources_count": 4
     },
     {
-      "id": "nab34fd4d68fb",
-      "ticker": "SOLARINDS",
-      "company": "Solar Industries India Limited",
-      "sector": "Chemicals",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Solar Industries India Denies Speculative South Africa Acquisition Talks",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTmFZbTVtd1h0alIxNzdzUWJWeVdPSDVLbFF3Y0ctZjNsT1d2U3FrNllTN1BnZ0JzeklDUXRUb2syLWFmc2dOckF4cUZoeVpzZGU0LXFSZjE1LU5HcXpaRXJoSjR3LWIya3FKcEJoT0x6YkRmcWVmYjFURHpOcTBadGlTNmNFQkNIRFFFcHR2SDlsUnBXdXBnNzg0WWhzclE2clQ5bWN6M0s4MzBVQTVndQ?oc=5",
-      "source": "Sahi",
-      "date": "2026-09-03T09:33:00.000Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Solar Industries denies speculative South Africa acquisition talks.",
-      "enriched": true
-    },
-    {
       "id": "n931577e51473",
       "ticker": "PVRINOX",
       "company": "PVR INOX",
@@ -3997,6 +4596,25 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Goldiam International revises how it will use ₹202 crore raised from QIP.",
+      "enriched": true
+    },
+    {
+      "id": "n455149842b9f",
+      "ticker": "THEME",
+      "company": "Specialty Chemicals",
+      "sector": "Chemicals",
+      "scope": [
+        "universe"
+      ],
+      "title": "Indo Borax MD Highlights Sustainable Growth Through Capacity Expansion And Acquisitions",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcV82cjFtLWh3ZmFDaHRXT0s1bW5iWmUxQUxtcjBLZzRYWWl5RUx4c2RJTWVBczFnNGppczhDLVdBU3hHQWlkckVMMWphbnhJc0dpVmFDY3JidUhJLWQ1bXF0VHk3VzBrTV9HTGdOWjV4a3IzTl9oZkJlc3NGQUVwclplNGJGTGkxUEdGam9NSnp4eDVvcGFwY2NHUEl2S3NUY1B5dXBIVXJQWEpLT1FtOHJKNjlpazhQT0o2RV9ZSTUwT3oy?oc=5",
+      "source": "Sahi",
+      "date": "2026-09-01T12:59:20.000Z",
+      "topic": "Growth",
+      "keyword": "Capacity Expansion",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Indo Borax MD discusses sustainable growth plans through capacity expansion and acquisitions.",
       "enriched": true
     },
     {
@@ -4150,7 +4768,8 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "TARIL wins transformer order for Kaiga nuclear power plant.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n4c65918920b9",
@@ -4268,6 +4887,25 @@
       "enriched": true
     },
     {
+      "id": "ne53ccf510790",
+      "ticker": "INDOFARM",
+      "company": "Indo Farm Equipment Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Indo Farm Equipment Limited Q3FY26 Earnings Call Transcript Released with Growth Plans",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSlZ1R3ZnS0FpS3FHLXpmdER4WkFOeTFjMWtpeDkzM2R6b0RfYjJSbUlBTkY4NUUwTzdxN0lyTmhHMEx1dWtWOUc1LTN4Sm1UYUtGVUViZ01pZVZLVjZRX1V2MHM4TmF2dVlHRGl4aGFPZmh3Zm96UjFlT1R2YTUyYnowOFJlQjBEbU9wOHg0ZkVMUmRpYTd0clhGVTZON0lsZ25kcWM0SEtacXJFTlctcVpSTW4tRkp3dDNLVy1FbnBQRHRWenBqaEVrMDMyeHBEY0E?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-08-30T07:00:39.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Indo Farm released Q3 results and discussed growth plans in earnings call.",
+      "enriched": true
+    },
+    {
       "id": "nab9fe42b2f31",
       "ticker": "ADVAIT",
       "company": "Advait Energy Transitions Limited",
@@ -4323,6 +4961,44 @@
       "mood": "positive",
       "takeaway": "Advait Energy won a ₹134 crore order from MPPTCL.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n12f6336b58cd",
+      "ticker": "KPITTECH",
+      "company": "KPIT Technologies Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "KPIT Technologies fined ₹1.23 Cr for delay in lodging NCLT order",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQai1adXFocmYtaFcza21QU19UdkdkSWMyWDRBUzBPWFNXekNvbTNTSHNuTWdZcldUM19vM0ZWMUI5U2dIamlTMDJ6TzkyN2N5elMzMjkxZXg2eWhnVnFrbTNKSHVFMlR4ZDVJYlRhVTdsTXJfa1BDOVhJb1llZlNEZUhMX09uN2I2QVV1RlV2OW5DNUp0QzExbllDd09lQ3RUZkgxeHZHZ0o4ejhOb0FIdXZLRQ?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-08-27T07:00:00.000Z",
+      "topic": "Trouble",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "negative",
+      "takeaway": "KPIT fined ₹1.23 crore for delaying submission of court order to authorities.",
+      "enriched": true
+    },
+    {
+      "id": "n0dfd699f0d72",
+      "ticker": "DEVYANI",
+      "company": "Devyani International Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Devyani International Changes Merger Plan As Mutual Agreement Ends Secondary Sale Deal",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaUpLXy1JaWNJVlczeUkwNnJSYVJGS0dLMTdua1c0cDR6MWZQOGU2Q1B3Wmc5UHdvS3dXbmhFSVR4T3lGVERPREhNNkc3QmhjcGlmOGhmNHVQcGhWOGRDcW0yOUNCRy1HWTRZVmZVZUpQWEJvaC0yYlc4Um5nOW9VUkQ5TTh2aHVvMktodllXTWpMUk5uNTJvakZ1bGd0Z1ExRXg5WDY4MVpRSlVleTd2cWctM3NOWUZELXJDeFozTm5aZEk?oc=5",
+      "source": "Sahi",
+      "date": "2026-08-26T15:32:19.000Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Devyani International revised merger plan after mutual agreement ended secondary sale deal.",
       "enriched": true
     },
     {
@@ -4480,6 +5156,25 @@
       "enriched": true
     },
     {
+      "id": "n497274bd2c91",
+      "ticker": "SONATSOFTW",
+      "company": "Sonata Software Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Sonata Software: Merger with Subsidiary Becomes Effective",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUDBOZWFydHFiZGRWUVdYTGt2alBFWmJ2eHNMbFVlam5yS0dUa1h6Tmxuc1NQN2M4dGEtM1J6N1ctd1B4OHdTRVFxYXk3NWNDdHR5SG14MW1XZDMwcEZ4bHI5dk5JV1dZZEstQkowbzFXdGVsWC1ocWFoaVB1Q1dfdHZIZw?oc=5",
+      "source": "investywise.com",
+      "date": "2026-08-25T07:58:32.000Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Sonata Software completed merger with its subsidiary.",
+      "enriched": true
+    },
+    {
       "id": "n8e5a53c523ae",
       "ticker": "AURIONPRO",
       "company": "Aurionpro Solutions Limited",
@@ -4534,7 +5229,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Advait Greenergy secured a ₹116 crore order from KPI Green Energy for a 200 MW Rajasthan solar project.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -4808,6 +5503,25 @@
       "enriched": true
     },
     {
+      "id": "n268b57e58b3f",
+      "ticker": "SKYGOLD",
+      "company": "SKY GOLD AND DIAMONDS LIMITED",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Earnings call transcript: Sky Gold and Diamonds posts Q1 2026 beat",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaTRMWWh0YnNnb0IyVXhxZERCandLY1VEN19IVmd2RmRTSy1CUDlzSmExT1R3RlJJSUpLa0dmZktGSWNFLW1nUjRsWVBHOVFFOGJHWHF5YUNDNEdwYU44Z0NaOUF4Z3lJSXRjVkU2Mk1WRXZhSXd2azVGUXhZbHVHWElOOW9rM211Z0hGOW1rdDZBRkxIdzI5ajl0UWJhaGYzcGppVkVBQUVkVE9RNGdEY3RrOXBLWmtMdGlaNg?oc=5",
+      "source": "Investing.com Canada",
+      "date": "2026-08-10T10:59:24.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Sky Gold and Diamonds exceeded Q1 2026 earnings expectations.",
+      "enriched": true
+    },
+    {
       "id": "nc6080163d220",
       "ticker": "WOCKPHARMA",
       "company": "Wockhardt Limited",
@@ -4882,6 +5596,45 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Wockhardt confirms no deviation in QIP fund use.",
+      "enriched": true
+    },
+    {
+      "id": "n88323ea56af9",
+      "ticker": "SBCL",
+      "company": "Shivalik Bimetal Controls Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Results: Shivalik Bimetal Controls Limited Beat Earnings Expectations And Analysts Now Have New Forecasts",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzQm9KTWhBWHZDc01HdVcxXzNtM3c5REhXbTBzTkx4RUh0LXV6c3VqLTRPUzVJbXZWZF9OaGM2VzM1QjRmeDhpNlZPWlkzNlJLVEl6ZFBkTWg?oc=5",
+      "source": "webull.com",
+      "date": "2026-08-08T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Shivalik Bimetal Controls beat earnings expectations, analysts updated forecasts.",
+      "enriched": true
+    },
+    {
+      "id": "n166bd8374619",
+      "ticker": "OMNI",
+      "company": "Omnitech Engineering Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Omnitech Engineering releases Q1 FY27 earnings call audio recording",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNblktRFV5M1RSTWJ2bnY4clNBZWMyN29jS0xaUjNxOWJ1N1JjYmp6UmQzSWFxV3NPdDFzd0RGemo1R3RyT2R5akYxRlBrNk52dDhYRDBlWTh1WE9lbldrX2FQM0dfS1I4YzRhUmNiUDhabUFKY3RjRnEzeXF1bTN2MC1jRHIxak5JeFMwVnVZbENQVFQtOUtRdjZaUFlzQm9kcTdGY0xLN291eDNFN2R2VmlVTEN2cE1ZR0swTVRLa3lwMVV1aHc?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-08-07T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Omnitech Engineering released Q1 FY27 earnings call audio recording.",
       "enriched": true
     },
     {
@@ -4998,6 +5751,25 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Standard Engineering Technology clarifies funding details for GScale acquisition in EGM corrigendum.",
+      "enriched": true
+    },
+    {
+      "id": "nf0902f49ac16",
+      "ticker": "MOBIKWIK",
+      "company": "One Mobikwik Systems Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "One MobiKwik Systems makes earnings call audio available to investors",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOThuQkp0VEEwQ0FpRXRMVnBuUW5STEFzdnZNQk14eVJ3QTF4Q29UWnVvaGowcGNjNnhfRjAyWTM0cVhQam1UOGxlSkxVRGd4dkhkaDBySHphS1dweEVuTlduY3BGYnN5U1hUM0ozOHJpQ1JCY3RoUVFXdFdaMEVrSlJQcDRRS3VsVm1wT19QNkhzUWtCVTNzdm5PR05ONVVhRmdoLUNEZlBBYkFfY1MwaERScmFxenhQQ0t3aTZYOXRPcFU2?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-08-03T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "One MobiKwik Systems made earnings call audio available to investors.",
       "enriched": true
     },
     {
@@ -5156,6 +5928,26 @@
       "enriched": true
     },
     {
+      "id": "n7ff7b8eb5aa7",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Zen Technologies Strengthens Defence Order Book",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWt5VVJYQ2tvTFpXVEMza0JJdFFzalR6UVhVbTFhVkV5MlRmTXlBQkJNckhmOEdqbUxaQ3pQc2RtZTk0bkdCQzNxQlVQZmVlTzViTzdWQ1k5NlVNamlucmN0UVpXMkJqNkZQUkFDNXZ1NjBXU3VNZXN2NUdtbmZUU0ZHQXFycE1Z?oc=5",
+      "source": "Machine Maker",
+      "date": "2026-07-27T07:31:22.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Zen Technologies adds new orders to its defence order book.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
       "id": "ned3e07c2de42",
       "ticker": "SAPPHIRE",
       "company": "Sapphire Foods India Limited",
@@ -5292,6 +6084,123 @@
       "enriched": true
     },
     {
+      "id": "n569704c1861b",
+      "ticker": "OMNI",
+      "company": "Omnitech Engineering Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Omnitech Engineering Mar 2026 Earnings: Steady Performance with ₹2.11 EPS on ₹140 Crore Revenue - Profit Announcement",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZlJtOTVmRFNncXpIWUcweVJPeHhZaEFwWEszSHBySUlVUTAxR3hiVHgzNV9kZjdUa1BHWW5zVHBvTXMzWDViNVRTQ01HVk5nSWlaLUF6UVJSUXJBQXdLS2lLYkpmM1FrLWJLZ0RxSW5aMmllZmNWd2VDT2JJZlNfSjlMSlVVTVAwQklIZlc5Y3VNSWMzUklhZzRkUjlaQ19vZmlKOFBHN0hrOTVlWWlPTVNkOUxzU3hzWkZDUFNYbFlvSUI0TDV5V3JxRHM4Yjhp?oc=5",
+      "source": "siam.in",
+      "date": "2026-07-12T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Omnitech Engineering reported March 2026 quarterly results with ₹140 crore revenue and ₹2.11 earnings per share.",
+      "enriched": true
+    },
+    {
+      "id": "nf74e489caebd",
+      "ticker": "SHADOWFAX",
+      "company": "Shadowfax Technologies Limited",
+      "sector": "Services",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "SHADOWFAX.NS Mar 2026 Earnings: Profitable Quarter with Revenue Growth Amid Logistics Expansion - Earnings Call Transcript",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVWNZMGpQZ2p5S1Rja1BreXZYME1DTGRQUjRaZ0lNZHNsSHVqaXprZU03NFNlQkU4UnM2U0dmNWMyc1M0MEp2T0NtdU0ta1d3RDRtcmRRdHpOd1Q3MzFkVE94aUlCSmdsVjUtdDVyYTdCX3hEbEJsVmJPYUxRUm1MaTZSYWNXeHl4WVRXNTlBWGZNRklhQmFrVDBJQzVRc2JZb1pLZVFfcHlmM3JRTlpHVkhWWjE2cmtyeTNYa0xGUHlqYUpyZGV6UzUyX2JqTnVR?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-12T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Shadowfax Technologies turned profitable in March 2026 quarter with revenue growth amid logistics expansion.",
+      "enriched": true
+    },
+    {
+      "id": "n465ad646d3d1",
+      "ticker": "RUBICON",
+      "company": "Rubicon Research Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "RUBICON.NS Q2 2026 Earnings: Robust 36.6% Revenue Growth Drives Strong EPS Performance",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZDNoNnZmRS1ZTUdaWF9xb1ptX2QyTm4taXpXSGRjbnF4Yzc0Y3JzUkpHYlNkWm5CQzk0ZUR2V25HUVRNQXV2ZUYxRnpmeVpxQkJBZUQzdFA0bkVIcDBibjZxMHdqcUNBeWgwLWRnM3h6ckpHUE9Id2w0RkxJbVh6aElqUm1ESHEtOHhuWW9nZHJzZDYxdU1OMWRkZjJ2cDUyOVlwbGhXRGJXczBXblhsLTFFcFQ2TURIeEx3SVg0b2IxQQ?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-11T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Rubicon Research posted robust Q2 2026 results with 36.6% revenue growth and strong earnings per share.",
+      "enriched": true
+    },
+    {
+      "id": "n88fb1944c827",
+      "ticker": "TRIVENI",
+      "company": "Triveni Engineering & Industries Limited",
+      "sector": "Fast Moving Consumer Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "TRIVENI Mar 2026 Earnings: Solid Performance Anchored by Sugar and Engineering Segments - Earnings Turnaround",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWTZUQ3FsZHliak8xRm9JTXdkeUxBREdOaTdvRkhqZjFyaDNfam5RRFRpRVNmemV2SlQxVk9aOGJNQlBsdkh0TDlKd0FMSUVrb21XeUpWZVRTeXFfSkF2b0k1UjVxcXpBeTBNWnZYTl9qZzhndF94a2F1bU5vSnAxSWJrWU1QQVZZanJUWDlSbzU0UWxyUjdPbUVQMnRMQ2xrTmRnTFRnb0didG5TUzF5NDhFcERnTm40LWZ4TE9nSGFaeUJkUkZV?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-11T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Triveni Engineering reported solid March 2026 results driven by strong sugar and engineering segment performance.",
+      "enriched": true
+    },
+    {
+      "id": "n9a71b5d4ffab",
+      "ticker": "SBIFUNDS",
+      "company": "SBI Funds Management Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "SBI Funds IPO: State Bank Of India Cuts OFS Stake Sale To 4.89%",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWFl5a2lQeU5yTnExX2Z0dDdwUjBZcmJ2ejR0U0F2WERWY2c1UHdhMlJmZTJiczFpTlBjNUwxX0x3WWQ3eTVxZkxwX3dwdjhkN1VGOFVrNzNKRDRVNjJpWjJfVjBfN0ppZEdSeG1YeEFmMUhFTUVvWEdXMnBYUUpHSTJKRDlqRmh6NGFZVHljVmhLNU9jVEVsS2dkYTUweFBabnhKWXpRYThrSW5nYkRZQk5SWdIBuwFBVV95cUxNT2lxQVlWUDVDQ3NHQVZwOFMzRElhcDRPNUFkaDFTVUVMejNYb0stUDNkX1YzdWJCRE9PcHJjT2U5Nkg2Z0lNc2hEZGpfM181cVVESVcxYzNkRExkZUtsbzlGeF9pdzBJZGUxaFk3dHlzWEZ6aFdOcnB0WnpobWY0WjNqdGxHSGdWeGRxcW80THJBRS0tSjU1YVNJQl9maHZRVkR4SHJ0a2FXUlptV2N5ZVNWMVVqZURtRTZn?oc=5",
+      "source": "ndtvprofit.com",
+      "date": "2026-07-11T07:00:00.000Z",
+      "topic": "Deals",
+      "keyword": "Stake sale",
+      "importance": "high",
+      "mood": "neutral",
+      "takeaway": "State Bank of India reduced its stake sale in SBI Funds Management IPO to 4.89%.",
+      "enriched": true
+    },
+    {
+      "id": "ne5194cd64220",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "SAPPHIRE.NS Q2 2026 Earnings: Revenue Growth of 8.37% Amid Net Loss of ₹0.99 Per Share - Trough Earnings Signal",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa2ZZV0xMMnI3ZEMwS3dHSkRqSTBmeERsRXpIcTVmMnBlWFZaeEVsMXB1emFYdEdQSzFZUVVKNXZJTU1uRnUzZGhmNlF6Q3l0M1hZYVkyeU42WHRKT0dRRVozUFM4MF9qYXNZd01TVEh5VS1ZeVRxUXhWVmQzWTJPSzBtVDNMTzNKcHhkcXdlZXl3Wk1HYTFKNlJ4T3ZMcTR3Yzhxd3VBa25mLVdFNlFaLVJUaFRFSU1MYkdQeTVOZw?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-10T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "negative",
+      "takeaway": "Sapphire Foods reported Q2 2026 revenue growth of 8.37% but posted a net loss of ₹0.99 per share.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
       "id": "nc5056ce358ae",
       "ticker": "IKS",
       "company": "Inventurus Knowledge Solutions Limited",
@@ -5308,6 +6217,44 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Inventurus finalizes ₹4,650 crore acquisition of TruBridge, a significant expansion move.",
+      "enriched": true
+    },
+    {
+      "id": "n50b6e3111538",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "E2E Networks Limited Mar 2026 Earnings: Revenue at ₹95.64 Crore, EPS at ₹0.31 - Profit Margin Analysis",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU2d1a1JualBidUxWaVlfZTN2Vk1DRXg1dktSeEJsaVl6NkZUTVpGVl9hZ0ljX2xxdUoyelhmTHdJYU53OE5TMVlrR2NDNE5yOGJJa1ZXT0h2OG5vX1dMU3dDUWd6TjFhWmZzUG81WnJKRVFucjQ4aUFTUGRabEpMVE1zQU1ENTFLb2RtVW4xQnhGcjh3NDZSSU93bG5WQ3puRHZwM2pKX3Eyak5XQ3FlZ0dKdXY?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-10T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "E2E Networks reported March 2026 quarter revenue of ₹95.64 crore with earnings of ₹0.31 per share.",
+      "enriched": true
+    },
+    {
+      "id": "n0b03ce67c7e2",
+      "ticker": "DIXON",
+      "company": "Dixon Technologies (India) Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Government clears Dixon (India)-Vivo (China) joint venture for manufacturing smartphones",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVEFvdFVXVkVGRDdvaWJRWWdLVzFjVmFNbFQzbnNVUHo2UkpORVViamhGbE5aVElqemtnRk53RGNrTkpZdzlCak1iR0FENjU2bnVQWHNtdHN6TDR4SGo3aHJpaWo0dzJBOWJNTkJIbklCX3ZqOTBReGxTNm95S2Q4QVZPWGpYajgwSWZlVHpkeFpRLTJBOXNaVlN5ajRTcldxNnlZWHZvbGhjNVE1R2xhRWdZUi1XUFlHYmp1X2NYVTNMRmw2VmR6MUFJdm5Ud2M3OUJGWUR3ZE_SAd8BQVVfeXFMTnVOUm5DQk9WODRWdGVEdjdNbUVqWjNpdXUxNHpwVUtpZm9Yd1N6REdiYUN4eEFpeDV3RzZIQlRrcE5VS19xU2ItdWNmbFdRd1VlU09abVNxeEFqUWxrc0lPX1JyYm1ncGNIeHA1LThrb01jamcwc3dwbG1oTWg2VTJVUGpJRGxCdzd3Sy15MlZzemxYdTdUSTFoaXlDeFpKZWNCdVdNVVNVYXpVUmJ2ZUtTWGtMQlQ3VG1FZC15TEZDUXZnN3lzdHpaWnRIT1g0T21WMkxHS1dtS3ZvSG9Taw?oc=5",
+      "source": "The Indian Express",
+      "date": "2026-07-10T07:00:00.000Z",
+      "topic": "Deals",
+      "keyword": "Joint Venture",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Government approved Dixon Technologies joint venture with Vivo China for smartphone manufacturing.",
       "enriched": true
     },
     {
@@ -5349,6 +6296,25 @@
       "enriched": true
     },
     {
+      "id": "n9a396e039fce",
+      "ticker": "IKS",
+      "company": "Inventurus Knowledge Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "IKS Health Completes Acquisition of TruBridge",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZWNfRF94VktscFozY3BkeHQ3R2Jhc1dTQmV0bWdORUEtWGhyQ3REblI3dUU0SEw1bHQwMDgtaElSWXl4QW82all2NUNmV1U1ZEtmejN5M0EwbzI1SlFKOW9EUU5adU5weVdZSFRiME1HbGR4aUdjSHNLNFB1ZnlEUVNNRE5ITVI3SmF4QUlZUHdMVmI0RUhEY1lKc2pYZlpXTjBabA?oc=5",
+      "source": "Business Wire",
+      "date": "2026-07-09T07:00:00.000Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Inventurus Knowledge Solutions completed acquisition of TruBridge.",
+      "enriched": true
+    },
+    {
       "id": "n52f6e4c81a91",
       "ticker": "SURYAROSNI",
       "company": "Surya Roshni Limited",
@@ -5368,25 +6334,6 @@
       "enriched": true
     },
     {
-      "id": "n3cca246b453c",
-      "ticker": "WOCKPHARMA",
-      "company": "Wockhardt Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "WOCKPHARMA.NS Mar 2026 Earnings: Profitability Surge Drives Positive Momentum - CEO Earnings Statement",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM2NHdGtiQUpZdEZGMU9fVnRNXy1MQ2tBNDVjd0hYakVBM0dHYVk0N3l5SEdlWW8xM3lsUzR4YWZSc04xOGhkTDNuS1pGQTRRT2tVdTQydkp0NHZ6TGp4SG5EQ2NtZW1Tcnh1bV80RXRzT2pDbWk2LWg5NFZDSmw2RWZIOVRPenVscEhUTGhKY0JZWTItbGFzb19acXVSUFpoaVM4dWxZbTdvQ1VQZ2p3SEFlaVV6SGdB?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-08T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Wockhardt reported profitability surge in March 2026 quarter earnings.",
-      "enriched": true
-    },
-    {
       "id": "n4c2afa81ac70",
       "ticker": "ADVAIT",
       "company": "Advait Energy Transitions Limited",
@@ -5403,6 +6350,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Advait Energy Transitions secures Rs 51.62 crore order from DGVCL.",
+      "enriched": true
+    },
+    {
+      "id": "n3cca246b453c",
+      "ticker": "WOCKPHARMA",
+      "company": "Wockhardt Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "WOCKPHARMA.NS Mar 2026 Earnings: Profitability Surge Drives Positive Momentum - CEO Earnings Statement",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM2NHdGtiQUpZdEZGMU9fVnRNXy1MQ2tBNDVjd0hYakVBM0dHYVk0N3l5SEdlWW8xM3lsUzR4YWZSc04xOGhkTDNuS1pGQTRRT2tVdTQydkp0NHZ6TGp4SG5EQ2NtZW1Tcnh1bV80RXRzT2pDbWk2LWg5NFZDSmw2RWZIOVRPenVscEhUTGhKY0JZWTItbGFzb19acXVSUFpoaVM4dWxZbTdvQ1VQZ2p3SEFlaVV6SGdB?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-08T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Wockhardt reported profitability surge in March 2026 quarter earnings.",
       "enriched": true
     },
     {
@@ -5484,6 +6450,25 @@
       "enriched": true
     },
     {
+      "id": "n560b6dd11e0b",
+      "ticker": "UNIMECH",
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "UNIMECH.NSE Q2 2026 Earnings: Revenue Dips Slightly, Profitability Remains Steady - Surprise Factor Analysis",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaDlGQ2lTam1lV054UzFMZUZRc2lkZDhRVjR4UmVoMjlRaG5kU0FwRk1LYTE2WGN1RWJqcEFZc1JrZHJ6M2lFWVVwLVdFNTVyX2ZzblcyM1htRXNXQkJoa2VjSHVBV2puWDdqejFTbEFkQTVLR3I3VjBkUmVhMHhlcVB4eDMyNjdESnU4Ny1WX2drWmZRU245SlRqTXFKVUF3TnZhRGhaazh3VThBTVpXUy1ObkdrTERPQWhVMw?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-03T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Unimech Aerospace Q2 revenue slightly down but profits remain stable.",
+      "enriched": true
+    },
+    {
       "id": "nbfd0d129d1cb",
       "ticker": "SKYGOLD",
       "company": "SKY GOLD AND DIAMONDS LIMITED",
@@ -5501,25 +6486,6 @@
       "mood": "positive",
       "takeaway": "Sky Gold reported March 2026 revenue crossing ₹1,300 crore with steady EPS.",
       "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n560b6dd11e0b",
-      "ticker": "UNIMECH",
-      "company": "Unimech Aerospace and Manufacturing Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "UNIMECH.NSE Q2 2026 Earnings: Revenue Dips Slightly, Profitability Remains Steady - Surprise Factor Analysis",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaDlGQ2lTam1lV054UzFMZUZRc2lkZDhRVjR4UmVoMjlRaG5kU0FwRk1LYTE2WGN1RWJqcEFZc1JrZHJ6M2lFWVVwLVdFNTVyX2ZzblcyM1htRXNXQkJoa2VjSHVBV2puWDdqejFTbEFkQTVLR3I3VjBkUmVhMHhlcVB4eDMyNjdESnU4Ny1WX2drWmZRU245SlRqTXFKVUF3TnZhRGhaazh3VThBTVpXUy1ObkdrTERPQWhVMw?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-03T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Unimech Aerospace Q2 revenue slightly down but profits remain stable.",
       "enriched": true
     },
     {
@@ -5598,25 +6564,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Lords Chloro Alkali Q2 revenue surges 44% on strong demand.",
-      "enriched": true
-    },
-    {
-      "id": "nd69a6a0b40f4",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "SAPPHIRE Q2 2026 Earnings: Revenue Growth Amidst EPS Loss - Return On Assets",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUFNKcm9XdzFTZTF6dGYzWlViajh4M1dHT3NfS3FMcnFaYXRTdHZUZENWdUhncjVYcTFDWkE3QlhTYXNLTUVvSmNLeElnLXVneXlfWkhIeThPWjZ1RDE4Y1BoTnpXcTR1YVZPRDdHY3JSeUN2eUx2Wlg3M1ZnMkdqcDU2SnpGX29KczFORnphdDdsYThyRGxXbXJfYVgyN0k?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-01T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "negative",
-      "takeaway": "Sapphire Foods Q2 revenue grows but posts earnings per share loss.",
       "enriched": true
     },
     {
@@ -5910,6 +6857,26 @@
       "enriched": true
     },
     {
+      "id": "n818eabe8e0a9",
+      "ticker": "KSHINTL",
+      "company": "KSH International Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "KSHINTL Q2 2026 Earnings: Strong Revenue Growth of 61% YoY; EPS at ₹18.37 - Management Guidance Update",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSEotclUwNEZWX1JVSUNLMWE4TEV0dUFDVnNJVks2d2FEdFdxM0drcndXWUg4UW9IUFNMRUh4NWI2SlRhbkNucUdPd0taYWpCSDNZSElzd29oSGIyTGt3OEdnRllGU2hoSEYzdzF6OWVnT08wTl9KRk95bW5UWUNPLUFENHo3U24zZTdVRlZScFp4dUxrLTVPaURLSmV4LU51eUw3TlBBWXJONFZpQVE?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-06-23T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "KSH International reported strong Q2 revenue growth of 61% year-on-year with earnings per share of ₹18.37.",
+      "enriched": true
+    },
+    {
       "id": "n020f81d66f68",
       "ticker": "SONACOMS",
       "company": "Sona BLW Precision Forgings Limited",
@@ -5929,23 +6896,22 @@
       "enriched": true
     },
     {
-      "id": "n9aed40f5f3b4",
-      "ticker": "SAREGAMA",
-      "company": "Saregama India Limited",
-      "sector": "Media Entertainment & Publication",
+      "id": "n6e85ee23d4d9",
+      "ticker": "GANESHBE",
+      "company": "Ganesh Benzoplast Limited",
+      "sector": "Oil Gas & Consumable Fuels",
       "scope": [
-        "portfolio",
         "watchlist"
       ],
-      "title": "SAREGAMA Mar 2026 Earnings: Revenue Crosses ₹238 Crore, EPS at ₹3.86 - GAAP Earnings Report",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUdPbDRxUHVOa0NVZ0lYYTc1QVVZMUhRS29pQ0tuVlNKeUNLUlhQeDZWX1B4VVNTQWVwcERvSGlfMk9GOXRHM0UweVJPSk1hTThLd2JubWNManBiT3Q3eHB3Y2txM1l5dTZMMHI1Qmo0X2Y1SUF1SV92RHMtY2oxTW9pV1RCZGpYNmdCdWdRV3ZZRFNJcVJtNDVkRzVMZVVkMzVFWVZhTQ?oc=5",
+      "title": "GANESHBE Mar 2026 Earnings: Modest EPS of ₹1.7 on Revenue of ₹73 Crore; Stock Edges Up 1.66% - Cash Flow Report",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONlRvQWgya2ZadHNIZFJCTnhnMlUwUXptMWtaUGFlNGh3QlVqOV9SeDAxYy1icVI3TGdxeERNS2lWMmtYRHprc1YwZkZFdC1nQWdRQ2Fac3dKcU9iOGxyRHgwVHFRVVlWeGJ3cWN2elAzbXlTdGZaMzEzZmVCc0pPQWR4VDNISjFmYnAwUUdYVnhmWUxRbXpNMDExSjdkM3h2WWdselVUbi0xS3kxUmZDX2VfQ1ZxeWtiVzJfdHNnZWZqdHFQ?oc=5",
       "source": "vinanet.vn",
       "date": "2026-06-22T07:00:00.000Z",
       "topic": "Money",
       "keyword": "Earnings",
       "importance": "low",
-      "mood": "positive",
-      "takeaway": "Saregama India posted Q4 FY2026 revenue of ₹238 crore with EPS of ₹3.86.",
+      "mood": "neutral",
+      "takeaway": "Ganesh Benzoplast posted modest March quarter earnings with ₹73 crore revenue and ₹1.7 earnings per share.",
       "enriched": true
     },
     {
@@ -6022,6 +6988,82 @@
       "importance": "medium",
       "mood": "negative",
       "takeaway": "Pizza Hut exit complicates Devyani-Sapphire merger plans.",
+      "enriched": true
+    },
+    {
+      "id": "ne6808ba444ca",
+      "ticker": "LGEINDIA",
+      "company": "LG Electronics India Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "LGEINDIA Q2 2026 Earnings: Revenue Growth Modest; EPS at ₹24.83 - Tangible Book Value",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMndtaEZ3SDNQSWhfTks3b1VrUGQ2alRRalJyczlFWWlhWXMwRE1ObFBwM05QcTg0enE4cU5SOVFwc05KTUlhcW5XNTF1alpHUkR1dmFiV0RoUTFTNGV4RXNPaWR3YUt5NExReXhLUVp1N3VKVEM4Ty1wb0VLaWRkTGVXdVBZeEFnYjR6UlhPQTJyQTh6SFFMUTNXeXNlRVFm?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-06-17T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "LG Electronics India reported Q2 results with modest revenue growth and earnings per share of ₹24.83.",
+      "enriched": true
+    },
+    {
+      "id": "n3daea7e34a90",
+      "ticker": "MIDWESTLTD",
+      "company": "Midwest Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Midwest Limited (MIDWESTLTD.NS) Q2 2026 Earnings: Revenue Growth and Strong EPS Signal Resilience - Long-Term Guidance",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQjdGblpDTlhTWDhldTBsX1NxTV9MNjgzOFNqUTNUaDVLbmVVOWdBakdEaVV5Q3ZYdGx0eHhrUnFxU1lfdXdCWU1xYVg2QVB5WFpKQXVpTDlRUm0yQUh2V1B6Zm5DSkRaNE9sRlk3LXM3S2dvZWViNl9kZEF5eS14MVFXTFVrUGJKdzdJanhtTlgzazlGT2Q0MTZXOHA0X053NER5Y0RfMFJMdlVrcFh3SHlpM3VrWlpIcTdrUDNvMTk0eC1TbUFXQlFBWE8?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-06-16T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Midwest Limited posted Q2 earnings showing revenue growth and strong earnings per share, signaling resilience.",
+      "enriched": true
+    },
+    {
+      "id": "nccc1938d067e",
+      "ticker": "SCODATUBES",
+      "company": "Scoda Tubes Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Scoda Tubes Mar 2026 Earnings: Reports EPS of ₹1.05 on Revenue of ₹123.57 Crore - Guidance Downgrade Alert",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQck80WjRjQU92Zll4dTJlaTJ2YUthWldETVRqdlU5bDNiSnItM3RldDVIakN5d1FiUEh1SkZXcmR4U2RIQkRLNHNUQjhfVllTbmc4Z1VqQXVpTmZ4YjAtZ0J5RW43NTR0UGRlSVJuaVRFak5CMjU1aWpXRFN6QmR3cm5GVkpSRGtkcWJNVl9GR0xSdXB6SjM5YXlpUnhpQldHeThzLUM2bDNuUmJNeHBuOVZ4QXVvNmM?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-06-16T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Downgrade",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Scoda Tubes reported March quarter earnings of ₹1.05 per share on revenue of ₹123.57 crore.",
+      "enriched": true
+    },
+    {
+      "id": "n05c45288a063",
+      "ticker": "MANINDS",
+      "company": "Man Industries (India) Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "MANINDS Mar 2026 Earnings: Robust EPS of ₹9.36 on Revenue of ₹1,157 Crore - Earnings Call Transcript",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdWZoMWE2SDhzd2UtS3oxR09XbEdUMnp0VC1EaW5pYktaTE1PbG9DbW1qUWpmdWZ5ZkY3SVJDb3FfT2JPak9MZmZBblZ6VmNKMkNoNXIta1VGQV9PekREUmoxS3RXMERMQ3RhUjdCS21aVU5ZSGFVYzFWYUo0cEtxcktlOFl6X2tyeXdxXzQyZ2p4RlZFV09idktUa3JmRW9KYVBXczRHN3VvQ2ZrV0g0?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-06-15T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Man Industries reported robust March quarter earnings of ₹9.36 per share on revenue of ₹1,157 crore.",
       "enriched": true
     },
     {
@@ -6179,6 +7221,25 @@
       "enriched": true
     },
     {
+      "id": "ncb1f79d0ac92",
+      "ticker": "CANFINHOME",
+      "company": "Can Fin Homes Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Can Fin Homes Mar 2026 Earnings: EPS of ₹25.96 Reported; Stock Edges Down 0.17% - Core Business Growth",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU2RpbERsZjBzOFZ1M0JoQkJRakJKbXFKWGpTMTdaVmpqb3daMkhvTlJndUpYNFpRU282NENPNzlGOGRENUJ4UUFsRVVkUkN6OTdQNzdMNTg5OWVGWjJoSW13SUotam16eGt0cG1aWlhiY3cxbmpIWi1Ec1JnNWo0eGJ4TkFCNDFmZFpqaW85RWUzcEw5RURCQzJXZ0pFWmJWUHpqbjJ5alhUdk9xV3N3Vlo1UWs?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-06-11T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Can Fin Homes reported March quarter earnings of ₹25.96 per share.",
+      "enriched": true
+    },
+    {
       "id": "ndeffd36badb1",
       "ticker": "WOCKPHARMA",
       "company": "Wockhardt Limited",
@@ -6195,45 +7256,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Wockhardt's Zaynich antibiotic receives US FDA approval for treatment.",
-      "enriched": true
-    },
-    {
-      "id": "nbf8c5c368bb0",
-      "ticker": "SUDEEPPHRM",
-      "company": "Sudeep Pharma Limited",
-      "sector": "Chemicals",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "SUDEEPPHRM Q2 2025 Earnings: Revenue Growth of 9.4% Amid Stable EPS Performance - Diluted EPS Report",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQmoxRGwtWlVmTmd3SGJQRkx4YVZoNG1xN0lGTWtGUURXaHNJUUYxVUt6WHF5dVdQaUpRNnRIblFSX25haGQ2S1VVZTQxVFcyOTZRNkQxNkphWF9takNtMWZLUnBzbGd5ZngwNGdnanlodlBpVFlIblA2NjdyTEt5bFZ2NGpHbmtvT09qNHl5YloxMWFXSFc4UDZrVm51UGxqeUp0QU0wNEZtcGlxTGhLeVBKNGhjQTNv?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-10T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Sudeep Pharma's Q2 revenue grew 9.4% with stable earnings per share.",
-      "enriched": true
-    },
-    {
-      "id": "n9a291924dfd4",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "SAPPHIRE.NS Q2 2026 Earnings: Narrowing Losses Amid Revenue Growth of 8.45% - Annual Report",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTkVOakh6bTFmTm14SUdfMnBrOEhQRzBzckd3Uk5oVHY5UjQ2VDB2S2twOGd0N0pvR1BLMWplOEJudGtua3ZiMEtxVFlGSlYyUE5xQW9DTWY0aW03WFZ2aGo3U2l5SzZTUEdxczFtazNUZzJad0FoRmRrcTZpbDBFbG82UUZtN2Z5V1hOcnVvb1RtV1ZodUFDVHY2N3hQR2F3dldIbW5QQ2FYZWFWOW83UXpn?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-09T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Sapphire Foods reduced losses while revenue grew 8.45% in Q2.",
       "enriched": true
     },
     {
