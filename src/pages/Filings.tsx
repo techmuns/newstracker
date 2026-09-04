@@ -11,26 +11,43 @@ const EXCHANGE_PILL: Record<Exchange, string> = {
   BSE: 'bg-amber-100 text-amber-700 ring-1 ring-amber-200',
 };
 
+// Two-level taxonomy grouping the filing `category` values into 5 parents.
+// Anything not listed here falls under "Other Disclosures".
+const OTHER_PARENT = 'Other Disclosures';
+const TAXONOMY: { parent: string; children: string[] }[] = [
+  { parent: 'Business & Growth', children: ['Receipt of Order', 'Acquisition'] },
+  { parent: 'Capital & Returns', children: ['Allotment of Securities', 'Buyback', 'Dividend'] },
+  { parent: 'Financials', children: ['Financial Results', 'Investor Presentation', 'Credit Rating'] },
+  { parent: 'Governance', children: ['Board Meeting', 'Change in Directors', 'Trading Window'] },
+  { parent: OTHER_PARENT, children: ['Disclosure', 'Newspaper Publication', 'Announcement'] },
+];
+const CATEGORY_TO_PARENT = new Map<string, string>();
+for (const { parent, children } of TAXONOMY) for (const c of children) CATEGORY_TO_PARENT.set(c, parent);
+const parentOf = (category: string) => CATEGORY_TO_PARENT.get(category) || OTHER_PARENT;
+
 function MiniSelect({
   label,
   value,
   options,
   onChange,
+  disabled,
 }: {
   label: string;
   value: string;
   options: { value: string; label: string }[];
   onChange: (v: string) => void;
+  disabled?: boolean;
 }) {
   return (
-    <label className="flex flex-col gap-1">
+    <label className={`flex flex-col gap-1 ${disabled ? 'opacity-50' : ''}`}>
       <span className="text-[11px] font-bold uppercase tracking-wide text-slate-500">
         {label}
       </span>
       <select
         value={value}
         onChange={(e) => onChange(e.target.value)}
-        className="min-w-[8rem] cursor-pointer rounded-lg border-0 bg-white py-2 pl-3 pr-8 text-sm font-medium text-slate-700 shadow-sm ring-1 ring-slate-200 transition focus:outline-none focus:ring-2 focus:ring-indigo-400"
+        disabled={disabled}
+        className="min-w-[8rem] cursor-pointer rounded-lg border-0 bg-white py-2 pl-3 pr-8 text-sm font-medium text-slate-700 shadow-sm ring-1 ring-slate-200 transition focus:outline-none focus:ring-2 focus:ring-indigo-400 disabled:cursor-not-allowed disabled:bg-slate-50"
       >
         {options.map((o) => (
           <option key={o.value} value={o.value}>
@@ -45,6 +62,8 @@ function MiniSelect({
 export function Filings({ filings }: { filings: Filing[] }) {
   const [company, setCompany] = useState<string>('All');
   const [exchange, setExchange] = useState<string>('All');
+  const [parentCat, setParentCat] = useState<string>('All');
+  const [subCat, setSubCat] = useState<string>('All');
   const [sort, setSort] = useState<'newest' | 'oldest'>('newest');
 
   const companies = useMemo(
@@ -55,10 +74,28 @@ export function Filings({ filings }: { filings: Filing[] }) {
     [filings],
   );
 
+  // Sub-category options cascade from the chosen parent: the distinct filing
+  // categories actually present under it (so "Other Disclosures" also surfaces
+  // unmapped types). Empty when Category = All.
+  const subOptions = useMemo(() => {
+    if (parentCat === 'All') return [];
+    const set = new Set<string>();
+    for (const f of filings) if (parentOf(f.category) === parentCat) set.add(f.category);
+    return [...set].sort((a, b) => a.localeCompare(b));
+  }, [filings, parentCat]);
+
+  // Changing the parent resets the sub-category.
+  const onParentChange = (v: string) => {
+    setParentCat(v);
+    setSubCat('All');
+  };
+
   const shown = useMemo(() => {
     const out = filings.filter((f) => {
       if (company !== 'All' && f.company !== company) return false;
       if (exchange !== 'All' && f.exchange !== exchange) return false;
+      if (parentCat !== 'All' && parentOf(f.category) !== parentCat) return false;
+      if (subCat !== 'All' && f.category !== subCat) return false;
       return true;
     });
     out.sort((a, b) =>
@@ -67,7 +104,7 @@ export function Filings({ filings }: { filings: Filing[] }) {
         : a.date.localeCompare(b.date),
     );
     return out;
-  }, [filings, company, exchange, sort]);
+  }, [filings, company, exchange, parentCat, subCat, sort]);
 
   // No filings at all → honest "coming soon" state. We never fall back to a
   // sample: the filings feed shows verified NSE/BSE disclosures or nothing.
@@ -104,6 +141,25 @@ export function Filings({ filings }: { filings: Filing[] }) {
           ]}
           onChange={setExchange}
         />
+        <MiniSelect
+          label="Category"
+          value={parentCat}
+          options={[
+            { value: 'All', label: 'All categories' },
+            ...TAXONOMY.map((t) => ({ value: t.parent, label: t.parent })),
+          ]}
+          onChange={onParentChange}
+        />
+        <MiniSelect
+          label="Sub-category"
+          value={subCat}
+          disabled={parentCat === 'All'}
+          options={[
+            { value: 'All', label: parentCat === 'All' ? 'All' : 'All sub-categories' },
+            ...subOptions.map((c) => ({ value: c, label: c })),
+          ]}
+          onChange={setSubCat}
+        />
         <button
           onClick={() => setSort((s) => (s === 'newest' ? 'oldest' : 'newest'))}
           className="mb-0.5 inline-flex items-center gap-1.5 rounded-lg bg-white px-3 py-2 text-xs font-bold text-slate-600 shadow-sm ring-1 ring-slate-200 transition hover:text-slate-900"
@@ -123,7 +179,7 @@ export function Filings({ filings }: { filings: Filing[] }) {
         <EmptyState
           icon={FileX2}
           title="No filings match these filters"
-          hint="Try a different company or exchange."
+          hint="Try a different company, exchange, or category."
         />
       ) : (
         <div className="overflow-hidden rounded-2xl bg-white shadow-sm ring-1 ring-slate-200/70">
