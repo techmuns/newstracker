@@ -1,5 +1,5 @@
 import { useMemo, useState } from 'react';
-import { ExternalLink, FileX2, ArrowUpDown } from 'lucide-react';
+import { ExternalLink, FileX2, ArrowUpDown, ShieldCheck } from 'lucide-react';
 import type { Filing, Exchange } from '../lib/types';
 import { formatDateTime } from '../lib/format';
 import { Avatar } from '../components/ui/Avatar';
@@ -68,6 +68,18 @@ export function Filings({ filings }: { filings: Filing[] }) {
     );
     return out;
   }, [filings, company, exchange, sort]);
+
+  // No filings at all → honest "coming soon" state. We never fall back to a
+  // sample: the filings feed shows verified NSE/BSE disclosures or nothing.
+  if (filings.length === 0) {
+    return (
+      <EmptyState
+        icon={ShieldCheck}
+        title="Live regulatory filings coming soon"
+        hint="We only show verified NSE/BSE disclosures, never placeholders."
+      />
+    );
+  }
 
   return (
     <div className="space-y-4">

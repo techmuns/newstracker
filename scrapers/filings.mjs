@@ -127,9 +127,14 @@ async function main() {
 
   const { all: companies } = loadCompanies();
   const existingEnv = readJSON(FILINGS_PATH, { items: [] });
-  const existing = existingEnv.source === 'sample' ? [] : existingEnv.items || [];
-  if (existingEnv.source === 'sample') {
-    console.log('[filings] existing file is Prompt-1 sample — replacing with real data.');
+  // Trust ONLY a previously-written real ('munshot') envelope as existing data
+  // to merge onto. Any placeholder ('sample', 'pending', or anything else) is
+  // treated as empty, so we can never re-serve or build on non-real filings.
+  const existing = existingEnv.source === 'munshot' ? existingEnv.items || [] : [];
+  if (existingEnv.source && existingEnv.source !== 'munshot') {
+    console.log(
+      `[filings] existing file is non-real ('${existingEnv.source}') — ignoring it; only verified Munshot filings are ever written.`,
+    );
   }
 
   console.log(`[filings] querying Munshot for ${companies.length} companies…`);
