@@ -68,10 +68,11 @@ jobs:
           MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
         run: node enrich.mjs
 
-      - name: Scrape filings (Munshot)
+      - name: Scrape filings (NSE via Firecrawl)
         continue-on-error: true
         working-directory: scrapers
         env:
+          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
           MUNS_TOKEN: ${{ secrets.MUNS_TOKEN }}
           MUNS_EMAIL: ${{ secrets.MUNS_EMAIL }}
         run: node filings.mjs
