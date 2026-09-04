@@ -15,10 +15,27 @@ const EXCHANGE_PILL: Record<Exchange, string> = {
 // Anything not listed here falls under "Other Disclosures".
 const OTHER_PARENT = 'Other Disclosures';
 const TAXONOMY: { parent: string; children: string[] }[] = [
-  { parent: 'Business & Growth', children: ['Receipt of Order', 'Acquisition'] },
-  { parent: 'Capital & Returns', children: ['Allotment of Securities', 'Buyback', 'Dividend'] },
+  {
+    parent: 'Business & Growth',
+    children: ['Receipt of Order', 'Acquisition', 'Capacity addition', 'Agreements', 'Diversification/Disinvestment'],
+  },
+  {
+    parent: 'Capital & Returns',
+    children: ['Allotment of Securities', 'Buyback', 'Dividend', 'ESOP/ESOS/ESPS', 'Record Date', 'Bonus'],
+  },
   { parent: 'Financials', children: ['Financial Results', 'Investor Presentation', 'Credit Rating'] },
-  { parent: 'Governance', children: ['Board Meeting', 'Change in Directors', 'Trading Window'] },
+  {
+    parent: 'Governance',
+    children: [
+      'Board Meeting',
+      'Change in Directors',
+      'Trading Window',
+      'Shareholders meeting',
+      'Amendment to AOA/MOA',
+      'Retirement',
+      'Demise',
+    ],
+  },
   { parent: OTHER_PARENT, children: ['Disclosure', 'Newspaper Publication', 'Announcement'] },
 ];
 const CATEGORY_TO_PARENT = new Map<string, string>();
