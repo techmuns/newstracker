@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import { ExternalLink, FileX2, ArrowUpDown, ShieldCheck } from 'lucide-react';
 import type { Filing, Exchange } from '../lib/types';
 import { formatDateTime } from '../lib/format';
@@ -82,6 +82,7 @@ export function Filings({ filings }: { filings: Filing[] }) {
   const [parentCat, setParentCat] = useState<string>('All');
   const [subCat, setSubCat] = useState<string>('All');
   const [sort, setSort] = useState<'newest' | 'oldest'>('newest');
+  const [visible, setVisible] = useState(50); // paginate: 50 rows, +50 per "Load more"
 
   const companies = useMemo(
     () =>
@@ -123,6 +124,11 @@ export function Filings({ filings }: { filings: Filing[] }) {
     return out;
   }, [filings, company, exchange, parentCat, subCat, sort]);
 
+  // Any filter (or sort) change resets pagination to the first page.
+  useEffect(() => {
+    setVisible(50);
+  }, [company, exchange, parentCat, subCat, sort]);
+
   // No filings at all → honest "coming soon" state. We never fall back to a
   // sample: the filings feed shows verified NSE/BSE disclosures or nothing.
   if (filings.length === 0) {
@@ -134,6 +140,8 @@ export function Filings({ filings }: { filings: Filing[] }) {
       />
     );
   }
+
+  const pageItems = shown.slice(0, visible);
 
   return (
     <div className="space-y-4">
@@ -185,8 +193,13 @@ export function Filings({ filings }: { filings: Filing[] }) {
           {sort === 'newest' ? 'Newest first' : 'Oldest first'}
         </button>
         <p className="mb-1 ml-auto text-xs text-slate-500">
+          Showing{' '}
           <span className="font-bold tabular-nums text-slate-700">
-            {shown.length}
+            {pageItems.length.toLocaleString('en-IN')}
+          </span>{' '}
+          of{' '}
+          <span className="font-bold tabular-nums text-slate-700">
+            {shown.length.toLocaleString('en-IN')}
           </span>{' '}
           announcements
         </p>
@@ -209,7 +222,7 @@ export function Filings({ filings }: { filings: Filing[] }) {
           </div>
 
           <ul className="divide-y divide-slate-100">
-            {shown.map((f) => (
+            {pageItems.map((f) => (
               <li key={f.id}>
                 <a
                   href={f.url}
@@ -259,6 +272,18 @@ export function Filings({ filings }: { filings: Filing[] }) {
               </li>
             ))}
           </ul>
+
+          {visible < shown.length && (
+            <button
+              onClick={() => setVisible((v) => v + 50)}
+              className="w-full border-t border-slate-100 px-4 py-3 text-sm font-bold text-indigo-600 transition hover:bg-slate-50"
+            >
+              Load {Math.min(50, shown.length - visible)} more
+              <span className="font-medium text-slate-400">
+                {' '}· {(shown.length - visible).toLocaleString('en-IN')} remaining
+              </span>
+            </button>
+          )}
         </div>
       )}
     </div>
