@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T17:54:28.094Z",
+  "generated_at": "2026-09-06T07:22:46.169Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,246 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f087460dfb411",
+      "ticker": "JUBLCPL",
+      "company": "Jubilant Agri and Consumer Products Limited",
+      "exchange": "NSE",
+      "date": "2026-09-06T00:00:14.000Z",
+      "category": "Disclosure",
+      "title": "Jubilant Agri and Consumer Products Limited has informed the Exchange about proceedings of Hon'ble NCLT Convened Meeting of Unsecured Creditors held on September 05, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/JACPL_05092026235956_Summary_Proceeding_USC_JACPL.pdf"
+    },
+    {
+      "id": "f5d005b580d3e",
+      "ticker": "JUBLCPL",
+      "company": "Jubilant Agri and Consumer Products Limited",
+      "exchange": "NSE",
+      "date": "2026-09-05T23:55:07.000Z",
+      "category": "Shareholders meeting",
+      "title": "Jubilant Agri and Consumer Products Limited has informed the Exchange regarding Proceedings of Hon'ble NCLT Convened Meeting of Equity Shareholders held on September 05, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/JACPL_05092026235438_Summary_Proceeding_ESH_JACPL.pdf"
+    },
+    {
+      "id": "f0eca211b4f92",
+      "ticker": "MTARTECH",
+      "company": "Mtar Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-09-05T20:45:36.000Z",
+      "category": "Disclosure",
+      "title": "Mtar Technologies Limited has informed the Exchange about General Updates",
+      "url": "https://nsearchives.nseindia.com/corporate/MTARTECH_05092026204509_Bookclosure_sw.pdf"
+    },
+    {
+      "id": "f19118796ddbd",
+      "ticker": "MTARTECH",
+      "company": "Mtar Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-09-05T20:42:52.000Z",
+      "category": "Shareholders meeting",
+      "title": "Mtar Technologies Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 28, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/MTARTECH_05092026204245_Notice_sw.pdf"
+    },
+    {
+      "id": "fd0d54aadfe47",
+      "ticker": "CMLL",
+      "company": "Caliber Mining and Logistics Limited",
+      "exchange": "NSE",
+      "date": "2026-09-05T19:14:47.000Z",
+      "category": "Disclosure",
+      "title": "Caliber Mining and Logistics Limited has informed the Exchange about Annual report for the financial year 2025-26",
+      "url": "https://nsearchives.nseindia.com/corporate/CMLL_05092026191407_CMLL_AR_2026_04092026_near_final_v2.pdf"
+    },
+    {
+      "id": "fd9b9e74e4058",
+      "ticker": "FAZE3Q",
+      "company": "Faze Three Limited",
+      "exchange": "NSE",
+      "date": "2026-09-05T18:55:47.000Z",
+      "category": "Change in Directors",
+      "title": "Faze Three Limited has informed the Exchange regarding Change in Director(s) of the company.",
+      "url": "https://nsearchives.nseindia.com/corporate/FAZETHREE_05092026185506_Submission.pdf"
+    },
+    {
+      "id": "ff01d39ee1922",
+      "ticker": "FAZE3Q",
+      "company": "Faze Three Limited",
+      "exchange": "NSE",
+      "date": "2026-09-05T18:50:54.000Z",
+      "category": "Shareholders meeting",
+      "title": "FAZE3Q: Faze Three Limited has informed the Exchange regarding voting results of 41st Annual General Meeting held on September 04, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/FAZETHREE_05092026185029_Voting_Results.pdf"
+    },
+    {
+      "id": "f460748f5d8e1",
+      "ticker": "CMLL",
+      "company": "Caliber Mining and Logistics Limited",
+      "exchange": "NSE",
+      "date": "2026-09-05T18:38:02.000Z",
+      "category": "Disclosure",
+      "title": "Caliber Mining and Logistics Limited has informed the Exchange about closure of books for 12th Annual general meeting",
+      "url": "https://nsearchives.nseindia.com/corporate/CMLL_05092026183743_Book_Closure_Intimation_dsc.pdf"
+    },
+    {
+      "id": "f469e53204253",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "exchange": "NSE",
+      "date": "2026-09-05T18:26:00.000Z",
+      "category": "Disclosure",
+      "title": "E2E Networks Limited has informed the Exchange about Dispatch of letter to shareholders whose email addresses are not registered with Company/Registrar & Transfer Agent/Depository Participants",
+      "url": "https://nsearchives.nseindia.com/corporate/E2E_05092026182547_Physical_Letter_05092026.pdf"
+    },
+    {
+      "id": "fd317ce71b7f8",
+      "ticker": "CMLL",
+      "company": "Caliber Mining and Logistics Limited",
+      "exchange": "NSE",
+      "date": "2026-09-05T17:37:25.000Z",
+      "category": "Shareholders meeting",
+      "title": "Caliber Mining and Logistics Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/CMLL_05092026173713_AGM_Notice_Initimation_letter_dsc.pdf"
+    },
+    {
+      "id": "fe6f1d5029adb",
+      "ticker": "SKYGOLD",
+      "company": "SKY GOLD AND DIAMONDS LIMITED",
+      "exchange": "NSE",
+      "date": "2026-09-05T16:07:54.000Z",
+      "category": "Disclosure",
+      "title": "Please find enclosed letter to shareholders.",
+      "url": "https://nsearchives.nseindia.com/corporate/SKYGOLD_05092026160742_IntimationPhysicalDispatch.pdf"
+    },
+    {
+      "id": "f856818ac3d9a",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "exchange": "NSE",
+      "date": "2026-09-05T15:22:25.000Z",
+      "category": "Disclosure",
+      "title": "E2E Networks Limited has informed the Exchange regarding Business Responsibility and Sustainability Report for the financial year ended March 31, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/E2E_05092026152204_Intimation_BRSR_05092026.pdf"
+    },
+    {
+      "id": "f10de367a2c7d",
+      "ticker": "VIVIDEL",
+      "company": "Vivid Electromech Limited",
+      "exchange": "NSE",
+      "date": "2026-09-05T15:14:04.000Z",
+      "category": "Disclosure",
+      "title": "Vivid Electromech Limited has informed the Exchange regarding 'Intimation of Updated Presentation '.",
+      "url": "https://nsearchives.nseindia.com/corporate/VIVID_05092026151358_Intimation_of_updated_presentation_1.pdf"
+    },
+    {
+      "id": "faf1243c8e92c",
+      "ticker": "FAZE3Q",
+      "company": "Faze Three Limited",
+      "exchange": "NSE",
+      "date": "2026-09-05T15:11:08.000Z",
+      "category": "Shareholders meeting",
+      "title": "Faze Three Limited has submitted the Exchange a copy of consolidated Scrutinizer's Report on remote e-voting and e-voting conducted for its 41st Annual General Meeting",
+      "url": "https://nsearchives.nseindia.com/corporate/FAZETHREE_05092026150835_Submission.pdf"
+    },
+    {
+      "id": "f834ced47efe8",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "exchange": "NSE",
+      "date": "2026-09-05T15:09:00.000Z",
+      "category": "Shareholders meeting",
+      "title": "E2E Networks Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 28, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/E2E_05092026150615_Notice_05092026.pdf"
+    },
+    {
+      "id": "f7ea646ddf892",
+      "ticker": "DHOOTTRANS",
+      "company": "Dhoot Transmission Limited",
+      "exchange": "NSE",
+      "date": "2026-09-05T15:05:08.000Z",
+      "category": "Newspaper Publication",
+      "title": "Dhoot Transmission Limited has informed the Exchange about Copy of Newspaper Publication",
+      "url": "https://nsearchives.nseindia.com/corporate/DTL_05092026150448_DTL_SE_Intimation_Newspaper_advt_signed.pdf"
+    },
+    {
+      "id": "ff3768e5b60d7",
+      "ticker": "SKYGOLD",
+      "company": "SKY GOLD AND DIAMONDS LIMITED",
+      "exchange": "NSE",
+      "date": "2026-09-05T14:16:05.000Z",
+      "category": "Shareholders meeting",
+      "title": "Please find enclosed Notice of Eighteenth (18th) Annual General Meeting (AGM).",
+      "url": "https://nsearchives.nseindia.com/corporate/SKYGOLD_05092026141552_NoticeandAnnualReport.pdf"
+    },
+    {
+      "id": "f31c364bf585c",
+      "ticker": "CMLL",
+      "company": "Caliber Mining and Logistics Limited",
+      "exchange": "NSE",
+      "date": "2026-09-05T13:31:42.000Z",
+      "category": "Newspaper Publication",
+      "title": "Caliber Mining and Logistics Limited has informed the Exchange about Copy of Newspaper Publication published for AGM through VC",
+      "url": "https://nsearchives.nseindia.com/corporate/CMLL_05092026133030_Intimation_AGM_Pre_dispatch_adv_DSC.pdf"
+    },
+    {
+      "id": "f8b7034deb588",
+      "ticker": "EMAPARTNER",
+      "company": "EMA Partners India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-05T13:07:18.000Z",
+      "category": "Newspaper Publication",
+      "title": "EMA Partners India Limited has informed the Exchange about the Newspaper Advertisement of post-dispatch of Annual Report for Financial year 2025-2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/EMAIN_05092026130708_Intimation_of_Post_dispatch_of_Annual_Report_sd.pdf"
+    },
+    {
+      "id": "f56fc50520842",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-09-05T12:50:05.000Z",
+      "category": "Disclosure",
+      "title": "Aurionpro Solutions Limited has informed the Exchange about Letter to Shareholder",
+      "url": "https://nsearchives.nseindia.com/corporate/AURIONPRO_05092026124952_ASL_Stock_Exchange_Intimationreg36_sd.pdf"
+    },
+    {
+      "id": "f22150bd7bcc7",
+      "ticker": "KSHINTL",
+      "company": "KSH International Limited",
+      "exchange": "NSE",
+      "date": "2026-09-05T12:38:47.000Z",
+      "category": "Board Meeting",
+      "title": "KSH International Limited has informed the Exchange regarding Outcome of Board Meeting held on September 05, 2026, where the Board has approved request for re-classification of KSH Distriparks Private Limited from the Promoter Group category to Public category.",
+      "url": "https://nsearchives.nseindia.com/corporate/INTERNATIONAL_05092026123807_KSHReclassification_2026Sep05_outcome_Signed.pdf"
+    },
+    {
+      "id": "ffcaccb53d8f4",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-09-05T12:37:22.000Z",
+      "category": "Record Date",
+      "title": "Aurionpro Solutions Limited has informed the Exchange that Record date for the purpose of Dividend is 22-Sep-2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/AURIONPRO_05092026123602_ASL_Record_date_Intimation_Covering_sd.pdf"
+    },
+    {
+      "id": "f26aa01b7ccf7",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-09-05T12:32:29.000Z",
+      "category": "Shareholders meeting",
+      "title": "Aurionpro Solutions Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 29, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/AURIONPRO_05092026123210_ASL_AGM_Notice_to_shareholders_sd.pdf"
+    },
+    {
+      "id": "fa56e32085211",
+      "ticker": "SKYGOLD",
+      "company": "SKY GOLD AND DIAMONDS LIMITED",
+      "exchange": "NSE",
+      "date": "2026-09-05T12:10:38.000Z",
+      "category": "Board Meeting",
+      "title": "The Board at its meeting held today i.e., Saturday, 5th September 2026, inter alia, considered and approved the following: A. \"Annual General Meeting\" of the Members of the CompanyB. Cut-off DateC. Appointment of Statutory Auditor",
+      "url": "https://nsearchives.nseindia.com/corporate/SKYGOLD_05092026120929_OutcomeBM.pdf"
+    },
     {
       "id": "fdd139bdec85a",
       "ticker": "EMAPARTNER",
@@ -19766,246 +20006,6 @@
       "category": "Investor Presentation",
       "title": "KPIT Technologies Limited has informed the Exchange about Outcome of investor / analyst conference - Investec Confluence held on Friday, June 12, 2026, at Chennai.",
       "url": "https://nsearchives.nseindia.com/corporate/KPITTECH_12062026190917_KPIT_Invested_confluence_outcome.pdf"
-    },
-    {
-      "id": "fd14463d782ea",
-      "ticker": "RPSGVENT",
-      "company": "RPSG VENTURES LIMITED",
-      "exchange": "NSE",
-      "date": "2026-06-12T19:09:40.000Z",
-      "category": "Disclosure",
-      "title": "Digidrive Distributors Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_04052026131602_21.pdf"
-    },
-    {
-      "id": "ff75c2ef9a643",
-      "ticker": "E2E",
-      "company": "E2E Networks Limited",
-      "exchange": "NSE",
-      "date": "2026-06-12T17:05:36.000Z",
-      "category": "Change in Directors",
-      "title": "E2E Networks Limited has informed the Exchange regarding Resignation of Mr as Other of the company w.e.f. Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/E2E_12062026170244_E2E_SMP_R.pdf"
-    },
-    {
-      "id": "f87c145df9e82",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "exchange": "NSE",
-      "date": "2026-06-12T16:51:45.000Z",
-      "category": "Press Release",
-      "title": "Meesho Limited has informed the Exchange regarding a press release dated Jun 12, 2026, titled \"Meesho Acquires Kirana Club to Expand Digital Commerce Access for India s 13 million+ Kiranas\".",
-      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_12062026165123_PressReleaseKiranaClub.pdf"
-    },
-    {
-      "id": "f23cbf6d01d02",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "exchange": "NSE",
-      "date": "2026-06-12T16:48:38.000Z",
-      "category": "Disclosure",
-      "title": "Meesho Limited has informed the Exchange about acquisition under Regulation 30 of SEBI (LODR) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_12062026164754_FilingversionMLOutcome.pdf"
-    },
-    {
-      "id": "f0b9a9aedbd9d",
-      "ticker": "LGEINDIA",
-      "company": "LG Electronics India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-12T14:58:43.000Z",
-      "category": "Press Release",
-      "title": "LG Electronics India Limited has informed the Exchange regarding a press release dated Jun 12, 2026, titled \"LG Electronics Demonstrates the Evolution of the AI Home Ecosystem\".",
-      "url": "https://nsearchives.nseindia.com/corporate/LGEINDIA_12062026145746_Press_Release_Intimation_dated_12June2026.pdf"
-    },
-    {
-      "id": "f18e096b43fd4",
-      "ticker": "CONCORDBIO",
-      "company": "Concord Biotech Limited",
-      "exchange": "NSE",
-      "date": "2026-06-12T13:35:56.000Z",
-      "category": "Disclosure",
-      "title": "Concord Biotech Limited has informed the Exchange regarding 'Completion of ANVISA Inspection conducted by the Brazilian Health Regulatory Agency at the Limbasi API Manufacturing Facility'.",
-      "url": "https://nsearchives.nseindia.com/corporate/CONCORD_12062026133511_Intimation_ANVISA.pdf"
-    },
-    {
-      "id": "fc71e2ef0c319",
-      "ticker": "MTARTECH",
-      "company": "Mtar Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-06-12T11:37:12.000Z",
-      "category": "Disclosure",
-      "title": "P. Srinivas Reddy has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_03062026133951_10.pdf"
-    },
-    {
-      "id": "fea8c6c87bf24",
-      "ticker": "SBCL",
-      "company": "Shivalik Bimetal Controls Limited",
-      "exchange": "NSE",
-      "date": "2026-06-12T11:17:15.000Z",
-      "category": "Disclosure",
-      "title": "Sumer Ghumman has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_03062026131812_22.pdf"
-    },
-    {
-      "id": "f362521d4dce8",
-      "ticker": "UNIMECH",
-      "company": "Unimech Aerospace and Manufacturing Limited",
-      "exchange": "NSE",
-      "date": "2026-06-12T10:56:39.000Z",
-      "category": "Disclosure",
-      "title": "Ramakrishna Kamojhala has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) and 31 (5) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_03062026124912_34.pdf"
-    },
-    {
-      "id": "f07fcdc36057c",
-      "ticker": "SONATSOFTW",
-      "company": "Sonata Software Limited",
-      "exchange": "NSE",
-      "date": "2026-06-11T22:48:29.000Z",
-      "category": "Action(s) taken or orders passed",
-      "title": "Sonata Software Limited has informed the Exchange about sanction of Scheme of Arrangement and Amalgamation by Hon'ble NCLT Chennai Bench",
-      "url": "https://nsearchives.nseindia.com/corporate/SONATSOFTW_11062026224403_schemeofamalgamationintimation.pdf"
-    },
-    {
-      "id": "f128fd6898719",
-      "ticker": "E2E",
-      "company": "E2E Networks Limited",
-      "exchange": "NSE",
-      "date": "2026-06-11T19:39:08.000Z",
-      "category": "Disclosure",
-      "title": "E2E Networks Limited has informed the Exchange about Approval received for Listing of 20,55,64,890 Equity Shares of Rs.1/- each of E2E Networks Limited on main board of BSE Limited under Direct Listing Route.",
-      "url": "https://nsearchives.nseindia.com/corporate/E2E_11062026193848_E2EDisclosure11062026.pdf"
-    },
-    {
-      "id": "fede6a919dea2",
-      "ticker": "BHARATCOAL",
-      "company": "Bharat Coking Coal Limited",
-      "exchange": "NSE",
-      "date": "2026-06-11T19:12:30.000Z",
-      "category": "Disclosure",
-      "title": "Board comments on fine levied by the Exchange",
-      "url": "https://nsearchives.nseindia.com/corporate/BCCL_11062026191132_NSELETTER.pdf"
-    },
-    {
-      "id": "f299479976082",
-      "ticker": "GULFOILLUB",
-      "company": "Gulf Oil Lubricants India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-11T17:45:14.000Z",
-      "category": "Investor Presentation",
-      "title": "We hereby inform you that a Meet is scheduled to be held with Analyst/ Institutional Investors on Tuesday, June 16, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/GULFOILLUB_11062026174243_InvestorMeeting16062026.pdf"
-    },
-    {
-      "id": "f87ce82bebfff",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-06-11T16:21:40.000Z",
-      "category": "Disclosure",
-      "title": "Aurionpro Solutions Limited has informed the Exchange about outcome of Investor Day held on 10th June, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/AURIONPRO_11062026162120_ASL_Outcome_Investor_Day_10062026_SD.pdf"
-    },
-    {
-      "id": "f40eb598d3efb",
-      "ticker": "DEVYANI",
-      "company": "Devyani International Limited",
-      "exchange": "NSE",
-      "date": "2026-06-11T15:46:04.000Z",
-      "category": "Action(s) taken or orders passed",
-      "title": "Devyani International Limited has informed the Exchange about update on action(s) taken or orders passed",
-      "url": "https://nsearchives.nseindia.com/corporate/DEVYANI_11062026154550_SE_Intimation_-_GST_Demand_BBK_Update_DSC.pdf"
-    },
-    {
-      "id": "f790d027dea76",
-      "ticker": "CARTRADE",
-      "company": "Cartrade Tech Limited",
-      "exchange": "NSE",
-      "date": "2026-06-11T13:27:55.000Z",
-      "category": "Disclosure",
-      "title": "Cartrade Tech Limited has informed the Exchange regarding 'Allotment of 95,000 equity shares under ESOP 2010, ESOP 2011 and ESOP 2014 of CarTrade Tech Limited '.",
-      "url": "https://nsearchives.nseindia.com/corporate/CARTRADE_11062026132749_ESOP_-Intimation_letter_-_11_june_26.pdf"
-    },
-    {
-      "id": "fbf3507254a2b",
-      "ticker": "WOCKPHARMA",
-      "company": "Wockhardt Limited",
-      "exchange": "NSE",
-      "date": "2026-06-11T12:40:59.000Z",
-      "category": "Investor Presentation",
-      "title": "Pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing Obligations andDisclosure Requirements) Regulations, 2015, as amended and in continuation to our letter bearing reference no. Ref. No.: WOCK/SEC/SE/2025-26/015 dated 1st June, 2026, please find enclosed the transcript of the Investor Meeting held on Thursday, 4th June, 2026, for your information and records.",
-      "url": "https://nsearchives.nseindia.com/corporate/WOCKPHARMA_11062026123303_WockhardtInvestorMeetTranscriptsigned.pdf"
-    },
-    {
-      "id": "f6893735b7f3b",
-      "ticker": "MENONBE",
-      "company": "Menon Bearings Limited",
-      "exchange": "NSE",
-      "date": "2026-06-11T12:34:38.000Z",
-      "category": "Disclosure",
-      "title": "Menon Bearings Limited has informed the Exchange regarding 'Clarification on Spurt in Volume'.",
-      "url": "https://nsearchives.nseindia.com/corporate/MENONBE_11062026123427_NSE_Intimation_Volume_Increase_.pdf"
-    },
-    {
-      "id": "f2345a7ee503a",
-      "ticker": "DENTA",
-      "company": "Denta Water and Infra Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-06-11T12:28:14.000Z",
-      "category": "Disclosure",
-      "title": "Denta Water and Infra Solutions Limited has informed the Exchange regarding 'Updates on Earnings Conference Call'.",
-      "url": "https://nsearchives.nseindia.com/corporate/DENTA_11062026122805_Earnings_Conference_call_update.pdf"
-    },
-    {
-      "id": "f4af0b7ad7225",
-      "ticker": "SENORES",
-      "company": "Senores Pharmaceuticals Limited",
-      "exchange": "NSE",
-      "date": "2026-06-10T19:17:39.000Z",
-      "category": "Disclosure",
-      "title": "Senores Pharmaceuticals Limited has informed the Exchange regarding update in terms of Regulation 30(5) of SEBI (LODR) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/SENORES_10062026191731_Intimationunderregulation30signed.pdf"
-    },
-    {
-      "id": "f2c98796922f3",
-      "ticker": "SENORES",
-      "company": "Senores Pharmaceuticals Limited",
-      "exchange": "NSE",
-      "date": "2026-06-10T19:16:30.000Z",
-      "category": "Change in Directors",
-      "title": "Senores Pharmaceuticals Limited has informed the Exchange regarding Cessation of Company Secretary and Compliance Offer w.e.f. June 10, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/SENORES_10062026191621_Intimationunderregulation30signed.pdf"
-    },
-    {
-      "id": "f0e76b21b64d9",
-      "ticker": "EPIGRAL",
-      "company": "Epigral Limited",
-      "exchange": "NSE",
-      "date": "2026-06-10T18:26:15.000Z",
-      "category": "Investor Presentation",
-      "title": "Epigral Limited has informed the Exchange about One-on-One Meeting through V.C. with Investor / Analyst on June 16, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/MFL_10062026182604_InvestorMeet.pdf"
-    },
-    {
-      "id": "fc71ba4a0a7df",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-06-10T16:36:13.000Z",
-      "category": "Disclosure",
-      "title": "Aurionpro Solutions Limited has informed the Exchange about Investor Presentation.",
-      "url": "https://nsearchives.nseindia.com/corporate/AURIONPRO_10062026163600_ASL_Investor_Day__Investor_Presentation_SD.pdf"
-    },
-    {
-      "id": "fb73a710b6cf1",
-      "ticker": "HARIOMPIPE",
-      "company": "Hariom Pipe Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-06-10T16:01:11.000Z",
-      "category": "Newspaper Publication",
-      "title": "Hariom Pipe Industries Limited has informed the Exchange about Copy of Newspaper Advertisement Corrigendum cum Addendum to the Notice of the Extra-Ordinary General Meeting (EGM)",
-      "url": "https://nsearchives.nseindia.com/corporate/hariompipes_10062026155523_Newspaper_Publication_Corrigendum_Signed.pdf"
     }
   ]
 }
