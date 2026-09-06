@@ -1,31 +1,226 @@
 {
-  "generated_at": "2026-09-05T17:02:34.706Z",
+  "generated_at": "2026-09-06T07:30:32.272Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 78,
+    "portfolio": 76,
     "watchlist": 439,
     "universe": 20,
     "total": 459
   },
   "items": [
     {
-      "id": "nf758fde71419",
+      "id": "ndbac1d406588",
       "ticker": "MSECL",
       "company": "Monarch Surveyors and Engineering Consultants Ltd",
       "sector": "Services",
       "scope": [
         "watchlist"
       ],
-      "title": "Monarch Surveyors bags order worth Rs 5 crore | Capital Market News - Business Standard",
-      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-bags-order-worth-rs-5-crore-126062500927_1.html",
+      "title": "Monarch Surveyors and Engineering Consultants receives Rs 2-cr work order | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-and-engineering-consultants-receives-rs-2-cr-work-order-126082200734_1.html",
       "source": "business-standard.com",
-      "date": "2026-09-05T16:59:52.614Z",
+      "date": "2026-09-06T07:21:42.665Z",
       "topic": "Orders",
       "keyword": "Order",
       "importance": "low",
       "mood": "positive",
-      "takeaway": "Monarch Surveyors secured a Rs 5 crore order.",
+      "takeaway": "Monarch Surveyors received a Rs 2 crore work order.",
       "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "nae30ae4df9c1",
+      "ticker": "MSECL",
+      "company": "Monarch Surveyors and Engineering Consultants Ltd",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Monarch Surveyors bags Rs 4-cr government contract in Maharashtra | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-bags-rs-4-cr-government-contract-in-maharashtra-126071500937_1.html",
+      "source": "business-standard.com",
+      "date": "2026-09-06T07:21:42.665Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Monarch Surveyors secured a Rs 4 crore government contract in Maharashtra.",
+      "enriched": true
+    },
+    {
+      "id": "n4ccb198e00ef",
+      "ticker": "SBCL",
+      "company": "Shivalik Bimetal Controls Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Shivalik Bimetal Controls Ltd (BOM:513097) (Q1 2027) Earnings Call Highlights: Strong Revenue Growth and Strategic Shift to High-Value Components",
+      "url": "https://www.gurufocus.com/news/9039194/shivalik-bimetal-controls-ltd-bom513097-q1-2027-earnings-call-highlights-strong-revenue-growth-and-strategic-shift-to-highvalue-components",
+      "source": "gurufocus.com",
+      "date": "2026-09-06T07:20:03.656Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Q1 revenue grew strongly as company shifts focus to higher-value components.",
+      "enriched": true
+    },
+    {
+      "id": "n1e1eee04736f",
+      "ticker": "PVRINOX",
+      "company": "PVR INOX Limited",
+      "sector": "Media Entertainment & Publication",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Mint on X: \"The board of directors of PVR INOX Limited will consider and approve the proposal for share buyback in its upcoming meeting. https://t.co/Xuhkkh17if\" / X",
+      "url": "https://x.com/livemint/status/2092141727847248298",
+      "source": "x.com",
+      "date": "2026-09-06T07:19:56.090Z",
+      "topic": "Money",
+      "keyword": "Buyback",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Board to consider share buyback proposal in upcoming meeting.",
+      "enriched": true
+    },
+    {
+      "id": "nddaa524773ad",
+      "ticker": "LAXMIDENTL",
+      "company": "Laxmi Dental Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Laxmi Dental Ltd (NSE:LAXMIDENTL) (Q1 2027) Earnings Call Highlights: Record Revenue and ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/laxmi-dental-ltd-nse-laxmidentl-150024610.html",
+      "source": "finance.yahoo.com",
+      "date": "2026-09-06T07:19:04.355Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Laxmi Dental reported record revenue in Q1 FY2027.",
+      "enriched": true,
+      "sources_count": 2
+    },
+    {
+      "id": "n54c2294fa67d",
+      "ticker": "JYOTICNC",
+      "company": "Jyoti CNC Automation Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Jyoti CNC Automation Latest Results: Earnings call recording now available",
+      "url": "https://scanx.trade/stock-market-news/companies/jyoti-cnc-automation-latest-results-earnings-call-recording-now-available/47707133",
+      "source": "scanx.trade",
+      "date": "2026-09-06T07:18:59.772Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Jyoti CNC released Q1 earnings call recording.",
+      "enriched": true
+    },
+    {
+      "id": "n4501cdc536d7",
+      "ticker": "JYOTICNC",
+      "company": "Jyoti CNC Automation Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Jyoti CNC gets approval for ₹1,020.65-crore investment proposal under MeitY scheme - CNBC TV18",
+      "url": "https://www.cnbctv18.com/business/companies/jyoti-cnc-gets-nod-rs-1020-crore-investment-proposal-under-meity-scheme-19971330.htm",
+      "source": "cnbctv18.com",
+      "date": "2026-09-06T07:18:59.772Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Jyoti CNC received approval for Rs 1,021 crore investment under MeitY scheme.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nea0f98fbc94d",
+      "ticker": "INDOFARM",
+      "company": "Indo Farm Equipment Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Indo Farm Equipment hosts Q1 FY27 earnings call on Aug 12",
+      "url": "https://scanx.trade/stock-market-news/companies/indo-farm-equipment-hosts-q1-fy27-earnings-call-on-aug-12/47660240",
+      "source": "scanx.trade",
+      "date": "2026-09-06T07:18:56.753Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Indo Farm Equipment held Q1 FY27 earnings call on Aug 12.",
+      "enriched": true
+    },
+    {
+      "id": "n67ac22cb7627",
+      "ticker": "IKS",
+      "company": "Inventurus Knowledge Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Inventurus Knowledge Solutions Q1 Results: Earnings call recording released",
+      "url": "https://scanx.trade/stock-market-news/companies/inventurus-knowledge-solutions-q1-results-earnings-call-recording-released/47557927",
+      "source": "scanx.trade",
+      "date": "2026-09-06T07:18:55.267Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Inventurus Knowledge Solutions released Q1 earnings call recording.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n3b6b1b2aaac4",
+      "ticker": "GMMPFAUDLR",
+      "company": "GMM Pfaudler Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Q1 2027 GMM Pfaudler Ltd Earnings Call Transcript",
+      "url": "https://www.gurufocus.com/news/9029409/q1-2027-gmm-pfaudler-ltd-earnings-call-transcript",
+      "source": "gurufocus.com",
+      "date": "2026-09-06T07:18:45.125Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "GMM Pfaudler released its Q1 2027 earnings call transcript.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "nfe58b5293414",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "DEE Development Engineers Maintains ₹2,428.79 Crore Order Book | Machine Maker - Latest Manufacturing News | Indian Manufacturing News - Latest Manufacturing News | Indian Manufacturing News - Machine Maker",
+      "url": "https://themachinemaker.com/news/dee-development-engineers-maintains-%E2%82%B92428-79-crore-order-book/",
+      "source": "themachinemaker.com",
+      "date": "2026-09-06T07:18:00.828Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "DEE Development Engineers maintains a healthy order book of ₹2,428.79 crore.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -122,46 +317,6 @@
       "mood": "positive",
       "takeaway": "Sky Gold and Diamonds raised ₹154.87 crore through a preferential share issue.",
       "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n93b708a251dd",
-      "ticker": "LAXMIDENTL",
-      "company": "Laxmi Dental Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Q1 2027 Laxmi Dental Ltd Earnings Call Transcript",
-      "url": "https://www.gurufocus.com/news/9027891/q1-2027-laxmi-dental-ltd-earnings-call-transcript",
-      "source": "gurufocus.com",
-      "date": "2026-09-05T16:57:14.637Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Laxmi Dental held its Q1 2027 earnings call.",
-      "sources_count": 3,
-      "enriched": true
-    },
-    {
-      "id": "ne488730d156b",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "DEE Development Engineers Maintains Strong ?2,428.79 Crore Order Book in July 2026",
-      "url": "https://smestreet.in/infocus/dee-development-engineers-maintains-strong-242879-crore-order-book-in-july-2026-12249461",
-      "source": "smestreet.in",
-      "date": "2026-09-05T16:56:11.228Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "DEE Development Engineers maintains order book of ₹2,428.79 crore as of July 2026.",
-      "sources_count": 3,
       "enriched": true
     },
     {
@@ -373,7 +528,8 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "PVR Inox announces its first-ever buyback, though analysts question long-term growth sustainability.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "nefa39fe0d59f",
@@ -1283,7 +1439,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "PVR Inox approved Rs 300 crore share buyback at Rs 1,450 per share.",
-      "sources_count": 6,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -1670,7 +1826,7 @@
       "mood": "positive",
       "takeaway": "Rajesh Power Services wins Rs 653 crore underground power distribution order in Gujarat.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "n17cc3ebb93f8",
@@ -3129,25 +3285,6 @@
       "enriched": true
     },
     {
-      "id": "n1f6b89f0a6fb",
-      "ticker": "JYOTICNC",
-      "company": "Jyoti CNC Automation Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Jyoti CNC Automation Ltd (JYOTICNC) Q1 FY27 Earnings Call: Order Book Crosses Rs.5,000 Cr, Rs.450 Cr Capex to Add 10,000 Machines | CompoundingAI",
-      "url": "https://cofacto.ai/market-news/jyoticnc-q1-fy27-earnings-call",
-      "source": "compoundingai.in",
-      "date": "2026-09-03T20:34:19.181Z",
-      "topic": "Growth",
-      "keyword": "Earnings",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Jyoti CNC order book crossed Rs 5,000 crore; planning Rs 450 crore capex to add 10,000 machines.",
-      "enriched": true
-    },
-    {
       "id": "n3e5c745a4c09",
       "ticker": "JYOTICNC",
       "company": "Jyoti CNC Automation Limited",
@@ -3167,22 +3304,22 @@
       "enriched": true
     },
     {
-      "id": "n5aedc9792018",
+      "id": "n1f6b89f0a6fb",
       "ticker": "JYOTICNC",
       "company": "Jyoti CNC Automation Limited",
       "sector": "Capital Goods",
       "scope": [
         "watchlist"
       ],
-      "title": "Jyoti CNC Automation secures MeitY approval for ₹1,020.65 crore capex",
-      "url": "https://scanx.trade/stock-market-news/companies/jyoti-cnc-automation-secures-meity-approval-1-020-65-crore-capex/48537736",
-      "source": "scanx.trade",
+      "title": "Jyoti CNC Automation Ltd (JYOTICNC) Q1 FY27 Earnings Call: Order Book Crosses Rs.5,000 Cr, Rs.450 Cr Capex to Add 10,000 Machines | CompoundingAI",
+      "url": "https://cofacto.ai/market-news/jyoticnc-q1-fy27-earnings-call",
+      "source": "compoundingai.in",
       "date": "2026-09-03T20:34:19.181Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
+      "topic": "Growth",
+      "keyword": "Earnings",
       "importance": "high",
       "mood": "positive",
-      "takeaway": "Jyoti CNC received government approval for ₹1,021 crore capital expansion plan.",
+      "takeaway": "Jyoti CNC order book crossed Rs 5,000 crore; planning Rs 450 crore capex to add 10,000 machines.",
       "enriched": true
     },
     {
@@ -3337,7 +3474,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Secured export order for lab-grown diamond jewellery.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -6005,6 +6142,26 @@
       "enriched": true
     },
     {
+      "id": "n7d4efb9ab13e",
+      "ticker": "MIDWESTLTD",
+      "company": "Midwest Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Midwest Limited (MIDWESTLTD) Q2 2026 Earnings: 3.1% Revenue Growth Yields EPS of ₹29.45 - Banking Earnings Report",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd0NZZzlrZFFibFdJSEE0bnRZd01DeUMxSWR6bk9Nc0xsUFF5djV3WFNWU0U0LXB2UzVoTnlVaGhnNUhkakcycmVsMDRfdURDRy1zNG51a2dQS0ozMUxPVDd4WVFkLWtrYTJhMHhwZEtpaG9hQTZxcmJtdGl2eEY0OUg5dTNaVXBrcVhqZ0g0NHpkRmFudm5YcWlWaGxTbHJmUnh5VUZfeW94NW9TQ2kzcjRpWm1uRUNaN1VZS3hkZGg?oc=5",
+      "source": "siam.in",
+      "date": "2026-08-11T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Midwest Limited reported Q2 2026 earnings with 3.1% revenue growth and earnings per share of ₹29.45.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
       "id": "n268b57e58b3f",
       "ticker": "SKYGOLD",
       "company": "SKY GOLD AND DIAMONDS LIMITED",
@@ -6679,6 +6836,27 @@
       "enriched": true
     },
     {
+      "id": "n5a919f7e38e6",
+      "ticker": "SHADOWFAX",
+      "company": "Shadowfax Technologies Limited",
+      "sector": "Services",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "SHADOWFAX Q4 FY2026 Earnings: Modest Profitability Achieved as Revenue Holds Steady - Management Guidance Update",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdjk0RnZDVUh1OVdGTHpPS0FMYzFmMEZsakVxZWRwcHhWTmJEUFFKRkNfcjBPeERiN2xJcVQtRzVNZ0tUVkowQVhfRnI3ZkdkWld4c2lMSXItOEluUi1MZ1BIMzQweXhZV1hiR1JaaVhJN0dzWGhwZzJWeXJmejk4OUEzZGFIUWlrNEk1SV81V21CNG91Z2Z1V05wN3VEaEhnUnFFejJLUDZ5dFZ0UXMtMmVyQ1VJdnk5dFIzWjNnSnl5cnlV?oc=5",
+      "source": "siam.in",
+      "date": "2026-07-28T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Shadowfax Technologies achieved modest profitability in Q4 FY2026 with steady revenue.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
       "id": "nd5671a64c862",
       "ticker": "PPEL",
       "company": "Poojaa Precision Engg. Ltd",
@@ -7027,25 +7205,6 @@
       "enriched": true
     },
     {
-      "id": "n9a1ef50b4dc6",
-      "ticker": "VBL",
-      "company": "Varun Beverages Limited",
-      "sector": "Fast Moving Consumer Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Varun Beverages Q1 2026 Earnings: Revenue Growth of 7.15% Amid Modest Stock Reaction - Revenue Estimate Trend",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWlUtQWllTm01TTNZa0F1N0tzMmNSR3AtQjduVXUyb21OT0hWQk11YnFOWTM5T0ExdXFmaXlTYlQyMjZxWW95dndyTUFBaE9BOFJwQzUwZVA5aGhMNklPaGo3LWkwb1RZMXE0TXVPWjh2c1N3QUliYzVkdV9FWGk2YTBjdi1kS2dWeGNURC1xc09odEdaYlM5b1dfUnNiS25xVVBTczNnaHRoMEdaVlBzUjhNazFKS0JFYUpSOFJhd2o?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-12T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Varun Beverages Q1 2026 revenue grows 7.15% with muted market response.",
-      "enriched": true
-    },
-    {
       "id": "nf74e489caebd",
       "ticker": "SHADOWFAX",
       "company": "Shadowfax Technologies Limited",
@@ -7063,6 +7222,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Shadowfax Technologies turned profitable in March 2026 quarter with revenue growth amid logistics expansion.",
+      "enriched": true
+    },
+    {
+      "id": "n9a1ef50b4dc6",
+      "ticker": "VBL",
+      "company": "Varun Beverages Limited",
+      "sector": "Fast Moving Consumer Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Varun Beverages Q1 2026 Earnings: Revenue Growth of 7.15% Amid Modest Stock Reaction - Revenue Estimate Trend",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWlUtQWllTm01TTNZa0F1N0tzMmNSR3AtQjduVXUyb21OT0hWQk11YnFOWTM5T0ExdXFmaXlTYlQyMjZxWW95dndyTUFBaE9BOFJwQzUwZVA5aGhMNklPaGo3LWkwb1RZMXE0TXVPWjh2c1N3QUliYzVkdV9FWGk2YTBjdi1kS2dWeGNURC1xc09odEdaYlM5b1dfUnNiS25xVVBTczNnaHRoMEdaVlBzUjhNazFKS0JFYUpSOFJhd2o?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-12T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Varun Beverages Q1 2026 revenue grows 7.15% with muted market response.",
       "enriched": true
     },
     {
@@ -7121,7 +7299,8 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Rubicon Research posted robust Q2 2026 results with 36.6% revenue growth and strong earnings per share.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n88fb1944c827",
@@ -7255,25 +7434,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Medi Assist Q2 revenue jumped 25.1% with earnings of ₹12.14 per share.",
-      "enriched": true
-    },
-    {
-      "id": "ne5b0c8a9a020",
-      "ticker": "ONESOURCE",
-      "company": "Onesource Specialty Pharma Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "ONESOURCE Mar 2026 Earnings: Solid EPS of ₹1.87 on Revenue of ₹419 Crore - Pre-Earnings Setup",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdVFrM2pfV21fTXdFalFNcVhzRXJkREFKSFYyTEIzSEZCcV85ajVVUU1iREFQazdCUVVIVGZfUUh5NHB3dngtSjlISUR2a09jRFZWTUhmZ2VxdTRWU1NxREVaSngyd25ic1daTlFwVzRkejFpR280MXNHWVRPeDdnOTBqVlpqWHRYSWIzazRwQjFPd0s1allvMFdMek1jYVNiaHBtMW40WTM4QXQ3ZU9v?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-09T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Onesource Specialty Pharma March quarter earnings at ₹1.87 per share on ₹419 crore revenue.",
       "enriched": true
     },
     {
@@ -7452,22 +7612,22 @@
       "enriched": true
     },
     {
-      "id": "n69686c4caa55",
-      "ticker": "SETL",
-      "company": "Standard Engineering Technology Limited",
+      "id": "n631ed37792f2",
+      "ticker": "JYOTICNC",
+      "company": "Jyoti CNC Automation Limited",
       "sector": "Capital Goods",
       "scope": [
         "watchlist"
       ],
-      "title": "Standard Engineering Technology Limited Mar 2026 Earnings: Modest Profit as Revenue Holds Steady",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPR096SDk5WEVlMEF1MHJKLVlldjU3V05DOXRwXzdYUlNQZjEzUGtXQUtjUnUxcjV1V2V5aXpwMEJzOUNhWXczUWxOUUhhaHBvcDZrQlcyV0ZnZ0dnSjc2cnBuSjRZQnVQelhoSVh4ZmFxa2htRHlOWWRRLThSdDIyMXFGeVVkaGZqY05XcmxsN3VVdEQ5RnJYV0o5amYteTVINGdDXzN3Z2xGTWx6ck5jTklSQzYwdkdiSi1tS1JYTlhpOUljbzEzelBnRTl1VEVqYVhz?oc=5",
+      "title": "JYOTICNC Q2 2026 Earnings: Strong Revenue Growth of 15.15% YoY Amid Operational Efficiency - Upward Estimate Revision",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ1pzWTFQQUsyTXJsejF2cUpUUURRb3BocmRLRDVjcHBjTVhPYnhGUkREdnNLajhJYTVEQ2RNTHNWTXVmQ1lwd1ZHVXVQS3JucEEzd0MwNE05THd6bGtyNXAtQkk3TUxiX2ZBZVFTd3dWVldrRE9nMldSQWo5WVlNd0p5VDlHQWE3S0dEX3NibWlhYmFIQmMyUnM0UVpabjNLRkEzdS01TFhDV0ZtMGl2SGFyamx1cVVJOTJ4aTVqcjN6TnVNZXlUdw?oc=5",
       "source": "vinanet.vn",
       "date": "2026-07-06T07:00:00.000Z",
       "topic": "Money",
       "keyword": "Earnings",
       "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Standard Engineering Technology reported modest March quarter profit with steady revenue.",
+      "mood": "positive",
+      "takeaway": "Jyoti CNC Q2 revenue grew 15.15% year-on-year with improved efficiency.",
       "enriched": true
     },
     {
@@ -7487,25 +7647,6 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "One Mobikwik Systems posts modest profit in March 2026 as revenue scales up.",
-      "enriched": true
-    },
-    {
-      "id": "n631ed37792f2",
-      "ticker": "JYOTICNC",
-      "company": "Jyoti CNC Automation Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "JYOTICNC Q2 2026 Earnings: Strong Revenue Growth of 15.15% YoY Amid Operational Efficiency - Upward Estimate Revision",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ1pzWTFQQUsyTXJsejF2cUpUUURRb3BocmRLRDVjcHBjTVhPYnhGUkREdnNLajhJYTVEQ2RNTHNWTXVmQ1lwd1ZHVXVQS3JucEEzd0MwNE05THd6bGtyNXAtQkk3TUxiX2ZBZVFTd3dWVldrRE9nMldSQWo5WVlNd0p5VDlHQWE3S0dEX3NibWlhYmFIQmMyUnM0UVpabjNLRkEzdS01TFhDV0ZtMGl2SGFyamx1cVVJOTJ4aTVqcjN6TnVNZXlUdw?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-06T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Jyoti CNC Q2 revenue grew 15.15% year-on-year with improved efficiency.",
       "enriched": true
     },
     {
@@ -7588,6 +7729,25 @@
       "enriched": true
     },
     {
+      "id": "n7f44ef59525f",
+      "ticker": "LENSKART",
+      "company": "Lenskart Solutions Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "LENSKART Q2 2026 Earnings: Robust Revenue Growth of 32.5% Drives EPS of ₹2.9 - Net Income Trends",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVk83VnZpaUdxTkQ5QU5BN0dDWHZpSGprdXdFbXNaekp4ZDYwOHJ4R3VGWTZjZjVKZnlodzliR2wxdHl1Zi01MTVpeFhxZGw5WkszazNreGxYOC0wVjFyLUtNaV8xTEdrejA4N0VISFpvQVBrM0MxTjcxZ2hDQkFKYVAtZVVWREdWZmc4TjNLa3p0VjdFM2lXb2xESHhlTUNFcmVlWlUtelIxbmRLS2R0aEJvaw?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-04T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Lenskart Q2 2026 revenue grows 32.5%, EPS at ₹2.9.",
+      "enriched": true
+    },
+    {
       "id": "n3b15a83cdfb7",
       "ticker": "MASFIN",
       "company": "MAS Financial Services Limited",
@@ -7626,25 +7786,6 @@
       "enriched": true
     },
     {
-      "id": "n7f44ef59525f",
-      "ticker": "LENSKART",
-      "company": "Lenskart Solutions Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "LENSKART Q2 2026 Earnings: Robust Revenue Growth of 32.5% Drives EPS of ₹2.9 - Net Income Trends",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVk83VnZpaUdxTkQ5QU5BN0dDWHZpSGprdXdFbXNaekp4ZDYwOHJ4R3VGWTZjZjVKZnlodzliR2wxdHl1Zi01MTVpeFhxZGw5WkszazNreGxYOC0wVjFyLUtNaV8xTEdrejA4N0VISFpvQVBrM0MxTjcxZ2hDQkFKYVAtZVVWREdWZmc4TjNLa3p0VjdFM2lXb2xESHhlTUNFcmVlWlUtelIxbmRLS2R0aEJvaw?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-04T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Lenskart Q2 2026 revenue grows 32.5%, EPS at ₹2.9.",
-      "enriched": true
-    },
-    {
       "id": "nbfd0d129d1cb",
       "ticker": "SKYGOLD",
       "company": "SKY GOLD AND DIAMONDS LIMITED",
@@ -7665,26 +7806,6 @@
       "enriched": true
     },
     {
-      "id": "neede26ce794e",
-      "ticker": "GULFOILLUB",
-      "company": "Gulf Oil Lubricants India Limited",
-      "sector": "Oil Gas & Consumable Fuels",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "GULFOILLUB Mar 2026 Earnings: Solid EPS Performance Amid Stable Revenue Trajectory - Surprise Factor Analysis",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcTlvUWdmMnlJMEl0YXpYb3QxUDNVbU82REw4b0s3bmN1aDNVTTE0Vy1WZnA0NlFUREwtMXN2ekVoOHhmT3VFSGdaZDFOakU3aTJHZml1WnhOdXUxTURULVB1LWZOdlUwTlhMRlB5QnM1TEtQYmNUQ1ZKU3FpME9FZjJzR19RNVVIaTJqTXcyT2JkcmdlaTd4VU12a2hTbVhNU2JEOUFmVDc1RGNKUFJVTWxMRl81NFNmODRhcnFSQzI?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-03T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Gulf Oil Lubricants posted solid earnings per share with stable revenue in Q4.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "n560b6dd11e0b",
       "ticker": "UNIMECH",
       "company": "Unimech Aerospace and Manufacturing Limited",
@@ -7701,25 +7822,6 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Unimech Aerospace Q2 revenue slightly down but profits remain stable.",
-      "enriched": true
-    },
-    {
-      "id": "nb113b686e2ab",
-      "ticker": "INDOFARM",
-      "company": "Indo Farm Equipment Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "INDOFARM Mar 2026 Earnings: Revenue of ₹128.58 Crore and EPS of ₹1.71 Mark a Mixed Quarter - Profit Announcement",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVkRoc05mOGxEcGQ1ZGVFdk4zUTBDd1FvYTRxOW91V2x3enBseDB5WFRMbmFpUXNxMXpKckZkNFczQllUX2xSbWFlMEJWeGwtWm1MNEJ3SzRTaS1DNTlJbDZoNE1pWlZRUEVGR1NQcldablgzWGtHbVQwQXhJWGdtMWdnckRjd1ZtSHZxRnprSEhJYXRNZmg0dDFWV3JyVks4ODdJZVhNOEJPRmZBYXhMMXFhWmJkMU1QTndJYTZfVC1Zb00yZXc?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-03T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Indo Farm reported Q4 revenue of ₹128.58 crore with earnings per share of ₹1.71.",
       "enriched": true
     },
     {
@@ -7798,27 +7900,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Lords Chloro Alkali Q2 revenue surges 44% on strong demand.",
-      "enriched": true
-    },
-    {
-      "id": "n16b7b022a603",
-      "ticker": "SUDEEPPHRM",
-      "company": "Sudeep Pharma Limited",
-      "sector": "Chemicals",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Sudeep Pharma Limited Q2 2025 Earnings: Revenue Growth of 9.4% YoY Drives Solid Performance - CEO Earnings Statement",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWG1WV1Z0QXZ0NWR2SWJfN1JqS1A0cFZqck43T09zRHJuYzlaMmlteTFrTHdzcHdteVZJU0pDaFE4cHg0bF9VNlUzSEFTbzZOUnhaQ25LMHRMZHpHTXVPVWVDR2F0S0dfa0pfQi1KV2hRZzBEa0J2S21HSDR1MEhtQS1Ed005VFpUNzR1Z1JHbGE5Y0tjdmFWaVBzeW9DZUV0bmxqaUU1eFljaGl3ekFyVy15Rm83TW8zUDlENFZlWERvZzBsbW5ud3hNbjQ?oc=5",
-      "source": "siam.in",
-      "date": "2026-07-02T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Sudeep Pharma's Q2 revenue grew 9.4% year-on-year, showing solid performance.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -8231,26 +8312,6 @@
       "enriched": true
     },
     {
-      "id": "nc5fad8ce2155",
-      "ticker": "MIDWESTLTD",
-      "company": "Midwest Limited",
-      "sector": "Consumer Durables",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Midwest Limited Q2 2026 Earnings: Revenue Grows 3.1% YoY, EPS at ₹29.45 - New Analyst Coverage",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLXRldUV3V3JqWEV0ZEZSYV81TTdOYTRsWlJXa241VEVfTnV1QTBYUGxwcWlaX0JtUURILWpXekdJZEpOT2htVzl1dUQ0cmctVnFwaHNSc3VxVXpySzY2b2xoYjJaMGsyTmRZYzdFRXZnT0tnQ3JJUE1wZEN3enZ5MkFDTGw3ZTJfdmVhX1hfSWppeUZhTmZIUXY1TzN0SDRydXBncjZaYXNYZw?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-22T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Midwest Q2 revenue up 3.1% year-on-year with earnings per share at ₹29.45.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "n3705a12b092f",
       "ticker": "LGEINDIA",
       "company": "LG Electronics India Limited",
@@ -8345,27 +8406,6 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Omnitech Engineering March quarter: ₹140 crore revenue with ₹2.11 earnings per share.",
-      "enriched": true
-    },
-    {
-      "id": "n374c433f1735",
-      "ticker": "STYLAMIND",
-      "company": "Stylam Industries Limited",
-      "sector": "Consumer Durables",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Stylam Industries Q2 2026 Earnings: Revenue Grows 10%, EPS Stands at ₹88.25 - Slow Growth Warning",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM19OLTZ3cnVEdzN4cEN6VVlKM004SGx4LWRGRmhIUG9mZVBFdU9vOWJzY2lEcEJ0cFY1RzIxMEFfZ2ZXODhJTWxidG1kdndiY1VWRFl5ZU9kcDg2VFM5dHBmd00tS2VKcG1yT09NZ3pGSlVmX2RoY01iX25HTmFPS3Jid2NYVjdCZDJpQ2MzazlIUjd3cnkxNS15dVlEd0tEdWRBbG4yZkJfcHdQalpiUw?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-20T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Stylam Industries Q2 revenue grew 10% with earnings per share at ₹88.25.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -8521,26 +8561,6 @@
       "enriched": true
     },
     {
-      "id": "nccc1938d067e",
-      "ticker": "SCODATUBES",
-      "company": "Scoda Tubes Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Scoda Tubes Mar 2026 Earnings: Reports EPS of ₹1.05 on Revenue of ₹123.57 Crore - Guidance Downgrade Alert",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQck80WjRjQU92Zll4dTJlaTJ2YUthWldETVRqdlU5bDNiSnItM3RldDVIakN5d1FiUEh1SkZXcmR4U2RIQkRLNHNUQjhfVllTbmc4Z1VqQXVpTmZ4YjAtZ0J5RW43NTR0UGRlSVJuaVRFak5CMjU1aWpXRFN6QmR3cm5GVkpSRGtkcWJNVl9GR0xSdXB6SjM5YXlpUnhpQldHeThzLUM2bDNuUmJNeHBuOVZ4QXVvNmM?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-16T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Downgrade",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Scoda Tubes March quarter: ₹123.57 crore revenue with ₹1.05 earnings per share.",
-      "enriched": true,
-      "sources_count": 2
-    },
-    {
       "id": "n05c45288a063",
       "ticker": "MANINDS",
       "company": "Man Industries (India) Limited",
@@ -8615,7 +8635,8 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Epigral reported March 2026 revenue of ₹736 crore with earnings per share of ₹18.99.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n040d2ac4601b",
@@ -8692,26 +8713,6 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Unimech Aerospace Q2 earnings per share at ₹12.42 with flat revenue performance.",
-      "enriched": true
-    },
-    {
-      "id": "n3274e49cd65a",
-      "ticker": "SHADOWFAX",
-      "company": "Shadowfax Technologies Limited",
-      "sector": "Services",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "SHADOWFAX.NS Q4 FY26 Earnings: Modest Profitability Amid Revenue Growth - Earnings Call Q&A",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV1cxZm91TFBCS1lZRGVNQjltcnFRTnJsME16d3hFRDBxWkduRUFOMWY5QklGdlN1QzJWZ19PLVUteldtNkY4enFHTU1RMnkwenVvQkNfNUZLdGR4WFU2TVBYTkwxVDRRYkg5VGI5QWxWNEpmNnRrMWpGbFlpcnRDeDFldXFXcDhTaldFNVdlWDZNQy0wc0pHQnlvdjhGbVU5Y3pDZzczM1h2eW1OMGN3aA?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-13T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Shadowfax Technologies Q4 showed modest profitability alongside revenue growth.",
       "enriched": true
     },
     {
