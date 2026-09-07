@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T17:25:50.507Z",
+  "generated_at": "2026-09-07T07:37:24.137Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,86 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f5c4ed95fd7b7",
+      "ticker": "MONOLITH",
+      "company": "Monolithisch India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T12:54:02.000Z",
+      "category": "Newspaper Publication",
+      "title": "Monolithisch India Limited has informed the Exchange about Copy of Newspaper Publication",
+      "url": "https://nsearchives.nseindia.com/corporate/MONOLITHISCH_07092026125350_Monolith_Newspaper_ADV_07092026.pdf"
+    },
+    {
+      "id": "f3dffc613f791",
+      "ticker": "STLTECH",
+      "company": "Sterlite Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T12:36:25.000Z",
+      "category": "Investor Presentation",
+      "title": "Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, please find enclosed transcript of Analyst/ Investor Meet held on September 3, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/STLTECH_07092026123615_SEintimation_Transcript_Signed.pdf"
+    },
+    {
+      "id": "f52247e3ce798",
+      "ticker": "SCODATUBES",
+      "company": "Scoda Tubes Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T12:35:48.000Z",
+      "category": "Newspaper Publication",
+      "title": "Scoda Tubes Limited has informed the Exchange about Copy of Newspaper Publication with respect to completion of dispatch of Notice of 18th Annual General Meeting sent through email to the shareholders of the Company.",
+      "url": "https://nsearchives.nseindia.com/corporate/SCODA_07092026123541_Covering.pdf"
+    },
+    {
+      "id": "f42ca16f767f2",
+      "ticker": "CMLL",
+      "company": "Caliber Mining and Logistics Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T12:12:35.000Z",
+      "category": "Newspaper Publication",
+      "title": "Caliber Mining and Logistics Limited has informed the Exchange about Copy of Newspaper Publication about dispatch of Annual Report for FY 25-26 and AGM Notice",
+      "url": "https://nsearchives.nseindia.com/corporate/CMLL_07092026121152_Intimation_Post_Dispatch_AGM_Notice.pdf"
+    },
+    {
+      "id": "f36486b3b8fc4",
+      "ticker": "BALUFORGE",
+      "company": "Balu Forge Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T11:13:46.000Z",
+      "category": "Dividend",
+      "title": "Balu Forge Industries Limited has informed the Exchange that Board of Directors at its meeting held on September 07, 2026, recommended Final Dividend of Rs. 0.15 per equity share.",
+      "url": "https://nsearchives.nseindia.com/corporate/BALUFORGE_07092026111332_Outcome.pdf"
+    },
+    {
+      "id": "f2e12022e8c2a",
+      "ticker": "MIDWESTLTD",
+      "company": "Midwest Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T00:43:00.000Z",
+      "category": "Shareholders meeting",
+      "title": "Midwest Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 28, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/MIDWEST_07092026004110_Cover_Page.pdf"
+    },
+    {
+      "id": "fd001459414ff",
+      "ticker": "JUBLCPL",
+      "company": "Jubilant Agri and Consumer Products Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T00:11:15.000Z",
+      "category": "Disclosure",
+      "title": "JUBLCPL: Jubilant Agri and Consumer Products Limited has submitted to the Exchange a copy of the Scrutinizer's Report and has informed the Exchange regarding the voting results of the Hon'ble NCLT-convened Meeting of Unsecured Creditors held on September 05, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/JACPL_07092026001101_IntimationVotingResultsUSCSigned.pdf"
+    },
+    {
+      "id": "ff0a406116b0c",
+      "ticker": "JUBLCPL",
+      "company": "Jubilant Agri and Consumer Products Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T00:04:16.000Z",
+      "category": "Shareholders meeting",
+      "title": "JUBLCPL: Jubilant Agri and Consumer Products Limited has submitted to the Exchange a copy of the Scrutinizer's Report and has informed the Exchange regarding the voting results of the Hon'ble NCLT-convened Meeting of Equity Shareholders held on September 05, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/JACPL_07092026000403_IntimationVotingResultsESHSigned.pdf"
+    },
     {
       "id": "f087460dfb411",
       "ticker": "JUBLCPL",
@@ -19926,86 +20006,6 @@
       "category": "Disclosure",
       "title": "Dhruv M Sawhney, Tarun Sawhney, Nikhil Sawhney, Tarana Sawhney, STFL Trading and Finance Private Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
       "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_08062026185557_TRIVENI.pdf"
-    },
-    {
-      "id": "f46da21b72ccd",
-      "ticker": "CARTRADE",
-      "company": "Cartrade Tech Limited",
-      "exchange": "NSE",
-      "date": "2026-06-15T09:19:37.000Z",
-      "category": "Press Release",
-      "title": "Cartrade Tech Limited has informed the Exchange regarding a press release dated Jun 15, 2026, titled \"CarTrade Tech Launches CarTrade Used Auto\".",
-      "url": "https://nsearchives.nseindia.com/corporate/CARTRADE_15062026091923_Press_Release.pdf"
-    },
-    {
-      "id": "f067853f9f2dc",
-      "ticker": "CANFINHOME",
-      "company": "Can Fin Homes Limited",
-      "exchange": "NSE",
-      "date": "2026-06-13T15:57:07.000Z",
-      "category": "Newspaper Publication",
-      "title": "Can Fin Homes Limited has informed the Exchange about Copy of Newspaper Publication",
-      "url": "https://nsearchives.nseindia.com/corporate/CANFINHOME_13062026155646_98_Newspaper_Advertisement_13062026.pdf"
-    },
-    {
-      "id": "f50567bb4d64f",
-      "ticker": "SAREGAMA",
-      "company": "Saregama India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-13T10:28:59.000Z",
-      "category": "Financial Results",
-      "title": "The Exchange had sought clarification from Saregama India Limited for the quarter ended 31-Mar-2026 with respect to Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015. On basis of above the Company was required to clarify the following: -1. Financial results submitted in XBRL with discrepancies. The response of the Company is enclosed.",
-      "url": "https://nsearchives.nseindia.com/corporate/SAREGAMA_25052026182908_NSE_Reply_final.pdf"
-    },
-    {
-      "id": "f7e5d2a859985",
-      "ticker": "E2E",
-      "company": "E2E Networks Limited",
-      "exchange": "NSE",
-      "date": "2026-06-12T21:56:29.000Z",
-      "category": "Change in Directors",
-      "title": "E2E Networks Limited has informed the Exchange about Resignation of Director/KMP/SMP",
-      "url": "https://nsearchives.nseindia.com/corporate/E2E_ROID_89888_KMP_Doc.zip"
-    },
-    {
-      "id": "f3b2806f464fd",
-      "ticker": "MOLDTKPAC",
-      "company": "Mold-Tek Packaging Limited",
-      "exchange": "NSE",
-      "date": "2026-06-12T20:05:29.000Z",
-      "category": "Disclosure",
-      "title": "Mold-Tek Packaging Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_12062026122533_44.pdf"
-    },
-    {
-      "id": "fa93d632ce405",
-      "ticker": "UNIMECH",
-      "company": "Unimech Aerospace and Manufacturing Limited",
-      "exchange": "NSE",
-      "date": "2026-06-12T19:41:12.000Z",
-      "category": "Disclosure",
-      "title": "Ramakrishna Kamojhala has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_04052026161401_UNIMECH.pdf"
-    },
-    {
-      "id": "f1d5095f1150d",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "exchange": "NSE",
-      "date": "2026-06-12T19:16:52.000Z",
-      "category": "Disclosure",
-      "title": "Krishan Lalit Bansal has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_11062026115037_48.pdf"
-    },
-    {
-      "id": "ff49c59e92ba2",
-      "ticker": "KPITTECH",
-      "company": "KPIT Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-06-12T19:09:47.000Z",
-      "category": "Investor Presentation",
-      "title": "KPIT Technologies Limited has informed the Exchange about Outcome of investor / analyst conference - Investec Confluence held on Friday, June 12, 2026, at Chennai.",
-      "url": "https://nsearchives.nseindia.com/corporate/KPITTECH_12062026190917_KPIT_Invested_confluence_outcome.pdf"
     }
   ]
 }
