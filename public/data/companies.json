@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T17:44:57.773Z",
+  "generated_at": "2026-09-07T18:49:59.308Z",
   "portfolio": [
     {
       "company": "Monolithisch India Limited",
@@ -12,14 +12,14 @@
       "sector": "Healthcare"
     },
     {
-      "company": "Menon Bearings Limited",
-      "ticker": "MENONBE",
-      "sector": "Automobile and Auto Components"
-    },
-    {
       "company": "Vivid Electromech Limited",
       "ticker": "VIVIDEL",
       "sector": "Capital Goods"
+    },
+    {
+      "company": "Menon Bearings Limited",
+      "ticker": "MENONBE",
+      "sector": "Automobile and Auto Components"
     },
     {
       "company": "Sterlite Technologies Limited",
@@ -27,14 +27,14 @@
       "sector": "Telecommunication"
     },
     {
-      "company": "Shadowfax Technologies Limited",
-      "ticker": "SHADOWFAX",
-      "sector": "Services"
-    },
-    {
       "company": "Xpro India Limited",
       "ticker": "XPROINDIA",
       "sector": "Capital Goods"
+    },
+    {
+      "company": "Shadowfax Technologies Limited",
+      "ticker": "SHADOWFAX",
+      "sector": "Services"
     },
     {
       "company": "KSH International Limited",
@@ -42,24 +42,24 @@
       "sector": "Capital Goods"
     },
     {
-      "company": "Stylam Industries Limited",
-      "ticker": "STYLAMIND",
-      "sector": "Consumer Durables"
-    },
-    {
       "company": "Acutaas Chemicals Limited",
       "ticker": "ACUTAAS",
       "sector": "Healthcare"
     },
     {
-      "company": "Apsis Aerocom Limited",
-      "ticker": "APSISAERO",
-      "sector": "Capital Goods"
+      "company": "Stylam Industries Limited",
+      "ticker": "STYLAMIND",
+      "sector": "Consumer Durables"
     },
     {
       "company": "Cartrade Tech Limited",
       "ticker": "CARTRADE",
       "sector": "Consumer Services"
+    },
+    {
+      "company": "Apsis Aerocom Limited",
+      "ticker": "APSISAERO",
+      "sector": "Capital Goods"
     },
     {
       "company": "Epigral Limited",
