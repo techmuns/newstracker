@@ -1,13 +1,227 @@
 {
-  "generated_at": "2026-09-06T17:26:36.721Z",
-  "source": "google-news+munshot+valuepickr+claude",
+  "generated_at": "2026-09-07T07:41:39.818Z",
+  "source": "munshot+valuepickr+claude",
   "counts": {
     "portfolio": 80,
-    "watchlist": 460,
+    "watchlist": 463,
     "universe": 21,
-    "total": 481
+    "total": 484
   },
   "items": [
+    {
+      "id": "nf758fde71419",
+      "ticker": "MSECL",
+      "company": "Monarch Surveyors and Engineering Consultants Ltd",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Monarch Surveyors bags order worth Rs 5 crore | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-bags-order-worth-rs-5-crore-126062500927_1.html",
+      "source": "business-standard.com",
+      "date": "2026-09-07T07:38:35.193Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Monarch Surveyors wins Rs 5 crore order.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "n1b0e0391ff2f",
+      "ticker": "JDCABLES",
+      "company": "JD Cables Ltd",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "JD Cables Stock: Can Its ₹515 Cr Order Book and Entry Into EPC Projects Power Its Next Growth Phase?",
+      "url": "https://tradebrains.in/jd-cables-stock-can-its-515-cr-order-book-and-entry-into-epc-projects-power-its-next-growth-phase/",
+      "source": "tradebrains.in",
+      "date": "2026-09-07T07:38:13.033Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "JD Cables has Rs 515 crore order book and enters EPC projects.",
+      "enriched": true
+    },
+    {
+      "id": "n2f7e38e95589",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries India Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "₹3,400 Cr Order Book, ₹1,050 Cr Capex & 10 GW BESS Vision: What's Behind This Solar Stock's Expansion Strategy?",
+      "url": "https://tradebrains.in/indian-markets/3400-cr-order-book-1050-cr-capex-10-gw-bess-vision-whats-behind-this-solar-stocks-expansion-strategy-12491924",
+      "source": "tradebrains.in",
+      "date": "2026-09-07T07:36:47.620Z",
+      "topic": "Growth",
+      "keyword": "Capex",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Solar Industries plans ₹1,050 crore capex with ₹3,400 crore order book and 10 GW battery storage vision.",
+      "enriched": true
+    },
+    {
+      "id": "nae62931a08f0",
+      "ticker": "PVRINOX",
+      "company": "PVR INOX Limited",
+      "sector": "Media Entertainment & Publication",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "PVR Inox shares flop: Media report on alleged kickbacks drowns stock despite share buyback - The Week",
+      "url": "https://www.theweek.in/news/biz-tech/2026/09/07/pvr-inox-corporate-governance-probe.html",
+      "source": "theweek.in",
+      "date": "2026-09-07T07:35:57.891Z",
+      "topic": "Trouble",
+      "keyword": "Buyback",
+      "importance": "high",
+      "mood": "negative",
+      "takeaway": "PVR Inox faces alleged kickback investigation despite announcing share buyback.",
+      "enriched": true
+    },
+    {
+      "id": "nd26223b0ea19",
+      "ticker": "PVRINOX",
+      "company": "PVR INOX Limited",
+      "sector": "Media Entertainment & Publication",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "PVR Inox shares crash 8% after alleged Rs 200 crore kickback investigation; senior exec's exit comes to light - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pvr-inox-shares-crash-8-after-alleged-rs-200-crore-kickback-investigation-senior-execs-exit-comes-to-light/articleshow/133864218.cms",
+      "source": "economictimes.indiatimes.com",
+      "date": "2026-09-07T07:35:57.891Z",
+      "topic": "Trouble",
+      "keyword": "Investigation",
+      "importance": "high",
+      "mood": "negative",
+      "takeaway": "PVR Inox under investigation for alleged ₹200 crore kickbacks; senior executive exits.",
+      "enriched": true
+    },
+    {
+      "id": "n64cb2a89b421",
+      "ticker": "PVRINOX",
+      "company": "PVR INOX Limited",
+      "sector": "Media Entertainment & Publication",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "PVR INOX executive shown door in April after probe into alleged developer kickbacks - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/industry/media/entertainment/pvr-inox-executive-shown-door-in-april-after-probe-into-alleged-developer-kickbacks/articleshow/133776702.cms",
+      "source": "economictimes.indiatimes.com",
+      "date": "2026-09-07T07:35:57.891Z",
+      "topic": "Trouble",
+      "keyword": "Investigation",
+      "importance": "medium",
+      "mood": "negative",
+      "takeaway": "PVR Inox executive removed in April following probe into alleged developer kickbacks.",
+      "enriched": true
+    },
+    {
+      "id": "nee7cb41b88f9",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho Shares Climb Over 3% As Market Digests SoftBank’s ₹1,650-Crore Stake Sale, Investor Sentiment Holds Firm",
+      "url": "https://www.freepressjournal.in/business/meesho-shares-climb-over-3-as-market-digests-softbanks-1650-crore-stake-sale-investor-sentiment-holds-firm",
+      "source": "freepressjournal.in",
+      "date": "2026-09-07T07:35:20.579Z",
+      "topic": "Deals",
+      "keyword": "Stake sale",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "SoftBank sold stake worth Rs 1,650 crore in Meesho.",
+      "enriched": true
+    },
+    {
+      "id": "nddaa524773ad",
+      "ticker": "LAXMIDENTL",
+      "company": "Laxmi Dental Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Laxmi Dental Ltd (NSE:LAXMIDENTL) (Q1 2027) Earnings Call Highlights: Record Revenue and ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/laxmi-dental-ltd-nse-laxmidentl-150024610.html",
+      "source": "finance.yahoo.com",
+      "date": "2026-09-07T07:34:51.613Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Laxmi Dental reported record revenue in Q1 FY27.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n9d7a35e85990",
+      "ticker": "GMMPFAUDLR",
+      "company": "GMM Pfaudler Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "GMM Pfaudler Ltd (BOM:505255) (Q1 2027) Earnings Call Highlights: Record Backlog and Strong ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gmm-pfaudler-ltd-bom-505255-010514671.html",
+      "source": "finance.yahoo.com",
+      "date": "2026-09-07T07:34:06.349Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "GMM Pfaudler reports record order backlog and strong quarterly performance.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "nfe58b5293414",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "DEE Development Engineers Maintains ₹2,428.79 Crore Order Book | Machine Maker - Latest Manufacturing News | Indian Manufacturing News - Latest Manufacturing News | Indian Manufacturing News - Machine Maker",
+      "url": "https://themachinemaker.com/news/dee-development-engineers-maintains-%E2%82%B92428-79-crore-order-book/",
+      "source": "themachinemaker.com",
+      "date": "2026-09-07T07:33:24.651Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "DEE Development Engineers maintains order book of ₹2,428.79 crore.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n454cddfcad6b",
+      "ticker": "AVANTEL",
+      "company": "Avantel Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Avantel Secures ₹83.80 Crore Purchase Order from Zetwerk Manufacturing Businesses Limited for Supply of Satellite Communication Equipment - Technuter",
+      "url": "https://technuter.com/telecom/avantel-secures-%E2%82%B983-80-crore-purchase-order-from-zetwerk-manufacturing-businesses-limited-for-supply-of-satellite-communication-equipment.html",
+      "source": "technuter.com",
+      "date": "2026-09-07T07:32:41.626Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Avantel wins ₹83.80 crore order from Zetwerk for satellite communication equipment.",
+      "sources_count": 2,
+      "enriched": true
+    },
     {
       "id": "n1c5608cd6eaa",
       "ticker": "RAJESH",
@@ -44,26 +258,6 @@
       "importance": "low",
       "mood": "positive",
       "takeaway": "Monarch Surveyors secures Rs 5.08 crore order from Jaipur Development Authority.",
-      "enriched": true
-    },
-    {
-      "id": "n8f03f4fa38ae",
-      "ticker": "MSECL",
-      "company": "Monarch Surveyors and Engineering Consultants Ltd",
-      "sector": "Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Monarch Surveyors and Engineering gains on bagging Rs 2-cr work order | Capital Market News - Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/monarch-surveyors-and-engineering-gains-on-bagging-rs-2-cr-work-order-126082400282_1.html",
-      "source": "business-standard.com",
-      "date": "2026-09-06T17:24:07.872Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Monarch Surveyors bags Rs 2 crore work order.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -121,85 +315,6 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Y Combinator sold 4.85 crore Meesho shares worth ₹970 crore in block deals.",
-      "enriched": true
-    },
-    {
-      "id": "n93b708a251dd",
-      "ticker": "LAXMIDENTL",
-      "company": "Laxmi Dental Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Q1 2027 Laxmi Dental Ltd Earnings Call Transcript",
-      "url": "https://www.gurufocus.com/news/9027891/q1-2027-laxmi-dental-ltd-earnings-call-transcript",
-      "source": "gurufocus.com",
-      "date": "2026-09-06T17:21:26.341Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Laxmi Dental held its Q1 2027 earnings call.",
-      "sources_count": 4,
-      "enriched": true
-    },
-    {
-      "id": "n848fe83ea99e",
-      "ticker": "GMMPFAUDLR",
-      "company": "GMM Pfaudler Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "GMM Pfaudler Ltd (BOM:505255) (Q1 2027) Earnings Call Highlights: Record Backlog and Strong ... By GuruFocus",
-      "url": "https://ca.investing.com/news/company-news/gmm-pfaudler-ltd-bom505255-q1-2027-earnings-call-highlights-record-backlog-and-strong--4796962",
-      "source": "ca.investing.com",
-      "date": "2026-09-06T17:21:04.932Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "GMM Pfaudler reported Q1 2027 earnings with record backlog indicating strong future order pipeline.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "ne488730d156b",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "DEE Development Engineers Maintains Strong ?2,428.79 Crore Order Book in July 2026",
-      "url": "https://smestreet.in/infocus/dee-development-engineers-maintains-strong-242879-crore-order-book-in-july-2026-12249461",
-      "source": "smestreet.in",
-      "date": "2026-09-06T17:20:21.345Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "DEE Development Engineers holds a strong order book of ₹2,428.79 crore as of July 2026.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "nae30ae4df9c1",
-      "ticker": "MSECL",
-      "company": "Monarch Surveyors and Engineering Consultants Ltd",
-      "sector": "Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Monarch Surveyors bags Rs 4-cr government contract in Maharashtra | Capital Market News - Business Standard",
-      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-bags-rs-4-cr-government-contract-in-maharashtra-126071500937_1.html",
-      "source": "business-standard.com",
-      "date": "2026-09-06T07:21:42.665Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Monarch Surveyors secured a Rs 4 crore government contract in Maharashtra.",
       "enriched": true
     },
     {
@@ -2306,7 +2421,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Zen Technologies secured ₹295 crore order from Defence Ministry for simulators.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -2785,25 +2900,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Standard Engineering Technology acquired 33.55% stake in GScale Energy.",
-      "enriched": true
-    },
-    {
-      "id": "nbf8d0a73d5f0",
-      "ticker": "SETL",
-      "company": "Standard Engineering Technology Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Standard Engineering Technology Acquires Majority Stake in Gscale Energy",
-      "url": "https://aninews.in/news/business/standard-engineering-technology-acquires-majority-stake-in-gscale-energy20260626103356/",
-      "source": "aninews.in",
-      "date": "2026-09-03T20:34:32.504Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Standard Engineering Technology acquired majority stake in Gscale Energy.",
       "enriched": true
     },
     {
@@ -4297,7 +4393,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Aurionpro won ₹100 crore order to build AI data centre infrastructure.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -4838,7 +4934,7 @@
       "mood": "positive",
       "takeaway": "Sterlite Technologies approved ₹3,000 crore capex to expand manufacturing capacity.",
       "enriched": true,
-      "sources_count": 4
+      "sources_count": 2
     },
     {
       "id": "nee4e811c2470",
@@ -7555,25 +7651,6 @@
       "enriched": true
     },
     {
-      "id": "n32495edc11e4",
-      "ticker": "SBCL",
-      "company": "Shivalik Bimetal Controls Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "SBCL.NS Mar 2026 Earnings: Modest Revenue Performance and EPS Delivery Amid Steady Demand - Profit Warning Alert",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZlVlUGtFWGs2TFpjTjRTLUhwZGpRZzRYSzZxdkY3YUk4dk5xWV96dllDWFJZRDd6bWNyOWFvemh6RlQ5Q1NpSk5mT3BBWU9JbHZWZ0ZPSEJhc1BuVnUwcnNSVU1aYzhEWFZHamloQXRjdjNHWmd3Qnd4bGNzZG1WbzRURUNxVlZ0ZmlieWZ6X2lHS0FYZnFrc29nekZxNnlhdkllNzl4Y2pFMTFPQ0NYNHNNLTY3Vjk4ZkRQOVYwM1VRa3JvTlo3NA?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-10T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Shivalik Bimetal Q4 showed modest revenue performance with steady earnings delivery.",
-      "enriched": true
-    },
-    {
       "id": "ne5194cd64220",
       "ticker": "SAPPHIRE",
       "company": "Sapphire Foods India Limited",
@@ -8214,26 +8291,6 @@
       "enriched": true
     },
     {
-      "id": "ndcb28398f24a",
-      "ticker": "AVANTEL",
-      "company": "Avantel Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Avantel secures ₹83.80 crore order from Zetwerk for satcom",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnVrY2NwSnJmZ1Z1Umhpc1EzTk9nczZ6SnFSRk1mSUYtY3ZMTlpEa0JvVGNDQU1FUzVkRllTVWJvdXFYdERLSzhicTZ0b1lNWFF1NndNME16OVA5djJsY2NPTWE2SEpxN0Q4LUVMUHR5OVF4VnpFQ0c0SUFBNm5KeHFKYjh4Y2ptcnVjWGlYaUZIS2JaSU45Q2Nyc1hWUlU?oc=5",
-      "source": "Bisinfotech",
-      "date": "2026-07-01T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Avantel won an 84 crore order from Zetwerk for satellite communication equipment.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "n4b1427d64dd8",
       "ticker": "EPIGRAL",
       "company": "Epigral Limited",
@@ -8544,7 +8601,8 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "SETL acquires GScale Energy for Rs 500 crore to enter AI datacenter sector.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 3
     },
     {
       "id": "n93599c9ce34d",
