@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T07:37:24.137Z",
+  "generated_at": "2026-09-07T18:56:59.229Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,336 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "fd1f217878c05",
+      "ticker": "SHIPROCKET",
+      "company": "Shiprocket Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T21:39:14.000Z",
+      "category": "Shareholders meeting",
+      "title": "Shiprocket Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/SHIPROCKET2011_07092026213343_SE_INTIMATION_AGM.pdf"
+    },
+    {
+      "id": "fc6042301966b",
+      "ticker": "PVRINOX",
+      "company": "PVR INOX Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T21:03:29.000Z",
+      "category": "Buyback",
+      "title": "PVR INOX Limited has submitted to Stock Exchange the Letter of offer for Buy-back of equity shares.",
+      "url": "https://nsearchives.nseindia.com/corporate/PVRINOXLTD_07092026210319_PVRINOXLOF07092026.pdf"
+    },
+    {
+      "id": "f47615f0564a2",
+      "ticker": "HARIOMPIPE",
+      "company": "Hariom Pipe Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T20:44:46.000Z",
+      "category": "Disclosure",
+      "title": "Hariom Pipe Industries Limited has informed the Exchange about General Updates on Intimation Under Regulation 36(1)(b) of SEBI (LODR) Regulations 2015 regarding a dispatch of web link letter to shareholders.",
+      "url": "https://nsearchives.nseindia.com/corporate/hariompipes_07092026194749_Weblink_Letter.pdf"
+    },
+    {
+      "id": "f6fe05eb5f91b",
+      "ticker": "FLYSBS",
+      "company": "FlySBS Aviation Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T20:42:22.000Z",
+      "category": "Shareholders meeting",
+      "title": "FlySBS Aviation Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 29, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/FLYSBS_07092026204204_FlySBS_Notice.pdf"
+    },
+    {
+      "id": "fd1870cddf0f4",
+      "ticker": "HARIOMPIPE",
+      "company": "Hariom Pipe Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T20:24:29.000Z",
+      "category": "Record Date",
+      "title": "Hariom Pipe Industries Limited has informed the Exchange that Record date for the purpose of Dividend is 23-Sep-2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/hariompipes_07092026194002_Intimation_Record_Date.pdf"
+    },
+    {
+      "id": "f2d1301a73203",
+      "ticker": "HARIOMPIPE",
+      "company": "Hariom Pipe Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T20:13:06.000Z",
+      "category": "Shareholders meeting",
+      "title": "Hariom Pipe Industries Limited has informed the Exchange regarding Notice of the 19th Annual General Meeting to be held on September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/hariompipes_07092026194407_SE_Notice_of_19th_AGM_30092026.pdf"
+    },
+    {
+      "id": "f03fabcf2abc3",
+      "ticker": "HARIOMPIPE",
+      "company": "Hariom Pipe Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T20:03:26.000Z",
+      "category": "Disclosure",
+      "title": "Hariom Pipe Industries Limited has informed the Exchange about the Intimation of the 19th Annual General Meeting and Record Date and Cut-off date for remote e-voting and e-voting during the AGM.",
+      "url": "https://nsearchives.nseindia.com/corporate/hariompipes_07092026194225_Intimation_AGM_RecordDate__CutOffDate.pdf"
+    },
+    {
+      "id": "f469a8e453586",
+      "ticker": "UNIMECH",
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T19:15:18.000Z",
+      "category": "Disclosure",
+      "title": "Further investment in Dheya Engineering Technologies Private Limited pursuant to the Share Purchase Agreement (SPA) dated August 07, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/UNIMECH_07092026191332_7926_Reg_30_Dheya_Investment.pdf"
+    },
+    {
+      "id": "f339ca1758491",
+      "ticker": "BALUFORGE",
+      "company": "Balu Forge Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T18:34:09.000Z",
+      "category": "Disclosure",
+      "title": "Balu Forge Industries Limited has informed the Exchange regarding 'dispatch of Web-Link letters to shareholders who have not registered their email ID pursuant to Regulation 36(1)(b) of SEBI (LODR) Regulations, 2015'.'.",
+      "url": "https://nsearchives.nseindia.com/corporate/BALUFORGE_07092026183401_Intimation.pdf"
+    },
+    {
+      "id": "f44a7d2bb56e2",
+      "ticker": "SHIPROCKET",
+      "company": "Shiprocket Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T18:08:33.000Z",
+      "category": "Change in Auditors",
+      "title": "Shiprocket Limited has informed the Exchange regarding Change in Auditors of the company.",
+      "url": "https://nsearchives.nseindia.com/corporate/SHIPROCKET2011_07092026180819_Board_Meeting_Outcome.pdf"
+    },
+    {
+      "id": "f58bb86085184",
+      "ticker": "GULFOILLUB",
+      "company": "Gulf Oil Lubricants India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T18:04:34.000Z",
+      "category": "Change in Directors",
+      "title": "Gulf Oil Lubricants India Limited has informed the Exchange about Resignation of Director/KMP/SMP",
+      "url": "https://nsearchives.nseindia.com/corporate/GULFOILLUB_ROID_98071_KMP_Doc.zip"
+    },
+    {
+      "id": "f08673293c04a",
+      "ticker": "SHIPROCKET",
+      "company": "Shiprocket Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T17:49:59.000Z",
+      "category": "Press Release",
+      "title": "Shiprocket Limited has informed the Exchange regarding a press release dated September 07, 2026, titled \"Press Release\".",
+      "url": "https://nsearchives.nseindia.com/corporate/SHIPROCKET2011_07092026174623_SR_Press_Release.pdf"
+    },
+    {
+      "id": "fa639c009c34a",
+      "ticker": "SHIPROCKET",
+      "company": "Shiprocket Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T17:38:02.000Z",
+      "category": "Board Meeting",
+      "title": "Shiprocket Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/SHIPROCKET2011_07092026173610_Board_Meeting_Outcome.pdf"
+    },
+    {
+      "id": "f35956a1ca1b4",
+      "ticker": "VENUSREM",
+      "company": "Venus Remedies Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T17:33:16.000Z",
+      "category": "Disclosure",
+      "title": "Venus Remedies Limited has informed the Exchange regarding Social Media Post on awareness on transfer of physical shares ''.",
+      "url": "https://nsearchives.nseindia.com/corporate/VENUSREM_07092026173228_Social_media_Sep2026.pdf"
+    },
+    {
+      "id": "fa4d36f82a39d",
+      "ticker": "KKJEWELS",
+      "company": "Kabra Jewels Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T17:31:27.000Z",
+      "category": "Change in Auditors",
+      "title": "Kabra Jewels Limited has informed the Exchange regarding Change in Auditors of the company.",
+      "url": "https://nsearchives.nseindia.com/corporate/KABRAJEWELS_07092026173118_Intimation07092026Final.pdf"
+    },
+    {
+      "id": "fdb2739987e9f",
+      "ticker": "BALUFORGE",
+      "company": "Balu Forge Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T17:29:46.000Z",
+      "category": "Shareholders meeting",
+      "title": "Balu Forge Industries Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/BALUFORGE_07092026172938_IntimationNotice.pdf"
+    },
+    {
+      "id": "f3f0c3518f94f",
+      "ticker": "KKJEWELS",
+      "company": "Kabra Jewels Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T17:16:54.000Z",
+      "category": "Shareholders meeting",
+      "title": "Kabra Jewels Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 29, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/KABRAJEWELS_07092026171549_ASLIntimation07092026.pdf"
+    },
+    {
+      "id": "fd976f65f1286",
+      "ticker": "TRIVENI",
+      "company": "Triveni Engineering & Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T17:00:39.000Z",
+      "category": "Shareholders meeting",
+      "title": "Triveni Engineering & Industries Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 07, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/TRIVENI_07092026170029_TEIL_AGM26_PROCEEDING.pdf"
+    },
+    {
+      "id": "f88cf93b293bf",
+      "ticker": "GANESHBE",
+      "company": "Ganesh Benzoplast Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T16:56:15.000Z",
+      "category": "Disclosure",
+      "title": "Ganesh Benzoplast Limited has informed the Exchange about Weblink of Annual Report sent to Physical shareholders",
+      "url": "https://nsearchives.nseindia.com/corporate/GANESHBE_07092026165600_LettershareholderforAnnualReportLink2026.pdf"
+    },
+    {
+      "id": "f63fdb3b142bb",
+      "ticker": "GULFOILLUB",
+      "company": "Gulf Oil Lubricants India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T16:55:46.000Z",
+      "category": "Change in Directors",
+      "title": "We hereby inform you of cessation of a Senior Management Personnel (\"SMP\")",
+      "url": "https://nsearchives.nseindia.com/corporate/GULFOILLUB_07092026163006_ResignationSandeepBangia.pdf"
+    },
+    {
+      "id": "fe00107de2133",
+      "ticker": "GANESHBE",
+      "company": "Ganesh Benzoplast Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T16:50:21.000Z",
+      "category": "Disclosure",
+      "title": "Ganesh Benzoplast Limited has informed the Exchange about Business Responsibility and Sustainability Report (BRSR) for the financial year 2025-26",
+      "url": "https://nsearchives.nseindia.com/corporate/GANESHBE_07092026165008_BRSR2026.pdf"
+    },
+    {
+      "id": "fcce6f04a1842",
+      "ticker": "GANESHBE",
+      "company": "Ganesh Benzoplast Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T16:38:45.000Z",
+      "category": "Shareholders meeting",
+      "title": "Ganesh Benzoplast Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/GANESHBE_07092026163701_Notice39thAGM2026.pdf"
+    },
+    {
+      "id": "fe3df60ef4964",
+      "ticker": "GANESHBE",
+      "company": "Ganesh Benzoplast Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T16:33:09.000Z",
+      "category": "Shareholders meeting",
+      "title": "Ganesh Benzoplast Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 30, 2026 at 3:00 pm",
+      "url": "https://nsearchives.nseindia.com/corporate/GANESHBE_07092026163250_Intimationagm2026.pdf"
+    },
+    {
+      "id": "f323cdd9cc942",
+      "ticker": "URBANCO",
+      "company": "Urban Company Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T16:32:57.000Z",
+      "category": "Investor Presentation",
+      "title": "Urban Company Limited has informed the Exchange about Schedule of Analyst/ Investor Meeting(s) to be held between September 14, 2026 to September 21, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_07092026163223_Investor_Meeting_SE_Intimation_07092026.pdf"
+    },
+    {
+      "id": "f7975ffd7eaec",
+      "ticker": "SBCL",
+      "company": "Shivalik Bimetal Controls Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T15:47:17.000Z",
+      "category": "Change in Company Secretary/Compliance Officer",
+      "title": "Shivalik Bimetal Controls Limited has informed the Exchange about Resignation of Company Secretary/Compliance Officer",
+      "url": "https://nsearchives.nseindia.com/corporate/SBCL_07092026154700_Intimation_to_BSE__1_.pdf"
+    },
+    {
+      "id": "fc344a344c0fd",
+      "ticker": "PVRINOX",
+      "company": "PVR INOX Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T15:42:23.000Z",
+      "category": "News Verification",
+      "title": "The Exchange has sought clarification from PVR INOX Limited with respect to recent news item captioned PVR Inox shares fall 8% amid internal probe into alleged Rs 200-crore kickbacks. The response from the Company is attached.",
+      "url": "https://nsearchives.nseindia.com/corporate/PVRINOXLTD_07092026154036_PVRINOXRumourverification07092026.pdf"
+    },
+    {
+      "id": "ff02580ff4c4e",
+      "ticker": "BALUFORGE",
+      "company": "Balu Forge Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T15:33:50.000Z",
+      "category": "Disclosure",
+      "title": "Balu Forge Industries Limited has informed the Exchange about Intimation of Book Closure for the purpose of Dividend.",
+      "url": "https://nsearchives.nseindia.com/corporate/BALUFORGE_07092026153338_Intimation.pdf"
+    },
+    {
+      "id": "f3eabe3230994",
+      "ticker": "UNIMECH",
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T15:33:25.000Z",
+      "category": "Change in Directors",
+      "title": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Resignation of Director/KMP/SMP",
+      "url": "https://nsearchives.nseindia.com/corporate/UNIMECH_ROID_98044_KMP_Doc.zip"
+    },
+    {
+      "id": "f36e0cb84c1b4",
+      "ticker": "BALUFORGE",
+      "company": "Balu Forge Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T15:31:06.000Z",
+      "category": "Board Meeting",
+      "title": "Balu Forge Industries Limited has informed the Exchange regarding Outcome of Board Meeting held on September 07, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/BALUFORGE_07092026153056_Outcome.pdf"
+    },
+    {
+      "id": "f75c0784bc42b",
+      "ticker": "BALUFORGE",
+      "company": "Balu Forge Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T15:06:49.000Z",
+      "category": "Record Date",
+      "title": "Balu Forge Industries Limited has informed the Exchange that Record date for the purpose of Dividend is 18-Sep-2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/BALUFORGE_07092026150558_IntimationReg42.pdf"
+    },
+    {
+      "id": "f4dd18c001b59",
+      "ticker": "DENTALKART",
+      "company": "Vasa Denticity Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T13:48:33.000Z",
+      "category": "Newspaper Publication",
+      "title": "Vasa Denticity Limited has informed the Exchange about Copy of Newspaper Publication",
+      "url": "https://nsearchives.nseindia.com/corporate/VASADENTICITY_07092026134810_Newspaper_Publication_Notice.pdf"
+    },
+    {
+      "id": "f777b880e07af",
+      "ticker": "UNIMECH",
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T13:40:31.000Z",
+      "category": "Change in Directors",
+      "title": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about change in Management",
+      "url": "https://nsearchives.nseindia.com/corporate/UNIMECH_07092026134022_Reg_30_SMP_07092026.pdf"
+    },
+    {
+      "id": "f42e5d674c890",
+      "ticker": "SKYGOLD",
+      "company": "SKY GOLD AND DIAMONDS LIMITED",
+      "exchange": "NSE",
+      "date": "2026-09-07T13:24:05.000Z",
+      "category": "Newspaper Publication",
+      "title": "Please find enclosed herewith the newspaper clippings of the advertisement on the 18th AGM and evoting published today i.e. Monday, 7th September 2026 in Business Standard and Mumbai Lakshadeep (Marathi Daily)",
+      "url": "https://nsearchives.nseindia.com/corporate/SKYGOLD_07092026132329_NewspaperAdvertisement.pdf"
+    },
     {
       "id": "f5c4ed95fd7b7",
       "ticker": "MONOLITH",
@@ -19676,336 +20006,6 @@
       "category": "Investor Presentation",
       "title": "Monolithisch India Limited has informed the Exchange about MINUTES OF MEETING",
       "url": "https://nsearchives.nseindia.com/corporate/MONOLITHISCH_16062026191020_MIL_SMRUDDHI_Meeting_Minutes.pdf"
-    },
-    {
-      "id": "f7bf42fc9d412",
-      "ticker": "DYNAMATECH",
-      "company": "Dynamatic Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-06-16T18:49:13.000Z",
-      "category": "Disclosure",
-      "title": "Udayant Malhoutra, Barota Malhoutra, JKM Holdings Pvt. Ltd, Udayant Malhoutra and Company Private Limited, JKM Offshore (India) Pvt. Ltd, Christine Hoden (India) Pvt. Ltd, Greenearth Biotechnologies Limited, Primella Sanitary Napkins Pvt. Ltd, Vita Pvt Ltd, Wavell Investments Pvt Ltd has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_07052026131905_15.pdf"
-    },
-    {
-      "id": "fb2923880db88",
-      "ticker": "SHRIAHIMSA",
-      "company": "Shri Ahimsa Naturals Limited",
-      "exchange": "NSE",
-      "date": "2026-06-16T18:39:41.000Z",
-      "category": "Disclosure",
-      "title": "Sumit Jain has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_06052026185142_SHRIAHIMSA.pdf"
-    },
-    {
-      "id": "f4d63bf51d0eb",
-      "ticker": "BALUFORGE",
-      "company": "Balu Forge Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-06-16T18:27:50.000Z",
-      "category": "Disclosure",
-      "title": "Jaspalsingh Chandock has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_06052026163654_BALUFORGE1.pdf"
-    },
-    {
-      "id": "f38c0dec30c1a",
-      "ticker": "SGMART",
-      "company": "SG Mart Limited",
-      "exchange": "NSE",
-      "date": "2026-06-16T18:20:40.000Z",
-      "category": "Disclosure",
-      "title": "Sanjay Gupta has submitted to the Exchange a copy of Disclosures under Regulation 10(6)-Report to stock Exchange in respect of any acquisition made in reliance upon exemption provided for in regulation 10 of SEBI (SAST) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_16062026181730_SGMART.pdf"
-    },
-    {
-      "id": "fdc356fccbc4a",
-      "ticker": "SONACOMS",
-      "company": "Sona BLW Precision Forgings Limited",
-      "exchange": "NSE",
-      "date": "2026-06-16T18:03:08.000Z",
-      "category": "Change in Directors",
-      "title": "Sona Blw Precision Forgings Limited has informed the Exchange about Resignation of Director/KMP/SMP",
-      "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_ROID_89995_KMP_Doc.zip"
-    },
-    {
-      "id": "f5c54dd43c65a",
-      "ticker": "HARIOMPIPE",
-      "company": "Hariom Pipe Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-06-16T17:46:47.000Z",
-      "category": "Shareholders meeting",
-      "title": "Hariom Pipe Industries Limited has informed the Exchange regarding Proceedings of Extraordinary General Meeting held on Jun 16, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/hariompipes_16062026174615_Proceedings_of_the_EGM.pdf"
-    },
-    {
-      "id": "f45a079a8a00a",
-      "ticker": "SONACOMS",
-      "company": "Sona BLW Precision Forgings Limited",
-      "exchange": "NSE",
-      "date": "2026-06-16T17:05:14.000Z",
-      "category": "Disclosure",
-      "title": "Sona Blw Precision Forgings Limited has informed the Exchange about General Updates",
-      "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_16062026170444_Outcome_of_NRC.pdf"
-    },
-    {
-      "id": "fa4454f71e70d",
-      "ticker": "VAML",
-      "company": "Vedanta Aluminium Metal Limited",
-      "exchange": "NSE",
-      "date": "2026-06-16T15:39:34.000Z",
-      "category": "Disclosure",
-      "title": "Vedanta Aluminium Metal Limited has informed the Exchange regarding 'Vedanta Aluminium Metal Limited (the Company ) Audited Financial Statement for the year ended March 31, 2026'.",
-      "url": "https://nsearchives.nseindia.com/corporate/VAML_16062026153834_VAMLSEIntimationFinancialresultssigned.pdf"
-    },
-    {
-      "id": "f32ff3ea0d47b",
-      "ticker": "BALUFORGE",
-      "company": "Balu Forge Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-06-16T13:05:12.000Z",
-      "category": "Disclosure",
-      "title": "Jaikaran Chandock has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_06052026155947_BALUFORGE.pdf"
-    },
-    {
-      "id": "fea7cf72feb3f",
-      "ticker": "VENUSREM",
-      "company": "Venus Remedies Limited",
-      "exchange": "NSE",
-      "date": "2026-06-16T12:56:28.000Z",
-      "category": "Disclosure",
-      "title": "Venus Remedies Limited has informed the Exchange regarding 'Social Media post to make shareholders aware to update their KYC'.",
-      "url": "https://nsearchives.nseindia.com/corporate/VENUSREM_16062026125612_Social_Media_Post__June_2026_KYC.pdf"
-    },
-    {
-      "id": "fa41221c76e80",
-      "ticker": "MENONBE",
-      "company": "Menon Bearings Limited",
-      "exchange": "NSE",
-      "date": "2026-06-16T10:50:10.000Z",
-      "category": "Spurt in Volume",
-      "title": "Significant increase in volume has been observed in Menon Bearings Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the market place so that the interest of the investors is safeguarded, had written to the company. Menon Bearings Limited has submitted their response.",
-      "url": "https://nsearchives.nseindia.com/corporate/MENONBE_16062026104959_NSE_Intimation_Volume_Increase_.pdf"
-    },
-    {
-      "id": "f62317639d2c1",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-15T20:18:44.000Z",
-      "category": "Acquisition",
-      "title": "Sapphire Foods India Limited has informed the Exchange about update on Scheme of Arrangement",
-      "url": "https://nsearchives.nseindia.com/corporate/SAPPHIRE_15062026201824_NSE.pdf"
-    },
-    {
-      "id": "fe7147fdc0bc2",
-      "ticker": "FAZE3Q",
-      "company": "Faze Three Limited",
-      "exchange": "NSE",
-      "date": "2026-06-15T19:15:19.000Z",
-      "category": "Disclosure",
-      "title": "Ajay Anand has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_24042026113154_Ajay.pdf"
-    },
-    {
-      "id": "ffeac8ec3708c",
-      "ticker": "ADVAIT",
-      "company": "Advait Energy Transitions Limited",
-      "exchange": "NSE",
-      "date": "2026-06-15T19:10:46.000Z",
-      "category": "Disclosure",
-      "title": "Rejal Sheth has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_04052026124642_39.pdf"
-    },
-    {
-      "id": "fed9a12560211",
-      "ticker": "MANINDS",
-      "company": "Man Industries (India) Limited",
-      "exchange": "NSE",
-      "date": "2026-06-15T19:06:38.000Z",
-      "category": "Disclosure",
-      "title": "Rameshchandra Mansukhani has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_23042026182714_MANINDS.pdf"
-    },
-    {
-      "id": "f612bf0c00f18",
-      "ticker": "SETL",
-      "company": "Standard Engineering Technology Limited",
-      "exchange": "NSE",
-      "date": "2026-06-15T19:00:23.000Z",
-      "category": "Disclosure",
-      "title": "Nageswara Rao Kandula has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_23042026164823_SETL.pdf"
-    },
-    {
-      "id": "fa9f5af4103f5",
-      "ticker": "IKS",
-      "company": "Inventurus Knowledge Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-06-15T18:56:07.000Z",
-      "category": "Disclosure",
-      "title": "Rekha Jhunjhunwala has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_23042026170029_IKS.pdf"
-    },
-    {
-      "id": "fac0f1cf96bc9",
-      "ticker": "NORTHARC",
-      "company": "Northern Arc Capital Limited",
-      "exchange": "NSE",
-      "date": "2026-06-15T18:49:27.000Z",
-      "category": "Agreements",
-      "title": "Northern Arc Capital Limited has informed the Exchange about Agreements - YES BANK and Northern Arc Capital partner to bridge India's credit gap.",
-      "url": "https://nsearchives.nseindia.com/corporate/NACL2020_15062026184918_PressRelease_NAC_YES_Unsd.pdf"
-    },
-    {
-      "id": "f16e427a756ca",
-      "ticker": "SONACOMS",
-      "company": "Sona BLW Precision Forgings Limited",
-      "exchange": "NSE",
-      "date": "2026-06-15T18:22:33.000Z",
-      "category": "Trading Window",
-      "title": "Sona Blw Precision Forgings Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_15062026182112_intimation.pdf"
-    },
-    {
-      "id": "fb30f8cc57442",
-      "ticker": "KPITTECH",
-      "company": "KPIT Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-06-15T18:07:59.000Z",
-      "category": "Disclosure",
-      "title": "KPIT Technologies Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_23042026134044_Disc4.pdf"
-    },
-    {
-      "id": "fd2845747f2af",
-      "ticker": "KPITTECH",
-      "company": "KPIT Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-06-15T18:06:26.000Z",
-      "category": "Disclosure",
-      "title": "Mr. Chinmay Pandit has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_23042026153653_KPITTECH.pdf"
-    },
-    {
-      "id": "f8746f8b5a0de",
-      "ticker": "KPITTECH",
-      "company": "KPIT Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-06-15T18:06:15.000Z",
-      "category": "Disclosure",
-      "title": "Sachin Tikekar has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_23042026153925_KPITTECH1.pdf"
-    },
-    {
-      "id": "f29902647c512",
-      "ticker": "KPITTECH",
-      "company": "KPIT Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-06-15T18:06:00.000Z",
-      "category": "Disclosure",
-      "title": "Ajay Bhagwat has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_23042026154117_KPITTECH2.pdf"
-    },
-    {
-      "id": "f18741a0d0d6f",
-      "ticker": "KPITTECH",
-      "company": "KPIT Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-06-15T18:05:43.000Z",
-      "category": "Disclosure",
-      "title": "Ashwini Bhagwat has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_23042026154330_KPITTECH3.pdf"
-    },
-    {
-      "id": "f3b9952b0c4ac",
-      "ticker": "KPITTECH",
-      "company": "KPIT Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-06-15T18:05:31.000Z",
-      "category": "Disclosure",
-      "title": "Nirmala Pandit has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_23042026154536_KPITTECH4.pdf"
-    },
-    {
-      "id": "fea8dc65e9a87",
-      "ticker": "DEVYANI",
-      "company": "Devyani International Limited",
-      "exchange": "NSE",
-      "date": "2026-06-15T17:44:11.000Z",
-      "category": "Acquisition",
-      "title": "Devyani International Limited has informed the Exchange about update on Scheme of Arrangement",
-      "url": "https://nsearchives.nseindia.com/corporate/DEVYANI_15062026174347_SE_Intimation_-_ObserationLetter_merged_DSC.pdf"
-    },
-    {
-      "id": "f096244701436",
-      "ticker": "SKYGOLD",
-      "company": "SKY GOLD AND DIAMONDS LIMITED",
-      "exchange": "NSE",
-      "date": "2026-06-15T15:43:19.000Z",
-      "category": "Investor Presentation",
-      "title": "Pursuant to the provision of Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations 2015, we would like to inform you that the Management of the Company will be interacting with Analysts on 18th June 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/SKYGOLD_15062026154307_Intimation18062026.pdf"
-    },
-    {
-      "id": "fd97488844986",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "exchange": "NSE",
-      "date": "2026-06-15T15:14:46.000Z",
-      "category": "Trading Window",
-      "title": "Meesho Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_15062026151412_ML_TWC_Intimation_Jun_2026.pdf"
-    },
-    {
-      "id": "fcbeb96a74db6",
-      "ticker": "LENSKART",
-      "company": "Lenskart Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-06-15T14:57:09.000Z",
-      "category": "Disclosure",
-      "title": "Lenskart Solutions Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_09062026130438_30.pdf"
-    },
-    {
-      "id": "faa176ae32edd",
-      "ticker": "SCODATUBES",
-      "company": "Scoda Tubes Limited",
-      "exchange": "NSE",
-      "date": "2026-06-15T14:20:32.000Z",
-      "category": "Investor Presentation",
-      "title": "Scoda Tubes Limited has informed the Exchange about Intimation of Plant Visit for Investors and Analysts",
-      "url": "https://nsearchives.nseindia.com/corporate/SCODA_15062026142004_Intimation_of_plant_visits_-_19-06-2026.pdf"
-    },
-    {
-      "id": "f39a5e75806f5",
-      "ticker": "KSHINTL",
-      "company": "KSH International Limited",
-      "exchange": "NSE",
-      "date": "2026-06-15T12:48:37.000Z",
-      "category": "Investor Presentation",
-      "title": "KSH International Limited has informed the Exchange regarding schedule of multiple group/ one-on-one meetings with analysts/investors.",
-      "url": "https://nsearchives.nseindia.com/corporate/INTERNATIONAL_15062026121524_KSH_Intimation_of_Investor_Meet_multiple_15062026signed.pdf"
-    },
-    {
-      "id": "fedc374fdcc26",
-      "ticker": "MTARTECH",
-      "company": "Mtar Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-06-15T11:19:29.000Z",
-      "category": "News Verification",
-      "title": "The Exchange has sought clarification from Mtar Technologies Limited with respect to recent news item captioned MTAR Tech rebounds 10% on Bloom Energy project clarity; Here's what the management said. The response from the Company is attached.",
-      "url": "https://nsearchives.nseindia.com/corporate/MTARTECH_15062026111916_FInal.pdf"
-    },
-    {
-      "id": "f0ff059c2458b",
-      "ticker": "TRIVENI",
-      "company": "Triveni Engineering & Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-06-15T10:51:52.000Z",
-      "category": "Disclosure",
-      "title": "Dhruv M Sawhney, Tarun Sawhney, Nikhil Sawhney, Tarana Sawhney, STFL Trading and Finance Private Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_08062026185557_TRIVENI.pdf"
     }
   ]
 }
