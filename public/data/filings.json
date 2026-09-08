@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T07:30:37.098Z",
+  "generated_at": "2026-09-08T18:11:42.480Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,216 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "fd2f6f48269e9",
+      "ticker": "DAMCAPITAL",
+      "company": "Dam Capital Advisors Limited",
+      "exchange": "NSE",
+      "date": "2026-09-08T22:28:31.000Z",
+      "category": "Shareholders meeting",
+      "title": "Dam Capital Advisors Limited has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on September 08, 2026. Further, the company has informed the Exchange regarding voting results.",
+      "url": "https://nsearchives.nseindia.com/corporate/DAMCAPITAL_08092026222637_Intimation_of_Scrutiniser_Report_Signed.pdf"
+    },
+    {
+      "id": "f72c443837f16",
+      "ticker": "DAMCAPITAL",
+      "company": "Dam Capital Advisors Limited",
+      "exchange": "NSE",
+      "date": "2026-09-08T22:14:06.000Z",
+      "category": "Shareholders meeting",
+      "title": "Dam Capital Advisors Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 08, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/DAMCAPITAL_08092026221356_Intimation_of_Proceedings_of_AGM_Signed.pdf"
+    },
+    {
+      "id": "ffbde9ba63c0e",
+      "ticker": "GROWW",
+      "company": "Billionbrains Garage Ventures Limited",
+      "exchange": "NSE",
+      "date": "2026-09-08T20:17:32.000Z",
+      "category": "ESOP/ESOS/ESPS",
+      "title": "Billionbrains Garage Ventures Limited has informed the Exchange regarding Grant of 325014 Options under Billionbrains Garage Ventures Limited Employee Stock Option Scheme 2024.",
+      "url": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_08092026201707_ESOP_Grant.pdf"
+    },
+    {
+      "id": "fcecafe51a25a",
+      "ticker": "KSHINTL",
+      "company": "KSH International Limited",
+      "exchange": "NSE",
+      "date": "2026-09-08T19:36:47.000Z",
+      "category": "Disclosure",
+      "title": "KSH International Limited has informed the Exchange regarding 'Intimation of submission of application with BSE Limited seeking no objection for re-classification from the Promoter Group category to Public category'.",
+      "url": "https://nsearchives.nseindia.com/corporate/INTERNATIONAL_08092026193617_KSHReclassification_2026Sep08_SubmissionofApplication.pdf"
+    },
+    {
+      "id": "fe68180e24243",
+      "ticker": "JYOTICNC",
+      "company": "Jyoti CNC Automation Limited",
+      "exchange": "NSE",
+      "date": "2026-09-08T18:55:40.000Z",
+      "category": "Shareholders meeting",
+      "title": "Jyoti CNC Automation Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/JYOTICNC_NSE_08092026185527_IntimationNoticefor35thAGM.pdf"
+    },
+    {
+      "id": "f09e951f6944f",
+      "ticker": "SBIFUNDS",
+      "company": "SBI Funds Management Limited",
+      "exchange": "NSE",
+      "date": "2026-09-08T18:49:39.000Z",
+      "category": "Shareholders meeting",
+      "title": "SBI Funds Management Limited has submitted the Exchange a copy Srutinizers report of Postal Ballot. Further, the company has informed the Exchange regarding voting results.",
+      "url": "https://nsearchives.nseindia.com/corporate/SBIMF2026_08092026184903_outcome_of_the_postal_ballot_signed_new.pdf"
+    },
+    {
+      "id": "f9a872294b466",
+      "ticker": "GANESHBE",
+      "company": "Ganesh Benzoplast Limited",
+      "exchange": "NSE",
+      "date": "2026-09-08T17:50:25.000Z",
+      "category": "Newspaper Publication",
+      "title": "Ganesh Benzoplast Limited has informed the Exchange about Copy of Newspaper Publication for AGM 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/GANESHBE_08092026175015_NewspaperPublicationAGM2026.pdf"
+    },
+    {
+      "id": "f4adb5ed679da",
+      "ticker": "MIDWESTLTD",
+      "company": "Midwest Limited",
+      "exchange": "NSE",
+      "date": "2026-09-08T17:48:44.000Z",
+      "category": "Disclosure",
+      "title": "Midwest Limited has informed the Exchange regarding '' Compliance with Regulation 36(1)(b) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015'.",
+      "url": "https://nsearchives.nseindia.com/corporate/MIDWEST_08092026174615_Cover.pdf"
+    },
+    {
+      "id": "fdd7c8acbcd36",
+      "ticker": "SHIPROCKET",
+      "company": "Shiprocket Limited",
+      "exchange": "NSE",
+      "date": "2026-09-08T17:48:16.000Z",
+      "category": "Disclosure",
+      "title": "Shiprocket Limited has informed the Exchange regarding letter to Shareholders providing Web-Link",
+      "url": "https://nsearchives.nseindia.com/corporate/SHIPROCKET2011_08092026174302_Shareholder_Letter_Reg_36.pdf"
+    },
+    {
+      "id": "f90cf87fe9ade",
+      "ticker": "VOEPL",
+      "company": "Virtuoso Optoelectronics Limited",
+      "exchange": "NSE",
+      "date": "2026-09-08T17:36:47.000Z",
+      "category": "Shareholders meeting",
+      "title": "Virtuoso Optoelectronics Limited has informed the Exchange regarding Notice of undefined to be held on September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/VIRTUOSO_08092026173634_Final.pdf"
+    },
+    {
+      "id": "f6bd792501778",
+      "ticker": "SHIPROCKET",
+      "company": "Shiprocket Limited",
+      "exchange": "NSE",
+      "date": "2026-09-08T17:15:28.000Z",
+      "category": "Newspaper Publication",
+      "title": "Shiprocket Limited has informed the Exchange regarding Newspaper Publication of financial results for quater ended 30 june, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/SHIPROCKET2011_08092026171520_UFR_Newspaper_Publication.pdf"
+    },
+    {
+      "id": "fe664d34ca997",
+      "ticker": "PVRINOX",
+      "company": "PVR INOX Limited",
+      "exchange": "NSE",
+      "date": "2026-09-08T17:11:48.000Z",
+      "category": "Disclosure",
+      "title": "PVR INOX Limited has informed the exchange about opening of 3 new screens at Soul Space Spirit, Bellandur, Bengaluru, Karnataka.",
+      "url": "https://nsearchives.nseindia.com/corporate/PVRINOXLTD_08092026171131_PVRINOXOpeningofScreens08092026.pdf"
+    },
+    {
+      "id": "f34ee08277c43",
+      "ticker": "URBANCO",
+      "company": "Urban Company Limited",
+      "exchange": "NSE",
+      "date": "2026-09-08T17:10:45.000Z",
+      "category": "Investor Presentation",
+      "title": "Urban Company Limited has informed the Exchange about Schedule of Analyst/ Investor Meeting to be held between September 09, 2026 to September 11, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_08092026171025_Investor_Meeting_SE_Intimation_08092026.pdf"
+    },
+    {
+      "id": "ff8c6657d7e0b",
+      "ticker": "SHIPROCKET",
+      "company": "Shiprocket Limited",
+      "exchange": "NSE",
+      "date": "2026-09-08T16:55:51.000Z",
+      "category": "Newspaper Publication",
+      "title": "Shiprocket Limited has informed the Exchange about Intimation of Pre-Dispatch Newspaper advertisement regarding Notice of 15th Annual General Meeting of Shiprocket Limited",
+      "url": "https://nsearchives.nseindia.com/corporate/SHIPROCKET2011_08092026165400_Pre_AGM_Adv.pdf"
+    },
+    {
+      "id": "f996cc05f8a59",
+      "ticker": "TRIVENI",
+      "company": "Triveni Engineering & Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-08T16:16:17.000Z",
+      "category": "Shareholders meeting",
+      "title": "Triveni Engineering & Industries Limited has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on September 07, 2026. Further, the company has informed the Exchange regarding voting results.",
+      "url": "https://nsearchives.nseindia.com/corporate/TRIVENI_08092026161607_TEIL_AGM26_VOTING_RESULT.pdf"
+    },
+    {
+      "id": "fa0154036b42b",
+      "ticker": "LUMINO",
+      "company": "Lumino Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-08T16:05:43.000Z",
+      "category": "Disclosure",
+      "title": "Lumino Industries Limited has informed the Exchange regarding 'Intimation under Regulation 30(5) of the SEBI (Listing Obligations & Disclosure Requirements) Regulations, 2015'.",
+      "url": "https://nsearchives.nseindia.com/corporate/LUMINO123_08092026160441_Authorisation_of_KMP.pdf"
+    },
+    {
+      "id": "f707b63c4710c",
+      "ticker": "SHIPROCKET",
+      "company": "Shiprocket Limited",
+      "exchange": "NSE",
+      "date": "2026-09-08T14:25:18.000Z",
+      "category": "Investor Presentation",
+      "title": "Shiprocket Limited has informed the Exchange about Link of Recording",
+      "url": "https://nsearchives.nseindia.com/corporate/SHIPROCKET2011_08092026142506_Investor_Call_Recording.pdf"
+    },
+    {
+      "id": "fbf1228c591f5",
+      "ticker": "HARIOMPIPE",
+      "company": "Hariom Pipe Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-08T14:09:37.000Z",
+      "category": "Newspaper Publication",
+      "title": "Hariom Pipe Industries Limited has informed the Exchange about Copy of Newspaper Publication regarding dispatch of the Notice of 19th AGM and Annual Report for FY 2025-26",
+      "url": "https://nsearchives.nseindia.com/corporate/hariompipes_08092026140431_Newspaper_Publlication_Dispatch_Notice.pdf"
+    },
+    {
+      "id": "f6e3b245147b8",
+      "ticker": "BALUFORGE",
+      "company": "Balu Forge Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-08T13:48:31.000Z",
+      "category": "Newspaper Publication",
+      "title": "Balu Forge Industries Limited has informed the Exchange about Copy of Newspaper Publication",
+      "url": "https://nsearchives.nseindia.com/corporate/BALUFORGE_08092026134813_Intimation.pdf"
+    },
+    {
+      "id": "fe96474bf1878",
+      "ticker": "FLYSBS",
+      "company": "FlySBS Aviation Limited",
+      "exchange": "NSE",
+      "date": "2026-09-08T13:15:27.000Z",
+      "category": "Disclosure",
+      "title": "FlySBS Aviation Limited has informed the Exchange about General Updates",
+      "url": "https://nsearchives.nseindia.com/corporate/FLYSBS_08092026131515_ShareholderLetter.pdf"
+    },
+    {
+      "id": "fad7296d5e863",
+      "ticker": "FLYSBS",
+      "company": "FlySBS Aviation Limited",
+      "exchange": "NSE",
+      "date": "2026-09-08T13:07:09.000Z",
+      "category": "Newspaper Publication",
+      "title": "FlySBS Aviation Limited has informed the Exchange about Copy of Newspaper Publication",
+      "url": "https://nsearchives.nseindia.com/corporate/FLYSBS_08092026130659_NewspaperPublication.pdf"
+    },
     {
       "id": "fd9469039d370",
       "ticker": "SHIPROCKET",
@@ -19796,216 +20006,6 @@
       "category": "Change in Directors",
       "title": "Stylam Industries Limited has informed the Exchange regarding Appointment of Mr. Koshi Suzuki as Non- Executive Director of the company w.e.f. Jun 17, 2026.",
       "url": "https://nsearchives.nseindia.com/corporate/STYLAMIND_17062026163220_Outcome.pdf"
-    },
-    {
-      "id": "ffa1a3ce0a7c6",
-      "ticker": "STYLAMIND",
-      "company": "Stylam Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-06-17T16:30:34.000Z",
-      "category": "Change in Directors",
-      "title": "Stylam Industries Limited has informed the Exchange regarding Appointment of Mr. Yuji Iwatsuka as Non- Executive Director of the company w.e.f. Jun 17, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/STYLAMIND_17062026162939_Outcome.pdf"
-    },
-    {
-      "id": "fb33622f922cd",
-      "ticker": "STYLAMIND",
-      "company": "Stylam Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-06-17T16:28:13.000Z",
-      "category": "Change in Directors",
-      "title": "Stylam Industries Limited has informed the Exchange regarding Appointment of Mr. Nobuyuki Omura as Non- Executive Director of the company w.e.f. Jun 17, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/STYLAMIND_17062026162807_Outcome.pdf"
-    },
-    {
-      "id": "fd69ade738135",
-      "ticker": "STYLAMIND",
-      "company": "Stylam Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-06-17T16:26:34.000Z",
-      "category": "Change in Directors",
-      "title": "Stylam Industries Limited has informed the Exchange regarding Appointment of Mr. Naruhiro Amada as Executive Director (Whole Time Director) of the company w.e.f. Jun 17, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/STYLAMIND_17062026162614_Outcome.pdf"
-    },
-    {
-      "id": "f66d31b7cb21f",
-      "ticker": "STYLAMIND",
-      "company": "Stylam Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-06-17T16:24:48.000Z",
-      "category": "Change in Directors",
-      "title": "Stylam Industries Limited has informed the Exchange regarding Appointment of Mr. Kenji Ebihara as Non- Executive Director of the company w.e.f. Jun 17, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/STYLAMIND_17062026162438_Outcome.pdf"
-    },
-    {
-      "id": "f57e201eeaa6f",
-      "ticker": "STYLAMIND",
-      "company": "Stylam Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-06-17T16:23:08.000Z",
-      "category": "Change in Directors",
-      "title": "Stylam Industries Limited has informed the Exchange regarding Appointment of Tirloki Nath Singla as Non- Executive Independent Director of the company w.e.f. Jun 17, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/STYLAMIND_17062026162252_Outcome.pdf"
-    },
-    {
-      "id": "f39ecf3fb71ab",
-      "ticker": "STYLAMIND",
-      "company": "Stylam Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-06-17T16:09:50.000Z",
-      "category": "Board Meeting",
-      "title": "Stylam Industries Limited has informed the Exchange regarding amendment of Articles of Association of the Company.",
-      "url": "https://nsearchives.nseindia.com/corporate/STYLAMIND_17062026160930_Outcome.pdf"
-    },
-    {
-      "id": "fdecae1559055",
-      "ticker": "STYLAMIND",
-      "company": "Stylam Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-06-17T16:06:53.000Z",
-      "category": "Change in Directors",
-      "title": "Stylam Industries Limited has informed the Exchange about change in Management",
-      "url": "https://nsearchives.nseindia.com/corporate/STYLAMIND_17062026160629_Outcome.pdf"
-    },
-    {
-      "id": "f61e2c26a13b2",
-      "ticker": "STYLAMIND",
-      "company": "Stylam Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-06-17T15:55:32.000Z",
-      "category": "Board Meeting",
-      "title": "Stylam Industries Limited has informed the Exchange regarding Outcome of Board Meeting held on Jun 17, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/STYLAMIND_17062026155523_Outcome.pdf"
-    },
-    {
-      "id": "f531dcd8e2452",
-      "ticker": "AVANTEL",
-      "company": "Avantel Limited",
-      "exchange": "NSE",
-      "date": "2026-06-17T15:37:08.000Z",
-      "category": "Disclosure",
-      "title": "Dr. Abburi Vidyasagar has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_24042026131801_11.pdf"
-    },
-    {
-      "id": "ff5bd6521839a",
-      "ticker": "BALUFORGE",
-      "company": "Balu Forge Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-06-17T14:37:35.000Z",
-      "category": "Disclosure",
-      "title": "Trimaan Chandock has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_07052026182758_BALUFORGE.pdf"
-    },
-    {
-      "id": "f425ca903189f",
-      "ticker": "LAXMIDENTL",
-      "company": "Laxmi Dental Limited",
-      "exchange": "NSE",
-      "date": "2026-06-17T14:32:59.000Z",
-      "category": "Disclosure",
-      "title": "Dharmesh Dattani has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_07052026163302_LAXMIDENTL.pdf"
-    },
-    {
-      "id": "f87a1831af6f8",
-      "ticker": "DIXON",
-      "company": "Dixon Technologies (India) Limited",
-      "exchange": "NSE",
-      "date": "2026-06-17T13:38:05.000Z",
-      "category": "News Verification",
-      "title": "The Exchange has sought clarification from Dixon Technologies (India) Limited with respect to recent news item captioned Dixon Tech shares rise 5% amid buzz of govt nod for Vivo JV; JPMorgan retains overweight rating. The response from the Company is attached.",
-      "url": "https://nsearchives.nseindia.com/corporate/DIXON_17062026133723_Reg30NewsVerificationNSE.pdf"
-    },
-    {
-      "id": "fa49991d8fa38",
-      "ticker": "DENTA",
-      "company": "Denta Water and Infra Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-06-17T13:34:56.000Z",
-      "category": "Spurt in Volume",
-      "title": "Significant increase in volume has been observed in Denta Water and Infra Solutions Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the market place so that the interest of the investors is safeguarded, had written to the company. Denta Water and Infra Solutions Limited has submitted their response.",
-      "url": "https://nsearchives.nseindia.com/corporate/DENTA_17062026133430_Clarification_on_Spurt_in_Volume.pdf"
-    },
-    {
-      "id": "f11f44541f8bf",
-      "ticker": "GROWW",
-      "company": "Billionbrains Garage Ventures Limited",
-      "exchange": "NSE",
-      "date": "2026-06-17T13:18:19.000Z",
-      "category": "Disclosure",
-      "title": "Billionbrains Garage Ventures Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_15062026155200_GROWW.pdf"
-    },
-    {
-      "id": "f7e0c93689dd1",
-      "ticker": "ONESOURCE",
-      "company": "Onesource Specialty Pharma Limited",
-      "exchange": "NSE",
-      "date": "2026-06-17T13:03:38.000Z",
-      "category": "Disclosure",
-      "title": "Tenshi Pharmaceuticals Private Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_07052026123014_Onesource.pdf"
-    },
-    {
-      "id": "f1545d85e4089",
-      "ticker": "DAMCAPITAL",
-      "company": "Dam Capital Advisors Limited",
-      "exchange": "NSE",
-      "date": "2026-06-17T13:02:07.000Z",
-      "category": "Disclosure",
-      "title": "Sonali Dharmesh Mehta has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_07052026122220_39.pdf"
-    },
-    {
-      "id": "f4651352c3968",
-      "ticker": "RPSGVENT",
-      "company": "RPSG VENTURES LIMITED",
-      "exchange": "NSE",
-      "date": "2026-06-17T12:51:16.000Z",
-      "category": "Disclosure",
-      "title": "Integrated Coal Mining Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_07052026115337_ICML_RVL.pdf"
-    },
-    {
-      "id": "f93f7af986a47",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "exchange": "NSE",
-      "date": "2026-06-17T11:11:42.000Z",
-      "category": "Disclosure",
-      "title": "Vidit Aatrey has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_15062026124901_41.pdf"
-    },
-    {
-      "id": "f4bf2b86a9b5d",
-      "ticker": "SONACOMS",
-      "company": "Sona BLW Precision Forgings Limited",
-      "exchange": "NSE",
-      "date": "2026-06-16T21:51:34.000Z",
-      "category": "Change in Company Secretary/Compliance Officer",
-      "title": "Sona Blw Precision Forgings Limited has informed the Exchange about Change in Company Secretary/Compliance Officer",
-      "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_16062026215007_Finaloutcome.pdf"
-    },
-    {
-      "id": "ff8f8ce17117e",
-      "ticker": "SONACOMS",
-      "company": "Sona BLW Precision Forgings Limited",
-      "exchange": "NSE",
-      "date": "2026-06-16T21:41:40.000Z",
-      "category": "Board Meeting",
-      "title": "Sona Blw Precision Forgings Limited has informed the Exchange regarding Outcome of Board Meeting held on Jun 16, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_16062026214029_Finaloutcome.pdf"
-    },
-    {
-      "id": "f5473e9228359",
-      "ticker": "VAML",
-      "company": "Vedanta Aluminium Metal Limited",
-      "exchange": "NSE",
-      "date": "2026-06-16T20:11:24.000Z",
-      "category": "Disclosure",
-      "title": "Vedanta Aluminium Metal Limited has informed the Exchange regarding 'Disclosure under Regulation 30(5) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ( SEBI LODR Regulations )'.",
-      "url": "https://nsearchives.nseindia.com/corporate/VAML_16062026201112_VAMLSEIntimationunderReg30_5_signed.pdf"
     }
   ]
 }
