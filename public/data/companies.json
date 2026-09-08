@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T18:49:59.308Z",
+  "generated_at": "2026-09-08T18:02:51.017Z",
   "portfolio": [
     {
       "company": "Monolithisch India Limited",
@@ -17,14 +17,19 @@
       "sector": "Capital Goods"
     },
     {
+      "company": "Sterlite Technologies Limited",
+      "ticker": "STLTECH",
+      "sector": "Telecommunication"
+    },
+    {
       "company": "Menon Bearings Limited",
       "ticker": "MENONBE",
       "sector": "Automobile and Auto Components"
     },
     {
-      "company": "Sterlite Technologies Limited",
-      "ticker": "STLTECH",
-      "sector": "Telecommunication"
+      "company": "KSH International Limited",
+      "ticker": "KSHINTL",
+      "sector": "Capital Goods"
     },
     {
       "company": "Xpro India Limited",
@@ -35,11 +40,6 @@
       "company": "Shadowfax Technologies Limited",
       "ticker": "SHADOWFAX",
       "sector": "Services"
-    },
-    {
-      "company": "KSH International Limited",
-      "ticker": "KSHINTL",
-      "sector": "Capital Goods"
     },
     {
       "company": "Acutaas Chemicals Limited",
