@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T18:56:59.229Z",
+  "generated_at": "2026-09-08T07:30:37.098Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,16 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "fd9469039d370",
+      "ticker": "SHIPROCKET",
+      "company": "Shiprocket Limited",
+      "exchange": "NSE",
+      "date": "2026-09-08T00:00:39.000Z",
+      "category": "Investor Presentation",
+      "title": "Shiprocket Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/SHIPROCKET2011_07092026235857_Investor_Presentation.pdf"
+    },
     {
       "id": "fd1f217878c05",
       "ticker": "SHIPROCKET",
@@ -1536,6 +1546,16 @@
       "category": "Investor Presentation",
       "title": "PVR INOX Limited has informed the Exchange that the Company representatives participated in Ashwamedh Elara India Dialogue 2026, organized by Elara Capital, on 2nd September, 2026 at 11:00 AM (IST) in Mumbai, India.",
       "url": "https://nsearchives.nseindia.com/corporate/PVRINOXLTD_02092026183200_PVRINOXInvestorMeetOutcome02092026.pdf"
+    },
+    {
+      "id": "f3bc15c8aae3e",
+      "ticker": "XPROINDIA",
+      "company": "Xpro India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-02T18:03:27.000Z",
+      "category": "Spurt in Volume",
+      "title": "Significant increase in volume has been observed in Xpro India Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the market place so that the interest of the investors is safeguarded, has written to the company. The response from the company is awaited.",
+      "url": "-"
     },
     {
       "id": "f3d99559f00b4",
@@ -19986,26 +20006,6 @@
       "category": "Disclosure",
       "title": "Vedanta Aluminium Metal Limited has informed the Exchange regarding 'Disclosure under Regulation 30(5) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ( SEBI LODR Regulations )'.",
       "url": "https://nsearchives.nseindia.com/corporate/VAML_16062026201112_VAMLSEIntimationunderReg30_5_signed.pdf"
-    },
-    {
-      "id": "f7ba2ba771f59",
-      "ticker": "VAML",
-      "company": "Vedanta Aluminium Metal Limited",
-      "exchange": "NSE",
-      "date": "2026-06-16T20:06:03.000Z",
-      "category": "Disclosure",
-      "title": "Vedanta Aluminium Metal Limited has informed the Exchange regarding 'Intimation pursuant to Regulation 8(2) of the Securities and Exchange Board of India (Prohibition of Insider Trading) Regulations, 2015 ( SEBI PIT Regulations )'.",
-      "url": "https://nsearchives.nseindia.com/corporate/VAML_16062026200540_VAMLSEIntimationPITcodesigned.pdf"
-    },
-    {
-      "id": "f96e21c260bab",
-      "ticker": "MONOLITH",
-      "company": "Monolithisch India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-16T19:11:03.000Z",
-      "category": "Investor Presentation",
-      "title": "Monolithisch India Limited has informed the Exchange about MINUTES OF MEETING",
-      "url": "https://nsearchives.nseindia.com/corporate/MONOLITHISCH_16062026191020_MIL_SMRUDDHI_Meeting_Minutes.pdf"
     }
   ]
 }
