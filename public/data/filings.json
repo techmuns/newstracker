@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T07:38:45.054Z",
+  "generated_at": "2026-09-09T18:05:23.366Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,76 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f7c149a4057e1",
+      "ticker": "DIXON",
+      "company": "Dixon Technologies (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-09-09T22:29:27.000Z",
+      "category": "Investor Presentation",
+      "title": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst/ Institutional Investors Meet",
+      "url": "https://nsearchives.nseindia.com/corporate/DIXON_09092026222611_InvestorMeetOutcome09092026.pdf"
+    },
+    {
+      "id": "fa0d52987346d",
+      "ticker": "ESDS",
+      "company": "ESDS Software Solution Limited",
+      "exchange": "NSE",
+      "date": "2026-09-09T21:47:16.000Z",
+      "category": "Price movement",
+      "title": "Significant movement in price has been observed in ESDS Software Solution Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the market place so that the interest of the investors is safeguarded, had written to the company. ESDS Software Solution Limited has submitted their response.",
+      "url": "https://nsearchives.nseindia.com/corporate/ESDS_09092026214613_Clarification-Price_Movement_NSE.pdf"
+    },
+    {
+      "id": "f92cd5e964d32",
+      "ticker": "VENUSREM",
+      "company": "Venus Remedies Limited",
+      "exchange": "NSE",
+      "date": "2026-09-09T17:26:13.000Z",
+      "category": "Newspaper Publication",
+      "title": "Venus Remedies Limited has informed the Exchange about newspaper publication of notice to physical shareholders for transfer of physical shares as per SEBI circular.",
+      "url": "https://nsearchives.nseindia.com/corporate/VENUSREM_09092026172536_newspaperpublication9SEP_1_.pdf"
+    },
+    {
+      "id": "f0fd07b04d847",
+      "ticker": "KSHINTL",
+      "company": "KSH International Limited",
+      "exchange": "NSE",
+      "date": "2026-09-09T15:45:53.000Z",
+      "category": "Disclosure",
+      "title": "KSH International Limited has informed the Exchange regarding 'submission of application with National Stock Exchange of India Limited seeking no objection for re-classification from the Promoter Group category to Public category'.",
+      "url": "https://nsearchives.nseindia.com/corporate/INTERNATIONAL_09092026154503_KSHReclassification_2026Sep09_SubmissionofApplication.pdf"
+    },
+    {
+      "id": "f2779d2a0f7be",
+      "ticker": "YASHO",
+      "company": "Yasho Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-09T15:34:52.000Z",
+      "category": "Shareholders meeting",
+      "title": "Yasho Industries Limited has informed the Exchange regarding Notice of Postal Ballot",
+      "url": "https://nsearchives.nseindia.com/corporate/8291904474_09092026153436_Covering.pdf"
+    },
+    {
+      "id": "fc77c3a80b8f6",
+      "ticker": "PVRINOX",
+      "company": "PVR INOX Limited",
+      "exchange": "NSE",
+      "date": "2026-09-09T15:29:03.000Z",
+      "category": "Newspaper Publication",
+      "title": "PVR INOX Limited has informed the Exchange about Copy of Newspaper Publication for dispatch of Letter of Offer with respect to buyback.",
+      "url": "https://nsearchives.nseindia.com/corporate/PVRINOXLTD_09092026152848_PVRINOXDispatchNewspaperAnnouncement09092026.pdf"
+    },
+    {
+      "id": "f28f0960f6842",
+      "ticker": "SHIPROCKET",
+      "company": "Shiprocket Limited",
+      "exchange": "NSE",
+      "date": "2026-09-09T15:22:33.000Z",
+      "category": "Newspaper Publication",
+      "title": "Shiprocket Limited has informed the Exchange about Intimation of Post-Dispatch of Newspaper Regarding the 15th Annual General Meeting of Shiprocket Limited",
+      "url": "https://nsearchives.nseindia.com/corporate/SHIPROCKET2011_09092026151927_Post_AGM_Adv.pdf"
+    },
     {
       "id": "f937320515cb7",
       "ticker": "SKYGOLD",
@@ -19936,76 +20006,6 @@
       "category": "Receipt of Order",
       "title": "Man Industries (India) Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
       "url": "https://nsearchives.nseindia.com/corporate/MANINDS_18062026084918_MIIL_Order_annoucement_Rs1000_cr_18062026_.pdf"
-    },
-    {
-      "id": "fe1b6e1cea04d",
-      "ticker": "XPROINDIA",
-      "company": "Xpro India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-17T22:25:36.000Z",
-      "category": "Disclosure",
-      "title": "Xpro India Limited has informed the Exchange regarding 'Communication to Shareholders - Intimation on Tax Deduction on Dividend'.",
-      "url": "https://nsearchives.nseindia.com/corporate/XPROINDIA_17062026222515_Dividend_Communication_2026.pdf"
-    },
-    {
-      "id": "f7108f75e9128",
-      "ticker": "SHADOWFAX",
-      "company": "Shadowfax Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-06-17T20:33:20.000Z",
-      "category": "ESOP/ESOS/ESPS",
-      "title": "Shadowfax Technologies Limited has informed the Exchange regarding Allotment of 104208 Equity Shares of Rs. 10/- each to the eligible employees/ESOP holders",
-      "url": "https://nsearchives.nseindia.com/corporate/9900590024_17062026202948_ESOP_Allotment.pdf"
-    },
-    {
-      "id": "f74fc28dc51aa",
-      "ticker": "HARIOMPIPE",
-      "company": "Hariom Pipe Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-06-17T18:58:47.000Z",
-      "category": "Shareholders meeting",
-      "title": "Hariom Pipe Industries Limited has submitted the Exchange a copy Srutinizers report of Extraordinary General Meeting held on Jun 16, 2026. Further, the company has informed the Exchange regarding voting results.",
-      "url": "https://nsearchives.nseindia.com/corporate/hariompipes_17062026185605_VotingResult_Scrutiniser_Report.pdf"
-    },
-    {
-      "id": "fb5b4f5bbf614",
-      "ticker": "STLTECH",
-      "company": "Sterlite Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-06-17T18:53:06.000Z",
-      "category": "Shareholders meeting",
-      "title": "Sterlite Technologies Limited has submitted the Exchange a copy Srutinizers report of Postal Ballot. Further, the company has informed the Exchange regarding voting results.",
-      "url": "https://nsearchives.nseindia.com/corporate/STLTECH_17062026185149_SEintimation_SRandvotingresults_signedFinal.pdf"
-    },
-    {
-      "id": "fbb57a4ce4481",
-      "ticker": "E2E",
-      "company": "E2E Networks Limited",
-      "exchange": "NSE",
-      "date": "2026-06-17T18:42:54.000Z",
-      "category": "Disclosure",
-      "title": "E2E Networks Limited has informed the Exchange about Incorporation of wholly Owned Subsidiary in India.",
-      "url": "https://nsearchives.nseindia.com/corporate/E2E_17062026183614_Intimation_of_Sovcloud_Technologies.pdf"
-    },
-    {
-      "id": "f52296df2fa8a",
-      "ticker": "MOBIKWIK",
-      "company": "One Mobikwik Systems Limited",
-      "exchange": "NSE",
-      "date": "2026-06-17T17:48:35.000Z",
-      "category": "ESOP/ESOS/ESPS",
-      "title": "One Mobikwik Systems Limited has informed the Exchange regarding Allotment of 16,655 Shares pursuant to exercise of stock options under MobiKwik Employee Stock Option Plan 2014.",
-      "url": "https://nsearchives.nseindia.com/corporate/MOBIKWIK_17062026174811_Intimation_about_ESOP_allotment.pdf"
-    },
-    {
-      "id": "f9668ef71cca8",
-      "ticker": "STYLAMIND",
-      "company": "Stylam Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-06-17T16:36:03.000Z",
-      "category": "Change in Directors",
-      "title": "Stylam Industries Limited has informed the Exchange regarding Appointment of Mr. Adisak Thiaphairat as Non- Executive Director of the company w.e.f. Jun 17, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/STYLAMIND_17062026163555_Outcome.pdf"
     }
   ]
 }
