@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T18:11:42.480Z",
+  "generated_at": "2026-09-09T07:38:45.054Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,26 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f937320515cb7",
+      "ticker": "SKYGOLD",
+      "company": "SKY GOLD AND DIAMONDS LIMITED",
+      "exchange": "NSE",
+      "date": "2026-09-09T12:35:43.000Z",
+      "category": "Investor Presentation",
+      "title": "Please find enclosed herewith the intimation of cancellation of Investors meeting scheduled on 9th September 2026 due to unavoidable exigencies.",
+      "url": "https://nsearchives.nseindia.com/corporate/SKYGOLD_09092026123519_CancellationofMeet.pdf"
+    },
+    {
+      "id": "fd6f2da5ef891",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "exchange": "NSE",
+      "date": "2026-09-09T12:27:02.000Z",
+      "category": "Disclosure",
+      "title": "DEE Development Engineers Limited has informed the Exchange about Updates On The Monthly Execution And Order Position Of The Company",
+      "url": "https://nsearchives.nseindia.com/corporate/DDEL_09092026122157_NSEBSE_OrderBook.pdf"
+    },
     {
       "id": "fd2f6f48269e9",
       "ticker": "DAMCAPITAL",
@@ -19986,26 +20006,6 @@
       "category": "Change in Directors",
       "title": "Stylam Industries Limited has informed the Exchange regarding Appointment of Mr. Adisak Thiaphairat as Non- Executive Director of the company w.e.f. Jun 17, 2026.",
       "url": "https://nsearchives.nseindia.com/corporate/STYLAMIND_17062026163555_Outcome.pdf"
-    },
-    {
-      "id": "ff04cfb23e92b",
-      "ticker": "STYLAMIND",
-      "company": "Stylam Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-06-17T16:34:30.000Z",
-      "category": "Change in Directors",
-      "title": "Stylam Industries Limited has informed the Exchange regarding Appointment of Mr. Makoto Tanaka as Non- Executive Director of the company w.e.f. Jun 17, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/STYLAMIND_17062026163421_Outcome.pdf"
-    },
-    {
-      "id": "f6a3b6ccc837d",
-      "ticker": "STYLAMIND",
-      "company": "Stylam Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-06-17T16:32:28.000Z",
-      "category": "Change in Directors",
-      "title": "Stylam Industries Limited has informed the Exchange regarding Appointment of Mr. Koshi Suzuki as Non- Executive Director of the company w.e.f. Jun 17, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/STYLAMIND_17062026163220_Outcome.pdf"
     }
   ]
 }
