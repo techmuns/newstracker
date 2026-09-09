@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T18:02:51.017Z",
+  "generated_at": "2026-09-09T17:56:22.229Z",
   "portfolio": [
     {
       "company": "Monolithisch India Limited",
@@ -32,9 +32,9 @@
       "sector": "Capital Goods"
     },
     {
-      "company": "Xpro India Limited",
-      "ticker": "XPROINDIA",
-      "sector": "Capital Goods"
+      "company": "Acutaas Chemicals Limited",
+      "ticker": "ACUTAAS",
+      "sector": "Healthcare"
     },
     {
       "company": "Shadowfax Technologies Limited",
@@ -42,9 +42,9 @@
       "sector": "Services"
     },
     {
-      "company": "Acutaas Chemicals Limited",
-      "ticker": "ACUTAAS",
-      "sector": "Healthcare"
+      "company": "Xpro India Limited",
+      "ticker": "XPROINDIA",
+      "sector": "Capital Goods"
     },
     {
       "company": "Stylam Industries Limited",
@@ -62,14 +62,14 @@
       "sector": "Capital Goods"
     },
     {
-      "company": "Epigral Limited",
-      "ticker": "EPIGRAL",
-      "sector": "Chemicals"
-    },
-    {
       "company": "Saregama India Limited",
       "ticker": "SAREGAMA",
       "sector": "Media Entertainment & Publication"
+    },
+    {
+      "company": "Epigral Limited",
+      "ticker": "EPIGRAL",
+      "sector": "Chemicals"
     },
     {
       "company": "Omnitech Engineering Limited",

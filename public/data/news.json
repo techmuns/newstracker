@@ -1,13 +1,273 @@
 {
-  "generated_at": "2026-09-09T07:47:08.628Z",
+  "generated_at": "2026-09-09T18:03:41.063Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 83,
-    "watchlist": 511,
+    "watchlist": 518,
     "universe": 25,
-    "total": 536
+    "total": 543
   },
   "items": [
+    {
+      "id": "n8f03f4fa38ae",
+      "ticker": "MSECL",
+      "company": "Monarch Surveyors and Engineering Consultants Ltd",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Monarch Surveyors and Engineering gains on bagging Rs 2-cr work order | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/markets/capital-market-news/monarch-surveyors-and-engineering-gains-on-bagging-rs-2-cr-work-order-126082400282_1.html",
+      "source": "business-standard.com",
+      "date": "2026-09-09T18:01:21.208Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Monarch Surveyors wins Rs 2 crore work order.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n43239fac6240",
+      "ticker": "VAML",
+      "company": "Vedanta Aluminium Metal Limited",
+      "sector": "Metals & Mining",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Vedanta Group invests ₹21,000 crore on capacity expansion in FY’26 - The HinduBusinessLine",
+      "url": "https://www.thehindubusinessline.com/companies/vedanta-group-invests-21000-crore-on-capacity-expansion-in-fy26/article71445985.ece",
+      "source": "thehindubusinessline.com",
+      "date": "2026-09-09T18:00:35.971Z",
+      "topic": "Growth",
+      "keyword": "Capacity Expansion",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Vedanta Group invested Rs 21,000 crore in capacity expansion during FY26.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "nab4d4c5976c8",
+      "ticker": "UNIMECH",
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Unimech Aerospace Plans QIP Up To 7.5 Billion Rupees As Q1 Profit Hits 279M",
+      "url": "https://www.sahi.com/news/unimech-aerospace-plans-qip-up-to-7-5-billion-rupees-as-q1-profit-hits-279m-1449440-PE1_",
+      "source": "sahi.com",
+      "date": "2026-09-09T18:00:32.905Z",
+      "topic": "Money",
+      "keyword": "QIP",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Unimech Aerospace plans QIP to raise up to Rs 750 crore.",
+      "enriched": true
+    },
+    {
+      "id": "n49783e2c392d",
+      "ticker": "TRIVENI",
+      "company": "Triveni Engineering & Industries Limited",
+      "sector": "Fast Moving Consumer Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Triveni Engineering to Host Q1 FY27 Earnings Call on July 30 at 12 PM IST",
+      "url": "https://scanx.trade/stock-market-news/companies/triveni-engineering-to-host-q1-fy27-earnings-call-on-july-30/46269849",
+      "source": "scanx.trade",
+      "date": "2026-09-09T18:00:32.020Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Triveni Engineering scheduled earnings call for Q1 FY27 on July 30.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n078a78b8716c",
+      "ticker": "SHAILY",
+      "company": "Shaily Engineering Plastics Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Q1 2027 Shaily Engineering Plastics Ltd Earnings Call Transcript",
+      "url": "https://www.gurufocus.com/news/9026371/q1-2027-shaily-engineering-plastics-ltd-earnings-call-transcript",
+      "source": "gurufocus.com",
+      "date": "2026-09-09T17:59:49.410Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Shaily Engineering Plastics released Q1 2027 earnings call transcript.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "nabe161a13b1b",
+      "ticker": "PVRINOX",
+      "company": "PVR INOX Limited",
+      "sector": "Media Entertainment & Publication",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "PVR Inox Buyback 2026 Record Date, Price & Ratio Details - IPO Watch",
+      "url": "https://ipowatch.in/pvr-inox-buyback-2026/",
+      "source": "ipowatch.in",
+      "date": "2026-09-09T17:59:35.033Z",
+      "topic": "Money",
+      "keyword": "Buyback",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "PVR INOX announces buyback program with record date and pricing details set for 2026.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nddaa524773ad",
+      "ticker": "LAXMIDENTL",
+      "company": "Laxmi Dental Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Laxmi Dental Ltd (NSE:LAXMIDENTL) (Q1 2027) Earnings Call Highlights: Record Revenue and ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/laxmi-dental-ltd-nse-laxmidentl-150024610.html",
+      "source": "finance.yahoo.com",
+      "date": "2026-09-09T17:58:44.927Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Laxmi Dental reported record revenue in Q1 FY2027.",
+      "enriched": true,
+      "sources_count": 2
+    },
+    {
+      "id": "n67ac22cb7627",
+      "ticker": "IKS",
+      "company": "Inventurus Knowledge Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Inventurus Knowledge Solutions Q1 Results: Earnings call recording released",
+      "url": "https://scanx.trade/stock-market-news/companies/inventurus-knowledge-solutions-q1-results-earnings-call-recording-released/47557927",
+      "source": "scanx.trade",
+      "date": "2026-09-09T17:58:36.037Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Inventurus Knowledge Solutions released Q1 earnings call recording.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n848fe83ea99e",
+      "ticker": "GMMPFAUDLR",
+      "company": "GMM Pfaudler Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "GMM Pfaudler Ltd (BOM:505255) (Q1 2027) Earnings Call Highlights: Record Backlog and Strong ... By GuruFocus",
+      "url": "https://ca.investing.com/news/company-news/gmm-pfaudler-ltd-bom505255-q1-2027-earnings-call-highlights-record-backlog-and-strong--4796962",
+      "source": "ca.investing.com",
+      "date": "2026-09-09T17:58:23.813Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "GMM Pfaudler reported record backlog and strong Q1 FY2027 results.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "nfe58b5293414",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "DEE Development Engineers Maintains ₹2,428.79 Crore Order Book | Machine Maker - Latest Manufacturing News | Indian Manufacturing News - Latest Manufacturing News | Indian Manufacturing News - Machine Maker",
+      "url": "https://themachinemaker.com/news/dee-development-engineers-maintains-%E2%82%B92428-79-crore-order-book/",
+      "source": "themachinemaker.com",
+      "date": "2026-09-09T17:57:41.878Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "DEE Development Engineers holds order book worth ₹2,428.79 crore.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nf4a34eb5acc9",
+      "ticker": "BALUFORGE",
+      "company": "Balu Forge Industries Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Balu Forge acquires state-of-the-art ring rolling production line | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/markets/capital-market-news/balu-forge-acquires-state-of-the-art-ring-rolling-production-line-126090300141_1.html",
+      "source": "business-standard.com",
+      "date": "2026-09-09T17:57:30.044Z",
+      "topic": "Growth",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Balu Forge acquires new ring rolling production line to expand manufacturing capacity.",
+      "enriched": true,
+      "sources_count": 2
+    },
+    {
+      "id": "n22c980504bd4",
+      "ticker": "TANFACIND",
+      "company": "TANFAC Industries Ltd",
+      "sector": "Chemicals",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Anupam Rasayan: Completes ₹60.88 Crore Equity Share Acquisition in Tanfac | InvestyWise",
+      "url": "https://www.investywise.com/anupam-rasayan-india-ltd-acquisition-of-equity-shares-in-tanfac-industries/",
+      "source": "investywise.com",
+      "date": "2026-09-09T17:57:05.820Z",
+      "topic": "Deals",
+      "keyword": "Preferential Issue",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Anupam Rasayan completes ₹60.88 crore equity acquisition in Tanfac Industries.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n7c92953f5985",
+      "ticker": "KSHINTL",
+      "company": "KSH International Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "KSH International Commences Production at New 5,000 MTPA Copper Rod Facility in Pune",
+      "url": "https://scanx.trade/stock-market-news/companies/ksh-international-commences-production-at-new-pune-upcast-facility/47381382",
+      "source": "scanx.trade",
+      "date": "2026-09-09T17:56:29.454Z",
+      "topic": "Growth",
+      "keyword": "Earnings",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "KSH International starts production at new 5,000 ton copper rod plant in Pune.",
+      "enriched": true
+    },
     {
       "id": "ne93320bc01dd",
       "ticker": "RAJESH",
@@ -25,26 +285,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Rajesh Power Services reports Q1 revenue of ₹437 crore with order book standing at ₹3,741 crore.",
-      "enriched": true
-    },
-    {
-      "id": "ndbac1d406588",
-      "ticker": "MSECL",
-      "company": "Monarch Surveyors and Engineering Consultants Ltd",
-      "sector": "Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Monarch Surveyors and Engineering Consultants receives Rs 2-cr work order | Capital Market News - Business Standard",
-      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-and-engineering-consultants-receives-rs-2-cr-work-order-126082200734_1.html",
-      "source": "business-standard.com",
-      "date": "2026-09-09T07:38:05.085Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Monarch Surveyors receives ₹2 crore work order.",
-      "sources_count": 3,
       "enriched": true
     },
     {
@@ -106,46 +346,6 @@
       "enriched": true
     },
     {
-      "id": "nbe434ca4812a",
-      "ticker": "SHAILY",
-      "company": "Shaily Engineering Plastics Limited",
-      "sector": "Consumer Durables",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Shaily Engineering Plastics Ltd (BOM:501423) (Q1 2027) Earnings Call Highlights: Healthcare ...",
-      "url": "https://finance.yahoo.com/healthcare/articles/shaily-engineering-plastics-ltd-bom-010608466.html",
-      "source": "finance.yahoo.com",
-      "date": "2026-09-09T07:36:52.357Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Shaily Engineering Plastics held Q1 FY27 earnings call discussing healthcare segment performance.",
-      "enriched": true,
-      "sources_count": 2
-    },
-    {
-      "id": "n93b708a251dd",
-      "ticker": "LAXMIDENTL",
-      "company": "Laxmi Dental Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Q1 2027 Laxmi Dental Ltd Earnings Call Transcript",
-      "url": "https://www.gurufocus.com/news/9027891/q1-2027-laxmi-dental-ltd-earnings-call-transcript",
-      "source": "gurufocus.com",
-      "date": "2026-09-09T07:35:29.604Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Laxmi Dental held its Q1 2027 earnings call.",
-      "sources_count": 4,
-      "enriched": true
-    },
-    {
       "id": "nea7e455e4261",
       "ticker": "JYOTICNC",
       "company": "Jyoti CNC Automation Limited",
@@ -162,26 +362,6 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Jyoti CNC released investor presentation for earnings call.",
-      "enriched": true
-    },
-    {
-      "id": "n3b6b1b2aaac4",
-      "ticker": "GMMPFAUDLR",
-      "company": "GMM Pfaudler Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Q1 2027 GMM Pfaudler Ltd Earnings Call Transcript",
-      "url": "https://www.gurufocus.com/news/9029409/q1-2027-gmm-pfaudler-ltd-earnings-call-transcript",
-      "source": "gurufocus.com",
-      "date": "2026-09-09T07:34:57.606Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "GMM Pfaudler released Q1 2027 earnings call transcript discussing quarterly financial performance.",
-      "sources_count": 3,
       "enriched": true
     },
     {
@@ -204,26 +384,6 @@
       "enriched": true
     },
     {
-      "id": "ne488730d156b",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "DEE Development Engineers Maintains Strong ?2,428.79 Crore Order Book in July 2026",
-      "url": "https://smestreet.in/infocus/dee-development-engineers-maintains-strong-242879-crore-order-book-in-july-2026-12249461",
-      "source": "smestreet.in",
-      "date": "2026-09-09T07:34:14.150Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "DEE Development Engineers maintains strong order book of Rs 2,428.79 crore as of July 2026.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "n69837a4de97b",
       "ticker": "CONCORDBIO",
       "company": "Concord Biotech Limited",
@@ -241,26 +401,6 @@
       "mood": "positive",
       "takeaway": "Concord Biotech reported 26% growth in Q1FY27 despite missing earnings expectations.",
       "enriched": true
-    },
-    {
-      "id": "n49a4dd1146c8",
-      "ticker": "BALUFORGE",
-      "company": "Balu Forge Industries Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Balu Forge Industries acquires major ring rolling production line | Capital Market News - Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/balu-forge-industries-acquires-major-ring-rolling-production-line-126090300492_1.html",
-      "source": "business-standard.com",
-      "date": "2026-09-09T07:33:59.140Z",
-      "topic": "Growth",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Balu Forge Industries acquired a major ring rolling production line to expand capacity.",
-      "enriched": true,
-      "sources_count": 2
     },
     {
       "id": "n4a9111ddc120",
@@ -1515,7 +1655,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Unimech Aerospace approved ₹750 crore QIP fundraising and ₹5 crore investment.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -2210,26 +2350,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "PVR Inox approved Rs 300 crore share buyback at Rs 1,450 per share.",
-      "sources_count": 5,
-      "enriched": true
-    },
-    {
-      "id": "n4c08f59fe1d1",
-      "ticker": "PVRINOX",
-      "company": "PVR INOX Limited",
-      "sector": "Media Entertainment & Publication",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "PVR Inox Buyback Record Date 2026, Acceptance Ratio, Profit Guidance",
-      "url": "https://ipocentral.in/pvr-inox-buyback-record-date-2026-price-entitlement-ratio/",
-      "source": "ipocentral.in",
-      "date": "2026-09-04T07:33:44.795Z",
-      "topic": "Money",
-      "keyword": "Buyback",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "PVR INOX announces buyback with record date set for 2026.",
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -2597,7 +2718,7 @@
       "mood": "positive",
       "takeaway": "Rajesh Power Services wins Rs 653 crore underground power distribution order in Gujarat.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 4
     },
     {
       "id": "n17cc3ebb93f8",
@@ -3178,25 +3299,6 @@
       "enriched": true
     },
     {
-      "id": "n62f61b60680d",
-      "ticker": "VAML",
-      "company": "Vedanta Aluminium Metal Limited",
-      "sector": "Metals & Mining",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Vedanta denies reports of stake sale in Vedanta Ltd, Vedanta Aluminium or group companies - BusinessToday",
-      "url": "https://www.businesstoday.in/latest/corporate/story/vedanta-denies-reports-of-stake-sale-in-vedanta-ltd-vedanta-aluminium-metal-or-group-companies-551543-2026-08-26",
-      "source": "businesstoday.in",
-      "date": "2026-09-03T20:34:40.270Z",
-      "topic": "Other",
-      "keyword": "Stake sale",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Vedanta officially denies media reports about stake sale in group companies.",
-      "enriched": true
-    },
-    {
       "id": "n5ac392ce005b",
       "ticker": "VAML",
       "company": "Vedanta Aluminium Metal Limited",
@@ -3213,6 +3315,25 @@
       "importance": "low",
       "mood": "positive",
       "takeaway": "Vedanta Aluminium launches global digital metal marketplace platform for trading.",
+      "enriched": true
+    },
+    {
+      "id": "n62f61b60680d",
+      "ticker": "VAML",
+      "company": "Vedanta Aluminium Metal Limited",
+      "sector": "Metals & Mining",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Vedanta denies reports of stake sale in Vedanta Ltd, Vedanta Aluminium or group companies - BusinessToday",
+      "url": "https://www.businesstoday.in/latest/corporate/story/vedanta-denies-reports-of-stake-sale-in-vedanta-ltd-vedanta-aluminium-metal-or-group-companies-551543-2026-08-26",
+      "source": "businesstoday.in",
+      "date": "2026-09-03T20:34:40.270Z",
+      "topic": "Other",
+      "keyword": "Stake sale",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Vedanta officially denies media reports about stake sale in group companies.",
       "enriched": true
     },
     {
@@ -7475,6 +7596,25 @@
       "enriched": true
     },
     {
+      "id": "n45dae976c63a",
+      "ticker": "TRIVENI",
+      "company": "Triveni Engineering & Industries Limited",
+      "sector": "Fast Moving Consumer Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Earnings call transcript: Triveni Engineering posts q1 fy 2027 profit rebound",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQkJtalIzQ2dlQUpIOEZ6SDNfTzV0U1EtazF1SmpHUXd4ZG9WMkJQdmpsMTd6UExrd3ZHZ3FWb19GTnZFekJnT0YzQUdnWFRCWTZpRXM5dkRna3R5MjY4eXJCNnprQUR5aUhMSU03bUhJWTI2czFCUWMyeFhqUWNxWHVkUmdOQ0F0ZDk2VTc0RGtJb19ETUthZEhlb3EzZUx5SVc0X1JSRUhBTmJCb0FzNkF2SDRjR0E1TDJoMmhxWkU0SW8wbkxFendCYUY?oc=5",
+      "source": "Investing.com",
+      "date": "2026-07-30T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Triveni Engineering reports profit rebound in Q1 FY2027.",
+      "enriched": true
+    },
+    {
       "id": "neac501c4f27e",
       "ticker": "VAML",
       "company": "Vedanta Aluminium Metal Limited",
@@ -7567,25 +7707,6 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Tenneco Clean Air India schedules Q1 earnings call for August 6.",
-      "enriched": true
-    },
-    {
-      "id": "n45dae976c63a",
-      "ticker": "TRIVENI",
-      "company": "Triveni Engineering & Industries Limited",
-      "sector": "Fast Moving Consumer Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Earnings call transcript: Triveni Engineering posts q1 fy 2027 profit rebound",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQkJtalIzQ2dlQUpIOEZ6SDNfTzV0U1EtazF1SmpHUXd4ZG9WMkJQdmpsMTd6UExrd3ZHZ3FWb19GTnZFekJnT0YzQUdnWFRCWTZpRXM5dkRna3R5MjY4eXJCNnprQUR5aUhMSU03bUhJWTI2czFCUWMyeFhqUWNxWHVkUmdOQ0F0ZDk2VTc0RGtJb19ETUthZEhlb3EzZUx5SVc0X1JSRUhBTmJCb0FzNkF2SDRjR0E1TDJoMmhxWkU0SW8wbkxFendCYUY?oc=5",
-      "source": "Investing.com",
-      "date": "2026-07-30T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Triveni Engineering reports profit rebound in Q1 FY2027.",
       "enriched": true
     },
     {
@@ -7955,6 +8076,25 @@
       "enriched": true
     },
     {
+      "id": "ncd76d2e18506",
+      "ticker": "BLACKBUCK",
+      "company": "BLACKBUCK LIMITED",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "BlackBuck schedules Q1 FY27 earnings call for July 29",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ0ExNkd4YWlYSko5SVV0dnQzMXlEWnNGYjl6Y20wdEFxQnp0OUdsQzNOWmZwcjhldmpMbE9UbndmQUlMeFlzb0FYTElHZk52UENQdEd3d1F2eGRRTU92REc4ZGY1OU1sQUl3cVJKMDVZVTQ4UFFaWk1hRGJWbnZtT0tZaEpqUlF2aUJNdC1zZDM5Tm92MzdHRFpqMzRmc1FzQ0RJbGN6Tk1yaVdsQXl3?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-07-23T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "BlackBuck scheduled earnings call for July 29 to discuss Q1 FY27 results.",
+      "enriched": true
+    },
+    {
       "id": "n7cd6bee08e14",
       "ticker": "MEESHO",
       "company": "Meesho Limited",
@@ -7971,6 +8111,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Meesho reports Q1 2027 growth with improved cost management and operational efficiency.",
+      "enriched": true
+    },
+    {
+      "id": "n85dfaae343c0",
+      "ticker": "VBL",
+      "company": "Varun Beverages Limited",
+      "sector": "Fast Moving Consumer Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Varun Beverages to host Q2 earnings call on July 28",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaExSVER0NllkR1o2bVU2ZlBIUlVKbGhWYWhDMWFzS3R0dC1scEtJZVk3dHNqbFZuMFA2TERkOEdnN2VyWFVscDNCOWFqMlNpM2RfYnNBZU1VZjJaRUxIY1REdDFyUXcyV0tndUNLby1SSVJYQTN1ZkNfVnkzb1EwMUFsc2I3TDFRMDQydkhrWWliM1ZnVzlaZEJ5WXdXTHhYMklVTHdBM3RVN0VaSzdFSTRuZmRtWlBVeG9kc1FjdWFKaC1IZlI2ZnBsaVRULXU1Vy0xTUNn?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-07-21T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Varun Beverages to host Q2 earnings call on July 28.",
       "enriched": true
     },
     {
@@ -8149,27 +8308,6 @@
       "enriched": true
     },
     {
-      "id": "n88c600eb9f2a",
-      "ticker": "OMNI",
-      "company": "Omnitech Engineering Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Omnitech Engineering Limited (OMNI.NS) Mar 2026 Earnings: Steady Performance Amid Modest Revenue Growth",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMFBIZVplOWRnWFpqSHl0RzZFdzQxYWJ6SFI3MEpoSGxNazh3VmRrOGJia3dPaU1pR3E0Q3VfTkZISEZmNHRaOVdSVEt2MUttdVJSTzlnTTZLbzJTcHRrT21SVXJ2N3hjYmQ0UFdEZ0xfelgzYUFWWEpTeFd1U3NXSURpZXFWRjJKYXE0S2pIbUZhbm0wUUQyRDl2dlp1enpGR2NwWHI4aVRfY01aTEowSkNiRldQbml1eXM5U1dpZEZ2b2VId0daNUNNUWlBdU94OE5wSlBqYW8?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-13T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Omnitech Engineering reports steady March 2026 quarter with modest revenue growth.",
-      "sources_count": 3,
-      "enriched": true
-    },
-    {
       "id": "nf74e489caebd",
       "ticker": "SHADOWFAX",
       "company": "Shadowfax Technologies Limited",
@@ -8264,6 +8402,45 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Scoda Tubes Q4 revenue reached ₹123.57 crore with profit of ₹1.05 per share.",
+      "enriched": true,
+      "sources_count": 2
+    },
+    {
+      "id": "n88fb1944c827",
+      "ticker": "TRIVENI",
+      "company": "Triveni Engineering & Industries Limited",
+      "sector": "Fast Moving Consumer Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "TRIVENI Mar 2026 Earnings: Solid Performance Anchored by Sugar and Engineering Segments - Earnings Turnaround",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWTZUQ3FsZHliak8xRm9JTXdkeUxBREdOaTdvRkhqZjFyaDNfam5RRFRpRVNmemV2SlQxVk9aOGJNQlBsdkh0TDlKd0FMSUVrb21XeUpWZVRTeXFfSkF2b0k1UjVxcXpBeTBNWnZYTl9qZzhndF94a2F1bU5vSnAxSWJrWU1QQVZZanJUWDlSbzU0UWxyUjdPbUVQMnRMQ2xrTmRnTFRnb0didG5TUzF5NDhFcERnTm40LWZ4TE9nSGFaeUJkUkZV?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-11T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Triveni Engineering reported solid March 2026 results driven by strong sugar and engineering segment performance.",
+      "enriched": true
+    },
+    {
+      "id": "nd11101502750",
+      "ticker": "TRIVENI",
+      "company": "Triveni Engineering & Industries Limited",
+      "sector": "Fast Moving Consumer Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "TRIVENI.NS Mar 2026 Earnings: Robust Revenue and Margin Performance Amid Agricultural Sector Momentum",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaHBxYWE1enE3TTZzOTdxVU4xV0E0aGRXaTkyOGEzdDlqc05tOVRwc003OFFFcmZCWGFRcDRvek5rdDBpbkIwczhxX3ZmeGZuWXVaOVNlY2lSV2lraDAyR010MlZRUU5xa01zTDRMQmRaVHNpdG0zY1hEU3VraGVmckFjMXYxWEduQnl2aURNVkdpN0pMR1draEZEN240WFVBLXkyVXVrdmtNWTg2NmtKckt6VnFjYzJReFIwMTBIeGpUZ2NUcTNvQzNUejR4M3l1Mm1OWFZOWnQ?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-11T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Triveni Engineering reported strong revenue and margin performance in March 2026 quarter.",
       "enriched": true
     },
     {
@@ -8345,64 +8522,6 @@
       "enriched": true
     },
     {
-      "id": "n1379ce46a7be",
-      "ticker": "ONESOURCE",
-      "company": "Onesource Specialty Pharma Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Onesource Specialty Pharma Mar 2026 Earnings: EPS of ₹1.87 on Revenue of ₹419 Crore, Stock Holds Steady - Profit Guidance Range",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZ2Q4Xy1PNXJ3bnh4LUtlNDRMY3BKMVNjS0t2OGVTTEJwTS0xZmpOejRwZU16aTFzbVcwZmJnaWRFYUJhVG5rUjlnSHMwZTFXODN4MmRhd2VuR3lkU0l2Ymp4Y2pzdHBtbkpMRWNrR0xISGNZNUI4TWJ4MmZmaVFtckFhX2FSenByN2lVYy1wYjdhczB2NFQyNlZ6QmozZ3NiQl9zbzNubnpkdnFqVlZ6aWMyRDV4Y1NySUFkTDBmbVlWdEczLVhOd3hWMHpkSFZnem95ak5yVQ?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-11T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Onesource Specialty Pharma reports March 2026 quarter with revenue of ₹419 crore and EPS of ₹1.87.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n88fb1944c827",
-      "ticker": "TRIVENI",
-      "company": "Triveni Engineering & Industries Limited",
-      "sector": "Fast Moving Consumer Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "TRIVENI Mar 2026 Earnings: Solid Performance Anchored by Sugar and Engineering Segments - Earnings Turnaround",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWTZUQ3FsZHliak8xRm9JTXdkeUxBREdOaTdvRkhqZjFyaDNfam5RRFRpRVNmemV2SlQxVk9aOGJNQlBsdkh0TDlKd0FMSUVrb21XeUpWZVRTeXFfSkF2b0k1UjVxcXpBeTBNWnZYTl9qZzhndF94a2F1bU5vSnAxSWJrWU1QQVZZanJUWDlSbzU0UWxyUjdPbUVQMnRMQ2xrTmRnTFRnb0didG5TUzF5NDhFcERnTm40LWZ4TE9nSGFaeUJkUkZV?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-11T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Triveni Engineering reported solid March 2026 results driven by strong sugar and engineering segment performance.",
-      "enriched": true
-    },
-    {
-      "id": "nd11101502750",
-      "ticker": "TRIVENI",
-      "company": "Triveni Engineering & Industries Limited",
-      "sector": "Fast Moving Consumer Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "TRIVENI.NS Mar 2026 Earnings: Robust Revenue and Margin Performance Amid Agricultural Sector Momentum",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaHBxYWE1enE3TTZzOTdxVU4xV0E0aGRXaTkyOGEzdDlqc05tOVRwc003OFFFcmZCWGFRcDRvek5rdDBpbkIwczhxX3ZmeGZuWXVaOVNlY2lSV2lraDAyR010MlZRUU5xa01zTDRMQmRaVHNpdG0zY1hEU3VraGVmckFjMXYxWEduQnl2aURNVkdpN0pMR1draEZEN240WFVBLXkyVXVrdmtNWTg2NmtKckt6VnFjYzJReFIwMTBIeGpUZ2NUcTNvQzNUejR4M3l1Mm1OWFZOWnQ?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-11T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Triveni Engineering reported strong revenue and margin performance in March 2026 quarter.",
-      "enriched": true
-    },
-    {
       "id": "n946f4c4b964a",
       "ticker": "LAXMIDENTL",
       "company": "Laxmi Dental Limited",
@@ -8420,25 +8539,6 @@
       "mood": "positive",
       "takeaway": "Laxmi Dental Q2 revenue grew 14.77% with earnings of ₹5.26 per share.",
       "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n32495edc11e4",
-      "ticker": "SBCL",
-      "company": "Shivalik Bimetal Controls Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "SBCL.NS Mar 2026 Earnings: Modest Revenue Performance and EPS Delivery Amid Steady Demand - Profit Warning Alert",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZlVlUGtFWGs2TFpjTjRTLUhwZGpRZzRYSzZxdkY3YUk4dk5xWV96dllDWFJZRDd6bWNyOWFvemh6RlQ5Q1NpSk5mT3BBWU9JbHZWZ0ZPSEJhc1BuVnUwcnNSVU1aYzhEWFZHamloQXRjdjNHWmd3Qnd4bGNzZG1WbzRURUNxVlZ0ZmlieWZ6X2lHS0FYZnFrc29nekZxNnlhdkllNzl4Y2pFMTFPQ0NYNHNNLTY3Vjk4ZkRQOVYwM1VRa3JvTlo3NA?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-10T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Shivalik Bimetal Controls delivers modest March 2026 quarter performance amid steady demand.",
       "enriched": true
     },
     {
@@ -8672,7 +8772,7 @@
       "mood": "positive",
       "takeaway": "Sai Life Sciences posted strong Q2 FY2026 results with 29% revenue growth.",
       "enriched": true,
-      "sources_count": 2
+      "sources_count": 3
     },
     {
       "id": "n78565fcd0d9d",
@@ -8691,7 +8791,8 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Billionbrains Garage Ventures reports Q2 2026 earnings.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n186043d3beaa",
@@ -8848,6 +8949,25 @@
       "enriched": true
     },
     {
+      "id": "n560b6dd11e0b",
+      "ticker": "UNIMECH",
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "UNIMECH.NSE Q2 2026 Earnings: Revenue Dips Slightly, Profitability Remains Steady - Surprise Factor Analysis",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaDlGQ2lTam1lV054UzFMZUZRc2lkZDhRVjR4UmVoMjlRaG5kU0FwRk1LYTE2WGN1RWJqcEFZc1JrZHJ6M2lFWVVwLVdFNTVyX2ZzblcyM1htRXNXQkJoa2VjSHVBV2puWDdqejFTbEFkQTVLR3I3VjBkUmVhMHhlcVB4eDMyNjdESnU4Ny1WX2drWmZRU245SlRqTXFKVUF3TnZhRGhaazh3VThBTVpXUy1ObkdrTERPQWhVMw?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-03T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Unimech Aerospace Q2 revenue slightly down but profits remain stable.",
+      "enriched": true
+    },
+    {
       "id": "nbfd0d129d1cb",
       "ticker": "SKYGOLD",
       "company": "SKY GOLD AND DIAMONDS LIMITED",
@@ -8865,25 +8985,6 @@
       "mood": "positive",
       "takeaway": "Sky Gold reported March 2026 revenue crossing ₹1,300 crore with steady EPS.",
       "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n560b6dd11e0b",
-      "ticker": "UNIMECH",
-      "company": "Unimech Aerospace and Manufacturing Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "UNIMECH.NSE Q2 2026 Earnings: Revenue Dips Slightly, Profitability Remains Steady - Surprise Factor Analysis",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaDlGQ2lTam1lV054UzFMZUZRc2lkZDhRVjR4UmVoMjlRaG5kU0FwRk1LYTE2WGN1RWJqcEFZc1JrZHJ6M2lFWVVwLVdFNTVyX2ZzblcyM1htRXNXQkJoa2VjSHVBV2puWDdqejFTbEFkQTVLR3I3VjBkUmVhMHhlcVB4eDMyNjdESnU4Ny1WX2drWmZRU245SlRqTXFKVUF3TnZhRGhaazh3VThBTVpXUy1ObkdrTERPQWhVMw?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-03T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Unimech Aerospace Q2 revenue slightly down but profits remain stable.",
       "enriched": true
     },
     {
@@ -9064,26 +9165,6 @@
       "enriched": true
     },
     {
-      "id": "n4b1427d64dd8",
-      "ticker": "EPIGRAL",
-      "company": "Epigral Limited",
-      "sector": "Chemicals",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Epigral Mar 2026 Earnings: Stable EPS and Revenue Amid Market Headwinds - Return On Capital",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUVZzR2M3VUUwZlhQOWR1bVRqNkhtU21tM2Q3djFfQ0pmZlBUUDdRTEZuMXJqVFhLN1psTE5aMlhGQzAtalVsS3RYSTBEMHZRSDE5bmZxbVB2LXZ2OElTU0VKT0lTOG15STgtRnRDc0lROWFRQV80MkhDQjBmLUszOEZncW03Z053MzZqTVZfS2VxdjFaOUdyeTNEMmZ6UUc2TnRXcGJCMUNjVzJSLVhRaU1R?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-01T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Epigral reported stable earnings per share and revenue in Q4 amid market headwinds.",
-      "enriched": true
-    },
-    {
       "id": "n70b4aa0f88ed",
       "ticker": "CARTRADE",
       "company": "Cartrade Tech Limited",
@@ -9223,6 +9304,25 @@
       "enriched": true
     },
     {
+      "id": "n575838d25bf2",
+      "ticker": "PDSL",
+      "company": "PDS Limited",
+      "sector": "Textiles",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "PDSL Q2 FY2026 Earnings: Revenue Growth Moderates Amidst Market Headwinds, EPS Holds Steady - SaaS Earnings Trends",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdGh4clpKSVZDX2Njd3pSaE9Pa1c3bFlpeXJOY2RqUDFweWd0V25wMENxUmhWR0hkN29VSEdVRmJPUmRvTTh1Nzd0OTJWbFRPNHVrVHdjbkxSaTMzamNIRldMVGJEaG5zODRVVVVBMVlzejJfVGcxUld3MklRWXQ0UVZnMFpwcUMwS3pxcDZMdlV2dUloOXR0OTllYXNNZ3lqc0hRMlVtNkZBLW53ZGJuWl9tTkJQT0xJWUhNVEFnM3c1Tnk0dGZGeDRzdw?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-06-29T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "PDS Limited's Q2 revenue growth slowed amid market challenges, but earnings per share remained stable.",
+      "enriched": true
+    },
+    {
       "id": "n6316be0cf806",
       "ticker": "MANINDS",
       "company": "Man Industries (India) Limited",
@@ -9356,6 +9456,25 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Tenneco Clean Air India posts double-digit revenue growth in Q2 2026, but margin concerns persist.",
+      "enriched": true
+    },
+    {
+      "id": "n62b5b786e12f",
+      "ticker": "JYOTICNC",
+      "company": "Jyoti CNC Automation Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "JYOTICNC Q2 2026 Earnings: Double-Digit Revenue Growth Supported by Strong Profitability - EPS Estimate Trend",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR3YzcW4tZW1qeGl1UHhIUFJiVnhETldqUmpYWDBKR2NZTFo2clNUdEVNTm5YbzFOSk95cGhrdGhjUjVuVVNBVzlYa1V6RXdZMGNGZjAyYjlMcjc0emhXb2ZzcGVtVEpwSXY3eVlhNXlCSUhNS05TLUY0cHVkUkRjdXl1Mno1akhuUkFWaU8wRFRfMFhPOExDYVRkT2p0aHpHc2NUUURwZ2RUcmZmS3FsMzktMXRYdHBxR2loUl80Q2pfTDZFMGlz?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-06-27T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Jyoti CNC posted double-digit revenue growth in Q2 2026 with strong profitability.",
       "enriched": true
     },
     {
@@ -9515,22 +9634,22 @@
       "enriched": true
     },
     {
-      "id": "nfd6fea151905",
-      "ticker": "SETL",
-      "company": "Standard Engineering Technology Limited",
-      "sector": "Capital Goods",
+      "id": "n018a57540f97",
+      "ticker": "LGEINDIA",
+      "company": "LG Electronics India Limited",
+      "sector": "Consumer Durables",
       "scope": [
         "watchlist"
       ],
-      "title": "SETL Mar 2026 Earnings: Modest Profitability Amidst Steady Revenue - Profit Recovery Report",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVE5SeEpzMHBVSF83M0RiaTBNY2tZaTNTMDdCZjlvMUtDX2FsMV9yQlJFY2Q4ZVBfekdRWmRVUFNSbXNiei01MWVQMTh0dnBPRzRuOVctLS1tb3VZMnlubU5heHlJZ20yWVZZX0ZudXY0UnpiTG5VZmxNQzJ0YnlaaWEyZFNkSUZfclI0Y3ZFdGJKVFVMZVpDV1BSbkN6TUlmMFdLbHA3X2JwZw?oc=5",
+      "title": "LGEINDIA Q2 2026 Earnings: Flat Revenue Growth and Stable EPS Amid Tepid Demand - Energy Earnings Report",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR3NyamdkNkRURDAtd0h5QzA2SjNQcUVIS1NmaWJtUEYxRlN2NnExS2hiOWhwNjM1V1VJSjlDLWRNZlJ2Z2c2RnFTLVR5NzhYSWF1aTdRdXRscm9nYzd3ZElpdVgtMmJLMld5M1Btc094TlFudXlsZEJERFcxbDdsZXlHNndMY0M0aFdFdjJJalppVnJMNlJhSW1EN285anVUaWxFb0x6LVRBZ0ZfLUx1WmVFYlE5SWtiOVNuNg?oc=5",
       "source": "vinanet.vn",
       "date": "2026-06-24T07:00:00.000Z",
       "topic": "Money",
       "keyword": "Earnings",
       "importance": "low",
       "mood": "neutral",
-      "takeaway": "Standard Engineering Technology reported modest profitability with steady revenue.",
+      "takeaway": "LG Electronics India reported Q2 FY2026 with flat revenue growth and stable EPS.",
       "enriched": true
     },
     {
@@ -9550,25 +9669,6 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Court disposed of litigation involving Bharat Coking Coal.",
-      "enriched": true
-    },
-    {
-      "id": "n018a57540f97",
-      "ticker": "LGEINDIA",
-      "company": "LG Electronics India Limited",
-      "sector": "Consumer Durables",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "LGEINDIA Q2 2026 Earnings: Flat Revenue Growth and Stable EPS Amid Tepid Demand - Energy Earnings Report",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR3NyamdkNkRURDAtd0h5QzA2SjNQcUVIS1NmaWJtUEYxRlN2NnExS2hiOWhwNjM1V1VJSjlDLWRNZlJ2Z2c2RnFTLVR5NzhYSWF1aTdRdXRscm9nYzd3ZElpdVgtMmJLMld5M1Btc094TlFudXlsZEJERFcxbDdsZXlHNndMY0M0aFdFdjJJalppVnJMNlJhSW1EN285anVUaWxFb0x6LVRBZ0ZfLUx1WmVFYlE5SWtiOVNuNg?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-24T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "LG Electronics India reported Q2 FY2026 with flat revenue growth and stable EPS.",
       "enriched": true
     },
     {
@@ -9691,26 +9791,6 @@
       "enriched": true
     },
     {
-      "id": "nd826fd292385",
-      "ticker": "MANINDS",
-      "company": "Man Industries (India) Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "MANINDS Mar 2026 Earnings: Strong EPS of ₹9.36 on Revenue of ₹1,157 Crore - Pretax Income Report",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV3ZoQmVvS0xJazNFVTdJQi1McjJTZFJKM2pKTU9FZ3MtczFFSXZ3dnZBaFpqVFZZdHhCaXdrMXZsY0J4UmJtcGJLT1dGMzcyOXo4dlpBMmZjNUFUeVRtYWFkbHdpYWc1cFM5dGItamlhT1pvd241Znk0WlI5OG1wQkRsSzdXd01XbllrZEs2Q3docHF6LXRKNG1wVGsyZEdFdWcxZFd5aHlvRGdYTFE?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-22T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Man Industries posted strong earnings of ₹9.36 per share on ₹1,157 crore revenue.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "n3705a12b092f",
       "ticker": "LGEINDIA",
       "company": "LG Electronics India Limited",
@@ -9730,23 +9810,22 @@
       "enriched": true
     },
     {
-      "id": "n6e85ee23d4d9",
-      "ticker": "GANESHBE",
-      "company": "Ganesh Benzoplast Limited",
-      "sector": "Oil Gas & Consumable Fuels",
+      "id": "n111ce9e7815f",
+      "ticker": "IKS",
+      "company": "Inventurus Knowledge Solutions Limited",
+      "sector": "Information Technology",
       "scope": [
         "watchlist"
       ],
-      "title": "GANESHBE Mar 2026 Earnings: Modest EPS of ₹1.7 on Revenue of ₹73 Crore; Stock Edges Up 1.66% - Cash Flow Report",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONlRvQWgya2ZadHNIZFJCTnhnMlUwUXptMWtaUGFlNGh3QlVqOV9SeDAxYy1icVI3TGdxeERNS2lWMmtYRHprc1YwZkZFdC1nQWdRQ2Fac3dKcU9iOGxyRHgwVHFRVVlWeGJ3cWN2elAzbXlTdGZaMzEzZmVCc0pPQWR4VDNISjFmYnAwUUdYVnhmWUxRbXpNMDExSjdkM3h2WWdselVUbi0xS3kxUmZDX2VfQ1ZxeWtiVzJfdHNnZWZqdHFQ?oc=5",
+      "title": "Inventurus Knowledge Solutions Q2 2026 Earnings: Robust Revenue Growth Amid Marginal Stock Dip - Analyst Coverage Count",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdGF4Rndnc19ubDlPNWlQZTRFZkJySS02RnJjSS1TNkJlQXAxdzRZeW9XY1NtUGhyd3FXMVVTbUR5RXhBRDdRUnNwYkRtV05BcE1GOTZLSF9UempWWEdVYTl6M3A3RHVnSTZRbzhodHRTcE5nYmtQQ3pjenphODNnUlN2WnMyM1AzYjRteW4tdWQyNWRsdXVtZDlyMEFRXzJYc2VKdzVoY1lsaXNiNUN5RkkzdHZyR1BpeDVfUXlNNHZJTlZfOHNYZ19qMktfWUdK?oc=5",
       "source": "vinanet.vn",
-      "date": "2026-06-22T07:00:00.000Z",
+      "date": "2026-06-21T07:00:00.000Z",
       "topic": "Money",
       "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Ganesh Benzoplast reported modest earnings of ₹1.7 per share on ₹73 crore revenue.",
-      "sources_count": 2,
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Inventurus Knowledge Solutions showed robust quarterly revenue growth.",
       "enriched": true
     },
     {
@@ -9770,25 +9849,6 @@
       "sources_count": 2
     },
     {
-      "id": "n111ce9e7815f",
-      "ticker": "IKS",
-      "company": "Inventurus Knowledge Solutions Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Inventurus Knowledge Solutions Q2 2026 Earnings: Robust Revenue Growth Amid Marginal Stock Dip - Analyst Coverage Count",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdGF4Rndnc19ubDlPNWlQZTRFZkJySS02RnJjSS1TNkJlQXAxdzRZeW9XY1NtUGhyd3FXMVVTbUR5RXhBRDdRUnNwYkRtV05BcE1GOTZLSF9UempWWEdVYTl6M3A3RHVnSTZRbzhodHRTcE5nYmtQQ3pjenphODNnUlN2WnMyM1AzYjRteW4tdWQyNWRsdXVtZDlyMEFRXzJYc2VKdzVoY1lsaXNiNUN5RkkzdHZyR1BpeDVfUXlNNHZJTlZfOHNYZ19qMktfWUdK?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-21T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Inventurus Knowledge Solutions showed robust quarterly revenue growth.",
-      "enriched": true
-    },
-    {
       "id": "n1c7d00af520d",
       "ticker": "SKYGOLD",
       "company": "SKY GOLD AND DIAMONDS LIMITED",
@@ -9806,6 +9866,26 @@
       "mood": "neutral",
       "takeaway": "Sky Gold March quarter shows stable performance despite gold price volatility.",
       "enriched": true
+    },
+    {
+      "id": "nea68080db3d2",
+      "ticker": "SETL",
+      "company": "Standard Engineering Technology Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Standard Engineering Technology Mar 2026 Earnings: Modest EPS of ₹0.44 on Revenue of ₹78.22 Crore",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWjl5VFZHaHZpTk5KODgzdjJsTkJLeWd0RGJnLW1XdnJqczlTUkdyRjBlejZhb01YM0JiNzBPNlRLNGNtbTFtWGlqUlFhOGllZGxWUTdPYzRoUGJ5cFlZdG1xVl9MWFBudXAxY2pWVEY4dVRHMDJyaTNzUjIwdnJWcjZSRHVDYjNhRTNad1B3M1l3ajB1RlZybXNaUWpuV1FOUFNBelpEWC1VcjVianRleHE3OWh5Ynpjc2lIRFJOcGhmNmpvbE5EbWQ2SGQyZw?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-06-19T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Standard Engineering Technology reported modest earnings of ₹0.44 per share on ₹78 crore revenue for March 2026.",
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n6f798f6498b4",
@@ -9960,6 +10040,25 @@
       "enriched": true
     },
     {
+      "id": "n39eca6fe2d37",
+      "ticker": "CANFINHOME",
+      "company": "Can Fin Homes Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "CANFINHOME Mar 2026 Earnings: EPS of ₹25.96 Reflects Steady Operational Performance - Quarterly Earnings",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcG5PVzJrZEZOUVlKbm02ZTJ0ekhLNlBKeF9RMEZVZVpQNGxPN0MtNEVocTNFWE5VbkFYZkY1c1ZCaW4wNnVqd2lDR2xXN1RIdGpxMlNuM1ZCZnY4MFd5cVNqaWpJMVlmMnU5TnJMTzJNLXNLTElTQ1Jmb0ZLTWtIMC1acFFqMDY5TmhadmZVQXBPUnlWN01rS1p4ZFRoaHVJMVh6T2F6cktwWV9LN0UyWDhGQkxWUkJ5YlFQMkdPNA?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-06-15T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Can Fin Homes posted steady March 2026 earnings with ₹25.96 per share.",
+      "enriched": true
+    },
+    {
       "id": "nd2295cf0ff10",
       "ticker": "DENTALKART",
       "company": "Vasa Denticity Limited",
@@ -10076,6 +10175,26 @@
       "enriched": true
     },
     {
+      "id": "n128dd3da69ac",
+      "ticker": "GANESHBE",
+      "company": "Ganesh Benzoplast Limited",
+      "sector": "Oil Gas & Consumable Fuels",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Ganesh Benzoplast Mar 2026 Earnings: Stable Performance with EPS of ₹1.7 on Revenue of ₹73 Crore - New Analyst Coverage",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORHczNzUyV1VJSUFQZkpUWk5pX3hva2pXdzVhdVIyRXhwZjlHdmlVOUdCV3pvSEYzZmhqamJ6ck0tN0VCVkxwX2JRbnlUZGs4T0pBcUZXUzdTRHgwRW1LVm9JZmE5d2hVYWxoZWNqWVFKTnFVVkl6RHlNTGxHTFhTZ3pWVy1tTXVPdFk3NjJtVmVxb2dQSDc0dTQtRnNBVlpiQmtFclk3SHF1eDhxZFdoRW9sTXpsYmtaLXlKUE9Ia1RQTVE3cVphV0l2dWJDSU0?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-06-14T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Ganesh Benzoplast reported stable March 2026 performance with ₹1.7 earnings per share on ₹73 crore revenue.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
       "id": "n56929915f709",
       "ticker": "XPROINDIA",
       "company": "Xpro India Limited",
@@ -10112,6 +10231,25 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Unimech Aerospace Q2 earnings per share at ₹12.42 with flat revenue performance.",
+      "enriched": true
+    },
+    {
+      "id": "n328ce87326bb",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Goldiam International Q2 2026 Earnings: Jewelry Exports Drive 25% Revenue Surge, EPS at ₹15.11 - Short-Term Outlook",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX3kyZksyM2tNOTYtRXQxd08yYXREZFk4amxBTFh2alAyaFpHX2g2ejgxbTJtQkMzWTlhczhRSFI1U1FIX1BYSU9pRVA2NjE1V0RSTWtVamRHZ1ZBeXRNZFlnNlFZVDFXVmUyRDJuTEVEYjdybzBSTzQ1eHBvaHBCVGZ2UE1LN3hNODdTN24wQzVwRVhGN1NkTWRabHliWTBQYlM3c1BzbW9YLU5LUTVPNjFwazdZN0hYZjBTS2ZDT0I3QmhPRURaWEVMdw?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-06-13T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Goldiam International's jewelry exports drove 25% revenue jump in Q2 2026, earning ₹15.11 per share.",
       "enriched": true
     },
     {
