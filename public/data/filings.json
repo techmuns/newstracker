@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T18:05:23.366Z",
+  "generated_at": "2026-09-10T07:35:54.408Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,76 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f2fdfa4cb9b7d",
+      "ticker": "CMLL",
+      "company": "Caliber Mining and Logistics Limited",
+      "exchange": "NSE",
+      "date": "2026-09-10T12:15:21.000Z",
+      "category": "Disclosure",
+      "title": "Caliber Mining and Logistics Limited has informed the Exchange about General Updates: Intimation Regarding Dispatch Of Letters To Shareholder Whose Email Address Are Not Registered With Company/RTA/Dps",
+      "url": "https://nsearchives.nseindia.com/corporate/CMLL_10092026121324_Intimation_letter_to_shareholder_final_MR.pdf"
+    },
+    {
+      "id": "fc4318494448a",
+      "ticker": "DHOOTTRANS",
+      "company": "Dhoot Transmission Limited",
+      "exchange": "NSE",
+      "date": "2026-09-10T12:02:41.000Z",
+      "category": "Investor Presentation",
+      "title": "Dhoot Transmission Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/DTL_10092026120212_DTL_SE_Earning_transcript_sd.pdf"
+    },
+    {
+      "id": "fe24f43090bb2",
+      "ticker": "CMLL",
+      "company": "Caliber Mining and Logistics Limited",
+      "exchange": "NSE",
+      "date": "2026-09-10T11:48:29.000Z",
+      "category": "Disclosure",
+      "title": "Caliber Mining and Logistics Limited has informed the Exchange about General Updates- Initmation regarding dispatch of letter to those shareholders whose email address is not registered with Company/RTA/DPs",
+      "url": "https://nsearchives.nseindia.com/corporate/CMLL_10092026114711_Intimation_letter_to_shareholder_final.pdf"
+    },
+    {
+      "id": "f65afb2905f76",
+      "ticker": "MOBIKWIK",
+      "company": "One Mobikwik Systems Limited",
+      "exchange": "NSE",
+      "date": "2026-09-10T10:17:32.000Z",
+      "category": "Press Release",
+      "title": "One Mobikwik Systems Limited has informed the Exchange regarding a press release dated September 10, 2026, titled \"GFF 2026: MobiKwik FX Retail simplifies forex for Indians, now offering six currencies on its app\".",
+      "url": "https://nsearchives.nseindia.com/corporate/MOBIKWIK_10092026101708_Press_Release_10092026.pdf"
+    },
+    {
+      "id": "f65aeabc0fd0d",
+      "ticker": "ANAWIL",
+      "company": "Anawil Wire and Engineering Limited",
+      "exchange": "NSE",
+      "date": "2026-09-10T10:13:56.000Z",
+      "category": "Press Release",
+      "title": "Anawil Wire and Engineering Limited has informed the Exchange regarding a press release dated September 10, 2026, titled \"Anawil Wire & Engineering Secures Largest-Ever Rs 133.98 Cr Order.\".",
+      "url": "https://nsearchives.nseindia.com/corporate/ANAWIL_10092026101218_NSE_Press_release_signed.pdf"
+    },
+    {
+      "id": "fd7307e96e79a",
+      "ticker": "ANAWIL",
+      "company": "Anawil Wire and Engineering Limited",
+      "exchange": "NSE",
+      "date": "2026-09-10T10:03:26.000Z",
+      "category": "Receipt of Order",
+      "title": "Anawil Wire and Engineering Limited has informed the Exchange about Awarding of order(s)/contract(s)",
+      "url": "https://nsearchives.nseindia.com/corporate/ANAWIL_10092026095910_NSE_Order_signed.pdf"
+    },
+    {
+      "id": "fd8aae75c15e7",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "exchange": "NSE",
+      "date": "2026-09-10T07:06:30.000Z",
+      "category": "Disclosure",
+      "title": "DEE Development Engineers Limited has informed the Exchange regarding 'Revised updates on the monthly execution and Order Position of the company'.",
+      "url": "https://nsearchives.nseindia.com/corporate/DDEL_10092026070458_NSEBSESIGNED.pdf"
+    },
     {
       "id": "f7c149a4057e1",
       "ticker": "DIXON",
@@ -19936,76 +20006,6 @@
       "category": "Corrigendum",
       "title": "Submitting the Corrigendum to the Notice of the Extra Ordinary General Meeting ( EGM )",
       "url": "https://nsearchives.nseindia.com/corporate/DDEL_18062026155400_NSEBSESIGNED.pdf"
-    },
-    {
-      "id": "f8656e3f7fbf7",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "exchange": "NSE",
-      "date": "2026-06-18T15:52:03.000Z",
-      "category": "Disclosure",
-      "title": "Outcome of the Fund-Raising Committee meeting approving the corrigendum of EGM Notice and issue thereof.",
-      "url": "https://nsearchives.nseindia.com/corporate/DDEL_18062026154403_NSEBSEOUTCOME.pdf"
-    },
-    {
-      "id": "fc92881705d51",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "exchange": "NSE",
-      "date": "2026-06-18T14:05:14.000Z",
-      "category": "Disclosure",
-      "title": "The Exchange has sought certain information and clarifications from Apsis Aerocom Limited in relation to announcements made by the Company on April 27, 2026, April 29, 2026 and April 30, 2026 pertaining to bagging/receipt of orders and outcome of Board Meeting respectively. The response from the company is awaited.",
-      "url": "https://nsearchives.nseindia.com/corporate/APSIS2025_18062026140506_NSE_Investigation_dated_17062026_covering_letter.pdf"
-    },
-    {
-      "id": "f8498a3a1d09b",
-      "ticker": "BHARATCOAL",
-      "company": "Bharat Coking Coal Limited",
-      "exchange": "NSE",
-      "date": "2026-06-18T12:22:18.000Z",
-      "category": "Press Release",
-      "title": "Bharat Coking Coal Limited has informed the Exchange regarding a press release dated Jun 17, 2026, titled \"Site Hand-Over of Dugdha Coal Washery to JSW Steel Limited\".",
-      "url": "https://nsearchives.nseindia.com/corporate/BCCL_18062026122208_Dugdha_Announcement_Signed.pdf"
-    },
-    {
-      "id": "fa50b7209d5e4",
-      "ticker": "KSHINTL",
-      "company": "KSH International Limited",
-      "exchange": "NSE",
-      "date": "2026-06-18T11:08:30.000Z",
-      "category": "Disclosure",
-      "title": "Rajesh Kushal Hegde has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_16062026120332_37.pdf"
-    },
-    {
-      "id": "f59b451f08455",
-      "ticker": "EMAPARTNER",
-      "company": "EMA Partners India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-18T11:03:01.000Z",
-      "category": "Disclosure",
-      "title": "Krishnan Sudarshan has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_16062026115402_42.pdf"
-    },
-    {
-      "id": "f233490c13051",
-      "ticker": "VBL",
-      "company": "Varun Beverages Limited",
-      "exchange": "NSE",
-      "date": "2026-06-18T10:56:09.000Z",
-      "category": "Press Release",
-      "title": "News Release - Introducing the Calpis Brand in India through alliance between Asahi Group Holdings Ltd. & our Company",
-      "url": "https://nsearchives.nseindia.com/corporate/VBL_18062026105539_NewsRelease.pdf"
-    },
-    {
-      "id": "f38ec2e812fd6",
-      "ticker": "MANINDS",
-      "company": "Man Industries (India) Limited",
-      "exchange": "NSE",
-      "date": "2026-06-18T08:49:30.000Z",
-      "category": "Receipt of Order",
-      "title": "Man Industries (India) Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
-      "url": "https://nsearchives.nseindia.com/corporate/MANINDS_18062026084918_MIIL_Order_annoucement_Rs1000_cr_18062026_.pdf"
     }
   ]
 }
