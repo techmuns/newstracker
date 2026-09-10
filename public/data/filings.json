@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T07:35:54.408Z",
+  "generated_at": "2026-09-10T17:58:09.166Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,116 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f6478f9e792bd",
+      "ticker": "MONOLITH",
+      "company": "Monolithisch India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-10T22:43:46.000Z",
+      "category": "Press Release",
+      "title": "Monolithisch India Limited has informed the Exchange regarding a press release dated September 10, 2026, titled \"Intimation regarding allotment of Flagship Quartzite stone block in Nawada District, Bihar, conducted by the Mines and Geology Department of Bihar through the e-auction route\".",
+      "url": "https://nsearchives.nseindia.com/corporate/MONOLITHISCH_10092026224335_MONOLITH_PRESS_RELEASE_10092026_signed.pdf"
+    },
+    {
+      "id": "fe5843d3cd0c1",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-10T21:26:08.000Z",
+      "category": "Disclosure",
+      "title": "Sapphire Foods India Limited has informed the Exchange regarding 'Filing of joint application with the Competition Commission of India'.",
+      "url": "https://nsearchives.nseindia.com/corporate/SAPPHIRE_10092026212600_NSE.pdf"
+    },
+    {
+      "id": "fc2cd25067959",
+      "ticker": "URBANCO",
+      "company": "Urban Company Limited",
+      "exchange": "NSE",
+      "date": "2026-09-10T21:19:21.000Z",
+      "category": "Investor Presentation",
+      "title": "Urban Company Limited has informed the Exchange about Schedule of Analyst/ Investor Meeting to be held on September 16, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_10092026211913_Investor_Meeting_SE_Intimation_10092026.pdf"
+    },
+    {
+      "id": "f87a3a64efba5",
+      "ticker": "STLTECH",
+      "company": "Sterlite Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-09-10T19:18:17.000Z",
+      "category": "ESOP/ESOS/ESPS",
+      "title": "STLTECH: Sterlite Technologies Limited has informed the Exchange regarding allotment of shares under ESOP Scheme 2010 and 2016.",
+      "url": "https://nsearchives.nseindia.com/corporate/STLTECH_10092026191801_SEIntimationallotmentsigned.pdf"
+    },
+    {
+      "id": "fa3cf54fb9ca4",
+      "ticker": "DEVYANI",
+      "company": "Devyani International Limited",
+      "exchange": "NSE",
+      "date": "2026-09-10T18:44:43.000Z",
+      "category": "Disclosure",
+      "title": "Devyani International Limited has informed the Exchange about disclosure under the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/DEVYANI_10092026184355_SEIntimationSchemeCCIApplication_sd.pdf"
+    },
+    {
+      "id": "f0fc8c3c2e875",
+      "ticker": "VIVIDEL",
+      "company": "Vivid Electromech Limited",
+      "exchange": "NSE",
+      "date": "2026-09-10T17:11:51.000Z",
+      "category": "Investor Presentation",
+      "title": "Vivid Electromech Limited has informed the Exchange about Outcome",
+      "url": "https://nsearchives.nseindia.com/corporate/VIVID_10092026171140_Outcome_of_the_Meeting.pdf"
+    },
+    {
+      "id": "fa6c226643252",
+      "ticker": "STLTECH",
+      "company": "Sterlite Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-09-10T17:00:15.000Z",
+      "category": "Press Release",
+      "title": "Press Release - Sterlite Technologies Limited launches Plenum-rated Fiber Trunk Assemblies for AI Data Center Connectivity.",
+      "url": "https://nsearchives.nseindia.com/corporate/STLTECH_10092026170006_SEintimation_PR_Plenum_Signed.pdf"
+    },
+    {
+      "id": "ff49067cf0009",
+      "ticker": "KSHINTL",
+      "company": "KSH International Limited",
+      "exchange": "NSE",
+      "date": "2026-09-10T16:47:33.000Z",
+      "category": "Granting/withdrawal/surrender/cancellation/suspension of key licenses/ regulatory approvals",
+      "title": "KSH International Limited has informed the Exchange about receipt of Consent to Operate (CTO) for Supa Facility.",
+      "url": "https://nsearchives.nseindia.com/corporate/INTERNATIONAL_10092026164453_KSH_IntimationofCTO_10092026Finalsigned.pdf"
+    },
+    {
+      "id": "fec6ec0c324c5",
+      "ticker": "SHADOWFAX",
+      "company": "Shadowfax Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-09-10T16:32:52.000Z",
+      "category": "ESOP/ESOS/ESPS",
+      "title": "Shadowfax Technologies Limited has informed the Exchange regarding Allotment of 1,57,314 Shares of Rs. 10/- each to the eligible employees/ESOP holders.",
+      "url": "https://nsearchives.nseindia.com/corporate/9900590024_10092026163221_ESOP_Allotment.pdf"
+    },
+    {
+      "id": "fdfbe43c5e4e3",
+      "ticker": "MASFIN",
+      "company": "MAS Financial Services Limited",
+      "exchange": "NSE",
+      "date": "2026-09-10T15:16:31.000Z",
+      "category": "Disclosure",
+      "title": "MAS Financial Services Limited has informed the Exchange about Intimation of ESG Rating",
+      "url": "https://nsearchives.nseindia.com/corporate/MASFIN_10092026151454_Final.pdf"
+    },
+    {
+      "id": "f354963e10b4b",
+      "ticker": "MANINDS",
+      "company": "Man Industries (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-09-10T13:55:54.000Z",
+      "category": "Receipt of Order",
+      "title": "Man Industries (India) Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
+      "url": "https://nsearchives.nseindia.com/corporate/MANINDS_10092026135546_MIIL_Order_annoucement_Rs600_cr_10092026_.pdf"
+    },
     {
       "id": "f2fdfa4cb9b7d",
       "ticker": "CMLL",
@@ -19896,116 +20006,6 @@
       "category": "Disclosure",
       "title": "Rubicon Research Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) read with Regulation 31(5) of SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
       "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_08052026124655_RUBICON.zip"
-    },
-    {
-      "id": "f210d757d5985",
-      "ticker": "INDOFARM",
-      "company": "Indo Farm Equipment Limited",
-      "exchange": "NSE",
-      "date": "2026-06-19T14:36:27.000Z",
-      "category": "Spurt in Volume",
-      "title": "Significant increase in volume has been observed in Indo Farm Equipment Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the market place so that the interest of the investors is safeguarded, had written to the company. Indo Farm Equipment Limited has submitted their response.",
-      "url": "https://nsearchives.nseindia.com/corporate/IFEL_19062026143606_Clarification_letter_NSE.pdf"
-    },
-    {
-      "id": "fd2de20ebee1e",
-      "ticker": "STYLAMIND",
-      "company": "Stylam Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-06-19T14:30:07.000Z",
-      "category": "Disclosure",
-      "title": "Stylam Industries Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_24042026164522_STYLAMIND.pdf"
-    },
-    {
-      "id": "ff5e38061813b",
-      "ticker": "LGEINDIA",
-      "company": "LG Electronics India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-19T14:28:05.000Z",
-      "category": "Disclosure",
-      "title": "LG Electronics India Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_24042026163000_LGEINDIA.pdf"
-    },
-    {
-      "id": "f9b2aff62db7f",
-      "ticker": "SHRIAHIMSA",
-      "company": "Shri Ahimsa Naturals Limited",
-      "exchange": "NSE",
-      "date": "2026-06-19T12:45:12.000Z",
-      "category": "Disclosure",
-      "title": "Ahimsa Holdings Private Ltd has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_18062026170105_SHRIAHIMSA.pdf"
-    },
-    {
-      "id": "f537351cf2f2f",
-      "ticker": "SHRIAHIMSA",
-      "company": "Shri Ahimsa Naturals Limited",
-      "exchange": "NSE",
-      "date": "2026-06-19T12:44:32.000Z",
-      "category": "Disclosure",
-      "title": "Ahimsa Holdings Private Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_18062026133037_AHIMSA.pdf"
-    },
-    {
-      "id": "fa85805d16f02",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "exchange": "NSE",
-      "date": "2026-06-19T11:06:24.000Z",
-      "category": "Corrigendum",
-      "title": "Submitting the Corrigendum to the Notice of EGM.",
-      "url": "https://nsearchives.nseindia.com/corporate/DDEL_19062026110610_NSEBSE.pdf"
-    },
-    {
-      "id": "fbe4b434bc8cd",
-      "ticker": "STLTECH",
-      "company": "Sterlite Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-06-18T20:45:03.000Z",
-      "category": "Disclosure",
-      "title": "Sterlite Technologies Limited has informed the Exchange about - Audited Standalone and Consolidated Financial Statements for the Financial Year ended March 31, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/STLTECH_18062026204452_SEintimationFS_signed.pdf"
-    },
-    {
-      "id": "fee62776b1b5a",
-      "ticker": "SKYGOLD",
-      "company": "SKY GOLD AND DIAMONDS LIMITED",
-      "exchange": "NSE",
-      "date": "2026-06-18T18:37:49.000Z",
-      "category": "Investor Presentation",
-      "title": "Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we would like to inform you that the officials of the Company have interacted in the Analyst Meeting held today i.e. on Thursday, 18th June 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/SKYGOLD_18062026183733_Outcome18062026.pdf"
-    },
-    {
-      "id": "f43d50e2b2a74",
-      "ticker": "JUBLCPL",
-      "company": "Jubilant Agri and Consumer Products Limited",
-      "exchange": "NSE",
-      "date": "2026-06-18T17:50:08.000Z",
-      "category": "Investor Presentation",
-      "title": "Jubilant Agri and Consumer Products Limited has informed the Exchange about Schedule of Analyst/Investors meet.",
-      "url": "https://nsearchives.nseindia.com/corporate/JACPL_18062026174741_intimationinvestormeetSigned.pdf"
-    },
-    {
-      "id": "f4e5d94e18025",
-      "ticker": "ADVAIT",
-      "company": "Advait Energy Transitions Limited",
-      "exchange": "NSE",
-      "date": "2026-06-18T16:28:28.000Z",
-      "category": "Disclosure",
-      "title": "Advait Energy Transitions Limited has informed the Exchange regarding 'Disclosure received under Regulation 29(2) of SEBI (Substantial Acquisition of Sharesand Takeovers) Regulations, 2011.'.",
-      "url": "https://nsearchives.nseindia.com/corporate/ADVAITENERGY_18062026162815_29_2__cover_letter_Snew.pdf"
-    },
-    {
-      "id": "f999d7adfce1f",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "exchange": "NSE",
-      "date": "2026-06-18T16:01:47.000Z",
-      "category": "Corrigendum",
-      "title": "Submitting the Corrigendum to the Notice of the Extra Ordinary General Meeting ( EGM )",
-      "url": "https://nsearchives.nseindia.com/corporate/DDEL_18062026155400_NSEBSESIGNED.pdf"
     }
   ]
 }
