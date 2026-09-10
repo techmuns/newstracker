@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T17:56:22.229Z",
+  "generated_at": "2026-09-10T17:50:37.788Z",
   "portfolio": [
     {
       "company": "Monolithisch India Limited",
@@ -17,24 +17,24 @@
       "sector": "Capital Goods"
     },
     {
-      "company": "Sterlite Technologies Limited",
-      "ticker": "STLTECH",
-      "sector": "Telecommunication"
-    },
-    {
       "company": "Menon Bearings Limited",
       "ticker": "MENONBE",
       "sector": "Automobile and Auto Components"
     },
     {
-      "company": "KSH International Limited",
-      "ticker": "KSHINTL",
-      "sector": "Capital Goods"
+      "company": "Sterlite Technologies Limited",
+      "ticker": "STLTECH",
+      "sector": "Telecommunication"
     },
     {
       "company": "Acutaas Chemicals Limited",
       "ticker": "ACUTAAS",
       "sector": "Healthcare"
+    },
+    {
+      "company": "KSH International Limited",
+      "ticker": "KSHINTL",
+      "sector": "Capital Goods"
     },
     {
       "company": "Shadowfax Technologies Limited",
@@ -67,14 +67,14 @@
       "sector": "Media Entertainment & Publication"
     },
     {
-      "company": "Epigral Limited",
-      "ticker": "EPIGRAL",
-      "sector": "Chemicals"
-    },
-    {
       "company": "Omnitech Engineering Limited",
       "ticker": "OMNI",
       "sector": "Capital Goods"
+    },
+    {
+      "company": "Epigral Limited",
+      "ticker": "EPIGRAL",
+      "sector": "Chemicals"
     },
     {
       "company": "Jubilant Agri and Consumer Products Limited",
