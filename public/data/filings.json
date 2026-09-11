@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T07:33:57.651Z",
+  "generated_at": "2026-09-11T18:00:38.570Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,116 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f90cf89e53a5f",
+      "ticker": "SHIPROCKET",
+      "company": "Shiprocket Limited",
+      "exchange": "NSE",
+      "date": "2026-09-11T22:22:39.000Z",
+      "category": "Investor Presentation",
+      "title": "Shiprocket Limited has informed the Exchange about Transcript of Earnings Call with respect to Financial Results for the quarter ended June 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/SHIPROCKET2011_11092026221951_SE_Investor_Meet_Transcript.pdf"
+    },
+    {
+      "id": "fd929ff6320b8",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "exchange": "NSE",
+      "date": "2026-09-11T20:51:36.000Z",
+      "category": "Corrigendum",
+      "title": "Meesho Limited has informed the Exchange regarding Corrigendum to Notice of Annual General Meeting to be held on September 18, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_11092026205109_SE_Covering_Letter_V1__1__RB.pdf"
+    },
+    {
+      "id": "f42c8236847be",
+      "ticker": "RPSGVENT",
+      "company": "RPSG VENTURES LIMITED",
+      "exchange": "NSE",
+      "date": "2026-09-11T20:48:17.000Z",
+      "category": "Shareholders meeting",
+      "title": "RPSG VENTURES LIMITED has informed the Exchange regarding Proceedings of Annual General Meeting held on September 11, 2026. Further, the company has submitted the Exchange a copy of Srutinizers report along with voting results.",
+      "url": "https://nsearchives.nseindia.com/corporate/RPSGVENT_11092026204333_RVL_AGM_Outcome_11092026_signed.pdf"
+    },
+    {
+      "id": "f1a17315824dd",
+      "ticker": "GULFOILLUB",
+      "company": "Gulf Oil Lubricants India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-11T19:08:48.000Z",
+      "category": "Shareholders meeting",
+      "title": "We enclose herewith the Proceedings of the 18th Annual General Meeting held today, viz. Friday, September 11, 2026 through Video Conferencing/ Other Audio Visual Means.",
+      "url": "https://nsearchives.nseindia.com/corporate/GULFOILLUB_11092026190740_ProceedingsAGM11092026.pdf"
+    },
+    {
+      "id": "fb27c1eb2e271",
+      "ticker": "PVRINOX",
+      "company": "PVR INOX Limited",
+      "exchange": "NSE",
+      "date": "2026-09-11T18:49:49.000Z",
+      "category": "Shareholders meeting",
+      "title": "PVR INOX Limited has submitted to the Exchange a copy Srutinizers report along with voting results of Annual General Meeting held on September 11, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/PVRINOXLTD_11092026184859_PVRINOXVotingResultsScrutinizerReport11092026.pdf"
+    },
+    {
+      "id": "fa4449582c592",
+      "ticker": "URBANCO",
+      "company": "Urban Company Limited",
+      "exchange": "NSE",
+      "date": "2026-09-11T18:07:46.000Z",
+      "category": "Investor Presentation",
+      "title": "Urban Company Limited has informed the Exchange about Schedule of Analyst/ Investor Meeting(s) to be held between September 14, 2026 to September 16, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_11092026180731_Investor_Meeting_SE_Intimation_11092026.pdf"
+    },
+    {
+      "id": "fe4acd5b2bfaa",
+      "ticker": "ONESOURCE",
+      "company": "Onesource Specialty Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-09-11T17:05:33.000Z",
+      "category": "Disclosure",
+      "title": "Onesource Specialty Pharma Limited has informed the Exchange regarding 'Addendum to the notice of the 19th AGM scheduled to be held on September 23, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/ONESOURCECDMO_11092026170521_OS_Addendum_AGM_Notice_11Sep26_s.pdf"
+    },
+    {
+      "id": "fdbf3df9f252a",
+      "ticker": "KPITTECH",
+      "company": "KPIT Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-09-11T16:21:40.000Z",
+      "category": "Investor Presentation",
+      "title": "KPIT Technologies Limited has informed the Exchange about Schedule of Investors/Analyst Conference to be held on Monday, September 21, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/KPITTECH_11092026161950_KPIT_Investor_Conference_Anand_Rathi_and_JP_Morgan_2026_signed.pdf"
+    },
+    {
+      "id": "f1b4e2ccc9ea6",
+      "ticker": "VBL",
+      "company": "Varun Beverages Limited",
+      "exchange": "NSE",
+      "date": "2026-09-11T15:55:40.000Z",
+      "category": "ESOP/ESOS/ESPS",
+      "title": "The Share Allotment Committee today approved the allotment of 29,750 Equity Shares of face value of Rs. 2 each upon exercise of stock options vested under the Employees Stock Option Scheme 2016 as per details in enclosed intimation.",
+      "url": "https://nsearchives.nseindia.com/corporate/VBL_11092026155502_ESOP_Outcome.pdf"
+    },
+    {
+      "id": "f9b2aaf62c573",
+      "ticker": "SENORES",
+      "company": "Senores Pharmaceuticals Limited",
+      "exchange": "NSE",
+      "date": "2026-09-11T13:45:21.000Z",
+      "category": "Disclosure",
+      "title": "Senores Pharmaceuticals Limited has informed the Exchange about Successful Completion of USFDA Inspection",
+      "url": "https://nsearchives.nseindia.com/corporate/SENORES_11092026134434_Intimation.pdf"
+    },
+    {
+      "id": "f319c816d9713",
+      "ticker": "PVRINOX",
+      "company": "PVR INOX Limited",
+      "exchange": "NSE",
+      "date": "2026-09-11T13:29:34.000Z",
+      "category": "Shareholders meeting",
+      "title": "PVR INOX Limited has informed the stock exchange about the proceedings of 31st AGM held on Friday, 11th September, 2026 through VC/OAVM facility. The Meeting started at 11:00 A.M and concluded at 12:11 P.M.",
+      "url": "https://nsearchives.nseindia.com/corporate/PVRINOXLTD_11092026132920_PVRINOXAGMProceedings11092026.pdf"
+    },
     {
       "id": "f9fb6188c3628",
       "ticker": "BLACKBUCK",
@@ -19896,116 +20006,6 @@
       "category": "Acquisition",
       "title": "Concord Biotech Limited has informed the Exchange about Acquisition",
       "url": "https://nsearchives.nseindia.com/corporate/CONCORD_20062026183731_Intimation_Acquisition_-_FSGE.pdf"
-    },
-    {
-      "id": "f81c8f558a502",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "exchange": "NSE",
-      "date": "2026-06-20T16:27:36.000Z",
-      "category": "ESOP/ESOS/ESPS",
-      "title": "Meesho Limited has informed the Exchange regarding Allotment of 10359200 Shares.",
-      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_20062026162443_MLIntimationAllotmentofESOPs20June2026.pdf"
-    },
-    {
-      "id": "f6e13156abe81",
-      "ticker": "CANFINHOME",
-      "company": "Can Fin Homes Limited",
-      "exchange": "NSE",
-      "date": "2026-06-20T14:57:25.000Z",
-      "category": "Action(s) taken or orders passed",
-      "title": "Can Fin Homes Limited has informed the Exchange about Action(s) taken or orders passed",
-      "url": "https://nsearchives.nseindia.com/corporate/CANFINHOME_20062026145711_SE_Intimation_on_imposition_of_penalty_by_RBI_20062026.pdf"
-    },
-    {
-      "id": "f7d767f5dbcb2",
-      "ticker": "SONACOMS",
-      "company": "Sona BLW Precision Forgings Limited",
-      "exchange": "NSE",
-      "date": "2026-06-20T10:58:38.000Z",
-      "category": "Newspaper Publication",
-      "title": "Sona Blw Precision Forgings Limited has informed the Exchange about Copy of Newspaper Publication for 30th AGM and final dividend.",
-      "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_20062026105738_newspapernoticepredispatch.pdf"
-    },
-    {
-      "id": "fed649c13e99f",
-      "ticker": "IKS",
-      "company": "Inventurus Knowledge Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-06-19T22:35:36.000Z",
-      "category": "Credit Rating",
-      "title": "Inventurus Knowledge Solutions Limited has informed the Exchange about Credit Rating- New",
-      "url": "https://nsearchives.nseindia.com/corporate/IKSSHEETAL_19062026223506_CreditRatingDisclosur19062026.pdf"
-    },
-    {
-      "id": "f4fdda2f577bd",
-      "ticker": "RPSGVENT",
-      "company": "RPSG VENTURES LIMITED",
-      "exchange": "NSE",
-      "date": "2026-06-19T19:45:21.000Z",
-      "category": "Shareholders meeting",
-      "title": "RPSG VENTURES LIMITED has submitted the Exchange a copy Srutinizers report of Postal Ballot. Further, the company has informed the Exchange regarding voting results.",
-      "url": "https://nsearchives.nseindia.com/corporate/RPSGVENT_19062026194218_RVL_SE_PB_Voting_Results_signed.pdf"
-    },
-    {
-      "id": "fea2b98b2c55d",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-19T18:48:16.000Z",
-      "category": "Change in Directors",
-      "title": "Sapphire Foods India Limited has informed the Exchange about Resignation of Director/KMP/SMP",
-      "url": "https://nsearchives.nseindia.com/corporate/SAPPHIRE_ROID_90140_KMP_Doc.zip"
-    },
-    {
-      "id": "f32e12c6e17bd",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-19T18:25:40.000Z",
-      "category": "Change in Directors",
-      "title": "Sapphire Foods India Limited has informed the Exchange regarding Change in Director(s) of the company.",
-      "url": "https://nsearchives.nseindia.com/corporate/SAPPHIRE_19062026182532_NSE.pdf"
-    },
-    {
-      "id": "f7c1919e3a257",
-      "ticker": "SOLARINDS",
-      "company": "Solar Industries India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-19T18:06:28.000Z",
-      "category": "Allotment of Securities",
-      "title": "Solar Industries India Limited has informed the Exchange about issue of Securities.",
-      "url": "https://nsearchives.nseindia.com/corporate/SOLARINDS_19062026175603_Intimation_-_CP_-_Reg_30_sd.pdf"
-    },
-    {
-      "id": "f34bd84d9d9f2",
-      "ticker": "ADVAIT",
-      "company": "Advait Energy Transitions Limited",
-      "exchange": "NSE",
-      "date": "2026-06-19T17:41:06.000Z",
-      "category": "Disclosure",
-      "title": "Shalin Sheth has submitted to the Exchange a copy of Disclosures under Regulation 10(6)-Report to stock Exchange in respect of any acquisition made in reliance upon exemption provided for in regulation 10 of SEBI (SAST) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_19062026173858_ADVAIT.pdf"
-    },
-    {
-      "id": "f39abe146c4cc",
-      "ticker": "CANFINHOME",
-      "company": "Can Fin Homes Limited",
-      "exchange": "NSE",
-      "date": "2026-06-19T17:26:35.000Z",
-      "category": "Disclosure",
-      "title": "Can Fin Homes Limited has informed the Exchange regarding 'Intimation To Shareholders Regarding TDS On Final Dividend For FY 2025-26'.",
-      "url": "https://nsearchives.nseindia.com/corporate/CANFINHOME_19062026172611_Intimation_of_TDS_On_Final_Dividend_For_FY2025-26_19062026.pdf"
-    },
-    {
-      "id": "fbb0d6bbe64da",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-19T15:47:00.000Z",
-      "category": "Disclosure",
-      "title": "QSR Management Trust has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_11052026170900_SAPPHIRE.pdf"
     }
   ]
 }
