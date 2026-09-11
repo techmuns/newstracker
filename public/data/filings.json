@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T17:58:09.166Z",
+  "generated_at": "2026-09-11T07:33:57.651Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,46 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f9fb6188c3628",
+      "ticker": "BLACKBUCK",
+      "company": "BLACKBUCK LIMITED",
+      "exchange": "NSE",
+      "date": "2026-09-11T12:20:37.000Z",
+      "category": "Board Meeting",
+      "title": "BLACKBUCK LIMITED has informed the Exchange regarding Outcome of Board Meeting held on September 11, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/ZINKA2015_11092026121951_Board_Meeting_Outcome_and_Reg_30.pdf"
+    },
+    {
+      "id": "fabcd8df88351",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "exchange": "NSE",
+      "date": "2026-09-11T12:15:43.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Surya Roshni Limited has informed the Exchange about Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018 for the month ended August, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/SURYAROSNI_11092026121533_DEMAT_REPORT_AUGUST_2026.pdf"
+    },
+    {
+      "id": "fce57a32791f1",
+      "ticker": "EMAPARTNER",
+      "company": "EMA Partners India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-11T12:14:05.000Z",
+      "category": "Disclosure",
+      "title": "EMA Partners India Limited has informed the Exchange that the Company has sent letters, inter alia, providing the web-link to access the Annual Report for the Financial Year 2025-26, including the Notice of the 23rd Annual General Meeting, to those Members whose e-mail addresses are not registered with the Company/Registrar and Transfer Agent/Depository Participant(s).",
+      "url": "https://nsearchives.nseindia.com/corporate/EMAIN_11092026121322_Intimation_of_weblink_letter_under_Reg_36_of_SEBI_LODR.pdf"
+    },
+    {
+      "id": "f17e604e3e237",
+      "ticker": "CANFINHOME",
+      "company": "Can Fin Homes Limited",
+      "exchange": "NSE",
+      "date": "2026-09-11T12:03:55.000Z",
+      "category": "Press Release",
+      "title": "Can Fin Homes Limited has informed the Exchange regarding a press release dated September 11, 2026, titled \"Can Fin Homes Unveils Project Tejas\".",
+      "url": "https://nsearchives.nseindia.com/corporate/CANFINHOME_11092026120329_SE_Intimation_press_release_Project_Tejas.pdf"
+    },
     {
       "id": "f6478f9e792bd",
       "ticker": "MONOLITH",
@@ -276,6 +316,16 @@
       "category": "Disclosure",
       "title": "DEE Development Engineers Limited has informed the Exchange about Updates On The Monthly Execution And Order Position Of The Company",
       "url": "https://nsearchives.nseindia.com/corporate/DDEL_09092026122157_NSEBSE_OrderBook.pdf"
+    },
+    {
+      "id": "fe8c81f89c7f0",
+      "ticker": "INDOFARM",
+      "company": "Indo Farm Equipment Limited",
+      "exchange": "NSE",
+      "date": "2026-09-09T09:22:49.000Z",
+      "category": "Spurt in Volume",
+      "title": "Significant increase in volume has been observed in Indo Farm Equipment Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the market place so that the interest of the investors is safeguarded, had written to the company. Indo Farm Equipment Limited has submitted their response.",
+      "url": "https://nsearchives.nseindia.com/corporate/IFEL_09092026092232_Clarification_letter_NSE_.pdf"
     },
     {
       "id": "fd2f6f48269e9",
@@ -19956,56 +20006,6 @@
       "category": "Disclosure",
       "title": "QSR Management Trust has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
       "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_11052026170900_SAPPHIRE.pdf"
-    },
-    {
-      "id": "f22f20b91e6cf",
-      "ticker": "CANFINHOME",
-      "company": "Can Fin Homes Limited",
-      "exchange": "NSE",
-      "date": "2026-06-19T15:46:05.000Z",
-      "category": "Newspaper Publication",
-      "title": "Can Fin Homes Limited has informed the Exchange about Copy of Newspaper Publication regarding 39th AGM, Record date, Final Dividend",
-      "url": "https://nsearchives.nseindia.com/corporate/CANFINHOME_19062026154521_39th_AGM_NP_Intimation_to_SE_19062026.pdf"
-    },
-    {
-      "id": "fe9806c428859",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "exchange": "NSE",
-      "date": "2026-06-19T15:44:56.000Z",
-      "category": "Disclosure",
-      "title": "Mihir Kumar Pradhan has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_11052026165416_APSISAERO.pdf"
-    },
-    {
-      "id": "f53e15489727b",
-      "ticker": "VBL",
-      "company": "Varun Beverages Limited",
-      "exchange": "NSE",
-      "date": "2026-06-19T15:03:38.000Z",
-      "category": "Disclosure",
-      "title": "Varun Beverages Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_08052026133915_SAST.pdf"
-    },
-    {
-      "id": "f8add0828f7d0",
-      "ticker": "SURYAROSNI",
-      "company": "Surya Roshni Limited",
-      "exchange": "NSE",
-      "date": "2026-06-19T15:01:57.000Z",
-      "category": "Disclosure",
-      "title": "Jai Prakash Agarwal has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_08052026132929_4.pdf"
-    },
-    {
-      "id": "fca8563b97626",
-      "ticker": "RUBICON",
-      "company": "Rubicon Research Limited",
-      "exchange": "NSE",
-      "date": "2026-06-19T14:46:24.000Z",
-      "category": "Disclosure",
-      "title": "Rubicon Research Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) read with Regulation 31(5) of SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_08052026124655_RUBICON.zip"
     }
   ]
 }
