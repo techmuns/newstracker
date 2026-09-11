@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T17:50:37.788Z",
+  "generated_at": "2026-09-11T17:51:50.453Z",
   "portfolio": [
     {
       "company": "Monolithisch India Limited",
@@ -17,14 +17,14 @@
       "sector": "Capital Goods"
     },
     {
-      "company": "Menon Bearings Limited",
-      "ticker": "MENONBE",
-      "sector": "Automobile and Auto Components"
-    },
-    {
       "company": "Sterlite Technologies Limited",
       "ticker": "STLTECH",
       "sector": "Telecommunication"
+    },
+    {
+      "company": "Menon Bearings Limited",
+      "ticker": "MENONBE",
+      "sector": "Automobile and Auto Components"
     },
     {
       "company": "Acutaas Chemicals Limited",
