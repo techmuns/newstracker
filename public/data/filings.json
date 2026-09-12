@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T18:00:38.570Z",
+  "generated_at": "2026-09-12T09:14:26.039Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,26 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "fbad6fb6f7dc3",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "exchange": "NSE",
+      "date": "2026-09-12T13:15:59.000Z",
+      "category": "Newspaper Publication",
+      "title": "Meesho Limited has informed the Exchange about Copy of Newspaper Publication w.r.t corrigendum to the AGM Notice of the Company.",
+      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_12092026131550_ML_Intimation_corrigendum_NP.pdf"
+    },
+    {
+      "id": "f5877db48adcc",
+      "ticker": "MASFIN",
+      "company": "MAS Financial Services Limited",
+      "exchange": "NSE",
+      "date": "2026-09-12T10:34:10.000Z",
+      "category": "Disclosure",
+      "title": "MAS Financial Services Limited has informed the Exchange about Intimation regarding redemption of Optionally Convertible Preference Shares ( OCPS ) issued by MASRural Housing and Mortgage Finance Limited, Subsidiary Company, and held by MAS Financial Services Limited",
+      "url": "https://nsearchives.nseindia.com/corporate/MASFIN_12092026103313_Final.pdf"
+    },
     {
       "id": "f90cf89e53a5f",
       "ticker": "SHIPROCKET",
@@ -19986,26 +20006,6 @@
       "category": "Disclosure",
       "title": "Sona Blw Precision Forgings Limited has informed the Exchange regarding 'BRSR '.",
       "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_20062026191615_BRSR.pdf"
-    },
-    {
-      "id": "f36e8a31e487c",
-      "ticker": "SONACOMS",
-      "company": "Sona BLW Precision Forgings Limited",
-      "exchange": "NSE",
-      "date": "2026-06-20T18:54:10.000Z",
-      "category": "Shareholders meeting",
-      "title": "Sona Blw Precision Forgings Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on July 15, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_20062026185318_AGM_Notice.pdf"
-    },
-    {
-      "id": "fc8799141eac3",
-      "ticker": "CONCORDBIO",
-      "company": "Concord Biotech Limited",
-      "exchange": "NSE",
-      "date": "2026-06-20T18:37:47.000Z",
-      "category": "Acquisition",
-      "title": "Concord Biotech Limited has informed the Exchange about Acquisition",
-      "url": "https://nsearchives.nseindia.com/corporate/CONCORD_20062026183731_Intimation_Acquisition_-_FSGE.pdf"
     }
   ]
 }
