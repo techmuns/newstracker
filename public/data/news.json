@@ -1,50 +1,208 @@
 {
-  "generated_at": "2026-09-12T07:26:35.653Z",
-  "source": "google-news+valuepickr+claude",
+  "generated_at": "2026-09-12T17:31:45.621Z",
+  "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 93,
-    "watchlist": 571,
-    "universe": 26,
-    "total": 597
+    "portfolio": 94,
+    "watchlist": 579,
+    "universe": 27,
+    "total": 606
   },
   "items": [
     {
-      "id": "ndbac1d406588",
+      "id": "n8f03f4fa38ae",
       "ticker": "MSECL",
       "company": "Monarch Surveyors and Engineering Consultants Ltd",
       "sector": "Services",
       "scope": [
         "watchlist"
       ],
-      "title": "Monarch Surveyors and Engineering Consultants receives Rs 2-cr work order | Capital Market News - Business Standard",
-      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-and-engineering-consultants-receives-rs-2-cr-work-order-126082200734_1.html",
+      "title": "Monarch Surveyors and Engineering gains on bagging Rs 2-cr work order | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/markets/capital-market-news/monarch-surveyors-and-engineering-gains-on-bagging-rs-2-cr-work-order-126082400282_1.html",
       "source": "business-standard.com",
-      "date": "2026-09-11T17:57:05.698Z",
+      "date": "2026-09-12T17:29:35.753Z",
       "topic": "Orders",
       "keyword": "Order",
       "importance": "low",
       "mood": "positive",
-      "takeaway": "Monarch Surveyors receives Rs 2 crore work order.",
+      "takeaway": "Monarch Surveyors wins Rs 2 crore work order.",
+      "sources_count": 4,
+      "enriched": true
+    },
+    {
+      "id": "na6feae28dd63",
+      "ticker": "ONESOURCE",
+      "company": "Onesource Specialty Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "OneSource Specialty Pharma ties up with Germany’s Formycon for Biosimilar manufacturing - The HinduBusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/stock-markets/onesource-specialty-pharma-ties-up-with-germanys-formycon-for-biosimilar-manufacturing/article71220083.ece",
+      "source": "thehindubusinessline.com",
+      "date": "2026-09-12T17:27:43.846Z",
+      "topic": "Deals",
+      "keyword": "Partnership",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "OneSource partners with Germany's Formycon to manufacture biosimilar drugs.",
+      "enriched": true
+    },
+    {
+      "id": "n2fb443b99f48",
+      "ticker": "LAXMIDENTL",
+      "company": "Laxmi Dental Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Laxmi Dental Ltd (NSE:LAXMIDENTL) Q4 2026 Earnings Call Highlights: Record Revenue and ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/laxmi-dental-ltd-nse-laxmidentl-222454269.html",
+      "source": "finance.yahoo.com",
+      "date": "2026-09-12T17:26:59.524Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Laxmi Dental reported record revenue in Q4 FY26.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n3255ae1f0acd",
+      "ticker": "LAXMIDENTL",
+      "company": "Laxmi Dental Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Laxmi Dental Q1 Results: Earnings call scheduled for Aug 12",
+      "url": "https://scanx.trade/stock-market-news/companies/laxmi-dental-q1-results-earnings-call-scheduled-for-aug-12/47637168",
+      "source": "scanx.trade",
+      "date": "2026-09-12T17:26:59.523Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Laxmi Dental scheduled Q1 earnings call for August 12.",
+      "enriched": true
+    },
+    {
+      "id": "n3b6b1b2aaac4",
+      "ticker": "GMMPFAUDLR",
+      "company": "GMM Pfaudler Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Q1 2027 GMM Pfaudler Ltd Earnings Call Transcript",
+      "url": "https://www.gurufocus.com/news/9029409/q1-2027-gmm-pfaudler-ltd-earnings-call-transcript",
+      "source": "gurufocus.com",
+      "date": "2026-09-12T17:26:37.109Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "GMM Pfaudler held Q1 FY27 earnings call.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nde77e6125524",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "DEE Development Engineers Secures INR 36 Crore Order from Reliance Industries - Asia Pacific | Energetica India Magazine",
+      "url": "https://www.energetica-india.net/news/dee-development-engineers-secures-inr-36-crore-order-from-reliance-industries-",
+      "source": "energetica-india.net",
+      "date": "2026-09-12T17:25:55.227Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "DEE Development Engineers won Rs 36 crore order from Reliance Industries.",
       "sources_count": 3,
       "enriched": true
     },
     {
-      "id": "nae30ae4df9c1",
-      "ticker": "MSECL",
-      "company": "Monarch Surveyors and Engineering Consultants Ltd",
-      "sector": "Services",
+      "id": "n3195083080aa",
+      "ticker": "VIVIDEL",
+      "company": "Vivid Electromech Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Vivid Electromech Reports 36% YoY Revenue Growth in Q1 FY27; Order Pipeline Strong at Rs 210 Cr - www.lokmattimes.com",
+      "url": "https://www.lokmattimes.com/business/vivid-electromech-reports-36-yoy-revenue-growth-in-q1-fy27-order-pipeline-strong-at-rs-210-cr/",
+      "source": "lokmattimes.com",
+      "date": "2026-09-12T17:24:37.859Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Vivid Electromech posted 36% revenue growth in Q1 FY27 with a strong order pipeline of Rs 210 crore.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n09ce9092aea7",
+      "ticker": "VIVIDEL",
+      "company": "Vivid Electromech Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Vivid Electromech Stock: Can 50% Data Centre Revenue and 3x Capacity Expansion Drive FY27 Growth?",
+      "url": "https://tradebrains.in/vivid-electromech-stock-can-50-data-centre-revenue-and-3x-capacity-expansion-drive-fy27-growth/",
+      "source": "tradebrains.in",
+      "date": "2026-09-12T17:24:37.859Z",
+      "topic": "Growth",
+      "keyword": "Capacity Expansion",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Vivid Electromech plans 3x capacity expansion targeting 50% revenue from data centres in FY27.",
+      "enriched": true
+    },
+    {
+      "id": "n37ec8c8aa262",
+      "ticker": "AVANTEL",
+      "company": "Avantel Limited",
+      "sector": "Capital Goods",
       "scope": [
         "watchlist"
       ],
-      "title": "Monarch Surveyors bags Rs 4-cr government contract in Maharashtra | Capital Market News - Business Standard",
-      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-bags-rs-4-cr-government-contract-in-maharashtra-126071500937_1.html",
-      "source": "business-standard.com",
-      "date": "2026-09-11T17:57:05.698Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Monarch Surveyors bags Rs 4 crore government contract in Maharashtra.",
+      "title": "Avantel schedules board meeting to approve Imeds Global merger",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUW1vXzhzb1FYSzNDdERCcV9kXzFvdFNxMWppS0Q5cWdzQVp4azkyanM3eVdJQndkbUZ0UTVtWjZYVmI4SU03WWhlMDBGOGVnbEdCTzhHMFYtNnlNVjVUSEN2eGVfNFI5RDlZd0h0YzVTVzNTYXg4YkZJem1pN1dpRl9ITjhJY0tVaWRoaU51WEtwNFhJTlo0T1F5aU1OeXRFdm9CWmpoaWVXLUFaNnVmaHdEUHpuYkk?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-09-12T15:02:02.000Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Avantel board to meet to approve merger of wholly-owned subsidiary Imeds Global.",
+      "enriched": true
+    },
+    {
+      "id": "n2f8cbc476590",
+      "ticker": "AVANTEL",
+      "company": "Avantel Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Avantel Ltd to Consider Merger of Wholly-Owned Subsidiary Imeds Global",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUWFNb2xhWURLRWN0al9iYmhYcGRzenNRanprelZPRm1OamJEVnVybWRrZGdUci1jTllGQk54UzExbnpDOVpKUzBDZGI4ZXdwNlJhT0RScFdrb19RR3RhamhKMFpTekpzSkY3YURZYWQ1cTQyTzVCeXNURmd2RjhiSzJXaXFxT2lfd0FjQTlfRGRyT3ZRZGdXQWw5WW0zUEdGNHUwaVVlbU52VXFuZmdkMU1ORTdUTXNncXh3eWlKa1BmVFRwU3dhQl9PbVItTTgzSGhnXzJJOVhNU2pfOVdHOXFJY2RjelFpWUljSA?oc=5",
+      "source": "Whalesbook",
+      "date": "2026-09-12T14:53:37.000Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Avantel to consider merger of wholly-owned subsidiary Imeds Global.",
       "enriched": true
     },
     {
@@ -86,27 +244,6 @@
       "enriched": true
     },
     {
-      "id": "n22c980504bd4",
-      "ticker": "TANFACIND",
-      "company": "TANFAC Industries Ltd",
-      "sector": "Chemicals",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Anupam Rasayan: Completes ₹60.88 Crore Equity Share Acquisition in Tanfac | InvestyWise",
-      "url": "https://www.investywise.com/anupam-rasayan-india-ltd-acquisition-of-equity-shares-in-tanfac-industries/",
-      "source": "investywise.com",
-      "date": "2026-09-11T17:52:40.153Z",
-      "topic": "Deals",
-      "keyword": "Preferential Issue",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Anupam Rasayan acquired equity shares worth ₹60.88 crore in Tanfac Industries.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "n9a4bd16ff357",
       "ticker": "SAREGAMA",
       "company": "Saregama India Limited",
@@ -144,6 +281,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "KSH International expands capacity and targets 20% volume growth this year.",
+      "enriched": true
+    },
+    {
+      "id": "n8d5644d52cb6",
+      "ticker": "THEME",
+      "company": "Power Equipment",
+      "sector": "Capital Goods",
+      "scope": [
+        "universe"
+      ],
+      "title": "Huge Boost For Transformers And Rectifiers: Massive ₹1,000 Crore Order From Power Grid Secured",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOREhnSnUtdnJlazRsUDl6aWNIVVY3aWxvRnJxY0x6WHIxYUZWN2VPZ3NzTWdyWlNlWGFTMktqTmtLaHJnbWtzd2dNdzhnVU5WWF9TUml0U3pSVlgzNjZvb1ZCcy1jWGVjTVFoLTBObEFPRFQtQzY1ZHpuRVZYTXU3VkJHaEhFTzduOVlnNGN6MDR0Sm1mR2xRQkRHRUozVWt3MkZlSUpkUndDbXJIaG40QUlicGE5R1ZUZFJHRElFdU5NSWdyS3c3cFVuNVV6YldicGxnOTdhcw?oc=5",
+      "source": "Goodreturns",
+      "date": "2026-09-11T16:08:31.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Power Equipment secured a ₹1,000 crore order from Power Grid for transformers and rectifiers.",
       "enriched": true
     },
     {
@@ -340,7 +496,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Sterlite Technologies approved ₹3,000 crore capex for capacity expansion.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -420,26 +576,6 @@
       "mood": "positive",
       "takeaway": "MTAR sees major opportunity from government's Rs 1.1 lakh crore defence order approval.",
       "enriched": true
-    },
-    {
-      "id": "nddaa524773ad",
-      "ticker": "LAXMIDENTL",
-      "company": "Laxmi Dental Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Laxmi Dental Ltd (NSE:LAXMIDENTL) (Q1 2027) Earnings Call Highlights: Record Revenue and ...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/laxmi-dental-ltd-nse-laxmidentl-150024610.html",
-      "source": "finance.yahoo.com",
-      "date": "2026-09-10T17:53:32.814Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Laxmi Dental reported record revenue in Q1 2027 earnings call.",
-      "enriched": true,
-      "sources_count": 2
     },
     {
       "id": "n93df7887bc59",
@@ -2799,7 +2935,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "PVR Inox approved Rs 300 crore share buyback at Rs 1,450 per share.",
-      "sources_count": 3,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -3148,7 +3284,7 @@
       "mood": "positive",
       "takeaway": "Rajesh Power Services wins Rs 653 crore underground power distribution order in Gujarat.",
       "enriched": true,
-      "sources_count": 2
+      "sources_count": 4
     },
     {
       "id": "n17cc3ebb93f8",
@@ -4265,25 +4401,6 @@
       "enriched": true
     },
     {
-      "id": "nd3d5500a6038",
-      "ticker": "ONESOURCE",
-      "company": "Onesource Specialty Pharma Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "OneSource Specialty Pharma: Capacity Expansion Sets Stage for FY27-28 Growth Target",
-      "url": "https://www.moneylife.in/article/onesource-specialty-pharma-capacity-expansion-sets-stage-for-fy2728-growth-target/80743.html",
-      "source": "moneylife.in",
-      "date": "2026-09-03T20:34:26.929Z",
-      "topic": "Growth",
-      "keyword": "Capacity Expansion",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "OneSource expands capacity to support FY27-28 growth targets.",
-      "enriched": true
-    },
-    {
       "id": "nd9cc161a53c8",
       "ticker": "ONESOURCE",
       "company": "Onesource Specialty Pharma Limited",
@@ -4300,6 +4417,25 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "OneSource partners with Formycon to manufacture biosimilars for global markets.",
+      "enriched": true
+    },
+    {
+      "id": "nd3d5500a6038",
+      "ticker": "ONESOURCE",
+      "company": "Onesource Specialty Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "OneSource Specialty Pharma: Capacity Expansion Sets Stage for FY27-28 Growth Target",
+      "url": "https://www.moneylife.in/article/onesource-specialty-pharma-capacity-expansion-sets-stage-for-fy2728-growth-target/80743.html",
+      "source": "moneylife.in",
+      "date": "2026-09-03T20:34:26.929Z",
+      "topic": "Growth",
+      "keyword": "Capacity Expansion",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "OneSource expands capacity to support FY27-28 growth targets.",
       "enriched": true
     },
     {
@@ -5147,26 +5283,6 @@
       "enriched": true
     },
     {
-      "id": "n89f1b3a6c32d",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "DEE Development Engineers Bags ₹36 Cr Order from RIL",
-      "url": "https://hdfcsky.com/news/dee-development-engineers-bags-rs-36-cr-order-from-reliance-industries",
-      "source": "hdfcsky.com",
-      "date": "2026-09-03T20:34:08.584Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "DEE Development Engineers secured ₹36 crore order from Reliance Industries Limited.",
-      "enriched": true,
-      "sources_count": 2
-    },
-    {
       "id": "ne747ba94a8af",
       "ticker": "DEEDEV",
       "company": "DEE Development Engineers Limited",
@@ -5335,7 +5451,8 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Balu Forge wins ₹100 crore order for 155mm shells, ships 10,000 units.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n00ce4f0b064d",
@@ -8255,6 +8372,27 @@
       "enriched": true
     },
     {
+      "id": "n71dab55152b8",
+      "ticker": "STYLAMIND",
+      "company": "Stylam Industries Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Stylam Industries Q2 2026 Earnings: Revenue Grows 10.17% YoY, EPS at ₹88.25 - Trough Earnings Signal",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdXRNanRSYS05VjRxSTVob1A5MTZZempjTDZQUFVLOXpJbVQyXzJFdmlzMGlJekpBUU0zcDdrcHBHTWFWaGZNNURsS1lJdGlBcTJzMWpab1V3eE5JOVVqR3JKMDN3M2lpbk83TmxvMTJWUGo5bG1jWmdkODFhenZIZmJQb0hZamlxczBOLUtZYTh0dXlGWEJQb1dDYXdBODA4ZnMyUEZlMDVkQUNDUlItMThYaw?oc=5",
+      "source": "siam.in",
+      "date": "2026-07-29T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Stylam Industries Q2 revenue up 10% year-on-year with earnings per share at ₹88.25.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
       "id": "n20b10b303a00",
       "ticker": "GMMPFAUDLR",
       "company": "GMM Pfaudler Limited",
@@ -8410,6 +8548,25 @@
       "enriched": true
     },
     {
+      "id": "n4436df7be080",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Surya Roshni wins Rs 68.11 crore order from undisclosed client for OCTG supply",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM1Exeld3X1h5WFZWWVJ5MEdSY2FtUlBSU0htbDVCc0xIdk9rMkoycElUNUJ3MzhSMXRKZUk2YWxKRTdxV3N3YzBaby1xaGt5Qmg3S3dHVHl1NjV0V1N4dmtPamdraDNOdXl6MHJEV0xUYnd3WEFMOEJqTUJjNk42by15Qkd1UENEZzdWMVZLLUpsX2RtVl9Lc21iVW90ejZBVVJiNWhiT3hzZFg0SzBLTk1zOEZEeXZHdDh0dldJUFZ0dERTQW9LV2hHQXdIWFlT?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-07-24T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Surya Roshni secured ₹68.11 crore order for OCTG supply.",
+      "enriched": true
+    },
+    {
       "id": "n1e1fffd69b25",
       "ticker": "ZENTEC",
       "company": "Zen Technologies Limited",
@@ -8445,25 +8602,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Pon Pure Chemicals is expanding capacity and focusing on innovation in specialty chemicals.",
-      "enriched": true
-    },
-    {
-      "id": "n4436df7be080",
-      "ticker": "SURYAROSNI",
-      "company": "Surya Roshni Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Surya Roshni wins Rs 68.11 crore order from undisclosed client for OCTG supply",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM1Exeld3X1h5WFZWWVJ5MEdSY2FtUlBSU0htbDVCc0xIdk9rMkoycElUNUJ3MzhSMXRKZUk2YWxKRTdxV3N3YzBaby1xaGt5Qmg3S3dHVHl1NjV0V1N4dmtPamdraDNOdXl6MHJEV0xUYnd3WEFMOEJqTUJjNk42by15Qkd1UENEZzdWMVZLLUpsX2RtVl9Lc21iVW90ejZBVVJiNWhiT3hzZFg0SzBLTk1zOEZEeXZHdDh0dldJUFZ0dERTQW9LV2hHQXdIWFlT?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-07-24T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Surya Roshni secured ₹68.11 crore order for OCTG supply.",
       "enriched": true
     },
     {
@@ -8660,26 +8798,6 @@
       "enriched": true
     },
     {
-      "id": "nb5537f156d78",
-      "ticker": "PDSL",
-      "company": "PDS Limited",
-      "sector": "Textiles",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "PDS Limited Q2 2026 Earnings: Revenue Growth of 4.5% YoY, EPS at ₹7.87 - EBITDA Analysis",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPekRmQjRrZmtEcjVKRHFiOHVONWFsSDJ2djRoa0h1cHVaYVY4TlhyMThEX3hqU3ZoVzFONmRfaG55ZkRIZVNJQWJQcFpNdERocXB5OTdDM0JVSmtkbVZxc09VbHVzSUpGcThOZzFEU0p2bEpmTUFtUDNVN2pqNzdOdjBzWVNtNmJrcHdiUWtvMGhXaHNpZ1JaeV9pbVhtRWQ2T1U0Z2xPcGd2bFU?oc=5",
-      "source": "siam.in",
-      "date": "2026-07-15T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "PDS Q2 revenue up 4.5% year-on-year with earnings of ₹7.87 per share.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "n71251ce41024",
       "ticker": "ONESOURCE",
       "company": "Onesource Specialty Pharma Limited",
@@ -8696,6 +8814,26 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "OneSource Specialty Pharma partners with Formycon for biosimilar manufacturing.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nb5537f156d78",
+      "ticker": "PDSL",
+      "company": "PDS Limited",
+      "sector": "Textiles",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "PDS Limited Q2 2026 Earnings: Revenue Growth of 4.5% YoY, EPS at ₹7.87 - EBITDA Analysis",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPekRmQjRrZmtEcjVKRHFiOHVONWFsSDJ2djRoa0h1cHVaYVY4TlhyMThEX3hqU3ZoVzFONmRfaG55ZkRIZVNJQWJQcFpNdERocXB5OTdDM0JVSmtkbVZxc09VbHVzSUpGcThOZzFEU0p2bEpmTUFtUDNVN2pqNzdOdjBzWVNtNmJrcHdiUWtvMGhXaHNpZ1JaeV9pbVhtRWQ2T1U0Z2xPcGd2bFU?oc=5",
+      "source": "siam.in",
+      "date": "2026-07-15T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "PDS Q2 revenue up 4.5% year-on-year with earnings of ₹7.87 per share.",
       "sources_count": 2,
       "enriched": true
     },
@@ -8738,26 +8876,6 @@
       "enriched": true
     },
     {
-      "id": "naa818c78efab",
-      "ticker": "VIVIDEL",
-      "company": "Vivid Electromech Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Vivid Electromech Reports 36% YoY Revenue Growth in Q1 FY27; Order Pipeline Strong at Rs 210 Cr",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQV1dVNFd1QXJaNkRNTXB3Tkt6R1pKcWN5RDJwNUp2OVluZDVreFRtaWttMnQ3cDFJYlRZVUROdlhHREFLdXA4dXJRblp1a180ZklhU3dwQnVMaGJUSXhzN1NaUXJUS3NzekpjSkMxeVpJYUtkR1JMZThpRU5ialhMR1pXd200NjBjRThYaUZXMFRxNkJUQXNaajJ4Q3RvalJzM19uRVlXeVIwOVo2WUE3Njg3aFlLZlV5OWV0TG9qSWRvRkJDZGo5YzRqaUcwd0hkeko1aDBlcjlCd3J0?oc=5",
-      "source": "ANI News",
-      "date": "2026-07-14T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Vivid Electromech reports 36% revenue growth with Rs 210 crore order pipeline.",
-      "enriched": true
-    },
-    {
       "id": "n6c343e933738",
       "ticker": "VBL",
       "company": "Varun Beverages Limited",
@@ -8797,27 +8915,6 @@
       "enriched": true
     },
     {
-      "id": "n88c600eb9f2a",
-      "ticker": "OMNI",
-      "company": "Omnitech Engineering Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Omnitech Engineering Limited (OMNI.NS) Mar 2026 Earnings: Steady Performance Amid Modest Revenue Growth",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMFBIZVplOWRnWFpqSHl0RzZFdzQxYWJ6SFI3MEpoSGxNazh3VmRrOGJia3dPaU1pR3E0Q3VfTkZISEZmNHRaOVdSVEt2MUttdVJSTzlnTTZLbzJTcHRrT21SVXJ2N3hjYmQ0UFdEZ0xfelgzYUFWWEpTeFd1U3NXSURpZXFWRjJKYXE0S2pIbUZhbm0wUUQyRDl2dlp1enpGR2NwWHI4aVRfY01aTEowSkNiRldQbml1eXM5U1dpZEZ2b2VId0daNUNNUWlBdU94OE5wSlBqYW8?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-13T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Omnitech Engineering March quarter showed steady performance with modest revenue growth.",
-      "sources_count": 4,
-      "enriched": true
-    },
-    {
       "id": "nee77aa94b780",
       "ticker": "SURYAROSNI",
       "company": "Surya Roshni Limited",
@@ -8834,6 +8931,27 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Surya Roshni reported Q2 FY2026 results with steady revenue growth and operational resilience.",
+      "enriched": true
+    },
+    {
+      "id": "n4211a7fc07af",
+      "ticker": "OMNI",
+      "company": "Omnitech Engineering Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Omnitech Engineering Mar 2026 Earnings: Steady Performance with ₹2.11 EPS on ₹140 Crore Revenue - Pre-Earnings Setup",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdUswcTY5R2x3MGJ1eU1CSHE1SXJNNWdoaWFnNjBLVkhkWERhSUFRMWtHS0ZtZ1ZkanBQakx0bnJ2aHVfcEFOTEI0UVplUmViMl9tNDNHOGV0SXBCU3F5Ri1IbTRNTndDYzhURG0telItc3JWV0NjdmgtaGFfbFRZNDNUMGRLdDZ4ODY5WFl6cU00dFh6SFhBcXdzZnpaTXYybHdqWGZ4Q1FjbjV5aDVEaEQtNElQTDRicEtFQWFrNTNPS1RWcGJOY3NkdnVWZFU?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-12T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Omnitech Engineering reports March quarter revenue of ₹140 crore with ₹2.11 earnings per share.",
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -8874,6 +8992,27 @@
       "takeaway": "Sai Life Sciences reported 29.4% revenue growth year-on-year in Q2 FY2026 with EPS of ₹16.43.",
       "sources_count": 3,
       "enriched": true
+    },
+    {
+      "id": "n728e5d666d7a",
+      "ticker": "STYLAMIND",
+      "company": "Stylam Industries Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "STYLAMIND Q2 2026 Earnings: Strong Revenue Growth Drives Robust EPS Performance - EPS Consistency Score",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYkFEVjJvQm1RSUNQSkp6VzB2bzNBRFA3cUlxYUtDVmtSSDEwR1Z6OS1jLUtac044b3FUaTVPemxrYW52RGMzV3R1Q3BCVTlCODYxUUdHUmk0d2xMa1RqWW1NR3YwUGZmQTRGNVJhZTJPRWprMlRjM2dGVk5ycXRZZkw0QldDT1VFOFN1OFNRcnl1bG05amEzN3NiMlA0VkUzQ1NzMEhwQXFialdLWno2X3VzQmhTXzhRX0VqcXdR?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-12T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Stylam Industries Q2 2026 shows strong revenue growth and robust earnings per share.",
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "nf74e489caebd",
@@ -8934,27 +9073,6 @@
       "enriched": true
     },
     {
-      "id": "n728e5d666d7a",
-      "ticker": "STYLAMIND",
-      "company": "Stylam Industries Limited",
-      "sector": "Consumer Durables",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "STYLAMIND Q2 2026 Earnings: Strong Revenue Growth Drives Robust EPS Performance - EPS Consistency Score",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYkFEVjJvQm1RSUNQSkp6VzB2bzNBRFA3cUlxYUtDVmtSSDEwR1Z6OS1jLUtac044b3FUaTVPemxrYW52RGMzV3R1Q3BCVTlCODYxUUdHUmk0d2xMa1RqWW1NR3YwUGZmQTRGNVJhZTJPRWprMlRjM2dGVk5ycXRZZkw0QldDT1VFOFN1OFNRcnl1bG05amEzN3NiMlA0VkUzQ1NzMEhwQXFialdLWno2X3VzQmhTXzhRX0VqcXdR?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-12T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Stylam Industries Q2 2026 shows strong revenue growth and robust earnings per share.",
-      "enriched": true,
-      "sources_count": 2
-    },
-    {
       "id": "nc6fe2062feaf",
       "ticker": "SCODATUBES",
       "company": "Scoda Tubes Limited",
@@ -8975,23 +9093,22 @@
       "sources_count": 2
     },
     {
-      "id": "nc2b556a77422",
-      "ticker": "EPIGRAL",
-      "company": "Epigral Limited",
-      "sector": "Chemicals",
+      "id": "n028b0769b644",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "sector": "Capital Goods",
       "scope": [
-        "portfolio",
         "watchlist"
       ],
-      "title": "EPIGRAL Mar 2026 Earnings: Strong EPS Performance Amid Stable Revenue - Estimate Revision Count",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT3J5ZTNvSE1xeFZ2bkNqZ20yYmlzSjVrQ1lpcHcyaHVFYlZualRBY2h1WVFseTdqNnJSaU5pemxYTWVyblFBZlVkV09sanhNV0ZhZTdGZHJTZzJJTV9vU3JFZlBkaTZhUXgzUHNDc3RqM192TWxWUTduNzk0UHBUTndXNlpmRmJmSTNnQTA3dV9SNnF2ZWJsWm91UFBjNURNY2dLOVM4N09rbmpnSzZkSg?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-12T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
+      "title": "Surya Roshni Ltd secures export order",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VdXA1ZGtZaVlrYXk5QV9GbXd0cnEyTWdhcXVPanRRR2NPSEtSY2F0VjZkVXdGb2ctMFk2TzBtTXBHY0NtYTZVZ3dSNkhaX0s1aFlnUVJWV21TdmozWDI0?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-07-11T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
       "mood": "positive",
-      "takeaway": "Epigral March quarter delivered strong earnings per share with stable revenue.",
+      "takeaway": "Surya Roshni secured an export order.",
       "sources_count": 2,
       "enriched": true
     },
@@ -9186,26 +9303,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Varun Beverages Q1 revenue up 7.1% with improved operational efficiency.",
-      "enriched": true
-    },
-    {
-      "id": "n028b0769b644",
-      "ticker": "SURYAROSNI",
-      "company": "Surya Roshni Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Surya Roshni Ltd secures export order",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VdXA1ZGtZaVlrYXk5QV9GbXd0cnEyTWdhcXVPanRRR2NPSEtSY2F0VjZkVXdGb2ctMFk2TzBtTXBHY0NtYTZVZ3dSNkhaX0s1aFlnUVJWV21TdmozWDI0?oc=5",
-      "source": "EquityBulls",
-      "date": "2026-07-11T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Surya Roshni secured an export order.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -9697,6 +9794,26 @@
       "enriched": true
     },
     {
+      "id": "n69686c4caa55",
+      "ticker": "SETL",
+      "company": "Standard Engineering Technology Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Standard Engineering Technology Limited Mar 2026 Earnings: Modest Profit as Revenue Holds Steady - Tangible Book Value",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPR096SDk5WEVlMEF1MHJKLVlldjU3V05DOXRwXzdYUlNQZjEzUGtXQUtjUnUxcjV1V2V5aXpwMEJzOUNhWXczUWxOUUhhaHBvcDZrQlcyV0ZnZ0dnSjc2cnBuSjRZQnVQelhoSVh4ZmFxa2htRHlOWWRRLThSdDIyMXFGeVVkaGZqY05XcmxsN3VVdEQ5RnJYV0o5amYteTVINGdDXzN3Z2xGTWx6ck5jTklSQzYwdkdiSi1tS1JYTlhpOUljbzEzelBnRTl1VEVqYVhz?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-06T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Standard Engineering Technology reports modest March quarter profit with steady revenue.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
       "id": "n7efaeb616c58",
       "ticker": "BALUFORGE",
       "company": "Balu Forge Industries Limited",
@@ -9717,6 +9834,26 @@
       "enriched": true
     },
     {
+      "id": "n087145e4fd8e",
+      "ticker": "TANFACIND",
+      "company": "TANFAC Industries Ltd",
+      "sector": "Chemicals",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "TANFAC Industries approves ₹173 Crore Preferential Issue, National Stock Exchange Listing, and Dr. D. Karthikeyan as Chairperson",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wQ2dDM1h2RlFjNU9nZVZ6ZFJqZ3hsNDVCWlZUSG5JWm9QZ0ZadkFxTnRKRWlhSFFaaHpCckZ2QVlNSGR4WlAzb2phRmFFWUtCYUJMT2lVY2pDcWR6ZEVB?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-07-06T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Preferential Issue",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "TANFAC Industries approves ₹173 crore preferential share issue and NSE listing; appoints Dr. Karthikeyan as Chairperson.",
+      "enriched": true
+    },
+    {
       "id": "n1e02f059d3eb",
       "ticker": "EPIGRAL",
       "company": "Epigral Limited",
@@ -9734,6 +9871,25 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Epigral reported March 2026 earnings showing resilient performance amid market challenges.",
+      "enriched": true
+    },
+    {
+      "id": "n755b1236d85a",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "AURIONPRO Q2 2026 Earnings: Robust Revenue Growth Driven by Strong Demand in Digital Solutions - Margin Guidance",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcWc5VmI2YWNSN0lGakVBOGJTUnNuNlBfTVpoLW5CY05wSHJfWnFNa0dFb2V0RXQxNGJlUm13Y3hkdk1SVWlUaGRRcHQ1Z3RzSnUtU0wtWW55alFSRWJtM0lTd1VFT3M1RVpobzFGMWhqWWFNWUV0M18zZFhpTWRuc05aT2pfVHh1VnAyRG1RTk1fQ29NZW9fZ0lvTjh0MUVBM1NFeGlWdVJoTUNVNXhxNDNRX3o2aGhReVFDNERiYzhOU3JTRklROVFITmVyaHk3?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-05T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Aurionpro Solutions Q2 shows strong revenue growth driven by digital solutions demand.",
       "enriched": true
     },
     {
@@ -9793,6 +9949,25 @@
       "mood": "positive",
       "takeaway": "Hariom Pipe Industries Q2 2026 revenue grows 22.84% year-on-year.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "ndc4408267873",
+      "ticker": "HILINFRA",
+      "company": "Highway Infrastructure Limited",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "HILINFRA Mar 2026 Earnings: Steady Operation With EPS of ₹1.28 - EPS Guidance Update",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX3VrZFZ6alhUY0xlaElNanByRzZDQVZ5VlJaQWZJQU8wTlA1V2FEbGtDTnVKaEVjQWtBNnlIelVIV0JwOE0wN1E4Mk1XWmxqSmhLZkxBcUFta3RVRHlUSTVubUE1aGI0M0haNFozTFVYNDBEZDZJdnB6a3MzZ2VkOTlJWDk1Rnk3aWpTLVFSQUJEa21hT3dRblRCTFl4bmZsSnBPZw?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-05T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Highway Infrastructure reports March quarter earnings per share of ₹1.28.",
       "enriched": true
     },
     {
@@ -9947,7 +10122,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Man Industries reported strong Q4 earnings of ₹9.36 per share on revenue of ₹1,157 crore.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -10088,25 +10263,6 @@
       "enriched": true
     },
     {
-      "id": "nb624331cac73",
-      "ticker": "DAMCAPITAL",
-      "company": "Dam Capital Advisors Limited",
-      "sector": "Financial Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Dam Capital Advisors Limited Q2 2026 Earnings: Revenue Dip Amid Modest Stock Uptick - Quarterly Profit Report",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTUUxMVRQWngzZ3ZFY3ZjTFZFNml2ZkVsaFdJSGpnQ3dMTEhqOFowNk56S2pEbGo3clBDeE5ZdmhWQ2laZ3FCbUhuM1FrNHMyWUh3TmN2VU9sQzRiSFVzcDM2LXFqUU1jN002SnpybVZBTGZObVVEanpQeXlSVmx3eUoyQ1BYYnRiTlVWS2FnakUxSFNNd3AzQ09zQzM5YzE3UDF6bTVkblVZX09odjlPTy1FZ0xFQjFrUG9lMmhjMWlmZw?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-01T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "negative",
-      "takeaway": "Dam Capital Advisors Q2 revenue declines despite modest stock gain.",
-      "enriched": true
-    },
-    {
       "id": "na99507b339c2",
       "ticker": "LAXMIDENTL",
       "company": "Laxmi Dental Limited",
@@ -10125,6 +10281,25 @@
       "takeaway": "Laxmi Dental's Q2 revenue increased 14.77% year-on-year despite market challenges.",
       "enriched": true,
       "sources_count": 2
+    },
+    {
+      "id": "nb624331cac73",
+      "ticker": "DAMCAPITAL",
+      "company": "Dam Capital Advisors Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Dam Capital Advisors Limited Q2 2026 Earnings: Revenue Dip Amid Modest Stock Uptick - Quarterly Profit Report",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTUUxMVRQWngzZ3ZFY3ZjTFZFNml2ZkVsaFdJSGpnQ3dMTEhqOFowNk56S2pEbGo3clBDeE5ZdmhWQ2laZ3FCbUhuM1FrNHMyWUh3TmN2VU9sQzRiSFVzcDM2LXFqUU1jN002SnpybVZBTGZObVVEanpQeXlSVmx3eUoyQ1BYYnRiTlVWS2FnakUxSFNNd3AzQ09zQzM5YzE3UDF6bTVkblVZX09odjlPTy1FZ0xFQjFrUG9lMmhjMWlmZw?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-01T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "negative",
+      "takeaway": "Dam Capital Advisors Q2 revenue declines despite modest stock gain.",
+      "enriched": true
     },
     {
       "id": "nadb99199cd58",
@@ -11061,7 +11236,7 @@
       "mood": "positive",
       "takeaway": "Man Industries wins ₹1,000 crore orders, total orderbook now ₹4,100 crore.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 4
     },
     {
       "id": "n0d9e9112cbda",
