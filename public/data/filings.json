@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T09:14:26.039Z",
+  "generated_at": "2026-09-12T17:30:40.482Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,36 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "fa66567d99fef",
+      "ticker": "DHOOTTRANS",
+      "company": "Dhoot Transmission Limited",
+      "exchange": "NSE",
+      "date": "2026-09-12T18:32:27.000Z",
+      "category": "Disclosure",
+      "title": "Dhoot Transmission Limited has informed the Exchange about General Updates",
+      "url": "https://nsearchives.nseindia.com/corporate/DTL_12092026183141_SE_intimation_Change_in_CIN_12092026.pdf"
+    },
+    {
+      "id": "f3b13b62223f5",
+      "ticker": "LUMINO",
+      "company": "Lumino Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-12T16:55:41.000Z",
+      "category": "Credit Rating",
+      "title": "Lumino Industries Limited has informed the Exchange about Credit Rating- Revision",
+      "url": "https://nsearchives.nseindia.com/corporate/LUMINO123_12092026165503_Reg_30_Intimation_Credit_Rating.pdf"
+    },
+    {
+      "id": "f2eb142a755d3",
+      "ticker": "GULFOILLUB",
+      "company": "Gulf Oil Lubricants India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-12T16:25:19.000Z",
+      "category": "Shareholders meeting",
+      "title": "We enclose herewith the Voting Results and Scrutinizer's Report of the 18th Annual General Meeting of the Company held on September 11, 2026. Kindly take the same on record.",
+      "url": "https://nsearchives.nseindia.com/corporate/GULFOILLUB_12092026162446_Votingresultsscrutinizer11092026.pdf"
+    },
     {
       "id": "fbad6fb6f7dc3",
       "ticker": "MEESHO",
@@ -19976,36 +20006,6 @@
       "category": "Disclosure",
       "title": "Mangesh Ramesh Chauhan has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
       "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_27042026180426_SKYGOLD.pdf"
-    },
-    {
-      "id": "fb11a97161762",
-      "ticker": "SKYGOLD",
-      "company": "SKY GOLD AND DIAMONDS LIMITED",
-      "exchange": "NSE",
-      "date": "2026-06-22T14:49:54.000Z",
-      "category": "Disclosure",
-      "title": "Mangesh Ramesh Chauhan Disclosures under regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of shares and takeover) Regulations, 2011",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_27042026182610_SKYGOLD.pdf"
-    },
-    {
-      "id": "f91b1e698bd89",
-      "ticker": "URBANCO",
-      "company": "Urban Company Limited",
-      "exchange": "NSE",
-      "date": "2026-06-22T11:11:02.000Z",
-      "category": "Disclosure",
-      "title": "Urban Company Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_17062026130650_urban.zip"
-    },
-    {
-      "id": "fa1d406bd5cd3",
-      "ticker": "SONACOMS",
-      "company": "Sona BLW Precision Forgings Limited",
-      "exchange": "NSE",
-      "date": "2026-06-20T19:17:11.000Z",
-      "category": "Disclosure",
-      "title": "Sona Blw Precision Forgings Limited has informed the Exchange regarding 'BRSR '.",
-      "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_20062026191615_BRSR.pdf"
     }
   ]
 }
