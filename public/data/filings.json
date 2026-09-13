@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T17:30:40.482Z",
+  "generated_at": "2026-09-13T07:43:50.834Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,26 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "fc1d965125f6b",
+      "ticker": "TEMPSENS",
+      "company": "Tempsens Instruments (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-09-13T11:48:09.000Z",
+      "category": "Investor Presentation",
+      "title": "Tempsens Instruments (India) Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/TEMPSENS_13092026114755_Intimation.pdf"
+    },
+    {
+      "id": "f11ef2f2ed757",
+      "ticker": "ESDS",
+      "company": "ESDS Software Solution Limited",
+      "exchange": "NSE",
+      "date": "2026-09-13T11:23:58.000Z",
+      "category": "Shareholders meeting",
+      "title": "ESDS Software Solution Limited has informed the Exchange regarding Notice of Postal Ballot",
+      "url": "https://nsearchives.nseindia.com/corporate/ESDS_13092026112037_ESDS_Postal_Ballot_Notice.pdf"
+    },
     {
       "id": "fa66567d99fef",
       "ticker": "DHOOTTRANS",
@@ -19986,26 +20006,6 @@
       "category": "Disclosure",
       "title": "Sarala Real Estate Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
       "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_13052026165551_SAREGAMA2.pdf"
-    },
-    {
-      "id": "fd822bc5a1d8b",
-      "ticker": "SAREGAMA",
-      "company": "Saregama India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-22T15:33:37.000Z",
-      "category": "Disclosure",
-      "title": "Quest Capital Markets Ltd has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_13052026164638_SAREGAMA1.pdf"
-    },
-    {
-      "id": "f9c824f9b9dca",
-      "ticker": "SKYGOLD",
-      "company": "SKY GOLD AND DIAMONDS LIMITED",
-      "exchange": "NSE",
-      "date": "2026-06-22T14:52:32.000Z",
-      "category": "Disclosure",
-      "title": "Mangesh Ramesh Chauhan has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_27042026180426_SKYGOLD.pdf"
     }
   ]
 }
