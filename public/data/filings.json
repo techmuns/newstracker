@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T07:43:50.834Z",
+  "generated_at": "2026-09-13T17:47:14.581Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,16 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f66edb780abc4",
+      "ticker": "LENSKART",
+      "company": "Lenskart Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-09-13T17:20:23.000Z",
+      "category": "Acquisition",
+      "title": "Lenskart Solutions Limited has informed the Exchange about acquisition of an additional stake in its associate entity, Dimension NXG Private Limited.",
+      "url": "https://nsearchives.nseindia.com/corporate/LENSKART_13092026172005_Reg_30_-_Intimation_Investment_Dimension_NXG_13092026.pdf"
+    },
     {
       "id": "fc1d965125f6b",
       "ticker": "TEMPSENS",
@@ -19996,16 +20006,6 @@
       "category": "Disclosure",
       "title": "Highway Infrastructure Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
       "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_13052026185226_HILINFRA1.pdf"
-    },
-    {
-      "id": "ffb18acae3027",
-      "ticker": "SAREGAMA",
-      "company": "Saregama India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-22T15:34:50.000Z",
-      "category": "Disclosure",
-      "title": "Sarala Real Estate Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_13052026165551_SAREGAMA2.pdf"
     }
   ]
 }
