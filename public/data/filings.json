@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T08:14:23.874Z",
+  "generated_at": "2026-09-14T19:40:47.252Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,46 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f7ee7a78dfb34",
+      "ticker": "VBL",
+      "company": "Varun Beverages Limited",
+      "exchange": "NSE",
+      "date": "2026-09-14T21:05:51.000Z",
+      "category": "Press Release",
+      "title": "Press Release to be issued in Kenya by VBL Industries (Kenya) Limited, wholly-owned subsidiary of our Company.",
+      "url": "https://nsearchives.nseindia.com/corporate/VBL_14092026210532_PressRelease.pdf"
+    },
+    {
+      "id": "f9980558f43ed",
+      "ticker": "ESDS",
+      "company": "ESDS Software Solution Limited",
+      "exchange": "NSE",
+      "date": "2026-09-14T20:11:40.000Z",
+      "category": "Product launch",
+      "title": "ESDS Software Solution Limited has informed the Exchange about Product launch",
+      "url": "https://nsearchives.nseindia.com/corporate/ESDS_14092026200838_ESDS_SWARAJ_Sethu_BSE_NSE_Intimation.pdf"
+    },
+    {
+      "id": "f48802ed758e1",
+      "ticker": "SHRIAHIMSA",
+      "company": "Shri Ahimsa Naturals Limited",
+      "exchange": "NSE",
+      "date": "2026-09-14T17:37:20.000Z",
+      "category": "Shareholders meeting",
+      "title": "Shri Ahimsa Naturals Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 14, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/AHIMSANATURALS_14092026173617_PROCEEDINGS.pdf"
+    },
+    {
+      "id": "f836d62aabbe6",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-14T17:31:25.000Z",
+      "category": "Investor Presentation",
+      "title": "Solar Industries India Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/SOLARINDS_14092026173100_signed_concall1710.pdf"
+    },
     {
       "id": "f513f760ef658",
       "ticker": "SOLARINDS",
@@ -19966,46 +20006,6 @@
       "category": "Investor Presentation",
       "title": "Denta Water and Infra Solutions Limited has informed the Exchange about Schedule of earnings conference call on Thursday, June 25, 2026 at 12:00 Noon(IST)",
       "url": "https://nsearchives.nseindia.com/corporate/DENTA_22062026191053_Intimation_of_Earnings_ConCall_Q4_FY26.pdf"
-    },
-    {
-      "id": "f377846b3cc7c",
-      "ticker": "MOBIKWIK",
-      "company": "One Mobikwik Systems Limited",
-      "exchange": "NSE",
-      "date": "2026-06-22T17:06:46.000Z",
-      "category": "Trading Window",
-      "title": "One Mobikwik Systems Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/MOBIKWIK_22062026170534_Intimation_regarding_the_Trading_Window_closure.pdf"
-    },
-    {
-      "id": "fe3020a7084e7",
-      "ticker": "SAILIFE",
-      "company": "Sai Life Sciences Limited",
-      "exchange": "NSE",
-      "date": "2026-06-22T17:02:59.000Z",
-      "category": "Allotment of Securities",
-      "title": "Sai Life Sciences Limited has informed the Exchange regarding allotment of 170501 securities pursuant to ESOP/ESPS at its meeting held on Jun 22, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/SAILIFE_22062026170222_LODR_Intimation_of_Allotment.pdf"
-    },
-    {
-      "id": "f557ff26698f4",
-      "ticker": "IKS",
-      "company": "Inventurus Knowledge Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-06-22T15:58:51.000Z",
-      "category": "Credit Rating",
-      "title": "Inventurus Knowledge Solutions Limited has informed the Exchange about Credit Rating- New - Submission of Press Release issued by CARE Ratings Limited in relation to Rating assigned to the Company.",
-      "url": "https://nsearchives.nseindia.com/corporate/IKS2006_22062026155739_CreditRatingDisclosure22062026.pdf"
-    },
-    {
-      "id": "fa87233674c2e",
-      "ticker": "SCODATUBES",
-      "company": "Scoda Tubes Limited",
-      "exchange": "NSE",
-      "date": "2026-06-22T15:58:36.000Z",
-      "category": "Disclosure",
-      "title": "Saurabh Amrutbhai Patel has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_13052026122726_Saurabh.pdf"
     }
   ]
 }
