@@ -1,13 +1,90 @@
 {
-  "generated_at": "2026-09-13T17:49:31.861Z",
+  "generated_at": "2026-09-14T08:13:16.047Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 95,
-    "watchlist": 586,
+    "portfolio": 93,
+    "watchlist": 585,
     "universe": 27,
-    "total": 613
+    "total": 612
   },
   "items": [
+    {
+      "id": "n15c0352bcfd0",
+      "ticker": "MANINDS",
+      "company": "Man Industries (India) Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "MAN Industries Joins QatarEnergy Preferred Manufacturers List",
+      "url": "https://www.constructionworld.in/energy-infrastructure/power-and-renewable-energy/man-industries-joins-qatarenergy-preferred-manufacturers-list/96073",
+      "source": "constructionworld.in",
+      "date": "2026-09-14T08:09:10.100Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Man Industries added to QatarEnergy's preferred manufacturers list, opening access to major energy projects.",
+      "enriched": true
+    },
+    {
+      "id": "nc94fc7e46519",
+      "ticker": "DENTALKART",
+      "company": "Vasa Denticity Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Vasa Denticity Ltd (NSE:DENTALKART) (Q1 2027) Earnings Call Highlights: Margins Recover, ...",
+      "url": "https://uk.finance.yahoo.com/news/vasa-denticity-ltd-nse-dentalkart-030115532.html",
+      "source": "uk.finance.yahoo.com",
+      "date": "2026-09-14T08:07:53.421Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Vasa Denticity's Q1 margins recovered, signaling improved profitability.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n8bf6cf333639",
+      "ticker": "ANAWIL",
+      "company": "Anawil Wire and Engineering Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Anawil to Become India's First Listed Pure-Play Windmill Tower Manufacturer",
+      "url": "https://news.webindia123.com/news/Articles/Business/20260804/4483129.html",
+      "source": "news.webindia123.com",
+      "date": "2026-09-14T08:07:09.918Z",
+      "topic": "Other",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Anawil to become India's first listed pure-play windmill tower manufacturer.",
+      "enriched": true
+    },
+    {
+      "id": "n35d019de284d",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries India Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Solar Industries India 's subsidiary announces US$ 1.355 billion acquisition of Omnia Holdings",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNUtxZFhST3Z4dEVqSDVwNWpTOE9DR0dTWTJEUkVJZzFaYkRHNUE4MzJsOTgtYk5qV3JVNUNEcVpzbUVtaUJ2dFBmb2pLYldiUXVDSmF5THdWWURMdU5CUXFUdzUzUmNxcU5iTTgxZk85eUNsclR3YjhUd0hoV1JSZjlva2U3WGR5Qlh6UXB2Z2VQRzBLa3J6QUdRa2oxaUlqZWowbk9CN0ZtYzRmM1h2Ni15Z2JQX29DSmNraUpvd0FYbEY5UHpGbw?oc=5",
+      "source": "Business Upturn",
+      "date": "2026-09-14T07:13:05.000Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Solar Industries subsidiary to acquire Omnia Holdings for $1.355 billion, major expansion move.",
+      "enriched": true
+    },
     {
       "id": "ndbac1d406588",
       "ticker": "MSECL",
@@ -68,25 +145,6 @@
       "enriched": true
     },
     {
-      "id": "n65915d5ddc8e",
-      "ticker": "IKS",
-      "company": "Inventurus Knowledge Solutions Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Inventurus Knowledge Solutions Q1 Results: Earnings call scheduled for Aug 6",
-      "url": "https://scanx.trade/stock-market-news/companies/inventurus-knowledge-solutions-q1-results-earnings-call-scheduled-for-aug-6/47490899",
-      "source": "scanx.trade",
-      "date": "2026-09-13T17:37:54.468Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Inventurus Knowledge Solutions scheduled earnings call for Aug 6 to discuss Q1 results.",
-      "enriched": true
-    },
-    {
       "id": "n89f1b3a6c32d",
       "ticker": "DEEDEV",
       "company": "DEE Development Engineers Limited",
@@ -103,7 +161,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "DEE Development wins ₹36 crore order from Reliance Industries.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -142,27 +200,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Diamond Power wins ₹52.86 crore data centre order from Aurionpro Solutions.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n22c980504bd4",
-      "ticker": "TANFACIND",
-      "company": "TANFAC Industries Ltd",
-      "sector": "Chemicals",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Anupam Rasayan: Completes ₹60.88 Crore Equity Share Acquisition in Tanfac | InvestyWise",
-      "url": "https://www.investywise.com/anupam-rasayan-india-ltd-acquisition-of-equity-shares-in-tanfac-industries/",
-      "source": "investywise.com",
-      "date": "2026-09-13T17:36:23.897Z",
-      "topic": "Deals",
-      "keyword": "Preferential Issue",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Anupam Rasayan acquired ₹60.88 crore worth of equity shares in Tanfac Industries.",
       "sources_count": 2,
       "enriched": true
     },
@@ -457,7 +494,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "DEE Development Engineers' order book stands at ₹2,435.61 crore.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -1082,6 +1119,26 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Aurionpro Solutions reported revenue growth in Q1 FY27 earnings call.",
+      "enriched": true
+    },
+    {
+      "id": "nd6d121bc06b0",
+      "ticker": "MSECL",
+      "company": "Monarch Surveyors and Engineering Consultants Ltd",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "The Monarch Surveyors and Engineering Consultants Ltd receives order worth Rs. 4.66 crores",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82bHhLWC16WjdyUDVuV2JCRUc2bXFidjlEc08zenQtdXY5OElteDYtcXJUWF9kWmF6R09WbGROYjBXMk5vbll5UnhSczZGMUdTVGNWVGQzMk9DT2k0bkkw?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-09-09T06:28:17.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Monarch Surveyors receives order worth Rs. 4.66 crores.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -1739,7 +1796,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Avantel wins ₹83.80 crore order from Zetwerk for satellite communication equipment.",
-      "sources_count": 2,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -3034,7 +3091,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "PVR Inox approved Rs 300 crore share buyback at Rs 1,450 per share.",
-      "sources_count": 3,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -3402,7 +3459,7 @@
       "mood": "positive",
       "takeaway": "Rajesh Power Services wins Rs 653 crore underground power distribution order in Gujarat.",
       "enriched": true,
-      "sources_count": 4
+      "sources_count": 2
     },
     {
       "id": "nf48980ee1346",
@@ -5345,25 +5402,6 @@
       "enriched": true
     },
     {
-      "id": "n50c918f8153a",
-      "ticker": "DENTALKART",
-      "company": "Vasa Denticity Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Vasa Denticity Ltd (NSE:DENTALKART) (Q1 2027) Earnings Call Highlights: Margins Recover, ... By GuruFocus",
-      "url": "https://ca.investing.com/news/company-news/vasa-denticity-ltd-nsedentalkart-q1-2027-earnings-call-highlights-margins-recover--4807046",
-      "source": "ca.investing.com",
-      "date": "2026-09-03T20:34:09.422Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Vasa Denticity reports margin recovery in Q1 2027 earnings.",
-      "enriched": true
-    },
-    {
       "id": "naf02d94bb92a",
       "ticker": "DENTA",
       "company": "Denta Water and Infra Solutions Limited",
@@ -6702,25 +6740,6 @@
       "enriched": true
     },
     {
-      "id": "nc3e12dc6d997",
-      "ticker": "LAPL",
-      "company": "LAPL Automotive Ltd",
-      "sector": "Automobile and Auto Components",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "LAPL Automotive Ltd Q4 Results 2026 - Find LAPL Automotive Ltd Q4 Earnings Result | LAPL Automotive Ltd Q4 results",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWjdtV19wZXV3aHBId0ZwY095UUJ4LTBjSU1GYkkxcGp4SkFkVERHZWdUMmZWeXRqZmxlYUY5X3NycDYxdUo5ME8xVUtWTU00UEdiUVNNcHlBSnE2bHowSWo2dTV4azdzdndrTkhHS3Z2WlhsQzEycVZlR1lUQ2lmZVllZjZtNUQ0R0hJcA?oc=5",
-      "source": "Livemint",
-      "date": "2026-09-01T03:06:03.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "LAPL Automotive released Q4 2026 earnings results.",
-      "enriched": true
-    },
-    {
       "id": "nf797017346d7",
       "ticker": "VAML",
       "company": "Vedanta Aluminium Metal Limited",
@@ -7426,26 +7445,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Glenmark received US FDA approval for Fluticasone Propionate Nasal Spray.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n33dc96227e3e",
-      "ticker": "MSECL",
-      "company": "Monarch Surveyors and Engineering Consultants Ltd",
-      "sector": "Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "The Monarch Surveyors and Engineering Consultants Ltd receives order worth Rs. 4.38 crore",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1Um9TLTBXSDQzdjJHVWdoU2UwZGRBTTU0RWFvV3VKMjltX2l6N3EyNTNzaXVkVEJ4UlAySXhvWWV4VHFDU2N5Rk9feUdBYnpDQ29TMkJHb1ZYdVg5b3hj?oc=5",
-      "source": "equitybulls.com",
-      "date": "2026-08-18T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Monarch Surveyors received order worth Rs. 4.38 crore.",
       "sources_count": 2,
       "enriched": true
     },
@@ -8566,7 +8565,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Stylam Industries Q2 revenue up 10% year-on-year with earnings per share at ₹88.25.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -8725,25 +8724,6 @@
       "enriched": true
     },
     {
-      "id": "n4436df7be080",
-      "ticker": "SURYAROSNI",
-      "company": "Surya Roshni Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Surya Roshni wins Rs 68.11 crore order from undisclosed client for OCTG supply",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM1Exeld3X1h5WFZWWVJ5MEdSY2FtUlBSU0htbDVCc0xIdk9rMkoycElUNUJ3MzhSMXRKZUk2YWxKRTdxV3N3YzBaby1xaGt5Qmg3S3dHVHl1NjV0V1N4dmtPamdraDNOdXl6MHJEV0xUYnd3WEFMOEJqTUJjNk42by15Qkd1UENEZzdWMVZLLUpsX2RtVl9Lc21iVW90ejZBVVJiNWhiT3hzZFg0SzBLTk1zOEZEeXZHdDh0dldJUFZ0dERTQW9LV2hHQXdIWFlT?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-07-24T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Surya Roshni secured ₹68.11 crore order for OCTG supply.",
-      "enriched": true
-    },
-    {
       "id": "n1e1fffd69b25",
       "ticker": "ZENTEC",
       "company": "Zen Technologies Limited",
@@ -8779,6 +8759,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Pon Pure Chemicals is expanding capacity and focusing on innovation in specialty chemicals.",
+      "enriched": true
+    },
+    {
+      "id": "n4436df7be080",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Surya Roshni wins Rs 68.11 crore order from undisclosed client for OCTG supply",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM1Exeld3X1h5WFZWWVJ5MEdSY2FtUlBSU0htbDVCc0xIdk9rMkoycElUNUJ3MzhSMXRKZUk2YWxKRTdxV3N3YzBaby1xaGt5Qmg3S3dHVHl1NjV0V1N4dmtPamdraDNOdXl6MHJEV0xUYnd3WEFMOEJqTUJjNk42by15Qkd1UENEZzdWMVZLLUpsX2RtVl9Lc21iVW90ejZBVVJiNWhiT3hzZFg0SzBLTk1zOEZEeXZHdDh0dldJUFZ0dERTQW9LV2hHQXdIWFlT?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-07-24T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Surya Roshni secured ₹68.11 crore order for OCTG supply.",
       "enriched": true
     },
     {
@@ -8991,7 +8990,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "OneSource Specialty Pharma partners with Formycon for biosimilar manufacturing.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -9031,7 +9030,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Varun Beverages Q1 revenue grew 7% on higher volumes, though profit margins faced pressure.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -9272,26 +9271,6 @@
       "sources_count": 2
     },
     {
-      "id": "n028b0769b644",
-      "ticker": "SURYAROSNI",
-      "company": "Surya Roshni Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Surya Roshni Ltd secures export order",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VdXA1ZGtZaVlrYXk5QV9GbXd0cnEyTWdhcXVPanRRR2NPSEtSY2F0VjZkVXdGb2ctMFk2TzBtTXBHY0NtYTZVZ3dSNkhaX0s1aFlnUVJWV21TdmozWDI0?oc=5",
-      "source": "EquityBulls",
-      "date": "2026-07-11T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Surya Roshni secured an export order.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "n9788241ff7a2",
       "ticker": "UNIMECH",
       "company": "Unimech Aerospace and Manufacturing Limited",
@@ -9327,7 +9306,8 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Aurionpro Q2 revenue grew 20.3% year-on-year with earnings of ₹37.87 per share.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n465ad646d3d1",
@@ -9485,6 +9465,26 @@
       "enriched": true
     },
     {
+      "id": "n028b0769b644",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Surya Roshni Ltd secures export order",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VdXA1ZGtZaVlrYXk5QV9GbXd0cnEyTWdhcXVPanRRR2NPSEtSY2F0VjZkVXdGb2ctMFk2TzBtTXBHY0NtYTZVZ3dSNkhaX0s1aFlnUVJWV21TdmozWDI0?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-07-11T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Surya Roshni secured an export order.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
       "id": "n946f4c4b964a",
       "ticker": "LAXMIDENTL",
       "company": "Laxmi Dental Limited",
@@ -9638,7 +9638,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Jubilant Agri Q2 2026 revenue surges 21.23% year-on-year with EPS at ₹83.31.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -9817,7 +9817,7 @@
       "mood": "positive",
       "takeaway": "Sai Life Sciences posted strong Q2 FY2026 results with 29% revenue growth.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "n78565fcd0d9d",
@@ -10091,6 +10091,25 @@
       "enriched": true
     },
     {
+      "id": "ndc4408267873",
+      "ticker": "HILINFRA",
+      "company": "Highway Infrastructure Limited",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "HILINFRA Mar 2026 Earnings: Steady Operation With EPS of ₹1.28 - EPS Guidance Update",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX3VrZFZ6alhUY0xlaElNanByRzZDQVZ5VlJaQWZJQU8wTlA1V2FEbGtDTnVKaEVjQWtBNnlIelVIV0JwOE0wN1E4Mk1XWmxqSmhLZkxBcUFta3RVRHlUSTVubUE1aGI0M0haNFozTFVYNDBEZDZJdnB6a3MzZ2VkOTlJWDk1Rnk3aWpTLVFSQUJEa21hT3dRblRCTFl4bmZsSnBPZw?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-05T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Highway Infrastructure reports March quarter earnings per share of ₹1.28.",
+      "enriched": true
+    },
+    {
       "id": "n636440f5016e",
       "ticker": "HARIOMPIPE",
       "company": "Hariom Pipe Industries Limited",
@@ -10108,25 +10127,6 @@
       "mood": "positive",
       "takeaway": "Hariom Pipe Industries Q2 2026 revenue grows 22.84% year-on-year.",
       "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "ndc4408267873",
-      "ticker": "HILINFRA",
-      "company": "Highway Infrastructure Limited",
-      "sector": "Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "HILINFRA Mar 2026 Earnings: Steady Operation With EPS of ₹1.28 - EPS Guidance Update",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX3VrZFZ6alhUY0xlaElNanByRzZDQVZ5VlJaQWZJQU8wTlA1V2FEbGtDTnVKaEVjQWtBNnlIelVIV0JwOE0wN1E4Mk1XWmxqSmhLZkxBcUFta3RVRHlUSTVubUE1aGI0M0haNFozTFVYNDBEZDZJdnB6a3MzZ2VkOTlJWDk1Rnk3aWpTLVFSQUJEa21hT3dRblRCTFl4bmZsSnBPZw?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-05T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Highway Infrastructure reports March quarter earnings per share of ₹1.28.",
       "enriched": true
     },
     {
@@ -11241,25 +11241,6 @@
       "enriched": true
     },
     {
-      "id": "n111ce9e7815f",
-      "ticker": "IKS",
-      "company": "Inventurus Knowledge Solutions Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Inventurus Knowledge Solutions Q2 2026 Earnings: Robust Revenue Growth Amid Marginal Stock Dip - Analyst Coverage Count",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdGF4Rndnc19ubDlPNWlQZTRFZkJySS02RnJjSS1TNkJlQXAxdzRZeW9XY1NtUGhyd3FXMVVTbUR5RXhBRDdRUnNwYkRtV05BcE1GOTZLSF9UempWWEdVYTl6M3A3RHVnSTZRbzhodHRTcE5nYmtQQ3pjenphODNnUlN2WnMyM1AzYjRteW4tdWQyNWRsdXVtZDlyMEFRXzJYc2VKdzVoY1lsaXNiNUN5RkkzdHZyR1BpeDVfUXlNNHZJTlZfOHNYZ19qMktfWUdK?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-21T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Inventurus Knowledge Solutions showed robust quarterly revenue growth.",
-      "enriched": true
-    },
-    {
       "id": "nf009024ba426",
       "ticker": "RPSGVENT",
       "company": "RPSG VENTURES LIMITED",
@@ -11278,6 +11259,25 @@
       "takeaway": "RPSG Ventures Q2 2026 revenue grew 17.85% but net loss widened to ₹41.7 per share.",
       "enriched": true,
       "sources_count": 2
+    },
+    {
+      "id": "n111ce9e7815f",
+      "ticker": "IKS",
+      "company": "Inventurus Knowledge Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Inventurus Knowledge Solutions Q2 2026 Earnings: Robust Revenue Growth Amid Marginal Stock Dip - Analyst Coverage Count",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdGF4Rndnc19ubDlPNWlQZTRFZkJySS02RnJjSS1TNkJlQXAxdzRZeW9XY1NtUGhyd3FXMVVTbUR5RXhBRDdRUnNwYkRtV05BcE1GOTZLSF9UempWWEdVYTl6M3A3RHVnSTZRbzhodHRTcE5nYmtQQ3pjenphODNnUlN2WnMyM1AzYjRteW4tdWQyNWRsdXVtZDlyMEFRXzJYc2VKdzVoY1lsaXNiNUN5RkkzdHZyR1BpeDVfUXlNNHZJTlZfOHNYZ19qMktfWUdK?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-06-21T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Inventurus Knowledge Solutions showed robust quarterly revenue growth.",
+      "enriched": true
     },
     {
       "id": "n1c7d00af520d",
@@ -11493,6 +11493,25 @@
       "enriched": true
     },
     {
+      "id": "nd2295cf0ff10",
+      "ticker": "DENTALKART",
+      "company": "Vasa Denticity Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Vasa Denticity uploads earnings call audio for FY26",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOTRVVXlxbm5RSXQ2Zl9leWMydEtvSTVYMHRmaG9SUlhRWk91SnVPR2NtUURWNDlSakNJZklKT1BEc09sb3dJSGdiQ1REbWVCRUMtNzZUS0RHbFBjUnRyeXZLQWpTbzNXOVpsQ2pRcnlSeEFXNnRGUWdQTUlEY0NoOXlrbHZIYTd0STY0LXNOY1ZXLVN6SjdYLWkyRk53dzRpNDlBWUktOGtPdWJY?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-06-15T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Company uploaded earnings call audio for FY26.",
+      "enriched": true
+    },
+    {
       "id": "nf5d39201d9ee",
       "ticker": "SAPPHIRE",
       "company": "Sapphire Foods India Limited",
@@ -11528,25 +11547,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Can Fin Homes posted steady March 2026 earnings with ₹25.96 per share.",
-      "enriched": true
-    },
-    {
-      "id": "nd2295cf0ff10",
-      "ticker": "DENTALKART",
-      "company": "Vasa Denticity Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Vasa Denticity uploads earnings call audio for FY26",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOTRVVXlxbm5RSXQ2Zl9leWMydEtvSTVYMHRmaG9SUlhRWk91SnVPR2NtUURWNDlSakNJZklKT1BEc09sb3dJSGdiQ1REbWVCRUMtNzZUS0RHbFBjUnRyeXZLQWpTbzNXOVpsQ2pRcnlSeEFXNnRGUWdQTUlEY0NoOXlrbHZIYTd0STY0LXNOY1ZXLVN6SjdYLWkyRk53dzRpNDlBWUktOGtPdWJY?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-06-15T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Company uploaded earnings call audio for FY26.",
       "enriched": true
     },
     {
@@ -11875,26 +11875,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Denta Water's Q2 revenue jumped 23% on infrastructure project momentum.",
-      "enriched": true
-    },
-    {
-      "id": "n6760865297b3",
-      "ticker": "SUDEEPPHRM",
-      "company": "Sudeep Pharma Limited",
-      "sector": "Chemicals",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Sudeep Pharma Q2 2025 Earnings: Revenue Grows 9.4% YoY, EPS Stands at ₹12.28 - Debt Analysis Report",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaWI5QWlqVGJTOWkzQlZzLUt2ZXZuQVFBVEdJYjg2S1duTVJXUDRFa1Z6WkJ5elF5MVJTRzM0TGtVX0gzYVdjYmVVMVZPSXUzSk1iUklaYV9WTW5QQ1RpWFJmT2tPQ1o2YS0td3ZWWWI1eF9IeVdWLU1xVWhPNUx0TVpKY2RZWkJWbXJNSW5aTjZKWGhES0Ztb0EzY0VzREhicC1fZmJ0NFpCSWNpWFpGSA?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-06T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Sudeep Pharma's Q2 revenue rose 9.4% year-on-year with EPS at ₹12.28.",
       "enriched": true
     }
   ]
