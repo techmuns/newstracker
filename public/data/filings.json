@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T17:47:14.581Z",
+  "generated_at": "2026-09-14T08:14:23.874Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,26 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f513f760ef658",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-14T12:31:55.000Z",
+      "category": "Acquisition",
+      "title": "Solar Industries India Limited has informed the Exchange about Acquisition",
+      "url": "https://nsearchives.nseindia.com/corporate/SOLARINDS_14092026123119_Solarandomniadeal.pdf"
+    },
+    {
+      "id": "f576632c24230",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-14T12:23:14.000Z",
+      "category": "Press Release",
+      "title": "Solar Industries India Limited has informed the Exchange regarding a press release dated September 14, 2026, titled \"Press release on proposed acquisition of Omnia Holdings Limited by Solar SA Investments Proprietary Limited\".",
+      "url": "https://nsearchives.nseindia.com/corporate/SOLARINDS_14092026122254_signed_pressrelease.pdf"
+    },
     {
       "id": "f66edb780abc4",
       "ticker": "LENSKART",
@@ -19986,26 +20006,6 @@
       "category": "Disclosure",
       "title": "Saurabh Amrutbhai Patel has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
       "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_13052026122726_Saurabh.pdf"
-    },
-    {
-      "id": "f299a3c36ff08",
-      "ticker": "RPSGVENT",
-      "company": "RPSG VENTURES LIMITED",
-      "exchange": "NSE",
-      "date": "2026-06-22T15:54:34.000Z",
-      "category": "Disclosure",
-      "title": "Rainbow Investments Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_13052026120352_35.pdf"
-    },
-    {
-      "id": "f063b4f9790b6",
-      "ticker": "HILINFRA",
-      "company": "Highway Infrastructure Limited",
-      "exchange": "NSE",
-      "date": "2026-06-22T15:38:45.000Z",
-      "category": "Disclosure",
-      "title": "Highway Infrastructure Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_13052026185226_HILINFRA1.pdf"
     }
   ]
 }
