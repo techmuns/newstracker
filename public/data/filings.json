@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T19:40:47.252Z",
+  "generated_at": "2026-09-15T08:06:02.201Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,36 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "fd96ad700afd0",
+      "ticker": "UNIMECH",
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "exchange": "NSE",
+      "date": "2026-09-15T13:07:42.000Z",
+      "category": "Credit Rating",
+      "title": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Credit Rating",
+      "url": "https://nsearchives.nseindia.com/corporate/UNIMECH_15092026130732_15926_Credit_Rating_disclosure_SE.pdf"
+    },
+    {
+      "id": "ff39ee2712763",
+      "ticker": "AVANTEL",
+      "company": "Avantel Limited",
+      "exchange": "NSE",
+      "date": "2026-09-15T12:06:22.000Z",
+      "category": "ESOP/ESOS/ESPS",
+      "title": "Avantel Limited has informed the Exchange regarding Allotment of 65016 Shares.",
+      "url": "https://nsearchives.nseindia.com/corporate/AVANTEL_15092026120500_Outcome15092026.pdf"
+    },
+    {
+      "id": "fc47a3fa16bcd",
+      "ticker": "CARTRADE",
+      "company": "Cartrade Tech Limited",
+      "exchange": "NSE",
+      "date": "2026-09-15T09:51:54.000Z",
+      "category": "Press Release",
+      "title": "Cartrade Tech Limited has informed the Exchange regarding a press release dated September 14, 2026, titled \"Press Release\".",
+      "url": "https://nsearchives.nseindia.com/corporate/CARTRADE_15092026095148_CarTrade_-_Elite_PR.pdf"
+    },
     {
       "id": "f7ee7a78dfb34",
       "ticker": "VBL",
@@ -19976,36 +20006,6 @@
       "category": "Disclosure",
       "title": "Lebnitze Real Estates Private Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
       "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_13052026115302_40.pdf"
-    },
-    {
-      "id": "f098cce261b92",
-      "ticker": "RPSGVENT",
-      "company": "RPSG VENTURES LIMITED",
-      "exchange": "NSE",
-      "date": "2026-06-22T19:18:53.000Z",
-      "category": "Disclosure",
-      "title": "Dotex Merchandise Private Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_13052026115159_41.pdf"
-    },
-    {
-      "id": "fdb3398473038",
-      "ticker": "SCODATUBES",
-      "company": "Scoda Tubes Limited",
-      "exchange": "NSE",
-      "date": "2026-06-22T19:14:12.000Z",
-      "category": "Disclosure",
-      "title": "Vipulkumar Arvindbhai Patel has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_13052026112947_Vipul.pdf"
-    },
-    {
-      "id": "f1e1025eb78a8",
-      "ticker": "DENTA",
-      "company": "Denta Water and Infra Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-06-22T19:13:33.000Z",
-      "category": "Investor Presentation",
-      "title": "Denta Water and Infra Solutions Limited has informed the Exchange about Schedule of earnings conference call on Thursday, June 25, 2026 at 12:00 Noon(IST)",
-      "url": "https://nsearchives.nseindia.com/corporate/DENTA_22062026191053_Intimation_of_Earnings_ConCall_Q4_FY26.pdf"
     }
   ]
 }
