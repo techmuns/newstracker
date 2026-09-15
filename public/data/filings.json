@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T08:06:02.201Z",
+  "generated_at": "2026-09-15T18:34:17.723Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,196 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "fed399585d21b",
+      "ticker": "SUNSHINE",
+      "company": "Sunshine Pictures Limited",
+      "exchange": "NSE",
+      "date": "2026-09-15T20:16:23.000Z",
+      "category": "Board Meeting",
+      "title": "Sunshine Pictures Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/SUNSHINE_15092026201447_Outcomeofboardmeeting.pdf"
+    },
+    {
+      "id": "f580c1975a336",
+      "ticker": "SAREGAMA",
+      "company": "Saregama India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-15T19:27:06.000Z",
+      "category": "Shareholders meeting",
+      "title": "Saregama India Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 15, 2026. Further, the company has submitted the Exchange a copy of Srutinizers report along with voting results.",
+      "url": "https://nsearchives.nseindia.com/corporate/SAREGAMA_15092026192636_AGM_OUTCOME_15092026.pdf"
+    },
+    {
+      "id": "fa7c3ade19f8e",
+      "ticker": "DYNAMATECH",
+      "company": "Dynamatic Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-09-15T19:22:14.000Z",
+      "category": "Shareholders meeting",
+      "title": "Dynamatic Technologies Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 15, 2026. Further, the company has submitted the Exchange a copy of Srutinizers report along with voting results.",
+      "url": "https://nsearchives.nseindia.com/corporate/DYNAMATICH_15092026192159_AGMOutcomeVotingResultScrutiniserReport15092026.pdf"
+    },
+    {
+      "id": "fba77167da2e8",
+      "ticker": "URBANCO",
+      "company": "Urban Company Limited",
+      "exchange": "NSE",
+      "date": "2026-09-15T18:52:18.000Z",
+      "category": "Investor Presentation",
+      "title": "Urban Company Limited has informed the Exchange about Schedule of Analyst/ Investor Meeting to be held on September 21, 2026 and September 28, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_15092026185149_Investor_Meeting_SE_Intimation_15092026.pdf"
+    },
+    {
+      "id": "f66d117cd6fff",
+      "ticker": "KSHINTL",
+      "company": "KSH International Limited",
+      "exchange": "NSE",
+      "date": "2026-09-15T18:25:56.000Z",
+      "category": "Shareholders meeting",
+      "title": "KSH International Limited has submitted to the Exchange, consolidated report of Scrutinizer on votes cast through remote e-voting and voting at the 47th Annual General Meeting of the Company.",
+      "url": "https://nsearchives.nseindia.com/corporate/INTERNATIONAL_15092026182414_KSH_IntimationofConsolidatedScrutinizersReport15092026signed.pdf"
+    },
+    {
+      "id": "f5a1f44a35a69",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "exchange": "NSE",
+      "date": "2026-09-15T17:54:53.000Z",
+      "category": "Trading Window",
+      "title": "Meesho Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_15092026175444_ML_TWC_Intimation_Sep_2026.pdf"
+    },
+    {
+      "id": "f7222e91f766a",
+      "ticker": "VOEPL",
+      "company": "Virtuoso Optoelectronics Limited",
+      "exchange": "NSE",
+      "date": "2026-09-15T17:41:28.000Z",
+      "category": "Financial Results",
+      "title": "The Exchange had sought clarification from Virtuoso Optoelectronics Limited for the quarter ended 30-Jun-2026 with respect to Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015. On basis of above the Company was required to clarify the following: The response of the Company is enclosed.",
+      "url": "https://nsearchives.nseindia.com/corporate/VIRTUOSO_04092026185840_Clarification_-_Final.pdf"
+    },
+    {
+      "id": "f14b1d1a4c5b6",
+      "ticker": "GMMPFAUDLR",
+      "company": "GMM Pfaudler Limited",
+      "exchange": "NSE",
+      "date": "2026-09-15T17:17:19.000Z",
+      "category": "Change in Directors",
+      "title": "GMM Pfaudler Limited has informed the Exchange about Resignation of Director/KMP/SMP",
+      "url": "https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_ROID_98412_KMP_Doc.zip"
+    },
+    {
+      "id": "f0ac050a83995",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "exchange": "NSE",
+      "date": "2026-09-15T17:13:38.000Z",
+      "category": "Shareholders meeting",
+      "title": "Surya Roshni Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 15, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/SURYAROSNI_15092026171309_53rd_AGM_Proceedings_Signed.pdf"
+    },
+    {
+      "id": "ff29d94226f82",
+      "ticker": "GMMPFAUDLR",
+      "company": "GMM Pfaudler Limited",
+      "exchange": "NSE",
+      "date": "2026-09-15T17:06:41.000Z",
+      "category": "Change in Directors",
+      "title": "GMM Pfaudler Limited has informed the Exchange regarding Appointment of Mr Ankit Nayyar as Chief Financial Officer of the company w.e.f. November 04, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_15092026170558_BMOUTCOME15SEPT2026.pdf"
+    },
+    {
+      "id": "fcbd1c3901fdc",
+      "ticker": "GMMPFAUDLR",
+      "company": "GMM Pfaudler Limited",
+      "exchange": "NSE",
+      "date": "2026-09-15T16:51:03.000Z",
+      "category": "Change in Directors",
+      "title": "GMM Pfaudler Limited has informed the Exchange regarding Resignation of Mr Alexander Poempner as Group Chief Financial Officer of the company",
+      "url": "https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_15092026165021_BMOUTCOME15SEPT2026.pdf"
+    },
+    {
+      "id": "f3b603ef0fb86",
+      "ticker": "GMMPFAUDLR",
+      "company": "GMM Pfaudler Limited",
+      "exchange": "NSE",
+      "date": "2026-09-15T16:42:32.000Z",
+      "category": "Board Meeting",
+      "title": "GMM Pfaudler Limited has informed the Exchange regarding Outcome of Board Meeting held on September 15, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_15092026164140_BMOUTCOME15SEPT2026.pdf"
+    },
+    {
+      "id": "fd6b0856ff8be",
+      "ticker": "KSHINTL",
+      "company": "KSH International Limited",
+      "exchange": "NSE",
+      "date": "2026-09-15T16:42:00.000Z",
+      "category": "Shareholders meeting",
+      "title": "KSH International Limited has informed the Exchange regarding Proceedings of its 47th Annual General Meeting held on September 15, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/INTERNATIONAL_15092026164150_KSH_ProceedingsofAGM15092026.pdf"
+    },
+    {
+      "id": "f827088eb724d",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-15T16:36:32.000Z",
+      "category": "Investor Presentation",
+      "title": "Solar Industries India Limited has informed the Exchange about Link of Recording",
+      "url": "https://nsearchives.nseindia.com/corporate/SOLARINDS_15092026163610_CL_Audio_Recording_Acquisition_of_Omnia_Sd.pdf"
+    },
+    {
+      "id": "f895d491cedec",
+      "ticker": "SONATSOFTW",
+      "company": "Sonata Software Limited",
+      "exchange": "NSE",
+      "date": "2026-09-15T16:27:21.000Z",
+      "category": "Disclosure",
+      "title": "Sonata Software Limited has informed the Exchange regarding 'SonataInformation Technology Limited signs Five-Year Strategic Collaboration Agreement with AWSto Accelerate Cloud Modernization in India'.",
+      "url": "https://nsearchives.nseindia.com/corporate/SONATSOFTW_15092026162647_pressrelease15092026.pdf"
+    },
+    {
+      "id": "f281114aa1ede",
+      "ticker": "SONACOMS",
+      "company": "Sona BLW Precision Forgings Limited",
+      "exchange": "NSE",
+      "date": "2026-09-15T16:20:48.000Z",
+      "category": "Trading Window",
+      "title": "Sona Blw Precision Forgings Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_15092026162011_intimation_for_closure_of_trading_window.pdf"
+    },
+    {
+      "id": "fffcea1eb67c4",
+      "ticker": "VBL",
+      "company": "Varun Beverages Limited",
+      "exchange": "NSE",
+      "date": "2026-09-15T15:02:03.000Z",
+      "category": "Investor Presentation",
+      "title": "We wish to inform you that pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, representatives of the Company shall participate in the meetings of group of investors as per schedule given in the enclosed intimation.",
+      "url": "https://nsearchives.nseindia.com/corporate/VBL_15092026150117_Intimation_InvestorMeet.pdf"
+    },
+    {
+      "id": "f47a7ba69570c",
+      "ticker": "SHRIAHIMSA",
+      "company": "Shri Ahimsa Naturals Limited",
+      "exchange": "NSE",
+      "date": "2026-09-15T14:10:39.000Z",
+      "category": "Shareholders meeting",
+      "title": "Shri Ahimsa Naturals Limited has informed the Exchange regarding voting results of Annual General Meeting held on September 14, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/AHIMSANATURALS_15092026141028_Voting_Results.pdf"
+    },
+    {
+      "id": "f4a9113a9a8a1",
+      "ticker": "SHRIAHIMSA",
+      "company": "Shri Ahimsa Naturals Limited",
+      "exchange": "NSE",
+      "date": "2026-09-15T14:08:15.000Z",
+      "category": "Shareholders meeting",
+      "title": "Shri Ahimsa Naturals Limited has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on September 14, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/AHIMSANATURALS_15092026140806_Scrutinizer_Report.pdf"
+    },
     {
       "id": "fd96ad700afd0",
       "ticker": "UNIMECH",
@@ -19816,196 +20006,6 @@
       "category": "Disclosure",
       "title": "Composure Services Pvt Ltd has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
       "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_13052026162335_SAREGAMA.pdf"
-    },
-    {
-      "id": "f8e8f2584824f",
-      "ticker": "MASFIN",
-      "company": "MAS Financial Services Limited",
-      "exchange": "NSE",
-      "date": "2026-06-23T19:22:38.000Z",
-      "category": "Disclosure",
-      "title": "MAS Financial Services Limited has informed the Exchange about Intimation regarding redemption of Optionally Convertible Preference Shares (OCPS) issued by MAS Rural Housing and Mortgage Finance Limited, Subsidiary Company held by MAS Financial Services Limited",
-      "url": "https://nsearchives.nseindia.com/corporate/MASFIN_23062026192046_Final.pdf"
-    },
-    {
-      "id": "f055792e434d1",
-      "ticker": "SONACOMS",
-      "company": "Sona BLW Precision Forgings Limited",
-      "exchange": "NSE",
-      "date": "2026-06-23T18:31:20.000Z",
-      "category": "Disclosure",
-      "title": "Sona Blw Precision Forgings Limited has informed the Exchange regarding 'Letter send to shareholders for link of annual report under 36(1)b of SEBI LODR'.",
-      "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_23062026183109_Intimation2.pdf"
-    },
-    {
-      "id": "f2cddc2cc6206",
-      "ticker": "XPROINDIA",
-      "company": "Xpro India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-23T17:54:33.000Z",
-      "category": "Newspaper Publication",
-      "title": "Xpro India Limited has informed the Exchange about Copy of Newspaper Publication on (a) Special Window for Fresh Lodgement / Re-Lodgement of Share Transfer Requests and (b) Saksham Niveshak - Second 100 Days Campaign by IEPF Authority.",
-      "url": "https://nsearchives.nseindia.com/corporate/XPROINDIASKD_23062026175357_SE_merged_signed.pdf"
-    },
-    {
-      "id": "fda10acdb3471",
-      "ticker": "LENSKART",
-      "company": "Lenskart Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-06-23T17:24:31.000Z",
-      "category": "Trading Window",
-      "title": "Lenskart Solutions Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/LENSKART_23062026172410_Trading_Window_Closure_-_SE_Intimation.pdf"
-    },
-    {
-      "id": "fdbdae57ed92c",
-      "ticker": "XPROINDIA",
-      "company": "Xpro India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-23T16:58:32.000Z",
-      "category": "Trading Window",
-      "title": "Xpro India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/XPROINDIASKD_23062026165745_SE_TW_23062026_signed.pdf"
-    },
-    {
-      "id": "f09d5a711747b",
-      "ticker": "JYOTICNC",
-      "company": "Jyoti CNC Automation Limited",
-      "exchange": "NSE",
-      "date": "2026-06-23T16:04:46.000Z",
-      "category": "Disclosure",
-      "title": "Anil B. Virani has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_28042026120849_ABV.pdf"
-    },
-    {
-      "id": "f02a112dedaf3",
-      "ticker": "XPROINDIA",
-      "company": "Xpro India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-23T15:45:23.000Z",
-      "category": "Disclosure",
-      "title": "Xpro India Limited has informed the Exchange regarding 'compliance with Regulation 36(1)(b) of the Listing Regulations'.",
-      "url": "https://nsearchives.nseindia.com/corporate/XPROINDIASKD_23062026154450_SE_non_email_Signed.pdf"
-    },
-    {
-      "id": "f2a02dffd70a1",
-      "ticker": "LGEINDIA",
-      "company": "LG Electronics India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-23T15:33:33.000Z",
-      "category": "Trading Window",
-      "title": "LG Electronics India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/LGEINDIA_23062026153054_Trading_Window_Closure_dated_23June2026.pdf"
-    },
-    {
-      "id": "f1814172b88f0",
-      "ticker": "XPROINDIA",
-      "company": "Xpro India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-23T14:53:17.000Z",
-      "category": "Shareholders meeting",
-      "title": "Xpro India Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on July 20, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/XPROINDIASKD_23062026145058_AR_Signed.pdf"
-    },
-    {
-      "id": "fe110208d9b6a",
-      "ticker": "KSHINTL",
-      "company": "KSH International Limited",
-      "exchange": "NSE",
-      "date": "2026-06-23T13:21:40.000Z",
-      "category": "Trading Window",
-      "title": "KSH International Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/INTERNATIONAL_23062026132112_KSHTWCClosure01072026.pdf"
-    },
-    {
-      "id": "f9a66f70280bc",
-      "ticker": "BLACKBUCK",
-      "company": "BLACKBUCK LIMITED",
-      "exchange": "NSE",
-      "date": "2026-06-23T12:39:42.000Z",
-      "category": "Trading Window",
-      "title": "BLACKBUCK LIMITED has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/ZINKA2015_23062026123932_Closure_of_Trading_Window.pdf"
-    },
-    {
-      "id": "fa2a2beeb83d5",
-      "ticker": "BLACKBUCK",
-      "company": "BLACKBUCK LIMITED",
-      "exchange": "NSE",
-      "date": "2026-06-23T12:26:08.000Z",
-      "category": "ESOP/ESOS/ESPS",
-      "title": "BLACKBUCK LIMITED has informed the Exchange regarding Allotment of 60974 Shares.",
-      "url": "https://nsearchives.nseindia.com/corporate/ZINKA2015_23062026122557_Intimation_ESOP_Allotment.pdf"
-    },
-    {
-      "id": "fceb2ab5494fc",
-      "ticker": "ACUTAAS",
-      "company": "Acutaas Chemicals Limited",
-      "exchange": "NSE",
-      "date": "2026-06-23T11:23:32.000Z",
-      "category": "Action(s) initiated or orders passed",
-      "title": "Acutaas Chemicals Limited has informed the Exchange about Action(s) initiated or orders passed",
-      "url": "https://nsearchives.nseindia.com/corporate/AMIORG_23062026112246_IntimationSWSigned.pdf"
-    },
-    {
-      "id": "f9556b6c8ad30",
-      "ticker": "YASHO",
-      "company": "Yasho Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-06-23T10:02:32.000Z",
-      "category": "Trading Window",
-      "title": "Yasho Industries Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/8291904474_23062026100225_intimation.pdf"
-    },
-    {
-      "id": "f7738009b77f7",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "exchange": "NSE",
-      "date": "2026-06-23T07:01:26.000Z",
-      "category": "Receipt of Order",
-      "title": "DEE Development Engineers Limited has informed its Wholly Owned Subsidiary M/s DEE Fabricom India Private Limited has received an Order for supply of Windmill towers of Rs. 64 Crores (Inclusive of GST) which is of substantial value in the that WOS.",
-      "url": "https://nsearchives.nseindia.com/corporate/DDEL_23062026070017_BSENSESIGNED.pdf"
-    },
-    {
-      "id": "f1e4299cc574e",
-      "ticker": "RPSGVENT",
-      "company": "RPSG VENTURES LIMITED",
-      "exchange": "NSE",
-      "date": "2026-06-22T19:19:54.000Z",
-      "category": "Disclosure",
-      "title": "Quest Capital Markets Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_13052026115819_37.pdf"
-    },
-    {
-      "id": "ff7ab7c28d7eb",
-      "ticker": "SONACOMS",
-      "company": "Sona BLW Precision Forgings Limited",
-      "exchange": "NSE",
-      "date": "2026-06-22T19:19:43.000Z",
-      "category": "Newspaper Publication",
-      "title": "Sona Blw Precision Forgings Limited has informed the Exchange about Copy of Newspaper Publication for 30th AGM",
-      "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_22062026191035_Newspapernotice.pdf"
-    },
-    {
-      "id": "fce5a781345d0",
-      "ticker": "RPSGVENT",
-      "company": "RPSG VENTURES LIMITED",
-      "exchange": "NSE",
-      "date": "2026-06-22T19:19:36.000Z",
-      "category": "Disclosure",
-      "title": "Castor Investments Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_13052026115504_38.pdf"
-    },
-    {
-      "id": "f97cba27446d7",
-      "ticker": "RPSGVENT",
-      "company": "RPSG VENTURES LIMITED",
-      "exchange": "NSE",
-      "date": "2026-06-22T19:19:08.000Z",
-      "category": "Disclosure",
-      "title": "Lebnitze Real Estates Private Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_13052026115302_40.pdf"
     }
   ]
 }
