@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T19:33:32.496Z",
+  "generated_at": "2026-09-15T18:26:00.022Z",
   "portfolio": [
     {
       "company": "Monolithisch India Limited",
@@ -17,24 +17,24 @@
       "sector": "Capital Goods"
     },
     {
-      "company": "Sterlite Technologies Limited",
-      "ticker": "STLTECH",
-      "sector": "Telecommunication"
-    },
-    {
       "company": "Menon Bearings Limited",
       "ticker": "MENONBE",
       "sector": "Automobile and Auto Components"
     },
     {
+      "company": "Stylam Industries Limited",
+      "ticker": "STYLAMIND",
+      "sector": "Consumer Durables"
+    },
+    {
+      "company": "Sterlite Technologies Limited",
+      "ticker": "STLTECH",
+      "sector": "Telecommunication"
+    },
+    {
       "company": "Acutaas Chemicals Limited",
       "ticker": "ACUTAAS",
       "sector": "Healthcare"
-    },
-    {
-      "company": "KSH International Limited",
-      "ticker": "KSHINTL",
-      "sector": "Capital Goods"
     },
     {
       "company": "Shadowfax Technologies Limited",
@@ -47,9 +47,9 @@
       "sector": "Capital Goods"
     },
     {
-      "company": "Stylam Industries Limited",
-      "ticker": "STYLAMIND",
-      "sector": "Consumer Durables"
+      "company": "KSH International Limited",
+      "ticker": "KSHINTL",
+      "sector": "Capital Goods"
     },
     {
       "company": "Cartrade Tech Limited",
