@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-09-14T19:40:37.301Z",
-  "source": "google-news+munshot+valuepickr+claude",
+  "generated_at": "2026-09-15T08:05:40.048Z",
+  "source": "google-news+valuepickr+claude",
   "counts": {
     "portfolio": 94,
-    "watchlist": 589,
-    "universe": 29,
-    "total": 618
+    "watchlist": 592,
+    "universe": 30,
+    "total": 622
   },
   "items": [
+    {
+      "id": "n155cdcb48207",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
+      "scope": [
+        "universe"
+      ],
+      "title": "Aurobindo Pharma secures USFDA approval for Beclomethasone Dipropionate HFA Inhalation Aerosol",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVFQxeUlUaW5EeDhrMXE4LWFNUjNYWHdFXzRSMm9rRE1FU0pZancwckdKbFJsVFhUdEtHSXF0RjhOaklGU0ZiVHFpMzQtTTlHYU9DU0ZFMGhjblRBNVJyY3k2UVNNRGdLSWo3SDFRQkU1ZFZOQ2t2SFFrblMtaWhwX0FXM2dwWnNVSlhNMlBtVzJtSEYxM21hcUZoaF8tVkJhMml2TFQwUXE0RTJhTzNlR2g4RElHb2Zhcks3X3drWDlMRkt1M2FYZ2dPSQ?oc=5",
+      "source": "Business Upturn",
+      "date": "2026-09-15T07:45:54.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Aurobindo Pharma gets US FDA approval for Beclomethasone inhalation aerosol, expanding its respiratory product portfolio.",
+      "enriched": true
+    },
     {
       "id": "n20a3ea4c48be",
       "ticker": "MSECL",
@@ -222,7 +241,8 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "HFCL investing Rs 1,800 crore to expand optical fibre manufacturing capacity.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n89d085e3b005",
@@ -260,6 +280,25 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Zimbabwe authorities are reviewing Varun Beverages' plan to buy stake in Dairibord.",
+      "enriched": true
+    },
+    {
+      "id": "n32babef47024",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries India Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Solar Industries hosts investor call on Omnia Holdings acquisition",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNblRTTFFQbVY3eGRsS3FhRXFWcU1LVmJrZkx5R21rczNnOXh6a0YyQkpaejQxLVdZZHlKdmFMdy1oNm9KMXhmZGoyWjVibUpuZHF2OHNhRkFKRkxsZmR5eTViY2ZmWjVmVGw3MjNOMWFDcVpwYl9NOEc1Skx2VnFvRzNhQWN0UFBnWVlQanNlSFZObVNNdFNuaTBvblBGTmNSTkZKb3FuYXJseVcyWWhnVGt4QWhGT05LSVFGYw?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-09-14T11:46:21.000Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Solar Industries holds investor call to discuss its acquisition of Omnia Holdings.",
       "enriched": true
     },
     {
@@ -708,7 +747,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "DEE Development Engineers' order book stands at ₹2,435.61 crore.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -1314,27 +1353,8 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Aurionpro Solutions reported revenue growth in Q1 FY27 earnings call.",
-      "enriched": true
-    },
-    {
-      "id": "nd6d121bc06b0",
-      "ticker": "MSECL",
-      "company": "Monarch Surveyors and Engineering Consultants Ltd",
-      "sector": "Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "The Monarch Surveyors and Engineering Consultants Ltd receives order worth Rs. 4.66 crores",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82bHhLWC16WjdyUDVuV2JCRUc2bXFidjlEc08zenQtdXY5OElteDYtcXJUWF9kWmF6R09WbGROYjBXMk5vbll5UnhSczZGMUdTVGNWVGQzMk9DT2k0bkkw?oc=5",
-      "source": "EquityBulls",
-      "date": "2026-09-09T06:28:17.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Monarch Surveyors receives order worth Rs. 4.66 crores.",
-      "sources_count": 2,
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "nc02a8ae0e9a1",
@@ -1971,7 +1991,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Avantel wins ₹83.80 crore order from Zetwerk for satellite communication equipment.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -3266,7 +3286,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "PVR Inox approved Rs 300 crore share buyback at Rs 1,450 per share.",
-      "sources_count": 2,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -3634,7 +3654,7 @@
       "mood": "positive",
       "takeaway": "Rajesh Power Services wins Rs 653 crore underground power distribution order in Gujarat.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "n17cc3ebb93f8",
@@ -5441,7 +5461,7 @@
       "mood": "positive",
       "takeaway": "Vivo Mobile India forms strategic joint venture with Dixon Technologies.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "ndd027ba0ddd7",
@@ -7605,6 +7625,26 @@
       "enriched": true
     },
     {
+      "id": "n33dc96227e3e",
+      "ticker": "MSECL",
+      "company": "Monarch Surveyors and Engineering Consultants Ltd",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "The Monarch Surveyors and Engineering Consultants Ltd receives order worth Rs. 4.38 crore",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1Um9TLTBXSDQzdjJHVWdoU2UwZGRBTTU0RWFvV3VKMjltX2l6N3EyNTNzaXVkVEJ4UlAySXhvWWV4VHFDU2N5Rk9feUdBYnpDQ29TMkJHb1ZYdVg5b3hj?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-08-18T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Monarch Surveyors receives order worth Rs 4.38 crore for engineering consultancy services.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
       "id": "nb6216ef42806",
       "ticker": "SURYAROSNI",
       "company": "Surya Roshni Limited",
@@ -8377,6 +8417,26 @@
       "enriched": true
     },
     {
+      "id": "na2295d35fee7",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
+      "scope": [
+        "universe"
+      ],
+      "title": "Lupin Announces U.S. FDA Approval and Launch of Sugammadex Injection - Lupin | Press Release",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSFBhNjE2Mk5ITE5VV3V6cngzNi1pdENoeFlGRGtjcUNsbE1HY1RHLXQyZy16YXlVM3RRWkdLdkdPa05aeFVFaDBvWWNieWVWVzBydXVjQVVZeE9ONmxHeXhyLWR1Q2o3RkZzNU5ON0R2QWtXV0NjM1UySXF2bkxNWW1DUmpaUmJVYVRvYWRDOV9yWFZYb2NrWHJuRmdOR2d2ODVfbDllSllNZ2lhakEw?oc=5",
+      "source": "lupin.com",
+      "date": "2026-07-31T07:00:00.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Lupin receives U.S. FDA approval and launches Sugammadex Injection.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
       "id": "n49550dc0dfe3",
       "ticker": "AURIONPRO",
       "company": "Aurionpro Solutions Limited",
@@ -8413,26 +8473,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Aurionpro secures additional AFC order from MMRDA, expanding Mumbai Metro engagement.",
-      "enriched": true
-    },
-    {
-      "id": "na2295d35fee7",
-      "ticker": "THEME",
-      "company": "Pharma Approvals",
-      "sector": "Healthcare",
-      "scope": [
-        "universe"
-      ],
-      "title": "Lupin Announces U.S. FDA Approval and Launch of Sugammadex Injection - Lupin | Press Release",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSFBhNjE2Mk5ITE5VV3V6cngzNi1pdENoeFlGRGtjcUNsbE1HY1RHLXQyZy16YXlVM3RRWkdLdkdPa05aeFVFaDBvWWNieWVWVzBydXVjQVVZeE9ONmxHeXhyLWR1Q2o3RkZzNU5ON0R2QWtXV0NjM1UySXF2bkxNWW1DUmpaUmJVYVRvYWRDOV9yWFZYb2NrWHJuRmdOR2d2ODVfbDllSllNZ2lhakEw?oc=5",
-      "source": "lupin.com",
-      "date": "2026-07-31T07:00:00.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Lupin receives U.S. FDA approval and launches Sugammadex Injection.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -8880,25 +8920,6 @@
       "enriched": true
     },
     {
-      "id": "n4436df7be080",
-      "ticker": "SURYAROSNI",
-      "company": "Surya Roshni Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Surya Roshni wins Rs 68.11 crore order from undisclosed client for OCTG supply",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM1Exeld3X1h5WFZWWVJ5MEdSY2FtUlBSU0htbDVCc0xIdk9rMkoycElUNUJ3MzhSMXRKZUk2YWxKRTdxV3N3YzBaby1xaGt5Qmg3S3dHVHl1NjV0V1N4dmtPamdraDNOdXl6MHJEV0xUYnd3WEFMOEJqTUJjNk42by15Qkd1UENEZzdWMVZLLUpsX2RtVl9Lc21iVW90ejZBVVJiNWhiT3hzZFg0SzBLTk1zOEZEeXZHdDh0dldJUFZ0dERTQW9LV2hHQXdIWFlT?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-07-24T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Surya Roshni secured ₹68.11 crore order for OCTG supply.",
-      "enriched": true
-    },
-    {
       "id": "n1e1fffd69b25",
       "ticker": "ZENTEC",
       "company": "Zen Technologies Limited",
@@ -8934,6 +8955,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Pon Pure Chemicals is expanding capacity and focusing on innovation in specialty chemicals.",
+      "enriched": true
+    },
+    {
+      "id": "n4436df7be080",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Surya Roshni wins Rs 68.11 crore order from undisclosed client for OCTG supply",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM1Exeld3X1h5WFZWWVJ5MEdSY2FtUlBSU0htbDVCc0xIdk9rMkoycElUNUJ3MzhSMXRKZUk2YWxKRTdxV3N3YzBaby1xaGt5Qmg3S3dHVHl1NjV0V1N4dmtPamdraDNOdXl6MHJEV0xUYnd3WEFMOEJqTUJjNk42by15Qkd1UENEZzdWMVZLLUpsX2RtVl9Lc21iVW90ejZBVVJiNWhiT3hzZFg0SzBLTk1zOEZEeXZHdDh0dldJUFZ0dERTQW9LV2hHQXdIWFlT?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-07-24T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Surya Roshni secured ₹68.11 crore order for OCTG supply.",
       "enriched": true
     },
     {
@@ -9446,26 +9486,6 @@
       "enriched": true
     },
     {
-      "id": "n028b0769b644",
-      "ticker": "SURYAROSNI",
-      "company": "Surya Roshni Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Surya Roshni Ltd secures export order",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VdXA1ZGtZaVlrYXk5QV9GbXd0cnEyTWdhcXVPanRRR2NPSEtSY2F0VjZkVXdGb2ctMFk2TzBtTXBHY0NtYTZVZ3dSNkhaX0s1aFlnUVJWV21TdmozWDI0?oc=5",
-      "source": "EquityBulls",
-      "date": "2026-07-11T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Surya Roshni secured an export order.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "n9a9292390ab4",
       "ticker": "AURIONPRO",
       "company": "Aurionpro Solutions Limited",
@@ -9504,6 +9524,25 @@
       "takeaway": "Rubicon Research posted robust Q2 2026 results with 36.6% revenue growth and strong earnings per share.",
       "enriched": true,
       "sources_count": 2
+    },
+    {
+      "id": "n76bfee4594f7",
+      "ticker": "SBCL",
+      "company": "Shivalik Bimetal Controls Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "SBCL Mar 2026 Earnings: Strong EPS of ₹3.54; Revenue at ₹117 Crore Drives Positive Market Response - Tangible Book Value",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb2ZuekRWZzRKYVBzNVc2aEphVHhUNGhyakF5TGFPSGlpSE9hNHUyLWI1UkhCZ1A0aVZ2Vk84VEU0RjRyejl0Q2wtR0JTZG5QcE5iQU4xT093elNkNlhWYmZxWEMyQ295cThjdGxvMllOaGNrcjR6dmVaZFRMaVpya0M5WGNCdDFUUk5mcUM4d05iaEIwY1FMS3RsZWdUd3B5TW1iYVYxNWFhV3VzdjlzSEZxeU4wZEN5NTBVdWZMQ2dmTlFWdjMzMEJNNjNxWndV?oc=5",
+      "source": "Vinanet",
+      "date": "2026-07-11T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Shivalik Bimetal posted strong Q4 results with earnings per share of ₹3.54 and revenue of ₹117 crore.",
+      "enriched": true
     },
     {
       "id": "n9a71b5d4ffab",
@@ -9638,6 +9677,26 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Varun Beverages Q1 revenue up 7.1% with improved operational efficiency.",
+      "enriched": true
+    },
+    {
+      "id": "n028b0769b644",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Surya Roshni Ltd secures export order",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VdXA1ZGtZaVlrYXk5QV9GbXd0cnEyTWdhcXVPanRRR2NPSEtSY2F0VjZkVXdGb2ctMFk2TzBtTXBHY0NtYTZVZ3dSNkhaX0s1aFlnUVJWV21TdmozWDI0?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-07-11T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Surya Roshni secured an export order.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -10284,6 +10343,25 @@
       "mood": "positive",
       "takeaway": "Hariom Pipe Industries Q2 2026 revenue grows 22.84% year-on-year.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n268a3e3a5862",
+      "ticker": "YASHO",
+      "company": "Yasho Industries Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Yasho Industries Mar 2026 Earnings: Steady Earnings Amidst Modest Revenue Growth - Profit Growth Outlook",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMWgxcGppanM0SUtMVVp4QXgzRnN2UHpaQXpFUjVyY2IyOWVJZlRLMFpUbzN6TFRMd25HM25IN0ZqSlZnYllCejFYOWkyQnpfY2xXS1k5NUxtT3ROZ2MxU2dUdnFrZEFzR0ZIN09VUmZjNWpCakhCOVk2dkk4WTBOenJxZmZwVkUzOVpfZVNKcmdJTW9vRDhxUGtlQXprbk5IRHNjT0lab0lYb1otZFBrRDdIc0tNZkhYUWFtTjBB?oc=5",
+      "source": "Vinanet",
+      "date": "2026-07-04T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Yasho Industries reported steady earnings with modest revenue growth in March 2026 quarter.",
       "enriched": true
     },
     {
@@ -11493,7 +11571,7 @@
       "mood": "positive",
       "takeaway": "Man Industries wins ₹1,000 crore orders, total orderbook now ₹4,100 crore.",
       "enriched": true,
-      "sources_count": 4
+      "sources_count": 3
     },
     {
       "id": "n0d9e9112cbda",
