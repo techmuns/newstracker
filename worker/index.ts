@@ -41,6 +41,7 @@ interface DigestSummary {
 
 const K_KEYWORDS = 'custom:keywords';
 const K_STOCKS = 'custom:stocks';
+const K_REMOVED = 'custom:removed'; // tickers hidden from the synced watchlist
 const CAP = 200;
 const EMAIL_RE = /^[^@\s]+@[^@\s]+\.[^@\s]+$/;
 const DEFAULT_EMAIL_ENDPOINT = 'https://devde.muns.io/email/send/raw';
@@ -100,6 +101,17 @@ async function readList<T>(kv: KVNamespace, key: string): Promise<T[]> {
   }
 }
 
+// The set of tickers the user has removed from the watchlist (shared via KV).
+async function readRemovedSet(kv?: KVNamespace): Promise<Set<string>> {
+  if (!kv) return new Set();
+  const list = await readList<string>(kv, K_REMOVED);
+  return new Set(list.map((t) => String(t).toUpperCase()));
+}
+function dropRemoved(items: any[], removed: Set<string>): any[] {
+  if (!removed.size) return items;
+  return items.filter((i) => !removed.has(String(i?.ticker || '').toUpperCase()));
+}
+
 function normStock(value: unknown): Stock | null {
   if (typeof value === 'string') {
     const name = value.trim();
@@ -119,12 +131,16 @@ function normStock(value: unknown): Stock | null {
 async function handleCustom(request: Request, env: Env): Promise<Response> {
   const kv = env.NEWSFLOW_KV;
   if (!kv) {
-    if (request.method === 'GET') return json({ keywords: [], stocks: [] });
+    if (request.method === 'GET') return json({ keywords: [], stocks: [], removed: [] });
     return json({ ok: false, error: 'KV not configured' }, 503);
   }
   if (request.method === 'GET') {
-    const [keywords, stocks] = await Promise.all([readList<string>(kv, K_KEYWORDS), readList<Stock>(kv, K_STOCKS)]);
-    return json({ keywords, stocks });
+    const [keywords, stocks, removed] = await Promise.all([
+      readList<string>(kv, K_KEYWORDS),
+      readList<Stock>(kv, K_STOCKS),
+      readList<string>(kv, K_REMOVED),
+    ]);
+    return json({ keywords, stocks, removed });
   }
   if (request.method === 'POST' || request.method === 'DELETE') {
     let body: { type?: string; value?: unknown };
@@ -157,6 +173,17 @@ async function handleCustom(request: Request, env: Env): Promise<Response> {
       } else list = list.filter((x) => !same(x, s));
       await kv.put(K_STOCKS, JSON.stringify(list));
       return json({ ok: true, stocks: list });
+    }
+    if (body?.type === 'removed') {
+      const value = typeof body.value === 'string' ? body.value.trim().toUpperCase() : '';
+      if (!value) return json({ ok: false, error: 'Empty ticker' }, 400);
+      let list = await readList<string>(kv, K_REMOVED);
+      if (request.method === 'POST') {
+        if (!list.some((t) => t.toUpperCase() === value)) list.push(value);
+        list = list.slice(0, CAP);
+      } else list = list.filter((t) => t.toUpperCase() !== value);
+      await kv.put(K_REMOVED, JSON.stringify(list));
+      return json({ ok: true, removed: list });
     }
     return json({ ok: false, error: 'Unknown type' }, 400);
   }
@@ -318,7 +345,10 @@ async function handleSendTest(request: Request, env: Env): Promise<Response> {
 
   const feeds = ['portfolio', 'watchlist'];
   const news = (await readAsset(env, 'news.json')) || { items: [] };
-  const allItems: any[] = Array.isArray(news.items) ? news.items : [];
+  const allItems: any[] = dropRemoved(
+    Array.isArray(news.items) ? news.items : [],
+    await readRemovedSet(env.NEWSFLOW_KV),
+  );
   const items = selectItems(allItems, feeds, 30);
   const nowIso = new Date().toISOString();
   const origin = (url.origin || env.SITE_URL || '').replace(/\/$/, '');
@@ -379,7 +409,10 @@ async function runDigests(env: Env): Promise<DigestSummary> {
   }
 
   const news = (await readAsset(env, 'news.json')) || { items: [] };
-  const allItems: any[] = Array.isArray(news.items) ? news.items : [];
+  const allItems: any[] = dropRemoved(
+    Array.isArray(news.items) ? news.items : [],
+    await readRemovedSet(kv),
+  );
   const sendEmptyFlag = env.SEND_EMPTY === 'true';
 
   for (const { key, sub } of due) {
@@ -520,7 +553,10 @@ async function handleSendNow(request: Request, env: Env): Promise<Response> {
 
   const feeds = ['portfolio', 'watchlist'];
   const news = (await readAsset(env, 'news.json')) || { items: [] };
-  const allItems: any[] = Array.isArray(news.items) ? news.items : [];
+  const allItems: any[] = dropRemoved(
+    Array.isArray(news.items) ? news.items : [],
+    await readRemovedSet(kv),
+  );
   const items = selectItems(allItems, feeds, 30);
   const nowIso = new Date().toISOString();
   const origin = (new URL(request.url).origin || env.SITE_URL || '').replace(/\/$/, '');
