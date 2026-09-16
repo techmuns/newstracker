@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T07:59:17.455Z",
+  "generated_at": "2026-09-16T18:31:59.831Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,96 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "fb4d8a04ce98b",
+      "ticker": "TEMPSENS",
+      "company": "Tempsens Instruments (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-09-16T20:17:09.000Z",
+      "category": "Investor Presentation",
+      "title": "Tempsens Instruments (India) Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/TEMPSENS_16092026201648_investor.pdf"
+    },
+    {
+      "id": "f4600f1d03c8d",
+      "ticker": "TEMPSENS",
+      "company": "Tempsens Instruments (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-09-16T19:26:26.000Z",
+      "category": "Integrated Filing- Financial",
+      "title": "Unaudited Financial Results Standalone and Consolidated for the Quarter ended 30th June, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/TEMPSENS_16092026192542_Outcome__-_Copy.pdf"
+    },
+    {
+      "id": "f6ca34154206f",
+      "ticker": "TEMPSENS",
+      "company": "Tempsens Instruments (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-09-16T19:22:23.000Z",
+      "category": "Board Meeting",
+      "title": "Board outcome dated 16th September, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/TEMPSENS_16092026192138_Outcome_.pdf"
+    },
+    {
+      "id": "ff1402851a143",
+      "ticker": "EPIGRAL",
+      "company": "Epigral Limited",
+      "exchange": "NSE",
+      "date": "2026-09-16T18:06:08.000Z",
+      "category": "Investor Presentation",
+      "title": "Epigral Limited has informed the Exchange about the officials of the Company are participating in Anand Rathi Annual Flagship Conference: G-200 Summit 2026 scheduled on 21.09.2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/MFL_16092026180545_Conference.pdf"
+    },
+    {
+      "id": "f797a8b1805f9",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "exchange": "NSE",
+      "date": "2026-09-16T17:21:07.000Z",
+      "category": "Shareholders meeting",
+      "title": "Surya Roshni Limited has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on September 15, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/SURYAROSNI_16092026172054_Scrutinizer_Report_53rd_AGM_SuryaRoshniLtd_Signed.pdf"
+    },
+    {
+      "id": "ff09c9704aba0",
+      "ticker": "GULFOILLUB",
+      "company": "Gulf Oil Lubricants India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-16T17:15:10.000Z",
+      "category": "Investor Presentation",
+      "title": "We hereby inform you that a meet is scheduled to be held on Tuesday, September 22, 2026 with Analysts/ Institutional Investors.",
+      "url": "https://nsearchives.nseindia.com/corporate/GULFOILLUB_16092026171444_InvestorMeeting22092026.pdf"
+    },
+    {
+      "id": "fffcfbd02a8f8",
+      "ticker": "SUNSHINE",
+      "company": "Sunshine Pictures Limited",
+      "exchange": "NSE",
+      "date": "2026-09-16T16:28:05.000Z",
+      "category": "Press Release",
+      "title": "Sunshine Pictures Limited has informed the Exchange regarding a press release dated September 16, 2026, titled \" Sunshine Pictures Limited Embarks on Next Growth Phase with Expanding Content Pipeline, Strong IP Portfolio and Multi-Platform Entertainment Strategy \".",
+      "url": "https://nsearchives.nseindia.com/corporate/SUNSHINE_16092026162755_pressrelease16092026.pdf"
+    },
+    {
+      "id": "fbc53a2db281a",
+      "ticker": "URBANCO",
+      "company": "Urban Company Limited",
+      "exchange": "NSE",
+      "date": "2026-09-16T15:53:34.000Z",
+      "category": "Investor Presentation",
+      "title": "Urban Company Limited has informed the Exchange about Schedule of Analyst/ Investor Meeting to be held on September 17, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_16092026155325_Investor_Meeting_SE_Intimation_16092026.pdf"
+    },
+    {
+      "id": "f9fd1af220fb1",
+      "ticker": "NORTHARC",
+      "company": "Northern Arc Capital Limited",
+      "exchange": "NSE",
+      "date": "2026-09-16T15:41:25.000Z",
+      "category": "ESOP/ESOS/ESPS",
+      "title": "Northern Arc Capital Limited has informed the Exchange regarding Allotment of 144000 Shares.",
+      "url": "https://nsearchives.nseindia.com/corporate/NACL2020_16092026154113_ESOPAllotment_16092026.pdf"
+    },
     {
       "id": "fa7d1119b2cf3",
       "ticker": "TRIVENI",
@@ -19916,96 +20006,6 @@
       "category": "Shareholders meeting",
       "title": "Avantel Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on Jun 24, 2026",
       "url": "https://nsearchives.nseindia.com/corporate/AVANTEL_24062026132922_ProceedingsIntimation.pdf"
-    },
-    {
-      "id": "fad7c8100fe1d",
-      "ticker": "DENTA",
-      "company": "Denta Water and Infra Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-06-24T12:16:32.000Z",
-      "category": "Price movement",
-      "title": "Significant movement in price has been observed in Denta Water and Infra Solutions Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the market place so that the interest of the investors is safeguarded, had written to the company. Denta Water and Infra Solutions Limited has submitted their response.",
-      "url": "https://nsearchives.nseindia.com/corporate/DENTA_24062026121557_Clarification_on_Price_Movement.pdf"
-    },
-    {
-      "id": "f85edd5719721",
-      "ticker": "SAREGAMA",
-      "company": "Saregama India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-24T12:14:56.000Z",
-      "category": "Disclosure",
-      "title": "Saregama India Limited has informed the Exchange about Appointment of Mr. Abhishek Kapoor as Chief Financial Officer (\"CFO\") and Key Managerial Personnel of the Company w.e.f 15th July, 2026 and Appointment of Mr. Kuldeep Kothari as Interim Chief Financial Officer (\"Interim CFO\") and Key Managerial Personnel of the Company w.e.f 24th June, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/SAREGAMA_24062026121443_Outcome_final1.pdf"
-    },
-    {
-      "id": "fa82e48281c16",
-      "ticker": "SAREGAMA",
-      "company": "Saregama India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-24T12:13:26.000Z",
-      "category": "Change in Directors",
-      "title": "Saregama India Limited has informed the Exchange regarding Appointment of Mr. Kuldeep Kothari as Interim Chief Financial Officer (\"Interim CFO\") and Key Managerial Personnel of the company w.e.f. Jun 24, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/SAREGAMA_24062026121311_Outcome_final1.pdf"
-    },
-    {
-      "id": "f1500e3595c52",
-      "ticker": "SAREGAMA",
-      "company": "Saregama India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-24T12:11:35.000Z",
-      "category": "Change in Directors",
-      "title": "Saregama India Limited has informed the Exchange regarding Appointment of Mr Abhishek Kapoor as Chief Financial Officer of the company w.e.f. July 15, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/SAREGAMA_24062026121108_Outcome_final1.pdf"
-    },
-    {
-      "id": "fceec58fa8e51",
-      "ticker": "CARTRADE",
-      "company": "Cartrade Tech Limited",
-      "exchange": "NSE",
-      "date": "2026-06-24T12:10:15.000Z",
-      "category": "Investor Presentation",
-      "title": "Cartrade Tech Limited has informed the Exchange about Schedule of meet",
-      "url": "https://nsearchives.nseindia.com/corporate/CARTRADE_24062026120941_SE_Intimation-_24th_June_2026.pdf"
-    },
-    {
-      "id": "f4c109a1070f3",
-      "ticker": "SAREGAMA",
-      "company": "Saregama India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-24T12:09:47.000Z",
-      "category": "Change in Directors",
-      "title": "Saregama India Limited has informed the Exchange about change in Management",
-      "url": "https://nsearchives.nseindia.com/corporate/SAREGAMA_24062026120921_Outcome_final1.pdf"
-    },
-    {
-      "id": "f21a34b71cca1",
-      "ticker": "SAREGAMA",
-      "company": "Saregama India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-24T12:08:09.000Z",
-      "category": "Board Meeting",
-      "title": "Saregama India Limited has informed the Exchange regarding Outcome of Board Meeting held on Jun 24, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/SAREGAMA_24062026120745_Outcome_final1.pdf"
-    },
-    {
-      "id": "f819cf89d2f22",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "exchange": "NSE",
-      "date": "2026-06-24T11:40:03.000Z",
-      "category": "Disclosure",
-      "title": "Sanjeev Kumar has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_22062026121922_Sanjeev.pdf"
-    },
-    {
-      "id": "f751d1f68d1ad",
-      "ticker": "DAMCAPITAL",
-      "company": "Dam Capital Advisors Limited",
-      "exchange": "NSE",
-      "date": "2026-06-24T11:39:27.000Z",
-      "category": "Trading Window",
-      "title": "Dam Capital Advisors Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/DAMCAPITAL_24062026113912_Intimate_of_Trading_Window_Closure_Signed.pdf"
     }
   ]
 }
