@@ -1,31 +1,363 @@
 {
-  "generated_at": "2026-09-15T18:41:59.579Z",
+  "generated_at": "2026-09-16T08:05:53.955Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 96,
-    "watchlist": 602,
+    "portfolio": 95,
+    "watchlist": 611,
     "universe": 30,
-    "total": 632
+    "total": 641
   },
   "items": [
     {
-      "id": "ndbac1d406588",
+      "id": "nc8867f514f8e",
+      "ticker": "SHREEREF",
+      "company": "Shree Refrigerations Ltd",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Shree Refrigerations Receives CARE Credit Rating Upgrade to BBB- | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/industrial-goodsservices/Shree-Refrigerations-Receives-CARE-Credit-Rating-Upgrade-to-BBB/6aa932e1f2017017ae6a6e99",
+      "source": "whalesbook.com",
+      "date": "2026-09-16T07:57:51.508Z",
+      "topic": "Approvals&IP",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Credit rating upgraded to BBB-, indicating improved creditworthiness.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n4ac315050fac",
+      "ticker": "RAJESH",
+      "company": "Rajesh Power Services Ltd",
+      "sector": "Utilities",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Rs 3,741 Crore Order Book: This Power Transmission EPC Company Reports Rs 437 Crore Q1 Revenue; Check Details",
+      "url": "https://insights.dsij.in/dsijarticledetail/rs-3741-crore-order-book-this-power-transmission-epc-company-reports-rs-437-crore-q1-revenue-check-details",
+      "source": "insights.dsij.in",
+      "date": "2026-09-16T07:57:48.589Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Company holds Rs 3,741 crore order book with Q1 revenue of Rs 437 crore.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nf758fde71419",
       "ticker": "MSECL",
       "company": "Monarch Surveyors and Engineering Consultants Ltd",
       "sector": "Services",
       "scope": [
         "watchlist"
       ],
-      "title": "Monarch Surveyors and Engineering Consultants receives Rs 2-cr work order | Capital Market News - Business Standard",
-      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-and-engineering-consultants-receives-rs-2-cr-work-order-126082200734_1.html",
+      "title": "Monarch Surveyors bags order worth Rs 5 crore | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-bags-order-worth-rs-5-crore-126062500927_1.html",
       "source": "business-standard.com",
-      "date": "2026-09-15T18:31:30.321Z",
+      "date": "2026-09-16T07:57:44.000Z",
       "topic": "Orders",
       "keyword": "Order",
       "importance": "low",
       "mood": "positive",
-      "takeaway": "Monarch Surveyors receives Rs 2 crore work order.",
+      "takeaway": "Secured order worth Rs 5 crore.",
       "sources_count": 4,
+      "enriched": true
+    },
+    {
+      "id": "n16539dba5153",
+      "ticker": "CNINFOTECH",
+      "company": "Capitalnumbers Infotech Ltd",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Capitalnumbers Infotech Proposes IPO Fund Reallocation for Rs 40 Crore Acquisition | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/technology/Capitalnumbers-Infotech-Proposes-IPO-Fund-Reallocation-for-Rs-40-Crore-Acquisition/6a957bf9f2017017ae581a40",
+      "source": "whalesbook.com",
+      "date": "2026-09-16T07:57:23.573Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Plans to reallocate IPO funds for Rs 40 crore acquisition.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n85203dfa5ddc",
+      "ticker": "CNINFOTECH",
+      "company": "Capitalnumbers Infotech Ltd",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Capitalnumbers Infotech: IPO ke paise se hogi acquisition, **₹11.46 Cr** ka naya plan | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/technology/Capitalnumbers-Infotech-Proposes-IPO-Fund-Reallocation-to-Acquire-Epitome-Cloud-Inc/6a957fa9f2017017ae5825f3",
+      "source": "whalesbook.com",
+      "date": "2026-09-16T07:57:23.573Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Proposes using IPO proceeds for acquisition with revised plan of Rs 11.46 crore.",
+      "enriched": true
+    },
+    {
+      "id": "nd8b0a15de4a3",
+      "ticker": "CNINFOTECH",
+      "company": "Capitalnumbers Infotech Ltd",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Capital Numbers Strengthens Global Enterprise Technology Capabilities with Acquisition of US Based Epitome Cloud",
+      "url": "https://finance.yahoo.com/technology/articles/capital-numbers-strengthens-global-enterprise-153400471.html",
+      "source": "finance.yahoo.com",
+      "date": "2026-09-16T07:57:23.573Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Acquired US-based Epitome Cloud to strengthen enterprise technology capabilities.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nb444af2c755d",
+      "ticker": "SONATSOFTW",
+      "company": "Sonata Software Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Sonata Software ka AWS ke saath bada deal! Agle 5 saal tak Cloud aur AI mein machayenge dhamal | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/technology/Sonata-Software-Subsidiary-Signs-Five-Year-Strategic-Partnership-With-Amazon-Web-Services/6aa988a70416c068539d6421",
+      "source": "whalesbook.com",
+      "date": "2026-09-16T07:56:47.031Z",
+      "topic": "Deals",
+      "keyword": "Partnership",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Sonata Software subsidiary signed a five-year strategic partnership with Amazon Web Services.",
+      "enriched": true
+    },
+    {
+      "id": "n4c63827bfe7a",
+      "ticker": "SONATSOFTW",
+      "company": "Sonata Software Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Sonata Software Subsidiary Signs Five-Year Strategic Partnership With Amazon Web Services | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/technology/Sonata-Software-Subsidiary-Signs-Five-Year-Strategic-Partnership-With-Amazon-Web-Services/6aa988a70416c068539d6421",
+      "source": "whalesbook.com",
+      "date": "2026-09-16T07:56:47.031Z",
+      "topic": "Deals",
+      "keyword": "Partnership",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Sonata Software subsidiary signed a five-year strategic partnership with Amazon Web Services.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n67ac22cb7627",
+      "ticker": "IKS",
+      "company": "Inventurus Knowledge Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Inventurus Knowledge Solutions Q1 Results: Earnings call recording released",
+      "url": "https://scanx.trade/stock-market-news/companies/inventurus-knowledge-solutions-q1-results-earnings-call-recording-released/47557927",
+      "source": "scanx.trade",
+      "date": "2026-09-16T07:54:58.590Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Inventurus released Q1 earnings call recording.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nb1b9258427fb",
+      "ticker": "DEVYANI",
+      "company": "Devyani International Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Devyani International share price: merger timeline 2026 | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/devyani-sapphire-merger-nclt-cci-cmtvm2dxj001233qpdj94t47b",
+      "source": "multibagg.ai",
+      "date": "2026-09-16T07:54:08.968Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Devyani International merger timeline set for 2026.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nb69924a38b36",
+      "ticker": "DEVYANI",
+      "company": "Devyani International Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Sapphire Foods FY26 Loss: Investoron ka paisa gaya! Devyani International ke saath merger ki baatein shuru | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/consumer-products/Sapphire-Foods-Posts-FY26-Loss-of-indian-rupee4846-Cr-Eyes-Devyani-International-Merger/6a3fbf377465030c38bb197b",
+      "source": "whalesbook.com",
+      "date": "2026-09-16T07:54:08.968Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Devyani International in merger talks with Sapphire Foods.",
+      "enriched": true
+    },
+    {
+      "id": "n03774a50deb5",
+      "ticker": "DEVYANI",
+      "company": "Devyani International Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Devyani International eyes next growth chapter with Sapphire merger, AI push and store expansion – Indian Television Dot Com",
+      "url": "https://indiantelevision.com/mam/devyani-international-eyes-next-growth-chapter-with-sapphire-merger-ai-push-and-store-expansion/",
+      "source": "indiantelevision.com",
+      "date": "2026-09-16T07:54:08.968Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Devyani plans growth via Sapphire merger, AI adoption, and store expansion.",
+      "enriched": true
+    },
+    {
+      "id": "nc94fc7e46519",
+      "ticker": "DENTALKART",
+      "company": "Vasa Denticity Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Vasa Denticity Ltd (NSE:DENTALKART) (Q1 2027) Earnings Call Highlights: Margins Recover, ...",
+      "url": "https://uk.finance.yahoo.com/news/vasa-denticity-ltd-nse-dentalkart-030115532.html",
+      "source": "uk.finance.yahoo.com",
+      "date": "2026-09-16T07:54:08.180Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Vasa Denticity Q1 earnings show margin recovery.",
+      "enriched": true
+    },
+    {
+      "id": "n49fb5def5e5f",
+      "ticker": "DENTA",
+      "company": "Denta Water and Infra Solutions Limited",
+      "sector": "Utilities",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Denta Water FY26 Revenue at ₹250 Cr; FY27 Growth Guidance 20% | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/industrial-goodsservices/Denta-Water-FY26-Revenue-at-indian-rupee250-Cr-FY27-Growth-Guidance-20percent/6a4254957465030c38bc6ce7",
+      "source": "whalesbook.com",
+      "date": "2026-09-16T07:54:05.649Z",
+      "topic": "Money",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Denta Water guides FY26 revenue at ₹250 crore with 20% growth expected in FY27.",
+      "enriched": true
+    },
+    {
+      "id": "nea4cdcb91af6",
+      "ticker": "BALUFORGE",
+      "company": "Balu Forge Industries Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Balu Forge re-appoints two independent directors",
+      "url": "https://scanx.trade/stock-market-news/companies/balu-forge-industries-re-appoints-two-independent-directors/44277249",
+      "source": "scanx.trade",
+      "date": "2026-09-16T07:53:52.105Z",
+      "topic": "Other",
+      "keyword": "Approval",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Balu Forge re-appoints two independent directors.",
+      "enriched": true
+    },
+    {
+      "id": "ne715512ed1fd",
+      "ticker": "AVANTEL",
+      "company": "Avantel Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Avantel Ltd ki badhi taiyaari: Imeds Global ke saath hoga bada merger! | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/technology/Avantel-Ltd-to-Consider-Merger-of-Wholly-Owned-Subsidiary-Imeds-Global/6aa56744f2017017ae6974a0",
+      "source": "whalesbook.com",
+      "date": "2026-09-16T07:53:50.567Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Avantel to merge with Imeds Global.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n9d49f80237e4",
+      "ticker": "AVANTEL",
+      "company": "Avantel Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Avantel Merger Alert: Board Meeting se pehle Trading Window hui band! | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/other/Avantel-Closes-Trading-Window-Ahead-of-Subsidiary-Merger-Board-Meeting/6aa55925f2017017ae696ec0",
+      "source": "whalesbook.com",
+      "date": "2026-09-16T07:53:50.566Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Avantel closes trading window ahead of board meeting to discuss merger.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nbda4c1d68093",
+      "ticker": "GULFOILLUB",
+      "company": "Gulf Oil Lubricants India Limited",
+      "sector": "Oil Gas & Consumable Fuels",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Gulf Oil Lubricants India announces resignation of Company Secretary",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVFpRM2UwT1lKWkJfcnBRRHFPaWJrZnJYWndDaFNVTWhHUDc1VXZrbG5UdEtGMThXTUhXQjVJeTItVzZJRW9Vakx6MzRhQlpqOHpNY25EbWF6MEZxTG1lb3dsSktPVFJBRnU3YUxYaURiTGVobU0xNTNqclJLaXFPZ19mV2lJS1RMR2VTcXJ1RXloVDNOeDBfWTZpMkVmTzh6TjFsQ2dpUGk?oc=5",
+      "source": "Business Upturn",
+      "date": "2026-09-16T06:17:28.000Z",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Gulf Oil's Company Secretary has resigned.",
       "enriched": true
     },
     {
@@ -65,26 +397,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Monarch Surveyors wins Rs 6.54 crore order from Western Railway.",
-      "enriched": true
-    },
-    {
-      "id": "n997136fc7fcc",
-      "ticker": "CNINFOTECH",
-      "company": "Capitalnumbers Infotech Ltd",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Capitalnumbers Infotech Proposes IPO Fund Reallocation to Acquire Epitome Cloud Inc. | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/English/technology/Capitalnumbers-Infotech-Proposes-IPO-Fund-Reallocation-to-Acquire-Epitome-Cloud-Inc/6a957fa9f2017017ae5825f3",
-      "source": "whalesbook.com",
-      "date": "2026-09-15T18:31:18.332Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Capitalnumbers proposes reallocating IPO funds to acquire Epitome Cloud Inc.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -224,46 +536,6 @@
       "enriched": true
     },
     {
-      "id": "n5580414e841c",
-      "ticker": "AVANTEL",
-      "company": "Avantel Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Avantel Ltd to Consider Merger of Wholly-Owned Subsidiary Imeds Global | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/English/technology/Avantel-Ltd-to-Consider-Merger-of-Wholly-Owned-Subsidiary-Imeds-Global/6aa56744f2017017ae6974a0",
-      "source": "whalesbook.com",
-      "date": "2026-09-15T18:27:24.130Z",
-      "topic": "Deals",
-      "keyword": "Merger",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Avantel to consider merger of wholly-owned subsidiary Imeds Global.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "ne75be6f7f959",
-      "ticker": "AVANTEL",
-      "company": "Avantel Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Avantel Closes Trading Window Ahead of Subsidiary Merger Board Meeting | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/English/other/Avantel-Closes-Trading-Window-Ahead-of-Subsidiary-Merger-Board-Meeting/6aa55925f2017017ae696ec0",
-      "source": "whalesbook.com",
-      "date": "2026-09-15T18:27:24.130Z",
-      "topic": "Deals",
-      "keyword": "Merger",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Avantel closes trading window ahead of board meeting on subsidiary merger.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "nc6e537a602d6",
       "ticker": "ACUTAAS",
       "company": "Acutaas Chemicals Limited",
@@ -320,7 +592,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Aurobindo Pharma gets US FDA approval for Beclomethasone inhalation aerosol.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -1362,25 +1634,6 @@
       "enriched": true
     },
     {
-      "id": "ne93320bc01dd",
-      "ticker": "RAJESH",
-      "company": "Rajesh Power Services Ltd",
-      "sector": "Utilities",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Rajesh Power Services Q1 Update: Revenue Reaches ₹437 Cr; Order Book Climbs to ₹3,741 Cr",
-      "url": "https://tradebrains.in/rajesh-power-services-q1-update-revenue-reaches-437-crore-order-book-climbs-to-3741-crore/",
-      "source": "tradebrains.in",
-      "date": "2026-09-09T07:38:08.128Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Rajesh Power Services reports Q1 revenue of ₹437 crore with order book standing at ₹3,741 crore.",
-      "enriched": true
-    },
-    {
       "id": "n893f4293b529",
       "ticker": "TRIVENI",
       "company": "Triveni Engineering & Industries Limited",
@@ -2131,7 +2384,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Avantel wins ₹83.80 crore order from Zetwerk for satellite communication equipment.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -2593,7 +2846,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Board approved raising Rs 151 crore through preferential equity issue.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -3004,25 +3257,6 @@
       "enriched": true
     },
     {
-      "id": "nd49872d25355",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "DEE Development Engineers Q1 Results: Earnings call audio released",
-      "url": "https://scanx.trade/stock-market-news/companies/dee-development-engineers-q1-results-earnings-call-audio-released/47633088",
-      "source": "scanx.trade",
-      "date": "2026-09-04T17:46:22.574Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "DEE Development Engineers released Q1 results earnings call audio.",
-      "enriched": true
-    },
-    {
       "id": "n4c897d992753",
       "ticker": "DAMCAPITAL",
       "company": "Dam Capital Advisors Limited",
@@ -3271,7 +3505,7 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Board approved raising borrowing limit from ₹100 crore to ₹200 crore.",
-      "sources_count": 2,
+      "sources_count": 6,
       "enriched": true
     },
     {
@@ -3406,7 +3640,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "PVR Inox approved Rs 300 crore share buyback at Rs 1,450 per share.",
-      "sources_count": 3,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -3757,6 +3991,26 @@
       "enriched": true
     },
     {
+      "id": "nf48980ee1346",
+      "ticker": "RAJESH",
+      "company": "Rajesh Power Services Ltd",
+      "sector": "Utilities",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Rajesh Power Services Wins ₹362.83 Crore PGVCL Orders | Machine Maker - Latest Manufacturing News | Indian Manufacturing News - Latest Manufacturing News | Indian Manufacturing News - Machine Maker",
+      "url": "https://themachinemaker.com/news/rajesh-power-services-wins-%E2%82%B9362-83-crore-pgvcl-orders/",
+      "source": "themachinemaker.com",
+      "date": "2026-09-03T20:34:48.034Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Rajesh Power Services bags Rs 363 crore PGVCL order.",
+      "enriched": true,
+      "sources_count": 2
+    },
+    {
       "id": "na3faac8aacc0",
       "ticker": "RAJESH",
       "company": "Rajesh Power Services Ltd",
@@ -3793,26 +4047,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Rajesh Power Services secures Rs 363 crore order from PGVCL.",
-      "enriched": true,
-      "sources_count": 2
-    },
-    {
-      "id": "nf48980ee1346",
-      "ticker": "RAJESH",
-      "company": "Rajesh Power Services Ltd",
-      "sector": "Utilities",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Rajesh Power Services Wins ₹362.83 Crore PGVCL Orders | Machine Maker - Latest Manufacturing News | Indian Manufacturing News - Latest Manufacturing News | Indian Manufacturing News - Machine Maker",
-      "url": "https://themachinemaker.com/news/rajesh-power-services-wins-%E2%82%B9362-83-crore-pgvcl-orders/",
-      "source": "themachinemaker.com",
-      "date": "2026-09-03T20:34:48.034Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Rajesh Power Services bags Rs 363 crore PGVCL order.",
       "enriched": true,
       "sources_count": 2
     },
@@ -4025,25 +4259,6 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Plant Operations Manager resigned from Cosmo Ferrites.",
-      "enriched": true
-    },
-    {
-      "id": "n8197db197827",
-      "ticker": "CNINFOTECH",
-      "company": "Capitalnumbers Infotech Ltd",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Capital Numbers Strengthens Global Enterprise Technology Capabilities with Acquisition of US Based Epitome Cloud - PNI",
-      "url": "https://www.pninews.com/capital-numbers-strengthens-global-enterprise-technology-capabilities-with-acquisition-of-us-based-epitome-cloud/",
-      "source": "pninews.com",
-      "date": "2026-09-03T20:34:44.054Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Capitalnumbers acquired US-based Epitome Cloud to strengthen enterprise technology capabilities.",
       "enriched": true
     },
     {
@@ -5641,25 +5856,6 @@
       "enriched": true
     },
     {
-      "id": "nfc06522d03cd",
-      "ticker": "DEVYANI",
-      "company": "Devyani International Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Devyani International merger update 2026: SFML exit off | Market News & Analysis",
-      "url": "https://www.multibagg.ai/market-pulse/articles/devyani-sapphire-merger-scheme-update-cmtaauym0039n0zmdk409h28p",
-      "source": "multibagg.ai",
-      "date": "2026-09-03T20:34:10.055Z",
-      "topic": "Deals",
-      "keyword": "Merger",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Devyani International merger update: SFML exit removed from deal terms.",
-      "enriched": true
-    },
-    {
       "id": "naab8036ac846",
       "ticker": "DEVYANI",
       "company": "Devyani International Limited",
@@ -6217,26 +6413,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Board meeting scheduled to consider fundraising proposal.",
-      "enriched": true
-    },
-    {
-      "id": "nb2297d3abb24",
-      "ticker": "YASHHV",
-      "company": "Yash Highvoltage Ltd",
-      "sector": "Capital Goods",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Yash Highvoltage Announces ₹151 Cr Fundraise for Expansion",
-      "url": "https://electricalmirror.net/yash-highvoltage-rs151-crore-preferential/",
-      "source": "electricalmirror.net",
-      "date": "2026-09-03T20:33:59.463Z",
-      "topic": "Money",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Company raising Rs 151 crore for expansion through preferential issue.",
       "enriched": true
     },
     {
@@ -7071,7 +7247,8 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "LAPL Automotive released Q3 FY26 earnings results.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "nf797017346d7",
@@ -7976,25 +8153,6 @@
       "enriched": true
     },
     {
-      "id": "ndc0a1cab0de7",
-      "ticker": "MANINDS",
-      "company": "Man Industries (India) Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Man Industries Receives QatarEnergy Approval As Preferred Manufacturer For LSAW Pipes",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaDdIX0NhTW1sYkYwM3dkdmZnTDJlS2JTLU1RakpmUEZXdU8wWlZkN2ZFLVUxTV94ZXUzaG5KcVFSNkpjdjVDVGpJbUNUUVpyRm1ZdFh6cDluYndlTjU3ZHlaLU1fNi1ZMEZWeXJhWGlwbGVuN3Z5ZFI1djktNzdSdUZvSEJQbmJlVXNfMGdXYmZkOTRQeUEzUWlwSDlSNVlGRjZ1dEZaSDlITExHZDZjUHJ3Z0ltR1lFRVBOUVY1SVUzZw?oc=5",
-      "source": "Sahi",
-      "date": "2026-08-14T07:00:00.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Man Industries received QatarEnergy approval as preferred manufacturer for LSAW pipes.",
-      "enriched": true
-    },
-    {
       "id": "n5c1f081b7360",
       "ticker": "SONATSOFTW",
       "company": "Sonata Software Limited",
@@ -8011,6 +8169,25 @@
       "importance": "high",
       "mood": "neutral",
       "takeaway": "Sonata Software's merger with Encore IT becomes effective on August 14, 2026.",
+      "enriched": true
+    },
+    {
+      "id": "ndc0a1cab0de7",
+      "ticker": "MANINDS",
+      "company": "Man Industries (India) Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Man Industries Receives QatarEnergy Approval As Preferred Manufacturer For LSAW Pipes",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaDdIX0NhTW1sYkYwM3dkdmZnTDJlS2JTLU1RakpmUEZXdU8wWlZkN2ZFLVUxTV94ZXUzaG5KcVFSNkpjdjVDVGpJbUNUUVpyRm1ZdFh6cDluYndlTjU3ZHlaLU1fNi1ZMEZWeXJhWGlwbGVuN3Z5ZFI1djktNzdSdUZvSEJQbmJlVXNfMGdXYmZkOTRQeUEzUWlwSDlSNVlGRjZ1dEZaSDlITExHZDZjUHJ3Z0ltR1lFRVBOUVY1SVUzZw?oc=5",
+      "source": "Sahi",
+      "date": "2026-08-14T07:00:00.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Man Industries received QatarEnergy approval as preferred manufacturer for LSAW pipes.",
       "enriched": true
     },
     {
@@ -10562,6 +10739,25 @@
       "enriched": true
     },
     {
+      "id": "nfde4f3c81bff",
+      "ticker": "DENTA",
+      "company": "Denta Water and Infra Solutions Limited",
+      "sector": "Utilities",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "DENTA Q2 2026 Earnings: Robust Revenue Growth of 23.17% Drives Strong EPS of ₹22.81 - Quarterly Earnings",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORWFoV2JwTkkyMTNXaFJxWkgzMmpjV1E0NnQtUWVlODc3WGZYS20yS2FnUElqSGl3MU9VQjA4SmRuYTduSGV3R3JOS2VGMUZhUVVSOGczUE4tMS1pOXM1Tm5wbms1c2JCaVFidGJLRzA4d0R6WWtFSWVJTk83bl8tUjdBWXRBdjZ2UkFfdlVFMWkxblotLVlNOXoyemtfZ2dlVy1lRGUxWl9LcVNGNVlUZ3Q2Q25iNDhKZVh0Zw?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-04T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Denta Water Q2 2026 revenue up 23.17%, EPS at ₹22.81.",
+      "enriched": true
+    },
+    {
       "id": "n268a3e3a5862",
       "ticker": "YASHO",
       "company": "Yasho Industries Limited",
@@ -10616,25 +10812,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "MAS Financial Services Q2 2026 shows strong revenue growth with stable asset quality.",
-      "enriched": true
-    },
-    {
-      "id": "nfde4f3c81bff",
-      "ticker": "DENTA",
-      "company": "Denta Water and Infra Solutions Limited",
-      "sector": "Utilities",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "DENTA Q2 2026 Earnings: Robust Revenue Growth of 23.17% Drives Strong EPS of ₹22.81 - Quarterly Earnings",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORWFoV2JwTkkyMTNXaFJxWkgzMmpjV1E0NnQtUWVlODc3WGZYS20yS2FnUElqSGl3MU9VQjA4SmRuYTduSGV3R3JOS2VGMUZhUVVSOGczUE4tMS1pOXM1Tm5wbms1c2JCaVFidGJLRzA4d0R6WWtFSWVJTk83bl8tUjdBWXRBdjZ2UkFfdlVFMWkxblotLVlNOXoyemtfZ2dlVy1lRGUxWl9LcVNGNVlUZ3Q2Q25iNDhKZVh0Zw?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-04T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Denta Water Q2 2026 revenue up 23.17%, EPS at ₹22.81.",
       "enriched": true
     },
     {
@@ -11654,6 +11831,25 @@
       "enriched": true
     },
     {
+      "id": "n111ce9e7815f",
+      "ticker": "IKS",
+      "company": "Inventurus Knowledge Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Inventurus Knowledge Solutions Q2 2026 Earnings: Robust Revenue Growth Amid Marginal Stock Dip - Analyst Coverage Count",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdGF4Rndnc19ubDlPNWlQZTRFZkJySS02RnJjSS1TNkJlQXAxdzRZeW9XY1NtUGhyd3FXMVVTbUR5RXhBRDdRUnNwYkRtV05BcE1GOTZLSF9UempWWEdVYTl6M3A3RHVnSTZRbzhodHRTcE5nYmtQQ3pjenphODNnUlN2WnMyM1AzYjRteW4tdWQyNWRsdXVtZDlyMEFRXzJYc2VKdzVoY1lsaXNiNUN5RkkzdHZyR1BpeDVfUXlNNHZJTlZfOHNYZ19qMktfWUdK?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-06-21T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Inventurus Knowledge Solutions showed robust quarterly revenue growth.",
+      "enriched": true
+    },
+    {
       "id": "nf009024ba426",
       "ticker": "RPSGVENT",
       "company": "RPSG VENTURES LIMITED",
@@ -11672,25 +11868,6 @@
       "takeaway": "RPSG Ventures Q2 2026 revenue grew 17.85% but net loss widened to ₹41.7 per share.",
       "enriched": true,
       "sources_count": 2
-    },
-    {
-      "id": "n111ce9e7815f",
-      "ticker": "IKS",
-      "company": "Inventurus Knowledge Solutions Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Inventurus Knowledge Solutions Q2 2026 Earnings: Robust Revenue Growth Amid Marginal Stock Dip - Analyst Coverage Count",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdGF4Rndnc19ubDlPNWlQZTRFZkJySS02RnJjSS1TNkJlQXAxdzRZeW9XY1NtUGhyd3FXMVVTbUR5RXhBRDdRUnNwYkRtV05BcE1GOTZLSF9UempWWEdVYTl6M3A3RHVnSTZRbzhodHRTcE5nYmtQQ3pjenphODNnUlN2WnMyM1AzYjRteW4tdWQyNWRsdXVtZDlyMEFRXzJYc2VKdzVoY1lsaXNiNUN5RkkzdHZyR1BpeDVfUXlNNHZJTlZfOHNYZ19qMktfWUdK?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-21T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Inventurus Knowledge Solutions showed robust quarterly revenue growth.",
-      "enriched": true
     },
     {
       "id": "n1c7d00af520d",
@@ -11768,26 +11945,7 @@
       "mood": "positive",
       "takeaway": "Man Industries wins ₹1,000 crore orders, total orderbook now ₹4,100 crore.",
       "enriched": true,
-      "sources_count": 4
-    },
-    {
-      "id": "n0d9e9112cbda",
-      "ticker": "DEVYANI",
-      "company": "Devyani International Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Pizza Hut exit adds new variable to Devyani-Sapphire merger",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOG9qLXI0bTNwa2pHVTdVay01ZnVhbzJZWVd0VVplZjVJTWNJYWNJbERHdkRJemtzVEl6MkR2STFpUS00cDc1VGczVGZ6SER5UDViNmtJLWZRMG51eDcxQVpvZGp3YVFfWkVfZFR5WnVUWnU3bGppUGd5QTByTjdtTG1HWWpFV1NFR3VDY08xLWU4cGZscVBHNlVxS0RHZmVKYlY2SGI1dG1VWnJJYWJRQk5vaXF0Z9IBvAFBVV95cUxQZE02MXV0b2loTlRhdUxURV9FNHJLakpvVEtvXzY4UVJVTGJzN1htZ3d6TkF6bnVmci0tRHZEZ28wZFhnWWtZVXFsWi1ZTi1RQ2hkQW4zel8zRmtMNmlOYzNDTlVCeVU4UnJIUGNsb3hUQWlWc3VfaGpRb3Zpam1aeEFvUk9PaG5WNlpSZTNLd0phVDE4QS1FQ2M1Z1RvOGJpTDFhdnRZZWRsZGpSZ0hadmk1RUZjdjZoeGR2Wg?oc=5",
-      "source": "financialexpress.com",
-      "date": "2026-06-17T07:00:00.000Z",
-      "topic": "Deals",
-      "keyword": "Merger",
-      "importance": "medium",
-      "mood": "negative",
-      "takeaway": "Pizza Hut exit complicates Devyani-Sapphire merger plans.",
-      "enriched": true
+      "sources_count": 5
     },
     {
       "id": "n3b098f18fef5",
@@ -11806,6 +11964,25 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Rajesh Power wins ₹212 crore order from Odisha Power Transmission Corporation.",
+      "enriched": true
+    },
+    {
+      "id": "n0d9e9112cbda",
+      "ticker": "DEVYANI",
+      "company": "Devyani International Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Pizza Hut exit adds new variable to Devyani-Sapphire merger",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOG9qLXI0bTNwa2pHVTdVay01ZnVhbzJZWVd0VVplZjVJTWNJYWNJbERHdkRJemtzVEl6MkR2STFpUS00cDc1VGczVGZ6SER5UDViNmtJLWZRMG51eDcxQVpvZGp3YVFfWkVfZFR5WnVUWnU3bGppUGd5QTByTjdtTG1HWWpFV1NFR3VDY08xLWU4cGZscVBHNlVxS0RHZmVKYlY2SGI1dG1VWnJJYWJRQk5vaXF0Z9IBvAFBVV95cUxQZE02MXV0b2loTlRhdUxURV9FNHJLakpvVEtvXzY4UVJVTGJzN1htZ3d6TkF6bnVmci0tRHZEZ28wZFhnWWtZVXFsWi1ZTi1RQ2hkQW4zel8zRmtMNmlOYzNDTlVCeVU4UnJIUGNsb3hUQWlWc3VfaGpRb3Zpam1aeEFvUk9PaG5WNlpSZTNLd0phVDE4QS1FQ2M1Z1RvOGJpTDFhdnRZZWRsZGpSZ0hadmk1RUZjdjZoeGR2Wg?oc=5",
+      "source": "financialexpress.com",
+      "date": "2026-06-17T07:00:00.000Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "medium",
+      "mood": "negative",
+      "takeaway": "Pizza Hut exit complicates Devyani-Sapphire merger plans.",
       "enriched": true
     },
     {
@@ -11886,6 +12063,25 @@
       "enriched": true
     },
     {
+      "id": "nd2295cf0ff10",
+      "ticker": "DENTALKART",
+      "company": "Vasa Denticity Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Vasa Denticity uploads earnings call audio for FY26",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOTRVVXlxbm5RSXQ2Zl9leWMydEtvSTVYMHRmaG9SUlhRWk91SnVPR2NtUURWNDlSakNJZklKT1BEc09sb3dJSGdiQ1REbWVCRUMtNzZUS0RHbFBjUnRyeXZLQWpTbzNXOVpsQ2pRcnlSeEFXNnRGUWdQTUlEY0NoOXlrbHZIYTd0STY0LXNOY1ZXLVN6SjdYLWkyRk53dzRpNDlBWUktOGtPdWJY?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-06-15T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Company uploaded earnings call audio for FY26.",
+      "enriched": true
+    },
+    {
       "id": "nf5d39201d9ee",
       "ticker": "SAPPHIRE",
       "company": "Sapphire Foods India Limited",
@@ -11962,25 +12158,6 @@
       "takeaway": "Epigral reported March 2026 revenue of ₹736 crore with earnings per share of ₹18.99.",
       "enriched": true,
       "sources_count": 2
-    },
-    {
-      "id": "nd2295cf0ff10",
-      "ticker": "DENTALKART",
-      "company": "Vasa Denticity Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Vasa Denticity uploads earnings call audio for FY26",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOTRVVXlxbm5RSXQ2Zl9leWMydEtvSTVYMHRmaG9SUlhRWk91SnVPR2NtUURWNDlSakNJZklKT1BEc09sb3dJSGdiQ1REbWVCRUMtNzZUS0RHbFBjUnRyeXZLQWpTbzNXOVpsQ2pRcnlSeEFXNnRGUWdQTUlEY0NoOXlrbHZIYTd0STY0LXNOY1ZXLVN6SjdYLWkyRk53dzRpNDlBWUktOGtPdWJY?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-06-15T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Company uploaded earnings call audio for FY26.",
-      "enriched": true
     },
     {
       "id": "n0c26b1a72eef",
