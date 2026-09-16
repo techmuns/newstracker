@@ -1,13 +1,288 @@
 {
-  "generated_at": "2026-09-16T08:05:53.955Z",
+  "generated_at": "2026-09-16T18:29:38.356Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 95,
-    "watchlist": 611,
+    "portfolio": 99,
+    "watchlist": 623,
     "universe": 30,
-    "total": 641
+    "total": 653
   },
   "items": [
+    {
+      "id": "nae30ae4df9c1",
+      "ticker": "MSECL",
+      "company": "Monarch Surveyors and Engineering Consultants Ltd",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Monarch Surveyors bags Rs 4-cr government contract in Maharashtra | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-bags-rs-4-cr-government-contract-in-maharashtra-126071500937_1.html",
+      "source": "business-standard.com",
+      "date": "2026-09-16T18:27:42.679Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Monarch Surveyors wins Rs 4 crore government contract in Maharashtra.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "ndbac1d406588",
+      "ticker": "MSECL",
+      "company": "Monarch Surveyors and Engineering Consultants Ltd",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Monarch Surveyors and Engineering Consultants receives Rs 2-cr work order | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-and-engineering-consultants-receives-rs-2-cr-work-order-126082200734_1.html",
+      "source": "business-standard.com",
+      "date": "2026-09-16T18:27:42.678Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Monarch Surveyors receives Rs 2 crore work order.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n997136fc7fcc",
+      "ticker": "CNINFOTECH",
+      "company": "Capitalnumbers Infotech Ltd",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Capitalnumbers Infotech Proposes IPO Fund Reallocation to Acquire Epitome Cloud Inc. | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/technology/Capitalnumbers-Infotech-Proposes-IPO-Fund-Reallocation-to-Acquire-Epitome-Cloud-Inc/6a957fa9f2017017ae5825f3",
+      "source": "whalesbook.com",
+      "date": "2026-09-16T18:27:06.531Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Capitalnumbers Infotech proposes to reallocate IPO funds to acquire Epitome Cloud Inc.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n2878f165dbf3",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Surya Roshni confirms zero promoter share pledges in FY26",
+      "url": "https://scanx.trade/stock-market-news/companies/surya-roshni-confirms-zero-promoter-share-pledges-in-fy26/43463905",
+      "source": "scanx.trade",
+      "date": "2026-09-16T18:26:47.092Z",
+      "topic": "Other",
+      "keyword": "Acquisition",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Surya Roshni confirmed no promoter shares are pledged in FY26.",
+      "enriched": true
+    },
+    {
+      "id": "n21ebc00775fc",
+      "ticker": "RPSGVENT",
+      "company": "RPSG VENTURES LIMITED",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "RPSG Ventures to Consolidate Healthcare Business via Amalgamation and Slump Sale | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/bankingfinance/RPSG-Ventures-to-Consolidate-Healthcare-Business-via-Amalgamation-and-Slump-Sale/6a3d28f27465030c38b9302d",
+      "source": "whalesbook.com",
+      "date": "2026-09-16T18:25:53.874Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "RPSG Ventures to consolidate healthcare business through merger and asset sale.",
+      "enriched": true
+    },
+    {
+      "id": "nd14a8bfb13df",
+      "ticker": "PVRINOX",
+      "company": "PVR INOX Limited",
+      "sector": "Media Entertainment & Publication",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "PVR Inox Buyback Opens On 10 September: Key Dates, Price And Eligibility",
+      "url": "https://www.kotakneo.com/news/stocks/pvr-inox-buyback-10-september-2026-key-dates-price-eligibility/",
+      "source": "kotakneo.com",
+      "date": "2026-09-16T18:25:52.546Z",
+      "topic": "Money",
+      "keyword": "Buyback",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "PVR Inox buyback opens September 10 with key dates and eligibility announced.",
+      "enriched": true
+    },
+    {
+      "id": "n75b80342bf43",
+      "ticker": "PVRINOX",
+      "company": "PVR INOX Limited",
+      "sector": "Media Entertainment & Publication",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "PVR Inox Board to Consider Share Buyback on Aug 31: Rediff Moneynews",
+      "url": "https://money.rediff.com/news/market/pvr-inox-board-to-consider-share-buyback-on-aug-31/53127520260825",
+      "source": "money.rediff.com",
+      "date": "2026-09-16T18:25:52.546Z",
+      "topic": "Money",
+      "keyword": "Buyback",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "PVR Inox board to consider share buyback proposal on August 31.",
+      "enriched": true
+    },
+    {
+      "id": "ncc293540c160",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "DEE Development Engineers to Announce Nuclear Piping Joint Venture by December 2023, ETEnergyworld",
+      "url": "https://energy.economictimes.indiatimes.com/news/power/dee-development-engineers-plans-nuclear-piping-jv-formal-announcement-by-december/133666645",
+      "source": "energy.economictimes.indiatimes.com",
+      "date": "2026-09-16T18:23:59.128Z",
+      "topic": "Deals",
+      "keyword": "Joint Venture",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "DEE Development to announce nuclear piping joint venture by December 2023.",
+      "enriched": true
+    },
+    {
+      "id": "ne75be6f7f959",
+      "ticker": "AVANTEL",
+      "company": "Avantel Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Avantel Closes Trading Window Ahead of Subsidiary Merger Board Meeting | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/other/Avantel-Closes-Trading-Window-Ahead-of-Subsidiary-Merger-Board-Meeting/6aa55925f2017017ae696ec0",
+      "source": "whalesbook.com",
+      "date": "2026-09-16T18:23:45.681Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Avantel closes trading window ahead of board meeting on subsidiary merger.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n1bfddeb20396",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Aurionpro Secures Additional Order From MMRDA",
+      "url": "https://www.constructionworld.in/policy-updates-and-economic-news/aurionpro-secures-additional-order-from-mmrda/95393",
+      "source": "constructionworld.in",
+      "date": "2026-09-16T18:23:44.276Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Aurionpro secures additional order from MMRDA.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n22c980504bd4",
+      "ticker": "TANFACIND",
+      "company": "TANFAC Industries Ltd",
+      "sector": "Chemicals",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Anupam Rasayan: Completes ₹60.88 Crore Equity Share Acquisition in Tanfac | InvestyWise",
+      "url": "https://www.investywise.com/anupam-rasayan-india-ltd-acquisition-of-equity-shares-in-tanfac-industries/",
+      "source": "investywise.com",
+      "date": "2026-09-16T18:23:22.610Z",
+      "topic": "Deals",
+      "keyword": "Preferential Issue",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Anupam Rasayan completes acquisition of Rs 60.88 crore equity stake in Tanfac.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n488a3fbb4c1d",
+      "ticker": "STYLAMIND",
+      "company": "Stylam Industries Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Stylam Industries Share Price: Aica Kogyo ne badhaya hissa, ab holding hui **40%**! | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/industrial-goodsservices/Aica-Kogyo-Boosts-Stake-in-Stylam-Industries-to-40percent/6a338f1eb6609c8f9dd2363b",
+      "source": "whalesbook.com",
+      "date": "2026-09-16T18:22:44.119Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Aica Kogyo increased its stake in Stylam Industries to 40%.",
+      "enriched": true
+    },
+    {
+      "id": "nc96060159004",
+      "ticker": "SENORES",
+      "company": "Senores Pharmaceuticals Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Senores Pharma IPO Funds: Board ne kiya approval, ab shareholders ki baari! | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/bankingfinance/Senores-Pharma-Board-Approves-IPO-Fund-Reallocation-Seeks-Shareholder-Nod/6a427e2d7465030c38bcd10f",
+      "source": "whalesbook.com",
+      "date": "2026-09-16T18:22:40.082Z",
+      "topic": "Money",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Senores Pharma board approved IPO fund utilization, now awaits shareholder approval.",
+      "enriched": true
+    },
+    {
+      "id": "ncf9ad71c2607",
+      "ticker": "UNIMECH",
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Unimech Aerospace likely to launch Rs 750-crore QIP this month",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ0M4T1pORC1aWUZnbmpzeVpOc3Y3dlJuSVVqSkh3blZxaDQ4YXVBdHh4VnNERFNHazhFX0hJTW92OXRjMEVSelJsWXluR2t4VjlhX3ZiNDJCQmJ6dTI3VG1WWERBMzRLeEdta0F0STFRWnpYaWRWOGZ6WDZwX1liUFQ4dERkTmR1VFhyT1Z1QmZaT1M2N2FDbFhLSjgtY1ZnVzBZZ0hubjNMMW05M0ZNX29PaGlPaURUOVhJenVfNV_SAcABQVVfeXFMTWdDOE9aTkQtWllGZ25qc3laTnN2N3ZSbklVakpId25WcWg0OGF1QXR4eFZzRERTR2s4RV9ISU1vdjl0YzBFUnpSbFl5bkdreFY5YV92YjQyQkJienUyN1RtVlhEQTM0S3hHbWtBdEkxUVp6WGlkVjhmelg2cF9ZYlBUOHREZE5kdVRYck9WdUJmWk9TNjdhQ2xYS0o4LWNWZ1cwWWdIbm4zTDFtOTNGTV9vT2hpT2lEVDlYSXp1XzVf?oc=5",
+      "source": "Moneycontrol.com",
+      "date": "2026-09-16T08:02:45.000Z",
+      "topic": "Money",
+      "keyword": "QIP",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Unimech Aerospace plans to launch Rs 750 crore QIP this month.",
+      "enriched": true
+    },
     {
       "id": "nc8867f514f8e",
       "ticker": "SHREEREF",
@@ -45,46 +320,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Company holds Rs 3,741 crore order book with Q1 revenue of Rs 437 crore.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "nf758fde71419",
-      "ticker": "MSECL",
-      "company": "Monarch Surveyors and Engineering Consultants Ltd",
-      "sector": "Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Monarch Surveyors bags order worth Rs 5 crore | Capital Market News - Business Standard",
-      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-bags-order-worth-rs-5-crore-126062500927_1.html",
-      "source": "business-standard.com",
-      "date": "2026-09-16T07:57:44.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Secured order worth Rs 5 crore.",
-      "sources_count": 4,
-      "enriched": true
-    },
-    {
-      "id": "n16539dba5153",
-      "ticker": "CNINFOTECH",
-      "company": "Capitalnumbers Infotech Ltd",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Capitalnumbers Infotech Proposes IPO Fund Reallocation for Rs 40 Crore Acquisition | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/English/technology/Capitalnumbers-Infotech-Proposes-IPO-Fund-Reallocation-for-Rs-40-Crore-Acquisition/6a957bf9f2017017ae581a40",
-      "source": "whalesbook.com",
-      "date": "2026-09-16T07:57:23.573Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Plans to reallocate IPO funds for Rs 40 crore acquisition.",
       "sources_count": 2,
       "enriched": true
     },
@@ -163,26 +398,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Sonata Software subsidiary signed a five-year strategic partnership with Amazon Web Services.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n67ac22cb7627",
-      "ticker": "IKS",
-      "company": "Inventurus Knowledge Solutions Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Inventurus Knowledge Solutions Q1 Results: Earnings call recording released",
-      "url": "https://scanx.trade/stock-market-news/companies/inventurus-knowledge-solutions-q1-results-earnings-call-recording-released/47557927",
-      "source": "scanx.trade",
-      "date": "2026-09-16T07:54:58.590Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Inventurus released Q1 earnings call recording.",
       "sources_count": 2,
       "enriched": true
     },
@@ -322,42 +537,23 @@
       "enriched": true
     },
     {
-      "id": "n9d49f80237e4",
-      "ticker": "AVANTEL",
-      "company": "Avantel Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Avantel Merger Alert: Board Meeting se pehle Trading Window hui band! | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/Hinglish/other/Avantel-Closes-Trading-Window-Ahead-of-Subsidiary-Merger-Board-Meeting/6aa55925f2017017ae696ec0",
-      "source": "whalesbook.com",
-      "date": "2026-09-16T07:53:50.566Z",
-      "topic": "Deals",
-      "keyword": "Merger",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Avantel closes trading window ahead of board meeting to discuss merger.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "nbda4c1d68093",
+      "id": "n4a74ec7e5456",
       "ticker": "GULFOILLUB",
       "company": "Gulf Oil Lubricants India Limited",
       "sector": "Oil Gas & Consumable Fuels",
       "scope": [
         "watchlist"
       ],
-      "title": "Gulf Oil Lubricants India announces resignation of Company Secretary",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVFpRM2UwT1lKWkJfcnBRRHFPaWJrZnJYWndDaFNVTWhHUDc1VXZrbG5UdEtGMThXTUhXQjVJeTItVzZJRW9Vakx6MzRhQlpqOHpNY25EbWF6MEZxTG1lb3dsSktPVFJBRnU3YUxYaURiTGVobU0xNTNqclJLaXFPZ19mV2lJS1RMR2VTcXJ1RXloVDNOeDBfWTZpMkVmTzh6TjFsQ2dpUGk?oc=5",
-      "source": "Business Upturn",
-      "date": "2026-09-16T06:17:28.000Z",
+      "title": "Gulf Oil Lubricants GULFOILLUB Company Secretary Resignation",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcF85QlUzbk03VlVZQ20wdlJ0Y2wxdHFBeURXZWI2MS1MUGU0QXg5cERrbkk2aXNVNnVteDhXOW55S0NUbTg3MHlZZ2xsckJ0QkVQa24wUnY0SFJpVDhIWGZDVkx0eXBXeXd5VXprVHE0WkxGd0xjaUp5R0VDTHVlalZNM29vUWJqRmM3NEJ4YWxMdVJJZmNxTGNsaThhVi0tYWNpNmRydnhkMGkxWE15Xy1aSnNKSk13b0VXS3RvTXFjZw?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-09-16T06:10:00.000Z",
       "topic": "Trouble",
       "keyword": "Resignation",
       "importance": "low",
       "mood": "neutral",
-      "takeaway": "Gulf Oil's Company Secretary has resigned.",
+      "takeaway": "Gulf Oil Lubricants' Company Secretary resigned.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -926,6 +1122,26 @@
       "enriched": true
     },
     {
+      "id": "ne5164f315c0e",
+      "ticker": "TEMPSENS",
+      "company": "Tempsens Instruments (India) Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Tempsens Instruments Q1FY27 Results: Earnings call scheduled for Sep 17",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTkJHRko0WnBqOVBIRUloTE40bWRxaTVHZmNDVXlFODhneHUyMlBrOU95bUNZemtoWVNfN2p6bkliMGg4VGxScTZyek9QVXhYSWdsSWVlUE9DM0UtVnhxMDlySEpDUDlUVWhPX2o3Zkt5dDIzSHVtZWFRclU3MV9nUEM5ZEd2azg0dGsybzVDM2VoNmw3SERlUkVqWkRYLUFwRDJvN3o5ZG5IZXF6YlQtZ1Y3QVFrYm8xQlhoTFlSZHQ?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-09-13T06:10:03.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Tempsens Instruments scheduled earnings call for September 17 to discuss Q1 results.",
+      "enriched": true
+    },
+    {
       "id": "na6feae28dd63",
       "ticker": "ONESOURCE",
       "company": "Onesource Specialty Pharma Limited",
@@ -1357,7 +1573,7 @@
       "mood": "positive",
       "takeaway": "Sapphire Foods and Devyani International filed for CCI approval for merger.",
       "enriched": true,
-      "sources_count": 2
+      "sources_count": 3
     },
     {
       "id": "na78dbee788d2",
@@ -1998,6 +2214,25 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "TPG-backed Newquest sold Rs 200 crore stake in Shadowfax to Oxbow in a block deal.",
+      "enriched": true
+    },
+    {
+      "id": "n99a97a399fd2",
+      "ticker": "SHIPROCKET",
+      "company": "Shiprocket Limited",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Shiprocket releases audio recording of Q2FY27 earnings call",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ0N5Mi0xcEV3WHM5d1Z6YXdiVVhkYXBVc2JmaDJqbnFncWZaVzBkSGRIbkx5M0NiNWVpYXQ1T083ekdpMEJxZExWbTNlMGMtbXZsU0tnck84VEsxaHpGOG9iUWVqNm5CeTlTaW1ZRXhndk9JbVpNc3pWVG56ZkFMYnpFQUxWRmthWnF4RVY5bnk2TFBmMThJZV95aHI1MUFVOHBsaGJ2VDhHcEpGQnNvSXpCQQ?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-09-08T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Shiprocket released audio recording of Q2 earnings call.",
       "enriched": true
     },
     {
@@ -2984,7 +3219,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Unimech Aerospace approved ₹750 crore QIP fundraising and ₹5 crore investment.",
-      "sources_count": 3,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -3505,7 +3740,7 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Board approved raising borrowing limit from ₹100 crore to ₹200 crore.",
-      "sources_count": 6,
+      "sources_count": 5,
       "enriched": true
     },
     {
@@ -3991,26 +4226,6 @@
       "enriched": true
     },
     {
-      "id": "nf48980ee1346",
-      "ticker": "RAJESH",
-      "company": "Rajesh Power Services Ltd",
-      "sector": "Utilities",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Rajesh Power Services Wins ₹362.83 Crore PGVCL Orders | Machine Maker - Latest Manufacturing News | Indian Manufacturing News - Latest Manufacturing News | Indian Manufacturing News - Machine Maker",
-      "url": "https://themachinemaker.com/news/rajesh-power-services-wins-%E2%82%B9362-83-crore-pgvcl-orders/",
-      "source": "themachinemaker.com",
-      "date": "2026-09-03T20:34:48.034Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Rajesh Power Services bags Rs 363 crore PGVCL order.",
-      "enriched": true,
-      "sources_count": 2
-    },
-    {
       "id": "na3faac8aacc0",
       "ticker": "RAJESH",
       "company": "Rajesh Power Services Ltd",
@@ -4029,6 +4244,26 @@
       "takeaway": "Rajesh Power Services wins Rs 653 crore underground power distribution order in Gujarat.",
       "enriched": true,
       "sources_count": 3
+    },
+    {
+      "id": "nf48980ee1346",
+      "ticker": "RAJESH",
+      "company": "Rajesh Power Services Ltd",
+      "sector": "Utilities",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Rajesh Power Services Wins ₹362.83 Crore PGVCL Orders | Machine Maker - Latest Manufacturing News | Indian Manufacturing News - Latest Manufacturing News | Indian Manufacturing News - Machine Maker",
+      "url": "https://themachinemaker.com/news/rajesh-power-services-wins-%E2%82%B9362-83-crore-pgvcl-orders/",
+      "source": "themachinemaker.com",
+      "date": "2026-09-03T20:34:48.034Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Rajesh Power Services bags Rs 363 crore PGVCL order.",
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n17cc3ebb93f8",
@@ -5601,7 +5836,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Secured export order for lab-grown diamond jewellery.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -5659,7 +5894,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "EMA Partners acquired Taggd for ₹113 crore to form India's largest talent platform.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -5951,25 +6186,6 @@
       "enriched": true
     },
     {
-      "id": "ne747ba94a8af",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "DEE Development Engineers logs ₹81.06 cr order inflow in July 2026",
-      "url": "https://scanx.trade/stock-market-news/companies/dee-development-engineers-logs-81-06-cr-order-inflow-in-july-2026/47884132",
-      "source": "scanx.trade",
-      "date": "2026-09-03T20:34:08.584Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "DEE Development Engineers received ₹81.06 crore in new orders during July 2026.",
-      "enriched": true
-    },
-    {
       "id": "nd40aeff528dc",
       "ticker": "DEEDEV",
       "company": "DEE Development Engineers Limited",
@@ -5986,6 +6202,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "DEE Development Engineers seeking global partner for joint venture in nuclear piping space.",
+      "enriched": true
+    },
+    {
+      "id": "ne747ba94a8af",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "DEE Development Engineers logs ₹81.06 cr order inflow in July 2026",
+      "url": "https://scanx.trade/stock-market-news/companies/dee-development-engineers-logs-81-06-cr-order-inflow-in-july-2026/47884132",
+      "source": "scanx.trade",
+      "date": "2026-09-03T20:34:08.584Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "DEE Development Engineers received ₹81.06 crore in new orders during July 2026.",
       "enriched": true
     },
     {
@@ -8540,6 +8775,26 @@
       "enriched": true
     },
     {
+      "id": "n5a7b64df2628",
+      "ticker": "IKS",
+      "company": "Inventurus Knowledge Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Inventurus Knowledge Solutions Q1 Results: Earnings call scheduled for Aug 6",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOHBkQTlXZTBOVklLX0hSUFo3R2Z2aDVubXo1WmdXOEVlc2RtTG03MzFIWTl1RW52SDVlcDVOSGZhNlZSb2JsY1N3em1MdUFZTkZqSWZFQkxaVWhNakgxZnA0X1BpZ2ZPRVR2aVRILWpwN25JUWs3M0RjMDRSYUNjbVMzdlQ1MUlhcGhxbzB2UnFMTjFvN0p2SFhUVUdjZjMySlktdWs4Ujk4S19salVZSC1yc2RVYmh5LVlBR18wQXdmYnp3WEk0SUtEVlM?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-08-05T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Inventurus Knowledge Solutions scheduled earnings call for August 6 to discuss Q1 results.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
       "id": "n2380b0c33ce4",
       "ticker": "STLTECH",
       "company": "Sterlite Technologies",
@@ -8752,23 +9007,22 @@
       "enriched": true
     },
     {
-      "id": "na2295d35fee7",
-      "ticker": "THEME",
-      "company": "Pharma Approvals",
-      "sector": "Healthcare",
+      "id": "nc54465feba00",
+      "ticker": "TRIVENI",
+      "company": "Triveni Engineering & Industries Limited",
+      "sector": "Fast Moving Consumer Goods",
       "scope": [
-        "universe"
+        "watchlist"
       ],
-      "title": "Lupin Announces U.S. FDA Approval and Launch of Sugammadex Injection - Lupin | Press Release",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSFBhNjE2Mk5ITE5VV3V6cngzNi1pdENoeFlGRGtjcUNsbE1HY1RHLXQyZy16YXlVM3RRWkdLdkdPa05aeFVFaDBvWWNieWVWVzBydXVjQVVZeE9ONmxHeXhyLWR1Q2o3RkZzNU5ON0R2QWtXV0NjM1UySXF2bkxNWW1DUmpaUmJVYVRvYWRDOV9yWFZYb2NrWHJuRmdOR2d2ODVfbDllSllNZ2lhakEw?oc=5",
-      "source": "lupin.com",
-      "date": "2026-07-31T07:00:00.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Lupin receives U.S. FDA approval and launches Sugammadex Injection.",
-      "sources_count": 2,
+      "title": "Earnings Report: Triveni Engineering & Industries Limited Missed Revenue Estimates By 13%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CTVJQQVNNaElpaW5zbXgtWUVDbXRsb0lJYzEtR0xMV2VBQ0phVk5pNlFDVUZZckl0X0Rha0lpVWRoNHpyMms0ZF8wd2NLU3Z0c0V3eXIzNXU?oc=5",
+      "source": "webull.com",
+      "date": "2026-08-01T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "negative",
+      "takeaway": "Triveni Engineering missed revenue estimates by 13% in latest quarter.",
       "enriched": true
     },
     {
@@ -8792,22 +9046,23 @@
       "enriched": true
     },
     {
-      "id": "nc119c6cfc7e4",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions Limited",
-      "sector": "Information Technology",
+      "id": "na2295d35fee7",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
       "scope": [
-        "watchlist"
+        "universe"
       ],
-      "title": "Aurionpro expands MMRDA engagement with additional AFC order for Mumbai Metro",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdy1rU2lIdjg1MVVCaUVXNUJtcnYzVDJVeDV2QVp0WVVHeG1uZHAtLVpNZ2pfZ3NsLVlwVEpKVXl1enNTNklCQnIzVS1LWERwYml1dUxLZmZSN1J4bzBHT0xDUHkwRVo0OXdvdThDV3pqdXBodXRpdzQyNUMwd2FhM3JraWFKRkJjZUstZmxsZHMwX3Fzcm9tUW5Xdi1nc1ZaVS1RdnhzdTRLSmJwQ0VEa1hVUVZDRy11M292OQ?oc=5",
-      "source": "tele.net.in",
+      "title": "Lupin Announces U.S. FDA Approval and Launch of Sugammadex Injection - Lupin | Press Release",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSFBhNjE2Mk5ITE5VV3V6cngzNi1pdENoeFlGRGtjcUNsbE1HY1RHLXQyZy16YXlVM3RRWkdLdkdPa05aeFVFaDBvWWNieWVWVzBydXVjQVVZeE9ONmxHeXhyLWR1Q2o3RkZzNU5ON0R2QWtXV0NjM1UySXF2bkxNWW1DUmpaUmJVYVRvYWRDOV9yWFZYb2NrWHJuRmdOR2d2ODVfbDllSllNZ2lhakEw?oc=5",
+      "source": "lupin.com",
       "date": "2026-07-31T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "high",
       "mood": "positive",
-      "takeaway": "Aurionpro secures additional AFC order from MMRDA, expanding Mumbai Metro engagement.",
+      "takeaway": "Lupin receives U.S. FDA approval and launches Sugammadex Injection.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -9838,7 +10093,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Surya Roshni secured an export order.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -9899,25 +10154,6 @@
       "takeaway": "Rubicon Research posted robust Q2 2026 results with 36.6% revenue growth and strong earnings per share.",
       "enriched": true,
       "sources_count": 2
-    },
-    {
-      "id": "n76bfee4594f7",
-      "ticker": "SBCL",
-      "company": "Shivalik Bimetal Controls Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "SBCL Mar 2026 Earnings: Strong EPS of ₹3.54; Revenue at ₹117 Crore Drives Positive Market Response - Tangible Book Value",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb2ZuekRWZzRKYVBzNVc2aEphVHhUNGhyakF5TGFPSGlpSE9hNHUyLWI1UkhCZ1A0aVZ2Vk84VEU0RjRyejl0Q2wtR0JTZG5QcE5iQU4xT093elNkNlhWYmZxWEMyQ295cThjdGxvMllOaGNrcjR6dmVaZFRMaVpya0M5WGNCdDFUUk5mcUM4d05iaEIwY1FMS3RsZWdUd3B5TW1iYVYxNWFhV3VzdjlzSEZxeU4wZEN5NTBVdWZMQ2dmTlFWdjMzMEJNNjNxWndV?oc=5",
-      "source": "Vinanet",
-      "date": "2026-07-11T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Shivalik Bimetal posted strong Q4 results with earnings per share of ₹3.54 and revenue of ₹117 crore.",
-      "enriched": true
     },
     {
       "id": "n9a71b5d4ffab",
@@ -10642,6 +10878,26 @@
       "enriched": true
     },
     {
+      "id": "n55a863034424",
+      "ticker": "SENORES",
+      "company": "Senores Pharmaceuticals Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "SENORES.NS Q2 2026 Earnings: Strong Revenue Growth of 58.85% Drives Positive Investor Sentiment - Free Cash Flow Trends",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYS1mZFdlOEJWVld4dU1GN2ZFdjRyTHFkR2YwNW1OQ3NBdDVzS1ZtcDJraG84ZlFzbzVsTS1OTkhReHRseGQwZzFZOGNLei03bHJ6anROdy1UUkl1aHJXNUdzRFUxUG9XUUhFRjJBekUwMnI4WWFvemJ3b2FsT1RRLS1rTDZDSTc2MjUwYlFfcXdHWjBhb1lsSVRWNG5ZcmpES2VfVWVyanJpSVRNajJfZ21MSEdNREQwN1h3aDBQbHU4SVdXMkNSZFRwX2VlejQ?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-05T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Senores Pharmaceuticals Q2 revenue surged 58.85% year-on-year.",
+      "enriched": true
+    },
+    {
       "id": "n755b1236d85a",
       "ticker": "AURIONPRO",
       "company": "Aurionpro Solutions Limited",
@@ -10677,26 +10933,6 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Indo Farm Equipment reported March 2026 earnings with modest profitability and steady operations.",
-      "enriched": true
-    },
-    {
-      "id": "n55a863034424",
-      "ticker": "SENORES",
-      "company": "Senores Pharmaceuticals Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "SENORES.NS Q2 2026 Earnings: Strong Revenue Growth of 58.85% Drives Positive Investor Sentiment - Free Cash Flow Trends",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYS1mZFdlOEJWVld4dU1GN2ZFdjRyTHFkR2YwNW1OQ3NBdDVzS1ZtcDJraG84ZlFzbzVsTS1OTkhReHRseGQwZzFZOGNLei03bHJ6anROdy1UUkl1aHJXNUdzRFUxUG9XUUhFRjJBekUwMnI4WWFvemJ3b2FsT1RRLS1rTDZDSTc2MjUwYlFfcXdHWjBhb1lsSVRWNG5ZcmpES2VfVWVyanJpSVRNajJfZ21MSEdNREQwN1h3aDBQbHU4SVdXMkNSZFRwX2VlejQ?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-05T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Senores Pharmaceuticals Q2 revenue surged 58.85% year-on-year.",
       "enriched": true
     },
     {
@@ -11945,7 +12181,7 @@
       "mood": "positive",
       "takeaway": "Man Industries wins ₹1,000 crore orders, total orderbook now ₹4,100 crore.",
       "enriched": true,
-      "sources_count": 5
+      "sources_count": 4
     },
     {
       "id": "n3b098f18fef5",

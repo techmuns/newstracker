@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T18:26:00.022Z",
+  "generated_at": "2026-09-16T18:22:37.029Z",
   "portfolio": [
     {
       "company": "Monolithisch India Limited",
@@ -27,14 +27,14 @@
       "sector": "Consumer Durables"
     },
     {
-      "company": "Sterlite Technologies Limited",
-      "ticker": "STLTECH",
-      "sector": "Telecommunication"
-    },
-    {
       "company": "Acutaas Chemicals Limited",
       "ticker": "ACUTAAS",
       "sector": "Healthcare"
+    },
+    {
+      "company": "Sterlite Technologies Limited",
+      "ticker": "STLTECH",
+      "sector": "Telecommunication"
     },
     {
       "company": "Shadowfax Technologies Limited",
@@ -72,6 +72,11 @@
       "sector": "Capital Goods"
     },
     {
+      "company": "Sudeep Pharma Limited",
+      "ticker": "SUDEEPPHRM",
+      "sector": "Chemicals"
+    },
+    {
       "company": "Epigral Limited",
       "ticker": "EPIGRAL",
       "sector": "Chemicals"
@@ -90,11 +95,6 @@
       "company": "Venus Remedies Limited",
       "ticker": "VENUSREM",
       "sector": "Healthcare"
-    },
-    {
-      "company": "Sudeep Pharma Limited",
-      "ticker": "SUDEEPPHRM",
-      "sector": "Chemicals"
     },
     {
       "company": "Lumino Industries Limited",
