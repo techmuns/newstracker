@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T08:06:39.824Z",
+  "generated_at": "2026-09-17T18:39:47.387Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,116 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "fb93440516d90",
+      "ticker": "PVRINOX",
+      "company": "PVR INOX Limited",
+      "exchange": "NSE",
+      "date": "2026-09-17T19:34:25.000Z",
+      "category": "Disclosure",
+      "title": "PVR INOX Limited has informed the Exchange about opening of 3-screen multiplex at DLF Summit Plaza, Gurugram, Haryana.",
+      "url": "https://nsearchives.nseindia.com/corporate/PVRINOXLTD_17092026193418_PVRINOXOpeningofScreens17092026.pdf"
+    },
+    {
+      "id": "ff0ae1f5ac15a",
+      "ticker": "HTEL",
+      "company": "Hy-Tech Engineers Limited",
+      "exchange": "NSE",
+      "date": "2026-09-17T19:15:28.000Z",
+      "category": "Investor Presentation",
+      "title": "Hy-Tech Engineers Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/HYTECH_17092026191415_Intimation.pdf"
+    },
+    {
+      "id": "f154c83e02e3b",
+      "ticker": "GMMPFAUDLR",
+      "company": "GMM Pfaudler Limited",
+      "exchange": "NSE",
+      "date": "2026-09-17T17:45:59.000Z",
+      "category": "Credit Rating",
+      "title": "GMM Pfaudler Limited has informed the Exchange about Credit Rating",
+      "url": "https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_17092026172230_SEDisclosureCrisil_RatingsSept172026signed.pdf"
+    },
+    {
+      "id": "f851c1041a73a",
+      "ticker": "DENTA",
+      "company": "Denta Water and Infra Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-09-17T17:06:05.000Z",
+      "category": "Investor Presentation",
+      "title": "Denta Water and Infra Solutions Limited has informed the Exchange about Schedule of meet hosted by Arihant Capital.",
+      "url": "https://nsearchives.nseindia.com/corporate/DENTA_17092026170403_Conference_call_Intimation.pdf"
+    },
+    {
+      "id": "f4bc396f1f497",
+      "ticker": "SAILIFE",
+      "company": "Sai Life Sciences Limited",
+      "exchange": "NSE",
+      "date": "2026-09-17T16:41:39.000Z",
+      "category": "Shareholders meeting",
+      "title": "Sai Life Sciences Limited has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on September 17, 2026. Further, the company has informed the Exchange regarding voting results.",
+      "url": "https://nsearchives.nseindia.com/corporate/SAILIFE_17092026164103_Stx_Intimation_Voting_Results_Signed.pdf"
+    },
+    {
+      "id": "f6770781e48b1",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-17T16:07:28.000Z",
+      "category": "Disclosure",
+      "title": "Solar Industries India Limited has informed the Exchange about Certificate confirming fulfilment of payment obligation with respect to Commercial Paper issued dated June 19, 2026, by Solar Industries India Limited.",
+      "url": "https://nsearchives.nseindia.com/corporate/SOLARINDS_17092026160657_Redemption_of_CP_Signed.pdf"
+    },
+    {
+      "id": "fc7b1e1e90d9f",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-17T15:53:13.000Z",
+      "category": "Investor Presentation",
+      "title": "Solar Industries India Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/SOLARINDS_17092026155214_Transcript_Conference_Call_Signed.pdf"
+    },
+    {
+      "id": "f6787cc64f5d6",
+      "ticker": "TEMPSENS",
+      "company": "Tempsens Instruments (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-09-17T15:26:33.000Z",
+      "category": "Investor Presentation",
+      "title": "Tempsens Instruments (India) Limited has informed the Exchange about Link of Recording",
+      "url": "https://nsearchives.nseindia.com/corporate/TEMPSENS_17092026152532_Intimation_of_Earning_Call.pdf"
+    },
+    {
+      "id": "fcc5beb8a0582",
+      "ticker": "LGEINDIA",
+      "company": "LG Electronics India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-17T15:23:22.000Z",
+      "category": "Press Release",
+      "title": "LG Electronics India Limited has informed the Exchange regarding a press release dated September 17, 2026, titled \"LGE India recognised as Top Organisation with Innovative HR Practices CHO conferred with Most Impactful HR Leader Award.\"",
+      "url": "https://nsearchives.nseindia.com/corporate/LGEINDIA_17092026152230_Press_ReleaseHR.pdf"
+    },
+    {
+      "id": "f2ebb02a51ccf",
+      "ticker": "CARTRADE",
+      "company": "Cartrade Tech Limited",
+      "exchange": "NSE",
+      "date": "2026-09-17T15:20:18.000Z",
+      "category": "Disclosure",
+      "title": "Cartrade Tech Limited has informed the Exchange regarding 'Allotment of share under ESOP'.",
+      "url": "https://nsearchives.nseindia.com/corporate/CARTRADE_17092026152010_ESOP_102850_Intimation_letter.pdf"
+    },
+    {
+      "id": "fd93fa2d23760",
+      "ticker": "ESDS",
+      "company": "ESDS Software Solution Limited",
+      "exchange": "NSE",
+      "date": "2026-09-17T14:07:28.000Z",
+      "category": "Credit Rating",
+      "title": "ESDS Software Solution Limited has informed the Exchange about Credit Rating",
+      "url": "https://nsearchives.nseindia.com/corporate/ESDS_17092026140616_ESDS_Credit_Rating_BSE_NSE_Intimation.pdf"
+    },
     {
       "id": "f4443d8139102",
       "ticker": "MONOLITH",
@@ -19896,116 +20006,6 @@
       "category": "Change in Directors",
       "title": "Avantel Limited has informed the Exchange regarding Change in Director(s) of the company.",
       "url": "https://nsearchives.nseindia.com/corporate/AVANTEL_24062026191105_Reg30Intimations.pdf"
-    },
-    {
-      "id": "fc3d8bc6c3e43",
-      "ticker": "ADVAIT",
-      "company": "Advait Energy Transitions Limited",
-      "exchange": "NSE",
-      "date": "2026-06-24T19:00:50.000Z",
-      "category": "Investor Presentation",
-      "title": "Advait Energy Transitions Limited has informed the Exchange about Schedule of meet",
-      "url": "https://nsearchives.nseindia.com/corporate/ADVAITENERGY_24062026190041_SEintimation_investormeet_s.pdf"
-    },
-    {
-      "id": "f858b36259a39",
-      "ticker": "AVANTEL",
-      "company": "Avantel Limited",
-      "exchange": "NSE",
-      "date": "2026-06-24T18:48:20.000Z",
-      "category": "Shareholders meeting",
-      "title": "Avantel Limited has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on Jun 24, 2026. Further, the company has informed the Exchange regarding voting results.",
-      "url": "https://nsearchives.nseindia.com/corporate/AVANTEL_24062026184716_ResultsIntimation24062026.pdf"
-    },
-    {
-      "id": "f6ec9c8e152e5",
-      "ticker": "BALUFORGE",
-      "company": "Balu Forge Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-06-24T18:43:34.000Z",
-      "category": "Investor Presentation",
-      "title": "Balu Forge Industries Limited has informed the Exchange about Investor Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/BALUFORGE_24062026184322_Submission.pdf"
-    },
-    {
-      "id": "f3dc13dde0d39",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-24T18:36:56.000Z",
-      "category": "Trading Window",
-      "title": "Sapphire Foods India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/SAPPHIRE_24062026183638_Closure_of_Trading_Window_Q1FY27_-_SFIL.pdf"
-    },
-    {
-      "id": "f287646fdba91",
-      "ticker": "ONESOURCE",
-      "company": "Onesource Specialty Pharma Limited",
-      "exchange": "NSE",
-      "date": "2026-06-24T18:22:39.000Z",
-      "category": "Trading Window",
-      "title": "Onesource Specialty Pharma Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/ONESOURCECDMO_24062026182227_1_OS_Window_Closure_Q1FY27.pdf"
-    },
-    {
-      "id": "f0cb7a50b61fc",
-      "ticker": "SKYGOLD",
-      "company": "SKY GOLD AND DIAMONDS LIMITED",
-      "exchange": "NSE",
-      "date": "2026-06-24T18:12:13.000Z",
-      "category": "Trading Window",
-      "title": "SKY GOLD AND DIAMONDS LIMITED has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/SKYGOLD_24062026181138_Closuretradingwindow.pdf"
-    },
-    {
-      "id": "f51a4d05058db",
-      "ticker": "NORTHARC",
-      "company": "Northern Arc Capital Limited",
-      "exchange": "NSE",
-      "date": "2026-06-24T18:08:04.000Z",
-      "category": "Trading Window",
-      "title": "Northern Arc Capital Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/NACL2020_24062026180757_NACL_TW_Closure_Q1_FY26-27_SD.pdf"
-    },
-    {
-      "id": "ff2a228638a32",
-      "ticker": "RPSGVENT",
-      "company": "RPSG VENTURES LIMITED",
-      "exchange": "NSE",
-      "date": "2026-06-24T17:32:35.000Z",
-      "category": "Trading Window",
-      "title": "RPSG VENTURES LIMITED has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/RPSGVENT_24062026172804_SE_Closure_of_TW_RVL_24062026_signed.pdf"
-    },
-    {
-      "id": "f6de384b917ce",
-      "ticker": "MANINDS",
-      "company": "Man Industries (India) Limited",
-      "exchange": "NSE",
-      "date": "2026-06-24T16:44:46.000Z",
-      "category": "Trading Window",
-      "title": "Man Industries (India) Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/MANINDS_24062026164436_MIIL_Intimation_of_Closure_of_Trading_Window_30062026.pdf"
-    },
-    {
-      "id": "ff49aa7c1a37b",
-      "ticker": "CANFINHOME",
-      "company": "Can Fin Homes Limited",
-      "exchange": "NSE",
-      "date": "2026-06-24T16:31:24.000Z",
-      "category": "Trading Window",
-      "title": "Can Fin Homes Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/CANFINHOME_24062026163108_CANFINHOMEClosureTradingWindow_30_06_2026.pdf"
-    },
-    {
-      "id": "fe13414780fee",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "exchange": "NSE",
-      "date": "2026-06-24T16:07:46.000Z",
-      "category": "Disclosure",
-      "title": "Apsis Aerocom Limited has informed the Exchange regarding 'Submission of Machine-Readable /Legible copy of Audited Financial Results for the Half Year and Financial Year Ended March 31, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/APSIS2025_24062026160559_OutcomeofBM_Financialresults_31032026_Signed-ocr.pdf"
     }
   ]
 }
