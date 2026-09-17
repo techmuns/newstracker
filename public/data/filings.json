@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T18:31:59.831Z",
+  "generated_at": "2026-09-17T08:06:39.824Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,56 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f4443d8139102",
+      "ticker": "MONOLITH",
+      "company": "Monolithisch India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-17T13:32:50.000Z",
+      "category": "Press Release",
+      "title": "Monolithisch India Limited has informed the Exchange regarding a press release dated September 17, 2026, titled \"Update on Greenfield Project of Subsidiary Company, Metalurgica India Private Limited\".",
+      "url": "https://nsearchives.nseindia.com/corporate/MONOLITHISCH_17092026133240_MONOLITH_17092026_Inaugration_of_Greenfield_projecT.pdf"
+    },
+    {
+      "id": "fffae522fe3d8",
+      "ticker": "LGEINDIA",
+      "company": "LG Electronics India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-17T13:03:57.000Z",
+      "category": "Press Release",
+      "title": "LG Electronics India Limited has informed the Exchange regarding a press release dated September 17, 2026, titled \"LG Electronics India Enters India's Chest Freezer Market with New Convertible Chest Freezer Range.\"",
+      "url": "https://nsearchives.nseindia.com/corporate/LGEINDIA_17092026130246_PressreleaseFreezer.pdf"
+    },
+    {
+      "id": "faa5d869c5a74",
+      "ticker": "SAILIFE",
+      "company": "Sai Life Sciences Limited",
+      "exchange": "NSE",
+      "date": "2026-09-17T12:59:55.000Z",
+      "category": "Shareholders meeting",
+      "title": "Sai Life Sciences Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 17, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/SAILIFE_17092026125920_Stx_Intimation_Outcome_Proceedings_Signed.pdf"
+    },
+    {
+      "id": "fae4a3664be33",
+      "ticker": "SUNSHINE",
+      "company": "Sunshine Pictures Limited",
+      "exchange": "NSE",
+      "date": "2026-09-17T11:21:12.000Z",
+      "category": "Newspaper Publication",
+      "title": "Sunshine Pictures Limited has informed the Exchange about Copy of Newspaper Publication",
+      "url": "https://nsearchives.nseindia.com/corporate/SUNSHINE_17092026112050_newspaperadvertisement17092026.pdf"
+    },
+    {
+      "id": "f8bf0b027404a",
+      "ticker": "SGMART",
+      "company": "SG Mart Limited",
+      "exchange": "NSE",
+      "date": "2026-09-17T08:44:19.000Z",
+      "category": "Credit Rating",
+      "title": "SG Mart Limited has informed the Exchange about Credit Rating- Revision",
+      "url": "https://nsearchives.nseindia.com/corporate/SGMART_17092026084253_SGML_Credit_Rating.pdf"
+    },
     {
       "id": "fb4d8a04ce98b",
       "ticker": "TEMPSENS",
@@ -19956,56 +20006,6 @@
       "category": "Disclosure",
       "title": "Apsis Aerocom Limited has informed the Exchange regarding 'Submission of Machine-Readable /Legible copy of Audited Financial Results for the Half Year and Financial Year Ended March 31, 2026.",
       "url": "https://nsearchives.nseindia.com/corporate/APSIS2025_24062026160559_OutcomeofBM_Financialresults_31032026_Signed-ocr.pdf"
-    },
-    {
-      "id": "fd8f1946b2050",
-      "ticker": "SGMART",
-      "company": "SG Mart Limited",
-      "exchange": "NSE",
-      "date": "2026-06-24T15:45:47.000Z",
-      "category": "Trading Window",
-      "title": "SG Mart Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/SGMART_24062026154532_IntimationofTWCSGMART30062026.pdf"
-    },
-    {
-      "id": "f4d6b41a99e71",
-      "ticker": "MEDIASSIST",
-      "company": "Medi Assist Healthcare Services Limited",
-      "exchange": "NSE",
-      "date": "2026-06-24T15:15:01.000Z",
-      "category": "Acquisition",
-      "title": "Medi Assist Healthcare Services Limited has informed the Exchange about acquisition of additional shares of Mayfair We Care Limited, UK, subsidiary of the Company.",
-      "url": "https://nsearchives.nseindia.com/corporate/MEDIASSIST_24062026151448_SEIntimationAcquisitionofadditionalstakeMayfair.pdf"
-    },
-    {
-      "id": "f177cf46e22f8",
-      "ticker": "SBCL",
-      "company": "Shivalik Bimetal Controls Limited",
-      "exchange": "NSE",
-      "date": "2026-06-24T15:10:14.000Z",
-      "category": "Trading Window",
-      "title": "Shivalik Bimetal Controls Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/SBCL_24062026151007_Trading_Window_Final.pdf"
-    },
-    {
-      "id": "ff17922d6d28e",
-      "ticker": "EMAPARTNER",
-      "company": "EMA Partners India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-24T13:38:47.000Z",
-      "category": "Press Release",
-      "title": "EMA Partners India Limited has informed the Exchange regarding a press release dated Jun 24, 2026, titled \"Press release- EMA Partners India Acquires Taggd to Create One of India s Largest Integrated Talent Solutions Platforms for dissemination on your website.The Press Release is being issued in connection with the acquisition of Taggd by EMA Partners India, disclosure of which has already been intimated to the Exchange under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.Kindly take the same on record and arrange to disseminate the attached Press Release on your website.",
-      "url": "https://nsearchives.nseindia.com/corporate/EMAIN_24062026133803_Press_Release_Acquisition_Tagged.pdf"
-    },
-    {
-      "id": "f1a4fca73121b",
-      "ticker": "AVANTEL",
-      "company": "Avantel Limited",
-      "exchange": "NSE",
-      "date": "2026-06-24T13:30:57.000Z",
-      "category": "Shareholders meeting",
-      "title": "Avantel Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on Jun 24, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/AVANTEL_24062026132922_ProceedingsIntimation.pdf"
     }
   ]
 }
