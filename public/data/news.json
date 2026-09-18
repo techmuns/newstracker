@@ -1,30 +1,204 @@
 {
-  "generated_at": "2026-09-18T07:41:54.353Z",
+  "generated_at": "2026-09-18T18:03:46.122Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 104,
-    "watchlist": 638,
+    "watchlist": 644,
     "universe": 32,
-    "total": 670
+    "total": 676
   },
   "items": [
     {
-      "id": "n16539dba5153",
+      "id": "n8f03f4fa38ae",
+      "ticker": "MSECL",
+      "company": "Monarch Surveyors and Engineering Consultants Ltd",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Monarch Surveyors and Engineering gains on bagging Rs 2-cr work order | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/markets/capital-market-news/monarch-surveyors-and-engineering-gains-on-bagging-rs-2-cr-work-order-126082400282_1.html",
+      "source": "business-standard.com",
+      "date": "2026-09-18T17:55:21.484Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Monarch Surveyors won a Rs 2 crore work order.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "nbbdf8593dfb8",
+      "ticker": "GLEN",
+      "company": "Glen Industries Ltd",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Glen Industries promoter group raises stake to 74.21% via open market buys",
+      "url": "https://scanx.trade/stock-market-news/companies/glen-industries-promoter-group-raises-stake-74-21-via-open-market-buys/48866465",
+      "source": "scanx.trade",
+      "date": "2026-09-18T17:55:14.559Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Glen Industries promoter group increased stake to 74.21% through open market purchases.",
+      "enriched": true
+    },
+    {
+      "id": "n893f84194314",
       "ticker": "CNINFOTECH",
       "company": "Capitalnumbers Infotech Ltd",
       "sector": "Information Technology",
       "scope": [
         "watchlist"
       ],
-      "title": "Capitalnumbers Infotech Proposes IPO Fund Reallocation for Rs 40 Crore Acquisition | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/English/technology/Capitalnumbers-Infotech-Proposes-IPO-Fund-Reallocation-for-Rs-40-Crore-Acquisition/6a957bf9f2017017ae581a40",
-      "source": "whalesbook.com",
-      "date": "2026-09-18T07:40:01.647Z",
+      "title": "Khaitan & Co Advised CapitalNumbers Infotech On Acquisition Of 100% Stake In Epitome Cloud",
+      "url": "https://www.legaleraonline.com/deal-street/khaitan-advised-capitalnumbers-epitome-cloud-acquisition-989744",
+      "source": "legaleraonline.com",
+      "date": "2026-09-18T17:54:58.951Z",
       "topic": "Deals",
       "keyword": "Acquisition",
       "importance": "medium",
       "mood": "positive",
-      "takeaway": "Capitalnumbers Infotech plans to reallocate IPO funds for a Rs 40 crore acquisition.",
+      "takeaway": "CapitalNumbers Infotech acquired 100% stake in Epitome Cloud.",
+      "enriched": true
+    },
+    {
+      "id": "n997136fc7fcc",
+      "ticker": "CNINFOTECH",
+      "company": "Capitalnumbers Infotech Ltd",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Capitalnumbers Infotech Proposes IPO Fund Reallocation to Acquire Epitome Cloud Inc. | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/technology/Capitalnumbers-Infotech-Proposes-IPO-Fund-Reallocation-to-Acquire-Epitome-Cloud-Inc/6a957fa9f2017017ae5825f3",
+      "source": "whalesbook.com",
+      "date": "2026-09-18T17:54:58.951Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Capitalnumbers Infotech reallocating IPO funds to acquire Epitome Cloud Inc.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nec944b24f3a4",
+      "ticker": "SKYGOLD",
+      "company": "SKY GOLD AND DIAMONDS LIMITED",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Sky Gold And Diamonds to Acquire Purvi Gems for Rs 9 Crore | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/consumer-products/Sky-Gold-And-Diamonds-to-Acquire-Purvi-Gems-for-Rs-9-Crore/6aacb100f2017017ae6cc1cc",
+      "source": "whalesbook.com",
+      "date": "2026-09-18T17:54:16.989Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Sky Gold acquiring Purvi Gems for Rs 9 crore to expand business.",
+      "enriched": true
+    },
+    {
+      "id": "n85039e4bceac",
+      "ticker": "SHIPROCKET",
+      "company": "Shiprocket Limited",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "fastrr by Shiprocket: AI-Powered Pre-Order Commerce Suite",
+      "url": "https://checkout.shiprocket.in/blog/introducing-fastrr-by-shiprocket/",
+      "source": "checkout.shiprocket.in",
+      "date": "2026-09-18T17:54:14.565Z",
+      "topic": "Growth",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Shiprocket launches AI-powered pre-order commerce suite called fastrr.",
+      "enriched": true
+    },
+    {
+      "id": "nfc1313d75742",
+      "ticker": "SHAILY",
+      "company": "Shaily Engineering Plastics Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Shaily Engineering Expands GLP-1 Capacity to 75 Million Units | Whalesbook",
+      "url": "https://www.whalesbook.com/news/English/healthcarebiotech/Shaily-Engineering-Expands-GLP-1-Capacity-to-75-Million-Units/6aacb102ed7f8e81734f673a",
+      "source": "whalesbook.com",
+      "date": "2026-09-18T17:54:01.931Z",
+      "topic": "Growth",
+      "keyword": "Earnings",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Shaily Engineering expands GLP-1 production capacity to 75 million units.",
+      "enriched": true
+    },
+    {
+      "id": "n964264813927",
+      "ticker": "LENSKART",
+      "company": "Lenskart Solutions Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Lenskart Solutions block deal: ADIA-backed investor likely to offload 1.7% stake: Report | Stock Market News",
+      "url": "https://www.livemint.com/market/stock-market-news/lenskart-solutions-block-deal-adia-backed-investor-likely-to-offload-1-7-stake-report-11789738853707.html",
+      "source": "livemint.com",
+      "date": "2026-09-18T17:52:57.917Z",
+      "topic": "Deals",
+      "keyword": "Joint Venture",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "ADIA-backed investor likely to sell 1.7% stake in Lenskart through block deal.",
+      "enriched": true
+    },
+    {
+      "id": "n5e3551db6ecf",
+      "ticker": "YASHHV",
+      "company": "Yash Highvoltage Ltd",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Yash Highvoltage expands US footprint with new deal",
+      "url": "https://manufacturingtodayindia.com/yash-highvoltage-expands",
+      "source": "manufacturingtodayindia.com",
+      "date": "2026-09-18T17:51:13.788Z",
+      "topic": "Deals",
+      "keyword": "Partnership",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Yash Highvoltage expands US presence through new partnership deal.",
+      "enriched": true
+    },
+    {
+      "id": "n4ea58ce07224",
+      "ticker": "MOBIKWIK",
+      "company": "One Mobikwik Systems Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "One Mobikwik accepts resignation of independent director Venkatesh",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRHhoblFiLVlDOUIzeGFsOU52Z2tnOGk0VkpYUV96eFQta01TU3E0T01GSDdSWXRIUmRocHhTWTNaR3UyektuYTFIb0RvZWVQeXdpZV9YeDJFeTNSejVVcFRfN2ppYmt5b0FYUF9MSDE0UFZTQVhBb21wQms4SDRSLWhZSGxoX0Z1bDJCcWU4WTZHM1FzSzM4YVNRT2hmS0VnckFKWXFvakNWbEdLZ2t1MkJNUlZqVUlKNVRXVA?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-09-18T17:48:59.000Z",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Independent director Venkatesh resigned from One Mobikwik's board.",
       "sources_count": 2,
       "enriched": true
     },
@@ -45,26 +219,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Laxmi Dental released Q1 2027 earnings results.",
-      "sources_count": 3,
-      "enriched": true
-    },
-    {
-      "id": "nd7c9b80eefe0",
-      "ticker": "EMAPARTNER",
-      "company": "EMA Partners India Limited",
-      "sector": "Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "EMA Partners India Acquires Taggd: Rs 113 Cr Recruitment Deal: Rediff Moneynews",
-      "url": "https://money.rediff.com/news/market/ema-partners-india-acquires-taggd-rs-113-cr-recruitment-deal/49523520260626",
-      "source": "money.rediff.com",
-      "date": "2026-09-18T07:37:15.680Z",
-      "topic": "Deals",
-      "keyword": "Merger",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "EMA Partners India acquires Taggd for Rs 113 crore, expanding its recruitment business.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -84,26 +239,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "DEE Development Engineers targets growth in nuclear, data centers, and hydrogen sectors.",
-      "enriched": true
-    },
-    {
-      "id": "n9d49f80237e4",
-      "ticker": "AVANTEL",
-      "company": "Avantel Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Avantel Merger Alert: Board Meeting se pehle Trading Window hui band! | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/Hinglish/other/Avantel-Closes-Trading-Window-Ahead-of-Subsidiary-Merger-Board-Meeting/6aa55925f2017017ae696ec0",
-      "source": "whalesbook.com",
-      "date": "2026-09-18T07:36:23.843Z",
-      "topic": "Deals",
-      "keyword": "Merger",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Avantel closes trading window ahead of board meeting to discuss potential merger.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -163,27 +298,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Unimech Aerospace plans ₹750 crore fundraising via QIP to expand aerospace operations.",
-      "sources_count": 5,
-      "enriched": true
-    },
-    {
-      "id": "ndbac1d406588",
-      "ticker": "MSECL",
-      "company": "Monarch Surveyors and Engineering Consultants Ltd",
-      "sector": "Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Monarch Surveyors and Engineering Consultants receives Rs 2-cr work order | Capital Market News - Business Standard",
-      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-and-engineering-consultants-receives-rs-2-cr-work-order-126082200734_1.html",
-      "source": "business-standard.com",
-      "date": "2026-09-17T18:34:16.914Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Monarch Surveyors receives Rs 2 crore work order.",
-      "sources_count": 3,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -242,27 +357,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Capacite Infraprojects reports 12% revenue growth to ₹2,623 crores in FY26.",
-      "enriched": true
-    },
-    {
-      "id": "n22c980504bd4",
-      "ticker": "TANFACIND",
-      "company": "TANFAC Industries Ltd",
-      "sector": "Chemicals",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Anupam Rasayan: Completes ₹60.88 Crore Equity Share Acquisition in Tanfac | InvestyWise",
-      "url": "https://www.investywise.com/anupam-rasayan-india-ltd-acquisition-of-equity-shares-in-tanfac-industries/",
-      "source": "investywise.com",
-      "date": "2026-09-17T18:30:02.419Z",
-      "topic": "Deals",
-      "keyword": "Preferential Issue",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Anupam Rasayan completes ₹60.88 crore equity acquisition in Tanfac Industries.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -824,7 +918,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Avantel to merge with Imeds Global.",
-      "sources_count": 2,
+      "sources_count": 8,
       "enriched": true
     },
     {
@@ -1668,6 +1762,25 @@
       "enriched": true
     },
     {
+      "id": "n9566d0840ad9",
+      "ticker": "PVRINOX",
+      "company": "PVR INOX Limited",
+      "sector": "Media Entertainment & Publication",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Karnataka HC quashes 2% cinema ticket cess order in Multiplex Association, PVR INOX plea",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdWluLWMyRWxlVjgtMEppSVp3THc4TDBKUWVhWkxISE56azVhSkFlWURfY3JfRWVaSGF1TTR2S085OWxMWjBNWlV4N2s3Znc1S25rMzZVZzllSHlzYnNkYWdERjJQdE1oOXZWbjdrYU1Fd0pZbWxrM0RJNnRodW9JeVFjbTdRVTJKcWthcDBLdHVheExBczBSY29VTkNONk1iM1lIS2FfRUM4WUFRTm5paGhVOXpJUzkxbHcxdktBUl9yQm5kVzVoOFdTX0U2UW84TGYzUTl30gHbAUFVX3lxTFB2WUhfenIySXlvaFlwTFpuVzhQMGs3dzBwQUl1MXdyOXpDN216OHRuTUFqeHdmdEJGbXl2QUZ2OVJJYldVdDNTOFdMQl9Zejl6aUhiNUN0MmVWU1h5Wll4QUFteVhBUTRpa1BSbFZpbjJYZjlMN3UwYkhhMmNld25WTVRHWlJ6dWU5bTJaUkU3alBlaTRsa1JESnNrX2NoNnQxTlJCTHZQV1FIQjBPTG52dlktaUh6UzN6OUJhR1RCdUhZT1dHUndzMGdBWXQ2NVhoRHc2Q1RiQWlhQQ?oc=5",
+      "source": "Storyboard18",
+      "date": "2026-09-11T08:51:01.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Karnataka High Court scraps 2% cinema ticket cess, reducing PVR INOX's tax burden.",
+      "enriched": true
+    },
+    {
       "id": "n2518e6aa56a9",
       "ticker": "DEVYANI",
       "company": "Devyani International Limited",
@@ -1998,7 +2111,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Advait Greenergy secured ₹116 crore order from KPI Green Energy for 200 MW solar project in Rajasthan.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -4009,7 +4122,7 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Board approved raising borrowing limit from ₹100 crore to ₹200 crore.",
-      "sources_count": 4,
+      "sources_count": 5,
       "enriched": true
     },
     {
@@ -4535,26 +4648,6 @@
       "sources_count": 3
     },
     {
-      "id": "n17cc3ebb93f8",
-      "ticker": "RAJESH",
-      "company": "Rajesh Power Services Ltd",
-      "sector": "Utilities",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Rajesh Power Services Gains After Securing Rs 362.82 Crore PGVCL Order",
-      "url": "https://www.constructionworld.in/energy-infrastructure/power-and-renewable-energy/rajesh-power-services-gains-after-securing-rs-362.82-crore-pgvcl-order/95582",
-      "source": "constructionworld.in",
-      "date": "2026-09-03T20:34:48.034Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Rajesh Power Services secures Rs 363 crore order from PGVCL.",
-      "enriched": true,
-      "sources_count": 2
-    },
-    {
       "id": "nf48980ee1346",
       "ticker": "RAJESH",
       "company": "Rajesh Power Services Ltd",
@@ -4571,6 +4664,26 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Rajesh Power Services bags Rs 363 crore PGVCL order.",
+      "enriched": true,
+      "sources_count": 2
+    },
+    {
+      "id": "n17cc3ebb93f8",
+      "ticker": "RAJESH",
+      "company": "Rajesh Power Services Ltd",
+      "sector": "Utilities",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Rajesh Power Services Gains After Securing Rs 362.82 Crore PGVCL Order",
+      "url": "https://www.constructionworld.in/energy-infrastructure/power-and-renewable-energy/rajesh-power-services-gains-after-securing-rs-362.82-crore-pgvcl-order/95582",
+      "source": "constructionworld.in",
+      "date": "2026-09-03T20:34:48.034Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Rajesh Power Services secures Rs 363 crore order from PGVCL.",
       "enriched": true,
       "sources_count": 2
     },
@@ -8600,6 +8713,25 @@
       "sources_count": 3
     },
     {
+      "id": "n4a065ab40ce9",
+      "ticker": "MACRO",
+      "company": "India Defence Exports",
+      "sector": "Capital Goods",
+      "scope": [
+        "universe"
+      ],
+      "title": "Three orders, Rs 1.53 lakh crore: Submarine, missile and corvette deals could reshape India’s defence order pipeline",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOYVlYRjZYSVBXTlRkVUtvS2ctV3ZoWXVXdkgyQ0xwV1M1bXR1cVFhSG9kZTlEcGVabmY5WEtadGVrLUFkRkRyV2gwcnlIRV83Z1l0VnY2RzBob1lob1VzdllBSkRpcVFnQ1FjQzJ2Z0puZ29WT0RwR1BwRGZPUlNXTlBGWXJaME40YzFmeGtxNXF1VG04dTEwaVBMZ0w5dDhpcGhhaW0xMDJLeTlCa0dDV0w3bW5RT2ZwMVFRMWFXSlkxb3M2TWZhN1UtOTZnVmd0amxMOFBwaXpFS2RWS2JuWDd3OU1DTExydHVsTkxaZHdmTF83eTFlRk5GU00wVjRS0gGHAkFVX3lxTE5uZXZFS2FnVm9aOElMRERtT2VBa2gweUFoWWJJZWVucUw5bk9OaGlFd3RkSmszdVpGOERPMmtSZVZ1ZV9taTRfenRZLUpUOVVaNjZnRV9TTGZqVFF5a1c2M3dhcWh2ZnM0VTBwQ0c5NmM0Ym5fT1NIY3NGMGNicnBCQnBUSGpXMnBDR3NmbDRtYjcyR1dvYXZNVFVmY19NY2pwcjlZZ0VrZEpiWFpYYTZqYUpsMXNwTG1zc1ROZzZqWXBEeW43QWxCblc2WXJXMTlIM3Nva2pWLU5VZkkyTzBqVkppS3IwaktGVXRkYm1KeFRHQjBsMDFuQUh3cURqS3Qzdl9kSWY4?oc=5",
+      "source": "financialexpress.com",
+      "date": "2026-08-17T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Three major defence orders worth Rs 1.53 lakh crore for submarines, missiles and corvettes could reshape order pipeline.",
+      "enriched": true
+    },
+    {
       "id": "n1806660f1c6f",
       "ticker": "SHAILY",
       "company": "Shaily Engineering",
@@ -8654,25 +8786,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Jyoti CNC gets approval for ₹1,020 crore capex for manufacturing expansion.",
-      "enriched": true
-    },
-    {
-      "id": "n4a065ab40ce9",
-      "ticker": "MACRO",
-      "company": "India Defence Exports",
-      "sector": "Capital Goods",
-      "scope": [
-        "universe"
-      ],
-      "title": "Three orders, Rs 1.53 lakh crore: Submarine, missile and corvette deals could reshape India’s defence order pipeline",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOYVlYRjZYSVBXTlRkVUtvS2ctV3ZoWXVXdkgyQ0xwV1M1bXR1cVFhSG9kZTlEcGVabmY5WEtadGVrLUFkRkRyV2gwcnlIRV83Z1l0VnY2RzBob1lob1VzdllBSkRpcVFnQ1FjQzJ2Z0puZ29WT0RwR1BwRGZPUlNXTlBGWXJaME40YzFmeGtxNXF1VG04dTEwaVBMZ0w5dDhpcGhhaW0xMDJLeTlCa0dDV0w3bW5RT2ZwMVFRMWFXSlkxb3M2TWZhN1UtOTZnVmd0amxMOFBwaXpFS2RWS2JuWDd3OU1DTExydHVsTkxaZHdmTF83eTFlRk5GU00wVjRS0gGHAkFVX3lxTE5uZXZFS2FnVm9aOElMRERtT2VBa2gweUFoWWJJZWVucUw5bk9OaGlFd3RkSmszdVpGOERPMmtSZVZ1ZV9taTRfenRZLUpUOVVaNjZnRV9TTGZqVFF5a1c2M3dhcWh2ZnM0VTBwQ0c5NmM0Ym5fT1NIY3NGMGNicnBCQnBUSGpXMnBDR3NmbDRtYjcyR1dvYXZNVFVmY19NY2pwcjlZZ0VrZEpiWFpYYTZqYUpsMXNwTG1zc1ROZzZqWXBEeW43QWxCblc2WXJXMTlIM3Nva2pWLU5VZkkyTzBqVkppS3IwaktGVXRkYm1KeFRHQjBsMDFuQUh3cURqS3Qzdl9kSWY4?oc=5",
-      "source": "financialexpress.com",
-      "date": "2026-08-17T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Three major defence orders worth Rs 1.53 lakh crore for submarines, missiles and corvettes could reshape order pipeline.",
       "enriched": true
     },
     {
@@ -9603,25 +9716,6 @@
       "enriched": true
     },
     {
-      "id": "ne179232afcc4",
-      "ticker": "BLACKBUCK",
-      "company": "BLACKBUCK LIMITED",
-      "sector": "Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "BlackBuck Q1 Results: Earnings Call Recording Now Available Online",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVXQ4WE5IcWZDd2E2R2ZVR2t4YjRfWWJ4LWFRRU5NejQ4UlBnZGYwUzhBRHZPdDFYa1FuUklWN0t3Sng4RDNBdWFUdmhPUEJmdGVJeENNLUdfQkdaX09GWjJyemR4cnNObTMzWUctZFJTSEFzR2VGdmJWNWI2OG0taFFfUzk2RTRpcDQ0dndwdGhYNU5QYkxYa2lIQ0Q1SktLOWJRMmI2dE1GT1NNcVllSVBOZjdNMDFja1JpVFpQYw?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-07-29T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "BlackBuck Q1 earnings call recording now available online.",
-      "enriched": true
-    },
-    {
       "id": "n0846ca526f74",
       "ticker": "KPITTECH",
       "company": "KPIT Technologies Limited",
@@ -9638,6 +9732,25 @@
       "importance": "low",
       "mood": "positive",
       "takeaway": "KPIT Technologies proposes ₹5.25 dividend at AGM scheduled for August 31.",
+      "enriched": true
+    },
+    {
+      "id": "ne179232afcc4",
+      "ticker": "BLACKBUCK",
+      "company": "BLACKBUCK LIMITED",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "BlackBuck Q1 Results: Earnings Call Recording Now Available Online",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVXQ4WE5IcWZDd2E2R2ZVR2t4YjRfWWJ4LWFRRU5NejQ4UlBnZGYwUzhBRHZPdDFYa1FuUklWN0t3Sng4RDNBdWFUdmhPUEJmdGVJeENNLUdfQkdaX09GWjJyemR4cnNObTMzWUctZFJTSEFzR2VGdmJWNWI2OG0taFFfUzk2RTRpcDQ0dndwdGhYNU5QYkxYa2lIQ0Q1SktLOWJRMmI2dE1GT1NNcVllSVBOZjdNMDFja1JpVFpQYw?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-07-29T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "BlackBuck Q1 earnings call recording now available online.",
       "enriched": true
     },
     {
@@ -10735,25 +10848,6 @@
       "sources_count": 2
     },
     {
-      "id": "n74e69575a12c",
-      "ticker": "SOLARINDS",
-      "company": "Solar Industries India Limited",
-      "sector": "Chemicals",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Solar Industries Q2 2026 Earnings: Robust Revenue Growth of 30% Driven by Strong Demand Across Segments - Capex Guidance",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcnpvSkQ3NXBhRHRSbmIxVnpWRktBeUJwX3piaEl4b2Q1YldwVzhldjhzQ3RxYTdzLVlJZVVjMTJTcmRfVG5BSGNRTk1DR0RBMFBnQkFOc3Nyc01LM2tvaUZKMjFtOUtpZnZtYVhNODhVV01ER2VySUZWNmFNeTBmbzJ0UUVaVlV3MXI2MmFXcFlpTnNGZC1tb3JzMTBqS2s5WUs1N0tXWnhsNk5rVmR5YmtzZXZkRUJKaG9nTVVLbm1MNHRhRHNRVERmRWdVX1hwRUlVVFNKWm5UV1E?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-10T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Solar Industries reports strong Q2 revenue growth of 30% driven by demand across all business segments.",
-      "enriched": true
-    },
-    {
       "id": "n5a8f200da82e",
       "ticker": "JUBLCPL",
       "company": "Jubilant Agri and Consumer Products Limited",
@@ -10772,6 +10866,25 @@
       "mood": "positive",
       "takeaway": "Jubilant Agri Q2 2026 revenue surges 21.23% year-on-year with EPS at ₹83.31.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n74e69575a12c",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries India Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Solar Industries Q2 2026 Earnings: Robust Revenue Growth of 30% Driven by Strong Demand Across Segments - Capex Guidance",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcnpvSkQ3NXBhRHRSbmIxVnpWRktBeUJwX3piaEl4b2Q1YldwVzhldjhzQ3RxYTdzLVlJZVVjMTJTcmRfVG5BSGNRTk1DR0RBMFBnQkFOc3Nyc01LM2tvaUZKMjFtOUtpZnZtYVhNODhVV01ER2VySUZWNmFNeTBmbzJ0UUVaVlV3MXI2MmFXcFlpTnNGZC1tb3JzMTBqS2s5WUs1N0tXWnhsNk5rVmR5YmtzZXZkRUJKaG9nTVVLbm1MNHRhRHNRVERmRWdVX1hwRUlVVFNKWm5UV1E?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-10T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Solar Industries reports strong Q2 revenue growth of 30% driven by demand across all business segments.",
       "enriched": true
     },
     {
