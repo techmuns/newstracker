@@ -1,13 +1,171 @@
 {
-  "generated_at": "2026-09-17T18:35:38.954Z",
+  "generated_at": "2026-09-18T07:41:54.353Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 101,
-    "watchlist": 630,
-    "universe": 31,
-    "total": 661
+    "portfolio": 104,
+    "watchlist": 638,
+    "universe": 32,
+    "total": 670
   },
   "items": [
+    {
+      "id": "n16539dba5153",
+      "ticker": "CNINFOTECH",
+      "company": "Capitalnumbers Infotech Ltd",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Capitalnumbers Infotech Proposes IPO Fund Reallocation for Rs 40 Crore Acquisition | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/technology/Capitalnumbers-Infotech-Proposes-IPO-Fund-Reallocation-for-Rs-40-Crore-Acquisition/6a957bf9f2017017ae581a40",
+      "source": "whalesbook.com",
+      "date": "2026-09-18T07:40:01.647Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Capitalnumbers Infotech plans to reallocate IPO funds for a Rs 40 crore acquisition.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n93b708a251dd",
+      "ticker": "LAXMIDENTL",
+      "company": "Laxmi Dental Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Q1 2027 Laxmi Dental Ltd Earnings Call Transcript",
+      "url": "https://www.gurufocus.com/news/9027891/q1-2027-laxmi-dental-ltd-earnings-call-transcript",
+      "source": "gurufocus.com",
+      "date": "2026-09-18T07:37:57.482Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Laxmi Dental released Q1 2027 earnings results.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "nd7c9b80eefe0",
+      "ticker": "EMAPARTNER",
+      "company": "EMA Partners India Limited",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "EMA Partners India Acquires Taggd: Rs 113 Cr Recruitment Deal: Rediff Moneynews",
+      "url": "https://money.rediff.com/news/market/ema-partners-india-acquires-taggd-rs-113-cr-recruitment-deal/49523520260626",
+      "source": "money.rediff.com",
+      "date": "2026-09-18T07:37:15.680Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "EMA Partners India acquires Taggd for Rs 113 crore, expanding its recruitment business.",
+      "enriched": true
+    },
+    {
+      "id": "n9f002950ea24",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "ETMarkets Management Talk | Nuclear, data centres, hydrogen: DEE Development Engineers maps its next growth phase, says Shikha Bansal - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-management-talk-nuclear-data-centres-hydrogen-dee-development-engineers-maps-its-next-growth-phase-says-shikha-bansal/articleshow/134325189.cms",
+      "source": "economictimes.indiatimes.com",
+      "date": "2026-09-18T07:36:38.808Z",
+      "topic": "Growth",
+      "keyword": "Capex",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "DEE Development Engineers targets growth in nuclear, data centers, and hydrogen sectors.",
+      "enriched": true
+    },
+    {
+      "id": "n9d49f80237e4",
+      "ticker": "AVANTEL",
+      "company": "Avantel Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Avantel Merger Alert: Board Meeting se pehle Trading Window hui band! | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/other/Avantel-Closes-Trading-Window-Ahead-of-Subsidiary-Merger-Board-Meeting/6aa55925f2017017ae696ec0",
+      "source": "whalesbook.com",
+      "date": "2026-09-18T07:36:23.843Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Avantel closes trading window ahead of board meeting to discuss potential merger.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n7892f94d5de2",
+      "ticker": "TEMPSENS",
+      "company": "Tempsens Instruments (India) Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Tempsens Q1 FY27 slides show strong growth, investment-led margin dip By Investing.com",
+      "url": "https://in.investing.com/news/stock-market-news/tempsens-q1-fy27-slides-show-strong-growth-investmentled-margin-dip-93CH-5596251",
+      "source": "in.investing.com",
+      "date": "2026-09-18T07:35:40.323Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Tempsens Q1 revenue grew strongly but margins dipped due to investments.",
+      "enriched": true
+    },
+    {
+      "id": "n760c4dbeed17",
+      "ticker": "TEMPSENS",
+      "company": "Tempsens Instruments (India) Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Earnings call transcript: Tempsens Instruments posts strong Q1 2027 revenue growth By Investing.com",
+      "url": "https://investing.com/news/transcripts/earnings-call-transcript-tempsens-instruments-posts-strong-q1-2027-revenue-growth-93CH-4904936",
+      "source": "investing.com",
+      "date": "2026-09-18T07:35:40.323Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Tempsens reported strong revenue growth in Q1 FY27.",
+      "enriched": true
+    },
+    {
+      "id": "n9541a586e35a",
+      "ticker": "UNIMECH",
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Unimech Aerospace (NSE: UNIMECH) ₹750 Crore QIP Plan and Aerospace Expansion Update",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLVMxR1Vrc2EyVEhmN2hCZ05oYURBN2V0WXllRDVJX3NwWGUwNmFQVl9GQ09ENm1CYXdYb1ppMU9GOHdjOURDUFgyMkx1R0pYU2g1NExxdUxyT3J0d2czcFZZRWZXaHhPZlhzdGV5N25paDBDTzZRb2x6V2Q4UVpHM1hCQjJORnZ0RlQ3VzVNZk0zNWFpd013S3dFU2hOdU51ZG9wcXhhM01PS1JZVWpkN2Y4dEdnaHVfeHVid3FrMi1RMWZzSElvcGRmZEE?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-09-18T05:45:00.000Z",
+      "topic": "Money",
+      "keyword": "QIP",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Unimech Aerospace plans ₹750 crore fundraising via QIP to expand aerospace operations.",
+      "sources_count": 5,
+      "enriched": true
+    },
     {
       "id": "ndbac1d406588",
       "ticker": "MSECL",
@@ -25,27 +183,7 @@
       "importance": "low",
       "mood": "positive",
       "takeaway": "Monarch Surveyors receives Rs 2 crore work order.",
-      "sources_count": 5,
-      "enriched": true
-    },
-    {
-      "id": "n997136fc7fcc",
-      "ticker": "CNINFOTECH",
-      "company": "Capitalnumbers Infotech Ltd",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Capitalnumbers Infotech Proposes IPO Fund Reallocation to Acquire Epitome Cloud Inc. | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/English/technology/Capitalnumbers-Infotech-Proposes-IPO-Fund-Reallocation-to-Acquire-Epitome-Cloud-Inc/6a957fa9f2017017ae5825f3",
-      "source": "whalesbook.com",
-      "date": "2026-09-17T18:33:56.363Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Capitalnumbers proposes to reallocate IPO funds to acquire Epitome Cloud Inc.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -107,26 +245,6 @@
       "enriched": true
     },
     {
-      "id": "ne75be6f7f959",
-      "ticker": "AVANTEL",
-      "company": "Avantel Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Avantel Closes Trading Window Ahead of Subsidiary Merger Board Meeting | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/English/other/Avantel-Closes-Trading-Window-Ahead-of-Subsidiary-Merger-Board-Meeting/6aa55925f2017017ae696ec0",
-      "source": "whalesbook.com",
-      "date": "2026-09-17T18:30:22.398Z",
-      "topic": "Deals",
-      "keyword": "Merger",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Avantel closes trading window ahead of board meeting on subsidiary merger.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "n22c980504bd4",
       "ticker": "TANFACIND",
       "company": "TANFAC Industries Ltd",
@@ -165,6 +283,25 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Omnitech Engineering scheduled earnings call for August 7, 2026.",
+      "enriched": true
+    },
+    {
+      "id": "nd0ea6e9e5e5f",
+      "ticker": "SONATSOFTW",
+      "company": "Sonata Software Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Sonata Software (NSE: SONATSOFTW) Expands Cloud Modernisation Partnership With AWS",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVjVmWXJSbXIyZHRpX3BKamMxOU9oSHNDV0NWYlFRTDBEdHNEUGowUm16NW5vY09qdXpNSWNzX3o3UE5yOGxtWmZIdGg4ODk2N2ZRR2t6ZDZzR21ndXI1dFl0b3gtaVFnY0Q5VzNWUTJIaVZISksxMFZ5aDNURXpVSENBamdON205dzhIenJFSUV3eDlQZUV1MTY1ODVjMVQ4a1JWQXMtdXlwQVEwNmdRcVI0a2hCVGdpdVJxTEdKTmlaSVBfWjEwai1qNklkOU51cnlXTEtWcmpGWm4zMXM1bXB3?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-09-17T09:19:00.000Z",
+      "topic": "Deals",
+      "keyword": "Partnership",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Sonata Software expands cloud modernization partnership with AWS.",
       "enriched": true
     },
     {
@@ -222,26 +359,6 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "PVR INOX completed its buyback program.",
-      "enriched": true
-    },
-    {
-      "id": "nddaa524773ad",
-      "ticker": "LAXMIDENTL",
-      "company": "Laxmi Dental Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Laxmi Dental Ltd (NSE:LAXMIDENTL) (Q1 2027) Earnings Call Highlights: Record Revenue and ...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/laxmi-dental-ltd-nse-laxmidentl-150024610.html",
-      "source": "finance.yahoo.com",
-      "date": "2026-09-17T08:02:18.321Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Laxmi Dental reported record revenue in Q1 FY2027.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -436,6 +553,25 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Senores Pharma board approved IPO fund utilization, now awaits shareholder approval.",
+      "enriched": true
+    },
+    {
+      "id": "na63851aadcd1",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
+      "scope": [
+        "universe"
+      ],
+      "title": "Alembic Pharma receives USFDA approval for anti-bacterial drug",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN1E1NXdVLU8zWHg1am9PM3c5dHFaUU9ncF82RE15Y0tjUjNOQ0NXOFFxRHZraTVZY2VvbzAxSVJyeUNGNk5CMDlVdTJjUG1lUHJyVjBPa3VzQzE2RGtubHNQX0MwQ2FfMkU2bjFMX0FsaFpoUkNXRXh1RXI2bmEwTkNqdTM5N3ZPLUpYcmV4bHktd0FEa0FYaW5IZXQzdHJWbzJ1dmNR?oc=5",
+      "source": "ehealth.eletsonline.com",
+      "date": "2026-09-16T10:02:45.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Alembic Pharma receives US FDA approval for anti-bacterial drug.",
       "enriched": true
     },
     {
@@ -966,6 +1102,25 @@
       "enriched": true
     },
     {
+      "id": "nc857486b2ba8",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho cuts logistics cost per order by ₹1 in Q1 FY27 despite fuel hikes",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT3pOQkN0Y1huUWV0c200Vk9ZVDJ2UW9PSHVWb3VfNDN2dlZzR0l1X1k0Sm5RT2FMWlc1Q0h2U1RsbEFxMGNQYjdFQWM1M0ZHa25aRzFWbTF3SS1CU0xzeExmTHJYdmNxX24wbmprOUtURFRYaHRyc3NNa0Y0QjhiUEt6eWhQSHZNUGJXM1ZiOGwxcjJ3dlVTUDViU3llcHFialNIN00wanZHejF4VWpFWi1MZnNJOTI1UlE?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-09-15T16:12:49.000Z",
+      "topic": "Other",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Meesho reduced delivery cost by ₹1 per order in Q1 FY27 despite higher fuel prices.",
+      "enriched": true
+    },
+    {
       "id": "n753f098601da",
       "ticker": "THEME",
       "company": "Pharma Approvals",
@@ -1042,7 +1197,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "PVR INOX board to meet on Aug 31 to consider its first-ever share buyback.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -3357,26 +3512,6 @@
       "enriched": true
     },
     {
-      "id": "n713af8f1c248",
-      "ticker": "UNIMECH",
-      "company": "Unimech Aerospace and Manufacturing Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Unimech Aerospace: Approves ₹750 Cr QIP, ₹5 Cr Investment | InvestyWise",
-      "url": "https://www.investywise.com/unimech-aerospace-board-approves-qip-and-financial-results/",
-      "source": "investywise.com",
-      "date": "2026-09-04T17:49:15.818Z",
-      "topic": "Money",
-      "keyword": "QIP",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Unimech Aerospace approved ₹750 crore QIP fundraising and ₹5 crore investment.",
-      "sources_count": 4,
-      "enriched": true
-    },
-    {
       "id": "n48f16d26ca43",
       "ticker": "SONACOMS",
       "company": "Sona BLW Precision Forgings Limited",
@@ -3874,7 +4009,7 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Board approved raising borrowing limit from ₹100 crore to ₹200 crore.",
-      "sources_count": 5,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -4009,7 +4144,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "PVR Inox approved Rs 300 crore share buyback at Rs 1,450 per share.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -4246,6 +4381,26 @@
       "enriched": true
     },
     {
+      "id": "nef8008b4d364",
+      "ticker": "XPROINDIA",
+      "company": "Xpro India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Xpro India (XPROINDIA.NS) Q2 2026 Earnings: Profitability Holds with ₹8.31 EPS Despite 5.5% Revenue Decline",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcjM1NjNrN2h0OGgzamFOV1ZuSDZnV2tfZjhSc3FXRVRJejlCNTRldi1UUFRTejA3VzhGRENxMEVNN1NtTE9SV0xqb0RybDBkaEVrNl9VOHZKYjZtOHNwSTJuUGtOVGxzelJ4TU41X00yVnFsMjl1SE9BczdHdzFySjM2T3ZRblZwMkpEVkhqVVdBLW5PY1FKeVA3SVBhdTI3Q0dQa0JVaXZxb3FRalVkZUlJNkdMRmtaY1U3ck5kMXNzcUowOUlUcmdZQkJtMlBZSWFNNFowOUtvVFE?oc=5",
+      "source": "siam.in",
+      "date": "2026-09-04T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Xpro India Q2 2026 earnings show ₹8.31 EPS maintained despite 5.5% revenue drop.",
+      "enriched": true
+    },
+    {
       "id": "n7478e5158873",
       "ticker": "THEME",
       "company": "Specialty Chemicals",
@@ -4380,26 +4535,6 @@
       "sources_count": 3
     },
     {
-      "id": "nf48980ee1346",
-      "ticker": "RAJESH",
-      "company": "Rajesh Power Services Ltd",
-      "sector": "Utilities",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Rajesh Power Services Wins ₹362.83 Crore PGVCL Orders | Machine Maker - Latest Manufacturing News | Indian Manufacturing News - Latest Manufacturing News | Indian Manufacturing News - Machine Maker",
-      "url": "https://themachinemaker.com/news/rajesh-power-services-wins-%E2%82%B9362-83-crore-pgvcl-orders/",
-      "source": "themachinemaker.com",
-      "date": "2026-09-03T20:34:48.034Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Rajesh Power Services bags Rs 363 crore PGVCL order.",
-      "enriched": true,
-      "sources_count": 2
-    },
-    {
       "id": "n17cc3ebb93f8",
       "ticker": "RAJESH",
       "company": "Rajesh Power Services Ltd",
@@ -4416,6 +4551,26 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Rajesh Power Services secures Rs 363 crore order from PGVCL.",
+      "enriched": true,
+      "sources_count": 2
+    },
+    {
+      "id": "nf48980ee1346",
+      "ticker": "RAJESH",
+      "company": "Rajesh Power Services Ltd",
+      "sector": "Utilities",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Rajesh Power Services Wins ₹362.83 Crore PGVCL Orders | Machine Maker - Latest Manufacturing News | Indian Manufacturing News - Latest Manufacturing News | Indian Manufacturing News - Machine Maker",
+      "url": "https://themachinemaker.com/news/rajesh-power-services-wins-%E2%82%B9362-83-crore-pgvcl-orders/",
+      "source": "themachinemaker.com",
+      "date": "2026-09-03T20:34:48.034Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Rajesh Power Services bags Rs 363 crore PGVCL order.",
       "enriched": true,
       "sources_count": 2
     },
@@ -6320,6 +6475,25 @@
       "enriched": true
     },
     {
+      "id": "nfcb55eb21523",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "DEE Development: Management Reveals 5 Ways It Plans to Achieve ₹2,500 Cr Revenue",
+      "url": "https://tradebrains.in/dee-development-management-reveals-5-ways-it-plans-to-achieve-2500-cr-revenue",
+      "source": "tradebrains.in",
+      "date": "2026-09-03T20:34:08.584Z",
+      "topic": "Growth",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Management outlines five strategic initiatives to reach ₹2,500 crore revenue target.",
+      "enriched": true
+    },
+    {
       "id": "nd40aeff528dc",
       "ticker": "DEEDEV",
       "company": "DEE Development Engineers Limited",
@@ -6355,25 +6529,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "DEE Development Engineers received ₹81.06 crore in new orders during July 2026.",
-      "enriched": true
-    },
-    {
-      "id": "nfcb55eb21523",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "DEE Development: Management Reveals 5 Ways It Plans to Achieve ₹2,500 Cr Revenue",
-      "url": "https://tradebrains.in/dee-development-management-reveals-5-ways-it-plans-to-achieve-2500-cr-revenue",
-      "source": "tradebrains.in",
-      "date": "2026-09-03T20:34:08.584Z",
-      "topic": "Growth",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Management outlines five strategic initiatives to reach ₹2,500 crore revenue target.",
       "enriched": true
     },
     {
@@ -9409,6 +9564,25 @@
       "enriched": true
     },
     {
+      "id": "nbe24a7b37fd8",
+      "ticker": "PVRINOX",
+      "company": "PVR INOX Limited",
+      "sector": "Media Entertainment & Publication",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "PVR Inox cuts FY27 capex to ₹350 crore, holds ₹80 cr net cash",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdlVfeHJZYVVETWFyM2tIRVhkS0hHTGMxM0tBUTdhN0pEZUloTkU3NUhYVTNfMk92d3M1TmhuYTBPMll3bndfU3E0UEZjbHFYXzBMeVZxLUpkOVNkWWdQZXdzUVpYWWJBa2QybzZSN3g0a3ctTTlnNk9oMFIzdVBEd2hNRkdmcHpKemVPdDhNa3JRTHpTZ0FJM3UtYkptTGVERmlqaGFFbWw2R01UcGJ1cXZROFV1S1E0YVE?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-07-30T07:00:00.000Z",
+      "topic": "Growth",
+      "keyword": "Capex",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "PVR Inox reduced FY27 capex to ₹350 crore while maintaining ₹80 crore net cash position.",
+      "enriched": true
+    },
+    {
       "id": "n37d1ff2f07c2",
       "ticker": "KSHINTL",
       "company": "KSH International Limited",
@@ -11457,25 +11631,6 @@
       "enriched": true
     },
     {
-      "id": "nadb99199cd58",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "DEE Development Engineers receives approval for issuance of 59.76 lakh shares at Rs 502 each",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVldVQTBDY2dlTFJ6UHJ4TUtJNWEzQkx3dk9UMlhCX0JZcW9lc1pId253a1l1eUlPSWxyZERZdXE3WXMwb2JqTzZVRHNkRktJY3h5U3liejF6LVI4QjV6blQwRDQtcVV6SzVtbExPWEVlSE93eWc1bGpoUHBTUXphR0xTcDlKMWFKY3ByV0I4VGxuVVJ0Y0RHRG95aG5fZ0ZFbVRISHhzbnpVaWQ4NTBzNTZTWHRXUFFQNG05N0gxdW1KRUVxenF1SQ?oc=5",
-      "source": "businessupturn.com",
-      "date": "2026-07-01T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Approval",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "DEE Development Engineers approved to issue 59.76 lakh shares at Rs 502 each to raise funds.",
-      "enriched": true
-    },
-    {
       "id": "na99507b339c2",
       "ticker": "LAXMIDENTL",
       "company": "Laxmi Dental Limited",
@@ -11494,6 +11649,25 @@
       "takeaway": "Laxmi Dental's Q2 revenue increased 14.77% year-on-year despite market challenges.",
       "enriched": true,
       "sources_count": 2
+    },
+    {
+      "id": "nadb99199cd58",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "DEE Development Engineers receives approval for issuance of 59.76 lakh shares at Rs 502 each",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVldVQTBDY2dlTFJ6UHJ4TUtJNWEzQkx3dk9UMlhCX0JZcW9lc1pId253a1l1eUlPSWxyZERZdXE3WXMwb2JqTzZVRHNkRktJY3h5U3liejF6LVI4QjV6blQwRDQtcVV6SzVtbExPWEVlSE93eWc1bGpoUHBTUXphR0xTcDlKMWFKY3ByV0I4VGxuVVJ0Y0RHRG95aG5fZ0ZFbVRISHhzbnpVaWQ4NTBzNTZTWHRXUFFQNG05N0gxdW1KRUVxenF1SQ?oc=5",
+      "source": "businessupturn.com",
+      "date": "2026-07-01T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "DEE Development Engineers approved to issue 59.76 lakh shares at Rs 502 each to raise funds.",
+      "enriched": true
     },
     {
       "id": "nb624331cac73",
@@ -12586,26 +12760,6 @@
       "enriched": true
     },
     {
-      "id": "n814463ee3546",
-      "ticker": "MOLDTKPAC",
-      "company": "Mold-Tek Packaging Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "MOLDTKPAC Q2 2026 Earnings: Double-Digit Revenue Growth Amid Steady Packaging Demand - Mid-Term Outlook",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPajhLNzA5alpmYjQ3VWlMcEJkQWRfb2k2LUh0MTFfM1RhVmZ4TGsyNTAzZDRXcmhGTTFjMzhUUXI1NktrTm42MGgwdUdqWTdpMng5N1ltbkI2R0tIM2tQYXJuWjk3eWZNbU5CRzJFdC1IaVVRVjNBbXJTTS1WUmpZdS1ON2IxVEl1WUJqTWdwcmY5YURXQkpnQUVKTWpucUZ5Wml6RDVRbllUN2EteFdOVDY2N0k2U1k1cmNsMTUyMnFWUQ?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-14T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Mold-Tek Packaging Q2 revenue grew double-digits on steady packaging demand.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "n56929915f709",
       "ticker": "XPROINDIA",
       "company": "Xpro India Limited",
@@ -12623,6 +12777,26 @@
       "importance": "medium",
       "mood": "negative",
       "takeaway": "Xpro India Q2 revenue declined amid weak demand, earnings per share at ₹8.45.",
+      "enriched": true
+    },
+    {
+      "id": "n814463ee3546",
+      "ticker": "MOLDTKPAC",
+      "company": "Mold-Tek Packaging Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "MOLDTKPAC Q2 2026 Earnings: Double-Digit Revenue Growth Amid Steady Packaging Demand - Mid-Term Outlook",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPajhLNzA5alpmYjQ3VWlMcEJkQWRfb2k2LUh0MTFfM1RhVmZ4TGsyNTAzZDRXcmhGTTFjMzhUUXI1NktrTm42MGgwdUdqWTdpMng5N1ltbkI2R0tIM2tQYXJuWjk3eWZNbU5CRzJFdC1IaVVRVjNBbXJTTS1WUmpZdS1ON2IxVEl1WUJqTWdwcmY5YURXQkpnQUVKTWpucUZ5Wml6RDVRbllUN2EteFdOVDY2N0k2U1k1cmNsMTUyMnFWUQ?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-06-14T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Mold-Tek Packaging Q2 revenue grew double-digits on steady packaging demand.",
+      "sources_count": 2,
       "enriched": true
     },
     {
