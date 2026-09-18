@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T18:39:47.387Z",
+  "generated_at": "2026-09-18T07:41:39.657Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,56 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "fa9276bbfe3e0",
+      "ticker": "TEMPSENS",
+      "company": "Tempsens Instruments (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-09-18T12:43:28.000Z",
+      "category": "Newspaper Publication",
+      "title": "Tempsens Instruments (India) Limited has informed the Exchange about Copy of Newspaper Publication",
+      "url": "https://nsearchives.nseindia.com/corporate/TEMPSENS_18092026124303_Intimation_of_newspaper_publication_for_financial_result_Q1__2___1___1_.pdf"
+    },
+    {
+      "id": "f4ffb073910f9",
+      "ticker": "CONCORDBIO",
+      "company": "Concord Biotech Limited",
+      "exchange": "NSE",
+      "date": "2026-09-18T10:27:23.000Z",
+      "category": "Disclosure",
+      "title": "Intimation of Outcome of U.S. Food and Drug Administration (USFDA) Inspection at Unit II Valthera Formulation Facility of the Company",
+      "url": "https://nsearchives.nseindia.com/corporate/CONCORD_18092026102702_Intimation_to_Stock_Exchanges_-_USFDA.pdf"
+    },
+    {
+      "id": "f3482c3d2847f",
+      "ticker": "HILINFRA",
+      "company": "Highway Infrastructure Limited",
+      "exchange": "NSE",
+      "date": "2026-09-18T10:17:50.000Z",
+      "category": "Press Release",
+      "title": "Highway Infrastructure Limited has informed the Exchange regarding a press release dated September 18, 2026, titled \"Highway Infrastructure Limited Secures Rs. 220.66 Crore Toll Operations Contract of 2 years for Gorakhpur Link Expressway \".",
+      "url": "https://nsearchives.nseindia.com/corporate/HIGHWAY123_18092026101738_HIL_PressRelease_18092026.pdf"
+    },
+    {
+      "id": "fd9bff7ea5888",
+      "ticker": "SKYGOLD",
+      "company": "SKY GOLD AND DIAMONDS LIMITED",
+      "exchange": "NSE",
+      "date": "2026-09-18T09:07:34.000Z",
+      "category": "Disclosure",
+      "title": "The Board at its meeting held today i.e. on 18th September 2026 has considered and approved the acquisition of Purvi Gems & Jewellery (India) Private Limited.",
+      "url": "https://nsearchives.nseindia.com/corporate/SKYGOLD_18092026090718_OutcomeBMAcquisition.pdf"
+    },
+    {
+      "id": "f2ee07162581c",
+      "ticker": "SKYGOLD",
+      "company": "SKY GOLD AND DIAMONDS LIMITED",
+      "exchange": "NSE",
+      "date": "2026-09-18T09:02:22.000Z",
+      "category": "Board Meeting",
+      "title": "The Board of Directors of the Company at their meeting held today, i.e. Friday, 18th September, 2026 at the Registered office of the Company inter-alia has considered and approved the acquisition of Purvi Gems & Jewellery (India) Private Limited (\"Target Company\").",
+      "url": "https://nsearchives.nseindia.com/corporate/SKYGOLD_18092026090126_OutcomeBMAcquisition.pdf"
+    },
     {
       "id": "fb93440516d90",
       "ticker": "PVRINOX",
@@ -19956,56 +20006,6 @@
       "category": "Disclosure",
       "title": "Concord Biotech Limited has informed the Exchange regarding 'Completion of Inspection by the Pharmacy and Poisons Board (PPB) from Kenya and the National Drug Authority (NDA) from Uganda at Unit-II formulation facility'.",
       "url": "https://nsearchives.nseindia.com/corporate/CONCORD_25062026100809_Intimation_PPB_NDA.pdf"
-    },
-    {
-      "id": "fe5a75df96167",
-      "ticker": "STLTECH",
-      "company": "Sterlite Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-06-25T00:05:19.000Z",
-      "category": "Disclosure",
-      "title": "Sterlite Technologies Limited has informed the Exchange about - qualified institutions placement of equity shares of the face value of &#8377;2 each of SterliteTechnologies Limited (the Issuer ) under the provisions of Chapter VI of the Securities andExchange Board of India (Issue of Capital and Disclosure Requirements) Regulations, 2018, asamended ( SEBI ICDR Regulations ) and Section 42 of the Companies Act, 2013",
-      "url": "https://nsearchives.nseindia.com/corporate/STLTECH_25062026000511_SE_Intimation-IssueOpeningIntimation_June_24_2026_signed.pdf"
-    },
-    {
-      "id": "f44daa3a8b7a2",
-      "ticker": "STLTECH",
-      "company": "Sterlite Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-06-25T00:04:01.000Z",
-      "category": "Allotment of Securities",
-      "title": "Sterlite Technologies Limited has informed the Exchange about qualified institutions placement of equity shares of the face value of &#8377;2 each of SterliteTechnologies Limited (the Issuer ) under the provisions of Chapter VI of the Securities andExchange Board of India (Issue of Capital and Disclosure Requirements) Regulations, 2018, asamended ( SEBI ICDR Regulations ) and Section 42 of the Companies Act, 2013",
-      "url": "https://nsearchives.nseindia.com/corporate/STLTECH_25062026000352_SE_Intimation-IssueOpeningIntimation_June_24_2026_signed.pdf"
-    },
-    {
-      "id": "f15efd2157cc2",
-      "ticker": "AVANTEL",
-      "company": "Avantel Limited",
-      "exchange": "NSE",
-      "date": "2026-06-24T20:58:36.000Z",
-      "category": "Disclosure",
-      "title": "Avantel Limited has informed the Exchange about Re-appointment of M/s. Grandhy & Co., Chartered Accountants as the Statutory Auditors of the Company",
-      "url": "https://nsearchives.nseindia.com/corporate/AVANTEL_24062026205823_Reg30Intimations.pdf"
-    },
-    {
-      "id": "ff79b66ce32fb",
-      "ticker": "AVANTEL",
-      "company": "Avantel Limited",
-      "exchange": "NSE",
-      "date": "2026-06-24T19:24:09.000Z",
-      "category": "Change in Directors",
-      "title": "Avantel Limited has informed the Exchange regarding Cessation of Mr Myneni Narayana Rao as Independent Director of the company w.e.f. Jun 25, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/AVANTEL_24062026192302_CessationMNR.pdf"
-    },
-    {
-      "id": "f022e66f9d8a5",
-      "ticker": "AVANTEL",
-      "company": "Avantel Limited",
-      "exchange": "NSE",
-      "date": "2026-06-24T19:12:06.000Z",
-      "category": "Change in Directors",
-      "title": "Avantel Limited has informed the Exchange regarding Change in Director(s) of the company.",
-      "url": "https://nsearchives.nseindia.com/corporate/AVANTEL_24062026191105_Reg30Intimations.pdf"
     }
   ]
 }
