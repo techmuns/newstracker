@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T07:36:53.235Z",
+  "generated_at": "2026-09-19T17:32:07.211Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,56 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f6d2d4de7faab",
+      "ticker": "LENSKART",
+      "company": "Lenskart Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-09-19T19:19:41.000Z",
+      "category": "Investor Presentation",
+      "title": "Lenskart Solutions Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/LENSKART_19092026191926_Reg30_-_Analysts_Meet_-_SE_Intimation_signed.pdf"
+    },
+    {
+      "id": "f22f29135688e",
+      "ticker": "SGMART",
+      "company": "SG Mart Limited",
+      "exchange": "NSE",
+      "date": "2026-09-19T18:02:48.000Z",
+      "category": "Shareholders meeting",
+      "title": "SG Mart Limited has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on September 19, 2026. Further, the company has informed the Exchange regarding voting results.",
+      "url": "https://nsearchives.nseindia.com/corporate/SGMART_19092026180229_SGML_Scrutinizer_Report_and_Voting_Results_19_09_2026.pdf"
+    },
+    {
+      "id": "fdc144fe5bcfe",
+      "ticker": "SGMART",
+      "company": "SG Mart Limited",
+      "exchange": "NSE",
+      "date": "2026-09-19T17:30:12.000Z",
+      "category": "Shareholders meeting",
+      "title": "SG Mart Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 19, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/SGMART_19092026172948_SGML_AGM_Outcome_19_09_2026.pdf"
+    },
+    {
+      "id": "ff626f0f7b811",
+      "ticker": "KSHINTL",
+      "company": "KSH International Limited",
+      "exchange": "NSE",
+      "date": "2026-09-19T14:53:53.000Z",
+      "category": "Investor Presentation",
+      "title": "KSH International Limited has informed the Exchange, schedule of multiple meetings with Analysts and Investors.",
+      "url": "https://nsearchives.nseindia.com/corporate/INTERNATIONAL_19092026145231_KSHIntimationofInvestorMeet24092026signed.pdf"
+    },
+    {
+      "id": "f1659f662004f",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "exchange": "NSE",
+      "date": "2026-09-19T14:30:58.000Z",
+      "category": "Disclosure",
+      "title": "Goldiam International Limited has informed the Exchange regarding 'This is to inform that the Company has received an aggregate of Rs.12.60 crores (net TDS) from Goldiam Jewellery Limited (GJL)-Wholly Owned Subsidiary on September 18, 2026 towards 1st Interim Dividend for FY 2026-27 at the rate of Rs.140/- (i.e.1400%) per equity share of face value of Rs.10/- each declared by Board of Directors of GJL on September 15, 2026. '.",
+      "url": "https://nsearchives.nseindia.com/corporate/GOLDIAM_19092026142748_Dividend_Intimation_-19-9-26.pdf"
+    },
     {
       "id": "f08e09b113c08",
       "ticker": "HTEL",
@@ -19956,56 +20006,6 @@
       "category": "Trading Window",
       "title": "Triveni Engineering & Industries Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
       "url": "https://nsearchives.nseindia.com/corporate/TRIVENI_26062026135540_TEIL_WINDOW_JUNE26.pdf"
-    },
-    {
-      "id": "f45124ab3969f",
-      "ticker": "OMNI",
-      "company": "Omnitech Engineering Limited",
-      "exchange": "NSE",
-      "date": "2026-06-26T12:58:54.000Z",
-      "category": "Trading Window",
-      "title": "Omnitech Engineering Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/OMNITECHENG_26062026125745_Notice_of_Trading_Window_closure_for_Q1_for_FY_2026-27.pdf"
-    },
-    {
-      "id": "f86ffe61e5d0e",
-      "ticker": "MENONBE",
-      "company": "Menon Bearings Limited",
-      "exchange": "NSE",
-      "date": "2026-06-26T12:39:03.000Z",
-      "category": "Trading Window",
-      "title": "Menon Bearings Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/MENONBE_26062026123854_Trading_Window_Closure_Intimation_June_26_Signed.pdf"
-    },
-    {
-      "id": "fa602cf536e80",
-      "ticker": "INDOFARM",
-      "company": "Indo Farm Equipment Limited",
-      "exchange": "NSE",
-      "date": "2026-06-26T11:59:14.000Z",
-      "category": "Trading Window",
-      "title": "Indo Farm Equipment Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/IFEL_26062026115906_Intimation_Letter_Closure_of_Trading_Window.pdf"
-    },
-    {
-      "id": "f69f19a26ac43",
-      "ticker": "SAILIFE",
-      "company": "Sai Life Sciences Limited",
-      "exchange": "NSE",
-      "date": "2026-06-25T20:59:52.000Z",
-      "category": "Trading Window",
-      "title": "Sai Life Sciences Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/SAILIFE_25062026205926_TW_Closure.pdf"
-    },
-    {
-      "id": "fe7bbbe8063e0",
-      "ticker": "TRIVENI",
-      "company": "Triveni Engineering & Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-06-25T19:31:30.000Z",
-      "category": "Disclosure",
-      "title": "Triveni Engineering & Industries Limited has informed the Exchange about General Updates",
-      "url": "https://nsearchives.nseindia.com/corporate/TRIVENI_25062026193036_Intimation_In_Principle_approval.pdf"
     }
   ]
 }
