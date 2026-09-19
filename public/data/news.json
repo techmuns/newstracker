@@ -1,31 +1,111 @@
 {
-  "generated_at": "2026-09-18T18:03:46.122Z",
+  "generated_at": "2026-09-19T07:37:45.155Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 104,
-    "watchlist": 644,
+    "portfolio": 105,
+    "watchlist": 646,
     "universe": 32,
-    "total": 676
+    "total": 678
   },
   "items": [
     {
-      "id": "n8f03f4fa38ae",
+      "id": "ndbac1d406588",
       "ticker": "MSECL",
       "company": "Monarch Surveyors and Engineering Consultants Ltd",
       "sector": "Services",
       "scope": [
         "watchlist"
       ],
-      "title": "Monarch Surveyors and Engineering gains on bagging Rs 2-cr work order | Capital Market News - Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/monarch-surveyors-and-engineering-gains-on-bagging-rs-2-cr-work-order-126082400282_1.html",
+      "title": "Monarch Surveyors and Engineering Consultants receives Rs 2-cr work order | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-and-engineering-consultants-receives-rs-2-cr-work-order-126082200734_1.html",
       "source": "business-standard.com",
-      "date": "2026-09-18T17:55:21.484Z",
+      "date": "2026-09-19T07:35:52.350Z",
       "topic": "Orders",
       "keyword": "Order",
       "importance": "low",
       "mood": "positive",
-      "takeaway": "Monarch Surveyors won a Rs 2 crore work order.",
+      "takeaway": "Monarch Surveyors received a Rs 2 crore work order.",
       "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "n16539dba5153",
+      "ticker": "CNINFOTECH",
+      "company": "Capitalnumbers Infotech Ltd",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Capitalnumbers Infotech Proposes IPO Fund Reallocation for Rs 40 Crore Acquisition | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/technology/Capitalnumbers-Infotech-Proposes-IPO-Fund-Reallocation-for-Rs-40-Crore-Acquisition/6a957bf9f2017017ae581a40",
+      "source": "whalesbook.com",
+      "date": "2026-09-19T07:35:33.851Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Capitalnumbers Infotech proposes to reallocate IPO funds for a Rs 40 crore acquisition.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n4a74e1197054",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries India Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Solar Group’s $1.36 Billion Omnia Deal: Can India’s Explosives and Defence Giant Sustain Its Dream Run?",
+      "url": "https://www.fortuneindia.com/business-news/solar-group-is-getting-bigger-and-bigger-can-the-dream-run-continue/160100",
+      "source": "fortuneindia.com",
+      "date": "2026-09-19T07:34:47.182Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Solar Group acquired Omnia for $1.36 billion, expanding its explosives and defence business globally.",
+      "enriched": true
+    },
+    {
+      "id": "nbe6f14a3faf6",
+      "ticker": "CURRENT",
+      "company": "Current Infraprojects Limited",
+      "sector": "Construction",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Current Infraprojects Secures Rs 10.42 Cr Bank Note Press Solar Order – Outlook Business",
+      "url": "https://www.outlookbusiness.com/spotlight/news-wire/current-infraprojects-secures-rs-10-42-cr-bank-note-press-solar-order",
+      "source": "outlookbusiness.com",
+      "date": "2026-09-19T07:32:03.261Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Current Infraprojects won a Rs 10.42 crore solar project order from Bank Note Press.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n22c980504bd4",
+      "ticker": "TANFACIND",
+      "company": "TANFAC Industries Ltd",
+      "sector": "Chemicals",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Anupam Rasayan: Completes ₹60.88 Crore Equity Share Acquisition in Tanfac | InvestyWise",
+      "url": "https://www.investywise.com/anupam-rasayan-india-ltd-acquisition-of-equity-shares-in-tanfac-industries/",
+      "source": "investywise.com",
+      "date": "2026-09-19T07:31:28.441Z",
+      "topic": "Deals",
+      "keyword": "Preferential Issue",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Anupam Rasayan acquired ₹60.88 crore worth of equity shares in Tanfac Industries.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -64,26 +144,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "CapitalNumbers Infotech acquired 100% stake in Epitome Cloud.",
-      "enriched": true
-    },
-    {
-      "id": "n997136fc7fcc",
-      "ticker": "CNINFOTECH",
-      "company": "Capitalnumbers Infotech Ltd",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Capitalnumbers Infotech Proposes IPO Fund Reallocation to Acquire Epitome Cloud Inc. | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/English/technology/Capitalnumbers-Infotech-Proposes-IPO-Fund-Reallocation-to-Acquire-Epitome-Cloud-Inc/6a957fa9f2017017ae5825f3",
-      "source": "whalesbook.com",
-      "date": "2026-09-18T17:54:58.951Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Capitalnumbers Infotech reallocating IPO funds to acquire Epitome Cloud Inc.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -183,22 +243,22 @@
       "enriched": true
     },
     {
-      "id": "n4ea58ce07224",
+      "id": "nc1b05d714311",
       "ticker": "MOBIKWIK",
       "company": "One Mobikwik Systems Limited",
       "sector": "Financial Services",
       "scope": [
         "watchlist"
       ],
-      "title": "One Mobikwik accepts resignation of independent director Venkatesh",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRHhoblFiLVlDOUIzeGFsOU52Z2tnOGk0VkpYUV96eFQta01TU3E0T01GSDdSWXRIUmRocHhTWTNaR3UyektuYTFIb0RvZWVQeXdpZV9YeDJFeTNSejVVcFRfN2ppYmt5b0FYUF9MSDE0UFZTQVhBb21wQms4SDRSLWhZSGxoX0Z1bDJCcWU4WTZHM1FzSzM4YVNRT2hmS0VnckFKWXFvakNWbEdLZ2t1MkJNUlZqVUlKNVRXVA?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-09-18T17:48:59.000Z",
+      "title": "One Mobikwik Systems announces resignation of Independent Director Raghu Ram Hiremagalur Venkatesh",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX18xMjZ5ekFDcEpaU3J0eEVnRUhYanRRMlRJeDdRcjNoS3k2MzdWckg1TnZLXzFUaUlwMDFOWFM1Y0hVdGRhaE1raDF2TjRzRG1DOGlxZWNGeGlIV293MEF3SGdkdGVXT3hYNXpWMFZXSEZfQkJnbm8tOC1ldC1jWDdrY2NXNlZOUDlIYi1pVGw1WVdLbmpka3hfWmVYQWFrWGxtV19iZGdsUDA1RUlkUGdoU2hKVVZubHpnejlQdmFhMVZEaU5nVjdHb2Z5WWhZ?oc=5",
+      "source": "Business Upturn",
+      "date": "2026-09-18T17:46:19.000Z",
       "topic": "Trouble",
       "keyword": "Resignation",
       "importance": "low",
       "mood": "neutral",
-      "takeaway": "Independent director Venkatesh resigned from One Mobikwik's board.",
+      "takeaway": "Independent Director Raghu Ram Hiremagalur Venkatesh has resigned from One Mobikwik Systems.",
       "sources_count": 2,
       "enriched": true
     },
@@ -298,7 +358,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Unimech Aerospace plans ₹750 crore fundraising via QIP to expand aerospace operations.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -377,6 +437,44 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Omnitech Engineering scheduled earnings call for August 7, 2026.",
+      "enriched": true
+    },
+    {
+      "id": "nd4f1806c6385",
+      "ticker": "IKS",
+      "company": "Inventurus Knowledge Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Inventurus Knowledge Solutions Q2 2026 Earnings: Double-Digit Revenue Growth Fails to Lift Stock - Estimate Accuracy",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd3NRc1JBejBMTmlFVnVxNkVVSzJ4SDlqWS1DN1pkSlhHRm8yaXlJd1BCX1RLdWI0X2xiTTg1Qkt3YmlYWnl2NF9tZkd0MVF0b2xOR1VCTlBicE5pN3VzdVdnQ3NzUEpycl8tNlFWRS11dE5zanFYRy01YUU2VF9lcGUwQTY3clo3V3lJSm15VDFxODA1Qi12dVN2UV95QlBEOUpuNzJUWjBma0NkXzhBYjY3ZWdmZTRoeTlfeldDaTBZakt3QWVkSlYyQVFuNV9kUmc?oc=5",
+      "source": "siam.in",
+      "date": "2026-09-17T13:30:25.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Inventurus Knowledge Solutions reported double-digit revenue growth in Q2 2026.",
+      "enriched": true
+    },
+    {
+      "id": "nd9b313ad39c4",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries India Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Solar Industries (NSE:SOLARINDS): What Does the Omnia Holdings Acquisition Mean for Investors?",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTERHa1lJbEdHNExQeFBRbHBXQm05dE5ZRVE1eU5vVW5CQmRRdGxRczc2ZGpkSTdLZGZSZVhRSHRlS1VHcWgxNHJaSEkyOEpoNEtXd1pPSkFWN2tIMEktY1diQlBlOXlkbVM2R2xlZWxWdE1Zb3EtbXYwUUFoYXFuQUhCOW1DOE54WjE4d1M4dlE5Tm9jR0t4NGhDcWR3TlBNZDhaRTFkX3hOUTNnRGt6alM1c3ljd2R5a1Q3cU9kLVF6OFQxVTNCOTJlOWgzVko0UmxJ?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-09-17T10:23:00.000Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Solar Industries has acquired Omnia Holdings, expanding its business footprint.",
       "enriched": true
     },
     {
@@ -1231,7 +1329,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Aurobindo Pharma gets US FDA approval for Beclomethasone inhalation aerosol.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -1995,7 +2093,7 @@
       "mood": "positive",
       "takeaway": "Sapphire Foods and Devyani International filed for CCI approval for merger.",
       "enriched": true,
-      "sources_count": 2
+      "sources_count": 3
     },
     {
       "id": "na78dbee788d2",
@@ -4648,26 +4746,6 @@
       "sources_count": 3
     },
     {
-      "id": "nf48980ee1346",
-      "ticker": "RAJESH",
-      "company": "Rajesh Power Services Ltd",
-      "sector": "Utilities",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Rajesh Power Services Wins ₹362.83 Crore PGVCL Orders | Machine Maker - Latest Manufacturing News | Indian Manufacturing News - Latest Manufacturing News | Indian Manufacturing News - Machine Maker",
-      "url": "https://themachinemaker.com/news/rajesh-power-services-wins-%E2%82%B9362-83-crore-pgvcl-orders/",
-      "source": "themachinemaker.com",
-      "date": "2026-09-03T20:34:48.034Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Rajesh Power Services bags Rs 363 crore PGVCL order.",
-      "enriched": true,
-      "sources_count": 2
-    },
-    {
       "id": "n17cc3ebb93f8",
       "ticker": "RAJESH",
       "company": "Rajesh Power Services Ltd",
@@ -4684,6 +4762,26 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Rajesh Power Services secures Rs 363 crore order from PGVCL.",
+      "enriched": true,
+      "sources_count": 2
+    },
+    {
+      "id": "nf48980ee1346",
+      "ticker": "RAJESH",
+      "company": "Rajesh Power Services Ltd",
+      "sector": "Utilities",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Rajesh Power Services Wins ₹362.83 Crore PGVCL Orders | Machine Maker - Latest Manufacturing News | Indian Manufacturing News - Latest Manufacturing News | Indian Manufacturing News - Machine Maker",
+      "url": "https://themachinemaker.com/news/rajesh-power-services-wins-%E2%82%B9362-83-crore-pgvcl-orders/",
+      "source": "themachinemaker.com",
+      "date": "2026-09-03T20:34:48.034Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Rajesh Power Services bags Rs 363 crore PGVCL order.",
       "enriched": true,
       "sources_count": 2
     },
@@ -9968,25 +10066,6 @@
       "enriched": true
     },
     {
-      "id": "n4436df7be080",
-      "ticker": "SURYAROSNI",
-      "company": "Surya Roshni Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Surya Roshni wins Rs 68.11 crore order from undisclosed client for OCTG supply",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM1Exeld3X1h5WFZWWVJ5MEdSY2FtUlBSU0htbDVCc0xIdk9rMkoycElUNUJ3MzhSMXRKZUk2YWxKRTdxV3N3YzBaby1xaGt5Qmg3S3dHVHl1NjV0V1N4dmtPamdraDNOdXl6MHJEV0xUYnd3WEFMOEJqTUJjNk42by15Qkd1UENEZzdWMVZLLUpsX2RtVl9Lc21iVW90ejZBVVJiNWhiT3hzZFg0SzBLTk1zOEZEeXZHdDh0dldJUFZ0dERTQW9LV2hHQXdIWFlT?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-07-24T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Surya Roshni secured ₹68.11 crore order for OCTG supply.",
-      "enriched": true
-    },
-    {
       "id": "nd2b1dc88f133",
       "ticker": "STLTECH",
       "company": "Sterlite Technologies Limited",
@@ -10004,6 +10083,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Sterlite Technologies posted record Q1 FY27 results with strong performance.",
+      "enriched": true
+    },
+    {
+      "id": "n4436df7be080",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Surya Roshni wins Rs 68.11 crore order from undisclosed client for OCTG supply",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM1Exeld3X1h5WFZWWVJ5MEdSY2FtUlBSU0htbDVCc0xIdk9rMkoycElUNUJ3MzhSMXRKZUk2YWxKRTdxV3N3YzBaby1xaGt5Qmg3S3dHVHl1NjV0V1N4dmtPamdraDNOdXl6MHJEV0xUYnd3WEFMOEJqTUJjNk42by15Qkd1UENEZzdWMVZLLUpsX2RtVl9Lc21iVW90ejZBVVJiNWhiT3hzZFg0SzBLTk1zOEZEeXZHdDh0dldJUFZ0dERTQW9LV2hHQXdIWFlT?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-07-24T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Surya Roshni secured ₹68.11 crore order for OCTG supply.",
       "enriched": true
     },
     {
@@ -13063,64 +13161,6 @@
       "mood": "positive",
       "takeaway": "Unimech Aerospace order book tripled to ₹314 crore, recovering from tariff-hit year.",
       "enriched": true
-    },
-    {
-      "id": "ncb1f79d0ac92",
-      "ticker": "CANFINHOME",
-      "company": "Can Fin Homes Limited",
-      "sector": "Financial Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Can Fin Homes Mar 2026 Earnings: EPS of ₹25.96 Reported; Stock Edges Down 0.17% - Core Business Growth",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU2RpbERsZjBzOFZ1M0JoQkJRakJKbXFKWGpTMTdaVmpqb3daMkhvTlJndUpYNFpRU282NENPNzlGOGRENUJ4UUFsRVVkUkN6OTdQNzdMNTg5OWVGWjJoSW13SUotam16eGt0cG1aWlhiY3cxbmpIWi1Ec1JnNWo0eGJ4TkFCNDFmZFpqaW85RWUzcEw5RURCQzJXZ0pFWmJWUHpqbjJ5alhUdk9xV3N3Vlo1UWs?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-11T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Can Fin Homes reported March quarter earnings of ₹25.96 per share.",
-      "enriched": true
-    },
-    {
-      "id": "ne646adbd8ff0",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "SAPPHIRE.NS Q2 FY2026 Earnings: Narrow Loss on Robust Revenue Growth Amid QSR Headwinds - Basic EPS Analysis",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONmh2aWw0ejNlLTJLcVdHYzFtUkRSVnFVNFVJVFNDaEF4YXJna2VHLTZiZXdWdGFDUXIwb2JRN3FtR2hsZGRfZlo3US0yRjYxeDFMYmJMb3VwUVAxVV9ZNmZkUy1QajhIVF80WGxoLTRCN1J4SWhkTzcyS0swMjdpN0FUWkpqVzlOLUt2RXV4WTRIUGlVTmVtUFhVNVc1S284OGlPanBxVTZUeGl0SDhqMVJuekN0UHlmSnhIUmpPU0t2Q3oydFE?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-11T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "negative",
-      "takeaway": "Sapphire Foods Q2 FY2026 posted narrow loss despite robust revenue growth amid restaurant sector challenges",
-      "enriched": true
-    },
-    {
-      "id": "ndeffd36badb1",
-      "ticker": "WOCKPHARMA",
-      "company": "Wockhardt Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Wockhardt Limited Zaynich Secures US FDA Approval, Ushering in New Era of Antibiotic Treatment",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN1VCeTEyUTI2ci1NNXBMR0ZKZlhpMTFfX3M2ZXFoVEZ0eGM0SGpmeGt2c3RmczRQa2lxRENZbE51enpwRlFLWDdYTmlyU0hjbDd3bzI1Q1pnWEFaQmF2czhjWGFBLTdPVjlNRm5OdmtaTVJ3Y0V2SURjQ3ZDcURwY3hucFBTemtGRzF2QTY2MnRoZW1hOVd4WENxUjh0YmFXU0ZMZVZITTZ1SHU1?oc=5",
-      "source": "InvestyWise",
-      "date": "2026-06-11T07:00:00.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Wockhardt's Zaynich antibiotic receives US FDA approval for treatment.",
-      "enriched": true,
-      "sources_count": 2
     }
   ]
 }
