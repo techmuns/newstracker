@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T17:58:16.481Z",
+  "generated_at": "2026-09-19T07:36:53.235Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,56 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f08e09b113c08",
+      "ticker": "HTEL",
+      "company": "Hy-Tech Engineers Limited",
+      "exchange": "NSE",
+      "date": "2026-09-19T12:36:37.000Z",
+      "category": "Newspaper Publication",
+      "title": "Hy-Tech Engineers Limited has informed the Exchange about Copy of Newspaper Publication",
+      "url": "https://nsearchives.nseindia.com/corporate/HYTECH_19092026123622_Newspaper_advertisment_Q1_26-27_financial_results.pdf"
+    },
+    {
+      "id": "f0fba9f764ff0",
+      "ticker": "OMNI",
+      "company": "Omnitech Engineering Limited",
+      "exchange": "NSE",
+      "date": "2026-09-19T11:55:35.000Z",
+      "category": "Spurt in Volume",
+      "title": "Significant increase in volume has been observed in Omnitech Engineering Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the market place so that the interest of the investors is safeguarded, had written to the company. Omnitech Engineering Limited has submitted their response.",
+      "url": "https://nsearchives.nseindia.com/corporate/OMNITECHENG_19092026115321_Disclosure_for_Spurt_in_Volume_of_Script.pdf"
+    },
+    {
+      "id": "f2eb60512d69d",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "exchange": "NSE",
+      "date": "2026-09-19T10:56:47.000Z",
+      "category": "Action(s) initiated or orders passed",
+      "title": "Intimation under Regulation 30 (Para 20 of Part A of Schedule III)of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 Receipt of Property Tax Notice from BMC.",
+      "url": "https://nsearchives.nseindia.com/corporate/GOLDIAM_19092026105620_Regulation_30-BMC_Property_Tax_Demand.pdf"
+    },
+    {
+      "id": "fc2de89c9786b",
+      "ticker": "INDOFARM",
+      "company": "Indo Farm Equipment Limited",
+      "exchange": "NSE",
+      "date": "2026-09-19T10:06:22.000Z",
+      "category": "Credit Rating",
+      "title": "Indo Farm Equipment Limited has informed the Exchange about Credit Rating- Revision",
+      "url": "https://nsearchives.nseindia.com/corporate/IFEL_19092026100613_Intimation_of_Credit_Rating.pdf"
+    },
+    {
+      "id": "f03b2669d21a1",
+      "ticker": "MOBIKWIK",
+      "company": "One Mobikwik Systems Limited",
+      "exchange": "NSE",
+      "date": "2026-09-18T23:35:21.000Z",
+      "category": "Change in Directors",
+      "title": "One Mobikwik Systems Limited has informed the Exchange about Resignation of Director/KMP/SMP",
+      "url": "https://nsearchives.nseindia.com/corporate/MOBIKWIK_ROID_98622_KMP_Doc.zip"
+    },
     {
       "id": "fc9b33fe5fe42",
       "ticker": "MOBIKWIK",
@@ -1316,6 +1366,16 @@
       "category": "Newspaper Publication",
       "title": "Venus Remedies Limited has informed the Exchange about newspaper publication of notice to physical shareholders for transfer of physical shares as per SEBI circular.",
       "url": "https://nsearchives.nseindia.com/corporate/VENUSREM_09092026172536_newspaperpublication9SEP_1_.pdf"
+    },
+    {
+      "id": "f0694674aa17d",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "exchange": "NSE",
+      "date": "2026-09-09T15:47:00.000Z",
+      "category": "Change in Directors",
+      "title": "Meesho Limited has informed the Exchange about change in Senior Management Personnel.",
+      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_09092026154631_MLIntimationChangeinSMPPrasanna09Sep2026.pdf"
     },
     {
       "id": "f0fd07b04d847",
@@ -19946,66 +20006,6 @@
       "category": "Disclosure",
       "title": "Triveni Engineering & Industries Limited has informed the Exchange about General Updates",
       "url": "https://nsearchives.nseindia.com/corporate/TRIVENI_25062026193036_Intimation_In_Principle_approval.pdf"
-    },
-    {
-      "id": "fa8250e60363d",
-      "ticker": "RPSGVENT",
-      "company": "RPSG VENTURES LIMITED",
-      "exchange": "NSE",
-      "date": "2026-06-25T18:49:43.000Z",
-      "category": "Acquisition",
-      "title": "RPSG VENTURES LIMITED has informed the Exchange about Acquisition",
-      "url": "https://nsearchives.nseindia.com/corporate/RPSGVENT_25062026184907_Outcome_RVL_25062026.pdf"
-    },
-    {
-      "id": "f7a8d69faf5db",
-      "ticker": "RPSGVENT",
-      "company": "RPSG VENTURES LIMITED",
-      "exchange": "NSE",
-      "date": "2026-06-25T18:49:43.000Z",
-      "category": "Acquisition",
-      "title": "RPSG VENTURES LIMITED has informed the Exchange about Scheme of Arrangement",
-      "url": "https://nsearchives.nseindia.com/corporate/RPSGVENT_25062026184918_Outcome_RVL_25062026.pdf"
-    },
-    {
-      "id": "ff3d7037bfc7f",
-      "ticker": "SONACOMS",
-      "company": "Sona BLW Precision Forgings Limited",
-      "exchange": "NSE",
-      "date": "2026-06-25T18:47:03.000Z",
-      "category": "Credit Rating",
-      "title": "Sona Blw Precision Forgings Limited has informed the Exchange about Credit Rating",
-      "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_25062026184609_Intimationcreditrating.pdf"
-    },
-    {
-      "id": "f587dd834dc9d",
-      "ticker": "RPSGVENT",
-      "company": "RPSG VENTURES LIMITED",
-      "exchange": "NSE",
-      "date": "2026-06-25T18:43:33.000Z",
-      "category": "Board Meeting",
-      "title": "RPSG VENTURES LIMITED has informed the Exchange regarding Outcome of Board Meeting held on Jun 25, 2026 for approval of Acquisition and Composite Scheme of Arrangement.",
-      "url": "https://nsearchives.nseindia.com/corporate/RPSGVENT_25062026184250_Outcome_RVL_25062026.pdf"
-    },
-    {
-      "id": "f0373a48a03df",
-      "ticker": "GULFOILLUB",
-      "company": "Gulf Oil Lubricants India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-25T18:28:23.000Z",
-      "category": "Newspaper Publication",
-      "title": "We enclose herewith the newspaper cuttings of Business Standard (English) and Sakal (Marathi) wherein notice is published to the shareholders of the Company today viz. June 25, 2026 informing them about the upcoming transfer of Equity Shares to IEPF.",
-      "url": "https://nsearchives.nseindia.com/corporate/GULFOILLUB_25062026182754_NewspaperPublicationIEPFjune252026.pdf"
-    },
-    {
-      "id": "ff425fc510899",
-      "ticker": "GULFOILLUB",
-      "company": "Gulf Oil Lubricants India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-25T18:13:28.000Z",
-      "category": "Trading Window",
-      "title": "Gulf Oil Lubricants India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/GULFOILLUB_25062026181215_TWCJune2026.pdf"
     }
   ]
 }
