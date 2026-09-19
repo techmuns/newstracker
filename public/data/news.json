@@ -1,31 +1,187 @@
 {
-  "generated_at": "2026-09-19T07:37:45.155Z",
+  "generated_at": "2026-09-19T17:36:54.264Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 105,
-    "watchlist": 646,
+    "portfolio": 104,
+    "watchlist": 650,
     "universe": 32,
-    "total": 678
+    "total": 682
   },
   "items": [
     {
-      "id": "ndbac1d406588",
+      "id": "n8f03f4fa38ae",
       "ticker": "MSECL",
       "company": "Monarch Surveyors and Engineering Consultants Ltd",
       "sector": "Services",
       "scope": [
         "watchlist"
       ],
-      "title": "Monarch Surveyors and Engineering Consultants receives Rs 2-cr work order | Capital Market News - Business Standard",
-      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-and-engineering-consultants-receives-rs-2-cr-work-order-126082200734_1.html",
+      "title": "Monarch Surveyors and Engineering gains on bagging Rs 2-cr work order | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/markets/capital-market-news/monarch-surveyors-and-engineering-gains-on-bagging-rs-2-cr-work-order-126082400282_1.html",
       "source": "business-standard.com",
-      "date": "2026-09-19T07:35:52.350Z",
+      "date": "2026-09-19T17:28:32.495Z",
       "topic": "Orders",
       "keyword": "Order",
       "importance": "low",
       "mood": "positive",
-      "takeaway": "Monarch Surveyors received a Rs 2 crore work order.",
+      "takeaway": "Monarch Surveyors won a Rs 2 crore work order.",
       "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "n49783e2c392d",
+      "ticker": "TRIVENI",
+      "company": "Triveni Engineering & Industries Limited",
+      "sector": "Fast Moving Consumer Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Triveni Engineering to Host Q1 FY27 Earnings Call on July 30 at 12 PM IST",
+      "url": "https://scanx.trade/stock-market-news/companies/triveni-engineering-to-host-q1-fy27-earnings-call-on-july-30/46269849",
+      "source": "scanx.trade",
+      "date": "2026-09-19T17:27:41.480Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Triveni Engineering scheduled Q1 FY27 earnings call for July 30.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nebe037b8a3db",
+      "ticker": "SHIPROCKET",
+      "company": "Shiprocket Limited",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Shiprocket Q1 FY2027: Core profits hold up as Emerging scales faster",
+      "url": "https://www.multibagg.ai/market-pulse/articles/shiprocket-q1fy27-1140357954",
+      "source": "multibagg.ai",
+      "date": "2026-09-19T17:27:25.359Z",
+      "topic": "Money",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Shiprocket Q1 FY27 results show stable core profits with faster emerging segment growth.",
+      "enriched": true
+    },
+    {
+      "id": "nb16a0df55c15",
+      "ticker": "SBIFUNDS",
+      "company": "SBI Funds Management Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "SBI Mutual Fund Crosses 5% Stake In Tech Mahindra | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/technology/SBI-Mutual-Fund-Crosses-5percent-Stake-In-Tech-Mahindra/6aae5529f2017017ae6deb98",
+      "source": "whalesbook.com",
+      "date": "2026-09-19T17:26:53.602Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "SBI Mutual Fund crossed 5% stake in Tech Mahindra.",
+      "enriched": true
+    },
+    {
+      "id": "nd27496f10d8e",
+      "ticker": "PERMAGN",
+      "company": "Permanent Magnets Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Permanent Magnets Q1 FY27 board meet on Aug 4, 2026 | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/permanent-magnets-q1fy27-board-meeting-cmsemrbpk61980zldr534xcwf",
+      "source": "multibagg.ai",
+      "date": "2026-09-19T17:26:41.528Z",
+      "topic": "Money",
+      "keyword": "Approval",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Permanent Magnets scheduled Q1 FY27 board meeting for August 4.",
+      "enriched": true
+    },
+    {
+      "id": "n4ddbe4153303",
+      "ticker": "IKS",
+      "company": "Inventurus Knowledge Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Inventurus Knowledge Solutions Ltd Finalizes Financing for TruBridge Acquisition | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/bankingfinance/Inventurus-Knowledge-Solutions-Ltd-Finalizes-Financing-for-TruBridge-Acquisition/6a70d0d410bce1fd203ae7e6",
+      "source": "whalesbook.com",
+      "date": "2026-09-19T17:25:40.558Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Inventurus secures financing to complete TruBridge acquisition.",
+      "enriched": true
+    },
+    {
+      "id": "nde77e6125524",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "DEE Development Engineers Secures INR 36 Crore Order from Reliance Industries - Asia Pacific | Energetica India Magazine",
+      "url": "https://www.energetica-india.net/news/dee-development-engineers-secures-inr-36-crore-order-from-reliance-industries-",
+      "source": "energetica-india.net",
+      "date": "2026-09-19T17:24:46.272Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "DEE Development Engineers wins Rs 36 crore order from Reliance Industries.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n9a849a598dfc",
+      "ticker": "CURRENT",
+      "company": "Current Infraprojects Limited",
+      "sector": "Construction",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Current Infraprojects Limited Secures Rs 10.42 Cr Order from Bank Note Press, Dewas for 3 MW Rooftop Solar Project - PNN Digital",
+      "url": "https://pnndigital.com/business/current-infraprojects-limited-secures-rs-10-42-cr-order-from-bank-note-press-dewas-for-3-mw-rooftop-solar-project/",
+      "source": "pnndigital.com",
+      "date": "2026-09-19T17:24:46.096Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Current Infraprojects bags Rs 10.42 crore order for 3 MW rooftop solar project from Bank Note Press, Dewas.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "n552bdcdb9d26",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
+      "scope": [
+        "universe"
+      ],
+      "title": "Aurobindo Pharma Gets US FDA Approval for Asthma Inhaler",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY2ppSFhPanpUQXNZY0R2ZGtmQU5JUTBOTWwtd2NKTGVhU2w1eElWajVDLU9pOXkwMGFPcl9aYmdqaWI1OTlGYUt6Y19kWkY1YzNOVEp6dnlVakxpbGhaQzEwSzBMUjdlbFJNb2JCQjFKVm05VzhtS1RhZXlUNkRaVXh6SVFjUFVYUm9DUWRQenpDdFZwVnc?oc=5",
+      "source": "The Indian Practitioner",
+      "date": "2026-09-19T12:28:07.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Aurobindo Pharma received US FDA approval for an asthma inhaler product.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -68,43 +224,22 @@
       "enriched": true
     },
     {
-      "id": "nbe6f14a3faf6",
-      "ticker": "CURRENT",
-      "company": "Current Infraprojects Limited",
-      "sector": "Construction",
+      "id": "n4ea58ce07224",
+      "ticker": "MOBIKWIK",
+      "company": "One Mobikwik Systems Limited",
+      "sector": "Financial Services",
       "scope": [
         "watchlist"
       ],
-      "title": "Current Infraprojects Secures Rs 10.42 Cr Bank Note Press Solar Order – Outlook Business",
-      "url": "https://www.outlookbusiness.com/spotlight/news-wire/current-infraprojects-secures-rs-10-42-cr-bank-note-press-solar-order",
-      "source": "outlookbusiness.com",
-      "date": "2026-09-19T07:32:03.261Z",
-      "topic": "Orders",
-      "keyword": "Order",
+      "title": "One Mobikwik accepts resignation of independent director Venkatesh",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRHhoblFiLVlDOUIzeGFsOU52Z2tnOGk0VkpYUV96eFQta01TU3E0T01GSDdSWXRIUmRocHhTWTNaR3UyektuYTFIb0RvZWVQeXdpZV9YeDJFeTNSejVVcFRfN2ppYmt5b0FYUF9MSDE0UFZTQVhBb21wQms4SDRSLWhZSGxoX0Z1bDJCcWU4WTZHM1FzSzM4YVNRT2hmS0VnckFKWXFvakNWbEdLZ2t1MkJNUlZqVUlKNVRXVA?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-09-18T23:47:28.000Z",
+      "topic": "Trouble",
+      "keyword": "Resignation",
       "importance": "low",
-      "mood": "positive",
-      "takeaway": "Current Infraprojects won a Rs 10.42 crore solar project order from Bank Note Press.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n22c980504bd4",
-      "ticker": "TANFACIND",
-      "company": "TANFAC Industries Ltd",
-      "sector": "Chemicals",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Anupam Rasayan: Completes ₹60.88 Crore Equity Share Acquisition in Tanfac | InvestyWise",
-      "url": "https://www.investywise.com/anupam-rasayan-india-ltd-acquisition-of-equity-shares-in-tanfac-industries/",
-      "source": "investywise.com",
-      "date": "2026-09-19T07:31:28.441Z",
-      "topic": "Deals",
-      "keyword": "Preferential Issue",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Anupam Rasayan acquired ₹60.88 crore worth of equity shares in Tanfac Industries.",
+      "mood": "neutral",
+      "takeaway": "Independent director Venkatesh resigned from One Mobikwik's board.",
       "sources_count": 2,
       "enriched": true
     },
@@ -243,26 +378,6 @@
       "enriched": true
     },
     {
-      "id": "nc1b05d714311",
-      "ticker": "MOBIKWIK",
-      "company": "One Mobikwik Systems Limited",
-      "sector": "Financial Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "One Mobikwik Systems announces resignation of Independent Director Raghu Ram Hiremagalur Venkatesh",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX18xMjZ5ekFDcEpaU3J0eEVnRUhYanRRMlRJeDdRcjNoS3k2MzdWckg1TnZLXzFUaUlwMDFOWFM1Y0hVdGRhaE1raDF2TjRzRG1DOGlxZWNGeGlIV293MEF3SGdkdGVXT3hYNXpWMFZXSEZfQkJnbm8tOC1ldC1jWDdrY2NXNlZOUDlIYi1pVGw1WVdLbmpka3hfWmVYQWFrWGxtV19iZGdsUDA1RUlkUGdoU2hKVVZubHpnejlQdmFhMVZEaU5nVjdHb2Z5WWhZ?oc=5",
-      "source": "Business Upturn",
-      "date": "2026-09-18T17:46:19.000Z",
-      "topic": "Trouble",
-      "keyword": "Resignation",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Independent Director Raghu Ram Hiremagalur Venkatesh has resigned from One Mobikwik Systems.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "n93b708a251dd",
       "ticker": "LAXMIDENTL",
       "company": "Laxmi Dental Limited",
@@ -342,6 +457,25 @@
       "enriched": true
     },
     {
+      "id": "n98894fa8729b",
+      "ticker": "HILINFRA",
+      "company": "Highway Infrastructure Limited",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Highway Infrastructure wins ₹220.66 cr UPEIDA toll order",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNckpObGtTWXMxVlBwZ3pPSGw4WGRzeHBtNjRKbkJNakdacE96b2hhWTc1S29MQ2ZqbHdlZnBZenBvY0lXNnZlbXRQcWFxYmJXaGtqQUR6QzVBTm84VzBObmVPWlNfZUd1RW54OEpuSEFQNkVlU0E1V0t3aW5iMlc1VVZ5TnRFSDdMWlhxX0JmMmttU0xidmxRZmlsUXNkblVVRkRkX2dSQkdKb2NydjNyTFh2UDNTX1p6ekhCck16ZGU4QnhzaXZrMTBCV0NnaTVHSWp0ZV93dw?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-09-18T06:09:04.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Highway Infrastructure won ₹220.66 crore toll order from UPEIDA.",
+      "enriched": true
+    },
+    {
       "id": "n9541a586e35a",
       "ticker": "UNIMECH",
       "company": "Unimech Aerospace and Manufacturing Limited",
@@ -358,7 +492,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Unimech Aerospace plans ₹750 crore fundraising via QIP to expand aerospace operations.",
-      "sources_count": 3,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -1016,7 +1150,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Avantel to merge with Imeds Global.",
-      "sources_count": 8,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -1037,25 +1171,6 @@
       "mood": "neutral",
       "takeaway": "Gulf Oil Lubricants' Company Secretary resigned.",
       "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "nc835d158a14e",
-      "ticker": "THEME",
-      "company": "Pharma Approvals",
-      "sector": "Healthcare",
-      "scope": [
-        "universe"
-      ],
-      "title": "Aurobindo Pharma Wins First Inhaler Approval, Faces Unit Audit",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQanluNGNvNUFRZnFVWTBSZFkyeXhTWmxWQ0QwRUh0ajIyLUU4a0hxQ1c1eWVCZDItRkd4WF9HQWRzYURTS2Fjb3RadGYyQ3N3QU9hQWEtdzVQWUI1MkFSUFpDbWFxNjE0dXZqajJfRDY3a2ZkWHRUYlBCMDdnemtqQURfNWNqOEVOQmxqWXhQcTFZS0NlbUdKOU1zV3NxT211Y1lnaHhOVHY1ejY1OEJXbnlJUVBxdWZ5YkUwQzdaUU40Tzd1T0cxZnU5MHh6QVZvc1RBMUhUcll1U3Vw?oc=5",
-      "source": "Whalesbook",
-      "date": "2026-09-16T02:09:27.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Aurobindo Pharma received first inhaler approval but faces unit audit.",
       "enriched": true
     },
     {
@@ -1329,7 +1444,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Aurobindo Pharma gets US FDA approval for Beclomethasone inhalation aerosol.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -1603,26 +1718,6 @@
       "enriched": true
     },
     {
-      "id": "n89f1b3a6c32d",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "DEE Development Engineers Bags ₹36 Cr Order from RIL",
-      "url": "https://hdfcsky.com/news/dee-development-engineers-bags-rs-36-cr-order-from-reliance-industries",
-      "source": "hdfcsky.com",
-      "date": "2026-09-13T17:37:00.008Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "DEE Development wins ₹36 crore order from Reliance Industries.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "n956f6fe7fe47",
       "ticker": "AURIONPRO",
       "company": "Aurionpro Solutions Limited",
@@ -1740,25 +1835,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Vivid Electromech plans 3x capacity expansion targeting 50% revenue from data centres in FY27.",
-      "enriched": true
-    },
-    {
-      "id": "n37ec8c8aa262",
-      "ticker": "AVANTEL",
-      "company": "Avantel Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Avantel schedules board meeting to approve Imeds Global merger",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUW1vXzhzb1FYSzNDdERCcV9kXzFvdFNxMWppS0Q5cWdzQVp4azkyanM3eVdJQndkbUZ0UTVtWjZYVmI4SU03WWhlMDBGOGVnbEdCTzhHMFYtNnlNVjVUSEN2eGVfNFI5RDlZd0h0YzVTVzNTYXg4YkZJem1pN1dpRl9ITjhJY0tVaWRoaU51WEtwNFhJTlo0T1F5aU1OeXRFdm9CWmpoaWVXLUFaNnVmaHdEUHpuYkk?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-09-12T15:02:02.000Z",
-      "topic": "Deals",
-      "keyword": "Merger",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Avantel board to meet to approve merger of wholly-owned subsidiary Imeds Global.",
       "enriched": true
     },
     {
@@ -2093,7 +2169,7 @@
       "mood": "positive",
       "takeaway": "Sapphire Foods and Devyani International filed for CCI approval for merger.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "na78dbee788d2",
@@ -4974,7 +5050,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Secured orders worth Rs 53.74 crore.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -6185,25 +6261,6 @@
       "enriched": true
     },
     {
-      "id": "n6e9964fb8ea7",
-      "ticker": "IKS",
-      "company": "Inventurus Knowledge Solutions Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Inventurus Knowledge Solutions shareholders approve pledge of subsidiary shares",
-      "url": "https://scanx.trade/stock-market-news/companies/inventurus-knowledge-solutions-shareholders-approve-pledge-of-subsidiary-shares/47671360",
-      "source": "scanx.trade",
-      "date": "2026-09-03T20:34:17.720Z",
-      "topic": "Other",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Inventurus shareholders approved pledging subsidiary shares for financing purposes.",
-      "enriched": true
-    },
-    {
       "id": "n89b4999aae19",
       "ticker": "IKS",
       "company": "Inventurus Knowledge Solutions Limited",
@@ -6221,6 +6278,25 @@
       "mood": "positive",
       "takeaway": "Inventurus acquired Arai Solutions for USD 1.15 million to expand capabilities.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n6e9964fb8ea7",
+      "ticker": "IKS",
+      "company": "Inventurus Knowledge Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Inventurus Knowledge Solutions shareholders approve pledge of subsidiary shares",
+      "url": "https://scanx.trade/stock-market-news/companies/inventurus-knowledge-solutions-shareholders-approve-pledge-of-subsidiary-shares/47671360",
+      "source": "scanx.trade",
+      "date": "2026-09-03T20:34:17.720Z",
+      "topic": "Other",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Inventurus shareholders approved pledging subsidiary shares for financing purposes.",
       "enriched": true
     },
     {
@@ -6686,6 +6762,25 @@
       "enriched": true
     },
     {
+      "id": "ne747ba94a8af",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "DEE Development Engineers logs ₹81.06 cr order inflow in July 2026",
+      "url": "https://scanx.trade/stock-market-news/companies/dee-development-engineers-logs-81-06-cr-order-inflow-in-july-2026/47884132",
+      "source": "scanx.trade",
+      "date": "2026-09-03T20:34:08.584Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "DEE Development Engineers received ₹81.06 crore in new orders during July 2026.",
+      "enriched": true
+    },
+    {
       "id": "nfcb55eb21523",
       "ticker": "DEEDEV",
       "company": "DEE Development Engineers Limited",
@@ -6721,25 +6816,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "DEE Development Engineers seeking global partner for joint venture in nuclear piping space.",
-      "enriched": true
-    },
-    {
-      "id": "ne747ba94a8af",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "DEE Development Engineers logs ₹81.06 cr order inflow in July 2026",
-      "url": "https://scanx.trade/stock-market-news/companies/dee-development-engineers-logs-81-06-cr-order-inflow-in-july-2026/47884132",
-      "source": "scanx.trade",
-      "date": "2026-09-03T20:34:08.584Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "DEE Development Engineers received ₹81.06 crore in new orders during July 2026.",
       "enriched": true
     },
     {
@@ -9371,6 +9447,26 @@
       "enriched": true
     },
     {
+      "id": "n4395d75c2024",
+      "ticker": "MTARTECH",
+      "company": "Mtar Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "MTAR Technologies Receives Amended Purchase Order",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcGJTa0tZSTB1dlB3Vm5wYWg1dzhSTkZXcUtXMHg0RnFSR1p3QzExTHBXMElSTFZLck04R2pVa2I0eWpheXduTVlFS2UxbGhaUUJERmRrVS1tWXBVQlVQMndUdzY3ZWNzd1FKV0tKR0p5cXZFM0RkTmVRbGtBR1VydkpBMENSZHEzUTR6VGkyRDdOZWFCaHU1Y08xQ2tMcWZUUkhwS0cyeERjeG9IUmVnUVZtZWxKSi1nYVRWRVpB?oc=5",
+      "source": "constructionworld.in",
+      "date": "2026-08-03T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "MTAR Technologies received an amended purchase order.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
       "id": "n23ba6579903c",
       "ticker": "CONCORDBIO",
       "company": "Concord Biotech Limited",
@@ -9486,6 +9582,25 @@
       "enriched": true
     },
     {
+      "id": "nc54465feba00",
+      "ticker": "TRIVENI",
+      "company": "Triveni Engineering & Industries Limited",
+      "sector": "Fast Moving Consumer Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Earnings Report: Triveni Engineering & Industries Limited Missed Revenue Estimates By 13%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CTVJQQVNNaElpaW5zbXgtWUVDbXRsb0lJYzEtR0xMV2VBQ0phVk5pNlFDVUZZckl0X0Rha0lpVWRoNHpyMms0ZF8wd2NLU3Z0c0V3eXIzNXU?oc=5",
+      "source": "webull.com",
+      "date": "2026-08-01T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "negative",
+      "takeaway": "Triveni Engineering missed revenue estimates by 13% in latest quarter.",
+      "enriched": true
+    },
+    {
       "id": "n39d22c238d28",
       "ticker": "STLTECH",
       "company": "Sterlite Technologies Limited",
@@ -9506,22 +9621,23 @@
       "enriched": true
     },
     {
-      "id": "nc54465feba00",
-      "ticker": "TRIVENI",
-      "company": "Triveni Engineering & Industries Limited",
-      "sector": "Fast Moving Consumer Goods",
+      "id": "na2295d35fee7",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
       "scope": [
-        "watchlist"
+        "universe"
       ],
-      "title": "Earnings Report: Triveni Engineering & Industries Limited Missed Revenue Estimates By 13%",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CTVJQQVNNaElpaW5zbXgtWUVDbXRsb0lJYzEtR0xMV2VBQ0phVk5pNlFDVUZZckl0X0Rha0lpVWRoNHpyMms0ZF8wd2NLU3Z0c0V3eXIzNXU?oc=5",
-      "source": "webull.com",
-      "date": "2026-08-01T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "negative",
-      "takeaway": "Triveni Engineering missed revenue estimates by 13% in latest quarter.",
+      "title": "Lupin Announces U.S. FDA Approval and Launch of Sugammadex Injection - Lupin | Press Release",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSFBhNjE2Mk5ITE5VV3V6cngzNi1pdENoeFlGRGtjcUNsbE1HY1RHLXQyZy16YXlVM3RRWkdLdkdPa05aeFVFaDBvWWNieWVWVzBydXVjQVVZeE9ONmxHeXhyLWR1Q2o3RkZzNU5ON0R2QWtXV0NjM1UySXF2bkxNWW1DUmpaUmJVYVRvYWRDOV9yWFZYb2NrWHJuRmdOR2d2ODVfbDllSllNZ2lhakEw?oc=5",
+      "source": "lupin.com",
+      "date": "2026-07-31T07:00:00.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Lupin receives U.S. FDA approval and launches Sugammadex Injection.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -9541,26 +9657,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Aurionpro wins ₹50 crore order from MMRDA for Mumbai Metro project.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "na2295d35fee7",
-      "ticker": "THEME",
-      "company": "Pharma Approvals",
-      "sector": "Healthcare",
-      "scope": [
-        "universe"
-      ],
-      "title": "Lupin Announces U.S. FDA Approval and Launch of Sugammadex Injection - Lupin | Press Release",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSFBhNjE2Mk5ITE5VV3V6cngzNi1pdENoeFlGRGtjcUNsbE1HY1RHLXQyZy16YXlVM3RRWkdLdkdPa05aeFVFaDBvWWNieWVWVzBydXVjQVVZeE9ONmxHeXhyLWR1Q2o3RkZzNU5ON0R2QWtXV0NjM1UySXF2bkxNWW1DUmpaUmJVYVRvYWRDOV9yWFZYb2NrWHJuRmdOR2d2ODVfbDllSllNZ2lhakEw?oc=5",
-      "source": "lupin.com",
-      "date": "2026-07-31T07:00:00.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Lupin receives U.S. FDA approval and launches Sugammadex Injection.",
       "sources_count": 2,
       "enriched": true
     },
@@ -9604,6 +9700,25 @@
       "enriched": true
     },
     {
+      "id": "n45dae976c63a",
+      "ticker": "TRIVENI",
+      "company": "Triveni Engineering & Industries Limited",
+      "sector": "Fast Moving Consumer Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Earnings call transcript: Triveni Engineering posts q1 fy 2027 profit rebound",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQkJtalIzQ2dlQUpIOEZ6SDNfTzV0U1EtazF1SmpHUXd4ZG9WMkJQdmpsMTd6UExrd3ZHZ3FWb19GTnZFekJnT0YzQUdnWFRCWTZpRXM5dkRna3R5MjY4eXJCNnprQUR5aUhMSU03bUhJWTI2czFCUWMyeFhqUWNxWHVkUmdOQ0F0ZDk2VTc0RGtJb19ETUthZEhlb3EzZUx5SVc0X1JSRUhBTmJCb0FzNkF2SDRjR0E1TDJoMmhxWkU0SW8wbkxFendCYUY?oc=5",
+      "source": "Investing.com",
+      "date": "2026-07-30T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Triveni Engineering reports profit rebound in Q1 FY2027.",
+      "enriched": true
+    },
+    {
       "id": "nb34aecb54ea5",
       "ticker": "MTARTECH",
       "company": "Mtar Technologies Limited",
@@ -9620,25 +9735,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "MTAR Tech's order book reached ₹3,100 crore with Q1 profit rising to ₹50.5 crore.",
-      "enriched": true
-    },
-    {
-      "id": "n545283026a8b",
-      "ticker": "MTARTECH",
-      "company": "Mtar Technologies Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "MTAR Technologies Amended Purchase Order Increases Value by USD 85.86 Million",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWTQzQTFGVTNKTmdJbXZ4OEZEYmpkTGZuX2xyRmRBVV9ZclhacjlKRGxHc3FvaW9fQm92dDJ3cjc5ZGlHckNTcFZybGtpNnRqNmstS05xQTd4bF9iOWdaTWdnN1E0V0tQM1luaThuMlFyLTV2RTBjZVhpZlUyQUhibUlR?oc=5",
-      "source": "InvestyWise",
-      "date": "2026-07-30T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "MTAR Technologies receives amended purchase order increasing value by USD 85.86 million.",
       "enriched": true
     },
     {
@@ -9734,25 +9830,6 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Tenneco Clean Air India schedules Q1 earnings call for August 6.",
-      "enriched": true
-    },
-    {
-      "id": "n45dae976c63a",
-      "ticker": "TRIVENI",
-      "company": "Triveni Engineering & Industries Limited",
-      "sector": "Fast Moving Consumer Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Earnings call transcript: Triveni Engineering posts q1 fy 2027 profit rebound",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQkJtalIzQ2dlQUpIOEZ6SDNfTzV0U1EtazF1SmpHUXd4ZG9WMkJQdmpsMTd6UExrd3ZHZ3FWb19GTnZFekJnT0YzQUdnWFRCWTZpRXM5dkRna3R5MjY4eXJCNnprQUR5aUhMSU03bUhJWTI2czFCUWMyeFhqUWNxWHVkUmdOQ0F0ZDk2VTc0RGtJb19ETUthZEhlb3EzZUx5SVc0X1JSRUhBTmJCb0FzNkF2SDRjR0E1TDJoMmhxWkU0SW8wbkxFendCYUY?oc=5",
-      "source": "Investing.com",
-      "date": "2026-07-30T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Triveni Engineering reports profit rebound in Q1 FY2027.",
       "enriched": true
     },
     {
@@ -10028,6 +10105,25 @@
       "enriched": true
     },
     {
+      "id": "n4436df7be080",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Surya Roshni wins Rs 68.11 crore order from undisclosed client for OCTG supply",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM1Exeld3X1h5WFZWWVJ5MEdSY2FtUlBSU0htbDVCc0xIdk9rMkoycElUNUJ3MzhSMXRKZUk2YWxKRTdxV3N3YzBaby1xaGt5Qmg3S3dHVHl1NjV0V1N4dmtPamdraDNOdXl6MHJEV0xUYnd3WEFMOEJqTUJjNk42by15Qkd1UENEZzdWMVZLLUpsX2RtVl9Lc21iVW90ejZBVVJiNWhiT3hzZFg0SzBLTk1zOEZEeXZHdDh0dldJUFZ0dERTQW9LV2hHQXdIWFlT?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-07-24T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Surya Roshni secured ₹68.11 crore order for OCTG supply.",
+      "enriched": true
+    },
+    {
       "id": "n1e1fffd69b25",
       "ticker": "ZENTEC",
       "company": "Zen Technologies Limited",
@@ -10083,25 +10179,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Sterlite Technologies posted record Q1 FY27 results with strong performance.",
-      "enriched": true
-    },
-    {
-      "id": "n4436df7be080",
-      "ticker": "SURYAROSNI",
-      "company": "Surya Roshni Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Surya Roshni wins Rs 68.11 crore order from undisclosed client for OCTG supply",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM1Exeld3X1h5WFZWWVJ5MEdSY2FtUlBSU0htbDVCc0xIdk9rMkoycElUNUJ3MzhSMXRKZUk2YWxKRTdxV3N3YzBaby1xaGt5Qmg3S3dHVHl1NjV0V1N4dmtPamdraDNOdXl6MHJEV0xUYnd3WEFMOEJqTUJjNk42by15Qkd1UENEZzdWMVZLLUpsX2RtVl9Lc21iVW90ejZBVVJiNWhiT3hzZFg0SzBLTk1zOEZEeXZHdDh0dldJUFZ0dERTQW9LV2hHQXdIWFlT?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-07-24T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Surya Roshni secured ₹68.11 crore order for OCTG supply.",
       "enriched": true
     },
     {
@@ -10595,6 +10672,83 @@
       "sources_count": 2
     },
     {
+      "id": "n88fb1944c827",
+      "ticker": "TRIVENI",
+      "company": "Triveni Engineering & Industries Limited",
+      "sector": "Fast Moving Consumer Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "TRIVENI Mar 2026 Earnings: Solid Performance Anchored by Sugar and Engineering Segments - Earnings Turnaround",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWTZUQ3FsZHliak8xRm9JTXdkeUxBREdOaTdvRkhqZjFyaDNfam5RRFRpRVNmemV2SlQxVk9aOGJNQlBsdkh0TDlKd0FMSUVrb21XeUpWZVRTeXFfSkF2b0k1UjVxcXpBeTBNWnZYTl9qZzhndF94a2F1bU5vSnAxSWJrWU1QQVZZanJUWDlSbzU0UWxyUjdPbUVQMnRMQ2xrTmRnTFRnb0didG5TUzF5NDhFcERnTm40LWZ4TE9nSGFaeUJkUkZV?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-11T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Triveni Engineering reported solid March 2026 results driven by strong sugar and engineering segment performance.",
+      "enriched": true
+    },
+    {
+      "id": "nd11101502750",
+      "ticker": "TRIVENI",
+      "company": "Triveni Engineering & Industries Limited",
+      "sector": "Fast Moving Consumer Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "TRIVENI.NS Mar 2026 Earnings: Robust Revenue and Margin Performance Amid Agricultural Sector Momentum",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaHBxYWE1enE3TTZzOTdxVU4xV0E0aGRXaTkyOGEzdDlqc05tOVRwc003OFFFcmZCWGFRcDRvek5rdDBpbkIwczhxX3ZmeGZuWXVaOVNlY2lSV2lraDAyR010MlZRUU5xa01zTDRMQmRaVHNpdG0zY1hEU3VraGVmckFjMXYxWEduQnl2aURNVkdpN0pMR1draEZEN240WFVBLXkyVXVrdmtNWTg2NmtKckt6VnFjYzJReFIwMTBIeGpUZ2NUcTNvQzNUejR4M3l1Mm1OWFZOWnQ?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-11T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Triveni Engineering reported strong revenue and margin performance in March 2026 quarter.",
+      "enriched": true
+    },
+    {
+      "id": "n028b0769b644",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Surya Roshni Ltd secures export order",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VdXA1ZGtZaVlrYXk5QV9GbXd0cnEyTWdhcXVPanRRR2NPSEtSY2F0VjZkVXdGb2ctMFk2TzBtTXBHY0NtYTZVZ3dSNkhaX0s1aFlnUVJWV21TdmozWDI0?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-07-11T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Surya Roshni secured an export order.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n9a71b5d4ffab",
+      "ticker": "SBIFUNDS",
+      "company": "SBI Funds Management Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "SBI Funds IPO: State Bank Of India Cuts OFS Stake Sale To 4.89%",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWFl5a2lQeU5yTnExX2Z0dDdwUjBZcmJ2ejR0U0F2WERWY2c1UHdhMlJmZTJiczFpTlBjNUwxX0x3WWQ3eTVxZkxwX3dwdjhkN1VGOFVrNzNKRDRVNjJpWjJfVjBfN0ppZEdSeG1YeEFmMUhFTUVvWEdXMnBYUUpHSTJKRDlqRmh6NGFZVHljVmhLNU9jVEVsS2dkYTUweFBabnhKWXpRYThrSW5nYkRZQk5SWdIBuwFBVV95cUxNT2lxQVlWUDVDQ3NHQVZwOFMzRElhcDRPNUFkaDFTVUVMejNYb0stUDNkX1YzdWJCRE9PcHJjT2U5Nkg2Z0lNc2hEZGpfM181cVVESVcxYzNkRExkZUtsbzlGeF9pdzBJZGUxaFk3dHlzWEZ6aFdOcnB0WnpobWY0WjNqdGxHSGdWeGRxcW80THJBRS0tSjU1YVNJQl9maHZRVkR4SHJ0a2FXUlptV2N5ZVNWMVVqZURtRTZn?oc=5",
+      "source": "ndtvprofit.com",
+      "date": "2026-07-11T07:00:00.000Z",
+      "topic": "Deals",
+      "keyword": "Stake sale",
+      "importance": "high",
+      "mood": "neutral",
+      "takeaway": "State Bank of India reduced its stake sale in SBI Funds Management IPO to 4.89%.",
+      "enriched": true
+    },
+    {
       "id": "n9788241ff7a2",
       "ticker": "UNIMECH",
       "company": "Unimech Aerospace and Manufacturing Limited",
@@ -10673,25 +10827,6 @@
       "enriched": true
     },
     {
-      "id": "n9a71b5d4ffab",
-      "ticker": "SBIFUNDS",
-      "company": "SBI Funds Management Limited",
-      "sector": "Financial Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "SBI Funds IPO: State Bank Of India Cuts OFS Stake Sale To 4.89%",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWFl5a2lQeU5yTnExX2Z0dDdwUjBZcmJ2ejR0U0F2WERWY2c1UHdhMlJmZTJiczFpTlBjNUwxX0x3WWQ3eTVxZkxwX3dwdjhkN1VGOFVrNzNKRDRVNjJpWjJfVjBfN0ppZEdSeG1YeEFmMUhFTUVvWEdXMnBYUUpHSTJKRDlqRmh6NGFZVHljVmhLNU9jVEVsS2dkYTUweFBabnhKWXpRYThrSW5nYkRZQk5SWdIBuwFBVV95cUxNT2lxQVlWUDVDQ3NHQVZwOFMzRElhcDRPNUFkaDFTVUVMejNYb0stUDNkX1YzdWJCRE9PcHJjT2U5Nkg2Z0lNc2hEZGpfM181cVVESVcxYzNkRExkZUtsbzlGeF9pdzBJZGUxaFk3dHlzWEZ6aFdOcnB0WnpobWY0WjNqdGxHSGdWeGRxcW80THJBRS0tSjU1YVNJQl9maHZRVkR4SHJ0a2FXUlptV2N5ZVNWMVVqZURtRTZn?oc=5",
-      "source": "ndtvprofit.com",
-      "date": "2026-07-11T07:00:00.000Z",
-      "topic": "Deals",
-      "keyword": "Stake sale",
-      "importance": "high",
-      "mood": "neutral",
-      "takeaway": "State Bank of India reduced its stake sale in SBI Funds Management IPO to 4.89%.",
-      "enriched": true
-    },
-    {
       "id": "n42bec2016ad9",
       "ticker": "SURYAROSNI",
       "company": "Surya Roshni Limited",
@@ -10751,44 +10886,6 @@
       "enriched": true
     },
     {
-      "id": "n88fb1944c827",
-      "ticker": "TRIVENI",
-      "company": "Triveni Engineering & Industries Limited",
-      "sector": "Fast Moving Consumer Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "TRIVENI Mar 2026 Earnings: Solid Performance Anchored by Sugar and Engineering Segments - Earnings Turnaround",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWTZUQ3FsZHliak8xRm9JTXdkeUxBREdOaTdvRkhqZjFyaDNfam5RRFRpRVNmemV2SlQxVk9aOGJNQlBsdkh0TDlKd0FMSUVrb21XeUpWZVRTeXFfSkF2b0k1UjVxcXpBeTBNWnZYTl9qZzhndF94a2F1bU5vSnAxSWJrWU1QQVZZanJUWDlSbzU0UWxyUjdPbUVQMnRMQ2xrTmRnTFRnb0didG5TUzF5NDhFcERnTm40LWZ4TE9nSGFaeUJkUkZV?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-11T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Triveni Engineering reported solid March 2026 results driven by strong sugar and engineering segment performance.",
-      "enriched": true
-    },
-    {
-      "id": "nd11101502750",
-      "ticker": "TRIVENI",
-      "company": "Triveni Engineering & Industries Limited",
-      "sector": "Fast Moving Consumer Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "TRIVENI.NS Mar 2026 Earnings: Robust Revenue and Margin Performance Amid Agricultural Sector Momentum",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaHBxYWE1enE3TTZzOTdxVU4xV0E0aGRXaTkyOGEzdDlqc05tOVRwc003OFFFcmZCWGFRcDRvek5rdDBpbkIwczhxX3ZmeGZuWXVaOVNlY2lSV2lraDAyR010MlZRUU5xa01zTDRMQmRaVHNpdG0zY1hEU3VraGVmckFjMXYxWEduQnl2aURNVkdpN0pMR1draEZEN240WFVBLXkyVXVrdmtNWTg2NmtKckt6VnFjYzJReFIwMTBIeGpUZ2NUcTNvQzNUejR4M3l1Mm1OWFZOWnQ?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-11T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Triveni Engineering reported strong revenue and margin performance in March 2026 quarter.",
-      "enriched": true
-    },
-    {
       "id": "n7cef23686e89",
       "ticker": "VBL",
       "company": "Varun Beverages Limited",
@@ -10808,23 +10905,22 @@
       "enriched": true
     },
     {
-      "id": "n028b0769b644",
-      "ticker": "SURYAROSNI",
-      "company": "Surya Roshni Limited",
-      "sector": "Capital Goods",
+      "id": "nc5056ce358ae",
+      "ticker": "IKS",
+      "company": "Inventurus Knowledge Solutions Limited",
+      "sector": "Information Technology",
       "scope": [
         "watchlist"
       ],
-      "title": "Surya Roshni Ltd secures export order",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VdXA1ZGtZaVlrYXk5QV9GbXd0cnEyTWdhcXVPanRRR2NPSEtSY2F0VjZkVXdGb2ctMFk2TzBtTXBHY0NtYTZVZ3dSNkhaX0s1aFlnUVJWV21TdmozWDI0?oc=5",
-      "source": "EquityBulls",
-      "date": "2026-07-11T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
+      "title": "Inventurus Knowledge Solutions Finalises ₹4,650 Cr TruBridge Acquisition",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWS1iOHRsM2lWdVVIN1FFbmhWX01oQUd0Snl4UEU5Z1MwWkhzYnNTNXhfQXNDb25ZcFdjS1cza2hmdm5vLUVYc25MTm1IYkZ3RzVDSnV2MWhoS2E2R2Y2YVBaazZZaERWVGwwMEZQRXFjV1RqTWp4dnRfcVlWaHdXTm9xYk4zeF9uMkZvMk5rUjBRRnBfZ2ttRGx3?oc=5",
+      "source": "Trade Brains",
+      "date": "2026-07-10T07:00:00.000Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
       "mood": "positive",
-      "takeaway": "Surya Roshni secured an export order.",
-      "sources_count": 2,
+      "takeaway": "Inventurus finalizes ₹4,650 crore acquisition of TruBridge, a significant expansion move.",
       "enriched": true
     },
     {
@@ -10907,25 +11003,6 @@
       "enriched": true
     },
     {
-      "id": "nc5056ce358ae",
-      "ticker": "IKS",
-      "company": "Inventurus Knowledge Solutions Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Inventurus Knowledge Solutions Finalises ₹4,650 Cr TruBridge Acquisition",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWS1iOHRsM2lWdVVIN1FFbmhWX01oQUd0Snl4UEU5Z1MwWkhzYnNTNXhfQXNDb25ZcFdjS1cza2hmdm5vLUVYc25MTm1IYkZ3RzVDSnV2MWhoS2E2R2Y2YVBaazZZaERWVGwwMEZQRXFjV1RqTWp4dnRfcVlWaHdXTm9xYk4zeF9uMkZvMk5rUjBRRnBfZ2ttRGx3?oc=5",
-      "source": "Trade Brains",
-      "date": "2026-07-10T07:00:00.000Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Inventurus finalizes ₹4,650 crore acquisition of TruBridge, a significant expansion move.",
-      "enriched": true
-    },
-    {
       "id": "n0b03ce67c7e2",
       "ticker": "DIXON",
       "company": "Dixon Technologies (India) Limited",
@@ -10984,6 +11061,26 @@
       "mood": "positive",
       "takeaway": "Solar Industries reports strong Q2 revenue growth of 30% driven by demand across all business segments.",
       "enriched": true
+    },
+    {
+      "id": "n9a396e039fce",
+      "ticker": "IKS",
+      "company": "Inventurus Knowledge Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "IKS Health Completes Acquisition of TruBridge",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZWNfRF94VktscFozY3BkeHQ3R2Jhc1dTQmV0bWdORUEtWGhyQ3REblI3dUU0SEw1bHQwMDgtaElSWXl4QW82all2NUNmV1U1ZEtmejN5M0EwbzI1SlFKOW9EUU5adU5weVdZSFRiME1HbGR4aUdjSHNLNFB1ZnlEUVNNRE5ITVI3SmF4QUlZUHdMVmI0RUhEY1lKc2pYZlpXTjBabA?oc=5",
+      "source": "Business Wire",
+      "date": "2026-07-09T07:00:00.000Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Inventurus Knowledge Solutions completed acquisition of TruBridge.",
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n61da6444d22d",
@@ -11045,26 +11142,6 @@
       "sources_count": 2
     },
     {
-      "id": "n9a396e039fce",
-      "ticker": "IKS",
-      "company": "Inventurus Knowledge Solutions Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "IKS Health Completes Acquisition of TruBridge",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZWNfRF94VktscFozY3BkeHQ3R2Jhc1dTQmV0bWdORUEtWGhyQ3REblI3dUU0SEw1bHQwMDgtaElSWXl4QW82all2NUNmV1U1ZEtmejN5M0EwbzI1SlFKOW9EUU5adU5weVdZSFRiME1HbGR4aUdjSHNLNFB1ZnlEUVNNRE5ITVI3SmF4QUlZUHdMVmI0RUhEY1lKc2pYZlpXTjBabA?oc=5",
-      "source": "Business Wire",
-      "date": "2026-07-09T07:00:00.000Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Inventurus Knowledge Solutions completed acquisition of TruBridge.",
-      "enriched": true,
-      "sources_count": 2
-    },
-    {
       "id": "n382e4e66c126",
       "ticker": "SHADOWFAX",
       "company": "Shadowfax Technologies Limited",
@@ -11106,6 +11183,25 @@
       "enriched": true
     },
     {
+      "id": "n3f652a82b0e2",
+      "ticker": "SBIFUNDS",
+      "company": "SBI Funds Management Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "SBI Funds Management IPO Opens July 14, 10% Stake Sale Planned",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOck5FamNNUl9HRUEyTXVFVURDMXlhREZGY3ZrZjZQcFE3dXRnU0c3cEI5bnNuUzNCY0tkMmg0dUoySFFMaFFISVNENzN4QS03SnFaX3Jhc1QxelpLT21rQTZfdG1yV0ZmQ3Jua2Rwd0pEb3FsZ3QyQzNnY2JfWFN0RVhJVnoxYmdVR0JvMzladWVYbTEyTmVuQWw4QzVUYWdlSUVIMFFqU2VvS2JpSWljTVZVSXQxSGhHMkZNUGtIYkpUU1VheE9TQVRlWWNoLWRBX05mcjhXZWl5c0JpT3otdQ?oc=5",
+      "source": "Whalesbook",
+      "date": "2026-07-08T07:00:00.000Z",
+      "topic": "Deals",
+      "keyword": "Stake sale",
+      "importance": "high",
+      "mood": "neutral",
+      "takeaway": "SBI Funds Management IPO opens July 14 with 10% stake sale planned.",
+      "enriched": true
+    },
+    {
       "id": "n47ad2473c5a5",
       "ticker": "VBL",
       "company": "Varun Beverages Limited",
@@ -11141,25 +11237,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Advait Energy Transitions secures Rs 51.62 crore order from DGVCL.",
-      "enriched": true
-    },
-    {
-      "id": "n3f652a82b0e2",
-      "ticker": "SBIFUNDS",
-      "company": "SBI Funds Management Limited",
-      "sector": "Financial Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "SBI Funds Management IPO Opens July 14, 10% Stake Sale Planned",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOck5FamNNUl9HRUEyTXVFVURDMXlhREZGY3ZrZjZQcFE3dXRnU0c3cEI5bnNuUzNCY0tkMmg0dUoySFFMaFFISVNENzN4QS03SnFaX3Jhc1QxelpLT21rQTZfdG1yV0ZmQ3Jua2Rwd0pEb3FsZ3QyQzNnY2JfWFN0RVhJVnoxYmdVR0JvMzladWVYbTEyTmVuQWw4QzVUYWdlSUVIMFFqU2VvS2JpSWljTVZVSXQxSGhHMkZNUGtIYkpUU1VheE9TQVRlWWNoLWRBX05mcjhXZWl5c0JpT3otdQ?oc=5",
-      "source": "Whalesbook",
-      "date": "2026-07-08T07:00:00.000Z",
-      "topic": "Deals",
-      "keyword": "Stake sale",
-      "importance": "high",
-      "mood": "neutral",
-      "takeaway": "SBI Funds Management IPO opens July 14 with 10% stake sale planned.",
       "enriched": true
     },
     {
