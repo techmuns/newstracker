@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T08:19:00.008Z",
+  "generated_at": "2026-09-21T19:49:02.170Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,216 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f92aa26f86abd",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "exchange": "NSE",
+      "date": "2026-09-21T22:56:45.000Z",
+      "category": "ESOP/ESOS/ESPS",
+      "title": "Meesho Limited has informed the Exchange regarding Allotment of 1071542 Shares.",
+      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_21092026225556_MLIntimationAllotmentofESOPs21Sep2026.pdf"
+    },
+    {
+      "id": "f78e3ce920d72",
+      "ticker": "ESDS",
+      "company": "ESDS Software Solution Limited",
+      "exchange": "NSE",
+      "date": "2026-09-21T22:52:38.000Z",
+      "category": "Trading Window",
+      "title": "ESDS Software Solution Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/ESDS_21092026225221_ESDS_Window_Closure_BSE_NSE_Intimation.pdf"
+    },
+    {
+      "id": "f4b661fa1eb3b",
+      "ticker": "KPITTECH",
+      "company": "KPIT Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-09-21T21:51:30.000Z",
+      "category": "Investor Presentation",
+      "title": "KPIT Technologies Limited has informed the Exchange about Outcome",
+      "url": "https://nsearchives.nseindia.com/corporate/KPITTECH_21092026214925_KPIT_Anand_Rathi_outcome_signed.pdf"
+    },
+    {
+      "id": "ff43060aa28f7",
+      "ticker": "QUALIANCE",
+      "company": "Qualiance International Limited",
+      "exchange": "NSE",
+      "date": "2026-09-21T21:34:22.000Z",
+      "category": "Change in Directors",
+      "title": "Qualiance International Limited has informed the Exchange regarding Resignation of Mrs KRUPA RAJESH BADANI as Non- Executive Director of the company w.e.f. September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/QUALIANCE_21092026213354_Resignation_of_Krupa_-_NED.pdf"
+    },
+    {
+      "id": "f51cce6b45639",
+      "ticker": "QUALIANCE",
+      "company": "Qualiance International Limited",
+      "exchange": "NSE",
+      "date": "2026-09-21T21:14:00.000Z",
+      "category": "Change in Directors",
+      "title": "Qualiance International Limited has informed the Exchange about Resignation of Director/KMP/SMP",
+      "url": "https://nsearchives.nseindia.com/corporate/QUALIANCE_ROID_98719_KMP_Doc.zip"
+    },
+    {
+      "id": "f0aff2916d459",
+      "ticker": "QUALIANCE",
+      "company": "Qualiance International Limited",
+      "exchange": "NSE",
+      "date": "2026-09-21T21:07:57.000Z",
+      "category": "Change in Directors",
+      "title": "Qualiance International Limited has informed the Exchange regarding Cessation of Mrs Krupa Rajesh Badani as Non- Executive Director of the company w.e.f. September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/QUALIANCE_21092026210734_Resignation_of_Krupa_-_NED.pdf"
+    },
+    {
+      "id": "ff0ff79b242ca",
+      "ticker": "LUMINO",
+      "company": "Lumino Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-21T20:34:32.000Z",
+      "category": "Press Release",
+      "title": "Lumino Industries Limited has informed the Exchange regarding a press release dated September 21, 2026, titled \"Press Release on Financial Results for quarter ended June 30, 2026\".",
+      "url": "https://nsearchives.nseindia.com/corporate/LUMINO123_21092026203419_Reg30Intimation.pdf"
+    },
+    {
+      "id": "f23ba660facce",
+      "ticker": "LUMINO",
+      "company": "Lumino Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-21T20:10:09.000Z",
+      "category": "Board Meeting",
+      "title": "Lumino Industries Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/LUMINO123_21092026200757_Outcome_Results_June_26.pdf"
+    },
+    {
+      "id": "ffb93361e480f",
+      "ticker": "IKS",
+      "company": "Inventurus Knowledge Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-09-21T19:59:37.000Z",
+      "category": "Shareholders meeting",
+      "title": "Inventurus Knowledge Solutions Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 21, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/IKS2006_21092026195920_ProceedingsOfAGM21092026SEUPLOAD.pdf"
+    },
+    {
+      "id": "f5a7f54d61420",
+      "ticker": "PDSL",
+      "company": "PDS Limited",
+      "exchange": "NSE",
+      "date": "2026-09-21T18:52:54.000Z",
+      "category": "Disclosure",
+      "title": "PDS Limited has informed the Exchange about Update on Disinvestment",
+      "url": "https://nsearchives.nseindia.com/corporate/PDSL_21092026185247_Ltr_DivestDBS_21092026.pdf"
+    },
+    {
+      "id": "f9152ac3a48f2",
+      "ticker": "QUALIANCE",
+      "company": "Qualiance International Limited",
+      "exchange": "NSE",
+      "date": "2026-09-21T18:48:16.000Z",
+      "category": "Change in Directors",
+      "title": "Qualiance International Limited has informed the Exchange regarding Resignation of Mr Pradeep Prajapati as Company Secretary & Compliance Officer of the company w.e.f. October 20, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/QUALIANCE_21092026184701_Resignation_of_CS_-_Reg_30.pdf"
+    },
+    {
+      "id": "f3d5f9e265027",
+      "ticker": "TENNIND",
+      "company": "Tenneco Clean Air India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-21T18:38:14.000Z",
+      "category": "Investor Presentation",
+      "title": "Tenneco Clean Air India Limited is informing the Exchange about Schedule of investor meet",
+      "url": "https://nsearchives.nseindia.com/corporate/TENNECO_21092026183619_Intimation-_Investor_Meet.pdf"
+    },
+    {
+      "id": "fada94a9ebf68",
+      "ticker": "BLACKBUCK",
+      "company": "BLACKBUCK LIMITED",
+      "exchange": "NSE",
+      "date": "2026-09-21T18:04:33.000Z",
+      "category": "Amendment to AOA/MOA",
+      "title": "BLACKBUCK LIMITED has informed the Exchange regarding the Amendment to AOA/MOA of the company.",
+      "url": "https://nsearchives.nseindia.com/corporate/ZINKA2015_21092026180359_Announcement_under_Regulation_30.pdf"
+    },
+    {
+      "id": "f3e9b3a9dcf0c",
+      "ticker": "MOLDTKPAC",
+      "company": "Mold-Tek Packaging Limited",
+      "exchange": "NSE",
+      "date": "2026-09-21T18:02:50.000Z",
+      "category": "Shareholders meeting",
+      "title": "Mold-Tek Packaging Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 21, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/MOLDTKPAC_21092026180243_Proceedings.pdf"
+    },
+    {
+      "id": "f423fae6b0361",
+      "ticker": "BLACKBUCK",
+      "company": "BLACKBUCK LIMITED",
+      "exchange": "NSE",
+      "date": "2026-09-21T17:56:21.000Z",
+      "category": "Shareholders meeting",
+      "title": "BLACKBUCK LIMITED has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on September 18, 2026. Further, the company has informed the Exchange regarding voting results.",
+      "url": "https://nsearchives.nseindia.com/corporate/ZINKA2015_21092026175517_Intimation.pdf"
+    },
+    {
+      "id": "fc20c5685d597",
+      "ticker": "ANAWIL",
+      "company": "Anawil Wire and Engineering Limited",
+      "exchange": "NSE",
+      "date": "2026-09-21T17:32:44.000Z",
+      "category": "Investor Presentation",
+      "title": "Anawil Wire and Engineering Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/ANAWIL_21092026172934_Intimation.pdf"
+    },
+    {
+      "id": "f2560e0d4428f",
+      "ticker": "GROWW",
+      "company": "Billionbrains Garage Ventures Limited",
+      "exchange": "NSE",
+      "date": "2026-09-21T16:28:54.000Z",
+      "category": "Disclosure",
+      "title": "Sequoia Capital Global Growth Fund III U.S./India Annex Fund, L.P has submitted to the Exchange a copy of Disclosure Pursuant to Regulation 29(2) of the SEBI (SAST) Regulations 2011.",
+      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_21092026160559_GROWW29_1.pdf"
+    },
+    {
+      "id": "f044bf8d05969",
+      "ticker": "ADVAIT",
+      "company": "Advait Energy Transitions Limited",
+      "exchange": "NSE",
+      "date": "2026-09-21T16:23:20.000Z",
+      "category": "Shareholders meeting",
+      "title": "Advait Energy Transitions Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 21, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/ADVAITENERGY_21092026162302_Outcome_s.pdf"
+    },
+    {
+      "id": "fd29db2e490a4",
+      "ticker": "BLACKBUCK",
+      "company": "BLACKBUCK LIMITED",
+      "exchange": "NSE",
+      "date": "2026-09-21T15:53:44.000Z",
+      "category": "ESOP/ESOS/ESPS",
+      "title": "BLACKBUCK LIMITED has informed the Exchange regarding Allotment of 73550 Shares.",
+      "url": "https://nsearchives.nseindia.com/corporate/ZINKA2015_21092026155329_Intimation_ESOP_Allotment.pdf"
+    },
+    {
+      "id": "fa39eb01fa150",
+      "ticker": "URBANCO",
+      "company": "Urban Company Limited",
+      "exchange": "NSE",
+      "date": "2026-09-21T14:20:39.000Z",
+      "category": "Investor Presentation",
+      "title": "Urban Company Limited has informed the Exchange about Schedule of Analyst/ Investor Meeting to be held on September 29, 2026 and September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_21092026142031_Investor_Meeting_SE_Intimation_21092026_Cancellation_Intimation_.pdf"
+    },
+    {
+      "id": "fbeb2dcc56d3f",
+      "ticker": "CARTRADE",
+      "company": "Cartrade Tech Limited",
+      "exchange": "NSE",
+      "date": "2026-09-21T13:52:30.000Z",
+      "category": "Investor Presentation",
+      "title": "Cartrade Tech Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/CARTRADE_21092026135221_SE_Intimation-_Sep.pdf"
+    },
     {
       "id": "fd8fef1849630",
       "ticker": "SENORES",
@@ -19796,216 +20006,6 @@
       "category": "Trading Window",
       "title": "Concord Biotech Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
       "url": "https://nsearchives.nseindia.com/corporate/CONCORD_27062026110818_Concord_Intimation_Closure_of_Trading_window.pdf"
-    },
-    {
-      "id": "fb95140f10fd7",
-      "ticker": "EPIGRAL",
-      "company": "Epigral Limited",
-      "exchange": "NSE",
-      "date": "2026-06-27T10:16:27.000Z",
-      "category": "Trading Window",
-      "title": "Epigral Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/MFL_27062026101615_TWCI30062026.pdf"
-    },
-    {
-      "id": "fe3892c7fadc3",
-      "ticker": "URBANCO",
-      "company": "Urban Company Limited",
-      "exchange": "NSE",
-      "date": "2026-06-26T20:27:14.000Z",
-      "category": "Investor Presentation",
-      "title": "Urban Company Limited has informed the Exchange about Schedule of Analyst/ Investor Meeting to be held on June 30, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_26062026202555_Investor_Meeting_SE_Intimation_26062026.pdf"
-    },
-    {
-      "id": "fc6320bc171a0",
-      "ticker": "KPITTECH",
-      "company": "KPIT Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-06-26T20:03:26.000Z",
-      "category": "Trading Window",
-      "title": "KPIT Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/KPITTECH_26062026200258_TWC_June_30_2026.pdf"
-    },
-    {
-      "id": "fbf32e1f157fd",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-26T19:47:47.000Z",
-      "category": "Disclosure",
-      "title": "Sapphire Foods India Limited has informed the Exchange regarding 'Intimation of 17th Annual General Meeting (AGM) of the Company'.",
-      "url": "https://nsearchives.nseindia.com/corporate/SAPPHIRE_26062026194703_IntimationofAGMSFIL26062026.pdf"
-    },
-    {
-      "id": "fa4e03b861e7c",
-      "ticker": "KPITTECH",
-      "company": "KPIT Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-06-26T19:46:52.000Z",
-      "category": "Newspaper Publication",
-      "title": "KPIT Technologies Limited has informed the Exchange about Newspaper Advertisement & Communication to shareholders",
-      "url": "https://nsearchives.nseindia.com/corporate/KPITTECH_26062026194610_CovLetnewspaperJune26.pdf"
-    },
-    {
-      "id": "f3b162ca6a119",
-      "ticker": "SKYGOLD",
-      "company": "SKY GOLD AND DIAMONDS LIMITED",
-      "exchange": "NSE",
-      "date": "2026-06-26T19:04:45.000Z",
-      "category": "Shareholders meeting",
-      "title": "Scrutinizer's Report for the postal ballot notice dated 27th May 2026 and declaration of voting results as per SEBI (LODR) Regulations, 2015.",
-      "url": "https://nsearchives.nseindia.com/corporate/SKYGOLD_26062026190430_SR.pdf"
-    },
-    {
-      "id": "fb11f099e7b61",
-      "ticker": "MASFIN",
-      "company": "MAS Financial Services Limited",
-      "exchange": "NSE",
-      "date": "2026-06-26T19:02:00.000Z",
-      "category": "Trading Window",
-      "title": "MAS Financial Services Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/MASFIN_26062026190144_MFSLSECEQ2026_51_Window_Closure.pdf"
-    },
-    {
-      "id": "fa403fbb62b79",
-      "ticker": "UNIMECH",
-      "company": "Unimech Aerospace and Manufacturing Limited",
-      "exchange": "NSE",
-      "date": "2026-06-26T18:57:52.000Z",
-      "category": "Trading Window",
-      "title": "Unimech Aerospace and Manufacturing Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/UNIMECH_26062026185737_Trading_window_closure.pdf"
-    },
-    {
-      "id": "ff5f4ec65cc1a",
-      "ticker": "TENNIND",
-      "company": "Tenneco Clean Air India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-26T18:55:42.000Z",
-      "category": "Trading Window",
-      "title": "Tenneco Clean Air India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/TENNECO_26062026184111_Closure_of_Trading_Window-Tenneco_Clean_Air_Signed.pdf"
-    },
-    {
-      "id": "f88592b47d22f",
-      "ticker": "DYNAMATECH",
-      "company": "Dynamatic Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-06-26T18:44:41.000Z",
-      "category": "Trading Window",
-      "title": "Dynamatic Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/DYNAMATICH_26062026184432_Trading_Window_Closure_30062026.pdf"
-    },
-    {
-      "id": "fa171bf2514ad",
-      "ticker": "SAREGAMA",
-      "company": "Saregama India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-26T18:15:59.000Z",
-      "category": "Credit Rating",
-      "title": "Saregama India Limited has informed the Exchange about Credit Rating",
-      "url": "https://nsearchives.nseindia.com/corporate/SAREGAMA_26062026181537_intimationCreditrating.pdf"
-    },
-    {
-      "id": "f62052155d4b1",
-      "ticker": "DEVYANI",
-      "company": "Devyani International Limited",
-      "exchange": "NSE",
-      "date": "2026-06-26T17:57:21.000Z",
-      "category": "Trading Window",
-      "title": "Devyani International Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/DEVYANI_26062026175631_SE_Intimation_-_Trading_window_closure_DSC.pdf"
-    },
-    {
-      "id": "fd32e6ddec11a",
-      "ticker": "ACUTAAS",
-      "company": "Acutaas Chemicals Limited",
-      "exchange": "NSE",
-      "date": "2026-06-26T17:38:13.000Z",
-      "category": "Trading Window",
-      "title": "Acutaas Chemicals Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/AMIORG_26062026173741_ClosureofTWCswSIGNED.pdf"
-    },
-    {
-      "id": "fe4682cc2354b",
-      "ticker": "APTUS",
-      "company": "Aptus Value Housing Finance India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-26T17:22:26.000Z",
-      "category": "Allotment of Securities",
-      "title": "Aptus Value Housing Finance India Limited has informed the Exchange regarding allotment of 50000 securities pursuant to ESOP/ESPS at its meeting held on Jun 26, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/APTUS_26062026172200_ESOP_Intimation_sd.pdf"
-    },
-    {
-      "id": "fa27f07bfcc93",
-      "ticker": "APTUS",
-      "company": "Aptus Value Housing Finance India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-26T17:20:02.000Z",
-      "category": "Trading Window",
-      "title": "Aptus Value Housing Finance India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/APTUS_26062026171952_Closure_of_trading_window_Q1_2026_sd.pdf"
-    },
-    {
-      "id": "f5292c5ea2c80",
-      "ticker": "JUBLCPL",
-      "company": "Jubilant Agri and Consumer Products Limited",
-      "exchange": "NSE",
-      "date": "2026-06-26T16:50:10.000Z",
-      "category": "Trading Window",
-      "title": "Jubilant Agri and Consumer Products Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/JACPL_26062026164927_closureoftradingwindowsigned.pdf"
-    },
-    {
-      "id": "f3bff29027e54",
-      "ticker": "SUDEEPPHRM",
-      "company": "Sudeep Pharma Limited",
-      "exchange": "NSE",
-      "date": "2026-06-26T16:27:19.000Z",
-      "category": "Board Meeting",
-      "title": "Sudeep Pharma Limited has informed the Exchange regarding Outcome of Board Meeting held on Jun 26, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/SUDEEPPHARMALIMITED_26062026162700_Outcome_of_BM.pdf"
-    },
-    {
-      "id": "fa1c6a6d940f3",
-      "ticker": "SUDEEPPHRM",
-      "company": "Sudeep Pharma Limited",
-      "exchange": "NSE",
-      "date": "2026-06-26T16:16:59.000Z",
-      "category": "Change in Directors",
-      "title": "Sudeep Pharma Limited has informed the Exchange regarding Appointment of Mr. Milin Mehta as Other of the company w.e.f. Jun 26, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/SUDEEPPHARMALIMITED_26062026161637_Outcome_of_BM.pdf"
-    },
-    {
-      "id": "f828b12ef4959",
-      "ticker": "WOCKPHARMA",
-      "company": "Wockhardt Limited",
-      "exchange": "NSE",
-      "date": "2026-06-26T16:04:35.000Z",
-      "category": "Newspaper Publication",
-      "title": "Pursuant to Regulation 30 read with Schedule III part A para A of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we enclose herewith a copy of the newspaper advertisement published today i.e. 26th June, 2026, regarding the opening of special window for re-lodgment of the transfer requests of shares held in physical form",
-      "url": "https://nsearchives.nseindia.com/corporate/WOCKPHARMA_26062026160401_Relodgementreg30signed.pdf"
-    },
-    {
-      "id": "f915643a1ee85",
-      "ticker": "DENTA",
-      "company": "Denta Water and Infra Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-06-26T16:03:54.000Z",
-      "category": "Trading Window",
-      "title": "Denta Water and Infra Solutions Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/DENTA_26062026160343_Tradingwindow_closure_from_01_July_2026.pdf"
-    },
-    {
-      "id": "f14d15fea5522",
-      "ticker": "E2E",
-      "company": "E2E Networks Limited",
-      "exchange": "NSE",
-      "date": "2026-06-26T15:55:54.000Z",
-      "category": "Trading Window",
-      "title": "E2E Networks Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/E2E_26062026155529_Trading_Window_Closure01072026.pdf"
     }
   ]
 }
