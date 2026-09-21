@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T17:45:46.230Z",
+  "generated_at": "2026-09-21T08:19:00.008Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,46 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "fd8fef1849630",
+      "ticker": "SENORES",
+      "company": "Senores Pharmaceuticals Limited",
+      "exchange": "NSE",
+      "date": "2026-09-21T12:04:49.000Z",
+      "category": "Disclosure",
+      "title": "Senores Pharmaceuticals Limited has informed the Exchange about General Updates",
+      "url": "https://nsearchives.nseindia.com/corporate/SENORES_21092026120422_Intimation.pdf"
+    },
+    {
+      "id": "f80231b177edd",
+      "ticker": "HTEL",
+      "company": "Hy-Tech Engineers Limited",
+      "exchange": "NSE",
+      "date": "2026-09-21T09:22:08.000Z",
+      "category": "Investor Presentation",
+      "title": "Hy-Tech Engineers Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/HYTECH_21092026092158_Q1_Press_Release_Investor_Presentation.pdf"
+    },
+    {
+      "id": "fdaaf03cdb000",
+      "ticker": "HTEL",
+      "company": "Hy-Tech Engineers Limited",
+      "exchange": "NSE",
+      "date": "2026-09-21T09:17:30.000Z",
+      "category": "Press Release",
+      "title": "Hy-Tech Engineers Limited has informed the Exchange regarding a press release dated September 21, 2026, titled \"Press Release for the Unaudited Financial Results for the Quarter ended June 30, 2026.\".",
+      "url": "https://nsearchives.nseindia.com/corporate/HYTECH_21092026091648_Q1_Press_Release_Investor_Presentation.pdf"
+    },
+    {
+      "id": "fb73e1c2027b1",
+      "ticker": "URBANCO",
+      "company": "Urban Company Limited",
+      "exchange": "NSE",
+      "date": "2026-09-21T09:12:57.000Z",
+      "category": "Investor Presentation",
+      "title": "Urban Company Limited has informed the Exchange about Schedule of Analyst/ Investor Meeting to be held on September 21, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_21092026091243_Investor_Meeting_SE_Intimation_21092026.pdf"
+    },
     {
       "id": "f6d2d4de7faab",
       "ticker": "LENSKART",
@@ -19966,46 +20006,6 @@
       "category": "Trading Window",
       "title": "E2E Networks Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
       "url": "https://nsearchives.nseindia.com/corporate/E2E_26062026155529_Trading_Window_Closure01072026.pdf"
-    },
-    {
-      "id": "fa1a1fda91715",
-      "ticker": "SENORES",
-      "company": "Senores Pharmaceuticals Limited",
-      "exchange": "NSE",
-      "date": "2026-06-26T15:48:26.000Z",
-      "category": "Trading Window",
-      "title": "Senores Pharmaceuticals Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/SENORES_26062026154814_Intimationregardingclosureoftradingwindowsigned.pdf"
-    },
-    {
-      "id": "fe449473ab66b",
-      "ticker": "SAREGAMA",
-      "company": "Saregama India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-26T14:42:10.000Z",
-      "category": "Trading Window",
-      "title": "Saregama India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/SAREGAMA_26062026144148_CoveringLetterJune2026signed.pdf"
-    },
-    {
-      "id": "f7c3d3d174afc",
-      "ticker": "IKS",
-      "company": "Inventurus Knowledge Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-06-26T14:40:39.000Z",
-      "category": "Trading Window",
-      "title": "Inventurus Knowledge Solutions Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/IKS2006_26062026144020_20260626ClosureofTradingWindowJune2026.pdf"
-    },
-    {
-      "id": "f567caabb4753",
-      "ticker": "TRIVENI",
-      "company": "Triveni Engineering & Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-06-26T13:55:49.000Z",
-      "category": "Trading Window",
-      "title": "Triveni Engineering & Industries Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/TRIVENI_26062026135540_TEIL_WINDOW_JUNE26.pdf"
     }
   ]
 }
