@@ -1,31 +1,209 @@
 {
-  "generated_at": "2026-09-21T08:23:48.301Z",
+  "generated_at": "2026-09-21T19:56:04.029Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 107,
-    "watchlist": 650,
-    "universe": 32,
-    "total": 682
+    "portfolio": 108,
+    "watchlist": 652,
+    "universe": 33,
+    "total": 685
   },
   "items": [
     {
-      "id": "ndbac1d406588",
+      "id": "n8f03f4fa38ae",
       "ticker": "MSECL",
       "company": "Monarch Surveyors and Engineering Consultants Ltd",
       "sector": "Services",
       "scope": [
         "watchlist"
       ],
-      "title": "Monarch Surveyors and Engineering Consultants receives Rs 2-cr work order | Capital Market News - Business Standard",
-      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-and-engineering-consultants-receives-rs-2-cr-work-order-126082200734_1.html",
+      "title": "Monarch Surveyors and Engineering gains on bagging Rs 2-cr work order | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/markets/capital-market-news/monarch-surveyors-and-engineering-gains-on-bagging-rs-2-cr-work-order-126082400282_1.html",
       "source": "business-standard.com",
-      "date": "2026-09-21T08:15:23.386Z",
+      "date": "2026-09-21T19:46:12.725Z",
       "topic": "Orders",
       "keyword": "Order",
       "importance": "low",
       "mood": "positive",
-      "takeaway": "Monarch Surveyors received a Rs 2 crore work order.",
+      "takeaway": "Monarch Surveyors won a Rs 2 crore work order.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n23a7e4ddd7bb",
+      "ticker": "VOEPL",
+      "company": "Virtuoso Optoelectronics Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Virtuoso Optoelectronics to Raise Rs 85 Crore via Preferential Issue | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/industrial-goodsservices/Virtuoso-Optoelectronics-to-Raise-Rs-85-Crore-via-Preferential-Issue/6ab110a0f2017017ae6ed771",
+      "source": "whalesbook.com",
+      "date": "2026-09-21T19:45:30.897Z",
+      "topic": "Money",
+      "keyword": "Capacity Expansion",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Virtuoso Optoelectronics plans to raise Rs 85 crore through preferential share issue.",
+      "enriched": true,
+      "sources_count": 2
+    },
+    {
+      "id": "n49783e2c392d",
+      "ticker": "TRIVENI",
+      "company": "Triveni Engineering & Industries Limited",
+      "sector": "Fast Moving Consumer Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Triveni Engineering to Host Q1 FY27 Earnings Call on July 30 at 12 PM IST",
+      "url": "https://scanx.trade/stock-market-news/companies/triveni-engineering-to-host-q1-fy27-earnings-call-on-july-30/46269849",
+      "source": "scanx.trade",
+      "date": "2026-09-21T19:45:23.336Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Triveni Engineering scheduled Q1 FY27 earnings call for July 30.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nddaa524773ad",
+      "ticker": "LAXMIDENTL",
+      "company": "Laxmi Dental Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Laxmi Dental Ltd (NSE:LAXMIDENTL) (Q1 2027) Earnings Call Highlights: Record Revenue and ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/laxmi-dental-ltd-nse-laxmidentl-150024610.html",
+      "source": "finance.yahoo.com",
+      "date": "2026-09-21T19:43:35.720Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Laxmi Dental reported record revenue in Q1 FY2027.",
+      "enriched": true,
+      "sources_count": 2
+    },
+    {
+      "id": "nbe6f14a3faf6",
+      "ticker": "CURRENT",
+      "company": "Current Infraprojects Limited",
+      "sector": "Construction",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Current Infraprojects Secures Rs 10.42 Cr Bank Note Press Solar Order – Outlook Business",
+      "url": "https://www.outlookbusiness.com/spotlight/news-wire/current-infraprojects-secures-rs-10-42-cr-bank-note-press-solar-order",
+      "source": "outlookbusiness.com",
+      "date": "2026-09-21T19:42:29.187Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Current Infraprojects won a Rs 10.42 crore solar project order from Bank Note Press.",
+      "sources_count": 4,
+      "enriched": true
+    },
+    {
+      "id": "nffcf36e56d42",
+      "ticker": "AVANTEL",
+      "company": "Avantel Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Avantel Merger: કંપનીનું મોટું પ્લાનિંગ, સબસિડિયરી સાથે વિલીનીકરણ અને નવા સેક્ટરમાં એન્ટ્રી | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Gujarati/technology/Avantel-Approves-Merger-of-Subsidiary-and-Expands-Business-Scope-Into-New-Tech/6aad0c1af2017017ae6d4808",
+      "source": "whalesbook.com",
+      "date": "2026-09-21T19:42:18.624Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Avantel plans to merge with its subsidiary and enter a new business sector.",
+      "sources_count": 7,
+      "enriched": true
+    },
+    {
+      "id": "n80ef4eff7f06",
+      "ticker": "ADVAIT",
+      "company": "Advait Energy Transitions Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Advait Energy Transitions Secures INR 134.62 Crore MPPTCL Order for Emergency Restoration Systems - Asia Pacific | Energetica India Magazine",
+      "url": "https://energetica-india.net/news/advait-energy-transitions-secures-inr-13462-crore-mpptcl-order-for-emergency-restoration-systems",
+      "source": "energetica-india.net",
+      "date": "2026-09-21T19:42:09.595Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Advait Energy won a ₹135 crore order from MPPTCL for emergency restoration systems.",
       "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "nfa54f8ee59fc",
+      "ticker": "VOEPL",
+      "company": "Virtuoso Optoelectronics Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Virtuoso Optoelectronics clarifies ₹84.99 crore preferential issue plan",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNldIdlJMSzBNYjNIOTBob2VaNTN0TmdFTkRabTh5WlRIZUlZNlBLbzZrUEF5MThROVJvSnZHNUpmTFpiZThBRTdhRWZYVHVMajJkbC1OZ3p5SGU0c01FZzRqbGRJZzA5Rlh6Zm9aTktNcGpZTHRiczByd2RaRldxU3E2U09wR2lUUEtDNkZiUHkwNTZ0XzU2UlFaU0VKWDlnempUWmVGNXF4THVEMWJkQkNZaFloOHk2RnhmNm1yN21rcTA5THc?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-09-21T11:16:36.000Z",
+      "topic": "Money",
+      "keyword": "Preferential Issue",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Virtuoso Optoelectronics plans to raise ₹85 crore through preferential share issue.",
+      "enriched": true
+    },
+    {
+      "id": "n6aa151718862",
+      "ticker": "KSHINTL",
+      "company": "KSH International Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "KSH International (NSE:KSHINTL) Plans September Investor Meetings Following Capacity Expansion",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZ3pKbHhmM1FKYXIzamdCZEdNMVg3cXF1SlBKQjkyT3FLR09NV200Ml9DNGN4M1BXT2xSOV9LNDRpVFNob3N2di12VWQ4UzEzd0lvWWcxOWdLQXptUmpQNkN1b1psbThMMmJ1dHRqOW81d0ZNd3NIRWN1Y0hrb1pOX1VISjFnWGFEMFhEV29nZW1hVm5TNU5vSXhRNTFydmxjV3VwWFVJNlFjNzdndU1OdEw4LV9NUmt5QzczRzZLV3QxSGpDbTQ4alVtS1hMUDhQLWc?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-09-21T10:55:00.000Z",
+      "topic": "Growth",
+      "keyword": "Capacity Expansion",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "KSH International completed capacity expansion and will meet investors in September.",
+      "enriched": true
+    },
+    {
+      "id": "n8a980ff78950",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
+      "scope": [
+        "universe"
+      ],
+      "title": "Lanreotide Injection Gets FDA Approval, Launches at Amneal",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWdhQXJ3R1F4Sjk0c3EwOEMzMElhWWp4b1kxOGh4RFNhWEd2cTVxZ0NsdGZ0NkJNQVQzRVIzUzNKVVJoYnhQWW9LX18zR3o2U2lIQ25MV18wYTNzQUtlQkZXQVl3aC0zb0RpNzFkcGk3WktlVTUyUFhIcmdfRk96ZXhxRUVQYkh6SS1ta2wzOENidUNiODhSc2F4a3hpcll4eTZiNGlzVFp1aHhudXFSNGhR?oc=5",
+      "source": "Voice of Healthcare",
+      "date": "2026-09-21T09:30:00.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Amneal received FDA approval and launched Lanreotide injection in the US market.",
       "enriched": true
     },
     {
@@ -49,46 +227,6 @@
       "enriched": true
     },
     {
-      "id": "n1d5d2906ab6f",
-      "ticker": "CURRENT",
-      "company": "Current Infraprojects Limited",
-      "sector": "Construction",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Current Infraprojects Limited Secures Rs 10.42 Cr Order from Bank Note Press, Dewas for 3 MW Rooftop Solar Project - NewsX",
-      "url": "https://www.newsx.com/business-2/current-infraprojects-limited-secures-rs-10-42-cr-order-from-bank-note-press-dewas-for-3-mw-rooftop-solar-project-273549/",
-      "source": "newsx.com",
-      "date": "2026-09-21T08:11:36.317Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Current Infraprojects won Rs 10.42 crore order for 3 MW rooftop solar project from Bank Note Press, Dewas.",
-      "sources_count": 4,
-      "enriched": true
-    },
-    {
-      "id": "n7f13bfb30757",
-      "ticker": "AVANTEL",
-      "company": "Avantel Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Avantel ka bada kadam: Subsidiary merger ke saath ab Space aur AI mein entry ki taiyari | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/Hinglish/technology/Avantel-Approves-Merger-of-Subsidiary-and-Expands-Business-Scope-Into-New-Tech/6aad0c1af2017017ae6d4808",
-      "source": "whalesbook.com",
-      "date": "2026-09-21T08:11:26.261Z",
-      "topic": "Deals",
-      "keyword": "Merger",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Avantel merging subsidiary and entering Space and AI sectors.",
-      "sources_count": 7,
-      "enriched": true
-    },
-    {
       "id": "n6220362b4270",
       "ticker": "SUDEEPPHRM",
       "company": "Sudeep Pharma Limited",
@@ -106,26 +244,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Sudeep Pharma expanding capacity and moving into higher-value products for next growth phase.",
-      "enriched": true
-    },
-    {
-      "id": "n93b708a251dd",
-      "ticker": "LAXMIDENTL",
-      "company": "Laxmi Dental Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Q1 2027 Laxmi Dental Ltd Earnings Call Transcript",
-      "url": "https://www.gurufocus.com/news/9027891/q1-2027-laxmi-dental-ltd-earnings-call-transcript",
-      "source": "gurufocus.com",
-      "date": "2026-09-20T17:40:05.552Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Laxmi Dental released its Q1 2027 earnings call transcript.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -361,6 +479,26 @@
       "enriched": true
     },
     {
+      "id": "n4ea58ce07224",
+      "ticker": "MOBIKWIK",
+      "company": "One Mobikwik Systems Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "One Mobikwik accepts resignation of independent director Venkatesh",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRHhoblFiLVlDOUIzeGFsOU52Z2tnOGk0VkpYUV96eFQta01TU3E0T01GSDdSWXRIUmRocHhTWTNaR3UyektuYTFIb0RvZWVQeXdpZV9YeDJFeTNSejVVcFRfN2ppYmt5b0FYUF9MSDE0UFZTQVhBb21wQms4SDRSLWhZSGxoX0Z1bDJCcWU4WTZHM1FzSzM4YVNRT2hmS0VnckFKWXFvakNWbEdLZ2t1MkJNUlZqVUlKNVRXVA?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-09-18T23:47:28.000Z",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "One Mobikwik's independent director Venkatesh resigned from the board.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
       "id": "nbbdf8593dfb8",
       "ticker": "GLEN",
       "company": "Glen Industries Ltd",
@@ -492,26 +630,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Yash Highvoltage expands US presence through new partnership deal.",
-      "enriched": true
-    },
-    {
-      "id": "n8e6af4f57bc1",
-      "ticker": "MOBIKWIK",
-      "company": "One Mobikwik Systems Limited",
-      "sector": "Financial Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "One Mobikwik Systems announces resignation of Independent Director Raghu Ram Hiremagalur Venkatesh",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSEtQeUZ2bXBlRUxqSmJoMkt3N0IyWmUwdlhQN1JPMTREV3NfMXJ2dHhkV1phUUl5bk9xZlUwRW1PS2hMNmgxbHJscWc2QXlfZFM0OWRGMkR5UUhHR1VCa3R2WG83ejJqWXlFOVZlWmpSaHlReU9MSVNvNHJZSnRPOFFocHpFaEZPTS1NQUlDUUZWTjlJZU5MLUtETllvYTBsbjBSYmJOM1pGVklRLWc4N3lkQXJad3pwQlJKdmZiRV9Fb1VuMTRhTXlhZUt4dS00ZHl1aDl3?oc=5",
-      "source": "Business Upturn",
-      "date": "2026-09-18T17:26:15.000Z",
-      "topic": "Trouble",
-      "keyword": "Resignation",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "One Mobikwik Systems' Independent Director Raghu Ram Hiremagalur Venkatesh resigned.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -1214,25 +1332,6 @@
       "enriched": true
     },
     {
-      "id": "nb69924a38b36",
-      "ticker": "DEVYANI",
-      "company": "Devyani International Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Sapphire Foods FY26 Loss: Investoron ka paisa gaya! Devyani International ke saath merger ki baatein shuru | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/Hinglish/consumer-products/Sapphire-Foods-Posts-FY26-Loss-of-indian-rupee4846-Cr-Eyes-Devyani-International-Merger/6a3fbf377465030c38bb197b",
-      "source": "whalesbook.com",
-      "date": "2026-09-16T07:54:08.968Z",
-      "topic": "Deals",
-      "keyword": "Merger",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Devyani International in merger talks with Sapphire Foods.",
-      "enriched": true
-    },
-    {
       "id": "n03774a50deb5",
       "ticker": "DEVYANI",
       "company": "Devyani International Limited",
@@ -1718,7 +1817,8 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "HFCL approved ₹820 crore additional spending to expand optical fibre, cable and preform production capacity.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n2ad0c727a5d5",
@@ -2344,7 +2444,7 @@
       "mood": "positive",
       "takeaway": "Sapphire Foods and Devyani International filed for CCI approval for merger.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "na78dbee788d2",
@@ -4300,26 +4400,6 @@
       "enriched": true
     },
     {
-      "id": "n892ee98fabdf",
-      "ticker": "ADVAIT",
-      "company": "Advait Energy Transitions Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Advait Energy secures Rs 134.62 crore MPPTCL order",
-      "url": "https://manufacturingtodayindia.com/advait-energy-secures-rs-134-62-cr",
-      "source": "manufacturingtodayindia.com",
-      "date": "2026-09-04T17:46:00.693Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Advait Energy secured Rs 134.62 crore contract from MPPTCL.",
-      "enriched": true,
-      "sources_count": 2
-    },
-    {
       "id": "n97622943fa8c",
       "ticker": "ADVAIT",
       "company": "Advait Energy Transitions Limited",
@@ -4471,7 +4551,7 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Board approved raising borrowing limit from ₹100 crore to ₹200 crore.",
-      "sources_count": 4,
+      "sources_count": 5,
       "enriched": true
     },
     {
@@ -5496,26 +5576,6 @@
       "mood": "neutral",
       "takeaway": "Virtuoso Optoelectronics revises pricing date for its preferential share issue at EGM.",
       "enriched": true
-    },
-    {
-      "id": "nb876d21d7f75",
-      "ticker": "VOEPL",
-      "company": "Virtuoso Optoelectronics Limited",
-      "sector": "Consumer Durables",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Virtuoso Optoelectronics to Raise ₹85 Crore Via Preferential Issue; EGM on July 12 | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/English/bankingfinance/Virtuoso-Optoelectronics-to-Raise-indian-rupee85-Crore-Via-Preferential-Issue-EGM-on-July-12/6a365e3ab6609c8f9dd4a01d",
-      "source": "whalesbook.com",
-      "date": "2026-09-03T20:34:41.186Z",
-      "topic": "Money",
-      "keyword": "Preferential Issue",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Virtuoso Optoelectronics plans to raise ₹85 crore through preferential share issue; shareholder meeting scheduled July 12.",
-      "enriched": true,
-      "sources_count": 2
     },
     {
       "id": "nf4ad511451ad",
@@ -6587,7 +6647,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Secured export order for lab-grown diamond jewellery.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -6645,7 +6705,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "EMA Partners acquired Taggd for ₹113 crore to form India's largest talent platform.",
-      "sources_count": 3,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -6842,25 +6902,6 @@
       "enriched": true
     },
     {
-      "id": "naab8036ac846",
-      "ticker": "DEVYANI",
-      "company": "Devyani International Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Devyani International Removes Secondary Sale Condition From Sapphire Merger | Tijori Alerts",
-      "url": "https://www.tijorialerts.com/company-updates/devyani-international-removes-secondary-sale-condition-from-sapphire-merger-154218/",
-      "source": "tijorialerts.com",
-      "date": "2026-09-03T20:34:10.055Z",
-      "topic": "Deals",
-      "keyword": "Merger",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Devyani removes secondary sale condition from Sapphire Foods merger.",
-      "enriched": true
-    },
-    {
       "id": "ndec2463e6d02",
       "ticker": "DEVYANI",
       "company": "Devyani International Limited",
@@ -6877,6 +6918,26 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Devyani International and Sapphire Foods revise proposed merger scheme.",
+      "enriched": true,
+      "sources_count": 3
+    },
+    {
+      "id": "naab8036ac846",
+      "ticker": "DEVYANI",
+      "company": "Devyani International Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Devyani International Removes Secondary Sale Condition From Sapphire Merger | Tijori Alerts",
+      "url": "https://www.tijorialerts.com/company-updates/devyani-international-removes-secondary-sale-condition-from-sapphire-merger-154218/",
+      "source": "tijorialerts.com",
+      "date": "2026-09-03T20:34:10.055Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Devyani removes secondary sale condition from Sapphire Foods merger.",
       "enriched": true
     },
     {
@@ -9757,6 +9818,25 @@
       "enriched": true
     },
     {
+      "id": "nc54465feba00",
+      "ticker": "TRIVENI",
+      "company": "Triveni Engineering & Industries Limited",
+      "sector": "Fast Moving Consumer Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Earnings Report: Triveni Engineering & Industries Limited Missed Revenue Estimates By 13%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CTVJQQVNNaElpaW5zbXgtWUVDbXRsb0lJYzEtR0xMV2VBQ0phVk5pNlFDVUZZckl0X0Rha0lpVWRoNHpyMms0ZF8wd2NLU3Z0c0V3eXIzNXU?oc=5",
+      "source": "webull.com",
+      "date": "2026-08-01T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "negative",
+      "takeaway": "Triveni Engineering missed revenue estimates by 13% in latest quarter.",
+      "enriched": true
+    },
+    {
       "id": "n39d22c238d28",
       "ticker": "STLTECH",
       "company": "Sterlite Technologies Limited",
@@ -9774,25 +9854,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Sterlite Technologies secures Rs 960 crore order.",
-      "enriched": true
-    },
-    {
-      "id": "nc54465feba00",
-      "ticker": "TRIVENI",
-      "company": "Triveni Engineering & Industries Limited",
-      "sector": "Fast Moving Consumer Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Earnings Report: Triveni Engineering & Industries Limited Missed Revenue Estimates By 13%",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CTVJQQVNNaElpaW5zbXgtWUVDbXRsb0lJYzEtR0xMV2VBQ0phVk5pNlFDVUZZckl0X0Rha0lpVWRoNHpyMms0ZF8wd2NLU3Z0c0V3eXIzNXU?oc=5",
-      "source": "webull.com",
-      "date": "2026-08-01T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "negative",
-      "takeaway": "Triveni Engineering missed revenue estimates by 13% in latest quarter.",
       "enriched": true
     },
     {
@@ -9872,6 +9933,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Vivid Electromech partners with ABB ArTuK for data center PDUs and metro train electrical panels.",
+      "enriched": true
+    },
+    {
+      "id": "n45dae976c63a",
+      "ticker": "TRIVENI",
+      "company": "Triveni Engineering & Industries Limited",
+      "sector": "Fast Moving Consumer Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Earnings call transcript: Triveni Engineering posts q1 fy 2027 profit rebound",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQkJtalIzQ2dlQUpIOEZ6SDNfTzV0U1EtazF1SmpHUXd4ZG9WMkJQdmpsMTd6UExrd3ZHZ3FWb19GTnZFekJnT0YzQUdnWFRCWTZpRXM5dkRna3R5MjY4eXJCNnprQUR5aUhMSU03bUhJWTI2czFCUWMyeFhqUWNxWHVkUmdOQ0F0ZDk2VTc0RGtJb19ETUthZEhlb3EzZUx5SVc0X1JSRUhBTmJCb0FzNkF2SDRjR0E1TDJoMmhxWkU0SW8wbkxFendCYUY?oc=5",
+      "source": "Investing.com",
+      "date": "2026-07-30T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Triveni Engineering reports profit rebound in Q1 FY2027.",
       "enriched": true
     },
     {
@@ -9986,25 +10066,6 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Tenneco Clean Air India schedules Q1 earnings call for August 6.",
-      "enriched": true
-    },
-    {
-      "id": "n45dae976c63a",
-      "ticker": "TRIVENI",
-      "company": "Triveni Engineering & Industries Limited",
-      "sector": "Fast Moving Consumer Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Earnings call transcript: Triveni Engineering posts q1 fy 2027 profit rebound",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQkJtalIzQ2dlQUpIOEZ6SDNfTzV0U1EtazF1SmpHUXd4ZG9WMkJQdmpsMTd6UExrd3ZHZ3FWb19GTnZFekJnT0YzQUdnWFRCWTZpRXM5dkRna3R5MjY4eXJCNnprQUR5aUhMSU03bUhJWTI2czFCUWMyeFhqUWNxWHVkUmdOQ0F0ZDk2VTc0RGtJb19ETUthZEhlb3EzZUx5SVc0X1JSRUhBTmJCb0FzNkF2SDRjR0E1TDJoMmhxWkU0SW8wbkxFendCYUY?oc=5",
-      "source": "Investing.com",
-      "date": "2026-07-30T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Triveni Engineering reports profit rebound in Q1 FY2027.",
       "enriched": true
     },
     {
@@ -10847,6 +10908,44 @@
       "enriched": true
     },
     {
+      "id": "n88fb1944c827",
+      "ticker": "TRIVENI",
+      "company": "Triveni Engineering & Industries Limited",
+      "sector": "Fast Moving Consumer Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "TRIVENI Mar 2026 Earnings: Solid Performance Anchored by Sugar and Engineering Segments - Earnings Turnaround",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWTZUQ3FsZHliak8xRm9JTXdkeUxBREdOaTdvRkhqZjFyaDNfam5RRFRpRVNmemV2SlQxVk9aOGJNQlBsdkh0TDlKd0FMSUVrb21XeUpWZVRTeXFfSkF2b0k1UjVxcXpBeTBNWnZYTl9qZzhndF94a2F1bU5vSnAxSWJrWU1QQVZZanJUWDlSbzU0UWxyUjdPbUVQMnRMQ2xrTmRnTFRnb0didG5TUzF5NDhFcERnTm40LWZ4TE9nSGFaeUJkUkZV?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-11T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Triveni Engineering reported solid March 2026 results driven by strong sugar and engineering segment performance.",
+      "enriched": true
+    },
+    {
+      "id": "nd11101502750",
+      "ticker": "TRIVENI",
+      "company": "Triveni Engineering & Industries Limited",
+      "sector": "Fast Moving Consumer Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "TRIVENI.NS Mar 2026 Earnings: Robust Revenue and Margin Performance Amid Agricultural Sector Momentum",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaHBxYWE1enE3TTZzOTdxVU4xV0E0aGRXaTkyOGEzdDlqc05tOVRwc003OFFFcmZCWGFRcDRvek5rdDBpbkIwczhxX3ZmeGZuWXVaOVNlY2lSV2lraDAyR010MlZRUU5xa01zTDRMQmRaVHNpdG0zY1hEU3VraGVmckFjMXYxWEduQnl2aURNVkdpN0pMR1draEZEN240WFVBLXkyVXVrdmtNWTg2NmtKckt6VnFjYzJReFIwMTBIeGpUZ2NUcTNvQzNUejR4M3l1Mm1OWFZOWnQ?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-11T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Triveni Engineering reported strong revenue and margin performance in March 2026 quarter.",
+      "enriched": true
+    },
+    {
       "id": "n028b0769b644",
       "ticker": "SURYAROSNI",
       "company": "Surya Roshni Limited",
@@ -11001,44 +11100,6 @@
       "mood": "neutral",
       "takeaway": "Onesource Specialty Pharma reported March 2026 quarter with EPS of ₹1.87 on revenue of ₹419 crore.",
       "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n88fb1944c827",
-      "ticker": "TRIVENI",
-      "company": "Triveni Engineering & Industries Limited",
-      "sector": "Fast Moving Consumer Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "TRIVENI Mar 2026 Earnings: Solid Performance Anchored by Sugar and Engineering Segments - Earnings Turnaround",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWTZUQ3FsZHliak8xRm9JTXdkeUxBREdOaTdvRkhqZjFyaDNfam5RRFRpRVNmemV2SlQxVk9aOGJNQlBsdkh0TDlKd0FMSUVrb21XeUpWZVRTeXFfSkF2b0k1UjVxcXpBeTBNWnZYTl9qZzhndF94a2F1bU5vSnAxSWJrWU1QQVZZanJUWDlSbzU0UWxyUjdPbUVQMnRMQ2xrTmRnTFRnb0didG5TUzF5NDhFcERnTm40LWZ4TE9nSGFaeUJkUkZV?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-11T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Triveni Engineering reported solid March 2026 results driven by strong sugar and engineering segment performance.",
-      "enriched": true
-    },
-    {
-      "id": "nd11101502750",
-      "ticker": "TRIVENI",
-      "company": "Triveni Engineering & Industries Limited",
-      "sector": "Fast Moving Consumer Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "TRIVENI.NS Mar 2026 Earnings: Robust Revenue and Margin Performance Amid Agricultural Sector Momentum",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaHBxYWE1enE3TTZzOTdxVU4xV0E0aGRXaTkyOGEzdDlqc05tOVRwc003OFFFcmZCWGFRcDRvek5rdDBpbkIwczhxX3ZmeGZuWXVaOVNlY2lSV2lraDAyR010MlZRUU5xa01zTDRMQmRaVHNpdG0zY1hEU3VraGVmckFjMXYxWEduQnl2aURNVkdpN0pMR1draEZEN240WFVBLXkyVXVrdmtNWTg2NmtKckt6VnFjYzJReFIwMTBIeGpUZ2NUcTNvQzNUejR4M3l1Mm1OWFZOWnQ?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-11T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Triveni Engineering reported strong revenue and margin performance in March 2026 quarter.",
       "enriched": true
     },
     {
@@ -11339,6 +11400,25 @@
       "enriched": true
     },
     {
+      "id": "n4c2afa81ac70",
+      "ticker": "ADVAIT",
+      "company": "Advait Energy Transitions Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Advait Energy Transitions Shares In Focus After Securing ₹51.62 Cr DGVCL Order",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYmk0eXpvR19uWk1raWRmdUlLR3BLVjZOYXgtbXVGcHlBb2JTUC1XMWprUlVJWjVIV2xvRE5DdEtyR2hiVG5CbVhSSEQtVEtqOEM1WEllaEZOblhKODgyYmh2TkdaWnV5elVvQzdMX3NVbU1BZjQyYkExMHpUTzNwazBOcHVmOU43bkJLMzVta25XYUpMMmdpUmRQaWVPMHRsd0F3?oc=5",
+      "source": "Trade Brains",
+      "date": "2026-07-08T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Advait Energy Transitions secures Rs 51.62 crore order from DGVCL.",
+      "enriched": true
+    },
+    {
       "id": "n3f652a82b0e2",
       "ticker": "SBIFUNDS",
       "company": "SBI Funds Management Limited",
@@ -11374,25 +11454,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Varun Beverages acquires Kenya beverage business for $32 million, expanding East Africa presence.",
-      "enriched": true
-    },
-    {
-      "id": "n4c2afa81ac70",
-      "ticker": "ADVAIT",
-      "company": "Advait Energy Transitions Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Advait Energy Transitions Shares In Focus After Securing ₹51.62 Cr DGVCL Order",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYmk0eXpvR19uWk1raWRmdUlLR3BLVjZOYXgtbXVGcHlBb2JTUC1XMWprUlVJWjVIV2xvRE5DdEtyR2hiVG5CbVhSSEQtVEtqOEM1WEllaEZOblhKODgyYmh2TkdaWnV5elVvQzdMX3NVbU1BZjQyYkExMHpUTzNwazBOcHVmOU43bkJLMzVta25XYUpMMmdpUmRQaWVPMHRsd0F3?oc=5",
-      "source": "Trade Brains",
-      "date": "2026-07-08T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Advait Energy Transitions secures Rs 51.62 crore order from DGVCL.",
       "enriched": true
     },
     {
