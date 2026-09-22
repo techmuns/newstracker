@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T19:41:10.236Z",
+  "generated_at": "2026-09-22T18:14:37.448Z",
   "portfolio": [
     {
       "company": "Monolithisch India Limited",
@@ -32,14 +32,14 @@
       "sector": "Services"
     },
     {
-      "company": "Acutaas Chemicals Limited",
-      "ticker": "ACUTAAS",
-      "sector": "Healthcare"
-    },
-    {
       "company": "Sterlite Technologies Limited",
       "ticker": "STLTECH",
       "sector": "Telecommunication"
+    },
+    {
+      "company": "Acutaas Chemicals Limited",
+      "ticker": "ACUTAAS",
+      "sector": "Healthcare"
     },
     {
       "company": "Xpro India Limited",

@@ -1,31 +1,190 @@
 {
-  "generated_at": "2026-09-22T08:08:49.316Z",
+  "generated_at": "2026-09-22T18:28:09.645Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 108,
-    "watchlist": 649,
+    "portfolio": 109,
+    "watchlist": 654,
     "universe": 33,
-    "total": 682
+    "total": 687
   },
   "items": [
     {
-      "id": "ndbac1d406588",
+      "id": "n8f03f4fa38ae",
       "ticker": "MSECL",
       "company": "Monarch Surveyors and Engineering Consultants Ltd",
       "sector": "Services",
       "scope": [
         "watchlist"
       ],
-      "title": "Monarch Surveyors and Engineering Consultants receives Rs 2-cr work order | Capital Market News - Business Standard",
-      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-and-engineering-consultants-receives-rs-2-cr-work-order-126082200734_1.html",
+      "title": "Monarch Surveyors and Engineering gains on bagging Rs 2-cr work order | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/markets/capital-market-news/monarch-surveyors-and-engineering-gains-on-bagging-rs-2-cr-work-order-126082400282_1.html",
       "source": "business-standard.com",
-      "date": "2026-09-22T08:00:27.280Z",
+      "date": "2026-09-22T18:19:44.628Z",
       "topic": "Orders",
       "keyword": "Order",
       "importance": "low",
       "mood": "positive",
-      "takeaway": "Monarch Surveyors received a Rs 2 crore work order.",
+      "takeaway": "Monarch Surveyors won a Rs 2 crore work order.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "n633bda0a2b88",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries India Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Solar Industries India Limited: Credit Rating Watch Developing on Acquisition Move | InvestyWise",
+      "url": "https://www.investywise.com/solar-industries-india-limited-rating-watch-with-developing-implications",
+      "source": "investywise.com",
+      "date": "2026-09-22T18:18:42.325Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Solar Industries under credit rating watch due to acquisition activity.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n93b708a251dd",
+      "ticker": "LAXMIDENTL",
+      "company": "Laxmi Dental Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Q1 2027 Laxmi Dental Ltd Earnings Call Transcript",
+      "url": "https://www.gurufocus.com/news/9027891/q1-2027-laxmi-dental-ltd-earnings-call-transcript",
+      "source": "gurufocus.com",
+      "date": "2026-09-22T18:17:04.372Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Laxmi Dental held its Q1 FY2027 earnings call.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "n67ac22cb7627",
+      "ticker": "IKS",
+      "company": "Inventurus Knowledge Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Inventurus Knowledge Solutions Q1 Results: Earnings call recording released",
+      "url": "https://scanx.trade/stock-market-news/companies/inventurus-knowledge-solutions-q1-results-earnings-call-recording-released/47557927",
+      "source": "scanx.trade",
+      "date": "2026-09-22T18:16:56.511Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Inventurus released its Q1 results earnings call recording.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n09e8edf9219e",
+      "ticker": "IKS",
+      "company": "Inventurus Knowledge Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "IKS Health delivers $12 million annual cash impact for Axia Women's Health",
+      "url": "https://scanx.trade/stock-market-news/companies/iks-health-delivers-12-million-annual-cash-impact-for-axia-women-s-health/44410066",
+      "source": "scanx.trade",
+      "date": "2026-09-22T18:16:56.511Z",
+      "topic": "Deals",
+      "keyword": "Partnership",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "IKS Health partnership delivers $12 million annual cash impact for Axia Women's Health.",
+      "enriched": true
+    },
+    {
+      "id": "nbe6f14a3faf6",
+      "ticker": "CURRENT",
+      "company": "Current Infraprojects Limited",
+      "sector": "Construction",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Current Infraprojects Secures Rs 10.42 Cr Bank Note Press Solar Order – Outlook Business",
+      "url": "https://www.outlookbusiness.com/spotlight/news-wire/current-infraprojects-secures-rs-10-42-cr-bank-note-press-solar-order",
+      "source": "outlookbusiness.com",
+      "date": "2026-09-22T18:15:55.730Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Current Infraprojects won a Rs 10.42 crore solar project order from Bank Note Press.",
+      "sources_count": 5,
+      "enriched": true
+    },
+    {
+      "id": "n52442768bb1e",
+      "ticker": "AVANTEL",
+      "company": "Avantel Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Avantel Merger: అనుబంధ సంస్థతో విలీనం.. కొత్త రంగాల్లోకి దూసుకెళ్లేందుకు సిద్ధం! | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Telugu/technology/Avantel-Approves-Merger-of-Subsidiary-and-Expands-Business-Scope-Into-New-Tech/6aad0c1af2017017ae6d4808",
+      "source": "whalesbook.com",
+      "date": "2026-09-22T18:15:45.226Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Avantel is merging with its subsidiary to enter new business areas.",
+      "sources_count": 6,
+      "enriched": true
+    },
+    {
+      "id": "n24a8c027e621",
+      "ticker": "ADVAIT",
+      "company": "Advait Energy Transitions Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Advait Energy posts ₹1,304 crore order book at 16th AGM - Manufacturing Today India",
+      "url": "https://manufacturingtodayindia.com/advait-energy-posts-%E2%82%B91304-crore-order-book-at-16th-agm",
+      "source": "manufacturingtodayindia.com",
+      "date": "2026-09-22T18:15:40.199Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Advait Energy reports order book of ₹1,304 crore at annual meeting.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "ne041e4b84d1e",
+      "ticker": "TANFACIND",
+      "company": "TANFAC Industries Ltd",
+      "sector": "Chemicals",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Anupam Rasayan NCD plan: ₹160 crore board call 2026 | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/anupam-rasayan-ncd-fundraise-160cr-cmu8nf4fn000s34pil863op8x",
+      "source": "multibagg.ai",
+      "date": "2026-09-22T18:15:23.430Z",
+      "topic": "Money",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Anupam Rasayan board approves ₹160 crore NCD fundraising plan.",
       "enriched": true
     },
     {
@@ -45,46 +204,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Urban Company expanded its Unicommerce partnership to Saudi Arabia and UAE.",
-      "enriched": true
-    },
-    {
-      "id": "n901f066bd491",
-      "ticker": "CURRENT",
-      "company": "Current Infraprojects Limited",
-      "sector": "Construction",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Current Infraprojects Limited Secures Rs 10.42 Cr Order from Bank Note Press, Dewas for 3 MW Rooftop Solar Project | Loktej Business News - Loktej English",
-      "url": "https://english.loktej.com/article/32594/current-infraprojects-limited-secures-rs-10-42-cr-order-from-bank-note-press--dewas-for-3-mw-rooftop-solar-project",
-      "source": "english.loktej.com",
-      "date": "2026-09-22T07:56:42.275Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Current Infraprojects won Rs 10.42 crore order for 3 MW rooftop solar project from Bank Note Press, Dewas.",
-      "sources_count": 4,
-      "enriched": true
-    },
-    {
-      "id": "n7f13bfb30757",
-      "ticker": "AVANTEL",
-      "company": "Avantel Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Avantel ka bada kadam: Subsidiary merger ke saath ab Space aur AI mein entry ki taiyari | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/Hinglish/technology/Avantel-Approves-Merger-of-Subsidiary-and-Expands-Business-Scope-Into-New-Tech/6aad0c1af2017017ae6d4808",
-      "source": "whalesbook.com",
-      "date": "2026-09-22T07:56:30.279Z",
-      "topic": "Deals",
-      "keyword": "Merger",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Avantel merging subsidiary and entering space and AI sectors.",
-      "sources_count": 7,
       "enriched": true
     },
     {
@@ -124,26 +243,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Virtuoso Optoelectronics plans to raise Rs 85 crore through preferential share issue.",
-      "enriched": true,
-      "sources_count": 2
-    },
-    {
-      "id": "nddaa524773ad",
-      "ticker": "LAXMIDENTL",
-      "company": "Laxmi Dental Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Laxmi Dental Ltd (NSE:LAXMIDENTL) (Q1 2027) Earnings Call Highlights: Record Revenue and ...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/laxmi-dental-ltd-nse-laxmidentl-150024610.html",
-      "source": "finance.yahoo.com",
-      "date": "2026-09-21T19:43:35.720Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Laxmi Dental reported record revenue in Q1 FY2027.",
       "enriched": true,
       "sources_count": 2
     },
@@ -498,6 +597,26 @@
       "enriched": true
     },
     {
+      "id": "n4ea58ce07224",
+      "ticker": "MOBIKWIK",
+      "company": "One Mobikwik Systems Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "One Mobikwik accepts resignation of independent director Venkatesh",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRHhoblFiLVlDOUIzeGFsOU52Z2tnOGk0VkpYUV96eFQta01TU3E0T01GSDdSWXRIUmRocHhTWTNaR3UyektuYTFIb0RvZWVQeXdpZV9YeDJFeTNSejVVcFRfN2ppYmt5b0FYUF9MSDE0UFZTQVhBb21wQms4SDRSLWhZSGxoX0Z1bDJCcWU4WTZHM1FzSzM4YVNRT2hmS0VnckFKWXFvakNWbEdLZ2t1MkJNUlZqVUlKNVRXVA?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-09-18T23:47:28.000Z",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Independent director Venkatesh resigned from One Mobikwik's board.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
       "id": "nbbdf8593dfb8",
       "ticker": "GLEN",
       "company": "Glen Industries Ltd",
@@ -629,26 +748,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Yash Highvoltage expands US presence through new partnership deal.",
-      "enriched": true
-    },
-    {
-      "id": "n8e6af4f57bc1",
-      "ticker": "MOBIKWIK",
-      "company": "One Mobikwik Systems Limited",
-      "sector": "Financial Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "One Mobikwik Systems announces resignation of Independent Director Raghu Ram Hiremagalur Venkatesh",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSEtQeUZ2bXBlRUxqSmJoMkt3N0IyWmUwdlhQN1JPMTREV3NfMXJ2dHhkV1phUUl5bk9xZlUwRW1PS2hMNmgxbHJscWc2QXlfZFM0OWRGMkR5UUhHR1VCa3R2WG83ejJqWXlFOVZlWmpSaHlReU9MSVNvNHJZSnRPOFFocHpFaEZPTS1NQUlDUUZWTjlJZU5MLUtETllvYTBsbjBSYmJOM1pGVklRLWc4N3lkQXJad3pwQlJKdmZiRV9Fb1VuMTRhTXlhZUt4dS00ZHl1aDl3?oc=5",
-      "source": "Business Upturn",
-      "date": "2026-09-18T17:26:15.000Z",
-      "topic": "Trouble",
-      "keyword": "Resignation",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Independent Director Raghu Ram Hiremagalur Venkatesh resigned from One Mobikwik Systems.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -5093,7 +5192,7 @@
       "mood": "positive",
       "takeaway": "Rajesh Power Services wins Rs 653 crore underground power distribution order in Gujarat.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 4
     },
     {
       "id": "n17cc3ebb93f8",
@@ -6666,7 +6765,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Secured export order for lab-grown diamond jewellery.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -11610,6 +11709,26 @@
       "enriched": true
     },
     {
+      "id": "n087145e4fd8e",
+      "ticker": "TANFACIND",
+      "company": "TANFAC Industries Ltd",
+      "sector": "Chemicals",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "TANFAC Industries approves ₹173 Crore Preferential Issue, National Stock Exchange Listing, and Dr. D. Karthikeyan as Chairperson",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wQ2dDM1h2RlFjNU9nZVZ6ZFJqZ3hsNDVCWlZUSG5JWm9QZ0ZadkFxTnRKRWlhSFFaaHpCckZ2QVlNSGR4WlAzb2phRmFFWUtCYUJMT2lVY2pDcWR6ZEVB?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-07-06T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Preferential Issue",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "TANFAC Industries approves ₹173 crore preferential share issue and NSE listing; appoints Dr. Karthikeyan as Chairperson.",
+      "enriched": true
+    },
+    {
       "id": "n0b99952debf3",
       "ticker": "UNIMECH",
       "company": "Unimech Aerospace and Manufacturing Limited",
@@ -11684,26 +11803,6 @@
       "mood": "positive",
       "takeaway": "Balu Forge Industries reports robust Q2 with 20% revenue growth and EPS of ₹23.9.",
       "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n087145e4fd8e",
-      "ticker": "TANFACIND",
-      "company": "TANFAC Industries Ltd",
-      "sector": "Chemicals",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "TANFAC Industries approves ₹173 Crore Preferential Issue, National Stock Exchange Listing, and Dr. D. Karthikeyan as Chairperson",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wQ2dDM1h2RlFjNU9nZVZ6ZFJqZ3hsNDVCWlZUSG5JWm9QZ0ZadkFxTnRKRWlhSFFaaHpCckZ2QVlNSGR4WlAzb2phRmFFWUtCYUJMT2lVY2pDcWR6ZEVB?oc=5",
-      "source": "EquityBulls",
-      "date": "2026-07-06T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Preferential Issue",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "TANFAC Industries approves ₹173 crore preferential share issue and NSE listing; appoints Dr. Karthikeyan as Chairperson.",
       "enriched": true
     },
     {
@@ -12255,6 +12354,27 @@
       "sources_count": 2
     },
     {
+      "id": "n09dedef8b54a",
+      "ticker": "TANFACIND",
+      "company": "TANFAC Industries Ltd",
+      "sector": "Chemicals",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "TANFAC raises INR 250 Crore through QIP to accelerate Strategic Growth",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsNjZON1FDaDRybmhwLVRmdHBiWGtsdWpSYUQtWWhHeGxGcWJSNEtsNzV4TEZzcE9xc2dxOWluR29sR2FTU1RXb2cxTWlUNUdLR01uWEwtZW12UG9YX0g0?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-06-30T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "QIP",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "TANFAC raised 250 crore rupees through qualified institutional placement for strategic growth.",
+      "enriched": true,
+      "sources_count": 2
+    },
+    {
       "id": "n4464113e5503",
       "ticker": "JYOTICNC",
       "company": "Jyoti CNC Automation Limited",
@@ -12311,27 +12431,6 @@
       "mood": "neutral",
       "takeaway": "Saregama India Q4 FY26 earnings show revenue and profit results.",
       "enriched": true
-    },
-    {
-      "id": "n09dedef8b54a",
-      "ticker": "TANFACIND",
-      "company": "TANFAC Industries Ltd",
-      "sector": "Chemicals",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "TANFAC raises INR 250 Crore through QIP to accelerate Strategic Growth",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsNjZON1FDaDRybmhwLVRmdHBiWGtsdWpSYUQtWWhHeGxGcWJSNEtsNzV4TEZzcE9xc2dxOWluR29sR2FTU1RXb2cxTWlUNUdLR01uWEwtZW12UG9YX0g0?oc=5",
-      "source": "EquityBulls",
-      "date": "2026-06-30T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "QIP",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "TANFAC raised 250 crore rupees through qualified institutional placement for strategic growth.",
-      "enriched": true,
-      "sources_count": 2
     },
     {
       "id": "n1aeadde14a90",
@@ -12642,7 +12741,7 @@
       "mood": "positive",
       "takeaway": "SETL acquires GScale Energy for Rs 500 crore to enter AI datacenter sector.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "n93599c9ce34d",
