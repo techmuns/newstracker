@@ -1,31 +1,110 @@
 {
-  "generated_at": "2026-09-21T19:56:04.029Z",
+  "generated_at": "2026-09-22T08:08:49.316Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 108,
-    "watchlist": 652,
+    "watchlist": 649,
     "universe": 33,
-    "total": 685
+    "total": 682
   },
   "items": [
     {
-      "id": "n8f03f4fa38ae",
+      "id": "ndbac1d406588",
       "ticker": "MSECL",
       "company": "Monarch Surveyors and Engineering Consultants Ltd",
       "sector": "Services",
       "scope": [
         "watchlist"
       ],
-      "title": "Monarch Surveyors and Engineering gains on bagging Rs 2-cr work order | Capital Market News - Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/monarch-surveyors-and-engineering-gains-on-bagging-rs-2-cr-work-order-126082400282_1.html",
+      "title": "Monarch Surveyors and Engineering Consultants receives Rs 2-cr work order | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-and-engineering-consultants-receives-rs-2-cr-work-order-126082200734_1.html",
       "source": "business-standard.com",
-      "date": "2026-09-21T19:46:12.725Z",
+      "date": "2026-09-22T08:00:27.280Z",
       "topic": "Orders",
       "keyword": "Order",
       "importance": "low",
       "mood": "positive",
-      "takeaway": "Monarch Surveyors won a Rs 2 crore work order.",
+      "takeaway": "Monarch Surveyors received a Rs 2 crore work order.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n39b7555f42f8",
+      "ticker": "URBANCO",
+      "company": "Urban Company Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Urban Company Expands Unicommerce Partnership To Saudi Arabia And UAE",
+      "url": "https://www.kotakneo.com/news/stocks/urban-company-unicommerce-partnership-saudi-arabia-uae/",
+      "source": "kotakneo.com",
+      "date": "2026-09-22T07:59:37.660Z",
+      "topic": "Deals",
+      "keyword": "Partnership",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Urban Company expanded its Unicommerce partnership to Saudi Arabia and UAE.",
+      "enriched": true
+    },
+    {
+      "id": "n901f066bd491",
+      "ticker": "CURRENT",
+      "company": "Current Infraprojects Limited",
+      "sector": "Construction",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Current Infraprojects Limited Secures Rs 10.42 Cr Order from Bank Note Press, Dewas for 3 MW Rooftop Solar Project | Loktej Business News - Loktej English",
+      "url": "https://english.loktej.com/article/32594/current-infraprojects-limited-secures-rs-10-42-cr-order-from-bank-note-press--dewas-for-3-mw-rooftop-solar-project",
+      "source": "english.loktej.com",
+      "date": "2026-09-22T07:56:42.275Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Current Infraprojects won Rs 10.42 crore order for 3 MW rooftop solar project from Bank Note Press, Dewas.",
+      "sources_count": 4,
+      "enriched": true
+    },
+    {
+      "id": "n7f13bfb30757",
+      "ticker": "AVANTEL",
+      "company": "Avantel Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Avantel ka bada kadam: Subsidiary merger ke saath ab Space aur AI mein entry ki taiyari | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/technology/Avantel-Approves-Merger-of-Subsidiary-and-Expands-Business-Scope-Into-New-Tech/6aad0c1af2017017ae6d4808",
+      "source": "whalesbook.com",
+      "date": "2026-09-22T07:56:30.279Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Avantel merging subsidiary and entering space and AI sectors.",
+      "sources_count": 7,
+      "enriched": true
+    },
+    {
+      "id": "nddd5b4d61dc6",
+      "ticker": "LUMINO",
+      "company": "Lumino Industries Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Lumino Industries Q1 Net Profit Grows to ₹4.03 Crore; Ranihati Capacity Reaching 75,000 MT",
+      "url": "https://www.sahi.com/news/lumino-industries-reports-q1-standalone-net-profit-of-403m-rupees-vs-303m-yoy",
+      "source": "sahi.com",
+      "date": "2026-09-22T07:56:07.119Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Lumino Q1 profit rises to ₹4.03 crore; Ranihati plant nearing 75,000 MT capacity.",
       "enriched": true
     },
     {
@@ -49,26 +128,6 @@
       "sources_count": 2
     },
     {
-      "id": "n49783e2c392d",
-      "ticker": "TRIVENI",
-      "company": "Triveni Engineering & Industries Limited",
-      "sector": "Fast Moving Consumer Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Triveni Engineering to Host Q1 FY27 Earnings Call on July 30 at 12 PM IST",
-      "url": "https://scanx.trade/stock-market-news/companies/triveni-engineering-to-host-q1-fy27-earnings-call-on-july-30/46269849",
-      "source": "scanx.trade",
-      "date": "2026-09-21T19:45:23.336Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Triveni Engineering scheduled Q1 FY27 earnings call for July 30.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "nddaa524773ad",
       "ticker": "LAXMIDENTL",
       "company": "Laxmi Dental Limited",
@@ -87,46 +146,6 @@
       "takeaway": "Laxmi Dental reported record revenue in Q1 FY2027.",
       "enriched": true,
       "sources_count": 2
-    },
-    {
-      "id": "nbe6f14a3faf6",
-      "ticker": "CURRENT",
-      "company": "Current Infraprojects Limited",
-      "sector": "Construction",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Current Infraprojects Secures Rs 10.42 Cr Bank Note Press Solar Order – Outlook Business",
-      "url": "https://www.outlookbusiness.com/spotlight/news-wire/current-infraprojects-secures-rs-10-42-cr-bank-note-press-solar-order",
-      "source": "outlookbusiness.com",
-      "date": "2026-09-21T19:42:29.187Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Current Infraprojects won a Rs 10.42 crore solar project order from Bank Note Press.",
-      "sources_count": 4,
-      "enriched": true
-    },
-    {
-      "id": "nffcf36e56d42",
-      "ticker": "AVANTEL",
-      "company": "Avantel Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Avantel Merger: કંપનીનું મોટું પ્લાનિંગ, સબસિડિયરી સાથે વિલીનીકરણ અને નવા સેક્ટરમાં એન્ટ્રી | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/Gujarati/technology/Avantel-Approves-Merger-of-Subsidiary-and-Expands-Business-Scope-Into-New-Tech/6aad0c1af2017017ae6d4808",
-      "source": "whalesbook.com",
-      "date": "2026-09-21T19:42:18.624Z",
-      "topic": "Deals",
-      "keyword": "Merger",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Avantel plans to merge with its subsidiary and enter a new business sector.",
-      "sources_count": 7,
-      "enriched": true
     },
     {
       "id": "n80ef4eff7f06",
@@ -479,26 +498,6 @@
       "enriched": true
     },
     {
-      "id": "n4ea58ce07224",
-      "ticker": "MOBIKWIK",
-      "company": "One Mobikwik Systems Limited",
-      "sector": "Financial Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "One Mobikwik accepts resignation of independent director Venkatesh",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRHhoblFiLVlDOUIzeGFsOU52Z2tnOGk0VkpYUV96eFQta01TU3E0T01GSDdSWXRIUmRocHhTWTNaR3UyektuYTFIb0RvZWVQeXdpZV9YeDJFeTNSejVVcFRfN2ppYmt5b0FYUF9MSDE0UFZTQVhBb21wQms4SDRSLWhZSGxoX0Z1bDJCcWU4WTZHM1FzSzM4YVNRT2hmS0VnckFKWXFvakNWbEdLZ2t1MkJNUlZqVUlKNVRXVA?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-09-18T23:47:28.000Z",
-      "topic": "Trouble",
-      "keyword": "Resignation",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "One Mobikwik's independent director Venkatesh resigned from the board.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "nbbdf8593dfb8",
       "ticker": "GLEN",
       "company": "Glen Industries Ltd",
@@ -630,6 +629,26 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Yash Highvoltage expands US presence through new partnership deal.",
+      "enriched": true
+    },
+    {
+      "id": "n8e6af4f57bc1",
+      "ticker": "MOBIKWIK",
+      "company": "One Mobikwik Systems Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "One Mobikwik Systems announces resignation of Independent Director Raghu Ram Hiremagalur Venkatesh",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSEtQeUZ2bXBlRUxqSmJoMkt3N0IyWmUwdlhQN1JPMTREV3NfMXJ2dHhkV1phUUl5bk9xZlUwRW1PS2hMNmgxbHJscWc2QXlfZFM0OWRGMkR5UUhHR1VCa3R2WG83ejJqWXlFOVZlWmpSaHlReU9MSVNvNHJZSnRPOFFocHpFaEZPTS1NQUlDUUZWTjlJZU5MLUtETllvYTBsbjBSYmJOM1pGVklRLWc4N3lkQXJad3pwQlJKdmZiRV9Fb1VuMTRhTXlhZUt4dS00ZHl1aDl3?oc=5",
+      "source": "Business Upturn",
+      "date": "2026-09-18T17:26:15.000Z",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Independent Director Raghu Ram Hiremagalur Venkatesh resigned from One Mobikwik Systems.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -3298,7 +3317,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Anupam Rasayan board approves acquisition of stake in Tanfac Industries.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -4551,7 +4570,7 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Board approved raising borrowing limit from ₹100 crore to ₹200 crore.",
-      "sources_count": 5,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -5074,27 +5093,7 @@
       "mood": "positive",
       "takeaway": "Rajesh Power Services wins Rs 653 crore underground power distribution order in Gujarat.",
       "enriched": true,
-      "sources_count": 4
-    },
-    {
-      "id": "nf48980ee1346",
-      "ticker": "RAJESH",
-      "company": "Rajesh Power Services Ltd",
-      "sector": "Utilities",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Rajesh Power Services Wins ₹362.83 Crore PGVCL Orders | Machine Maker - Latest Manufacturing News | Indian Manufacturing News - Latest Manufacturing News | Indian Manufacturing News - Machine Maker",
-      "url": "https://themachinemaker.com/news/rajesh-power-services-wins-%E2%82%B9362-83-crore-pgvcl-orders/",
-      "source": "themachinemaker.com",
-      "date": "2026-09-03T20:34:48.034Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Rajesh Power Services bags Rs 363 crore PGVCL order.",
-      "enriched": true,
-      "sources_count": 2
+      "sources_count": 3
     },
     {
       "id": "n17cc3ebb93f8",
@@ -5113,6 +5112,26 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Rajesh Power Services secures Rs 363 crore order from PGVCL.",
+      "enriched": true,
+      "sources_count": 2
+    },
+    {
+      "id": "nf48980ee1346",
+      "ticker": "RAJESH",
+      "company": "Rajesh Power Services Ltd",
+      "sector": "Utilities",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Rajesh Power Services Wins ₹362.83 Crore PGVCL Orders | Machine Maker - Latest Manufacturing News | Indian Manufacturing News - Latest Manufacturing News | Indian Manufacturing News - Machine Maker",
+      "url": "https://themachinemaker.com/news/rajesh-power-services-wins-%E2%82%B9362-83-crore-pgvcl-orders/",
+      "source": "themachinemaker.com",
+      "date": "2026-09-03T20:34:48.034Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Rajesh Power Services bags Rs 363 crore PGVCL order.",
       "enriched": true,
       "sources_count": 2
     },
@@ -6647,7 +6666,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Secured export order for lab-grown diamond jewellery.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -6705,7 +6724,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "EMA Partners acquired Taggd for ₹113 crore to form India's largest talent platform.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -9586,26 +9605,6 @@
       "enriched": true
     },
     {
-      "id": "n5a7b64df2628",
-      "ticker": "IKS",
-      "company": "Inventurus Knowledge Solutions Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Inventurus Knowledge Solutions Q1 Results: Earnings call scheduled for Aug 6",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOHBkQTlXZTBOVklLX0hSUFo3R2Z2aDVubXo1WmdXOEVlc2RtTG03MzFIWTl1RW52SDVlcDVOSGZhNlZSb2JsY1N3em1MdUFZTkZqSWZFQkxaVWhNakgxZnA0X1BpZ2ZPRVR2aVRILWpwN25JUWs3M0RjMDRSYUNjbVMzdlQ1MUlhcGhxbzB2UnFMTjFvN0p2SFhUVUdjZjMySlktdWs4Ujk4S19salVZSC1yc2RVYmh5LVlBR18wQXdmYnp3WEk0SUtEVlM?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-08-05T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Inventurus Knowledge Solutions scheduled earnings call for August 6 to discuss Q1 results.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "n2380b0c33ce4",
       "ticker": "STLTECH",
       "company": "Sterlite Technologies",
@@ -9818,25 +9817,6 @@
       "enriched": true
     },
     {
-      "id": "nc54465feba00",
-      "ticker": "TRIVENI",
-      "company": "Triveni Engineering & Industries Limited",
-      "sector": "Fast Moving Consumer Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Earnings Report: Triveni Engineering & Industries Limited Missed Revenue Estimates By 13%",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CTVJQQVNNaElpaW5zbXgtWUVDbXRsb0lJYzEtR0xMV2VBQ0phVk5pNlFDVUZZckl0X0Rha0lpVWRoNHpyMms0ZF8wd2NLU3Z0c0V3eXIzNXU?oc=5",
-      "source": "webull.com",
-      "date": "2026-08-01T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "negative",
-      "takeaway": "Triveni Engineering missed revenue estimates by 13% in latest quarter.",
-      "enriched": true
-    },
-    {
       "id": "n39d22c238d28",
       "ticker": "STLTECH",
       "company": "Sterlite Technologies Limited",
@@ -9854,6 +9834,25 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Sterlite Technologies secures Rs 960 crore order.",
+      "enriched": true
+    },
+    {
+      "id": "nc54465feba00",
+      "ticker": "TRIVENI",
+      "company": "Triveni Engineering & Industries Limited",
+      "sector": "Fast Moving Consumer Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Earnings Report: Triveni Engineering & Industries Limited Missed Revenue Estimates By 13%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CTVJQQVNNaElpaW5zbXgtWUVDbXRsb0lJYzEtR0xMV2VBQ0phVk5pNlFDVUZZckl0X0Rha0lpVWRoNHpyMms0ZF8wd2NLU3Z0c0V3eXIzNXU?oc=5",
+      "source": "webull.com",
+      "date": "2026-08-01T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "negative",
+      "takeaway": "Triveni Engineering missed revenue estimates by 13% in latest quarter.",
       "enriched": true
     },
     {
@@ -9933,25 +9932,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Vivid Electromech partners with ABB ArTuK for data center PDUs and metro train electrical panels.",
-      "enriched": true
-    },
-    {
-      "id": "n45dae976c63a",
-      "ticker": "TRIVENI",
-      "company": "Triveni Engineering & Industries Limited",
-      "sector": "Fast Moving Consumer Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Earnings call transcript: Triveni Engineering posts q1 fy 2027 profit rebound",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQkJtalIzQ2dlQUpIOEZ6SDNfTzV0U1EtazF1SmpHUXd4ZG9WMkJQdmpsMTd6UExrd3ZHZ3FWb19GTnZFekJnT0YzQUdnWFRCWTZpRXM5dkRna3R5MjY4eXJCNnprQUR5aUhMSU03bUhJWTI2czFCUWMyeFhqUWNxWHVkUmdOQ0F0ZDk2VTc0RGtJb19ETUthZEhlb3EzZUx5SVc0X1JSRUhBTmJCb0FzNkF2SDRjR0E1TDJoMmhxWkU0SW8wbkxFendCYUY?oc=5",
-      "source": "Investing.com",
-      "date": "2026-07-30T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Triveni Engineering reports profit rebound in Q1 FY2027.",
       "enriched": true
     },
     {
@@ -10066,6 +10046,25 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Tenneco Clean Air India schedules Q1 earnings call for August 6.",
+      "enriched": true
+    },
+    {
+      "id": "n45dae976c63a",
+      "ticker": "TRIVENI",
+      "company": "Triveni Engineering & Industries Limited",
+      "sector": "Fast Moving Consumer Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Earnings call transcript: Triveni Engineering posts q1 fy 2027 profit rebound",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQkJtalIzQ2dlQUpIOEZ6SDNfTzV0U1EtazF1SmpHUXd4ZG9WMkJQdmpsMTd6UExrd3ZHZ3FWb19GTnZFekJnT0YzQUdnWFRCWTZpRXM5dkRna3R5MjY4eXJCNnprQUR5aUhMSU03bUhJWTI2czFCUWMyeFhqUWNxWHVkUmdOQ0F0ZDk2VTc0RGtJb19ETUthZEhlb3EzZUx5SVc0X1JSRUhBTmJCb0FzNkF2SDRjR0E1TDJoMmhxWkU0SW8wbkxFendCYUY?oc=5",
+      "source": "Investing.com",
+      "date": "2026-07-30T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Triveni Engineering reports profit rebound in Q1 FY2027.",
       "enriched": true
     },
     {
@@ -10908,44 +10907,6 @@
       "enriched": true
     },
     {
-      "id": "n88fb1944c827",
-      "ticker": "TRIVENI",
-      "company": "Triveni Engineering & Industries Limited",
-      "sector": "Fast Moving Consumer Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "TRIVENI Mar 2026 Earnings: Solid Performance Anchored by Sugar and Engineering Segments - Earnings Turnaround",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWTZUQ3FsZHliak8xRm9JTXdkeUxBREdOaTdvRkhqZjFyaDNfam5RRFRpRVNmemV2SlQxVk9aOGJNQlBsdkh0TDlKd0FMSUVrb21XeUpWZVRTeXFfSkF2b0k1UjVxcXpBeTBNWnZYTl9qZzhndF94a2F1bU5vSnAxSWJrWU1QQVZZanJUWDlSbzU0UWxyUjdPbUVQMnRMQ2xrTmRnTFRnb0didG5TUzF5NDhFcERnTm40LWZ4TE9nSGFaeUJkUkZV?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-11T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Triveni Engineering reported solid March 2026 results driven by strong sugar and engineering segment performance.",
-      "enriched": true
-    },
-    {
-      "id": "nd11101502750",
-      "ticker": "TRIVENI",
-      "company": "Triveni Engineering & Industries Limited",
-      "sector": "Fast Moving Consumer Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "TRIVENI.NS Mar 2026 Earnings: Robust Revenue and Margin Performance Amid Agricultural Sector Momentum",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaHBxYWE1enE3TTZzOTdxVU4xV0E0aGRXaTkyOGEzdDlqc05tOVRwc003OFFFcmZCWGFRcDRvek5rdDBpbkIwczhxX3ZmeGZuWXVaOVNlY2lSV2lraDAyR010MlZRUU5xa01zTDRMQmRaVHNpdG0zY1hEU3VraGVmckFjMXYxWEduQnl2aURNVkdpN0pMR1draEZEN240WFVBLXkyVXVrdmtNWTg2NmtKckt6VnFjYzJReFIwMTBIeGpUZ2NUcTNvQzNUejR4M3l1Mm1OWFZOWnQ?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-11T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Triveni Engineering reported strong revenue and margin performance in March 2026 quarter.",
-      "enriched": true
-    },
-    {
       "id": "n028b0769b644",
       "ticker": "SURYAROSNI",
       "company": "Surya Roshni Limited",
@@ -11100,6 +11061,44 @@
       "mood": "neutral",
       "takeaway": "Onesource Specialty Pharma reported March 2026 quarter with EPS of ₹1.87 on revenue of ₹419 crore.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n88fb1944c827",
+      "ticker": "TRIVENI",
+      "company": "Triveni Engineering & Industries Limited",
+      "sector": "Fast Moving Consumer Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "TRIVENI Mar 2026 Earnings: Solid Performance Anchored by Sugar and Engineering Segments - Earnings Turnaround",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWTZUQ3FsZHliak8xRm9JTXdkeUxBREdOaTdvRkhqZjFyaDNfam5RRFRpRVNmemV2SlQxVk9aOGJNQlBsdkh0TDlKd0FMSUVrb21XeUpWZVRTeXFfSkF2b0k1UjVxcXpBeTBNWnZYTl9qZzhndF94a2F1bU5vSnAxSWJrWU1QQVZZanJUWDlSbzU0UWxyUjdPbUVQMnRMQ2xrTmRnTFRnb0didG5TUzF5NDhFcERnTm40LWZ4TE9nSGFaeUJkUkZV?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-11T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Triveni Engineering reported solid March 2026 results driven by strong sugar and engineering segment performance.",
+      "enriched": true
+    },
+    {
+      "id": "nd11101502750",
+      "ticker": "TRIVENI",
+      "company": "Triveni Engineering & Industries Limited",
+      "sector": "Fast Moving Consumer Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "TRIVENI.NS Mar 2026 Earnings: Robust Revenue and Margin Performance Amid Agricultural Sector Momentum",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaHBxYWE1enE3TTZzOTdxVU4xV0E0aGRXaTkyOGEzdDlqc05tOVRwc003OFFFcmZCWGFRcDRvek5rdDBpbkIwczhxX3ZmeGZuWXVaOVNlY2lSV2lraDAyR010MlZRUU5xa01zTDRMQmRaVHNpdG0zY1hEU3VraGVmckFjMXYxWEduQnl2aURNVkdpN0pMR1draEZEN240WFVBLXkyVXVrdmtNWTg2NmtKckt6VnFjYzJReFIwMTBIeGpUZ2NUcTNvQzNUejR4M3l1Mm1OWFZOWnQ?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-11T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Triveni Engineering reported strong revenue and margin performance in March 2026 quarter.",
       "enriched": true
     },
     {
@@ -13244,65 +13243,6 @@
       "takeaway": "Epigral reported March 2026 revenue of ₹736 crore with earnings per share of ₹18.99.",
       "enriched": true,
       "sources_count": 2
-    },
-    {
-      "id": "n0c26b1a72eef",
-      "ticker": "AVANTEL",
-      "company": "Avantel Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Avantel Mar 2026 Earnings: Steady Profitability Amid Stable Revenue - Analyst Drop Coverage",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQWZKRzFPckwta2RLZ25IZElwN2ZjZHVRblBrOXFnelpDbFVyU1liRHEtSjBnQXAtdXlDUTNWYkRUYzFvbWFQMnZEdnBNRDJ2WjZLTFVDTFpqUzViLWs4em5wMERvSHp3NmNZNEpMZEV2aVlpZlZuSUkyUHJubTAtbXJ6Wk9HemxwV2ZkMXJoZGNnZXluX2gyYWRWWlp3M29paHVGZ1dqMWRnczhO?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-14T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Avantel reported steady profitability with stable revenue for March 2026 quarter",
-      "enriched": true
-    },
-    {
-      "id": "n56929915f709",
-      "ticker": "XPROINDIA",
-      "company": "Xpro India Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "XPROINDIA Q2 2026 Earnings: Revenue Declines Amid Challenging Demand, EPS Holds at ₹8.45 - Earnings Manipulation Risk",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTDUxelB5OXV4MDE0bmpBYzNpeDkzeDhmaG1CVWlBellBU01LS29pRnRNVGtBUUt3OVJkRjY0QUhlVl9ENU52Vi1jYXdXSGtXVzZhSTI5TzRyZy1EN2dQV3ZxdGtKYkZ0RWVFODNQd3kwalFWUXdzQlFlVHp3bHlUYkJjaFpoQ2xyOXZPaXZFU0VDZ01NSFNSYS1lSUtJRnQyWTJkUS1RR0IyTi1PRHNtcUxLLUF1X0U0bUQzSGNtVlBxZWdv?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-14T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "negative",
-      "takeaway": "Xpro India Q2 revenue declined amid weak demand, earnings per share at ₹8.45.",
-      "enriched": true
-    },
-    {
-      "id": "n814463ee3546",
-      "ticker": "MOLDTKPAC",
-      "company": "Mold-Tek Packaging Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "MOLDTKPAC Q2 2026 Earnings: Double-Digit Revenue Growth Amid Steady Packaging Demand - Mid-Term Outlook",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPajhLNzA5alpmYjQ3VWlMcEJkQWRfb2k2LUh0MTFfM1RhVmZ4TGsyNTAzZDRXcmhGTTFjMzhUUXI1NktrTm42MGgwdUdqWTdpMng5N1ltbkI2R0tIM2tQYXJuWjk3eWZNbU5CRzJFdC1IaVVRVjNBbXJTTS1WUmpZdS1ON2IxVEl1WUJqTWdwcmY5YURXQkpnQUVKTWpucUZ5Wml6RDVRbllUN2EteFdOVDY2N0k2U1k1cmNsMTUyMnFWUQ?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-14T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Mold-Tek Packaging Q2 revenue grew double-digits on steady packaging demand.",
-      "sources_count": 2,
-      "enriched": true
     }
   ]
 }
