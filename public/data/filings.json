@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T08:01:21.684Z",
+  "generated_at": "2026-09-22T18:23:39.282Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,206 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f7303589e3652",
+      "ticker": "MOLDTKPAC",
+      "company": "Mold-Tek Packaging Limited",
+      "exchange": "NSE",
+      "date": "2026-09-22T20:42:18.000Z",
+      "category": "Shareholders meeting",
+      "title": "Mold-Tek Packaging Limited has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on September 21, 2026. Further, the company has informed the Exchange regarding voting results.",
+      "url": "https://nsearchives.nseindia.com/corporate/MOLDTKPAC_22092026204209_SE_Intimation.pdf"
+    },
+    {
+      "id": "f1cc090325169",
+      "ticker": "DENTALKART",
+      "company": "Vasa Denticity Limited",
+      "exchange": "NSE",
+      "date": "2026-09-22T19:55:32.000Z",
+      "category": "Allotment of Securities",
+      "title": "Vasa Denticity Limited has informed the Exchange about Options to purchase securities",
+      "url": "https://nsearchives.nseindia.com/corporate/VASADENTICITY_22092026195520_Intimations_of_ESOP_in_3rd_tranche.pdf"
+    },
+    {
+      "id": "f1d88e7fb34e7",
+      "ticker": "DENTALKART",
+      "company": "Vasa Denticity Limited",
+      "exchange": "NSE",
+      "date": "2026-09-22T19:53:49.000Z",
+      "category": "Change in Company Secretary/Compliance Officer",
+      "title": "Vasa Denticity Limited has informed the Exchange about Change in Company Secretary/Compliance Officer",
+      "url": "https://nsearchives.nseindia.com/corporate/VASADENTICITY_22092026195337_Intimation_of_Appointment_of_CS.pdf"
+    },
+    {
+      "id": "ff07632fad63e",
+      "ticker": "DENTALKART",
+      "company": "Vasa Denticity Limited",
+      "exchange": "NSE",
+      "date": "2026-09-22T19:52:21.000Z",
+      "category": "Board Meeting",
+      "title": "Vasa Denticity Limited has informed the Exchange regarding Outcome of Board Meeting held on September 22, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/VASADENTICITY_22092026195146_Outcome_of_Board_Meeting.pdf"
+    },
+    {
+      "id": "ff53645771ed6",
+      "ticker": "IKS",
+      "company": "Inventurus Knowledge Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-09-22T19:47:00.000Z",
+      "category": "Shareholders meeting",
+      "title": "Inventurus Knowledge Solutions Limited has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on September 21, 2026. Further, the company has informed the Exchange regarding voting results.",
+      "url": "https://nsearchives.nseindia.com/corporate/IKS2006_22092026194524_Voting_Results_along_with_Scrutinizer_Report_SE_Upload_Final.pdf"
+    },
+    {
+      "id": "f7b065955adb3",
+      "ticker": "ESDS",
+      "company": "ESDS Software Solution Limited",
+      "exchange": "NSE",
+      "date": "2026-09-22T19:17:10.000Z",
+      "category": "Investor Presentation",
+      "title": "ESDS Software Solution Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/ESDS_22092026191642_ESDS_Investor_Meet_BSE_NSE_Intimation.pdf"
+    },
+    {
+      "id": "f9804f3c3feca",
+      "ticker": "STLTECH",
+      "company": "Sterlite Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-09-22T18:33:18.000Z",
+      "category": "Change in Directors",
+      "title": "STLTECH: Sterlite Technologies Limited has informed the Exchange regarding Appointment of Ms. Lakshmi Iyer as Senior Management Personnel of the company w.e.f. September 23, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/STLTECH_22092026183311_Covering_letter_SMP_Appointment_Signed.pdf"
+    },
+    {
+      "id": "ffe8d31fde01c",
+      "ticker": "PVRINOX",
+      "company": "PVR INOX Limited",
+      "exchange": "NSE",
+      "date": "2026-09-22T18:14:09.000Z",
+      "category": "Investor Presentation",
+      "title": "PVR INOX Limited has informed the Exchange that senior management of the Company will participate in Institutional Investor meetings as mentioned in the attachment.",
+      "url": "https://nsearchives.nseindia.com/corporate/PVRINOXLTD_22092026181236_PVRINOXInvestororAnalystMeet22092026.pdf"
+    },
+    {
+      "id": "f7f432c7071d2",
+      "ticker": "SPUNWEB",
+      "company": "Spunweb Nonwoven Limited",
+      "exchange": "NSE",
+      "date": "2026-09-22T17:39:26.000Z",
+      "category": "Shareholders meeting",
+      "title": "Spunweb Nonwoven Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 22, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/SPUNWEB_22092026173916_AGMTranscriptFinal.pdf"
+    },
+    {
+      "id": "f4fd33bc59340",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "exchange": "NSE",
+      "date": "2026-09-22T17:22:12.000Z",
+      "category": "Investor Presentation",
+      "title": "DEE Development Engineers Limited has informed the Exchange about Schedule of Analyst/ Institutional Investor Meet, online",
+      "url": "https://nsearchives.nseindia.com/corporate/DDEL_22092026172150_NSEBSE_Investor_Meet.pdf"
+    },
+    {
+      "id": "fd32246706e30",
+      "ticker": "TEMPSENS",
+      "company": "Tempsens Instruments (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-09-22T17:03:46.000Z",
+      "category": "Investor Presentation",
+      "title": "Tempsens Instruments (India) Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/TEMPSENS_22092026170331_Transcript_june.pdf"
+    },
+    {
+      "id": "f29345ec38d28",
+      "ticker": "GULFOILLUB",
+      "company": "Gulf Oil Lubricants India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-22T16:48:22.000Z",
+      "category": "Investor Presentation",
+      "title": "We hereby inform you that a meet is scheduled to be held on Monday, September 28, 2026 with Analysts/ Institutional Investors.",
+      "url": "https://nsearchives.nseindia.com/corporate/GULFOILLUB_22092026164810_Investor28092026.pdf"
+    },
+    {
+      "id": "fb5fc15b6fadb",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "exchange": "NSE",
+      "date": "2026-09-22T16:39:54.000Z",
+      "category": "Trading Window",
+      "title": "Surya Roshni Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/SURYAROSNI_22092026163930_TWC_22092026.pdf"
+    },
+    {
+      "id": "fd5aa03456661",
+      "ticker": "KKJEWELS",
+      "company": "Kabra Jewels Limited",
+      "exchange": "NSE",
+      "date": "2026-09-22T16:18:16.000Z",
+      "category": "Trading Window",
+      "title": "Kabra Jewels Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/KABRAJEWELS_22092026161738_Kabra.pdf"
+    },
+    {
+      "id": "f3ed79a0c6cef",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-22T16:06:39.000Z",
+      "category": "Action(s) taken or orders passed",
+      "title": "Sapphire Foods India Limited has informed the Exchange about Action(s) taken or orders passed",
+      "url": "https://nsearchives.nseindia.com/corporate/SAPPHIRE_22092026160610_SapphireSEDisclosure22092026FY202223.pdf"
+    },
+    {
+      "id": "f686e460ae9ab",
+      "ticker": "HTEL",
+      "company": "Hy-Tech Engineers Limited",
+      "exchange": "NSE",
+      "date": "2026-09-22T15:36:03.000Z",
+      "category": "Investor Presentation",
+      "title": "Hy-Tech Engineers Limited has informed the Exchange about Link of Recording",
+      "url": "https://nsearchives.nseindia.com/corporate/HYTECH_22092026153519_Audio_recording_of_Earnings_Call_Q1_FY_26-27.pdf"
+    },
+    {
+      "id": "f5b0cf57116d7",
+      "ticker": "INDOMIM",
+      "company": "INDO-MIM Limited",
+      "exchange": "NSE",
+      "date": "2026-09-22T15:24:58.000Z",
+      "category": "Shareholders meeting",
+      "title": "Summary of Proceedings of the 30th Annual General Meeting (AGM) of the Company held on Tuesday, September 22, 2026 at 09:00 AM.",
+      "url": "https://nsearchives.nseindia.com/corporate/INDOMIM_22092026152438_INDO_MIM_-_Proceedings_of_AGM_-_22-09-2026.pdf"
+    },
+    {
+      "id": "f8e1ec2cc3652",
+      "ticker": "AVANTEL",
+      "company": "Avantel Limited",
+      "exchange": "NSE",
+      "date": "2026-09-22T14:49:04.000Z",
+      "category": "Disclosure",
+      "title": "Avantel Limited has informed the Exchange about communication to shareholders whose e-mail addresses are not registered with the Company",
+      "url": "https://nsearchives.nseindia.com/corporate/AVANTEL_22092026144811_SpecimenCopyIntimation.pdf"
+    },
+    {
+      "id": "f10b0eab80fdc",
+      "ticker": "MOBIKWIK",
+      "company": "One Mobikwik Systems Limited",
+      "exchange": "NSE",
+      "date": "2026-09-22T14:46:13.000Z",
+      "category": "Shareholders meeting",
+      "title": "One Mobikwik Systems Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 22, 2026. Further, the company has submitted the Exchange a copy of Srutinizers report along with voting results.",
+      "url": "https://nsearchives.nseindia.com/corporate/MOBIKWIK_22092026144545_Outcome_of_AGM_with_Proceedings.pdf"
+    },
+    {
+      "id": "f2ea5fd62b6fb",
+      "ticker": "PDSL",
+      "company": "PDS Limited",
+      "exchange": "NSE",
+      "date": "2026-09-22T14:27:38.000Z",
+      "category": "Acquisition",
+      "title": "PDS Limited has informed the Exchange about Acquisition",
+      "url": "https://nsearchives.nseindia.com/corporate/PDSL_22092026142728_Ltr_INC_DesignCOE_22092026.pdf"
+    },
     {
       "id": "f54b28011642a",
       "ticker": "ACUTAAS",
@@ -19806,206 +20006,6 @@
       "category": "Shareholders meeting",
       "title": "Balu Forge Industries Limited has submitted the Exchange a copy Srutinizers report of Postal Ballot. Further, the company has informed the Exchange regarding voting results.",
       "url": "https://nsearchives.nseindia.com/corporate/BALUFORGE_29062026163245_Result.pdf"
-    },
-    {
-      "id": "fdc24e93a51ce",
-      "ticker": "GMMPFAUDLR",
-      "company": "GMM Pfaudler Limited",
-      "exchange": "NSE",
-      "date": "2026-06-29T16:20:28.000Z",
-      "category": "Trading Window",
-      "title": "GMM Pfaudler Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_29062026161845_Windowclosure30062026Signed.pdf"
-    },
-    {
-      "id": "f6820a0e929d4",
-      "ticker": "SKYGOLD",
-      "company": "SKY GOLD AND DIAMONDS LIMITED",
-      "exchange": "NSE",
-      "date": "2026-06-29T16:08:27.000Z",
-      "category": "Investor Presentation",
-      "title": "Pursuant to the provision of Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations 2015, we would like to inform you that the Management of the Company will be interacting with Investors on Thursday, 2nd July 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/SKYGOLD_29062026160752_Intimation02072026.pdf"
-    },
-    {
-      "id": "fe0019c427476",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-06-29T16:04:50.000Z",
-      "category": "Trading Window",
-      "title": "Aurionpro Solutions Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/AURIONPRO_29062026160415_ASL_Trading_Window_Closure_June_2026_sd.pdf"
-    },
-    {
-      "id": "fcaa332c55638",
-      "ticker": "RUBICON",
-      "company": "Rubicon Research Limited",
-      "exchange": "NSE",
-      "date": "2026-06-29T15:49:12.000Z",
-      "category": "Trading Window",
-      "title": "Rubicon Research Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/9823522970_29062026154832_RubiconSEIntimationTWC30thJune2026.pdf"
-    },
-    {
-      "id": "f8429d456db14",
-      "ticker": "SONATSOFTW",
-      "company": "Sonata Software Limited",
-      "exchange": "NSE",
-      "date": "2026-06-29T15:47:55.000Z",
-      "category": "Trading Window",
-      "title": "Sonata Software Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/SONATSOFTW_29062026154724_seintimationtradingwindowclosure.pdf"
-    },
-    {
-      "id": "f2714cd3e5dd0",
-      "ticker": "SHRIAHIMSA",
-      "company": "Shri Ahimsa Naturals Limited",
-      "exchange": "NSE",
-      "date": "2026-06-29T15:42:17.000Z",
-      "category": "Disclosure",
-      "title": "Prerna Jain has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_11052026155436_SHRIAHIMSA.pdf"
-    },
-    {
-      "id": "f2f7edd024dd8",
-      "ticker": "FAZE3Q",
-      "company": "Faze Three Limited",
-      "exchange": "NSE",
-      "date": "2026-06-29T15:25:09.000Z",
-      "category": "Trading Window",
-      "title": "Faze Three Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/FAZETHREE_29062026152424_Intimation.pdf"
-    },
-    {
-      "id": "fe9742b43e2bc",
-      "ticker": "STLTECH",
-      "company": "Sterlite Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-06-29T14:57:55.000Z",
-      "category": "Trading Window",
-      "title": "Sterlite Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/STLTECH_29062026145614_SETradingwindowclosureIntimation_Signed.pdf"
-    },
-    {
-      "id": "f7cac99216b64",
-      "ticker": "EPIGRAL",
-      "company": "Epigral Limited",
-      "exchange": "NSE",
-      "date": "2026-06-29T14:52:21.000Z",
-      "category": "Disclosure",
-      "title": "Epigral Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_23062026131128_38.pdf"
-    },
-    {
-      "id": "ff8c2c630f2d4",
-      "ticker": "MEDIASSIST",
-      "company": "Medi Assist Healthcare Services Limited",
-      "exchange": "NSE",
-      "date": "2026-06-29T14:30:12.000Z",
-      "category": "Trading Window",
-      "title": "Medi Assist Healthcare Services Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/MEDIASSIST_29062026142959_ClosureoftradingwindowJune302026.pdf"
-    },
-    {
-      "id": "f9e60c31d5dd8",
-      "ticker": "SOLARINDS",
-      "company": "Solar Industries India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-29T11:59:31.000Z",
-      "category": "Record Date",
-      "title": "Solar Industries India Limited has informed the Exchange that Record date for the purpose of Dividend is 28-Jul-2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/SOLARINDS_29062026115516_BookClosureIntimation.pdf"
-    },
-    {
-      "id": "f792d03aa5142",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "exchange": "NSE",
-      "date": "2026-06-29T11:43:32.000Z",
-      "category": "Disclosure",
-      "title": "DEE Development Engineers Limited has informed the Exchange about Update on Preferential Issue of equity shares",
-      "url": "https://nsearchives.nseindia.com/corporate/DDEL_29062026113707_NSEBSESIGNED.pdf"
-    },
-    {
-      "id": "fcd7c6cbf71ef",
-      "ticker": "MIDWESTLTD",
-      "company": "Midwest Limited",
-      "exchange": "NSE",
-      "date": "2026-06-29T10:43:17.000Z",
-      "category": "Trading Window",
-      "title": "Midwest Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/MIDWEST_29062026104130_Trading_Window_Closure.pdf"
-    },
-    {
-      "id": "fe3de4fa8ca9e",
-      "ticker": "SETL",
-      "company": "Standard Engineering Technology Limited",
-      "exchange": "NSE",
-      "date": "2026-06-29T02:41:31.000Z",
-      "category": "Addendum",
-      "title": "Standard Engineering Technology Limited has informed the Exchange about Addendum to the Investors Presentation dated June 25, 2026 in relation to the Proposed Acquisition of GScale Energy Private Limited",
-      "url": "https://nsearchives.nseindia.com/corporate/SGLTPL_29062026024107_Addendum_to_investors_presentation-29062026.pdf"
-    },
-    {
-      "id": "fd14633df3456",
-      "ticker": "CARTRADE",
-      "company": "Cartrade Tech Limited",
-      "exchange": "NSE",
-      "date": "2026-06-28T22:50:41.000Z",
-      "category": "Press Release",
-      "title": "Cartrade Tech Limited has informed the Exchange regarding a press release dated Jun 28, 2026, titled \"OLX India and IDFC FIRST Bank Partner to launch Used-Car Loans\".",
-      "url": "https://nsearchives.nseindia.com/corporate/CARTRADE_28062026225027_Press_Release.pdf"
-    },
-    {
-      "id": "f0a620ab5f416",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "exchange": "NSE",
-      "date": "2026-06-27T21:46:33.000Z",
-      "category": "Trading Window",
-      "title": "DEE Development Engineers Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/DDEL_27062026214625_BSENSESIGNED.pdf"
-    },
-    {
-      "id": "fbd2549bc439c",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "exchange": "NSE",
-      "date": "2026-06-27T21:31:15.000Z",
-      "category": "Disclosure",
-      "title": "DEE Development Engineers Limited has informed the Exchange about approval of Preferential Issue of Securities on a Private Placement Basis",
-      "url": "https://nsearchives.nseindia.com/corporate/DDEL_27062026213104_NSEBSESIGNED.pdf"
-    },
-    {
-      "id": "ff17439270c6f",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "exchange": "NSE",
-      "date": "2026-06-27T20:57:52.000Z",
-      "category": "Shareholders meeting",
-      "title": "DEE Development Engineers Limited has submitted the Exchange a copy Srutinizers report of Extraordinary General Meeting held on Jun 27, 2026. Further, the company has informed the Exchange regarding voting results.",
-      "url": "https://nsearchives.nseindia.com/corporate/DDEL_27062026205741_NSEBSESIGNED.pdf"
-    },
-    {
-      "id": "f6cf8d632eb1a",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-27T18:15:56.000Z",
-      "category": "Disclosure",
-      "title": "Sapphire Foods India Limited has informed Exchange regarding ESG Report for the Financial Year 2025-26",
-      "url": "https://nsearchives.nseindia.com/corporate/SAPPHIRE_27062026181527_SapphireFoodsESGReport.pdf"
-    },
-    {
-      "id": "f405dcfccf020",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-27T17:46:26.000Z",
-      "category": "Shareholders meeting",
-      "title": "Sapphire Foods India Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on 21st July 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/SAPPHIRE_27062026174612_NoticeofAGM27062026.pdf"
     }
   ]
 }
