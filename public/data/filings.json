@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T19:49:02.170Z",
+  "generated_at": "2026-09-22T08:01:21.684Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,66 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f54b28011642a",
+      "ticker": "ACUTAAS",
+      "company": "Acutaas Chemicals Limited",
+      "exchange": "NSE",
+      "date": "2026-09-22T13:01:25.000Z",
+      "category": "Trading Window",
+      "title": "Acutaas Chemicals Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/AMIORG_22092026130111_ClosureofTWCswSigned.pdf"
+    },
+    {
+      "id": "f62539497b4dc",
+      "ticker": "LGEINDIA",
+      "company": "LG Electronics India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-22T12:36:53.000Z",
+      "category": "Press Release",
+      "title": "LG Electronics India Limited has informed the Exchange regarding a press release dated September 22, 2026, titled \"LG Electronics Introduces New Range of Semi-Automatic Washing Machines, Combining Powerful Performance, Smart Convenience and Bold Design\".",
+      "url": "https://nsearchives.nseindia.com/corporate/LGEINDIA_22092026122955_Press_Release_dated_22nd_September_2026.pdf"
+    },
+    {
+      "id": "fca2f67d631fc",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "exchange": "NSE",
+      "date": "2026-09-22T12:27:29.000Z",
+      "category": "Trading Window",
+      "title": "Apsis Aerocom Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/APSIS2025_22092026122512_ApsisTradingWindowOct2026_Signed.pdf"
+    },
+    {
+      "id": "fff3644575dcc",
+      "ticker": "LUMINO",
+      "company": "Lumino Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-22T12:10:51.000Z",
+      "category": "Newspaper Publication",
+      "title": "Lumino Industries Limited has informed the Exchange about Copy of Newspaper Publication of unaudited Financial Results of the Company for the quarter ended June 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/LUMINO123_22092026121043_Reg47Intimation.pdf"
+    },
+    {
+      "id": "f8efd53cb3f4d",
+      "ticker": "STYLAMIND",
+      "company": "Stylam Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-22T10:43:14.000Z",
+      "category": "Commencement of commercial production/operations",
+      "title": "Stylam Industries Limited has informed the Exchange about Commencement of commercial production.",
+      "url": "https://nsearchives.nseindia.com/corporate/STYLAMIND_22092026104225_Intimation_for_commencement.pdf"
+    },
+    {
+      "id": "f5a2c682b81b2",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "exchange": "NSE",
+      "date": "2026-09-22T00:13:36.000Z",
+      "category": "Investor Presentation",
+      "title": "DEE Development Engineers Limited has informed the Exchange about plant visit, Anjar, Gujarat",
+      "url": "https://nsearchives.nseindia.com/corporate/DDEL_22092026000943_NSEBSE_Plant_Visit.pdf"
+    },
     {
       "id": "f92aa26f86abd",
       "ticker": "MEESHO",
@@ -19946,66 +20006,6 @@
       "category": "Shareholders meeting",
       "title": "Sapphire Foods India Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on 21st July 2026",
       "url": "https://nsearchives.nseindia.com/corporate/SAPPHIRE_27062026174612_NoticeofAGM27062026.pdf"
-    },
-    {
-      "id": "f45979631add3",
-      "ticker": "SETL",
-      "company": "Standard Engineering Technology Limited",
-      "exchange": "NSE",
-      "date": "2026-06-27T17:10:35.000Z",
-      "category": "Trading Window",
-      "title": "Standard Engineering Technology Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/SGLTPL_27062026171024_Trading_Window_Closure_27062026.pdf"
-    },
-    {
-      "id": "ffa781c8d48d8",
-      "ticker": "STYLAMIND",
-      "company": "Stylam Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-06-27T16:41:45.000Z",
-      "category": "Trading Window",
-      "title": "Stylam Industries Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/STYLAMIND_27062026164137_Intimation_Trading_Window_Closures.pdf"
-    },
-    {
-      "id": "f722bea1aa25f",
-      "ticker": "EMAPARTNER",
-      "company": "EMA Partners India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-27T14:10:41.000Z",
-      "category": "Newspaper Publication",
-      "title": "EMA Partners India Limited has informed the Exchange about Copy of Newspaper Publication",
-      "url": "https://nsearchives.nseindia.com/corporate/EMAIN_27062026141021_Newspaper_ad_Postal_ballot_notice.pdf"
-    },
-    {
-      "id": "f1b947fac4041",
-      "ticker": "EMAPARTNER",
-      "company": "EMA Partners India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-27T14:07:59.000Z",
-      "category": "Shareholders meeting",
-      "title": "EMA Partners India Limited has informed the Exchange regarding Notice of Postal Ballot",
-      "url": "https://nsearchives.nseindia.com/corporate/EMAIN_27062026140733_Intimation_of_Postal_Ballot_Notice.pdf"
-    },
-    {
-      "id": "fc833bacbb95d",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "exchange": "NSE",
-      "date": "2026-06-27T13:49:05.000Z",
-      "category": "Shareholders meeting",
-      "title": "Proceedings of the EGM held on June 27, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/DDEL_27062026134806_NSEBSESIGNED.pdf"
-    },
-    {
-      "id": "f0709a764759e",
-      "ticker": "CONCORDBIO",
-      "company": "Concord Biotech Limited",
-      "exchange": "NSE",
-      "date": "2026-06-27T11:08:27.000Z",
-      "category": "Trading Window",
-      "title": "Concord Biotech Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/CONCORD_27062026110818_Concord_Intimation_Closure_of_Trading_window.pdf"
     }
   ]
 }
