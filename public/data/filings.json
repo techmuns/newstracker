@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T18:23:39.282Z",
+  "generated_at": "2026-09-23T08:06:03.329Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,36 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f29acc6ab46b6",
+      "ticker": "XPROINDIA",
+      "company": "Xpro India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-23T11:15:01.000Z",
+      "category": "Trading Window",
+      "title": "Xpro India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/XPROINDIASKD_23092026110955_Stock_exchange_letter_Signed.pdf"
+    },
+    {
+      "id": "f86cf1e7ba7ce",
+      "ticker": "VOEPL",
+      "company": "Virtuoso Optoelectronics Limited",
+      "exchange": "NSE",
+      "date": "2026-09-23T10:45:14.000Z",
+      "category": "Credit Rating",
+      "title": "Virtuoso Optoelectronics Limited has informed the Exchange about Credit Rating",
+      "url": "https://nsearchives.nseindia.com/corporate/VIRTUOSO_23092026104401_Credit_Rating_Intimation.pdf"
+    },
+    {
+      "id": "f8d3bbcd7eb3c",
+      "ticker": "FLYSBS",
+      "company": "FlySBS Aviation Limited",
+      "exchange": "NSE",
+      "date": "2026-09-23T10:08:52.000Z",
+      "category": "Press Release",
+      "title": "Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, a Press Release titled FlySBS Aviation Signs Long-Term Aviation Fuel Supply Agreement with Hindustan Petroleum Corporation Limited (HPCL) which is enclosed herewith for your reference.",
+      "url": "https://nsearchives.nseindia.com/corporate/FLYSBS_23092026100808_PR.pdf"
+    },
     {
       "id": "f7303589e3652",
       "ticker": "MOLDTKPAC",
@@ -19976,36 +20006,6 @@
       "category": "Trading Window",
       "title": "Monolithisch India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
       "url": "https://nsearchives.nseindia.com/corporate/MONOLITHISCH_29062026165448_Monolithisch_Trading_window_closure_30062026.pdf"
-    },
-    {
-      "id": "fd3527ed9db16",
-      "ticker": "DENTA",
-      "company": "Denta Water and Infra Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-06-29T16:48:05.000Z",
-      "category": "Investor Presentation",
-      "title": "Denta Water and Infra Solutions Limited has informed the Exchange about Transcript",
-      "url": "https://nsearchives.nseindia.com/corporate/DENTA_29062026164751_Transcript_of_Concall_Denta_Water_25062026.pdf"
-    },
-    {
-      "id": "f8ed359ad44ce",
-      "ticker": "BALUFORGE",
-      "company": "Balu Forge Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-06-29T16:34:57.000Z",
-      "category": "Shareholders meeting",
-      "title": "Balu Forge Industries Limited has informed the Exchange regarding Proceedings of Postal Ballot",
-      "url": "https://nsearchives.nseindia.com/corporate/BALUFORGE_29062026163445_Proceedings_of_Postal_ballot.pdf"
-    },
-    {
-      "id": "f63901f0f9229",
-      "ticker": "BALUFORGE",
-      "company": "Balu Forge Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-06-29T16:32:58.000Z",
-      "category": "Shareholders meeting",
-      "title": "Balu Forge Industries Limited has submitted the Exchange a copy Srutinizers report of Postal Ballot. Further, the company has informed the Exchange regarding voting results.",
-      "url": "https://nsearchives.nseindia.com/corporate/BALUFORGE_29062026163245_Result.pdf"
     }
   ]
 }
