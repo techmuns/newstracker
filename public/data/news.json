@@ -1,52 +1,362 @@
 {
-  "generated_at": "2026-09-23T08:03:34.264Z",
+  "generated_at": "2026-09-23T18:48:17.301Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 108,
-    "watchlist": 658,
-    "universe": 33,
-    "total": 691
+    "portfolio": 110,
+    "watchlist": 666,
+    "universe": 34,
+    "total": 700
   },
   "items": [
     {
-      "id": "ndbac1d406588",
+      "id": "nf758fde71419",
       "ticker": "MSECL",
       "company": "Monarch Surveyors and Engineering Consultants Ltd",
       "sector": "Services",
       "scope": [
         "watchlist"
       ],
-      "title": "Monarch Surveyors and Engineering Consultants receives Rs 2-cr work order | Capital Market News - Business Standard",
-      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-and-engineering-consultants-receives-rs-2-cr-work-order-126082200734_1.html",
+      "title": "Monarch Surveyors bags order worth Rs 5 crore | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-bags-order-worth-rs-5-crore-126062500927_1.html",
       "source": "business-standard.com",
-      "date": "2026-09-23T08:01:51.295Z",
+      "date": "2026-09-23T18:39:25.107Z",
       "topic": "Orders",
       "keyword": "Order",
       "importance": "low",
       "mood": "positive",
-      "takeaway": "Monarch Surveyors received a Rs 2 crore work order.",
-      "sources_count": 2,
+      "takeaway": "Monarch Surveyors wins Rs 5 crore order.",
+      "sources_count": 3,
       "enriched": true
     },
     {
-      "id": "nddaa524773ad",
+      "id": "n1bf7e0162dc8",
+      "ticker": "VAML",
+      "company": "Vedanta Aluminium Metal Limited",
+      "sector": "Metals & Mining",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Vedanta Power Proposes ESOP, Share Purchase Plans and Material Related Party Deals | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/other/Vedanta-Power-Proposes-ESOP-Share-Purchase-Plans-and-Material-Related-Party-Deals/6ab3a25ef2017017ae713104",
+      "source": "whalesbook.com",
+      "date": "2026-09-23T18:38:39.727Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Vedanta Power proposes employee stock plans and related party transactions for approval.",
+      "enriched": true
+    },
+    {
+      "id": "n6f40a8a59d17",
+      "ticker": "PDSL",
+      "company": "PDS Limited",
+      "sector": "Textiles",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "PDS Biotech reports 39.3-month survival data for HPV16 therapy By Investing.com",
+      "url": "https://in.investing.com/news/stock-market-news/pds-biotech-reports-393month-survival-data-for-hpv16-therapy-93CH-5601087",
+      "source": "in.investing.com",
+      "date": "2026-09-23T18:37:35.648Z",
+      "topic": "Approvals&IP",
+      "keyword": "Trial",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "PDS Biotech reports 39.3-month survival data for HPV16 therapy trial.",
+      "enriched": true
+    },
+    {
+      "id": "nd843b29b7d99",
+      "ticker": "PDSL",
+      "company": "PDS Limited",
+      "sector": "Textiles",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "PDS Biotech Phase 2 Trial: 39.3-Month Survival | PDSB Stock News",
+      "url": "https://www.stocktitan.net/news/PDSB/pds-biotech-announces-publication-of-versatile-002-phase-2-clinical-whgdcfnvkddk.html",
+      "source": "stocktitan.net",
+      "date": "2026-09-23T18:37:35.648Z",
+      "topic": "Approvals&IP",
+      "keyword": "Trial",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Phase 2 trial shows 39.3-month survival for PDS Biotech's HPV therapy.",
+      "enriched": true
+    },
+    {
+      "id": "nca372e22449f",
+      "ticker": "PDSL",
+      "company": "PDS Limited",
+      "sector": "Textiles",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "PDS Biotech Announces Publication of VERSATILE-002 Phase 2 Clinical Trial Results of PDS0101 with pembrolizumab in HPV16-Positive Recurrent and/or Metastatic (R/M) Head and Neck Cancer in JAMA Oncology - BioSpace",
+      "url": "https://www.biospace.com/press-releases/pds-biotech-announces-publication-of-versatile-002-phase-2-clinical-trial-results-of-pds0101-with-pembrolizumab-in-hpv16-positive-recurrent-and-or-metastatic-r-m-head-and-neck-cancer-in-jama-oncology",
+      "source": "biospace.com",
+      "date": "2026-09-23T18:37:35.647Z",
+      "topic": "Approvals&IP",
+      "keyword": "Trial",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "PDS Biotech's Phase 2 trial results published in JAMA Oncology for head and neck cancer treatment.",
+      "enriched": true
+    },
+    {
+      "id": "n688ff6827d7e",
+      "ticker": "LENSKART",
+      "company": "Lenskart Solutions Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Platinum Jasmine sells 2.01% stake in Lenskart Solutions",
+      "url": "https://scanx.trade/stock-market-news/equity-markets/lenskart-solutions-shares-worth-2-426-31-crore-change-hands-large/51508293",
+      "source": "scanx.trade",
+      "date": "2026-09-23T18:36:50.166Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Platinum Jasmine sold 2.01% stake in Lenskart Solutions.",
+      "enriched": true
+    },
+    {
+      "id": "n93b708a251dd",
       "ticker": "LAXMIDENTL",
       "company": "Laxmi Dental Limited",
       "sector": "Healthcare",
       "scope": [
         "watchlist"
       ],
-      "title": "Laxmi Dental Ltd (NSE:LAXMIDENTL) (Q1 2027) Earnings Call Highlights: Record Revenue and ...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/laxmi-dental-ltd-nse-laxmidentl-150024610.html",
-      "source": "finance.yahoo.com",
-      "date": "2026-09-23T07:59:11.052Z",
+      "title": "Q1 2027 Laxmi Dental Ltd Earnings Call Transcript",
+      "url": "https://www.gurufocus.com/news/9027891/q1-2027-laxmi-dental-ltd-earnings-call-transcript",
+      "source": "gurufocus.com",
+      "date": "2026-09-23T18:36:48.733Z",
       "topic": "Money",
       "keyword": "Earnings",
       "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Laxmi Dental held Q1 2027 earnings call.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "n829e4da4e121",
+      "ticker": "GROWW",
+      "company": "Billionbrains Garage Ventures Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Billionbrains Garage Ventures mein Peak XV Partners ne ki stake sale, ab hold hai **14.22%** | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/other/Peak-XV-Partners-Trims-Billionbrains-Garage-Ventures-Stake-by-266percent/6ab20c7bf2017017ae6f7cd2",
+      "source": "whalesbook.com",
+      "date": "2026-09-23T18:36:32.243Z",
+      "topic": "Deals",
+      "keyword": "Stake sale",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Peak XV Partners sold stake in Billionbrains Garage Ventures, now holds 14.22%.",
+      "enriched": true
+    },
+    {
+      "id": "nd7c9b80eefe0",
+      "ticker": "EMAPARTNER",
+      "company": "EMA Partners India Limited",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "EMA Partners India Acquires Taggd: Rs 113 Cr Recruitment Deal: Rediff Moneynews",
+      "url": "https://money.rediff.com/news/market/ema-partners-india-acquires-taggd-rs-113-cr-recruitment-deal/49523520260626",
+      "source": "money.rediff.com",
+      "date": "2026-09-23T18:36:09.597Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "medium",
       "mood": "positive",
-      "takeaway": "Laxmi Dental reported record revenue in Q1 2027 earnings.",
-      "enriched": true,
-      "sources_count": 2
+      "takeaway": "EMA Partners India acquires Taggd recruitment firm for Rs 113 crore.",
+      "enriched": true
+    },
+    {
+      "id": "nbe6f14a3faf6",
+      "ticker": "CURRENT",
+      "company": "Current Infraprojects Limited",
+      "sector": "Construction",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Current Infraprojects Secures Rs 10.42 Cr Bank Note Press Solar Order – Outlook Business",
+      "url": "https://www.outlookbusiness.com/spotlight/news-wire/current-infraprojects-secures-rs-10-42-cr-bank-note-press-solar-order",
+      "source": "outlookbusiness.com",
+      "date": "2026-09-23T18:35:44.097Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Current Infraprojects wins Rs 10.42 crore solar order from Bank Note Press.",
+      "sources_count": 4,
+      "enriched": true
+    },
+    {
+      "id": "n971276905824",
+      "ticker": "AVANTEL",
+      "company": "Avantel Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Avantel shares in focus on bagging order worth over ₹177 crore from Zetwerk Manufacturing",
+      "url": "https://upstox.com/news/market-news/stocks/avantel-shares-in-focus-on-bagging-order-worth-over-177-crore-from-zetwerk-manufacturing/article-200764/",
+      "source": "upstox.com",
+      "date": "2026-09-23T18:35:34.132Z",
+      "topic": "Orders",
+      "keyword": "Merger",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Avantel bags order worth over Rs 177 crore from Zetwerk Manufacturing.",
+      "enriched": true
+    },
+    {
+      "id": "na97e91b81c5b",
+      "ticker": "AVANTEL",
+      "company": "Avantel Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Avantel wins ₹117.88 cr DRDO deal; merger on Sept 18 | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/avantel-orders-drdo-lt-merger-cmue0ebux00072vqwzg5aboin",
+      "source": "multibagg.ai",
+      "date": "2026-09-23T18:35:34.132Z",
+      "topic": "Orders",
+      "keyword": "Merger",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Avantel wins Rs 117.88 crore DRDO contract; merger scheduled for Sept 18.",
+      "enriched": true
+    },
+    {
+      "id": "n5f2a5512b5d4",
+      "ticker": "AVANTEL",
+      "company": "Avantel Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Avantel Share Price in Focus After Receiving ₹177 Crore Satellite Equipment Order",
+      "url": "https://www.angelone.in/news/stocks/avantel-share-price-in-focus-after-receiving-177-crore-satellite-equipment-order",
+      "source": "angelone.in",
+      "date": "2026-09-23T18:35:34.132Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Avantel receives Rs 177 crore satellite equipment order.",
+      "enriched": true
+    },
+    {
+      "id": "nffcf36e56d42",
+      "ticker": "AVANTEL",
+      "company": "Avantel Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Avantel Merger: કંપનીનું મોટું પ્લાનિંગ, સબસિડિયરી સાથે વિલીનીકરણ અને નવા સેક્ટરમાં એન્ટ્રી | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Gujarati/technology/Avantel-Approves-Merger-of-Subsidiary-and-Expands-Business-Scope-Into-New-Tech/6aad0c1af2017017ae6d4808",
+      "source": "whalesbook.com",
+      "date": "2026-09-23T18:35:34.132Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Avantel plans merger with subsidiary and entry into new sector.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n22c980504bd4",
+      "ticker": "TANFACIND",
+      "company": "TANFAC Industries Ltd",
+      "sector": "Chemicals",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Anupam Rasayan: Completes ₹60.88 Crore Equity Share Acquisition in Tanfac | InvestyWise",
+      "url": "https://www.investywise.com/anupam-rasayan-india-ltd-acquisition-of-equity-shares-in-tanfac-industries/",
+      "source": "investywise.com",
+      "date": "2026-09-23T18:35:12.650Z",
+      "topic": "Deals",
+      "keyword": "Preferential Issue",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Anupam Rasayan acquired ₹60.88 crore equity stake in Tanfac Industries.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nbabbbd4f3f15",
+      "ticker": "CARTRADE",
+      "company": "Cartrade Tech Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "CarTrade Tech Q4 Results: Earnings call concludes, recording uploaded",
+      "url": "https://scanx.trade/stock-market-news/companies/cartrade-tech-q4-results-earnings-call-concludes-recording-uploaded/46872977",
+      "source": "scanx.trade",
+      "date": "2026-09-23T18:34:41.146Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "CarTrade Tech completed Q4 earnings call with recording now available.",
+      "enriched": true
+    },
+    {
+      "id": "nb285795f9bb0",
+      "ticker": "THEME",
+      "company": "Power Equipment",
+      "sector": "Capital Goods",
+      "scope": [
+        "universe"
+      ],
+      "title": "Accord Transformer & Switchgear Secures ₹20.02 Crore Wind Transformer Order For Bhuj Project",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbEJtb3FaVG1UeHFlT1NnOTY5dUxCekFXR0otTTd6WjV0OGZmSVFaalg4THpvNkZKOUlnN1Jac1kxTHlBa0x2Wm5LSFBreUpIT1I4MU83MlBydENCUkdYRGNnZzVqUTNnU0hpZlg5N3ZvX0I5dmdPblE4SWg3cWZid05lcXllRDdmLVNPWnZLbDZVY2ZhZFNYeGZKbUhWUU9hMERxZmtGSmNYS0VHRHpHa2RkNjYxQQ?oc=5",
+      "source": "Sahi",
+      "date": "2026-09-23T13:48:58.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Accord Transformer secured ₹20 crore order for wind transformers in Bhuj project.",
+      "enriched": true
+    },
+    {
+      "id": "na1310473e20f",
+      "ticker": "AVANTEL",
+      "company": "Avantel Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Avantel Limited Bags ₹177.35 Crore Purchase Order for Satellite Communication Equipment",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pT0NPc3V6OVNFMVZ2MzlzQ3k2dzV1T3lMSTViNnpMSkhDR2gzdzZUbUZhUEh0WGduQVFnSUVVRzRpZlpzUDJWZlJ1Y0IzTzA0YUlGa1Qwa1RNck1Tcjcw?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-09-23T12:44:44.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Avantel won ₹177 crore order for satellite communication equipment.",
+      "sources_count": 2,
+      "enriched": true
     },
     {
       "id": "n0dc9d3d72ce7",
@@ -87,26 +397,6 @@
       "enriched": true
     },
     {
-      "id": "n1d5d2906ab6f",
-      "ticker": "CURRENT",
-      "company": "Current Infraprojects Limited",
-      "sector": "Construction",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Current Infraprojects Limited Secures Rs 10.42 Cr Order from Bank Note Press, Dewas for 3 MW Rooftop Solar Project - NewsX",
-      "url": "https://www.newsx.com/business-2/current-infraprojects-limited-secures-rs-10-42-cr-order-from-bank-note-press-dewas-for-3-mw-rooftop-solar-project-273549/",
-      "source": "newsx.com",
-      "date": "2026-09-23T07:58:04.306Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Current Infraprojects won a ₹10.42 crore order for a 3 MW rooftop solar project from Bank Note Press, Dewas.",
-      "sources_count": 4,
-      "enriched": true
-    },
-    {
       "id": "n5e5dc699950b",
       "ticker": "AVANTEL",
       "company": "Avantel Limited",
@@ -143,7 +433,7 @@
       "importance": "high",
       "mood": "neutral",
       "takeaway": "Solar Industries' $1.355 billion acquisition placed on rating watch by CRISIL pending further review.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -1584,25 +1874,6 @@
       "enriched": true
     },
     {
-      "id": "n49fb5def5e5f",
-      "ticker": "DENTA",
-      "company": "Denta Water and Infra Solutions Limited",
-      "sector": "Utilities",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Denta Water FY26 Revenue at ₹250 Cr; FY27 Growth Guidance 20% | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/English/industrial-goodsservices/Denta-Water-FY26-Revenue-at-indian-rupee250-Cr-FY27-Growth-Guidance-20percent/6a4254957465030c38bc6ce7",
-      "source": "whalesbook.com",
-      "date": "2026-09-16T07:54:05.649Z",
-      "topic": "Money",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Denta Water guides FY26 revenue at ₹250 crore with 20% growth expected in FY27.",
-      "enriched": true
-    },
-    {
       "id": "nea4cdcb91af6",
       "ticker": "BALUFORGE",
       "company": "Balu Forge Industries Limited",
@@ -2479,7 +2750,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "DEE Development Engineers' order book stands at ₹2,435.61 crore.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -2641,6 +2912,26 @@
       "enriched": true
     },
     {
+      "id": "n02ba1a956fd2",
+      "ticker": "PDSL",
+      "company": "PDS Limited",
+      "sector": "Textiles",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "PDS Limited Q2 2026 Earnings: Revenue Climbs 4.51% YoY as EPS Prints at ₹7.87 - New Analyst Coverage",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU0NDdU1kNHFYdWZEUWpyczhNamhMNEpHT1FyQzZDLThLRW1tei1uYV9JLWFscTduU0dXTWVNbUhBamo0NElNM2hSV1VhS0xEZkZoZTdEZkhFdy1NY2owNVpKMVI3REVhU2wxbnc4cUJNREVXTFVNOXhPcm40SGp1d2NPeENEUzdVVHZCOVlJeG9Ra24za2tqcWlnekdMVjlvNjlHNXhfbllLcUFHbW5rZVM0NjRXdkE?oc=5",
+      "source": "siam.in",
+      "date": "2026-09-11T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "PDS Limited Q2 revenue grew 4.51% year-on-year with earnings per share at ₹7.87.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
       "id": "nbd74732977d5",
       "ticker": "SAPPHIRE",
       "company": "Sapphire Foods India Limited",
@@ -2774,7 +3065,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Advait Greenergy secured ₹116 crore order from KPI Green Energy for 200 MW solar project in Rajasthan.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -3201,44 +3492,6 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "PVR Inox shares fell 7% as buyback record date approached.",
-      "enriched": true
-    },
-    {
-      "id": "n8f98ff8c38db",
-      "ticker": "DENTA",
-      "company": "Denta Water and Infra Solutions Limited",
-      "sector": "Utilities",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Debt-Free Stock Betting on India's Next Water Infra Boom with a ₹728 Cr Order Book",
-      "url": "https://tradebrains.in/debt-free-stock-betting-on-indias-next-water-infra-boom-with-a-728-cr-order-book",
-      "source": "tradebrains.in",
-      "date": "2026-09-08T18:04:11.895Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Denta Water holds ₹728 crore order book, positioned for water infrastructure growth.",
-      "enriched": true
-    },
-    {
-      "id": "n406d6a60a0bc",
-      "ticker": "DENTA",
-      "company": "Denta Water and Infra Solutions Limited",
-      "sector": "Utilities",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Denta Water Share: Can Karnataka’s New Infra Push and ₹727 Cr Order Book Drive the Next Growth Phase?",
-      "url": "https://tradebrains.in/denta-water-can-karnatakas-new-infra-push-and-727-cr-order-book-drive-the-next-growth-phase/",
-      "source": "tradebrains.in",
-      "date": "2026-09-08T18:04:11.895Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Denta Water has ₹727 crore order book, may benefit from Karnataka infrastructure push.",
       "enriched": true
     },
     {
@@ -3704,26 +3957,6 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "SoftBank sold stake worth Rs 1,650 crore in Meesho.",
-      "enriched": true
-    },
-    {
-      "id": "n454cddfcad6b",
-      "ticker": "AVANTEL",
-      "company": "Avantel Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Avantel Secures ₹83.80 Crore Purchase Order from Zetwerk Manufacturing Businesses Limited for Supply of Satellite Communication Equipment - Technuter",
-      "url": "https://technuter.com/telecom/avantel-secures-%E2%82%B983-80-crore-purchase-order-from-zetwerk-manufacturing-businesses-limited-for-supply-of-satellite-communication-equipment.html",
-      "source": "technuter.com",
-      "date": "2026-09-07T07:32:41.626Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Avantel wins ₹83.80 crore order from Zetwerk for satellite communication equipment.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -6367,25 +6600,6 @@
       "enriched": true
     },
     {
-      "id": "n4ffed7e09c6d",
-      "ticker": "PDSL",
-      "company": "PDS Limited",
-      "sector": "Textiles",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "PDS enters sourcing partnership with French-headquartered global supermarket for textile operations",
-      "url": "https://scanx.trade/stock-market-news/companies/pds-limited-enters-saas-contract-with-french-headquartered-global-supermarket/45485619",
-      "source": "scanx.trade",
-      "date": "2026-09-03T20:34:27.439Z",
-      "topic": "Deals",
-      "keyword": "Partnership",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "PDS enters sourcing partnership with French global supermarket for textile operations.",
-      "enriched": true
-    },
-    {
       "id": "nd9cc161a53c8",
       "ticker": "ONESOURCE",
       "company": "Onesource Specialty Pharma Limited",
@@ -7190,44 +7404,6 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Devyani removes secondary sale condition from Sapphire Foods merger.",
-      "enriched": true
-    },
-    {
-      "id": "naf02d94bb92a",
-      "ticker": "DENTA",
-      "company": "Denta Water and Infra Solutions Limited",
-      "sector": "Utilities",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Denta Water and Infra Announces Supply of 6 Tanks For Mukkumpi Project; Order book at ₹850 Cr",
-      "url": "https://tradebrains.in/denta-water-and-infra-announces-supply-of-6-tanks-for-mukkumpi-project-order-book-at-850-cr/",
-      "source": "tradebrains.in",
-      "date": "2026-09-03T20:34:09.167Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Denta Water secured order to supply 6 tanks for Mukkumpi project; total order book stands at ₹850 crore.",
-      "enriched": true
-    },
-    {
-      "id": "n98ea89b4e020",
-      "ticker": "DENTA",
-      "company": "Denta Water and Infra Solutions Limited",
-      "sector": "Utilities",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Denta Water Wins ₹65 Crore Irrigation Orders in Karnataka; Order Book Reaches ₹793 Crore",
-      "url": "https://tradebrains.in/denta-water-wins-65-crore-irrigation-orders-in-karnataka-order-book-reaches-793-crore/",
-      "source": "tradebrains.in",
-      "date": "2026-09-03T20:34:09.167Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Denta Water won ₹65 crore irrigation orders in Karnataka, raising order book to ₹793 crore.",
       "enriched": true
     },
     {
@@ -10881,26 +11057,6 @@
       "enriched": true
     },
     {
-      "id": "nb5537f156d78",
-      "ticker": "PDSL",
-      "company": "PDS Limited",
-      "sector": "Textiles",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "PDS Limited Q2 2026 Earnings: Revenue Growth of 4.5% YoY, EPS at ₹7.87 - EBITDA Analysis",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPekRmQjRrZmtEcjVKRHFiOHVONWFsSDJ2djRoa0h1cHVaYVY4TlhyMThEX3hqU3ZoVzFONmRfaG55ZkRIZVNJQWJQcFpNdERocXB5OTdDM0JVSmtkbVZxc09VbHVzSUpGcThOZzFEU0p2bEpmTUFtUDNVN2pqNzdOdjBzWVNtNmJrcHdiUWtvMGhXaHNpZ1JaeV9pbVhtRWQ2T1U0Z2xPcGd2bFU?oc=5",
-      "source": "siam.in",
-      "date": "2026-07-15T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "PDS Q2 revenue up 4.5% year-on-year with earnings of ₹7.87 per share.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "n6240a723a07d",
       "ticker": "VBL",
       "company": "Varun Beverages Limited",
@@ -10995,6 +11151,26 @@
       "importance": "medium",
       "mood": "negative",
       "takeaway": "Devyani Q2 revenue grew 13% but posted a loss of ₹0.31 per share.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nbf55401207ee",
+      "ticker": "PDSL",
+      "company": "PDS Limited",
+      "sector": "Textiles",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "PDS announces strategic partnership with a French-Headquartered Global Supermarket",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcm9CdV81NXdnaWVVRUtmRzRfelRJN2I3Q0l2dzdhX2FvQ0RiVTRqd1JCTlduczUya19fU3hDNGNFSERxcXljU2tJczdFRVJTdlBONEdFY0Z5bVVwSExqSnVSTFZ3Sldqa2hQVVM1RjVrcENXc25rN0RpRm9WM1pZTHdEMVBjbTlTWmxfOTNQVzZNc3Z6WUJ6eVAxOWtZc0tDSEVxdTVUc3p5ZVlqQU9TaWM5VzJUd0hwUTRwMw?oc=5",
+      "source": "The Textile Magazine",
+      "date": "2026-07-13T07:00:00.000Z",
+      "topic": "Deals",
+      "keyword": "Partnership",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "PDS partners with French global supermarket chain to expand business.",
       "sources_count": 2,
       "enriched": true
     },
@@ -11389,6 +11565,26 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Varun Beverages Q1 revenue up 7.1% with improved operational efficiency.",
+      "enriched": true
+    },
+    {
+      "id": "nfce9b774f8fd",
+      "ticker": "VIVIDELECT",
+      "company": "vivid electromech",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Vivid Electromech Limited Strengthens Data Centre Footprint with ₹30.13 Cr Order from STT Global Data Centres India",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQdmszb2JaUkFYZmtDQUgzakZLdGNONWFWdlZZV01CS2p2VjhqS2VOdkpBMUUtVjBDSms3XzUwb21scFM3MXpWbWRLLTBXVG56ZEhpeVZKQlJKLUhwX2JlQ2VfTlNtVWxXeDgycDFVUDVudlM3SnlpcEZXSnpRTDVDVE96cF8zYW1oVnl2QV9WM3lSSUkzdlFfWjVQZFJnUkY4ekVSV2JkOFNWSnlhaEk1MU1XYWtJdmw5aEo5RXNtUHpRc0RRazNhd3ZMVGpoS1I5V09qcTQwN3o2RVhZT2VmeU5vS0RyWW81UXpoT1I3VVBGRDVTY3NuNHl0YXVkcHhM0gGGAkFVX3lxTFBnZE9JQ2pyT1FKY1otNEZnYnZuc1BJaUg0RGhXYmZvM1BmcXlCd2dPVzV2cWtHN1lWa0NJUHNYbTJnRHluMHV2bklwUFhVYzhfM1VXZS1yTnhGTjIwRjlSWndpZWljWV9XVUFkaUJkZ3hGdy1CWjVDLWJldDlhVWQwbkJmMlRNblZhNElkRUdabnlLVHg5bkhuUWM1WVFXT2I5NFRCZzlDY0VDS3h0N004RVVnY25vNWVybTdVcmNiRHkyeXFHWEZJT2FzYnF6cUxLcHhVYXRIU2lfNnVvTm5IZU9jZjB4WlR1UXA3RXMzMWxTNGR5M09EWDBWWUVZME83UndGeWc?oc=5",
+      "source": "ThePrint",
+      "date": "2026-07-11T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Vivid Electromech wins ₹30 crore order from STT Global Data Centres India.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -12095,25 +12291,6 @@
       "enriched": true
     },
     {
-      "id": "nfde4f3c81bff",
-      "ticker": "DENTA",
-      "company": "Denta Water and Infra Solutions Limited",
-      "sector": "Utilities",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "DENTA Q2 2026 Earnings: Robust Revenue Growth of 23.17% Drives Strong EPS of ₹22.81 - Quarterly Earnings",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORWFoV2JwTkkyMTNXaFJxWkgzMmpjV1E0NnQtUWVlODc3WGZYS20yS2FnUElqSGl3MU9VQjA4SmRuYTduSGV3R3JOS2VGMUZhUVVSOGczUE4tMS1pOXM1Tm5wbms1c2JCaVFidGJLRzA4d0R6WWtFSWVJTk83bl8tUjdBWXRBdjZ2UkFfdlVFMWkxblotLVlNOXoyemtfZ2dlVy1lRGUxWl9LcVNGNVlUZ3Q2Q25iNDhKZVh0Zw?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-04T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Denta Water Q2 2026 revenue up 23.17%, EPS at ₹22.81.",
-      "enriched": true
-    },
-    {
       "id": "n268a3e3a5862",
       "ticker": "YASHO",
       "company": "Yasho Industries Limited",
@@ -12133,25 +12310,6 @@
       "enriched": true
     },
     {
-      "id": "n7f44ef59525f",
-      "ticker": "LENSKART",
-      "company": "Lenskart Solutions Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "LENSKART Q2 2026 Earnings: Robust Revenue Growth of 32.5% Drives EPS of ₹2.9 - Net Income Trends",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVk83VnZpaUdxTkQ5QU5BN0dDWHZpSGprdXdFbXNaekp4ZDYwOHJ4R3VGWTZjZjVKZnlodzliR2wxdHl1Zi01MTVpeFhxZGw5WkszazNreGxYOC0wVjFyLUtNaV8xTEdrejA4N0VISFpvQVBrM0MxTjcxZ2hDQkFKYVAtZVVWREdWZmc4TjNLa3p0VjdFM2lXb2xESHhlTUNFcmVlWlUtelIxbmRLS2R0aEJvaw?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-04T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Lenskart Q2 2026 revenue grows 32.5%, EPS at ₹2.9.",
-      "enriched": true
-    },
-    {
       "id": "n3b15a83cdfb7",
       "ticker": "MASFIN",
       "company": "MAS Financial Services Limited",
@@ -12168,6 +12326,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "MAS Financial Services Q2 2026 shows strong revenue growth with stable asset quality.",
+      "enriched": true
+    },
+    {
+      "id": "n7f44ef59525f",
+      "ticker": "LENSKART",
+      "company": "Lenskart Solutions Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "LENSKART Q2 2026 Earnings: Robust Revenue Growth of 32.5% Drives EPS of ₹2.9 - Net Income Trends",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVk83VnZpaUdxTkQ5QU5BN0dDWHZpSGprdXdFbXNaekp4ZDYwOHJ4R3VGWTZjZjVKZnlodzliR2wxdHl1Zi01MTVpeFhxZGw5WkszazNreGxYOC0wVjFyLUtNaV8xTEdrejA4N0VISFpvQVBrM0MxTjcxZ2hDQkFKYVAtZVVWREdWZmc4TjNLa3p0VjdFM2lXb2xESHhlTUNFcmVlWlUtelIxbmRLS2R0aEJvaw?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-04T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Lenskart Q2 2026 revenue grows 32.5%, EPS at ₹2.9.",
       "enriched": true
     },
     {
@@ -12426,6 +12603,27 @@
       "sources_count": 2
     },
     {
+      "id": "n70b4aa0f88ed",
+      "ticker": "CARTRADE",
+      "company": "Cartrade Tech Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "CARTRADE.NS Q2 2026 Earnings: Robust Revenue Growth Drives Profitability - Profit Announcement",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbEFMX3hJZ3ZHQlQ5VU1SWDRkRWkxaXlhR01IYURwdlJzSnJSOGZud05mOUp0ZHp4Nl9tTExSWGRLN1VYZ3EtZ2NOLThHRk45VW9CVjZjU3VScGFuMWJZcUdaTEZxVER6X3FhWTBnei1pbWlzck5GQzhNZ2hQRkNDSjhnX3NGdkZsX0JNY0p2NTBIR2FHWkp5eVhjQUI0TjgwelV5WU91c083Yi1PZ0JabHB3?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-01T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "CarTrade Tech's Q2 showed strong revenue growth driving improved profitability.",
+      "enriched": true,
+      "sources_count": 2
+    },
+    {
       "id": "nadb99199cd58",
       "ticker": "DEEDEV",
       "company": "DEE Development Engineers Limited",
@@ -12483,27 +12681,6 @@
       "takeaway": "Sterlite Technologies completed ₹1,500 crore QIP fundraising.",
       "sources_count": 2,
       "enriched": true
-    },
-    {
-      "id": "n70b4aa0f88ed",
-      "ticker": "CARTRADE",
-      "company": "Cartrade Tech Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "CARTRADE.NS Q2 2026 Earnings: Robust Revenue Growth Drives Profitability - Profit Announcement",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbEFMX3hJZ3ZHQlQ5VU1SWDRkRWkxaXlhR01IYURwdlJzSnJSOGZud05mOUp0ZHp4Nl9tTExSWGRLN1VYZ3EtZ2NOLThHRk45VW9CVjZjU3VScGFuMWJZcUdaTEZxVER6X3FhWTBnei1pbWlzck5GQzhNZ2hQRkNDSjhnX3NGdkZsX0JNY0p2NTBIR2FHWkp5eVhjQUI0TjgwelV5WU91c083Yi1PZ0JabHB3?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-01T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "CarTrade Tech's Q2 showed strong revenue growth driving improved profitability.",
-      "enriched": true,
-      "sources_count": 2
     },
     {
       "id": "n0e40a70b65fd",
@@ -13301,7 +13478,7 @@
       "mood": "positive",
       "takeaway": "Man Industries wins ₹1,000 crore orders, total orderbook now ₹4,100 crore.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 4
     },
     {
       "id": "n3b098f18fef5",
