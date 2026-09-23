@@ -1,31 +1,168 @@
 {
-  "generated_at": "2026-09-22T18:28:09.645Z",
+  "generated_at": "2026-09-23T08:03:34.264Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 109,
-    "watchlist": 654,
+    "portfolio": 108,
+    "watchlist": 658,
     "universe": 33,
-    "total": 687
+    "total": 691
   },
   "items": [
     {
-      "id": "n8f03f4fa38ae",
+      "id": "ndbac1d406588",
       "ticker": "MSECL",
       "company": "Monarch Surveyors and Engineering Consultants Ltd",
       "sector": "Services",
       "scope": [
         "watchlist"
       ],
-      "title": "Monarch Surveyors and Engineering gains on bagging Rs 2-cr work order | Capital Market News - Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/monarch-surveyors-and-engineering-gains-on-bagging-rs-2-cr-work-order-126082400282_1.html",
+      "title": "Monarch Surveyors and Engineering Consultants receives Rs 2-cr work order | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-and-engineering-consultants-receives-rs-2-cr-work-order-126082200734_1.html",
       "source": "business-standard.com",
-      "date": "2026-09-22T18:19:44.628Z",
+      "date": "2026-09-23T08:01:51.295Z",
       "topic": "Orders",
       "keyword": "Order",
       "importance": "low",
       "mood": "positive",
-      "takeaway": "Monarch Surveyors won a Rs 2 crore work order.",
+      "takeaway": "Monarch Surveyors received a Rs 2 crore work order.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nddaa524773ad",
+      "ticker": "LAXMIDENTL",
+      "company": "Laxmi Dental Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Laxmi Dental Ltd (NSE:LAXMIDENTL) (Q1 2027) Earnings Call Highlights: Record Revenue and ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/laxmi-dental-ltd-nse-laxmidentl-150024610.html",
+      "source": "finance.yahoo.com",
+      "date": "2026-09-23T07:59:11.052Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Laxmi Dental reported record revenue in Q1 2027 earnings.",
+      "enriched": true,
+      "sources_count": 2
+    },
+    {
+      "id": "n0dc9d3d72ce7",
+      "ticker": "EMAPARTNER",
+      "company": "EMA Partners India Limited",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "EMA Partners Approves Taggd Acquisition; Shares Trade Flat",
+      "url": "https://hdfcsky.com/news/ema-partners-approves-rs-96-74-crore-deal-to-acquire-taggd",
+      "source": "hdfcsky.com",
+      "date": "2026-09-23T07:58:32.740Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "EMA Partners approved acquisition of Taggd.",
+      "enriched": true
+    },
+    {
+      "id": "n5997f4228ddc",
+      "ticker": "DEVYANI",
+      "company": "Devyani International Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Sapphire Foods Receives ₹516.84 Crore Tamil Nadu GST Show Cause Notice",
+      "url": "https://www.sahi.com/news/sapphire-foods-receives-516-84-crore-tamil-nadu-gst-show-cause-notice",
+      "source": "sahi.com",
+      "date": "2026-09-23T07:58:11.905Z",
+      "topic": "Trouble",
+      "keyword": "Merger",
+      "importance": "medium",
+      "mood": "negative",
+      "takeaway": "Sapphire Foods received a ₹517 crore GST show cause notice from Tamil Nadu authorities.",
+      "enriched": true
+    },
+    {
+      "id": "n1d5d2906ab6f",
+      "ticker": "CURRENT",
+      "company": "Current Infraprojects Limited",
+      "sector": "Construction",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Current Infraprojects Limited Secures Rs 10.42 Cr Order from Bank Note Press, Dewas for 3 MW Rooftop Solar Project - NewsX",
+      "url": "https://www.newsx.com/business-2/current-infraprojects-limited-secures-rs-10-42-cr-order-from-bank-note-press-dewas-for-3-mw-rooftop-solar-project-273549/",
+      "source": "newsx.com",
+      "date": "2026-09-23T07:58:04.306Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Current Infraprojects won a ₹10.42 crore order for a 3 MW rooftop solar project from Bank Note Press, Dewas.",
+      "sources_count": 4,
+      "enriched": true
+    },
+    {
+      "id": "n5e5dc699950b",
+      "ticker": "AVANTEL",
+      "company": "Avantel Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Avantel Ltd Proposes Massive Expansion into Space, AI, and Healthcare Sectors | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/technology/Avantel-Ltd-Proposes-Massive-Expansion-into-Space-AI-and-Healthcare-Sectors/6ab24748f2017017ae6fe04d",
+      "source": "whalesbook.com",
+      "date": "2026-09-23T07:57:54.831Z",
+      "topic": "Growth",
+      "keyword": "Merger",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Avantel plans major expansion into space, AI, and healthcare sectors.",
+      "sources_count": 6,
+      "enriched": true
+    },
+    {
+      "id": "n0943fff8e14e",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries India Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "CRISIL Places Solar Industries India Limited on 'Rating Watch with Developing Implications' Following Proposed $1.355 Billion Acquisition",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBab0o0eTBsODdWeGl4aF92R3hDMTFlM0FySmhaMGdiNFQ4Yktfb2Z2MHlWd3pYNDAzQms3LWlVaGdHblhOY285ZmZSbENFS2xaSFE4dnNhRFB4WFBuQWlZ?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-09-23T03:21:43.000Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "neutral",
+      "takeaway": "Solar Industries' $1.355 billion acquisition placed on rating watch by CRISIL pending further review.",
       "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "nfca33c1d089a",
+      "ticker": "SHIPROCKET",
+      "company": "Shiprocket Limited",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Lxme Expands UPI Footprint Through Strategic Partnership with Shiprocket",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZkNkSzJES3o5T1FmUExhc0tvV1N4cy1NQ3lFOWcxaDN2NDJCTzRyNmVzdklNdzZ2aktZS1h5UDVIWHVwMm1fSjBScFpFVlEwSVl4bzM1bUFvY2dUMXNwNVVVSFNOQ2lUX1dNOVdxMHBXQjlBdXpNbE5IaTM2aVBnbjZmNFBZcDRWMU55RE9QRkl1NUhkaWFKcmZMeGlrWTR4WDA3QmpOelFLU0t5RzR3cA?oc=5",
+      "source": "Passionate In Marketing",
+      "date": "2026-09-23T02:58:10.000Z",
+      "topic": "Deals",
+      "keyword": "Partnership",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Lxme partners with Shiprocket to expand UPI payment capabilities.",
       "enriched": true
     },
     {
@@ -46,26 +183,6 @@
       "mood": "neutral",
       "takeaway": "Solar Industries under credit rating watch due to acquisition activity.",
       "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n93b708a251dd",
-      "ticker": "LAXMIDENTL",
-      "company": "Laxmi Dental Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Q1 2027 Laxmi Dental Ltd Earnings Call Transcript",
-      "url": "https://www.gurufocus.com/news/9027891/q1-2027-laxmi-dental-ltd-earnings-call-transcript",
-      "source": "gurufocus.com",
-      "date": "2026-09-22T18:17:04.372Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Laxmi Dental held its Q1 FY2027 earnings call.",
-      "sources_count": 3,
       "enriched": true
     },
     {
@@ -105,46 +222,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "IKS Health partnership delivers $12 million annual cash impact for Axia Women's Health.",
-      "enriched": true
-    },
-    {
-      "id": "nbe6f14a3faf6",
-      "ticker": "CURRENT",
-      "company": "Current Infraprojects Limited",
-      "sector": "Construction",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Current Infraprojects Secures Rs 10.42 Cr Bank Note Press Solar Order – Outlook Business",
-      "url": "https://www.outlookbusiness.com/spotlight/news-wire/current-infraprojects-secures-rs-10-42-cr-bank-note-press-solar-order",
-      "source": "outlookbusiness.com",
-      "date": "2026-09-22T18:15:55.730Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Current Infraprojects won a Rs 10.42 crore solar project order from Bank Note Press.",
-      "sources_count": 5,
-      "enriched": true
-    },
-    {
-      "id": "n52442768bb1e",
-      "ticker": "AVANTEL",
-      "company": "Avantel Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Avantel Merger: అనుబంధ సంస్థతో విలీనం.. కొత్త రంగాల్లోకి దూసుకెళ్లేందుకు సిద్ధం! | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/Telugu/technology/Avantel-Approves-Merger-of-Subsidiary-and-Expands-Business-Scope-Into-New-Tech/6aad0c1af2017017ae6d4808",
-      "source": "whalesbook.com",
-      "date": "2026-09-22T18:15:45.226Z",
-      "topic": "Deals",
-      "keyword": "Merger",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Avantel is merging with its subsidiary to enter new business areas.",
-      "sources_count": 6,
       "enriched": true
     },
     {
@@ -227,6 +304,25 @@
       "enriched": true
     },
     {
+      "id": "n8b13d7586beb",
+      "ticker": "SGMART",
+      "company": "SG Mart Limited",
+      "sector": "Metals & Mining",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "SG Mart Limited Q2 2026 Earnings: Revenue Climbs 7.61% YoY to ₹6,302.08 Crore - Adjusted Earnings Analysis",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMjdQSnMwOWZVeDZIam9NM01idXlJT2lKMzVxWTdzSTJnc3RPRGFuWHVtdElNQWl0akd5X0pUUjNnT0VibzNXZDFVcDJnU1dsRE51VnRMblJZS0xnZ3dmbGp1UlFXY2lRcnBiNEhyMlNJc3A2U0lZMUxGZWFoUHREZk12ZEVlR0tXUkJJeHJ2LV9YLVZRZXFza0I3T09jekRyLUFBQkFMR3Z2RGNPYVR3YnJSdUk?oc=5",
+      "source": "siam.in",
+      "date": "2026-09-22T04:47:38.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "SG Mart's Q2 revenue rose 7.61% year-on-year to ₹6,302 crore.",
+      "enriched": true
+    },
+    {
       "id": "n23a7e4ddd7bb",
       "ticker": "VOEPL",
       "company": "Virtuoso Optoelectronics Limited",
@@ -264,6 +360,25 @@
       "mood": "positive",
       "takeaway": "Advait Energy won a ₹135 crore order from MPPTCL for emergency restoration systems.",
       "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "n5934b862990c",
+      "ticker": "VOEPL",
+      "company": "Virtuoso Optoelectronics Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Virtuoso Optoelectronics Updates ₹84.99 Crore Issue Proceeds Plan for Capacity Expansion",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeGswNkp2MzBwR09zVnFNVG4xaUJFNTktTHhlUlFSNWZwd3JWYS1DY1pCYWJ3aEdVYlprRnd0LXR6SE9Sb19GZDY0MzQweVFOYUt0a3Nfc2Zfek51UzJNVHdzSDFVbXJYcEN1MlJ6S1NLWVp5dW95c3ZUNDRhT2hGTWlWNTB0RFZ2YnZxa2VYN0VZUUVfZWo1dHp3em5YNXlnWU0zWXVPMkJ0X25KUXNMSU9VazVySEpuSGtkWThOSjRFd0xpMUdFb1diczBBWnJVX1NPeXJkN0xHQjNob2RXUzVLMTVLWmZORWpZbkhQdkw0QllD?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-09-21T12:57:00.000Z",
+      "topic": "Growth",
+      "keyword": "Capacity Expansion",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Virtuoso Optoelectronics updates plan to use ₹84.99 crore raised funds for capacity expansion.",
       "enriched": true
     },
     {
@@ -2015,25 +2130,6 @@
       "enriched": true
     },
     {
-      "id": "n35d019de284d",
-      "ticker": "SOLARINDS",
-      "company": "Solar Industries India Limited",
-      "sector": "Chemicals",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Solar Industries India 's subsidiary announces US$ 1.355 billion acquisition of Omnia Holdings",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNUtxZFhST3Z4dEVqSDVwNWpTOE9DR0dTWTJEUkVJZzFaYkRHNUE4MzJsOTgtYk5qV3JVNUNEcVpzbUVtaUJ2dFBmb2pLYldiUXVDSmF5THdWWURMdU5CUXFUdzUzUmNxcU5iTTgxZk85eUNsclR3YjhUd0hoV1JSZjlva2U3WGR5Qlh6UXB2Z2VQRzBLa3J6QUdRa2oxaUlqZWowbk9CN0ZtYzRmM1h2Ni15Z2JQX29DSmNraUpvd0FYbEY5UHpGbw?oc=5",
-      "source": "Business Upturn",
-      "date": "2026-09-14T07:13:05.000Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Solar Industries subsidiary to acquire Omnia Holdings for $1.355 billion, major expansion move.",
-      "enriched": true
-    },
-    {
       "id": "n6a12ef8dccbb",
       "ticker": "NORTHARC",
       "company": "Northern Arc Capital Limited",
@@ -2699,6 +2795,25 @@
       "importance": "medium",
       "mood": "negative",
       "takeaway": "Saregama seeks contempt action against Ilaiyaraaja for violating Delhi HC copyright order.",
+      "enriched": true
+    },
+    {
+      "id": "n1cb33339d5f3",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Devyani International: Files Joint Application for Sapphire Foods India Merger",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVW55akpOVXBOUlZNQlhrZWlOdFVFeklRUFhDMEZzb1dOM2xGM2VQMk5jWnZmOXdEd0E3OXAzMVJMUGM5YWlnUHA2TU9tTWFpS081RTVkbDNqd0pFLVBhb0dWMTU2THI0UnNtcG1zbnZNNDFIVmgyZl9sbjFQR01IMHNCd0FsZw?oc=5",
+      "source": "InvestyWise",
+      "date": "2026-09-10T13:39:04.000Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Devyani International files joint application to merge with Sapphire Foods India.",
       "enriched": true
     },
     {
@@ -5192,7 +5307,7 @@
       "mood": "positive",
       "takeaway": "Rajesh Power Services wins Rs 653 crore underground power distribution order in Gujarat.",
       "enriched": true,
-      "sources_count": 4
+      "sources_count": 3
     },
     {
       "id": "n17cc3ebb93f8",
@@ -6807,26 +6922,6 @@
       "enriched": true
     },
     {
-      "id": "nd4f6df8fd090",
-      "ticker": "EMAPARTNER",
-      "company": "EMA Partners India Limited",
-      "sector": "Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "EMA Partners acquires Taggd at ₹113 crore to create India's largest talent recruitment platform - The HinduBusinessLine",
-      "url": "https://www.thehindubusinessline.com/companies/ema-partners-acquires-taggd-at-113-crore-to-create-indias-largest-talent-recruitment-platform/article71140978.ece",
-      "source": "thehindubusinessline.com",
-      "date": "2026-09-03T20:34:12.397Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "EMA Partners acquired Taggd for ₹113 crore to form India's largest talent platform.",
-      "sources_count": 3,
-      "enriched": true
-    },
-    {
       "id": "n3c699cdccbf2",
       "ticker": "EMAPARTNER",
       "company": "EMA Partners India Limited",
@@ -6844,6 +6939,26 @@
       "mood": "positive",
       "takeaway": "EMA Partners acquired Taggd to create India's largest talent recruitment platform.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nd4f6df8fd090",
+      "ticker": "EMAPARTNER",
+      "company": "EMA Partners India Limited",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "EMA Partners acquires Taggd at ₹113 crore to create India's largest talent recruitment platform - The HinduBusinessLine",
+      "url": "https://www.thehindubusinessline.com/companies/ema-partners-acquires-taggd-at-113-crore-to-create-indias-largest-talent-recruitment-platform/article71140978.ece",
+      "source": "thehindubusinessline.com",
+      "date": "2026-09-03T20:34:12.397Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "EMA Partners acquired Taggd for ₹113 crore to form India's largest talent platform.",
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -7020,6 +7135,25 @@
       "enriched": true
     },
     {
+      "id": "n47a11baf4406",
+      "ticker": "DEVYANI",
+      "company": "Devyani International Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Devyani International: CEO of Sanook Kitchen Resigns | InvestyWise",
+      "url": "https://www.investywise.com/devyani-international-senior-management-resignation",
+      "source": "investywise.com",
+      "date": "2026-09-03T20:34:10.055Z",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "low",
+      "mood": "negative",
+      "takeaway": "CEO of Sanook Kitchen, a Devyani International brand, resigns.",
+      "enriched": true
+    },
+    {
       "id": "ndec2463e6d02",
       "ticker": "DEVYANI",
       "company": "Devyani International Limited",
@@ -7056,25 +7190,6 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Devyani removes secondary sale condition from Sapphire Foods merger.",
-      "enriched": true
-    },
-    {
-      "id": "n47a11baf4406",
-      "ticker": "DEVYANI",
-      "company": "Devyani International Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Devyani International: CEO of Sanook Kitchen Resigns | InvestyWise",
-      "url": "https://www.investywise.com/devyani-international-senior-management-resignation",
-      "source": "investywise.com",
-      "date": "2026-09-03T20:34:10.055Z",
-      "topic": "Trouble",
-      "keyword": "Resignation",
-      "importance": "low",
-      "mood": "negative",
-      "takeaway": "CEO of Sanook Kitchen, a Devyani International brand, resigns.",
       "enriched": true
     },
     {
@@ -8741,6 +8856,25 @@
       "enriched": true
     },
     {
+      "id": "n9e3bded7e0f0",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Zen Technologies (ZENTEC) Q2 2026 Earnings: Revenue Decline Offsets Solid EPS of ₹21.52 - Earnings Decline Risk",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOWxHNFQ3RUU0aElEOWowT3NTNW50Si1LZW5mTWl1SWNPTnBxeWZ5T3dBYl9mRzAyZmVWWFV0OWFxWmNOUXVIeFd5bGlFOUZNS2dZVVkwVHprRUdDVUtTV3BSUWFtUXoyV2VWb0dmYVRNU0RERTRzeTJzOFdPYUdrTFRYMi11UkJIVWwwMzBnSXZyTDVyd0RLYUZxVW53aTJBeEpBMEJvV1ktcnBwLVJ6RVI3SFZDS0VIRmhidHkxODFRaXlv?oc=5",
+      "source": "siam.in",
+      "date": "2026-08-28T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "negative",
+      "takeaway": "Zen Technologies Q2 revenue declined despite earnings per share of ₹21.52.",
+      "enriched": true
+    },
+    {
       "id": "n477ca64ecd7e",
       "ticker": "E2E",
       "company": "E2E Networks Limited",
@@ -9048,6 +9182,25 @@
       "enriched": true
     },
     {
+      "id": "nfbcb1b493144",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho (MEESHO.NS) Earnings Report: The Company Releases Its Current Earnings Data in the Reported Period; Session Move: The Share Price Adds 1.58% in Latest Trading - Margin Expansion Trends",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxObndkY0FfN1VoclZmbjN3LU8zdEhCMHVMVnNsdEJtcmtIel9Pdmdiekhzb2Y1Z0ozNEpPSGZDTmtRdXA4QnQ2S3RJSnA0SnRCR1ZuWVVSSzZLdWtPZWlPV2FOZUZvYUg5VzVnZVhFVDR5a0RvR004MC03WXpQVTc4b0dqQ0VrLW1lN1RiTjdsdGFvZHNGTkZPU3JuTlZxZWFBbHQ1WkxDOEJXR29rZ0M1U2FLWGRnUU1TSDNVeVRvcWpxaXR0eEZRM2Z5TjRzM09IdVBnUkJPRFNFUUVQbjFzOXkzdzU1bV9IN2lEWlFIb2FxTG52TUxkWC1Ic3BkM1N0Y05RZGdiR3NYVThyNG1oenRaNWpFYnVTT1p2WHFYNmtOamxNRllyTg?oc=5",
+      "source": "siam.in",
+      "date": "2026-08-25T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Meesho released quarterly earnings data for the reported period.",
+      "enriched": true
+    },
+    {
       "id": "n22b5a052a7bc",
       "ticker": "THEME",
       "company": "Specialty Chemicals",
@@ -9122,6 +9275,25 @@
       "mood": "positive",
       "takeaway": "Glenmark received US FDA approval for Fluticasone Propionate Nasal Spray.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n33dc96227e3e",
+      "ticker": "MSECL",
+      "company": "Monarch Surveyors and Engineering Consultants Ltd",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "The Monarch Surveyors and Engineering Consultants Ltd receives order worth Rs. 4.38 crore",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1Um9TLTBXSDQzdjJHVWdoU2UwZGRBTTU0RWFvV3VKMjltX2l6N3EyNTNzaXVkVEJ4UlAySXhvWWV4VHFDU2N5Rk9feUdBYnpDQ29TMkJHb1ZYdVg5b3hj?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-08-18T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Monarch Surveyors received an order worth ₹4.38 crore.",
       "enriched": true
     },
     {
@@ -10535,25 +10707,6 @@
       "enriched": true
     },
     {
-      "id": "ncd76d2e18506",
-      "ticker": "BLACKBUCK",
-      "company": "BLACKBUCK LIMITED",
-      "sector": "Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "BlackBuck schedules Q1 FY27 earnings call for July 29",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ0ExNkd4YWlYSko5SVV0dnQzMXlEWnNGYjl6Y20wdEFxQnp0OUdsQzNOWmZwcjhldmpMbE9UbndmQUlMeFlzb0FYTElHZk52UENQdEd3d1F2eGRRTU92REc4ZGY1OU1sQUl3cVJKMDVZVTQ4UFFaWk1hRGJWbnZtT0tZaEpqUlF2aUJNdC1zZDM5Tm92MzdHRFpqMzRmc1FzQ0RJbGN6Tk1yaVdsQXl3?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-07-23T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "BlackBuck scheduled earnings call for July 29 to discuss Q1 FY27 results.",
-      "enriched": true
-    },
-    {
       "id": "n7cd6bee08e14",
       "ticker": "MEESHO",
       "company": "Meesho Limited",
@@ -10570,6 +10723,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Meesho reports Q1 2027 growth with improved cost management and operational efficiency.",
+      "enriched": true
+    },
+    {
+      "id": "ncd76d2e18506",
+      "ticker": "BLACKBUCK",
+      "company": "BLACKBUCK LIMITED",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "BlackBuck schedules Q1 FY27 earnings call for July 29",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ0ExNkd4YWlYSko5SVV0dnQzMXlEWnNGYjl6Y20wdEFxQnp0OUdsQzNOWmZwcjhldmpMbE9UbndmQUlMeFlzb0FYTElHZk52UENQdEd3d1F2eGRRTU92REc4ZGY1OU1sQUl3cVJKMDVZVTQ4UFFaWk1hRGJWbnZtT0tZaEpqUlF2aUJNdC1zZDM5Tm92MzdHRFpqMzRmc1FzQ0RJbGN6Tk1yaVdsQXl3?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-07-23T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "BlackBuck scheduled earnings call for July 29 to discuss Q1 FY27 results.",
       "enriched": true
     },
     {
@@ -13245,103 +13417,6 @@
       "mood": "positive",
       "takeaway": "Midwest Limited posted Q2 earnings showing revenue growth and strong earnings per share, signaling resilience.",
       "enriched": true
-    },
-    {
-      "id": "nd2295cf0ff10",
-      "ticker": "DENTALKART",
-      "company": "Vasa Denticity Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Vasa Denticity uploads earnings call audio for FY26",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOTRVVXlxbm5RSXQ2Zl9leWMydEtvSTVYMHRmaG9SUlhRWk91SnVPR2NtUURWNDlSakNJZklKT1BEc09sb3dJSGdiQ1REbWVCRUMtNzZUS0RHbFBjUnRyeXZLQWpTbzNXOVpsQ2pRcnlSeEFXNnRGUWdQTUlEY0NoOXlrbHZIYTd0STY0LXNOY1ZXLVN6SjdYLWkyRk53dzRpNDlBWUktOGtPdWJY?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-06-15T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Company uploaded earnings call audio for FY26.",
-      "enriched": true
-    },
-    {
-      "id": "nf5d39201d9ee",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Sapphire Foods gets exchanges' nod for Devyani merger",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ3pRdk5USEk3T2pXdVZRQ0UxMUFHS2dUdHdUSkl3cXBWWEdzMTBFVlFCNk9vclNIU2FaTzlKLVBPTnkwb1NLSjdqNFFmVlNaSDRfWE5wOGx1QkVOMVppZFE3WFcwR2RkNHdkZ3R3a0dPcFJucDdqRzY0TFM4TEtQNmZ4R0owMWsxOXlqeC1HUU03Q2dpSGpqcjdTS3pyMnNZaUxWdXRQS1dyYlp5SUE?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-06-15T07:00:00.000Z",
-      "topic": "Deals",
-      "keyword": "Merger",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Sapphire Foods receives stock exchange approval to merge with Devyani.",
-      "enriched": true
-    },
-    {
-      "id": "n39eca6fe2d37",
-      "ticker": "CANFINHOME",
-      "company": "Can Fin Homes Limited",
-      "sector": "Financial Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "CANFINHOME Mar 2026 Earnings: EPS of ₹25.96 Reflects Steady Operational Performance - Quarterly Earnings",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcG5PVzJrZEZOUVlKbm02ZTJ0ekhLNlBKeF9RMEZVZVpQNGxPN0MtNEVocTNFWE5VbkFYZkY1c1ZCaW4wNnVqd2lDR2xXN1RIdGpxMlNuM1ZCZnY4MFd5cVNqaWpJMVlmMnU5TnJMTzJNLXNLTElTQ1Jmb0ZLTWtIMC1acFFqMDY5TmhadmZVQXBPUnlWN01rS1p4ZFRoaHVJMVh6T2F6cktwWV9LN0UyWDhGQkxWUkJ5YlFQMkdPNA?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-15T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Can Fin Homes posted steady March 2026 earnings with ₹25.96 per share.",
-      "enriched": true
-    },
-    {
-      "id": "n085c0788741e",
-      "ticker": "DIXON",
-      "company": "Dixon Technologies (India) Limited",
-      "sector": "Consumer Durables",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Dixon Technologies Q2 2026 Earnings: Strong Revenue Growth of 25.77% YoY; EPS at ₹269.35 - Net Profit Margin",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcDVlcjVBTDdfOFhzRUZ1U0EwVUgwU2R6WWhMQXR5Y3lLWkg0ejhFb014WVJidFdoa1VtYlpGNWdWekFHV1hTVG5jeGF2SkdBbkdodWZYRHgtbjNMZkw2Y1h6QkxMZ0owd0V6VzFXVlExQ0I1V2diMy1ENUNSTmhCdE1EaFBGZkNENi00a1V1aWxFakpGMUk4WXplYU1EZlhGdUdNZVlZN1VhZmlTYVBQd2RobFlUZWFheF9LYXpmUVctdw?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-15T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Dixon Technologies Q2 revenue grew 25.77% year-on-year with earnings per share at ₹269.35.",
-      "enriched": true
-    },
-    {
-      "id": "nbaee9d187681",
-      "ticker": "EPIGRAL",
-      "company": "Epigral Limited",
-      "sector": "Chemicals",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "EPIGRAL Mar 2026 Earnings: Modest Performance with Revenue of ₹736 Crore and EPS of ₹18.99 - Dividend Increase Stocks",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ1MxUno2WDFOWmhVZnZ0TTZBakozWXhoMHk2aDc4UmdwQWd4bHRHVE56UGhrbExzdjhEODdEbFlaMlhxTVJxMUZPZHVTTjFla051enlwM0JxUHdORWhGU3h0eWN6MExHVUtHemdpVkJOYWJEZ1JCWEplbndpMDU2RG4xaTdCa1k0aGdLRUtPaGpjZWNvMUxwOE5FWXgwVkxubnU5STNLSWlYQW9mcDBKa2ZBWXlObVltamFuQlY0dTIwLXBhNnpR?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-15T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Epigral reported March 2026 revenue of ₹736 crore with earnings per share of ₹18.99.",
-      "enriched": true,
-      "sources_count": 2
     }
   ]
 }
