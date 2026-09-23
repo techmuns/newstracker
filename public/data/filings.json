@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T08:06:03.329Z",
+  "generated_at": "2026-09-23T18:43:42.688Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,186 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f858d62f03af6",
+      "ticker": "STLTECH",
+      "company": "Sterlite Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-09-23T23:46:40.000Z",
+      "category": "Investor Presentation",
+      "title": "Intimation regarding Investor/ Analyst Meet to be held on September 28, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/STLTECH_23092026234625_Nuvama_Intimation_2_Signed.pdf"
+    },
+    {
+      "id": "fcfbcfc74b9bb",
+      "ticker": "ONESOURCE",
+      "company": "Onesource Specialty Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-09-23T23:41:48.000Z",
+      "category": "Change in Auditors",
+      "title": "Onesource Specialty Pharma Limited has informed the Exchange regarding Change in Auditors of the company.",
+      "url": "https://nsearchives.nseindia.com/corporate/ONESOURCECDMO_23092026234010_1_Auditor_Appointment.pdf"
+    },
+    {
+      "id": "f15925b5d4c56",
+      "ticker": "ONESOURCE",
+      "company": "Onesource Specialty Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-09-23T23:34:44.000Z",
+      "category": "Shareholders meeting",
+      "title": "Onesource Specialty Pharma Limited has informed the Exchange regarding Proceedings of 19th Annual General Meeting held on September 23, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/ONESOURCECDMO_23092026233400_1_Intimation_of_AGM_Proceedings.pdf"
+    },
+    {
+      "id": "ff12e7733cca2",
+      "ticker": "LENSKART",
+      "company": "Lenskart Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-09-23T23:15:19.000Z",
+      "category": "Acquisition",
+      "title": "Lenskart Solutions Limited has informed the Exchange about acquisition of an additional stake in in Le Petit Lunetier Paris SAS, France, through its wholly owned subsidiary NESO Brands Pte. Ltd., Singapore",
+      "url": "https://nsearchives.nseindia.com/corporate/LENSKART_23092026231455_Reg_30_-_Intimation_Investment_LPL_23092026.pdf"
+    },
+    {
+      "id": "f961372c86329",
+      "ticker": "MOLDTKPAC",
+      "company": "Mold-Tek Packaging Limited",
+      "exchange": "NSE",
+      "date": "2026-09-23T22:18:54.000Z",
+      "category": "Credit Rating",
+      "title": "Mold-Tek Packaging Limited has informed the Exchange about Credit Rating",
+      "url": "https://nsearchives.nseindia.com/corporate/MOLDTKPAC_23092026221823_SEIntimation_CreditRating.pdf"
+    },
+    {
+      "id": "fede0b2912eb8",
+      "ticker": "SKYGOLD",
+      "company": "SKY GOLD AND DIAMONDS LIMITED",
+      "exchange": "NSE",
+      "date": "2026-09-23T21:25:44.000Z",
+      "category": "Investor Presentation",
+      "title": "SKY GOLD AND DIAMONDS LIMITED has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/SKYGOLD_23092026212528_Intimation28092026.pdf"
+    },
+    {
+      "id": "f0097f9f01b94",
+      "ticker": "MONOLITH",
+      "company": "Monolithisch India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-23T19:23:35.000Z",
+      "category": "Press Release",
+      "title": "Monolithisch India Limited has informed the Exchange regarding a press release dated September 23, 2026, titled \": Appointment of Ernst & Young LLP as Investor Relations (IR) Partner\".",
+      "url": "https://nsearchives.nseindia.com/corporate/MONOLITHISCH_23092026192327_23092026_Appointment_of_IR_Agency_EY.pdf"
+    },
+    {
+      "id": "f2ad3ec89b53a",
+      "ticker": "ADVAIT",
+      "company": "Advait Energy Transitions Limited",
+      "exchange": "NSE",
+      "date": "2026-09-23T18:51:12.000Z",
+      "category": "Shareholders meeting",
+      "title": "Advait Energy Transitions Limited has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on September 21, 2026. Further, the company has informed the Exchange regarding voting results.",
+      "url": "https://nsearchives.nseindia.com/corporate/ADVAITENERGY_23092026185051_SEvoting_results_S.pdf"
+    },
+    {
+      "id": "fc88a8de03b50",
+      "ticker": "SCODATUBES",
+      "company": "Scoda Tubes Limited",
+      "exchange": "NSE",
+      "date": "2026-09-23T18:41:56.000Z",
+      "category": "Spurt in Volume",
+      "title": "Significant increase in volume has been observed in Scoda Tubes Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the market place so that the interest of the investors is safeguarded, had written to the company. Scoda Tubes Limited has submitted their response.",
+      "url": "https://nsearchives.nseindia.com/corporate/SCODA_23092026184141_Reply_letter.pdf"
+    },
+    {
+      "id": "fba3ec04c853c",
+      "ticker": "EMAPARTNER",
+      "company": "EMA Partners India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-23T18:31:17.000Z",
+      "category": "Acquisition",
+      "title": "EMA Partners India Limited has informed the Exchange about the Scheme of Arrangement for merger of EMA Partners Executive Search Private Limited, Emagine People Technologies Private Limited and EMA Decision Dynamics Private Limited (\"Transferor Company\") with EMA Partners India Limited (\"Transferee Company\"), under Section 233 of the Companies Act, 2013 read with the Companies (CAA) Rules, 2016, being a fast-track merger of a wholly owned subsidiary with its holding company.",
+      "url": "https://nsearchives.nseindia.com/corporate/EMAIN_23092026183056_Submission_of_Scheme_of_Amalgamation_Signed.pdf"
+    },
+    {
+      "id": "f8d6646f5ff6b",
+      "ticker": "MTARTECH",
+      "company": "Mtar Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-09-23T17:31:05.000Z",
+      "category": "Trading Window",
+      "title": "Mtar Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/MTARTECH_23092026173057_Trading_window_closure.pdf"
+    },
+    {
+      "id": "fff604c02996f",
+      "ticker": "CONCORDBIO",
+      "company": "Concord Biotech Limited",
+      "exchange": "NSE",
+      "date": "2026-09-23T17:13:43.000Z",
+      "category": "Bonus",
+      "title": "Concord Biotech Limited has informed the Exchange that the Board of Directors at its meeting held on September 23, 2026, have considered and approved bonus at the ratio of 1 : 1, i.e 1 Equity Shares for every 1 Equity Shares held.",
+      "url": "https://nsearchives.nseindia.com/corporate/CONCORD_23092026171254_OutcomeofBM23092026.pdf"
+    },
+    {
+      "id": "f2751f9149acf",
+      "ticker": "INDOFARM",
+      "company": "Indo Farm Equipment Limited",
+      "exchange": "NSE",
+      "date": "2026-09-23T16:54:06.000Z",
+      "category": "Shareholders meeting",
+      "title": "Indo Farm Equipment Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 23, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/IFEL_23092026165354_Proceedings.pdf"
+    },
+    {
+      "id": "fd0193b314e65",
+      "ticker": "INDOMIM",
+      "company": "INDO-MIM Limited",
+      "exchange": "NSE",
+      "date": "2026-09-23T16:31:22.000Z",
+      "category": "Shareholders meeting",
+      "title": "INDO-MIM Limited has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on September 22, 2026. Further, the company has informed the Exchange regarding voting results.",
+      "url": "https://nsearchives.nseindia.com/corporate/INDOMIM_23092026163019_INDO_MIM_-_Voting_Results_-_23-09-2026.pdf"
+    },
+    {
+      "id": "f654b99967c6a",
+      "ticker": "LGEINDIA",
+      "company": "LG Electronics India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-23T16:24:46.000Z",
+      "category": "Trading Window",
+      "title": "LG Electronics India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/LGEINDIA_23092026161508_Closure_of_Trading_Window.pdf"
+    },
+    {
+      "id": "f5b38e082c086",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "exchange": "NSE",
+      "date": "2026-09-23T15:38:46.000Z",
+      "category": "Shareholders meeting",
+      "title": "DEE Development Engineers Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 23, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/DDEL_23092026153834_NSEBSE_Proceedings.pdf"
+    },
+    {
+      "id": "fe611cd997c2d",
+      "ticker": "MOBIKWIK",
+      "company": "One Mobikwik Systems Limited",
+      "exchange": "NSE",
+      "date": "2026-09-23T15:11:41.000Z",
+      "category": "Trading Window",
+      "title": "One Mobikwik Systems Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/MOBIKWIK_23092026151122_Intimation_regarding_the_Trading_Window_closure.pdf"
+    },
+    {
+      "id": "fc4cf25a22696",
+      "ticker": "HARIOMPIPE",
+      "company": "Hariom Pipe Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-23T14:37:07.000Z",
+      "category": "Investor Presentation",
+      "title": "Hariom Pipe Industries Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/hariompipes_23092026143218_Intimation_Arihant_Investor_Meet_28092026.pdf"
+    },
     {
       "id": "f29acc6ab46b6",
       "ticker": "XPROINDIA",
@@ -19826,186 +20006,6 @@
       "category": "Trading Window",
       "title": "Jyoti CNC Automation Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
       "url": "https://nsearchives.nseindia.com/corporate/JYOTICNC_NSE_30062026113427_BSEnseTradingWindowClosureIntimationJCAL30062026.pdf"
-    },
-    {
-      "id": "ffa5dc8020ed5",
-      "ticker": "AVANTEL",
-      "company": "Avantel Limited",
-      "exchange": "NSE",
-      "date": "2026-06-30T11:00:55.000Z",
-      "category": "Trading Window",
-      "title": "Avantel Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/AVANTEL_30062026110013_TWClosureIntimation30062026.pdf"
-    },
-    {
-      "id": "f88099b1cd346",
-      "ticker": "MASFIN",
-      "company": "MAS Financial Services Limited",
-      "exchange": "NSE",
-      "date": "2026-06-30T10:54:10.000Z",
-      "category": "Allotment of Securities",
-      "title": "MAS Financial Services Limited has informed the Exchange regarding allotment of 15000 securities pursuant to Non Convertible Securities at its meeting held on Jun 30, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/MASFIN_30062026105340_Final.pdf"
-    },
-    {
-      "id": "f59d929beee2c",
-      "ticker": "CARTRADE",
-      "company": "Cartrade Tech Limited",
-      "exchange": "NSE",
-      "date": "2026-06-30T10:26:30.000Z",
-      "category": "Trading Window",
-      "title": "Cartrade Tech Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/CARTRADE_30062026102623_closing_of_trading_window.pdf"
-    },
-    {
-      "id": "fd1b4814fd8ac",
-      "ticker": "IKS",
-      "company": "Inventurus Knowledge Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-06-30T08:36:06.000Z",
-      "category": "Disclosure",
-      "title": "Inventurus Knowledge Solutions Limited has informed the Exchange about Investors Frequently Asked Questions (FAQs) WWMG",
-      "url": "https://nsearchives.nseindia.com/corporate/IKS2006_30062026083522_20260630FAQsonInvestorsFinalUpload.pdf"
-    },
-    {
-      "id": "fcbe0c94f90a3",
-      "ticker": "ZENTEC",
-      "company": "Zen Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-06-29T22:35:40.000Z",
-      "category": "ESOP/ESOS/ESPS",
-      "title": "Zen Technologies Limited has informed the Exchange regarding Exercise of 1000 Options.",
-      "url": "https://nsearchives.nseindia.com/corporate/ZENTEC_29062026223251_29_06_2026_1000.pdf"
-    },
-    {
-      "id": "f761e846a4345",
-      "ticker": "FAZE3Q",
-      "company": "Faze Three Limited",
-      "exchange": "NSE",
-      "date": "2026-06-29T20:05:31.000Z",
-      "category": "Allotment of Securities",
-      "title": "Faze Three Limited has informed the Exchange regarding the grant of options to purchase securities pursuant to the 'Faze Three Employee Stock Option Scheme 2024'.",
-      "url": "https://nsearchives.nseindia.com/corporate/FAZETHREE_29062026195437_Reg_30__Grant_of_Options.pdf"
-    },
-    {
-      "id": "f7f8eabbf1466",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "exchange": "NSE",
-      "date": "2026-06-29T20:02:45.000Z",
-      "category": "Disclosure",
-      "title": "Basavaraju Kanakatte Shivakumar has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_11052026132648_Disclosure1.pdf"
-    },
-    {
-      "id": "f02496b9eb7e9",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-06-29T20:01:43.000Z",
-      "category": "Disclosure",
-      "title": "Amit Sheth has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_11052026131942_2.pdf"
-    },
-    {
-      "id": "f311f92302b29",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "exchange": "NSE",
-      "date": "2026-06-29T20:01:29.000Z",
-      "category": "Disclosure",
-      "title": "Vinod Kumar Mariyappan has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_11052026131825_3.pdf"
-    },
-    {
-      "id": "fc45aebd9b27d",
-      "ticker": "STLTECH",
-      "company": "Sterlite Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-06-29T19:52:19.000Z",
-      "category": "Disclosure",
-      "title": "Pravin Agarwal, Jyoti Agarwal, Pravin Agarwal Family trust has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_11052026125807_STLTECH1.zip"
-    },
-    {
-      "id": "f40ce585ce3eb",
-      "ticker": "SENORES",
-      "company": "Senores Pharmaceuticals Limited",
-      "exchange": "NSE",
-      "date": "2026-06-29T19:46:09.000Z",
-      "category": "Board Meeting",
-      "title": "Senores Pharmaceuticals Limited has informed the Exchange regarding Outcome of Board Meeting held on June 29, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/SENORES_29062026194554_Outcomeofboardmeetingsigned.pdf"
-    },
-    {
-      "id": "f77579eb69367",
-      "ticker": "SCODATUBES",
-      "company": "Scoda Tubes Limited",
-      "exchange": "NSE",
-      "date": "2026-06-29T19:36:35.000Z",
-      "category": "Disclosure",
-      "title": "Ravi Patel has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_12052026184852_SCODATUBES2.pdf"
-    },
-    {
-      "id": "fb2cd2a0160fb",
-      "ticker": "IKS",
-      "company": "Inventurus Knowledge Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-06-29T19:24:27.000Z",
-      "category": "Acquisition",
-      "title": "Inventurus Knowledge Solutions Limited has informed the Exchange about additional investment in IKS WWMG MSO LLC, an associate company of Inventurus Knowledge Solutions Inc ( IKS Inc ), a wholly owned subsidiary of the Company.",
-      "url": "https://nsearchives.nseindia.com/corporate/IKS2006_29062026192327_FurtherInvestmentIKSWWMGMSOLLCFINAL.pdf"
-    },
-    {
-      "id": "fe48175ed50a2",
-      "ticker": "SCODATUBES",
-      "company": "Scoda Tubes Limited",
-      "exchange": "NSE",
-      "date": "2026-06-29T19:11:04.000Z",
-      "category": "Disclosure",
-      "title": "Samarth Bharatbhai Patel has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_12052026184458_SCODATUBES1.pdf"
-    },
-    {
-      "id": "f083e8fa903d1",
-      "ticker": "SCODATUBES",
-      "company": "Scoda Tubes Limited",
-      "exchange": "NSE",
-      "date": "2026-06-29T19:07:21.000Z",
-      "category": "Disclosure",
-      "title": "Jagrut kumar Patel has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_12052026182836_SCODATUBES.pdf"
-    },
-    {
-      "id": "f8dfa2973a66a",
-      "ticker": "GULFOILLUB",
-      "company": "Gulf Oil Lubricants India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-29T18:13:11.000Z",
-      "category": "Disclosure",
-      "title": "Please find enclosed the intimation that has been sent to the identified Shareholders of the Company, advising them to update their KYC details. For further details, please refer the enclosure.",
-      "url": "https://nsearchives.nseindia.com/corporate/GULFOILLUB_29062026181235_KYC292026.pdf"
-    },
-    {
-      "id": "f918b70a8fdc0",
-      "ticker": "GANESHBE",
-      "company": "Ganesh Benzoplast Limited",
-      "exchange": "NSE",
-      "date": "2026-06-29T17:48:46.000Z",
-      "category": "Trading Window",
-      "title": "Ganesh Benzoplast Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/GANESHBE_29062026174808_Intimationoftradingwindowclosure.pdf"
-    },
-    {
-      "id": "fd92134d53181",
-      "ticker": "MONOLITH",
-      "company": "Monolithisch India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-29T17:00:15.000Z",
-      "category": "Trading Window",
-      "title": "Monolithisch India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/MONOLITHISCH_29062026165448_Monolithisch_Trading_window_closure_30062026.pdf"
     }
   ]
 }
