@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T18:43:42.688Z",
+  "generated_at": "2026-09-24T07:55:09.045Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,116 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f1e53a7d80a6e",
+      "ticker": "SPUNWEB",
+      "company": "Spunweb Nonwoven Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T12:52:27.000Z",
+      "category": "Shareholders meeting",
+      "title": "Spunweb Nonwoven Limited has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on September 22, 2026. Further, the company has informed the Exchange regarding voting results.",
+      "url": "https://nsearchives.nseindia.com/corporate/SPUNWEB_24092026125217_VotingResultsandScrutinizersReport.pdf"
+    },
+    {
+      "id": "fa8a3eb92b645",
+      "ticker": "VBL",
+      "company": "Varun Beverages Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T12:49:04.000Z",
+      "category": "Adoption of new line(s) of business",
+      "title": "Intimation for execution of an Exclusive Distribution Agreement by Varun Beverages (Zimbabwe) (Private) Limited, subsidiary of the Company as per details attached.",
+      "url": "https://nsearchives.nseindia.com/corporate/VBL_24092026124621_Disclosure_Mondelez.pdf"
+    },
+    {
+      "id": "f295d8121aaa5",
+      "ticker": "YASHO",
+      "company": "Yasho Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T12:45:16.000Z",
+      "category": "Trading Window",
+      "title": "Yasho Industries Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/8291904474_24092026124503_Intimation_Q2.pdf"
+    },
+    {
+      "id": "fe85132456d52",
+      "ticker": "VOEPL",
+      "company": "Virtuoso Optoelectronics Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T12:44:02.000Z",
+      "category": "Shareholders meeting",
+      "title": "Virtuoso Optoelectronics Limited has informed the Exchange regarding Proceedings of Extraordinary General Meeting held on September 24, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/VIRTUOSO_24092026124340_EGM_Proceedings.pdf"
+    },
+    {
+      "id": "fdb10c81c0ce4",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T12:26:13.000Z",
+      "category": "Trading Window",
+      "title": "Sapphire Foods India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/SAPPHIRE_24092026122550_ClosureofTradingWindowQ2FY27SFIL.pdf"
+    },
+    {
+      "id": "fa825bb7c9044",
+      "ticker": "ESDS",
+      "company": "ESDS Software Solution Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T11:55:05.000Z",
+      "category": "Extension of Annual General Meeting",
+      "title": "ESDS Software Solution Limited has informed the Exchange about extension of Annual General Meeting",
+      "url": "https://nsearchives.nseindia.com/corporate/ESDS_24092026115446_ESDS_AGM_Extension_BSE_NSE_Intimation.pdf"
+    },
+    {
+      "id": "fa53c16dae26a",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T11:04:33.000Z",
+      "category": "Trading Window",
+      "title": "Goldiam International Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/GOLDIAM_24092026110427_Intimation_of_Trading_Window_Closure-24-9-2026-Q2.pdf"
+    },
+    {
+      "id": "fdc2683235aa8",
+      "ticker": "MASFIN",
+      "company": "MAS Financial Services Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T11:04:19.000Z",
+      "category": "Allotment of Securities",
+      "title": "MAS Financial Services Limited has informed the Exchange regarding allotment of 175000 securities pursuant to Non Convertible Securities at its meeting held on September 24, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/MASFIN_24092026110333_Final.pdf"
+    },
+    {
+      "id": "fabedf4fd9985",
+      "ticker": "MANINDS",
+      "company": "Man Industries (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T10:58:12.000Z",
+      "category": "Trading Window",
+      "title": "Man Industries (India) Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/MANINDS_24092026105753_MIIL_Intimation_of_Trading_Window_Closure_30092026.pdf"
+    },
+    {
+      "id": "fd0655c4efe93",
+      "ticker": "INDOMIM",
+      "company": "INDO-MIM Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T10:39:57.000Z",
+      "category": "Price movement",
+      "title": "Significant movement in price has been observed in INDO-MIM Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the market place so that the interest of the investors is safeguarded, had written to the company. INDO-MIM Limited has submitted their response.",
+      "url": "https://nsearchives.nseindia.com/corporate/INDOMIM_24092026103911_INDO_MIM_-_Clarification_on_Price_Movement_-_24-09-2026.pdf"
+    },
+    {
+      "id": "ff6f6810a2aab",
+      "ticker": "CARTRADE",
+      "company": "Cartrade Tech Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T08:08:28.000Z",
+      "category": "Press Release",
+      "title": "Cartrade Tech Limited has informed the Exchange regarding a press release dated September 24, 2026, titled \"Landmark Cars and OLX India Partner to Build India's Leading Phygital Pre-Owned Car Platform\".",
+      "url": "https://nsearchives.nseindia.com/corporate/CARTRADE_24092026080817_CarTrade_-_Landmark.pdf"
+    },
     {
       "id": "f858d62f03af6",
       "ticker": "STLTECH",
@@ -1726,6 +1836,16 @@
       "category": "Shareholders meeting",
       "title": "ESDS Software Solution Limited has informed the Exchange regarding Notice of Postal Ballot",
       "url": "https://nsearchives.nseindia.com/corporate/ESDS_13092026112037_ESDS_Postal_Ballot_Notice.pdf"
+    },
+    {
+      "id": "ffc94cffebbf9",
+      "ticker": "AVANTEL",
+      "company": "Avantel Limited",
+      "exchange": "NSE",
+      "date": "2026-09-12T19:20:02.000Z",
+      "category": "Trading Window",
+      "title": "Avantel Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/AVANTEL_12092026191918_TWC12092026.pdf"
     },
     {
       "id": "fa66567d99fef",
@@ -6936,6 +7056,16 @@
       "category": "Shareholders meeting",
       "title": "KSH International Limited has informed the Exchange, regarding Notice of Annual General Meeting to be held on September 15, 2026, and Annual Report for FY 2025-26.",
       "url": "https://nsearchives.nseindia.com/corporate/INTERNATIONAL_20082026184200_KSHINTL_Intimation_of_AGM_Notice__AR_signed.pdf"
+    },
+    {
+      "id": "fd4a94c7083ea",
+      "ticker": "FLYSBS",
+      "company": "FlySBS Aviation Limited",
+      "exchange": "NSE",
+      "date": "2026-08-20T17:57:07.000Z",
+      "category": "Price movement",
+      "title": "Significant movement in price has been observed in FlySBS Aviation Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the market place so that the interest of the investors is safeguarded, has written to the company. The response from the company is awaited.",
+      "url": "https://nsearchives.nseindia.com/corporate/-"
     },
     {
       "id": "f368eed1cf03f",
@@ -19876,136 +20006,6 @@
       "category": "Trading Window",
       "title": "Vasa Denticity Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
       "url": "https://nsearchives.nseindia.com/corporate/VASADENTICITY_30062026162311_Trading_window_closure.pdf"
-    },
-    {
-      "id": "fd7a6fa044c62",
-      "ticker": "LGEINDIA",
-      "company": "LG Electronics India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-30T16:14:05.000Z",
-      "category": "Disclosure",
-      "title": "LG Electronics Inc has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_23062026180926_LGEINDIA.pdf"
-    },
-    {
-      "id": "f0cb47c55ffd7",
-      "ticker": "DENTALKART",
-      "company": "Vasa Denticity Limited",
-      "exchange": "NSE",
-      "date": "2026-06-30T16:00:06.000Z",
-      "category": "Board Meeting",
-      "title": "Vasa Denticity Limited has submitted to the Exchange, the financial results for the period ended March 31, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/VASADENTICITY_30062026155744_Revised_outcome.pdf"
-    },
-    {
-      "id": "fb3f33d6ea12d",
-      "ticker": "URBANCO",
-      "company": "Urban Company Limited",
-      "exchange": "NSE",
-      "date": "2026-06-30T15:53:50.000Z",
-      "category": "Shareholders meeting",
-      "title": "Urban Company Limited has informed the Exchange regarding Proceedings of 12th Annual General Meeting of the Company held on Jun 30, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_30062026155219_UC_Proceedings_12_AGM_June_30_2026.pdf"
-    },
-    {
-      "id": "f0e42f13b0874",
-      "ticker": "E2E",
-      "company": "E2E Networks Limited",
-      "exchange": "NSE",
-      "date": "2026-06-30T15:35:27.000Z",
-      "category": "ESOP/ESOS/ESPS",
-      "title": "E2E Networks Limited has informed the Exchange regarding Grant of Options under E2E Networks Limited Employees Stock Option Scheme - 2021",
-      "url": "https://nsearchives.nseindia.com/corporate/E2E_30062026153508_ESOP_Grant_Options.pdf"
-    },
-    {
-      "id": "ffae6b5601b02",
-      "ticker": "URBANCO",
-      "company": "Urban Company Limited",
-      "exchange": "NSE",
-      "date": "2026-06-30T14:57:09.000Z",
-      "category": "Trading Window",
-      "title": "Urban Company Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_30062026145701_Tradingwindowclosure30062026.pdf"
-    },
-    {
-      "id": "fd4906871d540",
-      "ticker": "DENTALKART",
-      "company": "Vasa Denticity Limited",
-      "exchange": "NSE",
-      "date": "2026-06-30T14:46:45.000Z",
-      "category": "Structural Digital Database",
-      "title": "SDD Compliance Certificate for Financial Year and quarter ended on March 31, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/VASADENTICITY_30062026144628_SDD_Compliance_Certificate.pdf"
-    },
-    {
-      "id": "f888daaf10cef",
-      "ticker": "DIXON",
-      "company": "Dixon Technologies (India) Limited",
-      "exchange": "NSE",
-      "date": "2026-06-30T14:21:52.000Z",
-      "category": "Trading Window",
-      "title": "Dixon Technologies (India) Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/DIXON_30062026142043_TradingWindowClosureIntimation30062026.pdf"
-    },
-    {
-      "id": "f72149f6d5493",
-      "ticker": "ADVAIT",
-      "company": "Advait Energy Transitions Limited",
-      "exchange": "NSE",
-      "date": "2026-06-30T13:24:04.000Z",
-      "category": "Trading Window",
-      "title": "Advait Energy Transitions Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/ADVAITENERGY_30062026132358_SEintimationTWC_s.pdf"
-    },
-    {
-      "id": "f2eb4147e187b",
-      "ticker": "MONOLITH",
-      "company": "Monolithisch India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-30T13:10:51.000Z",
-      "category": "Disclosure",
-      "title": "Monolithisch India Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_12052026125742_Harsh.zip"
-    },
-    {
-      "id": "f3dc2e42eca66",
-      "ticker": "WOCKPHARMA",
-      "company": "Wockhardt Limited",
-      "exchange": "NSE",
-      "date": "2026-06-30T12:50:20.000Z",
-      "category": "Disclosure",
-      "title": "Wockhardt Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_12052026162734_WOCKPHARMA1.pdf"
-    },
-    {
-      "id": "f5b63499f6b3c",
-      "ticker": "UNIMECH",
-      "company": "Unimech Aerospace and Manufacturing Limited",
-      "exchange": "NSE",
-      "date": "2026-06-30T12:05:13.000Z",
-      "category": "Press Release",
-      "title": "Unimech Aerospace and Manufacturing Limited has informed the Exchange regarding a press release dated Jun 30, 2026, titled \"Unimech Aerospace and Manufacturing Limited Signs Long-Term Supply Agreement with FACC\".",
-      "url": "https://nsearchives.nseindia.com/corporate/UNIMECH_30062026120452_SE_Disclosure_Press_Release.pdf"
-    },
-    {
-      "id": "f44413bc9f88e",
-      "ticker": "SOLARINDS",
-      "company": "Solar Industries India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-30T11:59:30.000Z",
-      "category": "Trading Window",
-      "title": "Solar Industries India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/SOLARINDS_30062026115907_Signed_Trading_window_closure_SIIL.pdf"
-    },
-    {
-      "id": "f52776376a5a2",
-      "ticker": "JYOTICNC",
-      "company": "Jyoti CNC Automation Limited",
-      "exchange": "NSE",
-      "date": "2026-06-30T11:34:40.000Z",
-      "category": "Trading Window",
-      "title": "Jyoti CNC Automation Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/JYOTICNC_NSE_30062026113427_BSEnseTradingWindowClosureIntimationJCAL30062026.pdf"
     }
   ]
 }
