@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T07:55:09.045Z",
+  "generated_at": "2026-09-24T18:45:48.808Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,276 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "fef8a09e21ad0",
+      "ticker": "ESDS",
+      "company": "ESDS Software Solution Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T20:30:02.000Z",
+      "category": "Board Meeting",
+      "title": "ESDS Software Solution Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/ESDS_24092026202831_ESDS_BM_Outcome_BSE_NSE_Intimation.pdf"
+    },
+    {
+      "id": "faed5f3bc4326",
+      "ticker": "ACUTAAS",
+      "company": "Acutaas Chemicals Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T19:53:25.000Z",
+      "category": "Acquisition",
+      "title": "Acutaas Chemicals Limited has informed the Exchange about Acquisition",
+      "url": "https://nsearchives.nseindia.com/corporate/AMIORG_24092026195234_EnchemAcquisitionIntimationSWSigned.pdf"
+    },
+    {
+      "id": "fa5ab30cd93a2",
+      "ticker": "CURRENT",
+      "company": "Current Infraprojects Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T18:43:40.000Z",
+      "category": "Shareholders meeting",
+      "title": "Current Infraprojects Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 24, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/CURRENTINFRA_24092026184140_AGM_PROCEEDINGS_OUTCOME.pdf"
+    },
+    {
+      "id": "f8d882e006ca5",
+      "ticker": "MEDIASSIST",
+      "company": "Medi Assist Healthcare Services Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T18:36:32.000Z",
+      "category": "Shareholders meeting",
+      "title": "Medi Assist Healthcare Services Limited has submitted the Exchange a copy Srutinizers report of 26th Annual General Meeting held on September 24, 2026. Further, the company has informed the Exchange regarding voting results.",
+      "url": "https://nsearchives.nseindia.com/corporate/MEDIASSIST_24092026183620_MAHSAGMVotingResultsandScrutinizerReport.pdf"
+    },
+    {
+      "id": "f09e43f925ada",
+      "ticker": "MEDIASSIST",
+      "company": "Medi Assist Healthcare Services Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T18:33:08.000Z",
+      "category": "Shareholders meeting",
+      "title": "Medi Assist Healthcare Services Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 24, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/MEDIASSIST_24092026183249_MAHSAGMProceedings.pdf"
+    },
+    {
+      "id": "f024f6cf27e9d",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T18:32:49.000Z",
+      "category": "Amendment to AOA/MOA",
+      "title": "DEE Development Engineers Limited has informed the Exchange regarding the Amendment to AOA/MOA of the company.",
+      "url": "https://nsearchives.nseindia.com/corporate/DDEL_24092026182951_NSEBSE_MOA.pdf"
+    },
+    {
+      "id": "f68f6aef714ce",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T18:17:49.000Z",
+      "category": "Shareholders meeting",
+      "title": "DEE Development Engineers Limited has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on September 23, 2026. Further, the company has informed the Exchange regarding voting results.",
+      "url": "https://nsearchives.nseindia.com/corporate/DDEL_24092026181723_NSEBSE_Voting_Result.pdf"
+    },
+    {
+      "id": "f94073bd8df2c",
+      "ticker": "EMAPARTNER",
+      "company": "EMA Partners India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T18:14:12.000Z",
+      "category": "Acquisition",
+      "title": "This is to inform you that subsequent to the disclosure ( outcome) made on August 19, 2026, we hereby submit the scheme of Arrangement for merger of EMA Partners Executive Search Private Limited, Emagine People Technologies Private Limited and EMA Decision Dynamics Private Limited (\"Transferor Company\") with EMA Partners India Limited (\"Transferee Company\"), under Section 233 of the Companies Act, 2013 read with the Companies (CAA) Rules, 2016, being a fast-track merger of a wholly owned subsidiary with its holding company.",
+      "url": "https://nsearchives.nseindia.com/corporate/EMAIN_24092026181356_Submission_of_Scheme_of_Amalgamation_Signed.pdf"
+    },
+    {
+      "id": "f7734b98faa16",
+      "ticker": "SENORES",
+      "company": "Senores Pharmaceuticals Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T18:00:09.000Z",
+      "category": "Trading Window",
+      "title": "Senores Pharmaceuticals Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/SENORES_24092026163602_Intimation.pdf"
+    },
+    {
+      "id": "f64d09710085c",
+      "ticker": "BLACKBUCK",
+      "company": "BLACKBUCK LIMITED",
+      "exchange": "NSE",
+      "date": "2026-09-24T17:54:00.000Z",
+      "category": "Disclosure",
+      "title": "BLACKBUCK LIMITED has informed the Exchange about Incorporation of Wholly Owned Subsidiary",
+      "url": "https://nsearchives.nseindia.com/corporate/ZINKA2015_24092026175344_Announcement_under_Regulation_30.pdf"
+    },
+    {
+      "id": "fb0f02f1f5a98",
+      "ticker": "JUBLCPL",
+      "company": "Jubilant Agri and Consumer Products Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T17:52:05.000Z",
+      "category": "Credit Rating",
+      "title": "Jubilant Agri and Consumer Products Limited has informed the Exchange about Credit Rating- Revision.",
+      "url": "https://nsearchives.nseindia.com/corporate/JACPL_24092026174823_JACPL_Intimation_Credit_Rating_Signed.pdf"
+    },
+    {
+      "id": "f3b9058d834d8",
+      "ticker": "HILINFRA",
+      "company": "Highway Infrastructure Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T17:47:33.000Z",
+      "category": "Change in Auditors",
+      "title": "Highway Infrastructure Limited has informed the Exchange regarding Change in Auditors of the company.",
+      "url": "https://nsearchives.nseindia.com/corporate/HIGHWAY123_24092026174712_HIL_AGM_ChngMGMT_24092026.pdf"
+    },
+    {
+      "id": "fcfe4dbccddf1",
+      "ticker": "BLACKBUCK",
+      "company": "BLACKBUCK LIMITED",
+      "exchange": "NSE",
+      "date": "2026-09-24T17:40:53.000Z",
+      "category": "Trading Window",
+      "title": "BLACKBUCK LIMITED has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/ZINKA2015_24092026174044_Closure_of_Trading_Window.pdf"
+    },
+    {
+      "id": "fde8712140f83",
+      "ticker": "CONCORDBIO",
+      "company": "Concord Biotech Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T17:40:46.000Z",
+      "category": "Shareholders meeting",
+      "title": "Concord Biotech Limited has informed the Exchange regarding Notice of Postal Ballot",
+      "url": "https://nsearchives.nseindia.com/corporate/CONCORD_24092026174022_Postal_Ballot_Notice.pdf"
+    },
+    {
+      "id": "fb83f6df7b798",
+      "ticker": "HILINFRA",
+      "company": "Highway Infrastructure Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T17:38:29.000Z",
+      "category": "Shareholders meeting",
+      "title": "Highway Infrastructure Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 24, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/HIGHWAY123_24092026173702_Reg30_ProceedingsofAGM.pdf"
+    },
+    {
+      "id": "f6787e3da2466",
+      "ticker": "BLACKBUCK",
+      "company": "BLACKBUCK LIMITED",
+      "exchange": "NSE",
+      "date": "2026-09-24T17:36:02.000Z",
+      "category": "Disclosure",
+      "title": "BLACKBUCK LIMITED has informed the Exchange about ESOP Trust Deed",
+      "url": "https://nsearchives.nseindia.com/corporate/ZINKA2015_24092026173539_Announcement_under_Regulation_30.pdf"
+    },
+    {
+      "id": "f6c72de4d8340",
+      "ticker": "ACUTAAS",
+      "company": "Acutaas Chemicals Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T17:22:41.000Z",
+      "category": "Shareholders meeting",
+      "title": "Acutaas Chemicals Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 24, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/AMIORG_24092026172143_AGMProceedingsswSigned.pdf"
+    },
+    {
+      "id": "f251116afa86e",
+      "ticker": "SKYGOLD",
+      "company": "SKY GOLD AND DIAMONDS LIMITED",
+      "exchange": "NSE",
+      "date": "2026-09-24T17:19:46.000Z",
+      "category": "Trading Window",
+      "title": "SKY GOLD AND DIAMONDS LIMITED has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/SKYGOLD_24092026171934_COTW.pdf"
+    },
+    {
+      "id": "ff783e337f06f",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T17:14:24.000Z",
+      "category": "Disclosure",
+      "title": "Apsis Aerocom Limited has informed the Exchange about receiving a Lifetime Contribution Award in Precision Engineering & Aerospace Manufacturing received from Economic Times Now Machinist Aerospace & Defence Manufacturing Summit (ADS) 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/APSIS2025_24092026171405_Dislcosure_under_Reg30_Award_24092026.pdf"
+    },
+    {
+      "id": "fa47079c9724f",
+      "ticker": "GROWW",
+      "company": "Billionbrains Garage Ventures Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T17:02:53.000Z",
+      "category": "Trading Window",
+      "title": "Billionbrains Garage Ventures Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_24092026170219_TradingWindow_SD.pdf"
+    },
+    {
+      "id": "f51522e08a4c8",
+      "ticker": "STLTECH",
+      "company": "Sterlite Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T16:52:20.000Z",
+      "category": "Press Release",
+      "title": "STLTECH: Sterlite Technologies Limited has informed the Exchange regarding a press release dated September 24, 2026, titled \"Press Release - Sterlite Technologies strengthens its Neuralis portfolio with Pre-Terminated Fiber Trunk Assemblies to power hyperscale data centers.\".",
+      "url": "https://nsearchives.nseindia.com/corporate/STLTECH_24092026165129_SEintimation_pre_terminated_cables_Signed.pdf"
+    },
+    {
+      "id": "f857a311afb07",
+      "ticker": "VAML",
+      "company": "Vedanta Aluminium Metal Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T16:50:45.000Z",
+      "category": "Disclosure",
+      "title": "Vedanta Aluminium Metal Limited has informed the Exchange regarding 'Clarification on recommendations issued by proxy advisory firm on Agenda Items of Postal Ballot Notice of Vedanta Aluminium Metal Limited (the Company or VAML )'.",
+      "url": "https://nsearchives.nseindia.com/corporate/VAML_24092026165017_VAMLSEIntimationClarificationIiASrecommendationsigned.pdf"
+    },
+    {
+      "id": "f81a7d72a1a84",
+      "ticker": "SCODATUBES",
+      "company": "Scoda Tubes Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T15:49:19.000Z",
+      "category": "Disclosure",
+      "title": "Scoda Tubes Limited has informed the Exchange about Change in Name of Secretarial Auditor",
+      "url": "https://nsearchives.nseindia.com/corporate/SCODA_24092026154913_Intimation_of_change_of_name_-_Sec_auditor.pdf"
+    },
+    {
+      "id": "f851e95c091e0",
+      "ticker": "DENTA",
+      "company": "Denta Water and Infra Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T15:26:49.000Z",
+      "category": "Shareholders meeting",
+      "title": "Denta Water and Infra Solutions Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 24, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/DENTA_24092026152608_Outcome_of_AGM_Sep_24_2026.pdf"
+    },
+    {
+      "id": "fc5539b56d14c",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T15:08:48.000Z",
+      "category": "Trading Window",
+      "title": "Zen Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/ZENTEC_24092026150650_Intimation_-_Trading_Window_Closure.pdf"
+    },
+    {
+      "id": "f6a9a7b0ede8d",
+      "ticker": "FAZE3Q",
+      "company": "Faze Three Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T14:55:32.000Z",
+      "category": "Trading Window",
+      "title": "Faze Three Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/FAZETHREE_24092026145506_Intimation.pdf"
+    },
+    {
+      "id": "fab913e295478",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T13:39:00.000Z",
+      "category": "Change in Directors",
+      "title": "E2E Networks Limited has informed the Exchange regarding Appointment of Mr. Anand Ganapathy as Chief Revenue Officer (CRO) of the company w.e.f. September 24, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/E2E_24092026133759_IntimationforAppointmentMrAnand.pdf"
+    },
     {
       "id": "f1e53a7d80a6e",
       "ticker": "SPUNWEB",
@@ -19736,276 +20006,6 @@
       "category": "Disclosure",
       "title": "DEE Development Engineers Limited has informed the Exchange about receipt of In-Principle approval for listing of specified securities from stock exchange(s)",
       "url": "https://nsearchives.nseindia.com/corporate/DDEL_01072026235302_NSEBSESIGNED.pdf"
-    },
-    {
-      "id": "f3849a93f6f6d",
-      "ticker": "MEDIASSIST",
-      "company": "Medi Assist Healthcare Services Limited",
-      "exchange": "NSE",
-      "date": "2026-07-01T23:10:48.000Z",
-      "category": "Disclosure",
-      "title": "Medi Assist Healthcare Services Limited has informed the Exchange about General Updates- Completion of acquisition of additional stake in Mayfair We Care Limited, UK",
-      "url": "https://nsearchives.nseindia.com/corporate/MEDIASSIST_01072026230953_MAHS_Closure_of_additional_acquisition.pdf"
-    },
-    {
-      "id": "f18916b0836c2",
-      "ticker": "LENSKART",
-      "company": "Lenskart Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-07-01T22:51:56.000Z",
-      "category": "Allotment of Securities",
-      "title": "LENSKART: Lenskart Solutions Limited has informed the Exchange about the grant of stock options pursuant to approval of Nomination and Remuneration Committee",
-      "url": "https://nsearchives.nseindia.com/corporate/LENSKART_01072026224733_Intimation_Grant_of_Options_01072026_signed.pdf"
-    },
-    {
-      "id": "f6cf32513228a",
-      "ticker": "VAML",
-      "company": "Vedanta Aluminium Metal Limited",
-      "exchange": "NSE",
-      "date": "2026-07-01T20:39:07.000Z",
-      "category": "Change in Auditors",
-      "title": "Vedanta Aluminium Metal Limited has informed the Exchange regarding Change in Auditors of the company.",
-      "url": "https://nsearchives.nseindia.com/corporate/VAML_01072026203801_VAMLSEStatAuditors1July2026signed.pdf"
-    },
-    {
-      "id": "fef73ab807f8f",
-      "ticker": "FAZE3Q",
-      "company": "Faze Three Limited",
-      "exchange": "NSE",
-      "date": "2026-07-01T18:37:25.000Z",
-      "category": "Disclosure",
-      "title": "Faze Three Limited has informed the Exchange regarding 'Receipt of Approval Under Production Linked Incentive(PLI) Scheme of Government of India'.",
-      "url": "https://nsearchives.nseindia.com/corporate/FAZETHREE_01072026183607_Disclosure.pdf"
-    },
-    {
-      "id": "f101349aaf1c8",
-      "ticker": "GOLDIAM",
-      "company": "Goldiam International Limited",
-      "exchange": "NSE",
-      "date": "2026-07-01T18:30:37.000Z",
-      "category": "Record Date",
-      "title": "Goldiam International Limited has informed the Exchange that Record date for the purpose of Bonus is 10-Jul-2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/GOLDIAM_01072026183021_Intimation_of_Record_Date-1-7-26.pdf"
-    },
-    {
-      "id": "f6cba9a0b0cb2",
-      "ticker": "DEVYANI",
-      "company": "Devyani International Limited",
-      "exchange": "NSE",
-      "date": "2026-07-01T18:26:26.000Z",
-      "category": "Disclosure",
-      "title": "Devyani International Limited has informed the Exchange about update on acquisition.",
-      "url": "https://nsearchives.nseindia.com/corporate/DEVYANI_01072026182610_SE_Intimation_-_DID_loan_conversion_DSC.pdf"
-    },
-    {
-      "id": "f6b17ad292cf9",
-      "ticker": "GOLDIAM",
-      "company": "Goldiam International Limited",
-      "exchange": "NSE",
-      "date": "2026-07-01T18:24:01.000Z",
-      "category": "Shareholders meeting",
-      "title": "Goldiam International Limited has informed the Exchange regarding Proceedings of Postal Ballot. Further, the company has submitted the Exchange a copy of Srutinizers report along with voting results.",
-      "url": "https://nsearchives.nseindia.com/corporate/GOLDIAM_01072026182355_Intimation_Postal_Ballot_Results-1-7-2026.pdf"
-    },
-    {
-      "id": "f77cbf761f215",
-      "ticker": "VBL",
-      "company": "Varun Beverages Limited",
-      "exchange": "NSE",
-      "date": "2026-07-01T15:53:31.000Z",
-      "category": "ESOP/ESOS/ESPS",
-      "title": "The Share Allotment Committee today approved the allotment of 1,68,750 Equity Shares of face value of Rs. 2 each upon exercise of stock options vested under the Employees Stock Option Scheme 2016 as per details in enclosed intimation",
-      "url": "https://nsearchives.nseindia.com/corporate/VBL_01072026155219_ESOP_Outcome.pdf"
-    },
-    {
-      "id": "f16b78bea6d36",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "exchange": "NSE",
-      "date": "2026-07-01T12:44:03.000Z",
-      "category": "ESOP/ESOS/ESPS",
-      "title": "Meesho Limited has informed the Exchange regarding grant of stock options under Meesho Limited - Employee Stock Option Plan, 2024 ( 'ESOP 2024 Plan')",
-      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_01072026124331_ML_Intimation_Grant_of_ESOP_01072026.pdf"
-    },
-    {
-      "id": "f3e480bb65b22",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "exchange": "NSE",
-      "date": "2026-07-01T12:41:08.000Z",
-      "category": "ESOP/ESOS/ESPS",
-      "title": "Meesho Limited has informed the Exchange regarding Allotment of 13450895 Shares.",
-      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_01072026123950_ML_Intimation_Allotment_of_ESOPs_01072026.pdf"
-    },
-    {
-      "id": "f610c32feebe2",
-      "ticker": "BHARATCOAL",
-      "company": "Bharat Coking Coal Limited",
-      "exchange": "NSE",
-      "date": "2026-07-01T12:22:22.000Z",
-      "category": "Disclosure",
-      "title": "Bharat Coking Coal Limited has informed the Exchange regarding Provisional Monthly Production Performance for the month of June 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/BCCL_01072026122211_Production_Performance_June_2026.pdf"
-    },
-    {
-      "id": "fd8228f3c074d",
-      "ticker": "STLTECH",
-      "company": "Sterlite Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-01T11:45:28.000Z",
-      "category": "Allotment of Securities",
-      "title": "Sterlite Technologies Limited has informed the Exchange regarding allotment of 25728500 securities pursuant to Qualified Institution Placement at its meeting held on July 01, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/STLTECH_01072026114514_SE_Intimation-Allotment_of_securities-_July_01_2026_FINAL_signed.pdf"
-    },
-    {
-      "id": "f86e5ade3d871",
-      "ticker": "DEVYANI",
-      "company": "Devyani International Limited",
-      "exchange": "NSE",
-      "date": "2026-07-01T11:38:00.000Z",
-      "category": "Disclosure",
-      "title": "Devyani International Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_24062026121924_47.pdf"
-    },
-    {
-      "id": "f3d660099810c",
-      "ticker": "BHARATCOAL",
-      "company": "Bharat Coking Coal Limited",
-      "exchange": "NSE",
-      "date": "2026-07-01T11:18:53.000Z",
-      "category": "Change in Directors",
-      "title": "Bharat Coking Coal Limited has informed the Exchange about change in Management",
-      "url": "https://nsearchives.nseindia.com/corporate/BCCL_01072026111838_Announcement_SMP_Signed.pdf"
-    },
-    {
-      "id": "fd705bc436c31",
-      "ticker": "SURYAROSNI",
-      "company": "Surya Roshni Limited",
-      "exchange": "NSE",
-      "date": "2026-07-01T10:36:23.000Z",
-      "category": "Credit Rating",
-      "title": "Surya Roshni Limited has informed the Exchange about Credit Rating",
-      "url": "https://nsearchives.nseindia.com/corporate/SURYAROSNI_01072026103515_CARE_Credit_Rating_Reaffirmed.pdf"
-    },
-    {
-      "id": "f545d9f2e2ba7",
-      "ticker": "KPITTECH",
-      "company": "KPIT Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-01T09:33:34.000Z",
-      "category": "Disclosure",
-      "title": "KPIT Technologies Limited has informed the Exchange regarding 'Clarification on Outlook for Q1FY27 and for the remainder of the year'.",
-      "url": "https://nsearchives.nseindia.com/corporate/KPITTECH_01072026093258_KPIT_Outlook_Q1_FY_27.pdf"
-    },
-    {
-      "id": "fdf6b65a84cf9",
-      "ticker": "STLTECH",
-      "company": "Sterlite Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-06-30T23:59:14.000Z",
-      "category": "Board Meeting",
-      "title": "Sterlite Technologies Limited has informed the Exchange regarding Outcome of Board Meeting held on Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/STLTECH_30062026235904_SE_Intimation-Issue_closing_intimation-_June_30_2026_signed.pdf"
-    },
-    {
-      "id": "fc09f4f0d5408",
-      "ticker": "STLTECH",
-      "company": "Sterlite Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-06-30T23:57:40.000Z",
-      "category": "Allotment of Securities",
-      "title": "Sterlite Technologies Limited has informed the Exchange about qualified Institutional Placement - Issue Close",
-      "url": "https://nsearchives.nseindia.com/corporate/STLTECH_30062026235727_SE_Intimation-Issue_closing_intimation-_June_30_2026_signed.pdf"
-    },
-    {
-      "id": "f3dd0580f9986",
-      "ticker": "DIXON",
-      "company": "Dixon Technologies (India) Limited",
-      "exchange": "NSE",
-      "date": "2026-06-30T22:00:15.000Z",
-      "category": "Change in Directors",
-      "title": "Dixon Technologies (India) Limited has informed the Exchange about change in Senior Management",
-      "url": "https://nsearchives.nseindia.com/corporate/DIXON_30062026215609_ChangeinSeniorManagementMrKKKaul_30062026.pdf"
-    },
-    {
-      "id": "fa17419003ba0",
-      "ticker": "EMAPARTNER",
-      "company": "EMA Partners India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-30T20:27:41.000Z",
-      "category": "Disclosure",
-      "title": "EMA Partners India Limited has informed the Exchange regarding 'General Update Gift of Equity Shares by Promoter.'.",
-      "url": "https://nsearchives.nseindia.com/corporate/EMAIN_30062026202722_General_Update_Gifting_of_Shares_Final.pdf"
-    },
-    {
-      "id": "fa1d1ed816d69",
-      "ticker": "URBANCO",
-      "company": "Urban Company Limited",
-      "exchange": "NSE",
-      "date": "2026-06-30T18:34:29.000Z",
-      "category": "Shareholders meeting",
-      "title": "Urban Company Limited has submitted the Exchange - Voting Results and Scrutinizer s Report of the 12th Annual General Meeting of the Company",
-      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_30062026183413_UC_12AGM_Result_30June_2026.pdf"
-    },
-    {
-      "id": "ff230c8c3d6a2",
-      "ticker": "BLACKBUCK",
-      "company": "BLACKBUCK LIMITED",
-      "exchange": "NSE",
-      "date": "2026-06-30T18:22:09.000Z",
-      "category": "Disclosure",
-      "title": "BLACKBUCK LIMITED has informed the Exchange regarding 'Disclosure under Regulation 31(1) of SEBI (SAST) Regulations, 2011'.",
-      "url": "https://nsearchives.nseindia.com/corporate/ZINKA2015_30062026181958_Disclosure_to_Stock_Exchange.pdf"
-    },
-    {
-      "id": "f6d16dfe989dc",
-      "ticker": "CURRENT",
-      "company": "Current Infraprojects Limited",
-      "exchange": "NSE",
-      "date": "2026-06-30T18:04:43.000Z",
-      "category": "Disclosure",
-      "title": "Current Infraprojects Limited has informed the Exchange regarding 'Acquisition of Equity Shares by Promoter under Regulation 7(2) of SEBI (Prohibition of Insider Trading) Regulations, 2015'.",
-      "url": "https://nsearchives.nseindia.com/corporate/CURRENTINFRA_30062026175739_Intimation_under_regulation_7_2_.pdf"
-    },
-    {
-      "id": "f90d845f63c43",
-      "ticker": "IKS",
-      "company": "Inventurus Knowledge Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-06-30T17:51:05.000Z",
-      "category": "Press Release",
-      "title": "Inventurus Knowledge Solutions Limited has informed the Exchange regarding a press release dated Jun 30, 2026, titled \"IKS Health Delivers $12 Million in Annual Cash Impact for Coding Foundation at Axia Women s Health.\".",
-      "url": "https://nsearchives.nseindia.com/corporate/IKS2006_30062026175030_2026030PressRelease.pdf"
-    },
-    {
-      "id": "fdc9454359e66",
-      "ticker": "KPITTECH",
-      "company": "KPIT Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-06-30T17:40:41.000Z",
-      "category": "Disclosure",
-      "title": "KPIT Technologies Limited has informed the Exchange regarding - Outlook for Q1FY27 and for the remainder of the year.",
-      "url": "https://nsearchives.nseindia.com/corporate/KPITTECH_30062026173845_KPIT_Outlook_Q1_FY_27.pdf"
-    },
-    {
-      "id": "f50e4436cf5e6",
-      "ticker": "MOLDTKPAC",
-      "company": "Mold-Tek Packaging Limited",
-      "exchange": "NSE",
-      "date": "2026-06-30T17:13:36.000Z",
-      "category": "Trading Window",
-      "title": "Mold-Tek Packaging Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/MOLDTKPAC_30062026171327_Intimation.pdf"
-    },
-    {
-      "id": "fc3c54bb1a469",
-      "ticker": "DENTALKART",
-      "company": "Vasa Denticity Limited",
-      "exchange": "NSE",
-      "date": "2026-06-30T16:23:20.000Z",
-      "category": "Trading Window",
-      "title": "Vasa Denticity Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/VASADENTICITY_30062026162311_Trading_window_closure.pdf"
     }
   ]
 }
