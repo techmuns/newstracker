@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T18:14:37.448Z",
+  "generated_at": "2026-09-24T18:37:22.236Z",
   "portfolio": [
     {
       "company": "Monolithisch India Limited",
@@ -32,14 +32,14 @@
       "sector": "Services"
     },
     {
-      "company": "Sterlite Technologies Limited",
-      "ticker": "STLTECH",
-      "sector": "Telecommunication"
-    },
-    {
       "company": "Acutaas Chemicals Limited",
       "ticker": "ACUTAAS",
       "sector": "Healthcare"
+    },
+    {
+      "company": "Sterlite Technologies Limited",
+      "ticker": "STLTECH",
+      "sector": "Telecommunication"
     },
     {
       "company": "Xpro India Limited",
@@ -110,6 +110,11 @@
       "company": "ESDS Software Solution Limited",
       "ticker": "ESDS",
       "sector": "Information Technology"
+    },
+    {
+      "company": "SpectraA Technology Solutions Limited",
+      "ticker": "SPECTRAA",
+      "sector": ""
     },
     {
       "company": "TANFAC Industries Ltd",
