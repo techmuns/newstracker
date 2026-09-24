@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T18:48:17.301Z",
+  "generated_at": "2026-09-24T07:53:53.145Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 110,
@@ -9,23 +9,101 @@
   },
   "items": [
     {
-      "id": "nf758fde71419",
+      "id": "ndbac1d406588",
       "ticker": "MSECL",
       "company": "Monarch Surveyors and Engineering Consultants Ltd",
       "sector": "Services",
       "scope": [
         "watchlist"
       ],
-      "title": "Monarch Surveyors bags order worth Rs 5 crore | Capital Market News - Business Standard",
-      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-bags-order-worth-rs-5-crore-126062500927_1.html",
+      "title": "Monarch Surveyors and Engineering Consultants receives Rs 2-cr work order | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-and-engineering-consultants-receives-rs-2-cr-work-order-126082200734_1.html",
       "source": "business-standard.com",
-      "date": "2026-09-23T18:39:25.107Z",
+      "date": "2026-09-24T07:51:42.485Z",
       "topic": "Orders",
       "keyword": "Order",
       "importance": "low",
       "mood": "positive",
-      "takeaway": "Monarch Surveyors wins Rs 5 crore order.",
+      "takeaway": "Monarch Surveyors received a Rs 2 crore work order.",
       "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "ndc6d69d05293",
+      "ticker": "PVRINOX",
+      "company": "PVR INOX Limited",
+      "sector": "Media Entertainment & Publication",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "PVR INOX Buyback: Record Date Fixed for September 4, 2026 | Arihant Plus",
+      "url": "https://www.arihantplus.com/market-insights/bulletin/pvr-inox-buyback-record-date-fixed-for-september-4-2026",
+      "source": "arihantplus.com",
+      "date": "2026-09-24T07:49:55.613Z",
+      "topic": "Money",
+      "keyword": "Buyback",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "PVR INOX set September 4, 2026 as record date for its buyback program.",
+      "enriched": true
+    },
+    {
+      "id": "ne07183b96d93",
+      "ticker": "DIXON",
+      "company": "Dixon Technologies (India) Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Dixon eyes world's top 5 electronics makers within a decade, bets on components beyond phones - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/dixon-targets-spot-among-worlds-top-5-electronics-makers-within-a-decade-bets-on-components-beyond-smartphones/articleshow/134425646.cms",
+      "source": "economictimes.indiatimes.com",
+      "date": "2026-09-24T07:48:09.080Z",
+      "topic": "Growth",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Dixon aims to become top 5 global electronics maker in 10 years, expanding beyond phones into components.",
+      "enriched": true
+    },
+    {
+      "id": "n1d5d2906ab6f",
+      "ticker": "CURRENT",
+      "company": "Current Infraprojects Limited",
+      "sector": "Construction",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Current Infraprojects Limited Secures Rs 10.42 Cr Order from Bank Note Press, Dewas for 3 MW Rooftop Solar Project - NewsX",
+      "url": "https://www.newsx.com/business-2/current-infraprojects-limited-secures-rs-10-42-cr-order-from-bank-note-press-dewas-for-3-mw-rooftop-solar-project-273549/",
+      "source": "newsx.com",
+      "date": "2026-09-24T07:47:59.983Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Current Infraprojects won Rs 10.42 crore order for 3 MW rooftop solar project from Bank Note Press, Dewas.",
+      "sources_count": 4,
+      "enriched": true
+    },
+    {
+      "id": "n1442c2cb2d53",
+      "ticker": "ESDS",
+      "company": "ESDS Software Solution Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "ESDS Software gets ROC approval to extend FY26 AGM deadline",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaHRMTjJSNDh1OXcyR2ZISl9xZE5uaDI4c0drWTVaVlozanMzUkJBYXJoOGpTa2ltOXcwaWtwczV2UTVxN1c2dXQ3OGZ5Z04zUUhMWW43TjRINnZtQmprZ09KbWhQZ29MZWZaSWpuTDdPZnhGRVhIQk55YnpaakhNYlBiYUJWTG1JMFBJblI1YThjcEdtUnpCb215dEFUVDF4T3cwRTJheUQ0cHdBbHlpOGZkZw?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-09-24T06:42:43.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "ESDS Software gets approval to extend AGM deadline to FY26.",
       "enriched": true
     },
     {
@@ -140,7 +218,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Laxmi Dental held Q1 2027 earnings call.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -179,26 +257,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "EMA Partners India acquires Taggd recruitment firm for Rs 113 crore.",
-      "enriched": true
-    },
-    {
-      "id": "nbe6f14a3faf6",
-      "ticker": "CURRENT",
-      "company": "Current Infraprojects Limited",
-      "sector": "Construction",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Current Infraprojects Secures Rs 10.42 Cr Bank Note Press Solar Order – Outlook Business",
-      "url": "https://www.outlookbusiness.com/spotlight/news-wire/current-infraprojects-secures-rs-10-42-cr-bank-note-press-solar-order",
-      "source": "outlookbusiness.com",
-      "date": "2026-09-23T18:35:44.097Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Current Infraprojects wins Rs 10.42 crore solar order from Bank Note Press.",
-      "sources_count": 4,
       "enriched": true
     },
     {
@@ -279,27 +337,6 @@
       "enriched": true
     },
     {
-      "id": "n22c980504bd4",
-      "ticker": "TANFACIND",
-      "company": "TANFAC Industries Ltd",
-      "sector": "Chemicals",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Anupam Rasayan: Completes ₹60.88 Crore Equity Share Acquisition in Tanfac | InvestyWise",
-      "url": "https://www.investywise.com/anupam-rasayan-india-ltd-acquisition-of-equity-shares-in-tanfac-industries/",
-      "source": "investywise.com",
-      "date": "2026-09-23T18:35:12.650Z",
-      "topic": "Deals",
-      "keyword": "Preferential Issue",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Anupam Rasayan acquired ₹60.88 crore equity stake in Tanfac Industries.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "nbabbbd4f3f15",
       "ticker": "CARTRADE",
       "company": "Cartrade Tech Limited",
@@ -336,7 +373,8 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Accord Transformer secured ₹20 crore order for wind transformers in Bhuj project.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "na1310473e20f",
@@ -3784,7 +3822,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Anupam Rasayan board approves acquisition of stake in Tanfac Industries.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -13555,44 +13593,6 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "LG Electronics India reported Q2 results with modest revenue growth and earnings per share of ₹24.83.",
-      "enriched": true
-    },
-    {
-      "id": "nec3ce4c99bec",
-      "ticker": "SONATSOFTW",
-      "company": "Sonata Software Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "SONATSOFTW Q2 2026 Earnings: Revenue Crosses ₹10,700 Crore with Steady Growth - Return On Equity",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdEhEQ3ZudklrTDBrX2k5aDJJRFZmQTNpeS1xZlJoWXpTZmdqcExHZ2M5SzM1SW4zNlM2dGlKak03dHhJYUNFS3N0Q3dFNHhjQ3FRRUJrUVFhdDBONWVPTFdldkVUNWE3OWJXRXhnTWhSYjdDRnZ6bFRIdjY5cUhqeDcyTHhtaDQxdTRPZVFfUHJlQWN5aEhsdWNVenJuVzlmc3hSeHJER2pJRUhWZzhOanJoVGNZX2M?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-16T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Sonata Software Q2 2026 revenue crossed ₹10,700 crore with steady growth.",
-      "enriched": true
-    },
-    {
-      "id": "n3daea7e34a90",
-      "ticker": "MIDWESTLTD",
-      "company": "Midwest Limited",
-      "sector": "Consumer Durables",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Midwest Limited (MIDWESTLTD.NS) Q2 2026 Earnings: Revenue Growth and Strong EPS Signal Resilience - Long-Term Guidance",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQjdGblpDTlhTWDhldTBsX1NxTV9MNjgzOFNqUTNUaDVLbmVVOWdBakdEaVV5Q3ZYdGx0eHhrUnFxU1lfdXdCWU1xYVg2QVB5WFpKQXVpTDlRUm0yQUh2V1B6Zm5DSkRaNE9sRlk3LXM3S2dvZWViNl9kZEF5eS14MVFXTFVrUGJKdzdJanhtTlgzazlGT2Q0MTZXOHA0X053NER5Y0RfMFJMdlVrcFh3SHlpM3VrWlpIcTdrUDNvMTk0eC1TbUFXQlFBWE8?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-16T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Midwest Limited posted Q2 earnings showing revenue growth and strong earnings per share, signaling resilience.",
       "enriched": true
     }
   ]
