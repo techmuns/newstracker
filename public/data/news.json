@@ -1,31 +1,187 @@
 {
-  "generated_at": "2026-09-24T18:51:04.686Z",
+  "generated_at": "2026-09-25T08:21:31.513Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 118,
-    "watchlist": 677,
+    "portfolio": 119,
+    "watchlist": 678,
     "universe": 34,
-    "total": 711
+    "total": 712
   },
   "items": [
     {
-      "id": "n8f03f4fa38ae",
+      "id": "ndbac1d406588",
       "ticker": "MSECL",
       "company": "Monarch Surveyors and Engineering Consultants Ltd",
       "sector": "Services",
       "scope": [
         "watchlist"
       ],
-      "title": "Monarch Surveyors and Engineering gains on bagging Rs 2-cr work order | Capital Market News - Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/monarch-surveyors-and-engineering-gains-on-bagging-rs-2-cr-work-order-126082400282_1.html",
+      "title": "Monarch Surveyors and Engineering Consultants receives Rs 2-cr work order | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-and-engineering-consultants-receives-rs-2-cr-work-order-126082200734_1.html",
       "source": "business-standard.com",
-      "date": "2026-09-24T18:42:23.496Z",
+      "date": "2026-09-25T08:12:57.772Z",
       "topic": "Orders",
       "keyword": "Order",
       "importance": "low",
       "mood": "positive",
-      "takeaway": "Monarch Surveyors won a Rs 2 crore work order.",
+      "takeaway": "Monarch Surveyors received a Rs 2 crore work order.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nae30ae4df9c1",
+      "ticker": "MSECL",
+      "company": "Monarch Surveyors and Engineering Consultants Ltd",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Monarch Surveyors bags Rs 4-cr government contract in Maharashtra | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-bags-rs-4-cr-government-contract-in-maharashtra-126071500937_1.html",
+      "source": "business-standard.com",
+      "date": "2026-09-25T08:12:57.772Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Monarch Surveyors won a Rs 4 crore government contract in Maharashtra.",
+      "enriched": true
+    },
+    {
+      "id": "n17ac27ac885e",
+      "ticker": "VBL",
+      "company": "Varun Beverages Limited",
+      "sector": "Fast Moving Consumer Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Lemon Tree Hotels Share Price in Focus; Subsidiary Fleur Hotels Completes ₹120 Crore Mumbai Land Acquisition",
+      "url": "https://www.angelone.in/news/stocks/lemon-tree-hotels-share-price-in-focus-subsidiary-fleur-hotels-completes-120-crore-mumbai-land-acquisition",
+      "source": "angelone.in",
+      "date": "2026-09-25T08:12:13.501Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Lemon Tree's subsidiary Fleur Hotels acquired Mumbai land for Rs 120 crore.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "n93b708a251dd",
+      "ticker": "LAXMIDENTL",
+      "company": "Laxmi Dental Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Q1 2027 Laxmi Dental Ltd Earnings Call Transcript",
+      "url": "https://www.gurufocus.com/news/9027891/q1-2027-laxmi-dental-ltd-earnings-call-transcript",
+      "source": "gurufocus.com",
+      "date": "2026-09-25T08:10:20.987Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Laxmi Dental held its Q1 FY27 earnings call to discuss quarterly results.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "n35184d774bab",
+      "ticker": "KKJEWELS",
+      "company": "Kabra Jewels Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Kabra Extrusion Technik to raise Rs 141 cr from preferential issue of shares | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/amp/markets/capital-market-news/kabra-extrusion-technik-to-raise-rs-141-cr-from-preferential-issue-of-shares-126092500473_1.html",
+      "source": "business-standard.com",
+      "date": "2026-09-25T08:10:17.901Z",
+      "topic": "Money",
+      "keyword": "Preferential Issue",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Kabra Extrusion Technik to raise Rs 141 crore through preferential share issue.",
+      "enriched": true
+    },
+    {
+      "id": "nd06cdcf5febc",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Goldiam International Q1 FY27: Board meet Aug 7, call Aug 10 | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/goldiam-q1-fy27-board-call-cmsio9y6eayzn0zp7gg3zz9hw",
+      "source": "multibagg.ai",
+      "date": "2026-09-25T08:10:02.932Z",
+      "topic": "Money",
+      "keyword": "Approval",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Goldiam International board meeting scheduled for Aug 7, earnings call on Aug 10.",
+      "enriched": true
+    },
+    {
+      "id": "n1d5d2906ab6f",
+      "ticker": "CURRENT",
+      "company": "Current Infraprojects Limited",
+      "sector": "Construction",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Current Infraprojects Limited Secures Rs 10.42 Cr Order from Bank Note Press, Dewas for 3 MW Rooftop Solar Project - NewsX",
+      "url": "https://www.newsx.com/business-2/current-infraprojects-limited-secures-rs-10-42-cr-order-from-bank-note-press-dewas-for-3-mw-rooftop-solar-project-273549/",
+      "source": "newsx.com",
+      "date": "2026-09-25T08:09:16.332Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Current Infraprojects won Rs 10.42 crore order for 3 MW rooftop solar project from Bank Note Press, Dewas.",
+      "sources_count": 4,
+      "enriched": true
+    },
+    {
+      "id": "nc30d0b1640e8",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Aurionpro Solutions Q1 Results: Earnings Call Recording Released",
+      "url": "https://scanx.trade/stock-market-news/companies/aurionpro-solutions-q1-results-earnings-call-recording-released/46798720",
+      "source": "scanx.trade",
+      "date": "2026-09-25T08:09:04.521Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Aurionpro Solutions released Q1 earnings call recording.",
+      "enriched": true
+    },
+    {
+      "id": "n3c7975f3450d",
+      "ticker": "CARTRADE",
+      "company": "Cartrade Tech Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Landmark Cars announces strategic partnership with OLX India | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/markets/capital-market-news/landmark-cars-announces-strategic-partnership-with-olx-india-126092400235_1.html",
+      "source": "business-standard.com",
+      "date": "2026-09-25T08:08:11.909Z",
+      "topic": "Deals",
+      "keyword": "Partnership",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Landmark Cars announces strategic partnership with OLX India to expand its business reach.",
       "enriched": true
     },
     {
@@ -45,26 +201,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Varun Beverages arm signed exclusive distribution deal with Mondelez.",
-      "enriched": true
-    },
-    {
-      "id": "n49783e2c392d",
-      "ticker": "TRIVENI",
-      "company": "Triveni Engineering & Industries Limited",
-      "sector": "Fast Moving Consumer Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Triveni Engineering to Host Q1 FY27 Earnings Call on July 30 at 12 PM IST",
-      "url": "https://scanx.trade/stock-market-news/companies/triveni-engineering-to-host-q1-fy27-earnings-call-on-july-30/46269849",
-      "source": "scanx.trade",
-      "date": "2026-09-24T18:41:33.681Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Triveni Engineering scheduled earnings call for Q1 FY27 on July 30.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -106,46 +242,6 @@
       "enriched": true
     },
     {
-      "id": "nddaa524773ad",
-      "ticker": "LAXMIDENTL",
-      "company": "Laxmi Dental Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Laxmi Dental Ltd (NSE:LAXMIDENTL) (Q1 2027) Earnings Call Highlights: Record Revenue and ...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/laxmi-dental-ltd-nse-laxmidentl-150024610.html",
-      "source": "finance.yahoo.com",
-      "date": "2026-09-24T18:39:47.166Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Laxmi Dental reported record revenue in Q1 2027 earnings call.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "nbe6f14a3faf6",
-      "ticker": "CURRENT",
-      "company": "Current Infraprojects Limited",
-      "sector": "Construction",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Current Infraprojects Secures Rs 10.42 Cr Bank Note Press Solar Order – Outlook Business",
-      "url": "https://www.outlookbusiness.com/spotlight/news-wire/current-infraprojects-secures-rs-10-42-cr-bank-note-press-solar-order",
-      "source": "outlookbusiness.com",
-      "date": "2026-09-24T18:38:42.518Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Current Infraprojects won a Rs 10.42 crore solar order from Bank Note Press.",
-      "sources_count": 4,
-      "enriched": true
-    },
-    {
       "id": "na3ec0b7a6bfe",
       "ticker": "AVANTEL",
       "company": "Avantel Limited",
@@ -162,27 +258,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Avantel secured ₹177 crore order from Zetwerk to supply satellite communication equipment.",
-      "sources_count": 5,
-      "enriched": true
-    },
-    {
-      "id": "n1796ac5fa36c",
-      "ticker": "ESDS",
-      "company": "ESDS Software Solution Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Maithan Alloys Acquires 0.24% Stake In ESDS Software For ₹50.19 Crore",
-      "url": "https://www.freepressjournal.in/business/maithan-alloys-acquires-024-stake-in-esds-software-for-5019-crore",
-      "source": "freepressjournal.in",
-      "date": "2026-09-24T18:38:05.092Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Maithan Alloys bought 0.24% stake in ESDS Software for ₹50 crore.",
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -203,6 +279,26 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "ESDS Software scheduled Q1FY27 earnings call for September 25.",
+      "enriched": true
+    },
+    {
+      "id": "n1796ac5fa36c",
+      "ticker": "ESDS",
+      "company": "ESDS Software Solution Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Maithan Alloys Acquires 0.24% Stake In ESDS Software For ₹50.19 Crore",
+      "url": "https://www.freepressjournal.in/business/maithan-alloys-acquires-024-stake-in-esds-software-for-5019-crore",
+      "source": "freepressjournal.in",
+      "date": "2026-09-24T18:38:05.092Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Maithan Alloys bought 0.24% stake in ESDS Software for ₹50 crore.",
       "enriched": true
     },
     {
@@ -2364,26 +2460,6 @@
       "enriched": true
     },
     {
-      "id": "ne488730d156b",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "DEE Development Engineers Maintains Strong ?2,428.79 Crore Order Book in July 2026",
-      "url": "https://smestreet.in/infocus/dee-development-engineers-maintains-strong-242879-crore-order-book-in-july-2026-12249461",
-      "source": "smestreet.in",
-      "date": "2026-09-15T18:27:37.299Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "DEE Development Engineers maintains order book of ₹2,428.79 crore as of July 2026.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "nc6e537a602d6",
       "ticker": "ACUTAAS",
       "company": "Acutaas Chemicals Limited",
@@ -3400,6 +3476,25 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Solar Industries has a ₹21,350 crore order book, expanding beyond explosives into defence.",
+      "enriched": true
+    },
+    {
+      "id": "n3517b039e379",
+      "ticker": "MIDWESTLTD",
+      "company": "Midwest Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Midwest Limited Q2 2026 Earnings: EPS of ₹30.54 as Revenue Reaches ₹643.10 Crore on 3.14% Growth - Analyst Consensus Shift",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOT0huQXd2ZV9UWkZfaGFsXzRxVEU0RjluZTlTcXVzcmZfa0dBWHpQbTlHVTQ1VlFCdTZPRzVoamh2eDlNbHRreEp1NVRCa0ZvY2xia3BTRmlWcWgzcHAwOHNHckJWTVVteXptV0tTektDZjRsb2tNTnNBQVZhc0FjVWd4emdEZmVleDJWOGVsN2ZEcmxFNjRUY05PbVZuR3VRcDA1Q2tWRU96MGhqQi0wcTQzdG9tRzNrZklxT3lvTkxOeHZKOFhfYzgzMlpOUQ?oc=5",
+      "source": "siam.in",
+      "date": "2026-09-10T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Midwest Limited reported Q2 2026 earnings with revenue of ₹643 crore, up 3.14%, and EPS of ₹30.54.",
       "enriched": true
     },
     {
@@ -5797,7 +5892,7 @@
       "mood": "positive",
       "takeaway": "Rajesh Power Services wins Rs 653 crore underground power distribution order in Gujarat.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 4
     },
     {
       "id": "n17cc3ebb93f8",
@@ -7970,6 +8065,25 @@
       "enriched": true
     },
     {
+      "id": "n71e888649cae",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Aurionpro Solutions releases unaudited financial results for quarter ended June 30, 2026",
+      "url": "https://tele.net.in/press-release/aurionpro-solutions-releases-unaudited-financial-results-for-quarter-ended-june-30-2026-12214367",
+      "source": "tele.net.in",
+      "date": "2026-09-03T20:34:02.502Z",
+      "topic": "Money",
+      "keyword": "Partnership",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Aurionpro Solutions released unaudited financial results for quarter ended June 30, 2026.",
+      "enriched": true
+    },
+    {
       "id": "n8afa09dd26b0",
       "ticker": "AURIONPRO",
       "company": "Aurionpro Solutions Limited",
@@ -8007,25 +8121,6 @@
       "mood": "positive",
       "takeaway": "Aurionpro secured another contract from global hyperscale data centre operator.",
       "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n71e888649cae",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Aurionpro Solutions releases unaudited financial results for quarter ended June 30, 2026",
-      "url": "https://tele.net.in/press-release/aurionpro-solutions-releases-unaudited-financial-results-for-quarter-ended-june-30-2026-12214367",
-      "source": "tele.net.in",
-      "date": "2026-09-03T20:34:02.502Z",
-      "topic": "Money",
-      "keyword": "Partnership",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Aurionpro Solutions released unaudited financial results for quarter ended June 30, 2026.",
       "enriched": true
     },
     {
@@ -10077,6 +10172,26 @@
       "enriched": true
     },
     {
+      "id": "n9aaaefe5a68f",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "DEE Development Engineers Reports Strong Order Book Position of ₹2,428.79 Crore as of July 2026",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03ZTBhbXlMRlQzWDFtaGk0MXJuYzVXcmNzbUdFckJhZFFiWXFQd0tQVVd3MVZhTU56MURxQVVCVi0zMnd6dXE4TVF3aXpLRW9OT0ViMWdFNXA3dGt4TFZB?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-08-10T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "DEE Development Engineers has a strong order book of ₹2,429 crore as of July 2026.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
       "id": "nc6080163d220",
       "ticker": "WOCKPHARMA",
       "company": "Wockhardt Limited",
@@ -10501,23 +10616,23 @@
       "enriched": true
     },
     {
-      "id": "n61e380cea5ef",
-      "ticker": "VBL",
-      "company": "Varun Beverages Limited",
-      "sector": "Fast Moving Consumer Goods",
+      "id": "n39d22c238d28",
+      "ticker": "STLTECH",
+      "company": "Sterlite Technologies Limited",
+      "sector": "Telecommunication",
       "scope": [
+        "portfolio",
         "watchlist"
       ],
-      "title": "Varun Beverages Completes Kenyan Acquisition",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yQU14aGU0RHVrRmQzcnAwWWVnZ3hfQmV3S0tRSDVHUG5uU1JrZGJhSndUdy0tWjVJNU1RNjFYMmViUWsyVWI1TVA5SHJGYk92SmM1UkUtQ0FtMGluRXRubHFHajluMGlPZlFxSHI1bExueThE?oc=5",
-      "source": "InvestyWise",
-      "date": "2026-08-01T08:08:56.000Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
+      "title": "Sterlite Technologies Wins ₹960 Crore Order",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUXMweWdhQy1ROUVZZzZyM2xCa042SE9tQTNlRjlodlpjWnpVT3I5U3RNSFlaWlQxRng5eUNhY0hVcFMwak5Bd0FDb3hGc0pfMGh4UnBaal80UWJBbHhrOUQzbXhRSlBud2xGeW9XMlBCb25oN2Ixdm5YZ0N6T0JfdnBhNTZXNzljS1pndmlac2dvR0U3Ynp6UEJtcDZUVlVFRW50RWpXZFhBOXFKUUE?oc=5",
+      "source": "investywise.com",
+      "date": "2026-08-01T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
       "importance": "high",
       "mood": "positive",
-      "takeaway": "Varun Beverages completes acquisition in Kenya, expanding its geographic footprint.",
-      "sources_count": 2,
+      "takeaway": "Sterlite Technologies secures Rs 960 crore order.",
       "enriched": true
     },
     {
@@ -10537,26 +10652,6 @@
       "importance": "medium",
       "mood": "negative",
       "takeaway": "Triveni Engineering missed revenue estimates by 13% in latest quarter.",
-      "enriched": true
-    },
-    {
-      "id": "n39d22c238d28",
-      "ticker": "STLTECH",
-      "company": "Sterlite Technologies Limited",
-      "sector": "Telecommunication",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Sterlite Technologies Wins ₹960 Crore Order",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUXMweWdhQy1ROUVZZzZyM2xCa042SE9tQTNlRjlodlpjWnpVT3I5U3RNSFlaWlQxRng5eUNhY0hVcFMwak5Bd0FDb3hGc0pfMGh4UnBaal80UWJBbHhrOUQzbXhRSlBud2xGeW9XMlBCb25oN2Ixdm5YZ0N6T0JfdnBhNTZXNzljS1pndmlac2dvR0U3Ynp6UEJtcDZUVlVFRW50RWpXZFhBOXFKUUE?oc=5",
-      "source": "investywise.com",
-      "date": "2026-08-01T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Sterlite Technologies secures Rs 960 crore order.",
       "enriched": true
     },
     {
@@ -10636,25 +10731,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Vivid Electromech partners with ABB ArTuK for data center PDUs and metro train electrical panels.",
-      "enriched": true
-    },
-    {
-      "id": "n45dae976c63a",
-      "ticker": "TRIVENI",
-      "company": "Triveni Engineering & Industries Limited",
-      "sector": "Fast Moving Consumer Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Earnings call transcript: Triveni Engineering posts q1 fy 2027 profit rebound",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQkJtalIzQ2dlQUpIOEZ6SDNfTzV0U1EtazF1SmpHUXd4ZG9WMkJQdmpsMTd6UExrd3ZHZ3FWb19GTnZFekJnT0YzQUdnWFRCWTZpRXM5dkRna3R5MjY4eXJCNnprQUR5aUhMSU03bUhJWTI2czFCUWMyeFhqUWNxWHVkUmdOQ0F0ZDk2VTc0RGtJb19ETUthZEhlb3EzZUx5SVc0X1JSRUhBTmJCb0FzNkF2SDRjR0E1TDJoMmhxWkU0SW8wbkxFendCYUY?oc=5",
-      "source": "Investing.com",
-      "date": "2026-07-30T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Triveni Engineering reports profit rebound in Q1 FY2027.",
       "enriched": true
     },
     {
@@ -10769,6 +10845,25 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Tenneco Clean Air India schedules Q1 earnings call for August 6.",
+      "enriched": true
+    },
+    {
+      "id": "n45dae976c63a",
+      "ticker": "TRIVENI",
+      "company": "Triveni Engineering & Industries Limited",
+      "sector": "Fast Moving Consumer Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Earnings call transcript: Triveni Engineering posts q1 fy 2027 profit rebound",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQkJtalIzQ2dlQUpIOEZ6SDNfTzV0U1EtazF1SmpHUXd4ZG9WMkJQdmpsMTd6UExrd3ZHZ3FWb19GTnZFekJnT0YzQUdnWFRCWTZpRXM5dkRna3R5MjY4eXJCNnprQUR5aUhMSU03bUhJWTI2czFCUWMyeFhqUWNxWHVkUmdOQ0F0ZDk2VTc0RGtJb19ETUthZEhlb3EzZUx5SVc0X1JSRUhBTmJCb0FzNkF2SDRjR0E1TDJoMmhxWkU0SW8wbkxFendCYUY?oc=5",
+      "source": "Investing.com",
+      "date": "2026-07-30T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Triveni Engineering reports profit rebound in Q1 FY2027.",
       "enriched": true
     },
     {
@@ -11611,44 +11706,6 @@
       "enriched": true
     },
     {
-      "id": "n88fb1944c827",
-      "ticker": "TRIVENI",
-      "company": "Triveni Engineering & Industries Limited",
-      "sector": "Fast Moving Consumer Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "TRIVENI Mar 2026 Earnings: Solid Performance Anchored by Sugar and Engineering Segments - Earnings Turnaround",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWTZUQ3FsZHliak8xRm9JTXdkeUxBREdOaTdvRkhqZjFyaDNfam5RRFRpRVNmemV2SlQxVk9aOGJNQlBsdkh0TDlKd0FMSUVrb21XeUpWZVRTeXFfSkF2b0k1UjVxcXpBeTBNWnZYTl9qZzhndF94a2F1bU5vSnAxSWJrWU1QQVZZanJUWDlSbzU0UWxyUjdPbUVQMnRMQ2xrTmRnTFRnb0didG5TUzF5NDhFcERnTm40LWZ4TE9nSGFaeUJkUkZV?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-11T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Triveni Engineering reported solid March 2026 results driven by strong sugar and engineering segment performance.",
-      "enriched": true
-    },
-    {
-      "id": "nd11101502750",
-      "ticker": "TRIVENI",
-      "company": "Triveni Engineering & Industries Limited",
-      "sector": "Fast Moving Consumer Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "TRIVENI.NS Mar 2026 Earnings: Robust Revenue and Margin Performance Amid Agricultural Sector Momentum",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaHBxYWE1enE3TTZzOTdxVU4xV0E0aGRXaTkyOGEzdDlqc05tOVRwc003OFFFcmZCWGFRcDRvek5rdDBpbkIwczhxX3ZmeGZuWXVaOVNlY2lSV2lraDAyR010MlZRUU5xa01zTDRMQmRaVHNpdG0zY1hEU3VraGVmckFjMXYxWEduQnl2aURNVkdpN0pMR1draEZEN240WFVBLXkyVXVrdmtNWTg2NmtKckt6VnFjYzJReFIwMTBIeGpUZ2NUcTNvQzNUejR4M3l1Mm1OWFZOWnQ?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-11T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Triveni Engineering reported strong revenue and margin performance in March 2026 quarter.",
-      "enriched": true
-    },
-    {
       "id": "n028b0769b644",
       "ticker": "SURYAROSNI",
       "company": "Surya Roshni Limited",
@@ -11667,6 +11724,26 @@
       "takeaway": "Surya Roshni secured an export order.",
       "sources_count": 2,
       "enriched": true
+    },
+    {
+      "id": "n9a9292390ab4",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "AURIONPRO Q2 2026 Earnings: Strong Revenue Growth of 20.3% YoY, EPS at ₹37.87 - Downward Estimate Revision",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcldtMm1sV0YzRzdGRDZ6VmI2MGsxLVFWTjNpZERBeUtGMnVTZzlYRzI3Sm5qVlAyaDlwT3VWRW1CNlZZOFBuS1M3OS1NVmRjRHJ0OVZsVW5EZ3psdF81RzNITjZlUVpUaDBiRS1GTFp1b1RBMnJFUzhPNzNuQndlM2x4M25RazA2VGNUTENQbVhnY3dSTFJYWVhaS1FNV0FaeHdpU3BLSnNpZ25ma0o3UE9DRQ?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-11T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Aurionpro Q2 revenue grew 20.3% year-on-year with earnings of ₹37.87 per share.",
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n9a71b5d4ffab",
@@ -11705,26 +11782,6 @@
       "mood": "negative",
       "takeaway": "Unimech Aerospace reported Q2 FY2026 results with revenue decline and margin pressures.",
       "enriched": true
-    },
-    {
-      "id": "n9a9292390ab4",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "AURIONPRO Q2 2026 Earnings: Strong Revenue Growth of 20.3% YoY, EPS at ₹37.87 - Downward Estimate Revision",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcldtMm1sV0YzRzdGRDZ6VmI2MGsxLVFWTjNpZERBeUtGMnVTZzlYRzI3Sm5qVlAyaDlwT3VWRW1CNlZZOFBuS1M3OS1NVmRjRHJ0OVZsVW5EZ3psdF81RzNITjZlUVpUaDBiRS1GTFp1b1RBMnJFUzhPNzNuQndlM2x4M25RazA2VGNUTENQbVhnY3dSTFJYWVhaS1FNV0FaeHdpU3BLSnNpZ25ma0o3UE9DRQ?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-11T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Aurionpro Q2 revenue grew 20.3% year-on-year with earnings of ₹37.87 per share.",
-      "enriched": true,
-      "sources_count": 2
     },
     {
       "id": "n465ad646d3d1",
@@ -11803,6 +11860,44 @@
       "mood": "neutral",
       "takeaway": "Onesource Specialty Pharma reported March 2026 quarter with EPS of ₹1.87 on revenue of ₹419 crore.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n88fb1944c827",
+      "ticker": "TRIVENI",
+      "company": "Triveni Engineering & Industries Limited",
+      "sector": "Fast Moving Consumer Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "TRIVENI Mar 2026 Earnings: Solid Performance Anchored by Sugar and Engineering Segments - Earnings Turnaround",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWTZUQ3FsZHliak8xRm9JTXdkeUxBREdOaTdvRkhqZjFyaDNfam5RRFRpRVNmemV2SlQxVk9aOGJNQlBsdkh0TDlKd0FMSUVrb21XeUpWZVRTeXFfSkF2b0k1UjVxcXpBeTBNWnZYTl9qZzhndF94a2F1bU5vSnAxSWJrWU1QQVZZanJUWDlSbzU0UWxyUjdPbUVQMnRMQ2xrTmRnTFRnb0didG5TUzF5NDhFcERnTm40LWZ4TE9nSGFaeUJkUkZV?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-11T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Triveni Engineering reported solid March 2026 results driven by strong sugar and engineering segment performance.",
+      "enriched": true
+    },
+    {
+      "id": "nd11101502750",
+      "ticker": "TRIVENI",
+      "company": "Triveni Engineering & Industries Limited",
+      "sector": "Fast Moving Consumer Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "TRIVENI.NS Mar 2026 Earnings: Robust Revenue and Margin Performance Amid Agricultural Sector Momentum",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaHBxYWE1enE3TTZzOTdxVU4xV0E0aGRXaTkyOGEzdDlqc05tOVRwc003OFFFcmZCWGFRcDRvek5rdDBpbkIwczhxX3ZmeGZuWXVaOVNlY2lSV2lraDAyR010MlZRUU5xa01zTDRMQmRaVHNpdG0zY1hEU3VraGVmckFjMXYxWEduQnl2aURNVkdpN0pMR1draEZEN240WFVBLXkyVXVrdmtNWTg2NmtKckt6VnFjYzJReFIwMTBIeGpUZ2NUcTNvQzNUejR4M3l1Mm1OWFZOWnQ?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-11T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Triveni Engineering reported strong revenue and margin performance in March 2026 quarter.",
       "enriched": true
     },
     {
@@ -12451,6 +12546,25 @@
       "enriched": true
     },
     {
+      "id": "n755b1236d85a",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "AURIONPRO Q2 2026 Earnings: Robust Revenue Growth Driven by Strong Demand in Digital Solutions - Margin Guidance",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcWc5VmI2YWNSN0lGakVBOGJTUnNuNlBfTVpoLW5CY05wSHJfWnFNa0dFb2V0RXQxNGJlUm13Y3hkdk1SVWlUaGRRcHQ1Z3RzSnUtU0wtWW55alFSRWJtM0lTd1VFT3M1RVpobzFGMWhqWWFNWUV0M18zZFhpTWRuc05aT2pfVHh1VnAyRG1RTk1fQ29NZW9fZ0lvTjh0MUVBM1NFeGlWdVJoTUNVNXhxNDNRX3o2aGhReVFDNERiYzhOU3JTRklROVFITmVyaHk3?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-05T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Aurionpro Solutions Q2 shows strong revenue growth driven by digital solutions demand.",
+      "enriched": true
+    },
+    {
       "id": "n55a863034424",
       "ticker": "SENORES",
       "company": "Senores Pharmaceuticals Limited",
@@ -12468,25 +12582,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Senores Pharmaceuticals Q2 revenue surged 58.85% year-on-year.",
-      "enriched": true
-    },
-    {
-      "id": "n755b1236d85a",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "AURIONPRO Q2 2026 Earnings: Robust Revenue Growth Driven by Strong Demand in Digital Solutions - Margin Guidance",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcWc5VmI2YWNSN0lGakVBOGJTUnNuNlBfTVpoLW5CY05wSHJfWnFNa0dFb2V0RXQxNGJlUm13Y3hkdk1SVWlUaGRRcHQ1Z3RzSnUtU0wtWW55alFSRWJtM0lTd1VFT3M1RVpobzFGMWhqWWFNWUV0M18zZFhpTWRuc05aT2pfVHh1VnAyRG1RTk1fQ29NZW9fZ0lvTjh0MUVBM1NFeGlWdVJoTUNVNXhxNDNRX3o2aGhReVFDNERiYzhOU3JTRklROVFITmVyaHk3?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-05T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Aurionpro Solutions Q2 shows strong revenue growth driven by digital solutions demand.",
       "enriched": true
     },
     {
@@ -12742,6 +12837,25 @@
       "enriched": true
     },
     {
+      "id": "n20c46f30d299",
+      "ticker": "MIDWESTLTD",
+      "company": "Midwest Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Midwest Limited Q2 2026 Earnings: Steady Revenue Growth Drives Profitability and Investor Confidence - Operating Income Trends",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdkZIRXU2Sk9pUzRjZDR6MHpDaS1LYWZKZy1WUmNXVGZBQkJER2N5VUNMVlREcmtOcXpoUWpWSzNUclZHd3o5U1FPU1VneURHNXJOZU1leDBMWS1DR04wczlMR3I3ZUpmQnlHRmp0WnpZcVVUVXdRZ2RKVGh5TEVBQXlSNFY2UFkwbldWYzh3N2FFZHA0eEN0LTAtM01MMmVFY2VLRnVfNGR0TlhERUFSdTNkV3ppZXVCNGRwM0plOXgxMWphMmMxam91dlR2ZjcwS1oyVVdwcWJTQQ?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-02T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Midwest Limited Q2 revenue growth boosts profitability.",
+      "enriched": true
+    },
+    {
       "id": "n5cf75a060b09",
       "ticker": "SBCL",
       "company": "Shivalik Bimetal Controls Limited",
@@ -12800,25 +12914,6 @@
       "takeaway": "Venus Remedies Q2 shows strong revenue growth and earnings per share.",
       "enriched": true,
       "sources_count": 2
-    },
-    {
-      "id": "n20c46f30d299",
-      "ticker": "MIDWESTLTD",
-      "company": "Midwest Limited",
-      "sector": "Consumer Durables",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Midwest Limited Q2 2026 Earnings: Steady Revenue Growth Drives Profitability and Investor Confidence - Operating Income Trends",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdkZIRXU2Sk9pUzRjZDR6MHpDaS1LYWZKZy1WUmNXVGZBQkJER2N5VUNMVlREcmtOcXpoUWpWSzNUclZHd3o5U1FPU1VneURHNXJOZU1leDBMWS1DR04wczlMR3I3ZUpmQnlHRmp0WnpZcVVUVXdRZ2RKVGh5TEVBQXlSNFY2UFkwbldWYzh3N2FFZHA0eEN0LTAtM01MMmVFY2VLRnVfNGR0TlhERUFSdTNkV3ppZXVCNGRwM0plOXgxMWphMmMxam91dlR2ZjcwS1oyVVdwcWJTQQ?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-02T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Midwest Limited Q2 revenue growth boosts profitability.",
-      "enriched": true
     },
     {
       "id": "n8b822ebdd77b",
@@ -13736,83 +13831,6 @@
       "takeaway": "Man Industries wins ₹1,000 crore orders, total orderbook now ₹4,100 crore.",
       "enriched": true,
       "sources_count": 4
-    },
-    {
-      "id": "n3b098f18fef5",
-      "ticker": "RAJESH",
-      "company": "Rajesh Power Services Ltd",
-      "sector": "Utilities",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Rajesh Power secures ₹212-crore order from Odisha Power Transmission Corporation",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZU15Z1dxYnNpZWlpZ0R2QjY2UlRnelNHS3h3dGozNDc5bHZiQ3Vqam5iZzlrOV90WTB3ZGRUMHRKWmVRbV9Xd1RQTWlONUJ4ZXpHQ2pSWjMzZnZoQXZ1NHdwRGg5eTFzRHVPTTVwb3U0NlZqV3p2X0EzQXpBQjN4M1Q0V24zbTNTbFZqV25KTFRvVFB6VllLXzhoTGo4MkF4VTN1ZzIxakxvc01vQ0V5THplR2wyN1YtZnlYdWI4cVFUZGRVaGMyRGljX0FHNFphVDdackI5NzFMb2RCeUlN0gHmAUFVX3lxTFBjQkIwWUZTbGVGNXlGZ3FNWDBIbS1YcUtreWgwVnFzeDRIaHRhODdnWFN1ZHNPLXV5aF9URlRfd3ozc294cE8xRTRrWWFxVXFYSXRuQld5UmE4RWxBVHhsNUtkVkE4TnZ5TDc5MVphTnkzOWs3Qno4TzJLMzg2NFZjb05VYnJ0eVZLTzczTVhtRC1LWUFTaWxRQW5TcWoxaVNsS2t3U3lXLTN0WHVSOVExb3dDb185OWVzb2hGVmx0R2F5c0pyN0c2dGhJbjk4MFFBTjBtdGNaWWtJU1Rlb19uY3VuYkln?oc=5",
-      "source": "thehindubusinessline.com",
-      "date": "2026-06-17T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Rajesh Power wins ₹212 crore order from Odisha Power Transmission Corporation.",
-      "enriched": true
-    },
-    {
-      "id": "n0d9e9112cbda",
-      "ticker": "DEVYANI",
-      "company": "Devyani International Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Pizza Hut exit adds new variable to Devyani-Sapphire merger",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOG9qLXI0bTNwa2pHVTdVay01ZnVhbzJZWVd0VVplZjVJTWNJYWNJbERHdkRJemtzVEl6MkR2STFpUS00cDc1VGczVGZ6SER5UDViNmtJLWZRMG51eDcxQVpvZGp3YVFfWkVfZFR5WnVUWnU3bGppUGd5QTByTjdtTG1HWWpFV1NFR3VDY08xLWU4cGZscVBHNlVxS0RHZmVKYlY2SGI1dG1VWnJJYWJRQk5vaXF0Z9IBvAFBVV95cUxQZE02MXV0b2loTlRhdUxURV9FNHJLakpvVEtvXzY4UVJVTGJzN1htZ3d6TkF6bnVmci0tRHZEZ28wZFhnWWtZVXFsWi1ZTi1RQ2hkQW4zel8zRmtMNmlOYzNDTlVCeVU4UnJIUGNsb3hUQWlWc3VfaGpRb3Zpam1aeEFvUk9PaG5WNlpSZTNLd0phVDE4QS1FQ2M1Z1RvOGJpTDFhdnRZZWRsZGpSZ0hadmk1RUZjdjZoeGR2Wg?oc=5",
-      "source": "financialexpress.com",
-      "date": "2026-06-17T07:00:00.000Z",
-      "topic": "Deals",
-      "keyword": "Merger",
-      "importance": "medium",
-      "mood": "negative",
-      "takeaway": "Pizza Hut exit complicates Devyani-Sapphire merger plans.",
-      "enriched": true
-    },
-    {
-      "id": "n4e8342e8964a",
-      "ticker": "GULFOILLUB",
-      "company": "Gulf Oil Lubricants India Limited",
-      "sector": "Oil Gas & Consumable Fuels",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "GULFOILLUB Mar 2026 Earnings: Strong EPS of ₹18.22 Amidst Robust Revenue Performance - Margin Improvement Report",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYjlLSlVISzg1dDJiVnUyX1oyZlhpVHlsOW5xRVhXa0d1N09OZ2w3OGJPeWg0ZkhUTUxKbDltM0xQT0t6Z1lWc3pwSjlrZ0dxSVg2R0VXenN4Y0tHcjRsSk1MTkQwNUg2WnhOYzkzVzUwNzBYNlJGTEkxc0NPcEtyWkdhc2dIV20wR1BrREtWYmxUaTE1SEZiMV9IU04wRzd6clFNaWtXYWRaNzVlYkdDM3hvc2dZSWNVNlljdHV3?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-17T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Gulf Oil Lubricants reported March 2026 earnings per share of ₹18.22 with improved margins.",
-      "enriched": true,
-      "sources_count": 2
-    },
-    {
-      "id": "ne6808ba444ca",
-      "ticker": "LGEINDIA",
-      "company": "LG Electronics India Limited",
-      "sector": "Consumer Durables",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "LGEINDIA Q2 2026 Earnings: Revenue Growth Modest; EPS at ₹24.83 - Tangible Book Value",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMndtaEZ3SDNQSWhfTks3b1VrUGQ2alRRalJyczlFWWlhWXMwRE1ObFBwM05QcTg0enE4cU5SOVFwc05KTUlhcW5XNTF1alpHUkR1dmFiV0RoUTFTNGV4RXNPaWR3YUt5NExReXhLUVp1N3VKVEM4Ty1wb0VLaWRkTGVXdVBZeEFnYjR6UlhPQTJyQTh6SFFMUTNXeXNlRVFm?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-17T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "LG Electronics India reported Q2 results with modest revenue growth and earnings per share of ₹24.83.",
-      "enriched": true
     }
   ]
 }
