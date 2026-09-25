@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T18:45:48.808Z",
+  "generated_at": "2026-09-25T08:15:58.442Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,66 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f40611225d11f",
+      "ticker": "XPROINDIA",
+      "company": "Xpro India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-25T13:28:19.000Z",
+      "category": "Disclosure",
+      "title": "Xpro India Limited has informed the Exchange that the company has been awarded at the 51st ELCINA Awards for Excellence.",
+      "url": "https://nsearchives.nseindia.com/corporate/XPROINDIASKD_25092026132405_ELCINA_awards_Stock_Exchange_letter_signed.pdf"
+    },
+    {
+      "id": "fda829dc38cc8",
+      "ticker": "WOCKPHARMA",
+      "company": "Wockhardt Limited",
+      "exchange": "NSE",
+      "date": "2026-09-25T12:56:12.000Z",
+      "category": "Trading Window",
+      "title": "Wockhardt Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/WOCKPHARMA_25092026125542_Trading_Window_Closuresigned.pdf"
+    },
+    {
+      "id": "f46668b23a7e3",
+      "ticker": "LGEINDIA",
+      "company": "LG Electronics India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-25T12:33:13.000Z",
+      "category": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+      "title": "LG Electronics India Limited has informed the Exchange about Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+      "url": "https://nsearchives.nseindia.com/corporate/LGEINDIA_25092026123205_Intimation_under_Regulation_30_25th_September_2026.pdf"
+    },
+    {
+      "id": "f80a1f7554d3a",
+      "ticker": "DAMCAPITAL",
+      "company": "Dam Capital Advisors Limited",
+      "exchange": "NSE",
+      "date": "2026-09-25T11:53:46.000Z",
+      "category": "Trading Window",
+      "title": "Dam Capital Advisors Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/DAMCAPITAL_25092026115328_Intimate_of_Trading_Window_Closure_Signed.pdf"
+    },
+    {
+      "id": "f74067411243d",
+      "ticker": "GULFOILLUB",
+      "company": "Gulf Oil Lubricants India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-25T11:41:28.000Z",
+      "category": "Trading Window",
+      "title": "Gulf Oil Lubricants India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/GULFOILLUB_25092026114106_TWCSeptember2026.pdf"
+    },
+    {
+      "id": "fd00ab059a020",
+      "ticker": "SUDEEPPHRM",
+      "company": "Sudeep Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-09-25T11:35:37.000Z",
+      "category": "Trading Window",
+      "title": "Sudeep Pharma Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/SUDEEPPHARMALIMITED_25092026113525_Intimation_for_Closure_of_trading_window.pdf"
+    },
     {
       "id": "fef8a09e21ad0",
       "ticker": "ESDS",
@@ -336,6 +396,16 @@
       "category": "Extension of Annual General Meeting",
       "title": "ESDS Software Solution Limited has informed the Exchange about extension of Annual General Meeting",
       "url": "https://nsearchives.nseindia.com/corporate/ESDS_24092026115446_ESDS_AGM_Extension_BSE_NSE_Intimation.pdf"
+    },
+    {
+      "id": "f826edd23b1ec",
+      "ticker": "BHARATCOAL",
+      "company": "Bharat Coking Coal Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T11:12:25.000Z",
+      "category": "Change in Directors",
+      "title": "Bharat Coking Coal Limited has informed the Exchange about change in Management",
+      "url": "https://nsearchives.nseindia.com/corporate/BCCL_24092026111000_SMP_Change_Announcement_Signed.pdf"
     },
     {
       "id": "fa53c16dae26a",
@@ -19936,76 +20006,6 @@
       "category": "Disclosure",
       "title": "Onesource Specialty Pharma Limited has informed the Exchange regarding 'Completion of US-FDA Inspection at Sterile Product Division facility at Bengaluru'.",
       "url": "https://nsearchives.nseindia.com/corporate/ONESOURCECDMO_02072026161928_OS_SE_intimation_US_FDA_Inspection_02Jul26.pdf"
-    },
-    {
-      "id": "f03001fd9eadc",
-      "ticker": "VBL",
-      "company": "Varun Beverages Limited",
-      "exchange": "NSE",
-      "date": "2026-07-02T15:45:46.000Z",
-      "category": "Disclosure",
-      "title": "The Board of Directors of The Beverage Company Proprietary Limited ( Bevco , subsidiary company) and Twizza Proprietary Limited ( Twizza , step-down subsidiary company) have approved to merge Twizza with its holding company i.e. Bevco, subject to applicable laws in South Africa as per details in enclosed disclosure.",
-      "url": "https://nsearchives.nseindia.com/corporate/VBL_02072026154519_Update_MergerTwizza.pdf"
-    },
-    {
-      "id": "fa250668fde45",
-      "ticker": "EMAPARTNER",
-      "company": "EMA Partners India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-02T15:01:37.000Z",
-      "category": "Disclosure",
-      "title": "EMA Partners India Limited has informed the Exchange about General Updates",
-      "url": "https://nsearchives.nseindia.com/corporate/EMAIN_02072026150129_Outcome_BM_July_2.pdf"
-    },
-    {
-      "id": "fc63e7d03dde3",
-      "ticker": "EMAPARTNER",
-      "company": "EMA Partners India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-02T15:00:20.000Z",
-      "category": "Board Meeting",
-      "title": "EMA Partners India Limited has informed the Exchange regarding Outcome of Board Meeting held on July 02, 2026, approving, inter alia, the payment of acquisition consideration in terms of SPSA executed for the acquisition of 100% equity shares of M/s Talent Hired The Job Store Private Limited ( Taggd ).",
-      "url": "https://nsearchives.nseindia.com/corporate/EMAIN_02072026145945_Outcome_BM_July_2.pdf"
-    },
-    {
-      "id": "fd13c366e70d6",
-      "ticker": "MIDWESTLTD",
-      "company": "Midwest Limited",
-      "exchange": "NSE",
-      "date": "2026-07-02T14:56:18.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Midwest Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/MIDWEST_02072026145601_REG7430062026.pdf"
-    },
-    {
-      "id": "f48c95f30b9cf",
-      "ticker": "ZENTEC",
-      "company": "Zen Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-02T12:45:50.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Zen Technologies Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/ZENTEC_02072026124402_SE_Letter_74_5_.pdf"
-    },
-    {
-      "id": "f8ae611d1eec3",
-      "ticker": "IKS",
-      "company": "Inventurus Knowledge Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-07-02T11:36:18.000Z",
-      "category": "Allotment of Securities",
-      "title": "Inventurus Knowledge Solutions Limited has informed the Exchange about Options to purchase securities",
-      "url": "https://nsearchives.nseindia.com/corporate/IKS2006_02072026113609_Grantofstockoptions02072026.pdf"
-    },
-    {
-      "id": "f813872a70d43",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "exchange": "NSE",
-      "date": "2026-07-01T23:54:16.000Z",
-      "category": "Disclosure",
-      "title": "DEE Development Engineers Limited has informed the Exchange about receipt of In-Principle approval for listing of specified securities from stock exchange(s)",
-      "url": "https://nsearchives.nseindia.com/corporate/DDEL_01072026235302_NSEBSESIGNED.pdf"
     }
   ]
 }
