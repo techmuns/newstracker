@@ -1,31 +1,148 @@
 {
-  "generated_at": "2026-09-25T08:21:31.513Z",
+  "generated_at": "2026-09-25T19:03:55.394Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 119,
-    "watchlist": 678,
-    "universe": 34,
-    "total": 712
+    "portfolio": 120,
+    "watchlist": 682,
+    "universe": 36,
+    "total": 718
   },
   "items": [
     {
-      "id": "ndbac1d406588",
+      "id": "n8f03f4fa38ae",
       "ticker": "MSECL",
       "company": "Monarch Surveyors and Engineering Consultants Ltd",
       "sector": "Services",
       "scope": [
         "watchlist"
       ],
-      "title": "Monarch Surveyors and Engineering Consultants receives Rs 2-cr work order | Capital Market News - Business Standard",
-      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-and-engineering-consultants-receives-rs-2-cr-work-order-126082200734_1.html",
+      "title": "Monarch Surveyors and Engineering gains on bagging Rs 2-cr work order | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/markets/capital-market-news/monarch-surveyors-and-engineering-gains-on-bagging-rs-2-cr-work-order-126082400282_1.html",
       "source": "business-standard.com",
-      "date": "2026-09-25T08:12:57.772Z",
+      "date": "2026-09-25T18:55:21.806Z",
       "topic": "Orders",
       "keyword": "Order",
       "importance": "low",
       "mood": "positive",
-      "takeaway": "Monarch Surveyors received a Rs 2 crore work order.",
+      "takeaway": "Monarch Surveyors won a Rs 2 crore work order.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nddaa524773ad",
+      "ticker": "LAXMIDENTL",
+      "company": "Laxmi Dental Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Laxmi Dental Ltd (NSE:LAXMIDENTL) (Q1 2027) Earnings Call Highlights: Record Revenue and ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/laxmi-dental-ltd-nse-laxmidentl-150024610.html",
+      "source": "finance.yahoo.com",
+      "date": "2026-09-25T18:52:41.480Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Laxmi Dental reported record revenue in Q1 2027 earnings call.",
+      "enriched": true,
+      "sources_count": 2
+    },
+    {
+      "id": "n0fa074e212f8",
+      "ticker": "DEVYANI",
+      "company": "Devyani International Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Devyani International Q1 profit zooms to Rs 17 cr - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/devyani-international-q1-profit-zooms-to-rs-17-cr/articleshow/132705845.cms",
+      "source": "economictimes.indiatimes.com",
+      "date": "2026-09-25T18:51:41.362Z",
+      "topic": "Money",
+      "keyword": "Merger",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Devyani International's Q1 profit jumped to Rs 17 crore.",
+      "enriched": true
+    },
+    {
+      "id": "n50c918f8153a",
+      "ticker": "DENTALKART",
+      "company": "Vasa Denticity Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Vasa Denticity Ltd (NSE:DENTALKART) (Q1 2027) Earnings Call Highlights: Margins Recover, ... By GuruFocus",
+      "url": "https://ca.investing.com/news/company-news/vasa-denticity-ltd-nsedentalkart-q1-2027-earnings-call-highlights-margins-recover--4807046",
+      "source": "ca.investing.com",
+      "date": "2026-09-25T18:51:39.558Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Vasa Denticity's Q1 margins recovered according to earnings call.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nbe6f14a3faf6",
+      "ticker": "CURRENT",
+      "company": "Current Infraprojects Limited",
+      "sector": "Construction",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Current Infraprojects Secures Rs 10.42 Cr Bank Note Press Solar Order – Outlook Business",
+      "url": "https://www.outlookbusiness.com/spotlight/news-wire/current-infraprojects-secures-rs-10-42-cr-bank-note-press-solar-order",
+      "source": "outlookbusiness.com",
+      "date": "2026-09-25T18:51:35.341Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Current Infraprojects won Rs 10.42 crore solar order from Bank Note Press.",
+      "sources_count": 4,
+      "enriched": true
+    },
+    {
+      "id": "nfa600ad71cb1",
+      "ticker": "GLOBAL",
+      "company": "Optical Fibre",
+      "sector": "Telecom",
+      "scope": [
+        "universe"
+      ],
+      "title": "RR Kabel enters optical fibre cable segment with ₹77 crore U M Cables acquisition",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVHNrRVg1VDRadktqWU9TVnUtdlV0UGx2YVN1Wk9maFBKZkl6NXN1dEhmSGxFNVVaejRWQy05czFfT2twSjJxX1lDR2x5QTZycklWVWJBTDNGZ2lWYWFGYUN2dHUtRnEwUGxsVmw5UmhRandzdHdDUHZMUGZNbnhsUVdmbWJ5VTZ1NnlDdTM4UVJJNWlDU3QxRDJfeUZyMWF1Rl9fWmUyWmdyUHZpVXNRT0lkVjVUaHZpX25Na0RVa1lHRFh1ZFlQOUlhVUFJbmVLamVsdHZHVkt6bWJrRXY5UdIB5gFBVV95cUxONTd5ZUl2WG5FUzRqVGsyNGNWcHpEN0ItSkJvV2wweHhrVENsb1NFa3ppbm92bUFGdERMZWlva1YyMEl0dDYxcXg3clQwZ0xKRk1OY0c0cjZOYWFmamVwdnNsTm51TTIwV2lhNnFNX1pfS29Od0xQZXpWNWdFd1k5Y1Fmc2ZKRWJtRGlJUDdBM3NUS0RSMWJtdDlVaGM0NzVuZFZvTktxelNrd29GOFo2SjU5ZU1HR2VWUHZaUTBVa0l3TjZVOGZaWDZUTzRTSW52VnIyNThJb3p6b3lPU3RualRINlVGZw?oc=5",
+      "source": "CNBC TV18",
+      "date": "2026-09-25T11:42:45.000Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "RR Kabel acquires U M Cables for ₹77 crore to enter optical fibre cable business.",
+      "enriched": true
+    },
+    {
+      "id": "n4d69a3fbc60b",
+      "ticker": "THEME",
+      "company": "Specialty Chemicals",
+      "sector": "Chemicals",
+      "scope": [
+        "universe"
+      ],
+      "title": "Waaree Expands Into Specialty Gases; Plans Indosolar Merger",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZkpYS2pIbFBjaHczZjRiZEkxVElmSS10bXZwd0FRY3c1TWo5MWFOWnlMMDlfOGduRWhRekVlU3FLMmQtUVlxaFVxM0ZPb2pSclk4b3BiV2R0dWRkN3NWbTdDdmNLODQ5MEhfeEktQVh0VHNCaVRWc2ptNkJkNU02OXB2cmFMMG9wblBZMzNXeV9CYzdwUVFj?oc=5",
+      "source": "TaiyangNews",
+      "date": "2026-09-25T10:29:53.000Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Waaree expands into specialty gases and plans to merge with Indosolar.",
       "enriched": true
     },
     {
@@ -68,26 +185,6 @@
       "enriched": true
     },
     {
-      "id": "n93b708a251dd",
-      "ticker": "LAXMIDENTL",
-      "company": "Laxmi Dental Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Q1 2027 Laxmi Dental Ltd Earnings Call Transcript",
-      "url": "https://www.gurufocus.com/news/9027891/q1-2027-laxmi-dental-ltd-earnings-call-transcript",
-      "source": "gurufocus.com",
-      "date": "2026-09-25T08:10:20.987Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Laxmi Dental held its Q1 FY27 earnings call to discuss quarterly results.",
-      "sources_count": 3,
-      "enriched": true
-    },
-    {
       "id": "n35184d774bab",
       "ticker": "KKJEWELS",
       "company": "Kabra Jewels Limited",
@@ -123,26 +220,6 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Goldiam International board meeting scheduled for Aug 7, earnings call on Aug 10.",
-      "enriched": true
-    },
-    {
-      "id": "n1d5d2906ab6f",
-      "ticker": "CURRENT",
-      "company": "Current Infraprojects Limited",
-      "sector": "Construction",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Current Infraprojects Limited Secures Rs 10.42 Cr Order from Bank Note Press, Dewas for 3 MW Rooftop Solar Project - NewsX",
-      "url": "https://www.newsx.com/business-2/current-infraprojects-limited-secures-rs-10-42-cr-order-from-bank-note-press-dewas-for-3-mw-rooftop-solar-project-273549/",
-      "source": "newsx.com",
-      "date": "2026-09-25T08:09:16.332Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Current Infraprojects won Rs 10.42 crore order for 3 MW rooftop solar project from Bank Note Press, Dewas.",
-      "sources_count": 4,
       "enriched": true
     },
     {
@@ -927,6 +1004,26 @@
       "enriched": true
     },
     {
+      "id": "na2c844b78df7",
+      "ticker": "LUMINO",
+      "company": "Lumino Industries Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Lumino Industries (NSE: LUMINO) Q1 FY27 Results and Capacity Expansion Update",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRHJXS1Rld0lSWVk4NlZZbXhTd1ZLYUlkQ3o5SGpvdEpfZ1JZZUlHalJaUWhIOVJ3Q0RxTGdXQzZxaW1WR28yMnl0TFUxUzR4NzRNRFNmUElQVlpIclRCQ2JtdWZkSEJ3RDg1andCT3VPOEZQV3pMU3ZwUzdNTjZTSjRpdXl0NndibUgzUjg2R0xyS1VseHhzT2xxWHVwSmhBZ1pXNlJDSkRaRy01QmdITFVuR0RnM1lUdWJNdS1XVC01eEhyUm9zR0tYRkVqdEpQX2hqUHBJdXNTYmMxaDNF?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-09-22T11:55:00.000Z",
+      "topic": "Growth",
+      "keyword": "Capacity Expansion",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Lumino Industries reports Q1 results and provides update on expanding production capacity.",
+      "enriched": true
+    },
+    {
       "id": "n39b7555f42f8",
       "ticker": "URBANCO",
       "company": "Urban Company Limited",
@@ -1662,26 +1759,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "OneSource Pharma gets Karnataka approval for Unit II expansion under state industrial policy.",
-      "enriched": true
-    },
-    {
-      "id": "nc94fc7e46519",
-      "ticker": "DENTALKART",
-      "company": "Vasa Denticity Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Vasa Denticity Ltd (NSE:DENTALKART) (Q1 2027) Earnings Call Highlights: Margins Recover, ...",
-      "url": "https://uk.finance.yahoo.com/news/vasa-denticity-ltd-nse-dentalkart-030115532.html",
-      "source": "uk.finance.yahoo.com",
-      "date": "2026-09-17T18:30:38.219Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Vasa Denticity's margins recovered in Q1 2027 earnings call.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -3709,7 +3786,8 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Concord Biotech reported 26% growth in Q1FY27 despite missing earnings expectations.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n4a9111ddc120",
@@ -4830,7 +4908,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Vivid Electromech secured ₹30.13 crore order from STT Global Data Centres for data centre work.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -6528,7 +6606,8 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Tenneco Clean Air India reported strong growth in Q1 2027 results.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n6c3f7650ab07",
@@ -7446,7 +7525,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Secured export order for lab-grown diamond jewellery.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -10616,6 +10695,25 @@
       "enriched": true
     },
     {
+      "id": "ne687c4b18229",
+      "ticker": "VBL",
+      "company": "Varun Beverages Limited",
+      "sector": "Fast Moving Consumer Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Varun Beverages completes USD 32 million Kenya acquisition",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaVY2YzhQa3U4UDVBWk5WaHYzdlhRN0tES1JzdE9fTG1KLXZ2bUxxcGpFdUtrRVpUSTROY21mQm1tX0FjRmpHMEQ0R045WWxCa1N4dXdhSS1TRHFoRmF0MUNJOElhYlp0VVNDWWZQbVlBTUNVMW9Ub1VrMHhIWWtJczF4WWQ0R19rOGlIbm9JTFp0cDdHdEZGcnJ5U0tFRjVIMW1NbEFWTDB3aXRka3k1SXBiaU45Qzc3MDgyOC1n?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-08-01T07:00:00.000Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Varun Beverages completes $32 million acquisition in Kenya, expanding its geographic footprint.",
+      "enriched": true
+    },
+    {
       "id": "n39d22c238d28",
       "ticker": "STLTECH",
       "company": "Sterlite Technologies Limited",
@@ -11467,26 +11565,6 @@
       "enriched": true
     },
     {
-      "id": "n4d48f5ae9840",
-      "ticker": "SHADOWFAX",
-      "company": "Shadowfax Technologies Limited",
-      "sector": "Services",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Shadowfax denies knowledge of Flipkart's reported Rs 700 crore stake sale plan",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNk80NDRCa2Q4MVAweTJuOGVHOEpSN3dYWk9IS0ZkQ1U0LURvU29RaWNIZTBtNjB0bHdITVMtYVBHTVNjYjhFNXJJRDlKb3FSVGd3UnAwQnEyQ2ZsZ2VzY3IzbGhOaXAwQUNDMUYwVHFDZDhKaWZiOUhoRC1iZm9UQ3Y1WW1wdm1RbzF1UURlNEZXblhFMnRHei1ubW1jWFFyQktZcDJaLVIzMEkyWDVyNmZZT0J0MGxxM3lub29qRlNSN2gyM01ieUVlaDVwSEhvODhrM0QtS1lkaHhnZlRZYmRpbGkwN3M?oc=5",
-      "source": "Business Upturn",
-      "date": "2026-07-14T07:00:00.000Z",
-      "topic": "Deals",
-      "keyword": "Stake sale",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Shadowfax denies reports of Flipkart planning Rs 700 crore stake sale.",
-      "enriched": true
-    },
-    {
       "id": "n30610797f2d0",
       "ticker": "DEVYANI",
       "company": "Devyani International Limited",
@@ -11504,6 +11582,26 @@
       "mood": "negative",
       "takeaway": "Devyani Q2 revenue grew 13% but posted a loss of ₹0.31 per share.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n4d48f5ae9840",
+      "ticker": "SHADOWFAX",
+      "company": "Shadowfax Technologies Limited",
+      "sector": "Services",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Shadowfax denies knowledge of Flipkart's reported Rs 700 crore stake sale plan",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNk80NDRCa2Q4MVAweTJuOGVHOEpSN3dYWk9IS0ZkQ1U0LURvU29RaWNIZTBtNjB0bHdITVMtYVBHTVNjYjhFNXJJRDlKb3FSVGd3UnAwQnEyQ2ZsZ2VzY3IzbGhOaXAwQUNDMUYwVHFDZDhKaWZiOUhoRC1iZm9UQ3Y1WW1wdm1RbzF1UURlNEZXblhFMnRHei1ubW1jWFFyQktZcDJaLVIzMEkyWDVyNmZZT0J0MGxxM3lub29qRlNSN2gyM01ieUVlaDVwSEhvODhrM0QtS1lkaHhnZlRZYmRpbGkwN3M?oc=5",
+      "source": "Business Upturn",
+      "date": "2026-07-14T07:00:00.000Z",
+      "topic": "Deals",
+      "keyword": "Stake sale",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Shadowfax denies reports of Flipkart planning Rs 700 crore stake sale.",
       "enriched": true
     },
     {
@@ -12662,25 +12760,6 @@
       "enriched": true
     },
     {
-      "id": "n3b15a83cdfb7",
-      "ticker": "MASFIN",
-      "company": "MAS Financial Services Limited",
-      "sector": "Financial Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "MASFIN Q2 2026 Earnings: Strong Revenue Growth Drives Performance Amid Stable Asset Quality - Earnings Risk Report",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUS1MejctZFptMWQyd3JCY1d1bHZqY2NBUDB1MXZrTVV2NTNKNmlyVjRwSUdkWXY3R21lRUl6NjhIQ0dTdDc4MWk3WG15ekhBQnA1azVlMDhfUlMtRkxZaGprMWVwNThWdzFCYUpTVVA1Z3dCSjBHLXhVZnBDYWhHU1FsOXhYd3ZEa29yS1dfSlYyS2ZZSTRoQUh5TVRsWWZXaFRVYUpiYk5mMkZUcWgtZUY1ZnUwWTBYbUlrbVA2T0h5aUMtQjktaHBnOXY?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-04T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "MAS Financial Services Q2 2026 shows strong revenue growth with stable asset quality.",
-      "enriched": true
-    },
-    {
       "id": "n7f44ef59525f",
       "ticker": "LENSKART",
       "company": "Lenskart Solutions Limited",
@@ -12697,6 +12776,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Lenskart Q2 2026 revenue grows 32.5%, EPS at ₹2.9.",
+      "enriched": true
+    },
+    {
+      "id": "n3b15a83cdfb7",
+      "ticker": "MASFIN",
+      "company": "MAS Financial Services Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "MASFIN Q2 2026 Earnings: Strong Revenue Growth Drives Performance Amid Stable Asset Quality - Earnings Risk Report",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUS1MejctZFptMWQyd3JCY1d1bHZqY2NBUDB1MXZrTVV2NTNKNmlyVjRwSUdkWXY3R21lRUl6NjhIQ0dTdDc4MWk3WG15ekhBQnA1azVlMDhfUlMtRkxZaGprMWVwNThWdzFCYUpTVVA1Z3dCSjBHLXhVZnBDYWhHU1FsOXhYd3ZEa29yS1dfSlYyS2ZZSTRoQUh5TVRsWWZXaFRVYUpiYk5mMkZUcWgtZUY1ZnUwWTBYbUlrbVA2T0h5aUMtQjktaHBnOXY?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-04T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "MAS Financial Services Q2 2026 shows strong revenue growth with stable asset quality.",
       "enriched": true
     },
     {
@@ -12953,6 +13051,25 @@
       "takeaway": "Laxmi Dental's Q2 revenue increased 14.77% year-on-year despite market challenges.",
       "enriched": true,
       "sources_count": 2
+    },
+    {
+      "id": "ndcb28398f24a",
+      "ticker": "AVANTEL",
+      "company": "Avantel Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Avantel secures ₹83.80 crore order from Zetwerk for satcom",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnVrY2NwSnJmZ1Z1Umhpc1EzTk9nczZ6SnFSRk1mSUYtY3ZMTlpEa0JvVGNDQU1FUzVkRllTVWJvdXFYdERLSzhicTZ0b1lNWFF1NndNME16OVA5djJsY2NPTWE2SEpxN0Q4LUVMUHR5OVF4VnpFQ0c0SUFBNm5KeHFKYjh4Y2ptcnVjWGlYaUZIS2JaSU45Q2Nyc1hWUlU?oc=5",
+      "source": "Bisinfotech",
+      "date": "2026-07-01T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Avantel wins ₹83.80 crore satcom order from Zetwerk, boosting its order book.",
+      "enriched": true
     },
     {
       "id": "n70b4aa0f88ed",
