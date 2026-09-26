@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T08:04:43.303Z",
+  "generated_at": "2026-09-26T18:07:47.559Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,146 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "fc2a4c2a5b26f",
+      "ticker": "MIDWESTLTD",
+      "company": "Midwest Limited",
+      "exchange": "NSE",
+      "date": "2026-09-26T19:30:25.000Z",
+      "category": "Trading Window",
+      "title": "Midwest Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/MIDWEST_26092026193014_Closure_of_Trading_Window.pdf"
+    },
+    {
+      "id": "fe959d058b583",
+      "ticker": "ACUTAAS",
+      "company": "Acutaas Chemicals Limited",
+      "exchange": "NSE",
+      "date": "2026-09-26T19:21:42.000Z",
+      "category": "Change in Directors",
+      "title": "Acutaas Chemicals Limited has informed the Exchange about change in Management",
+      "url": "https://nsearchives.nseindia.com/corporate/AMIORG_26092026192134_Reg30reappointmentswSigned.pdf"
+    },
+    {
+      "id": "f45ce4368f807",
+      "ticker": "ACUTAAS",
+      "company": "Acutaas Chemicals Limited",
+      "exchange": "NSE",
+      "date": "2026-09-26T19:09:38.000Z",
+      "category": "Shareholders meeting",
+      "title": "Acutaas Chemicals Limited has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on September 24, 2026. Further, the company has informed the Exchange regarding voting results.",
+      "url": "https://nsearchives.nseindia.com/corporate/AMIORG_26092026190800_VotingResult2609swsigned.pdf"
+    },
+    {
+      "id": "fe1fcab6f4299",
+      "ticker": "SCODATUBES",
+      "company": "Scoda Tubes Limited",
+      "exchange": "NSE",
+      "date": "2026-09-26T18:58:01.000Z",
+      "category": "Shareholders meeting",
+      "title": "Scoda Tubes Limited has informed the Exchange regarding Proceedings of 18th Annual General Meeting held on September 26, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/SCODA_26092026185752_AGM_Proceedings.pdf"
+    },
+    {
+      "id": "f4b1b16836c9f",
+      "ticker": "BALUFORGE",
+      "company": "Balu Forge Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-26T17:19:14.000Z",
+      "category": "Change in Directors",
+      "title": "Balu Forge Industries Limited has informed the Exchange about Resignation of Director/KMP/SMP",
+      "url": "https://nsearchives.nseindia.com/corporate/BALUFORGE_ROID_99096_KMP_Doc.zip"
+    },
+    {
+      "id": "f3b6012343dfc",
+      "ticker": "BALUFORGE",
+      "company": "Balu Forge Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-26T17:03:42.000Z",
+      "category": "Trading Window",
+      "title": "Balu Forge Industries Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/BALUFORGE_26092026170333_Intimation.pdf"
+    },
+    {
+      "id": "f9328e9882be9",
+      "ticker": "BALUFORGE",
+      "company": "Balu Forge Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-26T16:45:41.000Z",
+      "category": "Change in Company Secretary/Compliance Officer",
+      "title": "Balu Forge Industries Limited has informed the Exchange about Change in Company Secretary/Compliance Officer",
+      "url": "https://nsearchives.nseindia.com/corporate/BALUFORGE_26092026164526_Intimation.pdf"
+    },
+    {
+      "id": "f8fd718702b54",
+      "ticker": "BALUFORGE",
+      "company": "Balu Forge Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-26T16:43:11.000Z",
+      "category": "Change in Directors",
+      "title": "Balu Forge Industries Limited has informed the Exchange regarding Appointment of Mr Amit Vinaybhai Jain as Company Secretary & Compliance Officer of the company w.e.f. October 15, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/BALUFORGE_26092026164241_Intimation.pdf"
+    },
+    {
+      "id": "fc28e571685f0",
+      "ticker": "BALUFORGE",
+      "company": "Balu Forge Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-26T16:40:51.000Z",
+      "category": "Change in Directors",
+      "title": "Balu Forge Industries Limited has informed the Exchange regarding Resignation of Ms Tabassum Begum as Company Secretary & Compliance Officer of the company w.e.f. September 26, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/BALUFORGE_26092026164043_Intimation.pdf"
+    },
+    {
+      "id": "f39165b60e3b5",
+      "ticker": "BALUFORGE",
+      "company": "Balu Forge Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-26T16:36:38.000Z",
+      "category": "Disclosure",
+      "title": "Balu Forge Industries Limited has informed the Exchange about Resignation of Ms. Tabassum Begum as Company Secretary & Compliance Officer w.e.f. 26.09.2026 due to marriage & relocation.",
+      "url": "https://nsearchives.nseindia.com/corporate/BALUFORGE_26092026163542_Intimation.pdf"
+    },
+    {
+      "id": "f983a38fece06",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "exchange": "NSE",
+      "date": "2026-09-26T16:11:00.000Z",
+      "category": "Shareholders meeting",
+      "title": "Apsis Aerocom Limited has informed the Exchange regarding Proceedings of 4th Annual General Meeting held on September 26, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/APSIS2025_26092026160849_Outcome_of_AGM_Proceedings_26092026.pdf"
+    },
+    {
+      "id": "f39577cefdbcd",
+      "ticker": "SHAILY",
+      "company": "Shaily Engineering Plastics Limited",
+      "exchange": "NSE",
+      "date": "2026-09-26T16:07:04.000Z",
+      "category": "Credit Rating",
+      "title": "Shaily Engineering Plastics Limited has informed the Exchange about Credit Rating",
+      "url": "https://nsearchives.nseindia.com/corporate/Shailyengineering_26092026160641_Covering_Letter_Revised__Credit_rating.pdf"
+    },
+    {
+      "id": "fc3ad6063e9db",
+      "ticker": "BHARATCOAL",
+      "company": "Bharat Coking Coal Limited",
+      "exchange": "NSE",
+      "date": "2026-09-26T15:59:16.000Z",
+      "category": "Disclosure",
+      "title": "Bharat Coking Coal Limited has informed the Exchange regarding 'Board comments on the fine levied by the Exchanges'.",
+      "url": "https://nsearchives.nseindia.com/corporate/BCCL_26092026155845_Intimation_to_the_Exchanges_and_Waiver_request_after_Board_comments.pdf"
+    },
+    {
+      "id": "facbe53367ecd",
+      "ticker": "BHARATCOAL",
+      "company": "Bharat Coking Coal Limited",
+      "exchange": "NSE",
+      "date": "2026-09-26T15:47:46.000Z",
+      "category": "Board Meeting",
+      "title": "Bharat Coking Coal Limited has informed the Exchange regarding Outcome of Board Meeting held on September 26, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/BCCL_26092026154732_disclosure_bm.pdf"
+    },
     {
       "id": "f62a2a6f77498",
       "ticker": "DEEDEV",
@@ -2276,6 +2416,16 @@
       "category": "Shareholders meeting",
       "title": "KSH International Limited has informed the Exchange regarding Proceedings of its 47th Annual General Meeting held on September 15, 2026",
       "url": "https://nsearchives.nseindia.com/corporate/INTERNATIONAL_15092026164150_KSH_ProceedingsofAGM15092026.pdf"
+    },
+    {
+      "id": "f268bbafefd61",
+      "ticker": "SONATSOFTW",
+      "company": "Sonata Software Limited",
+      "exchange": "NSE",
+      "date": "2026-09-15T16:36:43.000Z",
+      "category": "Newspaper Publication",
+      "title": "Sonata Software Limited has informed the Exchange about Copy of Newspaper Publication",
+      "url": "https://nsearchives.nseindia.com/corporate/SONATSOFTW_15092026163525_newspaperpublication15092026.pdf"
     },
     {
       "id": "f827088eb724d",
@@ -19856,156 +20006,6 @@
       "category": "Shareholders meeting",
       "title": "Can Fin Homes Limited has informed the Exchange regarding Notice Convening the 39th Annual General Meeting( AGM ) to be held on July 29, 2026 and Annual Report for Financial Year 2025-26",
       "url": "https://nsearchives.nseindia.com/corporate/CANFINHOME_06072026183617_Submission_of_AGM_Notice_and_AR_to_SE.pdf"
-    },
-    {
-      "id": "f10d94e47fa50",
-      "ticker": "BHARATCOAL",
-      "company": "Bharat Coking Coal Limited",
-      "exchange": "NSE",
-      "date": "2026-07-06T18:20:19.000Z",
-      "category": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
-      "title": "Bharat Coking Coal Limited has informed the Exchange about Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
-      "url": "https://nsearchives.nseindia.com/corporate/BCCL_06072026182008_Litigation_Announcement_Signed.pdf"
-    },
-    {
-      "id": "f248e1d0c191d",
-      "ticker": "SGMART",
-      "company": "SG Mart Limited",
-      "exchange": "NSE",
-      "date": "2026-07-06T18:18:15.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "SG Mart Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/SGMART_06072026181801_RTACompliancecertificate30062026.pdf"
-    },
-    {
-      "id": "fa95ccafd70a1",
-      "ticker": "KSHINTL",
-      "company": "KSH International Limited",
-      "exchange": "NSE",
-      "date": "2026-07-06T17:31:50.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "KSH International Limited has submitted to the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018.",
-      "url": "https://nsearchives.nseindia.com/corporate/INTERNATIONAL_06072026172551_KSH_Intimation_Regulation_74_5__Signed.pdf"
-    },
-    {
-      "id": "f8274c15e70d6",
-      "ticker": "AVANTEL",
-      "company": "Avantel Limited",
-      "exchange": "NSE",
-      "date": "2026-07-06T16:30:20.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Avantel Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/AVANTEL_06072026162942_ConfirmationCertificateReg74.pdf"
-    },
-    {
-      "id": "fae2ae0501a67",
-      "ticker": "VBL",
-      "company": "Varun Beverages Limited",
-      "exchange": "NSE",
-      "date": "2026-07-06T16:19:08.000Z",
-      "category": "Agreements",
-      "title": "VBL Industries (Kenya) Limited (\"VBL Kenya\") wholly-owned subsidiary of our Company has entered into an agreement to acquire the value- added dairy Beverages, Juices and Packaged Drinking Water of Devyani Food Industries (Kenya) Limited (\"DFIL Kenya\")",
-      "url": "https://nsearchives.nseindia.com/corporate/VBL_06072026161721_Disclosure.pdf"
-    },
-    {
-      "id": "fe661a505c0c1",
-      "ticker": "XPROINDIA",
-      "company": "Xpro India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-06T16:15:11.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Xpro India Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/XPROINDIASKD_06072026161422_15_XIL_Certificate_74_5__30062026_Signed.pdf"
-    },
-    {
-      "id": "f4ad8bfcc40c4",
-      "ticker": "SHADOWFAX",
-      "company": "Shadowfax Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-06T15:43:42.000Z",
-      "category": "ESOP/ESOS/ESPS",
-      "title": "Shadowfax Technologies Limited has informed the Exchange regarding Allotment of 1,00,200 Equity Shares of Rs. 10/- each to the eligible employees/ESOP holders.",
-      "url": "https://nsearchives.nseindia.com/corporate/9900590024_06072026154311_ESOP_Allotment.pdf"
-    },
-    {
-      "id": "fc8aa692b1f4e",
-      "ticker": "GROWW",
-      "company": "Billionbrains Garage Ventures Limited",
-      "exchange": "NSE",
-      "date": "2026-07-06T15:40:23.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Billionbrains Garage Ventures Limited has informed the Exchange about Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended June 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_06072026154009_Reg74_5__SD.pdf"
-    },
-    {
-      "id": "f896c34e04073",
-      "ticker": "MOBIKWIK",
-      "company": "One Mobikwik Systems Limited",
-      "exchange": "NSE",
-      "date": "2026-07-06T15:16:57.000Z",
-      "category": "Disclosure",
-      "title": "One Mobikwik Systems Limited has informed the Exchange regarding 'Letter to Shareholders '.",
-      "url": "https://nsearchives.nseindia.com/corporate/MOBIKWIK_06072026151614_Intimation_Letter_to_Shareholders.pdf"
-    },
-    {
-      "id": "fafd6ee0267d4",
-      "ticker": "CONCORDBIO",
-      "company": "Concord Biotech Limited",
-      "exchange": "NSE",
-      "date": "2026-07-06T13:32:35.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Concord Biotech Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/CONCORD_06072026133226_Disclosures_Reg_74_5.pdf"
-    },
-    {
-      "id": "f874ce18ca0ee",
-      "ticker": "SURYAROSNI",
-      "company": "Surya Roshni Limited",
-      "exchange": "NSE",
-      "date": "2026-07-06T12:49:17.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Surya Roshni Limited has informed the Exchange about Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/SURYAROSNI_06072026124855_74_5_Report_JUNE_2026.pdf"
-    },
-    {
-      "id": "f214ec83027bc",
-      "ticker": "PVRINOX",
-      "company": "PVR INOX Limited",
-      "exchange": "NSE",
-      "date": "2026-07-06T11:55:05.000Z",
-      "category": "Disclosure",
-      "title": "Pavan Kumar Jain, Siddharth Jain, Nayantara Jain, GFL Limited, INOX Infrastructure Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_30062026122632_45.pdf"
-    },
-    {
-      "id": "f47eb6f137a28",
-      "ticker": "INDOFARM",
-      "company": "Indo Farm Equipment Limited",
-      "exchange": "NSE",
-      "date": "2026-07-06T11:44:39.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Indo Farm Equipment Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/IFEL_06072026114428_Covering_Letter_74_5_.pdf"
-    },
-    {
-      "id": "f1c00c8c51ceb",
-      "ticker": "SPUNWEB",
-      "company": "Spunweb Nonwoven Limited",
-      "exchange": "NSE",
-      "date": "2026-07-06T11:12:29.000Z",
-      "category": "Disclosure",
-      "title": "Spunweb Nonwoven Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_28042026163359_SPUNWEB.pdf"
-    },
-    {
-      "id": "fd2b500bc2ec3",
-      "ticker": "MONOLITH",
-      "company": "Monolithisch India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-04T14:11:13.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Monolithisch India Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/MONOLITHISCH_04072026141056_COMPLIANCE_CERTIFICATE_UNDER_SEC_74_30062026.pdf"
     }
   ]
 }
