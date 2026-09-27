@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T08:38:43.675Z",
+  "generated_at": "2026-09-27T18:43:57.038Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,16 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "fbeed1f74067a",
+      "ticker": "OMNI",
+      "company": "Omnitech Engineering Limited",
+      "exchange": "NSE",
+      "date": "2026-09-27T16:31:15.000Z",
+      "category": "Trading Window",
+      "title": "Omnitech Engineering Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/OMNITECHENG_27092026163004_Notice_of_Trading_Window_closure_for_Q2_for_FY_2026-27.pdf"
+    },
     {
       "id": "fdeeb969eb1e2",
       "ticker": "JYOTICNC",
@@ -19996,16 +20006,6 @@
       "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
       "title": "Shadowfax Technologies Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended June 30, 2026",
       "url": "https://nsearchives.nseindia.com/corporate/9900590024_06072026184903_74_5_.pdf"
-    },
-    {
-      "id": "f7886ba4f46ee",
-      "ticker": "BLACKBUCK",
-      "company": "BLACKBUCK LIMITED",
-      "exchange": "NSE",
-      "date": "2026-07-06T18:37:37.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "BLACKBUCK LIMITED has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/ZINKA2015_06072026183724_Announcement_under_Regulation_74_5_.pdf"
     }
   ]
 }
