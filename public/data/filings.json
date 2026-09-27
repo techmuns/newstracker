@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T18:07:47.559Z",
+  "generated_at": "2026-09-27T08:38:43.675Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,16 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "fdeeb969eb1e2",
+      "ticker": "JYOTICNC",
+      "company": "Jyoti CNC Automation Limited",
+      "exchange": "NSE",
+      "date": "2026-09-27T12:33:26.000Z",
+      "category": "Rumour Verification - Regulation 30(11)",
+      "title": "Jyoti CNC Automation Limited has informed the Exchange about Rumour Verification - Regulation 30(11)",
+      "url": "https://nsearchives.nseindia.com/corporate/JYOTICNC_NSE_27092026123252_BSEnseJCALClarificationONFireIncident27092026.pdf"
+    },
     {
       "id": "fc2a4c2a5b26f",
       "ticker": "MIDWESTLTD",
@@ -19996,16 +20006,6 @@
       "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
       "title": "BLACKBUCK LIMITED has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
       "url": "https://nsearchives.nseindia.com/corporate/ZINKA2015_06072026183724_Announcement_under_Regulation_74_5_.pdf"
-    },
-    {
-      "id": "f7fc0e5332dc6",
-      "ticker": "CANFINHOME",
-      "company": "Can Fin Homes Limited",
-      "exchange": "NSE",
-      "date": "2026-07-06T18:36:53.000Z",
-      "category": "Shareholders meeting",
-      "title": "Can Fin Homes Limited has informed the Exchange regarding Notice Convening the 39th Annual General Meeting( AGM ) to be held on July 29, 2026 and Annual Report for Financial Year 2025-26",
-      "url": "https://nsearchives.nseindia.com/corporate/CANFINHOME_06072026183617_Submission_of_AGM_Notice_and_AR_to_SE.pdf"
     }
   ]
 }
