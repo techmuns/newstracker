@@ -1,52 +1,150 @@
 {
-  "generated_at": "2026-09-26T18:10:21.793Z",
+  "generated_at": "2026-09-27T08:44:45.275Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 123,
-    "watchlist": 690,
+    "portfolio": 124,
+    "watchlist": 694,
     "universe": 36,
-    "total": 726
+    "total": 730
   },
   "items": [
     {
-      "id": "n8f03f4fa38ae",
+      "id": "ndbac1d406588",
       "ticker": "MSECL",
       "company": "Monarch Surveyors and Engineering Consultants Ltd",
       "sector": "Services",
       "scope": [
         "watchlist"
       ],
-      "title": "Monarch Surveyors and Engineering gains on bagging Rs 2-cr work order | Capital Market News - Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/monarch-surveyors-and-engineering-gains-on-bagging-rs-2-cr-work-order-126082400282_1.html",
+      "title": "Monarch Surveyors and Engineering Consultants receives Rs 2-cr work order | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-and-engineering-consultants-receives-rs-2-cr-work-order-126082200734_1.html",
       "source": "business-standard.com",
-      "date": "2026-09-26T18:01:52.538Z",
+      "date": "2026-09-27T08:35:51.201Z",
       "topic": "Orders",
       "keyword": "Order",
       "importance": "low",
       "mood": "positive",
-      "takeaway": "Monarch Surveyors won a Rs 2 crore work order.",
+      "takeaway": "Monarch Surveyors received a Rs 2 crore work order.",
       "sources_count": 2,
       "enriched": true
     },
     {
-      "id": "nddaa524773ad",
+      "id": "ndb71de6a454e",
+      "ticker": "WOCKPHARMA",
+      "company": "Wockhardt Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Wockhardt gets expert panel nod for new antibiotic Zaynich; what it means",
+      "url": "https://aliceblueonline.com/news/wockhardt-gets-expert-panel-nod-for-new-antibiotic-zaynich-what-it-means",
+      "source": "aliceblueonline.com",
+      "date": "2026-09-27T08:35:09.355Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Wockhardt received expert panel approval for new antibiotic Zaynich.",
+      "enriched": true
+    },
+    {
+      "id": "n93b708a251dd",
       "ticker": "LAXMIDENTL",
       "company": "Laxmi Dental Limited",
       "sector": "Healthcare",
       "scope": [
         "watchlist"
       ],
-      "title": "Laxmi Dental Ltd (NSE:LAXMIDENTL) (Q1 2027) Earnings Call Highlights: Record Revenue and ...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/laxmi-dental-ltd-nse-laxmidentl-150024610.html",
-      "source": "finance.yahoo.com",
-      "date": "2026-09-26T17:59:16.083Z",
+      "title": "Q1 2027 Laxmi Dental Ltd Earnings Call Transcript",
+      "url": "https://www.gurufocus.com/news/9027891/q1-2027-laxmi-dental-ltd-earnings-call-transcript",
+      "source": "gurufocus.com",
+      "date": "2026-09-27T08:33:13.775Z",
       "topic": "Money",
       "keyword": "Earnings",
       "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Laxmi Dental held its quarterly earnings call discussing Q1 2027 results.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "ncd4046267a61",
+      "ticker": "INDOFARM",
+      "company": "Indo Farm Equipment Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Indo Farm Q1 FY27: Tractor Momentum, Crane Capacity Constraints, and a Busy Commissioning Calendar",
+      "url": "https://www.multibagg.ai/market-pulse/articles/indo-farm-q1-97826",
+      "source": "multibagg.ai",
+      "date": "2026-09-27T08:33:06.299Z",
+      "topic": "Growth",
+      "keyword": "Commissioning",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Indo Farm reports tractor momentum and crane capacity constraints with upcoming commissioning schedule.",
+      "enriched": true
+    },
+    {
+      "id": "n7f13bfb30757",
+      "ticker": "AVANTEL",
+      "company": "Avantel Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Avantel ka bada kadam: Subsidiary merger ke saath ab Space aur AI mein entry ki taiyari | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/technology/Avantel-Approves-Merger-of-Subsidiary-and-Expands-Business-Scope-Into-New-Tech/6aad0c1af2017017ae6d4808",
+      "source": "whalesbook.com",
+      "date": "2026-09-27T08:31:57.966Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "medium",
       "mood": "positive",
-      "takeaway": "Laxmi Dental reported record revenue in Q1 2027 earnings call.",
-      "enriched": true,
-      "sources_count": 2
+      "takeaway": "Avantel merging subsidiary and entering Space and AI sectors.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n22c980504bd4",
+      "ticker": "TANFACIND",
+      "company": "TANFAC Industries Ltd",
+      "sector": "Chemicals",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Anupam Rasayan: Completes ₹60.88 Crore Equity Share Acquisition in Tanfac | InvestyWise",
+      "url": "https://www.investywise.com/anupam-rasayan-india-ltd-acquisition-of-equity-shares-in-tanfac-industries/",
+      "source": "investywise.com",
+      "date": "2026-09-27T08:31:47.161Z",
+      "topic": "Deals",
+      "keyword": "Preferential Issue",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Anupam Rasayan acquired ₹60.88 crore equity stake in Tanfac Industries.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n4466d014144d",
+      "ticker": "JYOTICNC",
+      "company": "Jyoti CNC Automation Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Jyoti CNC Automation reports no financial impact from Rajkot facility fire",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeDNKc0RxdTE0MzRQS2NFZExmMEttNWotSHlJd0dlbFYwd1VRdjFtRXNRbXRsdUU3X3pyUmE1d0psVTFEX3c1Y3N1TGlqcEpnR3hRQ2ZxcFJFR2N6VkZXV3RpcmhFemdsOWFQczlSWnQ5bWFHaDdaVV90eHZaSURRbXVtRDVHcnE5VWY2cVBSOGp3YlMtUUwwdUZjMmlNY1FJdy1abUpzY25ZNEI0T0ZvOVFzMDVmZw?oc=5",
+      "source": "Business Upturn",
+      "date": "2026-09-27T07:12:48.000Z",
+      "topic": "Trouble",
+      "keyword": "Fire",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Jyoti CNC reports fire at Rajkot facility caused no financial impact.",
+      "enriched": true
     },
     {
       "id": "n50c918f8153a",
@@ -84,26 +182,6 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "DEE Development Engineers showed Q1 FY27 growth but faced deferred dispatches.",
-      "enriched": true
-    },
-    {
-      "id": "nbe6f14a3faf6",
-      "ticker": "CURRENT",
-      "company": "Current Infraprojects Limited",
-      "sector": "Construction",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Current Infraprojects Secures Rs 10.42 Cr Bank Note Press Solar Order – Outlook Business",
-      "url": "https://www.outlookbusiness.com/spotlight/news-wire/current-infraprojects-secures-rs-10-42-cr-bank-note-press-solar-order",
-      "source": "outlookbusiness.com",
-      "date": "2026-09-26T17:58:12.080Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Current Infraprojects won Rs 10.42 crore solar order from Bank Note Press.",
-      "sources_count": 4,
       "enriched": true
     },
     {
@@ -886,26 +964,6 @@
       "enriched": true
     },
     {
-      "id": "nffcf36e56d42",
-      "ticker": "AVANTEL",
-      "company": "Avantel Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Avantel Merger: કંપનીનું મોટું પ્લાનિંગ, સબસિડિયરી સાથે વિલીનીકરણ અને નવા સેક્ટરમાં એન્ટ્રી | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/Gujarati/technology/Avantel-Approves-Merger-of-Subsidiary-and-Expands-Business-Scope-Into-New-Tech/6aad0c1af2017017ae6d4808",
-      "source": "whalesbook.com",
-      "date": "2026-09-23T18:35:34.132Z",
-      "topic": "Deals",
-      "keyword": "Merger",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Avantel plans merger with subsidiary and entry into new sector.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "nbabbbd4f3f15",
       "ticker": "CARTRADE",
       "company": "Cartrade Tech Limited",
@@ -1001,6 +1059,26 @@
       "mood": "positive",
       "takeaway": "Avantel plans major expansion into space, AI, and healthcare sectors.",
       "sources_count": 6,
+      "enriched": true
+    },
+    {
+      "id": "na8e9a9b95555",
+      "ticker": "STYLAMIND",
+      "company": "Stylam Industries Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Stylam Industries Q2 2026 Earnings: Double-Digit Revenue Growth and ₹88.25 EPS Lift Shares 2.37% - Special Dividend Alert",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUHhXaWl1VjJWQnUtTTl6YV9zS0ZEZy15dmZzUF90TEZQNjFwZzJZUVd2Y1VfN0JLaGF6LVphT21HYWtqU1EyUTlEbjNMQkd4SW5UTUh3NFdlMm5HcW9YZEVaSjV3X0NfZERpRHpmSmZkRUE3SEZCR09DTS1VM3FLTE5KemRQRTdCcVpBU3NFVGhnSE5hSHA5SV82a0x0NlM0ZTBSOWFkaUE2azNER0tvRkdtTU9PRFlPbU5LOXZoWkxLSFV0ekE1Rkk3aWl5UQ?oc=5",
+      "source": "siam.in",
+      "date": "2026-09-23T05:33:38.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Stylam Industries Q2 2026 shows double-digit revenue growth and announces special dividend.",
       "enriched": true
     },
     {
@@ -1433,6 +1511,26 @@
       "importance": "high",
       "mood": "neutral",
       "takeaway": "Promoters fully exited Stylam Industries by selling entire stake to Aica Kogyo.",
+      "enriched": true
+    },
+    {
+      "id": "n646b4443a460",
+      "ticker": "CURRENT",
+      "company": "Current Infraprojects Limited",
+      "sector": "Construction",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Current Infraprojects Secures Rs 10.42 Cr Order for 3 MW Rooftop Solar Project",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU1FxMGdzd0pPRkNSNWhoN3FnY0ZrNGpxZU50clJyU1JqUl9FclYxV3l0TkRlN0k3QXFtMmdXeTZsdjlIUVJ4US1kcjhYdXN6QWxDNTBhY1VuVzRBajY1ellQanNRUkhhcHk3NFV5MXBadVR5SUtvRlAtdy1ZSVNGOG00VTBqcnlTc3RtTzNFWkJJNTcwUENKRUFpMWhzaDEzb2d2WDRhblhYR3o0YnRfT2hCSldRaWVIVlY4eHJDYw?oc=5",
+      "source": "First India",
+      "date": "2026-09-20T03:04:03.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Current Infraprojects wins Rs 10.42 crore order for 3 MW rooftop solar project.",
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -3652,7 +3750,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Advait Greenergy secured ₹116 crore order from KPI Green Energy for 200 MW solar project in Rajasthan.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -5066,7 +5164,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Vivid Electromech secured ₹30.13 crore order from STT Global Data Centres for data centre work.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -10254,6 +10352,25 @@
       "enriched": true
     },
     {
+      "id": "n20ea2025b13b",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries India Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Solar Industries Q2 2026 Earnings: Revenue Growth of 30.6% Drives EPS of ₹185.39 - Earnings Forecast Report",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGVmUUMtNk9UQTMwZ184eUFidE8zbDZadk5NcF9Fbm85SW5adldsanFoTHFzSEdobTF5OWJCMVlTRnZCWWItekZqSGRiZElSRGJsMjJ3c25KQVR1Unc1SGZzUnAxeDRRMDVxVXJFQWNRRWlCSnZ4MG00Zmo3U3Zzc3RMeVVJeW5OcnJVaHh2ajFVX1JmeE56OV9CbDI4bHl1cVJFYTBqZzhWWEZWQVNsd3FGLUlnYlB4anc?oc=5",
+      "source": "siam.in",
+      "date": "2026-08-16T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Solar Industries reports 30.6% revenue growth with earnings of ₹185.39 per share in Q2.",
+      "enriched": true
+    },
+    {
       "id": "n5c1f081b7360",
       "ticker": "SONATSOFTW",
       "company": "Sonata Software Limited",
@@ -10386,7 +10503,8 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Chemical company bagged Rs. 39 crore order from Solar Industries.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n7d4efb9ab13e",
@@ -11180,6 +11298,27 @@
       "enriched": true
     },
     {
+      "id": "n71dab55152b8",
+      "ticker": "STYLAMIND",
+      "company": "Stylam Industries Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Stylam Industries Q2 2026 Earnings: Revenue Grows 10.17% YoY, EPS at ₹88.25 - Trough Earnings Signal",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdXRNanRSYS05VjRxSTVob1A5MTZZempjTDZQUFVLOXpJbVQyXzJFdmlzMGlJekpBUU0zcDdrcHBHTWFWaGZNNURsS1lJdGlBcTJzMWpab1V3eE5JOVVqR3JKMDN3M2lpbk83TmxvMTJWUGo5bG1jWmdkODFhenZIZmJQb0hZamlxczBOLUtZYTh0dXlGWEJQb1dDYXdBODA4ZnMyUEZlMDVkQUNDUlItMThYaw?oc=5",
+      "source": "siam.in",
+      "date": "2026-07-29T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Stylam Industries Q2 revenue up 10% year-on-year with earnings per share at ₹88.25.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
       "id": "n37d1ff2f07c2",
       "ticker": "KSHINTL",
       "company": "KSH International Limited",
@@ -11235,27 +11374,6 @@
       "importance": "low",
       "mood": "positive",
       "takeaway": "KPIT Technologies proposes ₹5.25 dividend at AGM scheduled for August 31.",
-      "enriched": true
-    },
-    {
-      "id": "n71dab55152b8",
-      "ticker": "STYLAMIND",
-      "company": "Stylam Industries Limited",
-      "sector": "Consumer Durables",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Stylam Industries Q2 2026 Earnings: Revenue Grows 10.17% YoY, EPS at ₹88.25 - Trough Earnings Signal",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdXRNanRSYS05VjRxSTVob1A5MTZZempjTDZQUFVLOXpJbVQyXzJFdmlzMGlJekpBUU0zcDdrcHBHTWFWaGZNNURsS1lJdGlBcTJzMWpab1V3eE5JOVVqR3JKMDN3M2lpbk83TmxvMTJWUGo5bG1jWmdkODFhenZIZmJQb0hZamlxczBOLUtZYTh0dXlGWEJQb1dDYXdBODA4ZnMyUEZlMDVkQUNDUlItMThYaw?oc=5",
-      "source": "siam.in",
-      "date": "2026-07-29T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Stylam Industries Q2 revenue up 10% year-on-year with earnings per share at ₹88.25.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -11802,6 +11920,27 @@
       "enriched": true
     },
     {
+      "id": "n728e5d666d7a",
+      "ticker": "STYLAMIND",
+      "company": "Stylam Industries Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "STYLAMIND Q2 2026 Earnings: Strong Revenue Growth Drives Robust EPS Performance - EPS Consistency Score",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYkFEVjJvQm1RSUNQSkp6VzB2bzNBRFA3cUlxYUtDVmtSSDEwR1Z6OS1jLUtac044b3FUaTVPemxrYW52RGMzV3R1Q3BCVTlCODYxUUdHUmk0d2xMa1RqWW1NR3YwUGZmQTRGNVJhZTJPRWprMlRjM2dGVk5ycXRZZkw0QldDT1VFOFN1OFNRcnl1bG05amEzN3NiMlA0VkUzQ1NzMEhwQXFialdLWno2X3VzQmhTXzhRX0VqcXdR?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-12T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Stylam Industries Q2 2026 shows strong revenue growth and robust earnings per share.",
+      "enriched": true,
+      "sources_count": 2
+    },
+    {
       "id": "n4211a7fc07af",
       "ticker": "OMNI",
       "company": "Omnitech Engineering Limited",
@@ -11899,27 +12038,6 @@
       "takeaway": "Sai Life Sciences reported 29.4% revenue growth year-on-year in Q2 FY2026 with EPS of ₹16.43.",
       "sources_count": 2,
       "enriched": true
-    },
-    {
-      "id": "n728e5d666d7a",
-      "ticker": "STYLAMIND",
-      "company": "Stylam Industries Limited",
-      "sector": "Consumer Durables",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "STYLAMIND Q2 2026 Earnings: Strong Revenue Growth Drives Robust EPS Performance - EPS Consistency Score",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYkFEVjJvQm1RSUNQSkp6VzB2bzNBRFA3cUlxYUtDVmtSSDEwR1Z6OS1jLUtac044b3FUaTVPemxrYW52RGMzV3R1Q3BCVTlCODYxUUdHUmk0d2xMa1RqWW1NR3YwUGZmQTRGNVJhZTJPRWprMlRjM2dGVk5ycXRZZkw0QldDT1VFOFN1OFNRcnl1bG05amEzN3NiMlA0VkUzQ1NzMEhwQXFialdLWno2X3VzQmhTXzhRX0VqcXdR?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-12T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Stylam Industries Q2 2026 shows strong revenue growth and robust earnings per share.",
-      "enriched": true,
-      "sources_count": 2
     },
     {
       "id": "nf74e489caebd",
@@ -12333,6 +12451,25 @@
       "sources_count": 2
     },
     {
+      "id": "n74e69575a12c",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries India Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Solar Industries Q2 2026 Earnings: Robust Revenue Growth of 30% Driven by Strong Demand Across Segments - Capex Guidance",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcnpvSkQ3NXBhRHRSbmIxVnpWRktBeUJwX3piaEl4b2Q1YldwVzhldjhzQ3RxYTdzLVlJZVVjMTJTcmRfVG5BSGNRTk1DR0RBMFBnQkFOc3Nyc01LM2tvaUZKMjFtOUtpZnZtYVhNODhVV01ER2VySUZWNmFNeTBmbzJ0UUVaVlV3MXI2MmFXcFlpTnNGZC1tb3JzMTBqS2s5WUs1N0tXWnhsNk5rVmR5YmtzZXZkRUJKaG9nTVVLbm1MNHRhRHNRVERmRWdVX1hwRUlVVFNKWm5UV1E?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-10T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Solar Industries reports strong Q2 revenue growth of 30% driven by demand across all business segments.",
+      "enriched": true
+    },
+    {
       "id": "n5a8f200da82e",
       "ticker": "JUBLCPL",
       "company": "Jubilant Agri and Consumer Products Limited",
@@ -12351,25 +12488,6 @@
       "mood": "positive",
       "takeaway": "Jubilant Agri Q2 2026 revenue surges 21.23% year-on-year with EPS at ₹83.31.",
       "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n74e69575a12c",
-      "ticker": "SOLARINDS",
-      "company": "Solar Industries India Limited",
-      "sector": "Chemicals",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Solar Industries Q2 2026 Earnings: Robust Revenue Growth of 30% Driven by Strong Demand Across Segments - Capex Guidance",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcnpvSkQ3NXBhRHRSbmIxVnpWRktBeUJwX3piaEl4b2Q1YldwVzhldjhzQ3RxYTdzLVlJZVVjMTJTcmRfVG5BSGNRTk1DR0RBMFBnQkFOc3Nyc01LM2tvaUZKMjFtOUtpZnZtYVhNODhVV01ER2VySUZWNmFNeTBmbzJ0UUVaVlV3MXI2MmFXcFlpTnNGZC1tb3JzMTBqS2s5WUs1N0tXWnhsNk5rVmR5YmtzZXZkRUJKaG9nTVVLbm1MNHRhRHNRVERmRWdVX1hwRUlVVFNKWm5UV1E?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-10T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Solar Industries reports strong Q2 revenue growth of 30% driven by demand across all business segments.",
       "enriched": true
     },
     {
@@ -14065,45 +14183,6 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Sky Gold March quarter shows stable performance despite gold price volatility.",
-      "enriched": true
-    },
-    {
-      "id": "n6f798f6498b4",
-      "ticker": "SONATSOFTW",
-      "company": "Sonata Software Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "NCLT Chennai Sanctions Merger Of Encore IT Services Solution With Sonata Software",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQUTBEc01pb1dXRkI0NjhFV0o3UWZ0dXE5djU5NC11MnlvcnpPS3dlRVE2WlBFZVFIRGFBRkE1VjhVZ3huQnRhVk9vWjNqR2FLeFc3SDBkX0NPS1N3OFZTWkY2VnA1czhnZW5yUE5FcXpmTW5ZVXpNMW5zM1dhQjdSX0xGaDRoTExxNkozeW1RckpyXzVhWnVBX3NzSllEY05HVEJiRGxIZVAzM0kyT0NRRWV6b0hfRERlZHBEMm5PT2hjcGxJZkFxdGgwRHd2VDVyTUdOYTdZVlV6cERsel95Tm1jcnF0TzJQYzVXblJFc1g1UmZ6aUlkaGo2T3lHSDRMR19z0gGIAkFVX3lxTE9GMDAyUHpqS3A5a0V4NDdSU1ExcnRraHhRVGM3T1ZPdHRFaVFiVGxWcHUwNVgtdXdneG5fRlBDM1FVaVRyOXlPZG5XTWNtemJWOWhBa1JIUXU0cnhsek1wWHhZNXk1ZFlJdHJlZXh2MmRuWDNEY0otUk9fSFNzZ3Bnc2ZtUHM4WUlmVG44eWNTWW5sSHdqOVpVUjlxdXFYRF9UXzZ4MTY1MzFsa3V6QmpNMV9Jd1ZkUndpVTh3S3FkMnZBWkNmbkNMazdJVDFHVV9JSUJnTjB0NDFiai1EMFRfR3hKS1JTaVdUczgwRmNNamZlbGRZUHZfczVYVmRpZlJBZ3VTaHBTOA?oc=5",
-      "source": "LiveLawBiz",
-      "date": "2026-06-19T07:00:00.000Z",
-      "topic": "Deals",
-      "keyword": "Merger",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "NCLT Chennai approves merger of Encore IT Services with Sonata Software.",
-      "enriched": true
-    },
-    {
-      "id": "ne2e3a8da9ea5",
-      "ticker": "STLTECH",
-      "company": "Sterlite Technologies Limited",
-      "sector": "Telecommunication",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Sterlite Technologies Q2 FY26 Earnings: Revenue growth of 18.74% drives quarterly results",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUHVmTktGS0dUcWk0TElmM09nQWJmV0FON2hBTDk3dkhQME9TcTl6OEVRdnBzd0ZBMW9wcmFHRmUyR3Fndko4TkY5a2ZDQ216ZFdKa2VzaHB4aU9sUmFmUHZ0UVljRmt1LWdQc2d0SDVLdlQ3d2cyZDJMS1ExeVF5bFVrbndWVmJvdkdOUDVDZHNpa3hVVm1yajZ5QjJidnNzbW1JcWFRcWl4a2VTT1BWQm4zeUN4VzNnWHk5NXJtVjREeGhxY0E?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-19T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Sterlite Technologies Q2 revenue grew 18.74%.",
       "enriched": true
     }
   ]
