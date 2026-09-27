@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-09-27T08:44:45.275Z",
+  "generated_at": "2026-09-27T18:50:06.944Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 124,
-    "watchlist": 694,
+    "watchlist": 697,
     "universe": 36,
-    "total": 730
+    "total": 733
   },
   "items": [
     {
-      "id": "ndbac1d406588",
+      "id": "n8f03f4fa38ae",
       "ticker": "MSECL",
       "company": "Monarch Surveyors and Engineering Consultants Ltd",
       "sector": "Services",
       "scope": [
         "watchlist"
       ],
-      "title": "Monarch Surveyors and Engineering Consultants receives Rs 2-cr work order | Capital Market News - Business Standard",
-      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-and-engineering-consultants-receives-rs-2-cr-work-order-126082200734_1.html",
+      "title": "Monarch Surveyors and Engineering gains on bagging Rs 2-cr work order | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/markets/capital-market-news/monarch-surveyors-and-engineering-gains-on-bagging-rs-2-cr-work-order-126082400282_1.html",
       "source": "business-standard.com",
-      "date": "2026-09-27T08:35:51.201Z",
+      "date": "2026-09-27T18:42:37.327Z",
       "topic": "Orders",
       "keyword": "Order",
       "importance": "low",
       "mood": "positive",
-      "takeaway": "Monarch Surveyors received a Rs 2 crore work order.",
+      "takeaway": "Monarch Surveyors won a Rs 2 crore work order.",
       "sources_count": 2,
       "enriched": true
     },
@@ -64,7 +64,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Laxmi Dental held its quarterly earnings call discussing Q1 2027 results.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -712,7 +712,8 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Landmark Cars partners with OLX India to create leading pre-owned car platform.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n344069495d96",
@@ -1514,26 +1515,6 @@
       "enriched": true
     },
     {
-      "id": "n646b4443a460",
-      "ticker": "CURRENT",
-      "company": "Current Infraprojects Limited",
-      "sector": "Construction",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Current Infraprojects Secures Rs 10.42 Cr Order for 3 MW Rooftop Solar Project",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU1FxMGdzd0pPRkNSNWhoN3FnY0ZrNGpxZU50clJyU1JqUl9FclYxV3l0TkRlN0k3QXFtMmdXeTZsdjlIUVJ4US1kcjhYdXN6QWxDNTBhY1VuVzRBajY1ellQanNRUkhhcHk3NFV5MXBadVR5SUtvRlAtdy1ZSVNGOG00VTBqcnlTc3RtTzNFWkJJNTcwUENKRUFpMWhzaDEzb2d2WDRhblhYR3o0YnRfT2hCSldRaWVIVlY4eHJDYw?oc=5",
-      "source": "First India",
-      "date": "2026-09-20T03:04:03.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Current Infraprojects wins Rs 10.42 crore order for 3 MW rooftop solar project.",
-      "sources_count": 3,
-      "enriched": true
-    },
-    {
       "id": "n26cd67937802",
       "ticker": "GMMPFAUDLR",
       "company": "GMM Pfaudler Limited",
@@ -1705,6 +1686,26 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Solar Group acquired Omnia for $1.36 billion, expanding its explosives and defence business globally.",
+      "enriched": true
+    },
+    {
+      "id": "n415272bdd232",
+      "ticker": "CURRENT",
+      "company": "Current Infraprojects Limited",
+      "sector": "Construction",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Current Infraprojects Secures Rs 10.42 Cr Bank Note Press Solar Order",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSXlsb0ZrRUpqUloyUkhjR08zZEtRUXVwbVlTLWxBc2FsZXFnMUVjMjdlQ25fZ1FmdXAyZk5jWjIxNFQtdkV3S1JMcnpSS1ZaUFkwZzVzaWpWcExWZWF3anRlQXBNd0I1LWtsZUIwMFRKY3h4U245WlAzVng5M0w1LTM5enRMN1d3bUtFS2hyLVdLQ25aRUl1WFltZ2hsVHZGTFVVd0NoTld2TWpRanJNRWJIeWNKVGJZaEctOTBB0gHLAUFVX3lxTE1HS0thTV9xMTFJLWtLa3dVM0ZhWWZIMjRoM2wxTXM2MHhEQ2N3MlpGY1dnZXdsOWNUN2NWZ3N0V3lIVm5ZaTc5eWtHcmNXWmlQRHd2Y3VwZE9vMTVNTGhUV19wTkNXeWVGTGVxQ1RtT1owcC1VMjJzSEFOMlJfLWl2SHR0ZTNwZVRyTDdhS3o5eGhqMHlSd1g2RzBvTFNVUFlKa2s2M1A5LVhleGsyVTJuM0NKa3E0dXVILWNYdktVVm5FREN1ZUV1S2Fj?oc=5",
+      "source": "outlookbusiness.com",
+      "date": "2026-09-19T07:12:19.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Current Infraprojects won a Rs 10.42 crore solar project order from Bank Note Press.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -3435,7 +3436,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "DEE Development Engineers' order book stands at ₹2,435.61 crore.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -6593,7 +6594,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Zen Technologies secured ₹295 crore order from Defence Ministry for simulators.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -7976,7 +7977,7 @@
       "mood": "positive",
       "takeaway": "Vivo Mobile India forms strategic joint venture with Dixon Technologies.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "ndd027ba0ddd7",
@@ -9179,6 +9180,25 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Solar Industries denies rumors of acquisition talks in South Africa.",
+      "enriched": true
+    },
+    {
+      "id": "n56df3f023640",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "E2E Networks Q2 2026 Earnings: Strong Revenue Growth Overshadowed by Negative EPS - Earnings Cycle Outlook",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQjdlZTJKb0NORUpYZzJ0SWJybUZXUy01TGlHa04xS1BVRk5IaldjOGgzb1ZFZWFOM0E5NTZEUGZCYlVneFctRVoza0hWLUdiOTFXSnRhSkJFZGM5aG96MEZNaFpGMkZqNEtHM3A2eW9SSnNRcjQ3c2hDeEI5eEoySkU0OGZ4Ry1KZXcwblpHRy0xZ0xUTEhGelNEV2xLd2hUNndXRUQ3eVg1TjIyeEZaVkowcmlrbEl4ekZsbkU0SjZuQQ?oc=5",
+      "source": "siam.in",
+      "date": "2026-09-03T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "negative",
+      "takeaway": "E2E Networks reported strong revenue growth but posted negative earnings per share in Q2 FY26.",
       "enriched": true
     },
     {
@@ -10504,7 +10524,7 @@
       "mood": "positive",
       "takeaway": "Chemical company bagged Rs. 39 crore order from Solar Industries.",
       "enriched": true,
-      "sources_count": 2
+      "sources_count": 3
     },
     {
       "id": "n7d4efb9ab13e",
@@ -10659,6 +10679,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Shivalik Bimetal Controls beat earnings expectations, analysts updated forecasts.",
+      "enriched": true
+    },
+    {
+      "id": "n2fd2246d2559",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "DEE Development Engineers Q1 Results: Earnings call audio released",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcFpxcE1UVVRfaU1oTDcxa01pU0F0UWMyM3YxMU9CQnZ3OXlweW9zMm9nNDBzemxMeHFEcWpwb3JEaUZXenVqeEdUMl9HMzREYl9HdE9NQnNLWG5oREU2LVk5NVNkb0hWNzBvLXVmam8tcDBWSmhNV2I1SHZlT2hCN2NKOHNiRDc1cFNJeTJtYjh3S255LU1VdXZudTZ6TlVqY0Jid3lCUFFXVzVEdmgtU0xxZDZLcmgyMTJHeFR5aw?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-08-07T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "DEE Development Engineers released its Q1 earnings call audio.",
       "enriched": true
     },
     {
@@ -10987,6 +11026,25 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "SBI Funds Management scheduled Q1 FY27 earnings call for August 3.",
+      "enriched": true
+    },
+    {
+      "id": "n915506176450",
+      "ticker": "LENSKART",
+      "company": "Lenskart Solutions Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Lenskart Solutions Q2 Results: Earnings call scheduled for Aug 12",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOC13TmxNNFF5Uy1xUEgtcXJKV0Y4Rlp2M0RyVTJkMmc0ZkFlUWdRd1U2eTVnSFh4dWhsd0hTYVRleENlX2JQRGNxZktsMDZtcFZ4NWpLV0NOVE1ORUczMFQzWTdWODUzbXlWdk5rUHAwQS13NkhQMHV6cUdXbnhYaFRMZWp4cHpscXJlcmxMckFaSHROcXo3bllRVlVsNUFPZWJVZXZENEdEOWxhR1R5Nk5ES05DcVZFN3psUUVR?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-08-03T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Lenskart Solutions scheduled its Q2 earnings call for August 12.",
       "enriched": true
     },
     {
@@ -11532,25 +11590,6 @@
       "enriched": true
     },
     {
-      "id": "n4436df7be080",
-      "ticker": "SURYAROSNI",
-      "company": "Surya Roshni Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Surya Roshni wins Rs 68.11 crore order from undisclosed client for OCTG supply",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM1Exeld3X1h5WFZWWVJ5MEdSY2FtUlBSU0htbDVCc0xIdk9rMkoycElUNUJ3MzhSMXRKZUk2YWxKRTdxV3N3YzBaby1xaGt5Qmg3S3dHVHl1NjV0V1N4dmtPamdraDNOdXl6MHJEV0xUYnd3WEFMOEJqTUJjNk42by15Qkd1UENEZzdWMVZLLUpsX2RtVl9Lc21iVW90ejZBVVJiNWhiT3hzZFg0SzBLTk1zOEZEeXZHdDh0dldJUFZ0dERTQW9LV2hHQXdIWFlT?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-07-24T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Surya Roshni secured ₹68.11 crore order for OCTG supply.",
-      "enriched": true
-    },
-    {
       "id": "n1e1fffd69b25",
       "ticker": "ZENTEC",
       "company": "Zen Technologies Limited",
@@ -11586,6 +11625,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Pon Pure Chemicals is expanding capacity and focusing on innovation in specialty chemicals.",
+      "enriched": true
+    },
+    {
+      "id": "n4436df7be080",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Surya Roshni wins Rs 68.11 crore order from undisclosed client for OCTG supply",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM1Exeld3X1h5WFZWWVJ5MEdSY2FtUlBSU0htbDVCc0xIdk9rMkoycElUNUJ3MzhSMXRKZUk2YWxKRTdxV3N3YzBaby1xaGt5Qmg3S3dHVHl1NjV0V1N4dmtPamdraDNOdXl6MHJEV0xUYnd3WEFMOEJqTUJjNk42by15Qkd1UENEZzdWMVZLLUpsX2RtVl9Lc21iVW90ejZBVVJiNWhiT3hzZFg0SzBLTk1zOEZEeXZHdDh0dldJUFZ0dERTQW9LV2hHQXdIWFlT?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-07-24T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Surya Roshni secured ₹68.11 crore order for OCTG supply.",
       "enriched": true
     },
     {
@@ -12099,26 +12157,6 @@
       "enriched": true
     },
     {
-      "id": "n028b0769b644",
-      "ticker": "SURYAROSNI",
-      "company": "Surya Roshni Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Surya Roshni Ltd secures export order",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VdXA1ZGtZaVlrYXk5QV9GbXd0cnEyTWdhcXVPanRRR2NPSEtSY2F0VjZkVXdGb2ctMFk2TzBtTXBHY0NtYTZVZ3dSNkhaX0s1aFlnUVJWV21TdmozWDI0?oc=5",
-      "source": "EquityBulls",
-      "date": "2026-07-11T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Surya Roshni secured an export order.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "n9a9292390ab4",
       "ticker": "AURIONPRO",
       "company": "Aurionpro Solutions Limited",
@@ -12310,6 +12348,26 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Varun Beverages Q1 revenue up 7.1% with improved operational efficiency.",
+      "enriched": true
+    },
+    {
+      "id": "n028b0769b644",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Surya Roshni Ltd secures export order",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VdXA1ZGtZaVlrYXk5QV9GbXd0cnEyTWdhcXVPanRRR2NPSEtSY2F0VjZkVXdGb2ctMFk2TzBtTXBHY0NtYTZVZ3dSNkhaX0s1aFlnUVJWV21TdmozWDI0?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-07-11T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Surya Roshni secured an export order.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -13284,7 +13342,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Faze Three received government approval under PLI scheme for man-made fiber fabrics production.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
