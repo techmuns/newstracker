@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T20:54:47.213Z",
+  "generated_at": "2026-09-29T09:08:45.991Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,66 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "fe2bbdc508d28",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "exchange": "NSE",
+      "date": "2026-09-29T14:28:36.000Z",
+      "category": "Shareholders meeting",
+      "title": "Apsis Aerocom Limited has submitted the Exchange a copy Scrutinizers report of Annual General Meeting held on September 26, 2026. Further, the company has informed the Exchange regarding voting results.",
+      "url": "https://nsearchives.nseindia.com/corporate/APSIS2025_29092026142807_E_Voting_Scrutinizers_report_AGM_26092026_Signed.pdf"
+    },
+    {
+      "id": "fbe72139e51d6",
+      "ticker": "MVELECTRO",
+      "company": "MV Electrosystems Limited",
+      "exchange": "NSE",
+      "date": "2026-09-29T12:44:50.000Z",
+      "category": "Shareholders meeting",
+      "title": "MV Electrosystems Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 29, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/MVELECTROSYSTEMS_29092026124400_Proceedings_of_AGM.pdf"
+    },
+    {
+      "id": "ff96ed6ed8834",
+      "ticker": "FLYSBS",
+      "company": "FlySBS Aviation Limited",
+      "exchange": "NSE",
+      "date": "2026-09-29T12:29:28.000Z",
+      "category": "Disclosure",
+      "title": "FlySBS Aviation Limited has informed the Exchange about General Updates - Shareholders Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/FLYSBS_29092026122614_InvestorPresentation.pdf"
+    },
+    {
+      "id": "f2d685f1b2a16",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "exchange": "NSE",
+      "date": "2026-09-29T12:18:21.000Z",
+      "category": "ESOP/ESOS/ESPS",
+      "title": "Meesho Limited has informed the Exchange regarding Grant of 20857 Options.",
+      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_29092026121749_MLIntimationGrantofESOP29Sep2026.pdf"
+    },
+    {
+      "id": "f0e4b02724025",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "exchange": "NSE",
+      "date": "2026-09-29T12:15:04.000Z",
+      "category": "ESOP/ESOS/ESPS",
+      "title": "Meesho Limited has informed the Exchange regarding Allotment of 1228752 Shares.",
+      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_29092026121437_MLIntimationAllotmentofESOPs29Sep2026.pdf"
+    },
+    {
+      "id": "f4415ededb0ba",
+      "ticker": "INDOFARM",
+      "company": "Indo Farm Equipment Limited",
+      "exchange": "NSE",
+      "date": "2026-09-29T12:00:06.000Z",
+      "category": "Trading Window",
+      "title": "Indo Farm Equipment Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/IFEL_29092026115959_Intimation_Letter_Closure_of_Trading_Window.pdf"
+    },
     {
       "id": "f166c9ca5ff49",
       "ticker": "SETL",
@@ -1238,6 +1298,16 @@
       "url": "https://nsearchives.nseindia.com/corporate/APSIS2025_24092026171405_Dislcosure_under_Reg30_Award_24092026.pdf"
     },
     {
+      "id": "fca3e7cf2fafe",
+      "ticker": "VBL",
+      "company": "Varun Beverages Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T17:06:24.000Z",
+      "category": "Change in Directors",
+      "title": "Varun Beverages Limited has informed the Exchange about Resignation of Director/KMP/SMP",
+      "url": "https://nsearchives.nseindia.com/corporate/VBL_ROID_98921_KMP_Doc.zip"
+    },
+    {
       "id": "fa47079c9724f",
       "ticker": "GROWW",
       "company": "Billionbrains Garage Ventures Limited",
@@ -1246,6 +1316,16 @@
       "category": "Trading Window",
       "title": "Billionbrains Garage Ventures Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
       "url": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_24092026170219_TradingWindow_SD.pdf"
+    },
+    {
+      "id": "fbc22d4c33b6c",
+      "ticker": "VBL",
+      "company": "Varun Beverages Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T17:00:59.000Z",
+      "category": "Change in Directors",
+      "title": "Intimation of change in Senior Management Personnel of the Company",
+      "url": "https://nsearchives.nseindia.com/corporate/VBL_24092026170034_SMPChange.pdf"
     },
     {
       "id": "f51522e08a4c8",
@@ -2066,6 +2146,16 @@
       "category": "Investor Presentation",
       "title": "Anawil Wire and Engineering Limited has informed the Exchange about Schedule of meet",
       "url": "https://nsearchives.nseindia.com/corporate/ANAWIL_21092026172934_Intimation.pdf"
+    },
+    {
+      "id": "f93e8771bb66d",
+      "ticker": "VOEPL",
+      "company": "Virtuoso Optoelectronics Limited",
+      "exchange": "NSE",
+      "date": "2026-09-21T16:39:53.000Z",
+      "category": "Disclosure",
+      "title": "Virtuoso Optoelectronics Limited has informed the Exchange about General Updates",
+      "url": "https://nsearchives.nseindia.com/corporate/VIRTUOSO_21092026163939_BSENSE_Disclosure.pdf"
     },
     {
       "id": "f2560e0d4428f",
@@ -19916,96 +20006,6 @@
       "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
       "title": "Dam Capital Advisors Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
       "url": "https://nsearchives.nseindia.com/corporate/DAMCAPITAL_09072026153650_Intimation_of_Confirmation_Certificate_Signed.pdf"
-    },
-    {
-      "id": "fcc7f25554515",
-      "ticker": "HARIOMPIPE",
-      "company": "Hariom Pipe Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-07-09T15:30:32.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Hariom Pipe Industries Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/hariompipes_09072026152758_Regulation_74_5_30062026_Signed.pdf"
-    },
-    {
-      "id": "ffe80cc4cbdb4",
-      "ticker": "SHAILY",
-      "company": "Shaily Engineering Plastics Limited",
-      "exchange": "NSE",
-      "date": "2026-07-09T14:40:22.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Shaily Engineering Plastics Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/Shailyengineering_09072026143953_Covering_Letter.pdf"
-    },
-    {
-      "id": "fca400c8037a2",
-      "ticker": "FLYSBS",
-      "company": "FlySBS Aviation Limited",
-      "exchange": "NSE",
-      "date": "2026-07-09T14:31:15.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "FlySBS Aviation Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/FLYSBS_09072026143050_Reg_74_5_-sd.pdf"
-    },
-    {
-      "id": "fc111b352fc5c",
-      "ticker": "MANINDS",
-      "company": "Man Industries (India) Limited",
-      "exchange": "NSE",
-      "date": "2026-07-09T13:37:39.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Man Industries (India) Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/MANINDS_09072026133728_MIIL_Reg_74_5__SEBI_DP_Reg_30062026.pdf"
-    },
-    {
-      "id": "fdfbe05035302",
-      "ticker": "EPIGRAL",
-      "company": "Epigral Limited",
-      "exchange": "NSE",
-      "date": "2026-07-09T13:30:48.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Epigral Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/MFL_09072026132957_EPLReg7430062026.pdf"
-    },
-    {
-      "id": "facf37aa0bc91",
-      "ticker": "FAZE3Q",
-      "company": "Faze Three Limited",
-      "exchange": "NSE",
-      "date": "2026-07-09T12:46:58.000Z",
-      "category": "Credit Rating",
-      "title": "Faze Three Limited has informed the Exchange about Credit Rating",
-      "url": "https://nsearchives.nseindia.com/corporate/FAZETHREE_09072026122912_Submission.pdf"
-    },
-    {
-      "id": "f58b367ddfdd1",
-      "ticker": "MASFIN",
-      "company": "MAS Financial Services Limited",
-      "exchange": "NSE",
-      "date": "2026-07-09T11:29:15.000Z",
-      "category": "Allotment of Securities",
-      "title": "MAS Financial Services Limited has informed the Exchange regarding allotment of 25000 securities pursuant to Non Convertible Securities at its meeting held on July 09, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/MASFIN_09072026112849_Final.pdf"
-    },
-    {
-      "id": "f2a9835a01dc2",
-      "ticker": "ONESOURCE",
-      "company": "Onesource Specialty Pharma Limited",
-      "exchange": "NSE",
-      "date": "2026-07-09T10:49:42.000Z",
-      "category": "Disclosure",
-      "title": "Onesource Specialty Pharma Limited has informed the Exchange regarding 'Intimation Under Regulation 30 Of SEBI (Listing Obligations And Disclosure Requirements) Regulation, 2015'.",
-      "url": "https://nsearchives.nseindia.com/corporate/ONESOURCECDMO_09072026104919_OS_SE_Intimation_Reg_30_09July26.pdf"
-    },
-    {
-      "id": "fcfe90784de49",
-      "ticker": "SGMART",
-      "company": "SG Mart Limited",
-      "exchange": "NSE",
-      "date": "2026-07-09T09:35:20.000Z",
-      "category": "Spurt in Volume",
-      "title": "Significant increase in volume has been observed in SG Mart Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the market place so that the interest of the investors is safeguarded, had written to the company. SG Mart Limited has submitted their response.",
-      "url": "https://nsearchives.nseindia.com/corporate/SGMART_09072026093352_Clarification-Spurt_in_Volume.pdf"
     }
   ]
 }
