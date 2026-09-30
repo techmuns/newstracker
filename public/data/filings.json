@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T09:05:51.519Z",
+  "generated_at": "2026-09-30T19:43:35.602Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,246 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f710c7a98c23d",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-30T23:56:18.000Z",
+      "category": "Credit Rating",
+      "title": "Sapphire Foods India Limited has informed the Exchange about Credit Rating- Revision",
+      "url": "https://nsearchives.nseindia.com/corporate/SAPPHIRE_30092026235558_NSE.pdf"
+    },
+    {
+      "id": "fbf49c950686d",
+      "ticker": "VBL",
+      "company": "Varun Beverages Limited",
+      "exchange": "NSE",
+      "date": "2026-09-30T21:43:40.000Z",
+      "category": "Disclosure",
+      "title": "Update on the Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 related to Crickley.",
+      "url": "https://nsearchives.nseindia.com/corporate/VBL_30092026214303_Update_Crickely.pdf"
+    },
+    {
+      "id": "fe7453841696a",
+      "ticker": "FLYSBS",
+      "company": "FlySBS Aviation Limited",
+      "exchange": "NSE",
+      "date": "2026-09-30T20:51:32.000Z",
+      "category": "Shareholders meeting",
+      "title": "FlySBS Aviation Limited has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on September 29, 2026. Further, the company has informed the Exchange regarding voting results.",
+      "url": "https://nsearchives.nseindia.com/corporate/FLYSBS_30092026205107_FinalSR.pdf"
+    },
+    {
+      "id": "f78ff246ea747",
+      "ticker": "DENTALKART",
+      "company": "Vasa Denticity Limited",
+      "exchange": "NSE",
+      "date": "2026-09-30T20:28:00.000Z",
+      "category": "Shareholders meeting",
+      "title": "Vasa Denticity Limited has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on September 29, 2026. Further, the company has informed the Exchange regarding voting results.",
+      "url": "https://nsearchives.nseindia.com/corporate/VASADENTICITY_30092026202739_Scrutinizer_Report_Voting_Results_Merged_Uploaded.pdf"
+    },
+    {
+      "id": "f6402ae1079c2",
+      "ticker": "SKYGOLD",
+      "company": "SKY GOLD AND DIAMONDS LIMITED",
+      "exchange": "NSE",
+      "date": "2026-09-30T19:21:25.000Z",
+      "category": "Disclosure",
+      "title": "The members of the Company at its 18th AGM held on Wednesday, 30th September 2026 has re-appointted M/s M S K A & Associates LLP (Formerly known as M S K A & Associates) as a Statutory Auditor for a term of first five years, commencing from FY 2026-27 to FY 2030-31.",
+      "url": "https://nsearchives.nseindia.com/corporate/SKYGOLD_30092026192113_CoveringStatutoryAuditor.pdf"
+    },
+    {
+      "id": "fb76ea75066fb",
+      "ticker": "CMLL",
+      "company": "Caliber Mining and Logistics Limited",
+      "exchange": "NSE",
+      "date": "2026-09-30T19:09:09.000Z",
+      "category": "Shareholders meeting",
+      "title": "Caliber Mining and Logistics Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/CMLL_30092026190843_Outcome_of_AGM_CMLL.pdf"
+    },
+    {
+      "id": "f87294cb85748",
+      "ticker": "MVELECTRO",
+      "company": "MV Electrosystems Limited",
+      "exchange": "NSE",
+      "date": "2026-09-30T18:40:20.000Z",
+      "category": "Shareholders meeting",
+      "title": "MV Electrosystems Limited has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on September 29, 2026. Further, the company has informed the Exchange regarding voting results.",
+      "url": "https://nsearchives.nseindia.com/corporate/MVELECTROSYSTEMS_30092026184000_Covering_with_reports.pdf"
+    },
+    {
+      "id": "faafec7b60ca8",
+      "ticker": "SAREGAMA",
+      "company": "Saregama India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-30T18:39:56.000Z",
+      "category": "ESOP/ESOS/ESPS",
+      "title": "The Nomination and Remuneration Committee ('NRC') has approved grant of 10,50,000 Options, to an eligible employee of the Company.",
+      "url": "https://nsearchives.nseindia.com/corporate/SAREGAMA_30092026183944_Signed_ESOP_Intimation_VM.pdf"
+    },
+    {
+      "id": "fea3cef112297",
+      "ticker": "GANESHBE",
+      "company": "Ganesh Benzoplast Limited",
+      "exchange": "NSE",
+      "date": "2026-09-30T18:04:10.000Z",
+      "category": "Trading Window",
+      "title": "Ganesh Benzoplast Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/GANESHBE_30092026180359_Intimationoftradingwindowclosure.pdf"
+    },
+    {
+      "id": "f0b4537f4bebb",
+      "ticker": "GANESHBE",
+      "company": "Ganesh Benzoplast Limited",
+      "exchange": "NSE",
+      "date": "2026-09-30T18:02:12.000Z",
+      "category": "Shareholders meeting",
+      "title": "Ganesh Benzoplast Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/GANESHBE_30092026180137_OutcomeAGM2026.pdf"
+    },
+    {
+      "id": "f3558aef369ea",
+      "ticker": "NORTHARC",
+      "company": "Northern Arc Capital Limited",
+      "exchange": "NSE",
+      "date": "2026-09-30T17:57:18.000Z",
+      "category": "ESOP/ESOS/ESPS",
+      "title": "Northern Arc Capital Limited has informed the Exchange regarding Allotment of 3000 Shares.",
+      "url": "https://nsearchives.nseindia.com/corporate/NACL2020_30092026175703_ESOP_Allotemnt.pdf"
+    },
+    {
+      "id": "fd963db49ef36",
+      "ticker": "VENUSREM",
+      "company": "Venus Remedies Limited",
+      "exchange": "NSE",
+      "date": "2026-09-30T17:33:13.000Z",
+      "category": "Disclosure",
+      "title": "Venus Remedies Limited has informed the Exchange regarding 'Intimation regarding change in Corporate Identification Number (CIN).'.",
+      "url": "https://nsearchives.nseindia.com/corporate/VENUSREM_30092026173216_MOA_Alteration_info_Exchange.pdf"
+    },
+    {
+      "id": "f4b11bc8476ec",
+      "ticker": "SKYGOLD",
+      "company": "SKY GOLD AND DIAMONDS LIMITED",
+      "exchange": "NSE",
+      "date": "2026-09-30T17:31:22.000Z",
+      "category": "Shareholders meeting",
+      "title": "Pursuant to Regulation 30 of SEBI (LODR) Regulations, 2015, please find enclosed the proceedings of the 18th AGM of the Company held on Wednesday, 30th September 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/SKYGOLD_30092026173108_Proceeeding.pdf"
+    },
+    {
+      "id": "f080315f84078",
+      "ticker": "OMNI",
+      "company": "Omnitech Engineering Limited",
+      "exchange": "NSE",
+      "date": "2026-09-30T17:13:05.000Z",
+      "category": "Shareholders meeting",
+      "title": "Omnitech Engineering Limited has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on September 28, 2026. Further, the company has informed the Exchange regarding voting results.",
+      "url": "https://nsearchives.nseindia.com/corporate/OMNITECHENG_30092026171248_Voting_Results_and_Scrutinizer_Report.pdf"
+    },
+    {
+      "id": "fa1a23fd0db57",
+      "ticker": "SKYGOLD",
+      "company": "SKY GOLD AND DIAMONDS LIMITED",
+      "exchange": "NSE",
+      "date": "2026-09-30T17:05:16.000Z",
+      "category": "Shareholders meeting",
+      "title": "In accordance with Regulation 44(3) of SEBI (LODR) Regulations, 2015, please find enclosed the consolidated voting results of remote e-voting and e-voting at the meeting, on the business transacted at the 18th AGM and the report of Scrutinizer''s thereon.",
+      "url": "https://nsearchives.nseindia.com/corporate/SKYGOLD_30092026170456_SR30092026.pdf"
+    },
+    {
+      "id": "facf20702f83c",
+      "ticker": "HARIOMPIPE",
+      "company": "Hariom Pipe Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-30T16:57:25.000Z",
+      "category": "Shareholders meeting",
+      "title": "Hariom Pipe Industries Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/hariompipes_30092026165238_19th_AGM_Proceedings_30092026.pdf"
+    },
+    {
+      "id": "fed104514e33d",
+      "ticker": "JYOTICNC",
+      "company": "Jyoti CNC Automation Limited",
+      "exchange": "NSE",
+      "date": "2026-09-30T16:46:14.000Z",
+      "category": "Shareholders meeting",
+      "title": "Jyoti CNC Automation Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/JYOTICNC_NSE_30092026164602_BSENSEJCAL35thAGMProceedings30092026.pdf"
+    },
+    {
+      "id": "f7c8e165ce691",
+      "ticker": "URBANCO",
+      "company": "Urban Company Limited",
+      "exchange": "NSE",
+      "date": "2026-09-30T16:39:59.000Z",
+      "category": "Trading Window",
+      "title": "Urban Company Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_30092026163951_Tradingwindowclosure30092026.pdf"
+    },
+    {
+      "id": "f39f22fec5ead",
+      "ticker": "JYOTICNC",
+      "company": "Jyoti CNC Automation Limited",
+      "exchange": "NSE",
+      "date": "2026-09-30T16:38:39.000Z",
+      "category": "Trading Window",
+      "title": "Jyoti CNC Automation Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/JYOTICNC_NSE_30092026163830_TradingWindowClosureIntimation.pdf"
+    },
+    {
+      "id": "f439faa2fe4fd",
+      "ticker": "SHIPROCKET",
+      "company": "Shiprocket Limited",
+      "exchange": "NSE",
+      "date": "2026-09-30T16:31:33.000Z",
+      "category": "Shareholders meeting",
+      "title": "Shiprocket Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/SHIPROCKET2011_30092026163112_Proceedings_of_15th_AGM_Shiprocket.pdf"
+    },
+    {
+      "id": "f622d9fccd622",
+      "ticker": "MOBIKWIK",
+      "company": "One Mobikwik Systems Limited",
+      "exchange": "NSE",
+      "date": "2026-09-30T16:08:19.000Z",
+      "category": "Disclosure",
+      "title": "One Mobikwik Systems Limited has informed the Exchange regarding 'Disclosure under Regulation 7(2) of SEBI (Prohibition of Insider Trading) Regulations, 2015'.",
+      "url": "https://nsearchives.nseindia.com/corporate/MOBIKWIK_30092026160721_Promoter_trade_intimation.pdf"
+    },
+    {
+      "id": "fedb8c2041214",
+      "ticker": "KPITTECH",
+      "company": "KPIT Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-09-30T16:06:46.000Z",
+      "category": "Trading Window",
+      "title": "KPIT Technologies Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/KPITTECH_30092026160548_TWC_September_30_2026Signed.pdf"
+    },
+    {
+      "id": "f59fa04a43169",
+      "ticker": "YASHO",
+      "company": "Yasho Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-30T14:49:42.000Z",
+      "category": "Credit Rating",
+      "title": "Yasho Industries Limited has informed the Exchange about Credit Rating- Others",
+      "url": "https://nsearchives.nseindia.com/corporate/8291904474_30092026144934_intimation.pdf"
+    },
+    {
+      "id": "f7577e2b8f06b",
+      "ticker": "DIXON",
+      "company": "Dixon Technologies (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-09-30T14:45:57.000Z",
+      "category": "Disclosure",
+      "title": "Dixon Technologies (India) Limited has informed the Exchange about Execution of Intellectual Property License Agreement between Dixon Electro Appliances Private Limited, a Subsidiary / Joint Venture of Dixon Technologies (India) Limited and Aviat Networks (India) Private Limited",
+      "url": "https://nsearchives.nseindia.com/corporate/DIXON_30092026144453_AnnouncementAviat30092026.pdf"
+    },
     {
       "id": "f1727a722ffd9",
       "ticker": "BALUFORGE",
@@ -19766,246 +20006,6 @@
       "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
       "title": "EMA Partners India Limited has informed the Exchange about Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended June 30, 2026.",
       "url": "https://nsearchives.nseindia.com/corporate/EMAIN_13072026172918_Intimation_under_Reg_74_5_-_June_26_sd.pdf"
-    },
-    {
-      "id": "fa898e9b32763",
-      "ticker": "STYLAMIND",
-      "company": "Stylam Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-07-13T16:57:32.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Stylam Industries Limited has informed the Exchange about Certificate under Regulation 74(5) of Securities and Exchange Board of India (Depositories and Participants) Regulations, 2018.",
-      "url": "https://nsearchives.nseindia.com/corporate/STYLAMIND_13072026165721_Intimations_74_5_.pdf"
-    },
-    {
-      "id": "f17f9a9f2f42a",
-      "ticker": "KSHINTL",
-      "company": "KSH International Limited",
-      "exchange": "NSE",
-      "date": "2026-07-13T16:28:37.000Z",
-      "category": "Investor Presentation",
-      "title": "KSH International Limited has informed the Exchange regarding schedule of multiple one-on-one meetings with analysts/investors.",
-      "url": "https://nsearchives.nseindia.com/corporate/INTERNATIONAL_13072026162434_KSH_Intimation_of_Investor_Meet_multiple_13072026signed.pdf"
-    },
-    {
-      "id": "f49bc9172c26d",
-      "ticker": "PDSL",
-      "company": "PDS Limited",
-      "exchange": "NSE",
-      "date": "2026-07-13T15:57:24.000Z",
-      "category": "Press Release",
-      "title": "PDS Limited has informed the Exchange regarding a press release dated July 13, 2026, titled \"PDS Announces Strategic Sourcing Partnership with a Leading French-Headquartered Global Supermarket\".",
-      "url": "https://nsearchives.nseindia.com/corporate/PDSL_13072026155614_Ltr_Press_Release_13072026.pdf"
-    },
-    {
-      "id": "f8652aedd0e31",
-      "ticker": "JYOTICNC",
-      "company": "Jyoti CNC Automation Limited",
-      "exchange": "NSE",
-      "date": "2026-07-13T15:23:24.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Jyoti CNC Automation Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/JYOTICNC_NSE_13072026152314_DP745stockExchangeIntimationJCALjune2026.pdf"
-    },
-    {
-      "id": "f92fd58209a01",
-      "ticker": "SONACOMS",
-      "company": "Sona BLW Precision Forgings Limited",
-      "exchange": "NSE",
-      "date": "2026-07-13T15:07:46.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Sona Blw Precision Forgings Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_13072026150715_Intimation74.pdf"
-    },
-    {
-      "id": "f30964be69c6f",
-      "ticker": "GOLDIAM",
-      "company": "Goldiam International Limited",
-      "exchange": "NSE",
-      "date": "2026-07-13T14:53:58.000Z",
-      "category": "Bonus",
-      "title": "Goldiam International Limited has informed the Exchange about Bonus- Allotment of bonus equity shares",
-      "url": "https://nsearchives.nseindia.com/corporate/GOLDIAM_13072026145351_Intimation_of_Allotment_of_Bonus_shares-13-7-26.pdf"
-    },
-    {
-      "id": "fec2a4f8c9054",
-      "ticker": "SHRIAHIMSA",
-      "company": "Shri Ahimsa Naturals Limited",
-      "exchange": "NSE",
-      "date": "2026-07-13T14:10:48.000Z",
-      "category": "Investor Presentation",
-      "title": "Shri Ahimsa Naturals Limited has informed the Exchange about Schedule of meet",
-      "url": "https://nsearchives.nseindia.com/corporate/AHIMSANATURALS_13072026141035_Intimation_for_Plant_Visit.pdf"
-    },
-    {
-      "id": "f744fd47b2eae",
-      "ticker": "SBCL",
-      "company": "Shivalik Bimetal Controls Limited",
-      "exchange": "NSE",
-      "date": "2026-07-13T12:55:44.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Shivalik Bimetal Controls Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended June 30, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/SBCL_13072026125535_74_5__merged__4_.pdf"
-    },
-    {
-      "id": "f1dbf9a17e80c",
-      "ticker": "VIVIDEL",
-      "company": "Vivid Electromech Limited",
-      "exchange": "NSE",
-      "date": "2026-07-13T12:52:52.000Z",
-      "category": "Disclosure",
-      "title": "Vivid Electromech Limited has informed the Exchange about Registrar & Share Transfer Agent Update",
-      "url": "https://nsearchives.nseindia.com/corporate/VIVID_13072026125232_Intimation_for_appointment_of_RTA.pdf"
-    },
-    {
-      "id": "f4995fc211dcf",
-      "ticker": "PDSL",
-      "company": "PDS Limited",
-      "exchange": "NSE",
-      "date": "2026-07-13T12:01:05.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "PDS Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/PDSL_13072026120059_Ltr_Reg74_5.pdf"
-    },
-    {
-      "id": "f23d05da1b6fd",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "exchange": "NSE",
-      "date": "2026-07-13T11:01:33.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Apsis Aerocom Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended 30th June 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/APSIS2025_13072026110028_Reg74_5_DP2018_30062026_Signed.pdf"
-    },
-    {
-      "id": "f995777c6a548",
-      "ticker": "MENONBE",
-      "company": "Menon Bearings Limited",
-      "exchange": "NSE",
-      "date": "2026-07-12T14:19:04.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Menon Bearings Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/MENONBE_12072026141832_FILINGREG74SIGNED.pdf"
-    },
-    {
-      "id": "f8ab45ffe2538",
-      "ticker": "VOEPL",
-      "company": "Virtuoso Optoelectronics Limited",
-      "exchange": "NSE",
-      "date": "2026-07-12T12:27:04.000Z",
-      "category": "Shareholders meeting",
-      "title": "Virtuoso Optoelectronics Limited has informed the Exchange regarding Proceedings of Extraordinary General Meeting held on July 12, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/VIRTUOSO_12072026122655_EGM_Proceedings.pdf"
-    },
-    {
-      "id": "f9ab59b257e04",
-      "ticker": "URBANCO",
-      "company": "Urban Company Limited",
-      "exchange": "NSE",
-      "date": "2026-07-11T18:17:08.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Urban Company Limited has informed the Exchange about Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended June 30, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_11072026181644_UC_Reg_74_5__.pdf"
-    },
-    {
-      "id": "f04502ac8827a",
-      "ticker": "DENTALKART",
-      "company": "Vasa Denticity Limited",
-      "exchange": "NSE",
-      "date": "2026-07-11T18:13:58.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Vasa Denticity Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/VASADENTICITY_11072026181351_Certificate_under_regulation_DP_regulations.pdf"
-    },
-    {
-      "id": "f2775a144bbd9",
-      "ticker": "HARIOMPIPE",
-      "company": "Hariom Pipe Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-07-11T17:23:51.000Z",
-      "category": "Disclosure",
-      "title": "Hariom Pipe Industries Limited has informed the Exchange about General Updates",
-      "url": "https://nsearchives.nseindia.com/corporate/hariompipes_11072026171524_SE_Intimation_Installation_Trial_Production_Rupur_Signed.pdf"
-    },
-    {
-      "id": "fdfa780e8818a",
-      "ticker": "AVANTEL",
-      "company": "Avantel Limited",
-      "exchange": "NSE",
-      "date": "2026-07-11T16:59:59.000Z",
-      "category": "Monitoring Agency Report",
-      "title": "Monitoring Agency Report for the quarter ended June 30, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/AVANTEL_11072026165918_MAReport11072026.pdf"
-    },
-    {
-      "id": "f9f9af2bddb0c",
-      "ticker": "SETL",
-      "company": "Standard Engineering Technology Limited",
-      "exchange": "NSE",
-      "date": "2026-07-11T15:59:50.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Standard Engineering Technology Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/SGLTPL_11072026155938_Regulation_74_5_of_the_SEBI_Depositories__Participants.pdf"
-    },
-    {
-      "id": "f9e333478cca9",
-      "ticker": "SKYGOLD",
-      "company": "SKY GOLD AND DIAMONDS LIMITED",
-      "exchange": "NSE",
-      "date": "2026-07-11T15:53:07.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Please find enclosed herewith, the compliance certificate received from MUFG Intime India Private Limited for the quarter ended 30th June 2026, Pursuant to Regulation 74(5) of SEBI (DP) Regulations 2018.",
-      "url": "https://nsearchives.nseindia.com/corporate/SKYGOLD_11072026155257_Reg74.pdf"
-    },
-    {
-      "id": "f336674b20364",
-      "ticker": "SETL",
-      "company": "Standard Engineering Technology Limited",
-      "exchange": "NSE",
-      "date": "2026-07-11T15:40:39.000Z",
-      "category": "Board Meeting",
-      "title": "Standard Engineering Technology Limited has informed the Exchange regarding Outcome of Board Meeting held on July 11, 2026 about preferential issue of equity shares and other matters for shareholders' approval.",
-      "url": "https://nsearchives.nseindia.com/corporate/SGLTPL_11072026153948_BM_Outcome___11072026.pdf"
-    },
-    {
-      "id": "fdc134b6e3912",
-      "ticker": "AVANTEL",
-      "company": "Avantel Limited",
-      "exchange": "NSE",
-      "date": "2026-07-11T15:01:42.000Z",
-      "category": "Change in Directors",
-      "title": "Avantel Limited has informed the Exchange regarding Appointment of Mr Peddi Bala Bhaskar Rao as Executive Director of the company w.e.f. July 11, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/AVANTEL_11072026145710_Reg3011072026.pdf"
-    },
-    {
-      "id": "fca61cde0dfb4",
-      "ticker": "AVANTEL",
-      "company": "Avantel Limited",
-      "exchange": "NSE",
-      "date": "2026-07-11T15:01:42.000Z",
-      "category": "Disclosure",
-      "title": "Avantel Limited has informed the Exchange about Reconstitution of the Committees of the Board",
-      "url": "https://nsearchives.nseindia.com/corporate/AVANTEL_11072026150006_Reg3011072026.pdf"
-    },
-    {
-      "id": "fcacd0ecbd6f5",
-      "ticker": "AVANTEL",
-      "company": "Avantel Limited",
-      "exchange": "NSE",
-      "date": "2026-07-11T15:01:42.000Z",
-      "category": "Change in Directors",
-      "title": "Avantel Limited has informed the Exchange about change in Management",
-      "url": "https://nsearchives.nseindia.com/corporate/AVANTEL_11072026145702_Reg3011072026.pdf"
-    },
-    {
-      "id": "f7f4b675e76e2",
-      "ticker": "AVANTEL",
-      "company": "Avantel Limited",
-      "exchange": "NSE",
-      "date": "2026-07-11T14:14:07.000Z",
-      "category": "Board Meeting",
-      "title": "Avantel Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/AVANTEL_11072026141115_Outcome11072026.pdf"
     }
   ]
 }
