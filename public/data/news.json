@@ -1,31 +1,228 @@
 {
-  "generated_at": "2026-09-29T19:49:24.959Z",
+  "generated_at": "2026-09-30T09:03:16.735Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 131,
-    "watchlist": 720,
-    "universe": 39,
-    "total": 759
+    "watchlist": 721,
+    "universe": 41,
+    "total": 762
   },
   "items": [
     {
-      "id": "n8f03f4fa38ae",
+      "id": "ndbac1d406588",
       "ticker": "MSECL",
       "company": "Monarch Surveyors and Engineering Consultants Ltd",
       "sector": "Services",
       "scope": [
         "watchlist"
       ],
-      "title": "Monarch Surveyors and Engineering gains on bagging Rs 2-cr work order | Capital Market News - Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/monarch-surveyors-and-engineering-gains-on-bagging-rs-2-cr-work-order-126082400282_1.html",
+      "title": "Monarch Surveyors and Engineering Consultants receives Rs 2-cr work order | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-and-engineering-consultants-receives-rs-2-cr-work-order-126082200734_1.html",
       "source": "business-standard.com",
-      "date": "2026-09-29T19:40:48.391Z",
+      "date": "2026-09-30T09:01:14.886Z",
       "topic": "Orders",
       "keyword": "Order",
       "importance": "low",
       "mood": "positive",
-      "takeaway": "Monarch Surveyors wins Rs 2 crore work order.",
+      "takeaway": "Monarch Surveyors received a Rs 2 crore work order.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nf959b9e8b434",
+      "ticker": "PVRINOX",
+      "company": "PVR INOX Limited",
+      "sector": "Media Entertainment & Publication",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "PVR Inox Share Buyback: ரூ.300 கோடி ஷேர் பைபேக் நிறைவு! 16 மடங்கு விண்ணப்பித்த முதலீட்டாளர்கள் | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Tamil/media-and-entertainment/PVR-Inox-Completes-Rs-300-Crore-Buyback-Shares-Oversubscribed-16-Times/6aba4f65f2017017ae737919",
+      "source": "whalesbook.com",
+      "date": "2026-09-30T08:59:27.221Z",
+      "topic": "Money",
+      "keyword": "Buyback",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "PVR Inox completed Rs 300 crore share buyback with 16x oversubscription from investors.",
+      "enriched": true
+    },
+    {
+      "id": "nddaa524773ad",
+      "ticker": "LAXMIDENTL",
+      "company": "Laxmi Dental Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Laxmi Dental Ltd (NSE:LAXMIDENTL) (Q1 2027) Earnings Call Highlights: Record Revenue and ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/laxmi-dental-ltd-nse-laxmidentl-150024610.html",
+      "source": "finance.yahoo.com",
+      "date": "2026-09-30T08:58:37.585Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Laxmi Dental reported record revenue in Q1 2027 earnings call.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n7e1bc31db9cc",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Goldiam International: 39वीं AGM में Dividend और MD की नियुक्ति को मिली मंजूरी | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hindi/consumer-products/Goldiam-International-Approves-Final-Dividend-and-Reappoints-MD-at-39th-AGM/6abbb5daf2017017ae75ad49",
+      "source": "whalesbook.com",
+      "date": "2026-09-30T08:58:20.303Z",
+      "topic": "Money",
+      "keyword": "QIP",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Goldiam's 39th AGM approved dividend and MD appointment.",
+      "sources_count": 4,
+      "enriched": true
+    },
+    {
+      "id": "nf14eb2207ec3",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Oziva Posts 80 Pc Revenue Growth in FY26 as HUL Completes Acquisition - Indian Retailer",
+      "url": "https://indianretailer.com/news/oziva-posts-80-pc-revenue-growth-fy26-hul-completes-acquisition",
+      "source": "indianretailer.com",
+      "date": "2026-09-30T08:58:20.303Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Oziva reports 80% revenue growth in FY26 as HUL completes acquisition.",
+      "enriched": true
+    },
+    {
+      "id": "n19187c56172d",
+      "ticker": "GANESHBE",
+      "company": "Ganesh Benzoplast Limited",
+      "sector": "Oil Gas & Consumable Fuels",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Ganesh Benzoplast ka bada khel! Logistics business becha **₹1,154 Crore** mein, ab hoga Share Buyback? | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/industrial-goodsservices/Ganesh-Benzoplast-Sells-Logistics-Business-for-Rs-1154-Crore-Targets-Buyback/6abbce18f2017017ae75fba8",
+      "source": "whalesbook.com",
+      "date": "2026-09-30T08:58:13.483Z",
+      "topic": "Deals",
+      "keyword": "Buyback",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Ganesh Benzoplast sold logistics business for ₹1,154 crore, may announce share buyback.",
+      "enriched": true,
+      "sources_count": 2
+    },
+    {
+      "id": "nb4326cf534e3",
+      "ticker": "FAZE3Q",
+      "company": "Faze Three Limited",
+      "sector": "Textiles",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Faze Three Secures PLI Approval for ₹100 Crore Technical Textile..",
+      "url": "https://technicaltextiles.in/faze-three-wins-pli-approval-plans-%e2%82%b9100-crore-investment-to-expand-technical-textiles/",
+      "source": "technicaltextiles.in",
+      "date": "2026-09-30T08:58:11.079Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Faze Three secured PLI approval for ₹100 crore technical textile project.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nc32370f5f71f",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "E2E Networks AGM: फंड जुटाने और मैनेजमेंट की सैलरी पर फैसला, निवेशकों की नजर | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hindi/technology/E2E-Networks-AGM-Shareholders-Consider-Fundraising-Management-Pay-and-Strategic-Expansion/6aba3886f2017017ae732a06",
+      "source": "whalesbook.com",
+      "date": "2026-09-30T08:57:55.520Z",
+      "topic": "Money",
+      "keyword": "QIP",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "E2E Networks AGM approved fundraising and management salary decisions.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nbe6f14a3faf6",
+      "ticker": "CURRENT",
+      "company": "Current Infraprojects Limited",
+      "sector": "Construction",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Current Infraprojects Secures Rs 10.42 Cr Bank Note Press Solar Order – Outlook Business",
+      "url": "https://www.outlookbusiness.com/spotlight/news-wire/current-infraprojects-secures-rs-10-42-cr-bank-note-press-solar-order",
+      "source": "outlookbusiness.com",
+      "date": "2026-09-30T08:57:31.500Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Current Infraprojects wins Rs 10.42 crore solar order from Bank Note Press.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "n7f13bfb30757",
+      "ticker": "AVANTEL",
+      "company": "Avantel Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Avantel ka bada kadam: Subsidiary merger ke saath ab Space aur AI mein entry ki taiyari | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/technology/Avantel-Approves-Merger-of-Subsidiary-and-Expands-Business-Scope-Into-New-Tech/6aad0c1af2017017ae6d4808",
+      "source": "whalesbook.com",
+      "date": "2026-09-30T08:57:21.495Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Avantel merging subsidiary and planning entry into Space and AI sectors.",
+      "sources_count": 4,
+      "enriched": true
+    },
+    {
+      "id": "n708b832c6d8e",
+      "ticker": "GLOBAL",
+      "company": "Optical Fibre",
+      "sector": "Telecom",
+      "scope": [
+        "universe"
+      ],
+      "title": "HFCL’s next growth phase: AI data centres, ₹28,000 crore order book and defence push could reshape the business",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPT0RxdDdNWGVrOTBOYkJUVUl1YjBla2RKMHc4Mm5IZnQ1TW1nRnhVVjdDeG11ZkRvSDFuRnZjQ2R5RnRwX0hqOHNLMXYtN3ZxMDU0SU9Gam5aLTVwUEl6bGJqV004SmdsY1RMR0JJTzdfeFZwTUN5Vzhzc19mZ2lNaDhzNFVidWdDRVZrUmJ5MHRIb3NhTmpQNGllUVpJT3FJUDhPQUQ3UkdwYXctbEdzRmUyWjFlajZhajEwenlxY3JIRjBVRlhWdGVuTDFkWW1oQjNvT0hSU1oyQUdUZDNIanYtQ2E?oc=5",
+      "source": "Business Upturn",
+      "date": "2026-09-30T03:38:28.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "HFCL has ₹28,000 crore order book and is expanding into AI data centres and defence sectors.",
       "enriched": true
     },
     {
@@ -64,126 +261,6 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Ola Electric appoints Deepa Bansal as company secretary and compliance officer.",
-      "enriched": true
-    },
-    {
-      "id": "n93b708a251dd",
-      "ticker": "LAXMIDENTL",
-      "company": "Laxmi Dental Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Q1 2027 Laxmi Dental Ltd Earnings Call Transcript",
-      "url": "https://www.gurufocus.com/news/9027891/q1-2027-laxmi-dental-ltd-earnings-call-transcript",
-      "source": "gurufocus.com",
-      "date": "2026-09-29T19:38:12.084Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Laxmi Dental held its Q1 2027 earnings call.",
-      "sources_count": 3,
-      "enriched": true
-    },
-    {
-      "id": "n9df45b02e377",
-      "ticker": "GOLDIAM",
-      "company": "Goldiam International Limited",
-      "sector": "Consumer Durables",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Goldiam International AGM: Dividend par lagi mohar, MD Anmol Bhansali ki hui re-appointment! | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/Hinglish/consumer-products/Goldiam-International-Approves-Final-Dividend-and-Reappoints-MD-at-39th-AGM/6abbb5daf2017017ae75ad49",
-      "source": "whalesbook.com",
-      "date": "2026-09-29T19:37:54.009Z",
-      "topic": "Money",
-      "keyword": "QIP",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Goldiam International AGM approved dividend and reappointed MD Anmol Bhansali.",
-      "sources_count": 5,
-      "enriched": true
-    },
-    {
-      "id": "n93dabb68b0af",
-      "ticker": "GANESHBE",
-      "company": "Ganesh Benzoplast Limited",
-      "sector": "Oil Gas & Consumable Fuels",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Ganesh Benzoplast Sells Logistics Business for Rs 1,154 Crore; Targets Buyback | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/English/industrial-goodsservices/Ganesh-Benzoplast-Sells-Logistics-Business-for-Rs-1154-Crore-Targets-Buyback/6abbce18f2017017ae75fba8",
-      "source": "whalesbook.com",
-      "date": "2026-09-29T19:37:49.449Z",
-      "topic": "Deals",
-      "keyword": "Buyback",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Ganesh Benzoplast sold its logistics business for Rs 1,154 crore and plans a buyback.",
-      "sources_count": 3,
-      "enriched": true
-    },
-    {
-      "id": "n2eb4e79142a7",
-      "ticker": "E2E",
-      "company": "E2E Networks Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "E2E Networks AGM: ਫੰਡਰੇਜ਼ਿੰਗ ਅਤੇ ਮੈਨੇਜਮੈਂਟ ਦੀ ਤਨਖਾਹ 'ਤੇ ਨਿਵੇਸ਼ਕਾਂ ਦੀ ਨਜ਼ਰ | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/Punjabi/technology/E2E-Networks-AGM-Shareholders-Consider-Fundraising-Management-Pay-and-Strategic-Expansion/6aba3886f2017017ae732a06",
-      "source": "whalesbook.com",
-      "date": "2026-09-29T19:37:31.505Z",
-      "topic": "Money",
-      "keyword": "QIP",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "E2E Networks AGM discussed fundraising and management compensation matters.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n1d5d2906ab6f",
-      "ticker": "CURRENT",
-      "company": "Current Infraprojects Limited",
-      "sector": "Construction",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Current Infraprojects Limited Secures Rs 10.42 Cr Order from Bank Note Press, Dewas for 3 MW Rooftop Solar Project - NewsX",
-      "url": "https://www.newsx.com/business-2/current-infraprojects-limited-secures-rs-10-42-cr-order-from-bank-note-press-dewas-for-3-mw-rooftop-solar-project-273549/",
-      "source": "newsx.com",
-      "date": "2026-09-29T19:37:07.460Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Current Infraprojects won Rs 10.42 crore order for 3 MW rooftop solar project from Bank Note Press, Dewas.",
-      "sources_count": 4,
-      "enriched": true
-    },
-    {
-      "id": "n52442768bb1e",
-      "ticker": "AVANTEL",
-      "company": "Avantel Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Avantel Merger: అనుబంధ సంస్థతో విలీనం.. కొత్త రంగాల్లోకి దూసుకెళ్లేందుకు సిద్ధం! | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/Telugu/technology/Avantel-Approves-Merger-of-Subsidiary-and-Expands-Business-Scope-Into-New-Tech/6aad0c1af2017017ae6d4808",
-      "source": "whalesbook.com",
-      "date": "2026-09-29T19:36:57.043Z",
-      "topic": "Deals",
-      "keyword": "Merger",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Avantel merging with subsidiary to enter new business areas.",
-      "sources_count": 4,
       "enriched": true
     },
     {
@@ -320,7 +397,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Anupam Rasayan acquires 48.2% stake in Bliss GVS for Rs 1,750 crore.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -654,7 +731,7 @@
       "mood": "positive",
       "takeaway": "Avantel secured a Rs 177 crore satellite equipment order.",
       "enriched": true,
-      "sources_count": 4
+      "sources_count": 3
     },
     {
       "id": "nc50c521111c6",
@@ -2019,6 +2096,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Virtuoso Optoelectronics updates plan to use ₹84.99 crore raised funds for capacity expansion.",
+      "enriched": true
+    },
+    {
+      "id": "n5258055cd572",
+      "ticker": "THEME",
+      "company": "Specialty Chemicals",
+      "sector": "Chemicals",
+      "scope": [
+        "universe"
+      ],
+      "title": "IOL Chemicals: Can ₹500 Cr Capex, Ibuprofen Expansion and CDMO Entry Drive 30% Revenue Growth?",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMDloMU5QVWI0U1BmTEZMOExlZU5OVTlIMmRVaDNWSW9IMTNJaENNSGRweFRmV2xseWxqLUFSc1hFbnhuUUtkQXRldEl1MGp2Vng4aHFVRDVURzlDWWZsODVxVVlsRmt2Q09uMEpSb19CblB2Nkp1Z1ZIaUR4MjhnV2lrRVVxZGs2andVSFh3Wm1ES2tMVjBRdHBqV0dJRGltOUNLc1NZQ0UzVEJmdDBkMTU2QzFQalNxcFFmS2lIRTJJYjFlcU1RNDg1R1RUVzJnQmc?oc=5",
+      "source": "Trade Brains",
+      "date": "2026-09-21T11:54:38.000Z",
+      "topic": "Growth",
+      "keyword": "Capex",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "IOL Chemicals plans ₹500 crore capex for ibuprofen expansion and entering CDMO business.",
       "enriched": true
     },
     {
@@ -6406,7 +6502,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "PVR Inox approved Rs 300 crore share buyback at Rs 1,450 per share.",
-      "sources_count": 5,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -8330,25 +8426,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "GMM Pfaudler's quarterly profit more than doubled with strong order momentum.",
-      "enriched": true
-    },
-    {
-      "id": "n0f8b5457ca15",
-      "ticker": "FAZE3Q",
-      "company": "Faze Three Limited",
-      "sector": "Textiles",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Faze Three Secures PLI Approval to Scale Technical Textiles with ₹100 Crore Investment Plan",
-      "url": "https://www.sahi.com/news/faze-three-secures-pli-approval-to-scale-technical-textiles-with-100-crore-investment-plan-1914-PE1_COR",
-      "source": "sahi.com",
-      "date": "2026-09-03T20:34:13.073Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Faze Three got PLI approval to expand technical textiles with ₹100 crore investment.",
       "enriched": true
     },
     {
@@ -11013,6 +11090,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Man Industries received QatarEnergy approval as preferred manufacturer for LSAW pipes.",
+      "enriched": true
+    },
+    {
+      "id": "nf785a719bea8",
+      "ticker": "MANINDS",
+      "company": "Man Industries (India) Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Man Industries MANINDS QatarEnergy PML Approval 2026",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTnBsa0dZR1RuX0F1ZkVPZ2dFa2hySERNYzhxR3FXOHgtejFjUHRubEs4US1UenZFM1p4eTZ3aVVkLTZJbk1UaUFPSk1KRzJOc2JRa0EwNmhwdlVhRGJwMmdGYkRUU1RRQjRGU2JVdFNWbE8zdE1xX1JoT1lWVFVFTWdzbHlRNlE1SnI5a25YbWstLWVveHY0azV4Y3dzT2p6cTZZSnIxbW9ROUhyZHhIcWpwa0Q5TEtmZU9QalVVdzBYWVhXMS1Sdw?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-08-14T07:00:00.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Man Industries received approval from QatarEnergy for its PML project, expected to complete by 2026.",
       "enriched": true
     },
     {
@@ -13855,6 +13951,26 @@
       "enriched": true
     },
     {
+      "id": "nc778efc2bd4d",
+      "ticker": "FAZE3Q",
+      "company": "Faze Three Limited",
+      "sector": "Textiles",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Faze Three Ltd Receives Government Approval Under PLI Scheme for MMF Fabrics",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcXBDVGFJM3RHanhSSjhEWlZEUTB4S016eF93dFhPZC1KVnd6S0lKdVFNWm45WFl1MVR0TnFOODNMTE5sSDI5WUlGNUs1UmZ5SDdkQ2R4d1RKZFdERlhYNXNkbzNZRHFwY25peUt1eG0ySjByUkdjNXV2dU9tS1paUzMtcEhPdVZCTzZ0eXdBQTBsZk5fUzllWmV0YnJwaGo4aWJfNGk0a1phOE5yLUw0TmlQQWRMeFA5NjgxS1VhVVBGUQ?oc=5",
+      "source": "Apparel Resources",
+      "date": "2026-07-02T07:00:00.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Faze Three received government approval under PLI scheme for man-made fiber fabrics production.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
       "id": "n16b7b022a603",
       "ticker": "SUDEEPPHRM",
       "company": "Sudeep Pharma Limited",
@@ -13910,26 +14026,6 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Shivalik Bimetal Controls delivered steady Q4 performance with operational efficiency.",
-      "enriched": true
-    },
-    {
-      "id": "nc778efc2bd4d",
-      "ticker": "FAZE3Q",
-      "company": "Faze Three Limited",
-      "sector": "Textiles",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Faze Three Ltd Receives Government Approval Under PLI Scheme for MMF Fabrics",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcXBDVGFJM3RHanhSSjhEWlZEUTB4S016eF93dFhPZC1KVnd6S0lKdVFNWm45WFl1MVR0TnFOODNMTE5sSDI5WUlGNUs1UmZ5SDdkQ2R4d1RKZFdERlhYNXNkbzNZRHFwY25peUt1eG0ySjByUkdjNXV2dU9tS1paUzMtcEhPdVZCTzZ0eXdBQTBsZk5fUzllWmV0YnJwaGo4aWJfNGk0a1phOE5yLUw0TmlQQWRMeFA5NjgxS1VhVVBGUQ?oc=5",
-      "source": "Apparel Resources",
-      "date": "2026-07-02T07:00:00.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Faze Three received government approval under PLI scheme for man-made fiber fabrics production.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -14713,45 +14809,6 @@
       "takeaway": "RPSG Ventures achieves 17.85% revenue growth in Q2 FY2026 driven by retail and power, but profits remain weak.",
       "enriched": true,
       "sources_count": 2
-    },
-    {
-      "id": "n020f81d66f68",
-      "ticker": "SONACOMS",
-      "company": "Sona BLW Precision Forgings Limited",
-      "sector": "Automobile and Auto Components",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "SONACOMS.NS Mar 2026 Earnings: Solid EPS of ₹3.33, Revenue at ₹1,172 Cr - Basic EPS Analysis",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNajByMTVaUmtDNmhPd29DQWw2LTBqSUxESUVfaXh4YWI3N0JDQVVSM2VmSUlyYXExeEFsUnNhUEs0SnAzTGhsRFJ5WGt6MFFzZHB0Q0JPczkzVWRPc2xZRFMySmhHc0tsMlFYNktwcnpWUzlGVU9qSUhKM1RDQmFmaFBtRzN3MDhUQ2FTRklxVUZUNTA0U29rOHpkVXRzME9DalY3bXJ1eXg?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-22T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Sona BLW reported strong Q4 FY2026 results with EPS of ₹3.33 on revenue of ₹1,172 crore.",
-      "enriched": true,
-      "sources_count": 2
-    },
-    {
-      "id": "n3705a12b092f",
-      "ticker": "LGEINDIA",
-      "company": "LG Electronics India Limited",
-      "sector": "Consumer Durables",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "LGEINDIA.NS Q2 FY2026 Earnings: Revenue ticks up 0.98% YoY, EPS at ₹24.83 amidst muted market reaction - Management Guidance Update",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPT0RtOUpacFRwRE15bl90cnZTeDltUkJ4eE9WSlh4WHdWRkdaYWZ3dzVLZndZOUpYX1dNUHRHQ0c1V1Rzbl9uN0I0LWZtU2U3bUdNdHJGcF9Ma1d3THN3bV9RY3htUzdKc0ZYNzVrb05rT1ZCbDg3R3phY2hzcXNZUnlLT3dsTUh6c1Q1djhBYnpFc2FOc1Nndi1keHZFdTl0eUx1NHJGQkRiUS1GSkdERTZrenNENGdqOEpteHRNbWQyOXNTa1JKUGNaTVloeS1seHc?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-22T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "LG Electronics India Q2 revenue rose 0.98% with earnings per share at ₹24.83.",
-      "enriched": true
     }
   ]
 }
