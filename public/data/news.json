@@ -1,50 +1,287 @@
 {
-  "generated_at": "2026-09-30T09:03:16.735Z",
+  "generated_at": "2026-09-30T19:52:25.182Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 131,
-    "watchlist": 721,
-    "universe": 41,
-    "total": 762
+    "portfolio": 133,
+    "watchlist": 729,
+    "universe": 42,
+    "total": 771
   },
   "items": [
     {
-      "id": "ndbac1d406588",
+      "id": "n8f03f4fa38ae",
       "ticker": "MSECL",
       "company": "Monarch Surveyors and Engineering Consultants Ltd",
       "sector": "Services",
       "scope": [
         "watchlist"
       ],
-      "title": "Monarch Surveyors and Engineering Consultants receives Rs 2-cr work order | Capital Market News - Business Standard",
-      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-and-engineering-consultants-receives-rs-2-cr-work-order-126082200734_1.html",
+      "title": "Monarch Surveyors and Engineering gains on bagging Rs 2-cr work order | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/markets/capital-market-news/monarch-surveyors-and-engineering-gains-on-bagging-rs-2-cr-work-order-126082400282_1.html",
       "source": "business-standard.com",
-      "date": "2026-09-30T09:01:14.886Z",
+      "date": "2026-09-30T19:43:12.062Z",
       "topic": "Orders",
       "keyword": "Order",
       "importance": "low",
       "mood": "positive",
-      "takeaway": "Monarch Surveyors received a Rs 2 crore work order.",
+      "takeaway": "Monarch Surveyors won a small ₹2 crore work order.",
       "sources_count": 2,
       "enriched": true
     },
     {
-      "id": "nf959b9e8b434",
-      "ticker": "PVRINOX",
-      "company": "PVR INOX Limited",
-      "sector": "Media Entertainment & Publication",
+      "id": "nf0a292201bee",
+      "ticker": "VBL",
+      "company": "Varun Beverages Limited",
+      "sector": "Fast Moving Consumer Goods",
       "scope": [
         "watchlist"
       ],
-      "title": "PVR Inox Share Buyback: ரூ.300 கோடி ஷேர் பைபேக் நிறைவு! 16 மடங்கு விண்ணப்பித்த முதலீட்டாளர்கள் | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/Tamil/media-and-entertainment/PVR-Inox-Completes-Rs-300-Crore-Buyback-Shares-Oversubscribed-16-Times/6aba4f65f2017017ae737919",
+      "title": "Varun Beverages’ South Africa dairy deal goes to arbitration - CNBC TV18",
+      "url": "https://www.cnbctv18.com/market/varun-beverages-south-africa-dairy-deal-goes-to-arbitration-20002507.htm",
+      "source": "cnbctv18.com",
+      "date": "2026-09-30T19:42:44.250Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "negative",
+      "takeaway": "Varun Beverages' South Africa dairy acquisition deal has gone to arbitration.",
+      "enriched": true
+    },
+    {
+      "id": "na30033505947",
+      "ticker": "VBL",
+      "company": "Varun Beverages Limited",
+      "sector": "Fast Moving Consumer Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Varun Beverages Terminates Crickley Dairy Acquisition; Matter Referred to Arbitration | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/consumer-products/Varun-Beverages-Terminates-Crickley-Dairy-Acquisition-Matter-Referred-to-Arbitration/6abd34f380ecbb8a5f1a3240",
       "source": "whalesbook.com",
-      "date": "2026-09-30T08:59:27.221Z",
+      "date": "2026-09-30T19:42:44.250Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "negative",
+      "takeaway": "Varun Beverages terminated Crickley Dairy acquisition and referred matter to arbitration.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n3255ae1f0acd",
+      "ticker": "LAXMIDENTL",
+      "company": "Laxmi Dental Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Laxmi Dental Q1 Results: Earnings call scheduled for Aug 12",
+      "url": "https://scanx.trade/stock-market-news/companies/laxmi-dental-q1-results-earnings-call-scheduled-for-aug-12/47637168",
+      "source": "scanx.trade",
+      "date": "2026-09-30T19:40:42.723Z",
       "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Laxmi Dental scheduled earnings call for August 12 to discuss Q1 results.",
+      "enriched": true
+    },
+    {
+      "id": "nc121c6eead4d",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Goldiam International: શેરધારકોને ડિવિડન્ડની ભેટ, કંપનીએ MD તરીકે અનમોલ ભણશાલીની કરી પુનઃનિયુક્તિ | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Gujarati/consumer-products/Goldiam-International-Approves-Final-Dividend-and-Reappoints-MD-at-39th-AGM/6abbb5daf2017017ae75ad49",
+      "source": "whalesbook.com",
+      "date": "2026-09-30T19:40:00.475Z",
+      "topic": "Money",
+      "keyword": "QIP",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Goldiam declared dividend and reappointed Anmol Bhansali as Managing Director.",
+      "sources_count": 4,
+      "enriched": true
+    },
+    {
+      "id": "n93dabb68b0af",
+      "ticker": "GANESHBE",
+      "company": "Ganesh Benzoplast Limited",
+      "sector": "Oil Gas & Consumable Fuels",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Ganesh Benzoplast Sells Logistics Business for Rs 1,154 Crore; Targets Buyback | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/industrial-goodsservices/Ganesh-Benzoplast-Sells-Logistics-Business-for-Rs-1154-Crore-Targets-Buyback/6abbce18f2017017ae75fba8",
+      "source": "whalesbook.com",
+      "date": "2026-09-30T19:39:57.017Z",
+      "topic": "Deals",
       "keyword": "Buyback",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Ganesh Benzoplast sold its logistics business for Rs 1,154 crore and plans a buyback.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n2eb4e79142a7",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "E2E Networks AGM: ਫੰਡਰੇਜ਼ਿੰਗ ਅਤੇ ਮੈਨੇਜਮੈਂਟ ਦੀ ਤਨਖਾਹ 'ਤੇ ਨਿਵੇਸ਼ਕਾਂ ਦੀ ਨਜ਼ਰ | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Punjabi/technology/E2E-Networks-AGM-Shareholders-Consider-Fundraising-Management-Pay-and-Strategic-Expansion/6aba3886f2017017ae732a06",
+      "source": "whalesbook.com",
+      "date": "2026-09-30T19:39:45.001Z",
+      "topic": "Money",
+      "keyword": "QIP",
       "importance": "medium",
       "mood": "neutral",
-      "takeaway": "PVR Inox completed Rs 300 crore share buyback with 16x oversubscription from investors.",
+      "takeaway": "E2E Networks AGM to discuss fundraising and management compensation matters.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n54fbd34029d3",
+      "ticker": "DIXON",
+      "company": "Dixon Technologies (India) Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Dixon Tech arm inks intellectual property licence agreement with Aviat Networks, check stock reaction - BusinessToday",
+      "url": "https://www.businesstoday.in/amp/markets/stocks/story/dixon-tech-arm-inks-intellectual-property-licence-agreement-with-aviat-networks-check-stock-reaction-558810-2026-09-30",
+      "source": "businesstoday.in",
+      "date": "2026-09-30T19:39:42.121Z",
+      "topic": "Approvals&IP",
+      "keyword": "Joint Venture",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Dixon Tech subsidiary signed intellectual property license agreement with Aviat Networks.",
+      "enriched": true
+    },
+    {
+      "id": "nee8fdc89c7f3",
+      "ticker": "DIXON",
+      "company": "Dixon Technologies (India) Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Dixon Tech arm inks IP licence pact with Aviat Networks for microwave radios - CNBC TV18",
+      "url": "https://www.cnbctv18.com/market/dixon-tech-arm-inks-ip-licence-pact-with-aviat-networks-for-microwave-radios-20002148.htm",
+      "source": "cnbctv18.com",
+      "date": "2026-09-30T19:39:42.121Z",
+      "topic": "Approvals&IP",
+      "keyword": "Joint Venture",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Dixon Tech arm signs IP license deal with Aviat Networks to manufacture microwave radios.",
+      "enriched": true
+    },
+    {
+      "id": "n1d5d2906ab6f",
+      "ticker": "CURRENT",
+      "company": "Current Infraprojects Limited",
+      "sector": "Construction",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Current Infraprojects Limited Secures Rs 10.42 Cr Order from Bank Note Press, Dewas for 3 MW Rooftop Solar Project - NewsX",
+      "url": "https://www.newsx.com/business-2/current-infraprojects-limited-secures-rs-10-42-cr-order-from-bank-note-press-dewas-for-3-mw-rooftop-solar-project-273549/",
+      "source": "newsx.com",
+      "date": "2026-09-30T19:39:18.584Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Current Infraprojects wins Rs 10.42 crore order for 3 MW rooftop solar project from Bank Note Press.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "n3892de2f8e5a",
+      "ticker": "CMLL",
+      "company": "Caliber Mining and Logistics Limited",
+      "sector": "Oil Gas & Consumable Fuels",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Caliber Mining Posts FY26 PAT of Rs 157 Crore; Order Book Swells | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/industrial-goodsservices/Caliber-Mining-Posts-FY26-PAT-of-Rs-157-Crore-Order-Book-Swells/6abd11c180ecbb8a5f19dc13",
+      "source": "whalesbook.com",
+      "date": "2026-09-30T19:39:09.869Z",
+      "topic": "Money",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Caliber Mining reports FY26 profit of Rs 157 crore with growing order book.",
+      "enriched": true
+    },
+    {
+      "id": "nffcf36e56d42",
+      "ticker": "AVANTEL",
+      "company": "Avantel Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Avantel Merger: કંપનીનું મોટું પ્લાનિંગ, સબસિડિયરી સાથે વિલીનીકરણ અને નવા સેક્ટરમાં એન્ટ્રી | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Gujarati/technology/Avantel-Approves-Merger-of-Subsidiary-and-Expands-Business-Scope-Into-New-Tech/6aad0c1af2017017ae6d4808",
+      "source": "whalesbook.com",
+      "date": "2026-09-30T19:39:00.730Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Avantel plans to merge with its subsidiary and enter a new business sector.",
+      "sources_count": 4,
+      "enriched": true
+    },
+    {
+      "id": "nc60bdaddbb33",
+      "ticker": "TANFACIND",
+      "company": "TANFAC Industries Ltd",
+      "sector": "Chemicals",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Anupam Rasayan completes acquisition of 48.2% stake in Bliss GVS Pharma, ETManufacturing",
+      "url": "https://manufacturing.economictimes.indiatimes.com/amp/news/chemicals/anupam-rasayan-completes-acquisition-of-48-2-stake-in-bliss-gvs-pharma/134581283",
+      "source": "manufacturing.economictimes.indiatimes.com",
+      "date": "2026-09-30T19:38:43.603Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Anupam Rasayan completes acquisition of 48.2% stake in Bliss GVS Pharma.",
+      "sources_count": 4,
+      "enriched": true
+    },
+    {
+      "id": "nded850cc6691",
+      "ticker": "EPIGRAL",
+      "company": "Epigral Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Epigral Targets Rs. 50 bn Revenue by FY31 Through Capacity Expansion",
+      "url": "https://www.constructionworld.in/policy-updates-and-economic-news/epigral-targets-rs.-50-bn-revenue-by-fy31-through-capacity-expansion/97952",
+      "source": "constructionworld.in",
+      "date": "2026-09-30T19:37:22.109Z",
+      "topic": "Growth",
+      "keyword": "Capacity Expansion",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Epigral plans capacity expansion to reach Rs 50 billion revenue by FY31.",
       "enriched": true
     },
     {
@@ -68,26 +305,6 @@
       "enriched": true
     },
     {
-      "id": "n7e1bc31db9cc",
-      "ticker": "GOLDIAM",
-      "company": "Goldiam International Limited",
-      "sector": "Consumer Durables",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Goldiam International: 39वीं AGM में Dividend और MD की नियुक्ति को मिली मंजूरी | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/Hindi/consumer-products/Goldiam-International-Approves-Final-Dividend-and-Reappoints-MD-at-39th-AGM/6abbb5daf2017017ae75ad49",
-      "source": "whalesbook.com",
-      "date": "2026-09-30T08:58:20.303Z",
-      "topic": "Money",
-      "keyword": "QIP",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Goldiam's 39th AGM approved dividend and MD appointment.",
-      "sources_count": 4,
-      "enriched": true
-    },
-    {
       "id": "nf14eb2207ec3",
       "ticker": "GOLDIAM",
       "company": "Goldiam International Limited",
@@ -105,26 +322,6 @@
       "mood": "positive",
       "takeaway": "Oziva reports 80% revenue growth in FY26 as HUL completes acquisition.",
       "enriched": true
-    },
-    {
-      "id": "n19187c56172d",
-      "ticker": "GANESHBE",
-      "company": "Ganesh Benzoplast Limited",
-      "sector": "Oil Gas & Consumable Fuels",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Ganesh Benzoplast ka bada khel! Logistics business becha **₹1,154 Crore** mein, ab hoga Share Buyback? | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/Hinglish/industrial-goodsservices/Ganesh-Benzoplast-Sells-Logistics-Business-for-Rs-1154-Crore-Targets-Buyback/6abbce18f2017017ae75fba8",
-      "source": "whalesbook.com",
-      "date": "2026-09-30T08:58:13.483Z",
-      "topic": "Deals",
-      "keyword": "Buyback",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Ganesh Benzoplast sold logistics business for ₹1,154 crore, may announce share buyback.",
-      "enriched": true,
-      "sources_count": 2
     },
     {
       "id": "nb4326cf534e3",
@@ -147,63 +344,22 @@
       "enriched": true
     },
     {
-      "id": "nc32370f5f71f",
-      "ticker": "E2E",
-      "company": "E2E Networks Limited",
-      "sector": "Information Technology",
+      "id": "nfc0a82d23154",
+      "ticker": "GLOBAL",
+      "company": "Optical Fibre",
+      "sector": "Telecom",
       "scope": [
-        "watchlist"
+        "universe"
       ],
-      "title": "E2E Networks AGM: फंड जुटाने और मैनेजमेंट की सैलरी पर फैसला, निवेशकों की नजर | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/Hindi/technology/E2E-Networks-AGM-Shareholders-Consider-Fundraising-Management-Pay-and-Strategic-Expansion/6aba3886f2017017ae732a06",
-      "source": "whalesbook.com",
-      "date": "2026-09-30T08:57:55.520Z",
-      "topic": "Money",
-      "keyword": "QIP",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "E2E Networks AGM approved fundraising and management salary decisions.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "nbe6f14a3faf6",
-      "ticker": "CURRENT",
-      "company": "Current Infraprojects Limited",
-      "sector": "Construction",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Current Infraprojects Secures Rs 10.42 Cr Bank Note Press Solar Order – Outlook Business",
-      "url": "https://www.outlookbusiness.com/spotlight/news-wire/current-infraprojects-secures-rs-10-42-cr-bank-note-press-solar-order",
-      "source": "outlookbusiness.com",
-      "date": "2026-09-30T08:57:31.500Z",
+      "title": "STL Networks Share Price Hits Upper Circuit on RailTel Order",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV05RTDBWNUM4SGJaMGR3aWtrcHMwWXRXVHJ2MDVjTWlUaUh4cFRuVUxPaW9XLVdKd2FpTVJya2VLcUk2eE5EVzJSUEt0RWNtOEQ5aGVPWDA3eXNnclF4Y2NVQVY4RTlIeTJqc3dVVXlkbFZzU2I4ZDU2STdkSnF5RjNaRQ?oc=5",
+      "source": "Univest",
+      "date": "2026-09-30T07:36:00.000Z",
       "topic": "Orders",
       "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Current Infraprojects wins Rs 10.42 crore solar order from Bank Note Press.",
-      "sources_count": 3,
-      "enriched": true
-    },
-    {
-      "id": "n7f13bfb30757",
-      "ticker": "AVANTEL",
-      "company": "Avantel Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Avantel ka bada kadam: Subsidiary merger ke saath ab Space aur AI mein entry ki taiyari | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/Hinglish/technology/Avantel-Approves-Merger-of-Subsidiary-and-Expands-Business-Scope-Into-New-Tech/6aad0c1af2017017ae6d4808",
-      "source": "whalesbook.com",
-      "date": "2026-09-30T08:57:21.495Z",
-      "topic": "Deals",
-      "keyword": "Merger",
       "importance": "medium",
       "mood": "positive",
-      "takeaway": "Avantel merging subsidiary and planning entry into Space and AI sectors.",
-      "sources_count": 4,
+      "takeaway": "STL Networks received order from RailTel, stock hit upper circuit.",
       "enriched": true
     },
     {
@@ -380,27 +536,6 @@
       "enriched": true
     },
     {
-      "id": "n8598aa74a9d2",
-      "ticker": "TANFACIND",
-      "company": "TANFAC Industries Ltd",
-      "sector": "Chemicals",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Anupam Rasayan Buys 48.2% in Bliss GVS for ₹1,750 Cr",
-      "url": "https://hdfcsky.com/news/anupam-rasayan-completes-purchase-of-48-2-pc-stake-in-bliss-gvs-pharma-for-rs-1750-cr",
-      "source": "hdfcsky.com",
-      "date": "2026-09-29T08:58:53.244Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Anupam Rasayan acquires 48.2% stake in Bliss GVS for Rs 1,750 crore.",
-      "sources_count": 3,
-      "enriched": true
-    },
-    {
       "id": "n82bd25f016b5",
       "ticker": "TANFACIND",
       "company": "TANFAC Industries Ltd",
@@ -478,6 +613,26 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Acutaas Chemicals opens pilot plant in Surat for high-potency drug ingredient research and development.",
+      "enriched": true
+    },
+    {
+      "id": "nbb097725dc48",
+      "ticker": "VENUSREM",
+      "company": "Venus Remedies Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Venus Remedies to launch the world's first once-a-day pain killer injection Aceclofenac OD gets patent from Indian patent office",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fNkQtTWFIMTFycHppUUJjcmRfQ1ZxaG1QYnVFX0VZck9xTzlfQ2k3WWVHTFp2dU9fWWJ3Y2dzQzB0aXdSVnRlZVp1YV9DZF9ud2M2cnFQUGs4dUpxNzUyVU5pVHJVLVk?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-09-28T23:15:16.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Patent",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Venus Remedies received Indian patent for world's first once-daily Aceclofenac painkiller injection.",
       "enriched": true
     },
     {
@@ -1412,7 +1567,7 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Sudeep Pharma schedules Q1 FY27 earnings call for Aug 5, 2026.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -6502,7 +6657,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "PVR Inox approved Rs 300 crore share buyback at Rs 1,450 per share.",
-      "sources_count": 3,
+      "sources_count": 5,
       "enriched": true
     },
     {
@@ -8582,7 +8737,7 @@
       "mood": "positive",
       "takeaway": "Vivo Mobile India forms strategic joint venture with Dixon Technologies.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "ndd027ba0ddd7",
@@ -9041,7 +9196,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Aurionpro won ₹100 crore order to build AI data centre infrastructure.",
-      "sources_count": 3,
+      "sources_count": 5,
       "enriched": true
     },
     {
@@ -10189,6 +10344,26 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Tejas Networks wins ₹1,537 crore order from BSNL for optical fiber equipment.",
+      "enriched": true
+    },
+    {
+      "id": "n3a9289604ea5",
+      "ticker": "GMMPFAUDLR",
+      "company": "GMM Pfaudler Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "GMM Pfaudler Q2 2026 Earnings: 10.54% Revenue Growth With ₹12.86 EPS Signals Resilience - Operating Income Trends",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSTNuZzYzNGZZMEZMOXFaLURuQkV0czNHNEQ1V3J1QzdJTElza1VGd2dyNkR2dmtEckg4QXZoZGxlZkR1a0RfN1NEVjMwM0tSdVZyeFlaVkZpSGtVWmZCZGtfNWpIcEw4UWNCTlZheTJCdnlkR0Q0a29tTXdfRFE5VHlKZzFDYWZWY2JkODNCVHRjQkdEQjQ0a2hZWFgwTDRUN0FzcjNwWmJ5LWw1b21nMDNMbENtNW5WQzYwLTdoOXZEVDdw?oc=5",
+      "source": "siam.in",
+      "date": "2026-08-31T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "GMM Pfaudler reported 10.54% revenue growth with earnings per share of ₹12.86 in Q2 2026.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -12177,6 +12352,25 @@
       "enriched": true
     },
     {
+      "id": "n610dc021a26b",
+      "ticker": "VBL",
+      "company": "Varun Beverages Limited",
+      "sector": "Fast Moving Consumer Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Varun Beverages (VBL) Earnings: 2Q Net Income Surpasses Estimates with a 15% Increase",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNV190RFJUUUJlTUp1QVE2d0tXckVsWXEyM1hiQjZGeHY3bTFBV0h2Q0xXM09sTnRLTXRLdkxnSGtDY0Nwd3Y2Y3JSWFlNMGprODc1N3dsMGptZkR2OFBkMGhNb1dvUi1YMldUOWJibmlwaTJ1WF95Ti1SVHlISnlhVzRGNHhrVlQ4S0RIWVpGd1hETlM5bGh5aEJhZjdUdTJxb01ybnBGS1hHRGZpbWV0Yy1nNlZBeUNlOVFYbEdacjlUOGtQWVlCeUVyNVMzYXhlNTAwM3Rn?oc=5",
+      "source": "Smartkarma",
+      "date": "2026-07-28T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Varun Beverages Q2 net income beat estimates, rising 15%.",
+      "enriched": true
+    },
+    {
       "id": "n7ff7b8eb5aa7",
       "ticker": "ZENTEC",
       "company": "Zen Technologies Limited",
@@ -12216,25 +12410,6 @@
       "enriched": true
     },
     {
-      "id": "nf1f09cde1bac",
-      "ticker": "E2E",
-      "company": "E2E Networks Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Delhi High Court stays E2E Networks stamp duty order on ₹1.25 crore deposit",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaW5mMVp1UlZ6X3hxN09CM0dkbDhoYzZzOFV0VU5nQmJ5UzF0M0RJdmRfemQ4TTNxWklFY0FxQUE0X1FnUDZDbVdVbkFVNWp2OU8wd25fNUVZaTlJb016NDlVY3AweXRkNk5uR19nRVFSMHBLS0xONGg4NGFVbTQ5YWx2eDRLblpRYnY0VW9tWk5HVXh0TjQ1c1A4WUUzYjV2SEFXY1ZpU2gzanROU2c4eXdWMzRWa3BMYUZj?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-07-27T07:00:00.000Z",
-      "topic": "Trouble",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Delhi High Court temporarily halts stamp duty order requiring E2E Networks to deposit ₹1.25 crore.",
-      "enriched": true
-    },
-    {
       "id": "n500d994efc8c",
       "ticker": "VBL",
       "company": "Varun Beverages Limited",
@@ -12251,6 +12426,25 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Varun Beverages board to review Q2 earnings and interim dividend amid Africa expansion.",
+      "enriched": true
+    },
+    {
+      "id": "nf1f09cde1bac",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Delhi High Court stays E2E Networks stamp duty order on ₹1.25 crore deposit",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaW5mMVp1UlZ6X3hxN09CM0dkbDhoYzZzOFV0VU5nQmJ5UzF0M0RJdmRfemQ4TTNxWklFY0FxQUE0X1FnUDZDbVdVbkFVNWp2OU8wd25fNUVZaTlJb016NDlVY3AweXRkNk5uR19nRVFSMHBLS0xONGg4NGFVbTQ5YWx2eDRLblpRYnY0VW9tWk5HVXh0TjQ1c1A4WUUzYjV2SEFXY1ZpU2gzanROU2c4eXdWMzRWa3BMYUZj?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-07-27T07:00:00.000Z",
+      "topic": "Trouble",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Delhi High Court temporarily halts stamp duty order requiring E2E Networks to deposit ₹1.25 crore.",
       "enriched": true
     },
     {
@@ -14748,26 +14942,6 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Scoda Tubes Q4 FY26 showed modest performance amid steel sector challenges.",
-      "enriched": true
-    },
-    {
-      "id": "n2ad8ae6295bb",
-      "ticker": "GMMPFAUDLR",
-      "company": "GMM Pfaudler Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "GMM Pfaudler Q2 2026 Earnings: Revenue Growth of 10.17% YoY, EPS at ₹12.86 - Earnings Season Review",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMmNvSXg1Z3lkbUhCQ2F5em9URWVOUFVVWGtYbm92VjZmYXdBdjc1M2VmNi1seWJSRjFKOXlBMno3WnFqal9ydHhoSTh3NUhDTFNSRVNnV29scnF1VDNsSDBfeGZhMExjc0k3UWNDZGZqcEl5dmxzRHQ5NDZXejB2M0ZtekFWUmcxcm9XMjgybnJVVGxTVDBaaTZ5UVIyM2c1X3lGOVZxRjl2MEE5YWc?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-23T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "GMM Pfaudler posts 10.17% revenue growth year-on-year in Q2 2026 with EPS of ₹12.86.",
-      "sources_count": 2,
       "enriched": true
     },
     {

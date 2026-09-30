@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T19:35:48.072Z",
+  "generated_at": "2026-09-30T19:35:36.194Z",
   "portfolio": [
     {
       "company": "Monolithisch India Limited",
@@ -27,14 +27,14 @@
       "sector": "Consumer Durables"
     },
     {
-      "company": "Shadowfax Technologies Limited",
-      "ticker": "SHADOWFAX",
-      "sector": "Services"
-    },
-    {
       "company": "Sterlite Technologies Limited",
       "ticker": "STLTECH",
       "sector": "Telecommunication"
+    },
+    {
+      "company": "Shadowfax Technologies Limited",
+      "ticker": "SHADOWFAX",
+      "sector": "Services"
     },
     {
       "company": "Acutaas Chemicals Limited",
@@ -110,6 +110,11 @@
       "company": "ESDS Software Solution Limited",
       "ticker": "ESDS",
       "sector": "Information Technology"
+    },
+    {
+      "company": "Adroit Industries (India) Limited",
+      "ticker": "ADROITIND",
+      "sector": ""
     },
     {
       "company": "SpectraA Technology Solutions Limited",
