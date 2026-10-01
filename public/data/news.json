@@ -1,31 +1,285 @@
 {
-  "generated_at": "2026-09-30T19:52:25.182Z",
+  "generated_at": "2026-10-01T09:42:30.145Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 133,
-    "watchlist": 729,
+    "watchlist": 733,
     "universe": 42,
-    "total": 771
+    "total": 775
   },
   "items": [
     {
-      "id": "n8f03f4fa38ae",
+      "id": "ndbac1d406588",
       "ticker": "MSECL",
       "company": "Monarch Surveyors and Engineering Consultants Ltd",
       "sector": "Services",
       "scope": [
         "watchlist"
       ],
-      "title": "Monarch Surveyors and Engineering gains on bagging Rs 2-cr work order | Capital Market News - Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/monarch-surveyors-and-engineering-gains-on-bagging-rs-2-cr-work-order-126082400282_1.html",
+      "title": "Monarch Surveyors and Engineering Consultants receives Rs 2-cr work order | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-and-engineering-consultants-receives-rs-2-cr-work-order-126082200734_1.html",
       "source": "business-standard.com",
-      "date": "2026-09-30T19:43:12.062Z",
+      "date": "2026-10-01T09:33:32.986Z",
       "topic": "Orders",
       "keyword": "Order",
       "importance": "low",
       "mood": "positive",
-      "takeaway": "Monarch Surveyors won a small ₹2 crore work order.",
+      "takeaway": "Monarch Surveyors received a ₹2 crore work order.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n3262e8ab943e",
+      "ticker": "RPSGVENT",
+      "company": "RPSG VENTURES LIMITED",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "CESC renewables 2026: Purvah merger, 600 MW PPAs update | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/cesc-purvah-merger-renewables-update-cmsmzkb7v00gt0zqelmmrmvs8",
+      "source": "multibagg.ai",
+      "date": "2026-10-01T09:31:48.174Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "CESC renewables unit Purvah merger progressing with 600 MW power purchase agreements secured.",
+      "enriched": true
+    },
+    {
+      "id": "nf959b9e8b434",
+      "ticker": "PVRINOX",
+      "company": "PVR INOX Limited",
+      "sector": "Media Entertainment & Publication",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "PVR Inox Share Buyback: ரூ.300 கோடி ஷேர் பைபேக் நிறைவு! 16 மடங்கு விண்ணப்பித்த முதலீட்டாளர்கள் | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Tamil/media-and-entertainment/PVR-Inox-Completes-Rs-300-Crore-Buyback-Shares-Oversubscribed-16-Times/6aba4f65f2017017ae737919",
+      "source": "whalesbook.com",
+      "date": "2026-10-01T09:31:46.675Z",
+      "topic": "Money",
+      "keyword": "Buyback",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "PVR Inox completed Rs 300 crore share buyback with 16 times oversubscription from investors.",
+      "enriched": true
+    },
+    {
+      "id": "n93b708a251dd",
+      "ticker": "LAXMIDENTL",
+      "company": "Laxmi Dental Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Q1 2027 Laxmi Dental Ltd Earnings Call Transcript",
+      "url": "https://www.gurufocus.com/news/9027891/q1-2027-laxmi-dental-ltd-earnings-call-transcript",
+      "source": "gurufocus.com",
+      "date": "2026-10-01T09:30:57.130Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Laxmi Dental released its Q1 2027 earnings call transcript.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "nf969cf2eeaea",
+      "ticker": "JYOTICNC",
+      "company": "Jyoti CNC Automation Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Sundaram Finance Partners with GMT Engineers to Finance Advanced Machinery",
+      "url": "https://businessminutes.in/2026/10/sundaram-finance-partners-with-gmt-engineers-to-finance-advanced-machinery.html",
+      "source": "businessminutes.in",
+      "date": "2026-10-01T09:30:52.658Z",
+      "topic": "Deals",
+      "keyword": "Partnership",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Sundaram Finance partnered with GMT Engineers to finance machinery sales.",
+      "enriched": true
+    },
+    {
+      "id": "n9df45b02e377",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Goldiam International AGM: Dividend par lagi mohar, MD Anmol Bhansali ki hui re-appointment! | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/consumer-products/Goldiam-International-Approves-Final-Dividend-and-Reappoints-MD-at-39th-AGM/6abbb5daf2017017ae75ad49",
+      "source": "whalesbook.com",
+      "date": "2026-10-01T09:30:39.623Z",
+      "topic": "Money",
+      "keyword": "QIP",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Goldiam International AGM approved dividend and reappointed MD Anmol Bhansali.",
+      "sources_count": 4,
+      "enriched": true
+    },
+    {
+      "id": "nb0dbc8ad5948",
+      "ticker": "GANESHBE",
+      "company": "Ganesh Benzoplast Limited",
+      "sector": "Oil Gas & Consumable Fuels",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Ganesh Benzoplast sells terminal business to KKR-backed Cisternina - Splash247",
+      "url": "https://splash247.com/ganesh-benzoplast-sells-terminal-business-to-kkr-backed-cisternina/",
+      "source": "splash247.com",
+      "date": "2026-10-01T09:30:35.999Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Ganesh Benzoplast sold its terminal business to KKR-backed Cisternina.",
+      "enriched": true
+    },
+    {
+      "id": "n19187c56172d",
+      "ticker": "GANESHBE",
+      "company": "Ganesh Benzoplast Limited",
+      "sector": "Oil Gas & Consumable Fuels",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Ganesh Benzoplast ka bada khel! Logistics business becha **₹1,154 Crore** mein, ab hoga Share Buyback? | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/industrial-goodsservices/Ganesh-Benzoplast-Sells-Logistics-Business-for-Rs-1154-Crore-Targets-Buyback/6abbce18f2017017ae75fba8",
+      "source": "whalesbook.com",
+      "date": "2026-10-01T09:30:35.999Z",
+      "topic": "Deals",
+      "keyword": "Buyback",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Ganesh Benzoplast sold logistics business for ₹1,154 crore, may consider share buyback.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nc32370f5f71f",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "E2E Networks AGM: फंड जुटाने और मैनेजमेंट की सैलरी पर फैसला, निवेशकों की नजर | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hindi/technology/E2E-Networks-AGM-Shareholders-Consider-Fundraising-Management-Pay-and-Strategic-Expansion/6aba3886f2017017ae732a06",
+      "source": "whalesbook.com",
+      "date": "2026-10-01T09:30:18.036Z",
+      "topic": "Money",
+      "keyword": "QIP",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "E2E Networks AGM approved fundraising plans and management compensation decisions.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n32a3032f8ba3",
+      "ticker": "DIXON",
+      "company": "Dixon Technologies (India) Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Dixon Technologies subsidiary enters IP license deal with Aviat Networks",
+      "url": "https://scanx.trade/stock-market-news/companies/dixon-technologies-subsidiary-enters-ip-license-deal-aviat-networks/52305851",
+      "source": "scanx.trade",
+      "date": "2026-10-01T09:30:14.046Z",
+      "topic": "Approvals&IP",
+      "keyword": "Joint Venture",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Dixon subsidiary signed IP licensing agreement with Aviat Networks for technology access.",
+      "enriched": true
+    },
+    {
+      "id": "n37f296ca991a",
+      "ticker": "DIXON",
+      "company": "Dixon Technologies (India) Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Dixon unit signs IP licensing deal with Aviat Networks India | Communications Today",
+      "url": "https://www.communicationstoday.co.in/dixon-unit-signs-ip-licensing-deal-with-aviat-networks-india/",
+      "source": "communicationstoday.co.in",
+      "date": "2026-10-01T09:30:14.046Z",
+      "topic": "Approvals&IP",
+      "keyword": "Joint Venture",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Dixon unit signed IP licensing deal with Aviat Networks India for technology transfer.",
+      "enriched": true
+    },
+    {
+      "id": "nbe6f14a3faf6",
+      "ticker": "CURRENT",
+      "company": "Current Infraprojects Limited",
+      "sector": "Construction",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Current Infraprojects Secures Rs 10.42 Cr Bank Note Press Solar Order – Outlook Business",
+      "url": "https://www.outlookbusiness.com/spotlight/news-wire/current-infraprojects-secures-rs-10-42-cr-bank-note-press-solar-order",
+      "source": "outlookbusiness.com",
+      "date": "2026-10-01T09:29:52.515Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Current Infraprojects wins Rs 10.42 crore solar order from Bank Note Press.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "n7f13bfb30757",
+      "ticker": "AVANTEL",
+      "company": "Avantel Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Avantel ka bada kadam: Subsidiary merger ke saath ab Space aur AI mein entry ki taiyari | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/technology/Avantel-Approves-Merger-of-Subsidiary-and-Expands-Business-Scope-Into-New-Tech/6aad0c1af2017017ae6d4808",
+      "source": "whalesbook.com",
+      "date": "2026-10-01T09:29:42.114Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Avantel merging subsidiary and entering Space and AI sectors.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nb978787f157d",
+      "ticker": "LUMINO",
+      "company": "Lumino Industries Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Inox Green Energy Raises ₹300 Cr via Equity Shares Issue: Rediff Moneynews",
+      "url": "https://money.rediff.com/amp/news/market/inox-green-energy-raises-300-cr-via-equity-shares-issue/55307820260930",
+      "source": "money.rediff.com",
+      "date": "2026-10-01T09:29:12.181Z",
+      "topic": "Money",
+      "keyword": "QIP",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Inox Green Energy raises Rs 300 crore through equity share issue.",
       "enriched": true
     },
     {
@@ -68,85 +322,6 @@
       "enriched": true
     },
     {
-      "id": "n3255ae1f0acd",
-      "ticker": "LAXMIDENTL",
-      "company": "Laxmi Dental Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Laxmi Dental Q1 Results: Earnings call scheduled for Aug 12",
-      "url": "https://scanx.trade/stock-market-news/companies/laxmi-dental-q1-results-earnings-call-scheduled-for-aug-12/47637168",
-      "source": "scanx.trade",
-      "date": "2026-09-30T19:40:42.723Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Laxmi Dental scheduled earnings call for August 12 to discuss Q1 results.",
-      "enriched": true
-    },
-    {
-      "id": "nc121c6eead4d",
-      "ticker": "GOLDIAM",
-      "company": "Goldiam International Limited",
-      "sector": "Consumer Durables",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Goldiam International: શેરધારકોને ડિવિડન્ડની ભેટ, કંપનીએ MD તરીકે અનમોલ ભણશાલીની કરી પુનઃનિયુક્તિ | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/Gujarati/consumer-products/Goldiam-International-Approves-Final-Dividend-and-Reappoints-MD-at-39th-AGM/6abbb5daf2017017ae75ad49",
-      "source": "whalesbook.com",
-      "date": "2026-09-30T19:40:00.475Z",
-      "topic": "Money",
-      "keyword": "QIP",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Goldiam declared dividend and reappointed Anmol Bhansali as Managing Director.",
-      "sources_count": 4,
-      "enriched": true
-    },
-    {
-      "id": "n93dabb68b0af",
-      "ticker": "GANESHBE",
-      "company": "Ganesh Benzoplast Limited",
-      "sector": "Oil Gas & Consumable Fuels",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Ganesh Benzoplast Sells Logistics Business for Rs 1,154 Crore; Targets Buyback | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/English/industrial-goodsservices/Ganesh-Benzoplast-Sells-Logistics-Business-for-Rs-1154-Crore-Targets-Buyback/6abbce18f2017017ae75fba8",
-      "source": "whalesbook.com",
-      "date": "2026-09-30T19:39:57.017Z",
-      "topic": "Deals",
-      "keyword": "Buyback",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Ganesh Benzoplast sold its logistics business for Rs 1,154 crore and plans a buyback.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n2eb4e79142a7",
-      "ticker": "E2E",
-      "company": "E2E Networks Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "E2E Networks AGM: ਫੰਡਰੇਜ਼ਿੰਗ ਅਤੇ ਮੈਨੇਜਮੈਂਟ ਦੀ ਤਨਖਾਹ 'ਤੇ ਨਿਵੇਸ਼ਕਾਂ ਦੀ ਨਜ਼ਰ | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/Punjabi/technology/E2E-Networks-AGM-Shareholders-Consider-Fundraising-Management-Pay-and-Strategic-Expansion/6aba3886f2017017ae732a06",
-      "source": "whalesbook.com",
-      "date": "2026-09-30T19:39:45.001Z",
-      "topic": "Money",
-      "keyword": "QIP",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "E2E Networks AGM to discuss fundraising and management compensation matters.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "n54fbd34029d3",
       "ticker": "DIXON",
       "company": "Dixon Technologies (India) Limited",
@@ -185,26 +360,6 @@
       "enriched": true
     },
     {
-      "id": "n1d5d2906ab6f",
-      "ticker": "CURRENT",
-      "company": "Current Infraprojects Limited",
-      "sector": "Construction",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Current Infraprojects Limited Secures Rs 10.42 Cr Order from Bank Note Press, Dewas for 3 MW Rooftop Solar Project - NewsX",
-      "url": "https://www.newsx.com/business-2/current-infraprojects-limited-secures-rs-10-42-cr-order-from-bank-note-press-dewas-for-3-mw-rooftop-solar-project-273549/",
-      "source": "newsx.com",
-      "date": "2026-09-30T19:39:18.584Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Current Infraprojects wins Rs 10.42 crore order for 3 MW rooftop solar project from Bank Note Press.",
-      "sources_count": 3,
-      "enriched": true
-    },
-    {
       "id": "n3892de2f8e5a",
       "ticker": "CMLL",
       "company": "Caliber Mining and Logistics Limited",
@@ -221,26 +376,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Caliber Mining reports FY26 profit of Rs 157 crore with growing order book.",
-      "enriched": true
-    },
-    {
-      "id": "nffcf36e56d42",
-      "ticker": "AVANTEL",
-      "company": "Avantel Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Avantel Merger: કંપનીનું મોટું પ્લાનિંગ, સબસિડિયરી સાથે વિલીનીકરણ અને નવા સેક્ટરમાં એન્ટ્રી | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/Gujarati/technology/Avantel-Approves-Merger-of-Subsidiary-and-Expands-Business-Scope-Into-New-Tech/6aad0c1af2017017ae6d4808",
-      "source": "whalesbook.com",
-      "date": "2026-09-30T19:39:00.730Z",
-      "topic": "Deals",
-      "keyword": "Merger",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Avantel plans to merge with its subsidiary and enter a new business sector.",
-      "sources_count": 4,
       "enriched": true
     },
     {
@@ -261,7 +396,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Anupam Rasayan completes acquisition of 48.2% stake in Bliss GVS Pharma.",
-      "sources_count": 4,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -282,26 +417,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Epigral plans capacity expansion to reach Rs 50 billion revenue by FY31.",
-      "enriched": true
-    },
-    {
-      "id": "nddaa524773ad",
-      "ticker": "LAXMIDENTL",
-      "company": "Laxmi Dental Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Laxmi Dental Ltd (NSE:LAXMIDENTL) (Q1 2027) Earnings Call Highlights: Record Revenue and ...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/laxmi-dental-ltd-nse-laxmidentl-150024610.html",
-      "source": "finance.yahoo.com",
-      "date": "2026-09-30T08:58:37.585Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Laxmi Dental reported record revenue in Q1 2027 earnings call.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -379,6 +494,25 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "HFCL has ₹28,000 crore order book and is expanding into AI data centres and defence sectors.",
+      "enriched": true
+    },
+    {
+      "id": "n5ca294fb36b4",
+      "ticker": "ONESOURCE",
+      "company": "Onesource Specialty Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "OneSource Pharma accepts Ravi Kumar resignation, appoints Preeti Kalra as SMP",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVnBxNHBod1BEQk0yeFM5S0I2c2duSGJkYUxDM1B4d0ZZLUtMeVhtWU9CYzBxRVdFcFEyTzlSRTZocTFhRkNrWG4tZ0xRdE9mY3d1SWlUbW1LcVF3Q09CMlZaYUtXMHE4aVVEVTlRSDJrY1ZyV1VSNXRMdG1taS1QXzZQNWR1SFNxT1J5OWFBdVo0eG9XZHByYldTNXctbXRmVzk4RHVxd0k1V3dkM0JsXzJVZDR6QVRpYjFldzBqMFUyd2tCcUFiUG1qcHRFbkdKUUpVR29qTTgwQ2M?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-09-29T23:56:00.000Z",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Ravi Kumar resigned, Preeti Kalra appointed as SMP at OneSource Pharma.",
       "enriched": true
     },
     {
@@ -3588,7 +3722,7 @@
       "mood": "positive",
       "takeaway": "Solar Industries plans to acquire Omnia for ₹12,951 crore.",
       "enriched": true,
-      "sources_count": 2
+      "sources_count": 3
     },
     {
       "id": "n5f124abb49d1",
@@ -6657,7 +6791,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "PVR Inox approved Rs 300 crore share buyback at Rs 1,450 per share.",
-      "sources_count": 5,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -7257,7 +7391,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Secured orders worth Rs 53.74 crore.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -9180,26 +9314,6 @@
       "enriched": true
     },
     {
-      "id": "n8afa09dd26b0",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Aurionpro secures ₹100 Crore AI data centre order - Express Computer",
-      "url": "https://www.expresscomputer.in/news/aurionpro-secures-%e2%82%b9100-crore-ai-data-centre-order/137733/",
-      "source": "expresscomputer.in",
-      "date": "2026-09-03T20:34:02.502Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Aurionpro won ₹100 crore order to build AI data centre infrastructure.",
-      "sources_count": 5,
-      "enriched": true
-    },
-    {
       "id": "n558d19bfaaab",
       "ticker": "AURIONPRO",
       "company": "Aurionpro Solutions Limited",
@@ -9216,7 +9330,27 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Aurionpro secured another contract from global hyperscale data centre operator.",
-      "sources_count": 2,
+      "sources_count": 4,
+      "enriched": true
+    },
+    {
+      "id": "n8afa09dd26b0",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Aurionpro secures ₹100 Crore AI data centre order - Express Computer",
+      "url": "https://www.expresscomputer.in/news/aurionpro-secures-%e2%82%b9100-crore-ai-data-centre-order/137733/",
+      "source": "expresscomputer.in",
+      "date": "2026-09-03T20:34:02.502Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Aurionpro won ₹100 crore order to build AI data centre infrastructure.",
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -11942,7 +12076,8 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Sterlite Technologies secures Rs 960 crore order.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "nc54465feba00",
@@ -12467,25 +12602,6 @@
       "enriched": true
     },
     {
-      "id": "n4436df7be080",
-      "ticker": "SURYAROSNI",
-      "company": "Surya Roshni Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Surya Roshni wins Rs 68.11 crore order from undisclosed client for OCTG supply",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM1Exeld3X1h5WFZWWVJ5MEdSY2FtUlBSU0htbDVCc0xIdk9rMkoycElUNUJ3MzhSMXRKZUk2YWxKRTdxV3N3YzBaby1xaGt5Qmg3S3dHVHl1NjV0V1N4dmtPamdraDNOdXl6MHJEV0xUYnd3WEFMOEJqTUJjNk42by15Qkd1UENEZzdWMVZLLUpsX2RtVl9Lc21iVW90ejZBVVJiNWhiT3hzZFg0SzBLTk1zOEZEeXZHdDh0dldJUFZ0dERTQW9LV2hHQXdIWFlT?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-07-24T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Surya Roshni secured ₹68.11 crore order for OCTG supply.",
-      "enriched": true
-    },
-    {
       "id": "n996916ced754",
       "ticker": "THEME",
       "company": "Specialty Chemicals",
@@ -12521,6 +12637,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Zen Technologies wins defence order worth Rs 178 crore.",
+      "enriched": true
+    },
+    {
+      "id": "n4436df7be080",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Surya Roshni wins Rs 68.11 crore order from undisclosed client for OCTG supply",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM1Exeld3X1h5WFZWWVJ5MEdSY2FtUlBSU0htbDVCc0xIdk9rMkoycElUNUJ3MzhSMXRKZUk2YWxKRTdxV3N3YzBaby1xaGt5Qmg3S3dHVHl1NjV0V1N4dmtPamdraDNOdXl6MHJEV0xUYnd3WEFMOEJqTUJjNk42by15Qkd1UENEZzdWMVZLLUpsX2RtVl9Lc21iVW90ejZBVVJiNWhiT3hzZFg0SzBLTk1zOEZEeXZHdDh0dldJUFZ0dERTQW9LV2hHQXdIWFlT?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-07-24T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Surya Roshni secured ₹68.11 crore order for OCTG supply.",
       "enriched": true
     },
     {
@@ -13034,26 +13169,6 @@
       "enriched": true
     },
     {
-      "id": "n028b0769b644",
-      "ticker": "SURYAROSNI",
-      "company": "Surya Roshni Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Surya Roshni Ltd secures export order",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VdXA1ZGtZaVlrYXk5QV9GbXd0cnEyTWdhcXVPanRRR2NPSEtSY2F0VjZkVXdGb2ctMFk2TzBtTXBHY0NtYTZVZ3dSNkhaX0s1aFlnUVJWV21TdmozWDI0?oc=5",
-      "source": "EquityBulls",
-      "date": "2026-07-11T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Surya Roshni secured an export order.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "n9a9292390ab4",
       "ticker": "AURIONPRO",
       "company": "Aurionpro Solutions Limited",
@@ -13245,6 +13360,26 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Varun Beverages Q1 revenue up 7.1% with improved operational efficiency.",
+      "enriched": true
+    },
+    {
+      "id": "n028b0769b644",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Surya Roshni Ltd secures export order",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VdXA1ZGtZaVlrYXk5QV9GbXd0cnEyTWdhcXVPanRRR2NPSEtSY2F0VjZkVXdGb2ctMFk2TzBtTXBHY0NtYTZVZ3dSNkhaX0s1aFlnUVJWV21TdmozWDI0?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-07-11T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Surya Roshni secured an export order.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -14924,65 +15059,6 @@
       "takeaway": "DEE subsidiary secured Rs 64 crore order from Ganeko Solar for wind towers.",
       "sources_count": 2,
       "enriched": true
-    },
-    {
-      "id": "n5c29b59f710f",
-      "ticker": "SCODATUBES",
-      "company": "Scoda Tubes Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Scoda Tubes Q4 FY26 Earnings: Modest Performance Amidst Steel Sector Challenges - Earnings Acceleration Picks",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS0R0X3NhdHUxM0hObUZvN3VzWWV5cUdZSUpLTXVFUUI1ZTlsTmFKM0drXzdfZEdxb0dZSUx4eFpGZDk2MXVRd1MtbDktQjA4UU9tQ3hscS1FeFlJWEV1eGkxdnhkWVZkeW8zVzhkU3RCNW5FZTJKX0VoazhzSEl6d2kzb3owaFMzSDVENlg0akRVVXpTYnJHejJYaWlMb3M1V2trNVBpNkJzUWNLcV9qOUVwVzZDQ0t0cF80?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-23T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Scoda Tubes Q4 FY26 showed modest performance amid steel sector challenges.",
-      "enriched": true
-    },
-    {
-      "id": "n818eabe8e0a9",
-      "ticker": "KSHINTL",
-      "company": "KSH International Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "KSHINTL Q2 2026 Earnings: Strong Revenue Growth of 61% YoY; EPS at ₹18.37 - Management Guidance Update",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSEotclUwNEZWX1JVSUNLMWE4TEV0dUFDVnNJVks2d2FEdFdxM0drcndXWUg4UW9IUFNMRUh4NWI2SlRhbkNucUdPd0taYWpCSDNZSElzd29oSGIyTGt3OEdnRllGU2hoSEYzdzF6OWVnT08wTl9KRk95bW5UWUNPLUFENHo3U24zZTdVRlZScFp4dUxrLTVPaURLSmV4LU51eUw3TlBBWXJONFZpQVE?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-23T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "KSH International reported strong Q2 revenue growth of 61% year-on-year with earnings per share of ₹18.37.",
-      "enriched": true
-    },
-    {
-      "id": "n41d97f0bac27",
-      "ticker": "RPSGVENT",
-      "company": "RPSG VENTURES LIMITED",
-      "sector": "Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "RPSG Ventures Q2 FY2026 Earnings: Revenue Growth of 17.85% Driven by Retail and Power Segments, but Bottom Line Remains Under Pressure - Earnings Acceleration Picks",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNX2ZkT1ExU2VWbmoweHk0WWZTNGhyYUhBOXdUMzdFa3FQeHVtSVcxM1c2QVVISkhUUkZNcWVxWHhwTms4U0dmUlBMNVhrdVJCTTNXQlhjbHM2Qk95YkFqa0ZJVG5sX0ZtWGp5d0VCUlZZOWFzcnR0dWxPazkwSjc3dURpcmdZWndNakJmMW1vMG44TXpQNzFqVDUtbFk2YVZLSVl2RW9hRlE5SDZHc0JCUmdEYVR4NnRkemlRbnZaR3BXOUNTeFpRRk0yTWZHX3JoRmlIYnFiOFhWRzJCd3dJbFJ3QVhxM2V0S2lPbG10LXFSWVl3ZUcxSGd0d3ZMVTFFR0Jz?oc=5",
-      "source": "siam.in",
-      "date": "2026-06-23T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "RPSG Ventures achieves 17.85% revenue growth in Q2 FY2026 driven by retail and power, but profits remain weak.",
-      "enriched": true,
-      "sources_count": 2
     }
   ]
 }
