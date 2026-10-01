@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T19:43:35.602Z",
+  "generated_at": "2026-10-01T09:42:28.298Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,16 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "fa4c60f50afd9",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "exchange": "NSE",
+      "date": "2026-10-01T11:11:57.000Z",
+      "category": "Press Release",
+      "title": "Surya Roshni Limited has informed the Exchange regarding a press release dated October 01, 2026, titled \"Q2 & H1 FY27 Business Update\".",
+      "url": "https://nsearchives.nseindia.com/corporate/SURYAROSNI_01102026111138_Update_01102026.pdf"
+    },
     {
       "id": "f710c7a98c23d",
       "ticker": "SAPPHIRE",
@@ -4976,6 +4986,16 @@
       "category": "Record Date",
       "title": "Balu Forge Industries Limited has informed the Exchange that Record date for the purpose of Dividend is 18-Sep-2026.",
       "url": "https://nsearchives.nseindia.com/corporate/BALUFORGE_07092026150558_IntimationReg42.pdf"
+    },
+    {
+      "id": "fc04c467fe700",
+      "ticker": "SHRIAHIMSA",
+      "company": "Shri Ahimsa Naturals Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T14:12:50.000Z",
+      "category": "Investor Presentation",
+      "title": "Shri Ahimsa Naturals Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/AHIMSANATURALS_07092026141145_Intimation_for_Investor_Meet.pdf"
     },
     {
       "id": "f4dd18c001b59",
@@ -19986,26 +20006,6 @@
       "category": "Action(s) taken or orders passed",
       "title": "Hariom Pipe Industries Limited has informed the Exchange about Action(s) taken or orders passed",
       "url": "https://nsearchives.nseindia.com/corporate/hariompipes_13072026194032_SE_Intimation_Closure_Suspension__Order_13072026.pdf"
-    },
-    {
-      "id": "f1db404a7d422",
-      "ticker": "PVRINOX",
-      "company": "PVR INOX Limited",
-      "exchange": "NSE",
-      "date": "2026-07-13T18:33:51.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "PVR INOX Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/PVRINOXLTD_13072026183340_PVRINOX74530062026.pdf"
-    },
-    {
-      "id": "f6ea99d7c9167",
-      "ticker": "EMAPARTNER",
-      "company": "EMA Partners India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-13T17:32:15.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "EMA Partners India Limited has informed the Exchange about Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended June 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/EMAIN_13072026172918_Intimation_under_Reg_74_5_-_June_26_sd.pdf"
     }
   ]
 }
