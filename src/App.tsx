@@ -46,7 +46,7 @@ export default function App() {
   const [refreshing, setRefreshing] = useState(false);
 
   const [feed, setFeed] = useState<FeedKey>('portfolio');
-  const [tab, setTab] = useState<TabKey>('pulse');
+  const [tab, setTab] = useState<TabKey>('feed');
   const [addOpen, setAddOpen] = useState(false);
   const [subscribeOpen, setSubscribeOpen] = useState(false);
   const [sourcesOpen, setSourcesOpen] = useState(false);
@@ -249,6 +249,35 @@ export default function App() {
     [activeCompanies],
   );
 
+  // Filings scoped to the selected feed: Portfolio shows only held-company
+  // filings, Watchlist shows held + exited + added, Universe shows everything.
+  // (Removed companies are hidden from filings too.)
+  const portfolioTickers = useMemo(
+    () => new Set((data?.companies.portfolio ?? []).map((c) => c.ticker.toUpperCase())),
+    [data],
+  );
+  const watchlistTickers = useMemo(
+    () =>
+      new Set(
+        [
+          ...(data?.companies.portfolio ?? []),
+          ...(data?.companies.watchlist_exited ?? []),
+          ...customWatchlist,
+        ].map((c) => c.ticker.toUpperCase()),
+      ),
+    [data, customWatchlist],
+  );
+  const scopedFilings = useMemo(() => {
+    const all = (data?.filings.items ?? []).filter(
+      (f) => !removedSet.has(String(f.ticker || '').toUpperCase()),
+    );
+    if (feed === 'portfolio')
+      return all.filter((f) => portfolioTickers.has(String(f.ticker || '').toUpperCase()));
+    if (feed === 'watchlist')
+      return all.filter((f) => watchlistTickers.has(String(f.ticker || '').toUpperCase()));
+    return all; // universe → all filings (company filings aren't theme-scoped)
+  }, [data, feed, portfolioTickers, watchlistTickers, removedSet]);
+
   /* ---- render ---- */
   return (
     <div className="app-bg min-h-screen">
@@ -274,6 +303,8 @@ export default function App() {
             <span className="font-bold capitalize text-slate-700">{feed}</span>
             <span className="mx-1.5 text-slate-300">·</span>
             {FEED_DESC[feed]}
+            <span className="mx-1.5 text-slate-300">·</span>
+            <span className="tabular-nums">{feedCounts[feed]} stories</span>
           </p>
         </div>
 
@@ -300,7 +331,7 @@ export default function App() {
           <>
             {tab === 'pulse' && <Pulse items={feedItems} />}
             {tab === 'feed' && <Feed key={feed} items={feedItems} />}
-            {tab === 'filings' && <Filings filings={data?.filings.items ?? []} />}
+            {tab === 'filings' && <Filings filings={scopedFilings} />}
           </>
         )}
       </main>

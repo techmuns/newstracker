@@ -40,6 +40,8 @@ export function FeedToggle({
             <Icon className="h-3.5 w-3.5" />
             <span>{f.label}</span>
             <span
+              title={`${counts[f.key]} stories in this feed`}
+              aria-label={`${counts[f.key]} stories`}
               className={`ml-0.5 rounded-full px-1.5 text-[10px] font-bold tabular-nums ${
                 active ? 'bg-white/25 text-white' : 'bg-slate-200 text-slate-500'
               }`}

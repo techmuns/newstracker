@@ -4,7 +4,7 @@
 // best-effort and non-fatal — Google News already covers these publishers, so
 // this is a bonus, never a dependency. Any error yields [].
 
-import { fetchWithTimeout, stripHtml, hostname } from './util.mjs';
+import { fetchWithTimeout, stripHtml, hostname, parseDate } from './util.mjs';
 
 // Keep it light: one named source, portfolio companies only (see news.mjs).
 const SOURCES = [
@@ -68,12 +68,10 @@ export async function firecrawlNews(company, apiKey) {
       const articles = raw?.data?.json?.articles || raw?.json?.articles || [];
       for (const a of articles) {
         if (!a?.url || !a?.title) continue;
-        let d = new Date(a.date || Date.now());
-        if (isNaN(d.getTime())) d = new Date();
         out.push({
           title: stripHtml(a.title),
           link: a.url,
-          date: d.toISOString(),
+          date: parseDate(a.date),
           source: src.name || hostname(a.url),
           snippet: '',
         });

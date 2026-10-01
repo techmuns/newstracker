@@ -72,6 +72,21 @@ export function ymd(d) {
   return d.toISOString().slice(0, 10);
 }
 
+// Parse a publisher date into an ISO string, or '' when there is NO usable date.
+// We deliberately never fall back to "now": stamping scrape-time on an undated
+// article makes old news look like today's — the exact bug a date-first feed must
+// avoid. Undated items keep date:'' so the UI shows them as "undated" (sorted to
+// the bottom) instead of masquerading as the latest news.
+export function parseDate(value) {
+  if (!value && value !== 0) return '';
+  const d = new Date(value);
+  const t = d.getTime();
+  if (isNaN(t)) return '';
+  if (t < Date.parse('2000-01-01T00:00:00Z')) return ''; // epoch-ish / clearly bogus
+  if (t > Date.now() + 2 * 86400000) return ''; // more than 2 days in the future = bogus
+  return d.toISOString();
+}
+
 export function sleep(ms) {
   return new Promise((r) => setTimeout(r, ms));
 }
@@ -212,12 +227,10 @@ export async function googleNews(query) {
         if (m) source = m[1].trim();
       }
       if (!source) source = hostname(link);
-      let date = it.pubDate ? new Date(it.pubDate) : new Date();
-      if (isNaN(date.getTime())) date = new Date();
       return {
         title,
         link,
-        date: date.toISOString(),
+        date: parseDate(it.pubDate),
         source,
         // Google News RSS <description> is just the title + publisher (no real
         // summary), so we drop it — the takeaway falls back to the clean title.

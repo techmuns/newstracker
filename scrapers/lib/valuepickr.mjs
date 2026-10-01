@@ -9,7 +9,7 @@
 // (honouring Retry-After) before retrying. Both keep the shape + call site
 // unchanged; every error path still logs one line and returns [].
 
-import { fetchWithTimeout, stripHtml, ymd, daysAgo, sleep } from './util.mjs';
+import { fetchWithTimeout, stripHtml, ymd, daysAgo, sleep, parseDate } from './util.mjs';
 
 const BASE = 'https://forum.valuepickr.com';
 // A realistic browser UA — be a good citizen (small concurrency upstream, short timeout).
@@ -68,12 +68,10 @@ export async function valuepickrSearch(company, sinceDate = ymd(daysAgo(90))) {
         if (!t || seen.has(p.topic_id)) continue; // one item per thread (newest post)
         seen.add(p.topic_id);
         const slug = t.slug || 'topic';
-        let d = new Date(p.created_at || t.last_posted_at || t.created_at || Date.now());
-        if (isNaN(d.getTime())) d = new Date();
         out.push({
           title: stripHtml(t.title || t.fancy_title || ''),
           link: `${BASE}/t/${slug}/${t.id}`,
-          date: d.toISOString(),
+          date: parseDate(p.created_at || t.last_posted_at || t.created_at),
           source: 'Valuepickr',
           snippet: stripHtml(p.blurb || ''),
         });
