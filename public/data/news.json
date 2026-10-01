@@ -1,30 +1,51 @@
 {
-  "generated_at": "2026-10-01T09:42:30.145Z",
+  "generated_at": "2026-10-01T20:13:38.409Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 133,
-    "watchlist": 733,
+    "portfolio": 135,
+    "watchlist": 738,
     "universe": 42,
-    "total": 775
+    "total": 780
   },
   "items": [
     {
-      "id": "ndbac1d406588",
-      "ticker": "MSECL",
-      "company": "Monarch Surveyors and Engineering Consultants Ltd",
-      "sector": "Services",
+      "id": "n114514bee8c7",
+      "ticker": "KSHINTL",
+      "company": "KSH International Limited",
+      "sector": "Capital Goods",
       "scope": [
+        "portfolio",
         "watchlist"
       ],
-      "title": "Monarch Surveyors and Engineering Consultants receives Rs 2-cr work order | Capital Market News - Business Standard",
-      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-and-engineering-consultants-receives-rs-2-cr-work-order-126082200734_1.html",
-      "source": "business-standard.com",
-      "date": "2026-10-01T09:33:32.986Z",
-      "topic": "Orders",
-      "keyword": "Order",
+      "title": "KSH International accepts Ajay Shiram Patil resignation as director",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVWc3UWI3amNkQVVUUUE4TmtSRWlNV28xcGl4ZjVjeEg2dmNzVU1hLUxCa0RmQ1ZSZlFOTzBzNzQ4VDFJcXZXbl9hQjlJcUlSQmlLWF8wN2VZQ0NtU1lqR0F0OFFlNzBOYmktUDdQWGhhbjA2NV9UV2Z1dlh5M3FDYUhncW5HS2VMNmhXeW9pbnR5TllUSTg5WVpnQXJfNVlQVm1FaXNETnJGZGwzdU5UTmFuVUhJcnA2N0hGWllkRWZLakFO?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-10-01T16:41:15.000Z",
+      "topic": "Trouble",
+      "keyword": "Resignation",
       "importance": "low",
-      "mood": "positive",
-      "takeaway": "Monarch Surveyors received a ₹2 crore work order.",
+      "mood": "neutral",
+      "takeaway": "Director Ajay Shiram Patil resigned from KSH International.",
+      "enriched": true
+    },
+    {
+      "id": "n02df641de3a1",
+      "ticker": "SAREGAMA",
+      "company": "Saregama India Limited",
+      "sector": "Media Entertainment & Publication",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Supreme Court Upholds Delhi HC Order In Ilaiyaraaja vs Saregama Copyright Case",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNUcwV0RvNG1rempSaXN1OHd5c1k1VkxLb1RiNVJ3X08zYXIwaXM2S1g4eWtPQUZOM18xdGRPWm9Qa0hGZmR5TFNfLV9HUHF5MTczMW9xVllCbEdDMVNBcmdpZlVpZkRLcnhPNXZaWi1aaUhGR3VINlBqVEN0dnF1OWhTR2t2NHo1TUlYYkpDUDE5cng3MlRBbThjSWFKS2lGYmc1YnBYUXFUMG9NSXAyWHV1OVFFeTRm0gG-AUFVX3lxTFBqX2k1Sk5vdVBtRkNKT3E2RGtqZjRzYlczalpMaUpReDB6QjctUTRrYUtNUzNRcEVHMkRqUURGYmdtaTJKME5pZTR3bWYtWjBSdUNJZ1lSV1A5TXJkZDRjMGFZY2FyeHJPaVVQY1p4ZGR5QXpRdWhrOTR0TEZ0ZExjLWxid28xckpDVnQ1cFIwX0c5Nm04TEwzVjJpQnRHTUtpeU5mZE10b1EtUFVUWU1CTE5VN2UyM3dINnI2OGc?oc=5",
+      "source": "LawBeat",
+      "date": "2026-10-01T11:48:44.000Z",
+      "topic": "Trouble",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Supreme Court upheld Delhi HC order in copyright case between Ilaiyaraaja and Saregama.",
       "sources_count": 2,
       "enriched": true
     },
@@ -103,26 +124,6 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Sundaram Finance partnered with GMT Engineers to finance machinery sales.",
-      "enriched": true
-    },
-    {
-      "id": "n9df45b02e377",
-      "ticker": "GOLDIAM",
-      "company": "Goldiam International Limited",
-      "sector": "Consumer Durables",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Goldiam International AGM: Dividend par lagi mohar, MD Anmol Bhansali ki hui re-appointment! | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/Hinglish/consumer-products/Goldiam-International-Approves-Final-Dividend-and-Reappoints-MD-at-39th-AGM/6abbb5daf2017017ae75ad49",
-      "source": "whalesbook.com",
-      "date": "2026-10-01T09:30:39.623Z",
-      "topic": "Money",
-      "keyword": "QIP",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Goldiam International AGM approved dividend and reappointed MD Anmol Bhansali.",
-      "sources_count": 4,
       "enriched": true
     },
     {
@@ -223,26 +224,6 @@
       "enriched": true
     },
     {
-      "id": "nbe6f14a3faf6",
-      "ticker": "CURRENT",
-      "company": "Current Infraprojects Limited",
-      "sector": "Construction",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Current Infraprojects Secures Rs 10.42 Cr Bank Note Press Solar Order – Outlook Business",
-      "url": "https://www.outlookbusiness.com/spotlight/news-wire/current-infraprojects-secures-rs-10-42-cr-bank-note-press-solar-order",
-      "source": "outlookbusiness.com",
-      "date": "2026-10-01T09:29:52.515Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Current Infraprojects wins Rs 10.42 crore solar order from Bank Note Press.",
-      "sources_count": 3,
-      "enriched": true
-    },
-    {
       "id": "n7f13bfb30757",
       "ticker": "AVANTEL",
       "company": "Avantel Limited",
@@ -259,7 +240,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Avantel merging subsidiary and entering Space and AI sectors.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -396,7 +377,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Anupam Rasayan completes acquisition of 48.2% stake in Bliss GVS Pharma.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -1408,7 +1389,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Lemon Tree's subsidiary Fleur Hotels acquired Mumbai land for Rs 120 crore.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -1701,7 +1682,7 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Sudeep Pharma schedules Q1 FY27 earnings call for Aug 5, 2026.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -2189,25 +2170,6 @@
       "mood": "neutral",
       "takeaway": "Inventurus released its Q1 results earnings call recording.",
       "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n09e8edf9219e",
-      "ticker": "IKS",
-      "company": "Inventurus Knowledge Solutions Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "IKS Health delivers $12 million annual cash impact for Axia Women's Health",
-      "url": "https://scanx.trade/stock-market-news/companies/iks-health-delivers-12-million-annual-cash-impact-for-axia-women-s-health/44410066",
-      "source": "scanx.trade",
-      "date": "2026-09-22T18:16:56.511Z",
-      "topic": "Deals",
-      "keyword": "Partnership",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "IKS Health partnership delivers $12 million annual cash impact for Axia Women's Health.",
       "enriched": true
     },
     {
@@ -2719,6 +2681,26 @@
       "enriched": true
     },
     {
+      "id": "n415272bdd232",
+      "ticker": "CURRENT",
+      "company": "Current Infraprojects Limited",
+      "sector": "Construction",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Current Infraprojects Secures Rs 10.42 Cr Bank Note Press Solar Order",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSXlsb0ZrRUpqUloyUkhjR08zZEtRUXVwbVlTLWxBc2FsZXFnMUVjMjdlQ25fZ1FmdXAyZk5jWjIxNFQtdkV3S1JMcnpSS1ZaUFkwZzVzaWpWcExWZWF3anRlQXBNd0I1LWtsZUIwMFRKY3h4U245WlAzVng5M0w1LTM5enRMN1d3bUtFS2hyLVdLQ25aRUl1WFltZ2hsVHZGTFVVd0NoTld2TWpRanJNRWJIeWNKVGJZaEctOTBB0gHLAUFVX3lxTE1HS0thTV9xMTFJLWtLa3dVM0ZhWWZIMjRoM2wxTXM2MHhEQ2N3MlpGY1dnZXdsOWNUN2NWZ3N0V3lIVm5ZaTc5eWtHcmNXWmlQRHd2Y3VwZE9vMTVNTGhUV19wTkNXeWVGTGVxQ1RtT1owcC1VMjJzSEFOMlJfLWl2SHR0ZTNwZVRyTDdhS3o5eGhqMHlSd1g2RzBvTFNVUFlKa2s2M1A5LVhleGsyVTJuM0NKa3E0dXVILWNYdktVVm5FREN1ZUV1S2Fj?oc=5",
+      "source": "outlookbusiness.com",
+      "date": "2026-09-19T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Current Infraprojects won Rs 10.42 crore solar order from Bank Note Press.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
       "id": "n4ea58ce07224",
       "ticker": "MOBIKWIK",
       "company": "One Mobikwik Systems Limited",
@@ -3084,25 +3066,6 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Inventurus Knowledge Solutions reported double-digit revenue growth in Q2 2026.",
-      "enriched": true
-    },
-    {
-      "id": "nd9b313ad39c4",
-      "ticker": "SOLARINDS",
-      "company": "Solar Industries India Limited",
-      "sector": "Chemicals",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Solar Industries (NSE:SOLARINDS): What Does the Omnia Holdings Acquisition Mean for Investors?",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTERHa1lJbEdHNExQeFBRbHBXQm05dE5ZRVE1eU5vVW5CQmRRdGxRczc2ZGpkSTdLZGZSZVhRSHRlS1VHcWgxNHJaSEkyOEpoNEtXd1pPSkFWN2tIMEktY1diQlBlOXlkbVM2R2xlZWxWdE1Zb3EtbXYwUUFoYXFuQUhCOW1DOE54WjE4d1M4dlE5Tm9jR0t4NGhDcWR3TlBNZDhaRTFkX3hOUTNnRGt6alM1c3ljd2R5a1Q3cU9kLVF6OFQxVTNCOTJlOWgzVko0UmxJ?oc=5",
-      "source": "Kalkine India",
-      "date": "2026-09-17T10:23:00.000Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Solar Industries has acquired Omnia Holdings, expanding its business footprint.",
       "enriched": true
     },
     {
@@ -4116,26 +4079,6 @@
       "enriched": true
     },
     {
-      "id": "n956f6fe7fe47",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Diamond Power Infrastructure secures ₹52.86 crore order from Aurionpro Solutions for Hyderabad data centre",
-      "url": "https://businessupturn.com/business/diamond-power-infrastructure-secures-rs52-86-crore-order-from-aurionpro-solutions-for-hyderabad-data-centre/",
-      "source": "businessupturn.com",
-      "date": "2026-09-13T17:36:44.955Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Diamond Power wins ₹52.86 crore data centre order from Aurionpro Solutions.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "n92acbc6a8d0b",
       "ticker": "MOBIKWIK",
       "company": "One Mobikwik Systems Limited",
@@ -4427,7 +4370,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "DEE Development Engineers' order book stands at ₹2,435.61 crore.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -4743,26 +4686,6 @@
       "mood": "positive",
       "takeaway": "Advait Greenergy secured ₹116 crore order from KPI Green Energy for 200 MW solar project in Rajasthan.",
       "sources_count": 3,
-      "enriched": true
-    },
-    {
-      "id": "n6074d0d7bfee",
-      "ticker": "SAREGAMA",
-      "company": "Saregama India Limited",
-      "sector": "Media Entertainment & Publication",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Saregama seeks contempt of court action against Ilaiyaraaja for violating Delhi HC copyright order",
-      "url": "https://www.barandbench.com/news/litigation/saregama-seeks-contempt-of-court-action-against-ilaiyaraaja-for-violating-delhi-hc-copyright-order",
-      "source": "barandbench.com",
-      "date": "2026-09-10T17:51:06.568Z",
-      "topic": "Trouble",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "negative",
-      "takeaway": "Saregama seeks contempt action against Ilaiyaraaja for violating Delhi HC copyright order.",
       "enriched": true
     },
     {
@@ -6791,7 +6714,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "PVR Inox approved Rs 300 crore share buyback at Rs 1,450 per share.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -9350,7 +9273,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Aurionpro won ₹100 crore order to build AI data centre infrastructure.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -14849,6 +14772,25 @@
       "enriched": true
     },
     {
+      "id": "n27285f638cf6",
+      "ticker": "VBL",
+      "company": "Varun Beverages Limited",
+      "sector": "Fast Moving Consumer Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Varun Beverages: Can the Asahi Partnership Open a New Growth Phase?",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV29PMTZlekdDaU10WWZ1RnZNYmdvX2wzREd0TENpVEJKSEdYSXhkQ1U2WnJnd1VEZk1tc2VqRTlSaUVaYUItbXlScUxIa3RaT0F6TWJCY00xeGw3Y2FxWjNwTE5aQUtUZ1NTTTF3Sjh2WERfMzEtZm00ZlZvS2pQZ3puT2VtZTV0MllROE83RklkNTA?oc=5",
+      "source": "Trade Brains",
+      "date": "2026-06-25T07:00:00.000Z",
+      "topic": "Deals",
+      "keyword": "Partnership",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Partnership with Asahi could drive new growth opportunities for Varun Beverages.",
+      "enriched": true
+    },
+    {
       "id": "n2593537a36cd",
       "ticker": "MSECL",
       "company": "Monarch Surveyors and Engineering Consultants Ltd",
@@ -14866,25 +14808,6 @@
       "mood": "positive",
       "takeaway": "Monarch Surveyors won ₹5.08 crore order to prepare DPR for Jaipur elevated road project.",
       "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n27285f638cf6",
-      "ticker": "VBL",
-      "company": "Varun Beverages Limited",
-      "sector": "Fast Moving Consumer Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Varun Beverages: Can the Asahi Partnership Open a New Growth Phase?",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV29PMTZlekdDaU10WWZ1RnZNYmdvX2wzREd0TENpVEJKSEdYSXhkQ1U2WnJnd1VEZk1tc2VqRTlSaUVaYUItbXlScUxIa3RaT0F6TWJCY00xeGw3Y2FxWjNwTE5aQUtUZ1NTTTF3Sjh2WERfMzEtZm00ZlZvS2pQZ3puT2VtZTV0MllROE83RklkNTA?oc=5",
-      "source": "Trade Brains",
-      "date": "2026-06-25T07:00:00.000Z",
-      "topic": "Deals",
-      "keyword": "Partnership",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Partnership with Asahi could drive new growth opportunities for Varun Beverages.",
       "enriched": true
     },
     {
@@ -15058,6 +14981,181 @@
       "mood": "positive",
       "takeaway": "DEE subsidiary secured Rs 64 crore order from Ganeko Solar for wind towers.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "ncf1629504db4",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Goldiam International 39వ AGM: షేర్ హోల్డర్లకు డివిడెండ్, కీలక పదవిలో మళ్ళీ అన్మోల్ బన్సాలీ! | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Telugu/consumer-products/Goldiam-International-Approves-Final-Dividend-and-Reappoints-MD-at-39th-AGM/6abbb5daf2017017ae75ad49",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "QIP",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Goldiam International held its 39th AGM, declared dividend, and reappointed Anmol Bansali to a key position.",
+      "sources_count": 4,
+      "enriched": true
+    },
+    {
+      "id": "nbe72ed039feb",
+      "ticker": "VAML",
+      "company": "Vedanta Aluminium Metal Limited",
+      "sector": "Metals & Mining",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Vedanta Aluminium Metal Ltd Shareholders Approve ESOP, Auditor Appointment in Postal Ballot | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/industrial-goodsservices/Vedanta-Aluminium-Metal-Ltd-Shareholders-Approve-ESOP-Auditor-Appointment-in-Postal-Ballot/6abe4c7980ecbb8a5f1b90a1",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Shareholders approved employee stock option plan and auditor appointment via postal ballot.",
+      "enriched": true
+    },
+    {
+      "id": "n8f03f4fa38ae",
+      "ticker": "MSECL",
+      "company": "Monarch Surveyors and Engineering Consultants Ltd",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Monarch Surveyors and Engineering gains on bagging Rs 2-cr work order | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/markets/capital-market-news/monarch-surveyors-and-engineering-gains-on-bagging-rs-2-cr-work-order-126082400282_1.html",
+      "source": "business-standard.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Monarch Surveyors won a Rs 2 crore work order.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n486c7647dbb9",
+      "ticker": "HILINFRA",
+      "company": "Highway Infrastructure Limited",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Highway Infrastructure Secures ₹245 Crore Toll Contracts in Uttar Pradesh and Tamil Nadu, ETInfra",
+      "url": "https://infra.economictimes.indiatimes.com/news/roads-highways/highway-infrastructure-bags-245-crore-toll-contracts-in-up-tamil-nadu/134610445",
+      "source": "infra.economictimes.indiatimes.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Highway Infrastructure won toll contracts worth ₹245 crore in Uttar Pradesh and Tamil Nadu.",
+      "enriched": true
+    },
+    {
+      "id": "n58dc90ec9741",
+      "ticker": "RAJESH",
+      "company": "Rajesh Power Services Ltd",
+      "sector": "Utilities",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Rajesh Power Services gains after bagging Rs 363-cr PGVCL order | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/amp/markets/capital-market-news/rajesh-power-services-gains-after-bagging-rs-363-cr-pgvcl-order-126080400327_1.html",
+      "source": "business-standard.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Rajesh Power Services won Rs 363 crore order from PGVCL.",
+      "enriched": true
+    },
+    {
+      "id": "n694b9674d431",
+      "ticker": "UNIMECH",
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Unimech invests ₹39 crore in Saudi JV for oil and gas components - CNBC TV18",
+      "url": "https://www.cnbctv18.com/market/unimech-invests-rs39-crore-in-saudi-jv-for-oil-and-gas-components-20003279.htm",
+      "source": "cnbctv18.com",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Joint Venture",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Unimech invested Rs 39 crore in Saudi joint venture for oil and gas components.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "ne4cdcd3670b8",
+      "ticker": "EPIGRAL",
+      "company": "Epigral Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Epigral Ltd की QIP सफलता: ₹333.05 करोड़ जुटाए - और जानें",
+      "url": "https://aliceblueonline.com/news/hi/epigral-ltd-qip-success-raises-rs-333-crore-hindi",
+      "source": "aliceblueonline.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "QIP",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Epigral raised ₹333 crore through QIP to fund growth.",
+      "enriched": true
+    },
+    {
+      "id": "n8070fbe59d22",
+      "ticker": "TRUECOLORS",
+      "company": "True Colors Ltd",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "True Colors Ltd ka FY26 report card: Profit hua **₹31.16 Cr**, ab ink market mein machegi dhamal | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/industrial-goodsservices/True-Colors-Ltd-Reports-FY26-PAT-of-Rs-3116-Crore-at-AGM/6abcefd580ecbb8a5f193056",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Merger",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "True Colors reported FY26 profit of Rs 31.16 crore.",
+      "enriched": true
+    },
+    {
+      "id": "ne605e8166604",
+      "ticker": "MSECL",
+      "company": "Monarch Surveyors and Engineering Consultants Ltd",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Monarch Surveyors changes official website domain to www.monarchltd.com",
+      "url": "https://scanx.trade/stock-market-news/companies/monarch-surveyors-changes-official-website-domain-www-monarchltd-com/48521213",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Other",
+      "keyword": "Acquisition",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Monarch Surveyors changed its official website domain.",
       "enriched": true
     }
   ]

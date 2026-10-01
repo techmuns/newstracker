@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T19:35:36.194Z",
+  "generated_at": "2026-10-01T19:59:47.032Z",
   "portfolio": [
     {
       "company": "Monolithisch India Limited",
@@ -22,14 +22,14 @@
       "sector": "Automobile and Auto Components"
     },
     {
-      "company": "Stylam Industries Limited",
-      "ticker": "STYLAMIND",
-      "sector": "Consumer Durables"
-    },
-    {
       "company": "Sterlite Technologies Limited",
       "ticker": "STLTECH",
       "sector": "Telecommunication"
+    },
+    {
+      "company": "Stylam Industries Limited",
+      "ticker": "STYLAMIND",
+      "sector": "Consumer Durables"
     },
     {
       "company": "Shadowfax Technologies Limited",
@@ -84,7 +84,7 @@
     {
       "company": "Jubilant Agri and Consumer Products Limited",
       "ticker": "JUBLCPL",
-      "sector": "Chemicals"
+      "sector": ""
     },
     {
       "company": "Tempsens Instruments (India) Limited",
@@ -114,12 +114,12 @@
     {
       "company": "Adroit Industries (India) Limited",
       "ticker": "ADROITIND",
-      "sector": ""
+      "sector": "Automobile and Auto Components"
     },
     {
       "company": "SpectraA Technology Solutions Limited",
       "ticker": "SPECTRAA",
-      "sector": ""
+      "sector": "Capital Goods"
     },
     {
       "company": "TANFAC Industries Ltd",
@@ -169,11 +169,6 @@
       "sector": "Oil Gas & Consumable Fuels"
     },
     {
-      "company": "BLACKBUCK LIMITED",
-      "ticker": "BLACKBUCK",
-      "sector": "Services"
-    },
-    {
       "company": "Can Fin Homes Limited",
       "ticker": "CANFINHOME",
       "sector": "Financial Services"
@@ -206,7 +201,7 @@
     {
       "company": "Denta Water and Infra Solutions Limited",
       "ticker": "DENTA",
-      "sector": "Utilities"
+      "sector": ""
     },
     {
       "company": "Vasa Denticity Limited",
@@ -339,11 +334,6 @@
       "sector": "Consumer Durables"
     },
     {
-      "company": "Man Industries (India) Limited",
-      "ticker": "MANINDS",
-      "sector": "Capital Goods"
-    },
-    {
       "company": "MAS Financial Services Limited",
       "ticker": "MASFIN",
       "sector": "Financial Services"
@@ -461,7 +451,7 @@
     {
       "company": "Shiprocket Limited",
       "ticker": "SHIPROCKET",
-      "sector": "Services"
+      "sector": "Consumer Services"
     },
     {
       "company": "Shri Ahimsa Naturals Limited",
@@ -509,11 +499,6 @@
       "sector": "Automobile and Auto Components"
     },
     {
-      "company": "Triveni Engineering & Industries Limited",
-      "ticker": "TRIVENI",
-      "sector": "Fast Moving Consumer Goods"
-    },
-    {
       "company": "Unimech Aerospace and Manufacturing Limited",
       "ticker": "UNIMECH",
       "sector": "Capital Goods"
@@ -552,6 +537,21 @@
       "company": "Zen Technologies Limited",
       "ticker": "ZENTEC",
       "sector": "Capital Goods"
+    },
+    {
+      "company": "BLACKBUCK LIMITED",
+      "ticker": "BLACKBUCK",
+      "sector": "Services"
+    },
+    {
+      "company": "Man Industries (India) Limited",
+      "ticker": "MANINDS",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "Triveni Engineering & Industries Limited",
+      "ticker": "TRIVENI",
+      "sector": "Fast Moving Consumer Goods"
     },
     {
       "company": "Adcounty Media India Ltd",
