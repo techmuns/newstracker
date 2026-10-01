@@ -1,6 +1,6 @@
 import { ExternalLink, Sparkles } from 'lucide-react';
 import type { NewsItem } from '../../lib/types';
-import { topHighlights } from '../../lib/metrics';
+import { topHighlights, isoDay } from '../../lib/metrics';
 import { TOPIC, MOOD } from '../../lib/theme';
 import { Pill } from '../ui/Pill';
 
@@ -43,9 +43,19 @@ function HighlightCard({ item }: { item: NewsItem }) {
   );
 }
 
+// Only the last few days count as "recent" — a high-importance story from two
+// weeks ago must not sit in the highlights pretending to be fresh. Undated items
+// (empty date) are never treated as recent.
+const RECENT_DAYS = 4;
+function recentCutoff(): string {
+  const d = new Date(Date.now() - (RECENT_DAYS - 1) * 86400000);
+  return d.toLocaleDateString('en-CA', { timeZone: 'Asia/Kolkata' });
+}
+
 export function HighlightsStrip({ items }: { items: NewsItem[] }) {
+  const cutoff = recentCutoff();
   const highlights = topHighlights(
-    items.filter((i) => i.importance === 'high'),
+    items.filter((i) => i.importance === 'high' && isoDay(i.date || '') >= cutoff),
     5,
   );
   if (highlights.length === 0) return null;
@@ -54,9 +64,9 @@ export function HighlightsStrip({ items }: { items: NewsItem[] }) {
     <section>
       <div className="mb-2 flex items-center gap-2">
         <Sparkles className="h-4 w-4 text-amber-500" />
-        <h2 className="text-sm font-bold text-slate-800">Today&apos;s highlights</h2>
+        <h2 className="text-sm font-bold text-slate-800">Latest highlights</h2>
         <span className="text-xs text-slate-400">
-          the biggest stories right now
+          the biggest stories from the last few days
         </span>
       </div>
       <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-5">

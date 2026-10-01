@@ -47,8 +47,12 @@ export function NewsCard({ item }: { item: NewsItem }) {
 
           <div className="mt-2 flex flex-wrap items-center gap-x-2 gap-y-1 text-xs text-slate-400">
             <span className="font-medium text-slate-500">{item.source}</span>
-            <span aria-hidden>·</span>
-            <span className="tabular-nums">{formatDate(item.date)}</span>
+            {item.date ? (
+              <>
+                <span aria-hidden>·</span>
+                <span className="tabular-nums">{formatDate(item.date)}</span>
+              </>
+            ) : null}
             <span aria-hidden>·</span>
             <span className={`inline-flex items-center gap-1 ${mood.text}`}>
               <span className={`h-2 w-2 rounded-full ${mood.dot}`} />

@@ -2,9 +2,11 @@ import { BarChart3, Newspaper, FileText, type LucideIcon } from 'lucide-react';
 
 export type TabKey = 'pulse' | 'feed' | 'filings';
 
+// News leads — it's the primary reason the dashboard exists. "Market Pulse"
+// (the charts) and Filings sit after it.
 const TABS: { key: TabKey; label: string; icon: LucideIcon }[] = [
-  { key: 'pulse', label: 'Pulse', icon: BarChart3 },
-  { key: 'feed', label: 'Feed', icon: Newspaper },
+  { key: 'feed', label: 'News', icon: Newspaper },
+  { key: 'pulse', label: 'Market Pulse', icon: BarChart3 },
   { key: 'filings', label: 'Filings', icon: FileText },
 ];
 

@@ -38,6 +38,7 @@ import {
   nowISO,
   daysAgo,
   ymd,
+  parseDate,
 } from './lib/util.mjs';
 import { firecrawlNews } from './lib/firecrawl.mjs';
 import { valuepickrSearch } from './lib/valuepickr.mjs';
@@ -200,12 +201,16 @@ async function munshotNews(query) {
       .map((x) => {
         const link = x.url || x.link || x.source_url;
         if (!link) return null;
-        let d = new Date(x.date || x.published_at || x.pubDate || x.publishedAt || Date.now());
-        if (isNaN(d.getTime())) d = new Date();
         return {
           title: stripHtml(x.title || x.headline || ''),
           link,
-          date: d.toISOString(),
+          // Munshot sometimes omits a date; try every known field name and, if
+          // none parse, leave it empty (never fake "now") so old items can't
+          // masquerade as today's news.
+          date: parseDate(
+            x.date || x.published_at || x.pubDate || x.publishedAt ||
+              x.published || x.datetime || x.date_published || x.created_at || x.time,
+          ),
           source: x.source || x.publisher || hostname(link),
           snippet: stripHtml(x.snippet || x.summary || x.description || ''),
         };
@@ -355,6 +360,13 @@ async function main() {
     it.id = 'n' + sha1short(normalizeUrl(resolved));
   });
   incoming = dedupeRun(incoming);
+
+  const undatedIn = incoming.filter((it) => !it.date).length;
+  if (undatedIn) {
+    console.log(
+      `[news] ${undatedIn}/${incoming.length} incoming item(s) had NO usable publish date — kept as "undated" (not stamped today). If this number is high, check the Munshot news-search date field.`,
+    );
+  }
 
   const sourcesUsed = [];
   if (stat.googleKept > 0 || stat.universeKept > 0) sourcesUsed.push('google-news');

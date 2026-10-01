@@ -46,11 +46,15 @@ Open the printed URL — the dashboard loads immediately (no password).
 - **Three feeds** (top-bar toggle): **Portfolio** (holdings), **Watchlist**
   (holdings + exited + anything you add), **Universe** (keyword-led global
   discovery).
-- **Pulse** — newsflow over 14 days, topic donut, "most in the news", mood.
-- **Feed** — the news as filterable/sortable cards (topic, company, source,
-  mood, importance, search).
-- **Filings** — NSE/BSE announcements, filterable by company and exchange.
-- **+ Add** — custom keywords and watchlist stocks (localStorage for now).
+- **News** (the default view) — the stories as a chronological, date-grouped
+  list (Today / Yesterday / full date), filterable by topic, company, source,
+  mood, importance, and free-text search.
+- **Market Pulse** — latest highlights (recent, high-importance stories only),
+  newsflow over 14 days, topic donut, "most in the news", mood.
+- **Filings** — NSE/BSE announcements, scoped to the selected feed (Portfolio
+  shows only your holdings' filings) and filterable by company, exchange, and
+  category.
+- **+ Add** — custom keywords and watchlist stocks.
 
 ## The data pipeline (`/scrapers`)
 
