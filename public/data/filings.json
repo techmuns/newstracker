@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T09:07:42.823Z",
+  "generated_at": "2026-10-02T19:37:03.826Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,16 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f13d62cb98cb5",
+      "ticker": "JYOTICNC",
+      "company": "Jyoti CNC Automation Limited",
+      "exchange": "NSE",
+      "date": "2026-10-02T17:08:45.000Z",
+      "category": "Shareholders meeting",
+      "title": "Jyoti CNC Automation Limited has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on September 30, 2026. Further, the company has informed the Exchange regarding voting results.",
+      "url": "https://nsearchives.nseindia.com/corporate/JYOTICNC_NSE_02102026170834_BSEnseJCALVotingResultScrutinizerReport02102026.pdf"
+    },
     {
       "id": "fe40ad2f2bf68",
       "ticker": "GANESHBE",
@@ -19996,16 +20006,6 @@
       "category": "Record Date",
       "title": "Yasho Industries Limited has informed the Exchange that Record date for the purpose of Dividend is 30-Jul-2026.",
       "url": "https://nsearchives.nseindia.com/corporate/8291904474_14072026174138_Intimation_of_record_date.pdf"
-    },
-    {
-      "id": "fb7ca599551e2",
-      "ticker": "YASHO",
-      "company": "Yasho Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-07-14T17:41:03.000Z",
-      "category": "Disclosure",
-      "title": "In compliance with Regulation 34(2)(f) of the SEBI Listing Regulations, please find enclosed herewith the Business Responsibility and Sustainability Report ( BRSR ) of the Company for the financial year 2025-26",
-      "url": "https://nsearchives.nseindia.com/corporate/8291904474_14072026171316_Intimation_of_BRSR.pdf"
     }
   ]
 }
