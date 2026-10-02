@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-10-01T20:13:38.409Z",
+  "generated_at": "2026-10-02T09:02:20.621Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 135,
-    "watchlist": 738,
+    "portfolio": 137,
+    "watchlist": 744,
     "universe": 42,
-    "total": 780
+    "total": 786
   },
   "items": [
+    {
+      "id": "n0f214a97fd24",
+      "ticker": "UNIMECH",
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Unimech Aerospace Invests SAR 15.3 Million in Saudi Arabia Joint Venture",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONlVWOXJkaXdSTEJMaFZwUXVlVFpINFJ4dGtGYUMybnNpUHp4MTdidld6RENJRFhUeUJCV2dJY244RzVmdlQwZzVBdk9tVndtR2FOTzlfVnZMQlMxSG1VUHhVOFpHLXBZcFBBcW9ublY4YmlrNWhGQWhOSEtsdDYwZmhjRzNLeTJfNjM5a1dOS1JmVG9SVTdJdXljVGpWNjhUazBWY2M3SUsyQQ?oc=5",
+      "source": "Machine Maker",
+      "date": "2026-10-02T04:37:53.000Z",
+      "topic": "Deals",
+      "keyword": "Joint Venture",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Unimech Aerospace invests SAR 15.3 million in Saudi Arabia joint venture.",
+      "enriched": true
+    },
     {
       "id": "n114514bee8c7",
       "ticker": "KSHINTL",
@@ -2408,26 +2427,6 @@
       "enriched": true
     },
     {
-      "id": "n63757ffd7cf3",
-      "ticker": "PVRINOX",
-      "company": "PVR INOX Limited",
-      "sector": "Media Entertainment & Publication",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "PVR Inox Share Price: Board to Consider Buyback on August 31, 2026",
-      "url": "https://univest.in/blogs/pvr-inox-share-price-buyback-board-meeting-august-31-2026",
-      "source": "univest.in",
-      "date": "2026-09-21T08:13:36.016Z",
-      "topic": "Money",
-      "keyword": "Buyback",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Board to consider buyback proposal on August 31, 2026.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "n6220362b4270",
       "ticker": "SUDEEPPHRM",
       "company": "Sudeep Pharma Limited",
@@ -2678,26 +2677,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Solar Group acquired Omnia for $1.36 billion, expanding its explosives and defence business globally.",
-      "enriched": true
-    },
-    {
-      "id": "n415272bdd232",
-      "ticker": "CURRENT",
-      "company": "Current Infraprojects Limited",
-      "sector": "Construction",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Current Infraprojects Secures Rs 10.42 Cr Bank Note Press Solar Order",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSXlsb0ZrRUpqUloyUkhjR08zZEtRUXVwbVlTLWxBc2FsZXFnMUVjMjdlQ25fZ1FmdXAyZk5jWjIxNFQtdkV3S1JMcnpSS1ZaUFkwZzVzaWpWcExWZWF3anRlQXBNd0I1LWtsZUIwMFRKY3h4U245WlAzVng5M0w1LTM5enRMN1d3bUtFS2hyLVdLQ25aRUl1WFltZ2hsVHZGTFVVd0NoTld2TWpRanJNRWJIeWNKVGJZaEctOTBB0gHLAUFVX3lxTE1HS0thTV9xMTFJLWtLa3dVM0ZhWWZIMjRoM2wxTXM2MHhEQ2N3MlpGY1dnZXdsOWNUN2NWZ3N0V3lIVm5ZaTc5eWtHcmNXWmlQRHd2Y3VwZE9vMTVNTGhUV19wTkNXeWVGTGVxQ1RtT1owcC1VMjJzSEFOMlJfLWl2SHR0ZTNwZVRyTDdhS3o5eGhqMHlSd1g2RzBvTFNVUFlKa2s2M1A5LVhleGsyVTJuM0NKa3E0dXVILWNYdktVVm5FREN1ZUV1S2Fj?oc=5",
-      "source": "outlookbusiness.com",
-      "date": "2026-09-19T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Current Infraprojects won Rs 10.42 crore solar order from Bank Note Press.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -4370,7 +4349,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "DEE Development Engineers' order book stands at ₹2,435.61 crore.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -4685,7 +4664,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Advait Greenergy secured ₹116 crore order from KPI Green Energy for 200 MW solar project in Rajasthan.",
-      "sources_count": 3,
+      "sources_count": 5,
       "enriched": true
     },
     {
@@ -7797,7 +7776,7 @@
       "mood": "neutral",
       "takeaway": "Sonata Software held Q1 2027 earnings call discussing quarterly results.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "nad522af64f0c",
@@ -8025,7 +8004,8 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Rubicon Research reported strong growth in Q1 2026 earnings call.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n4f022f60e93b",
@@ -9100,7 +9080,8 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Balu Forge wins multi-month order for 155mm ERFB ammunition.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "nc4dc34d9ae56",
@@ -9253,7 +9234,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Aurionpro secured another contract from global hyperscale data centre operator.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -11402,6 +11383,44 @@
       "enriched": true
     },
     {
+      "id": "n113e935164a1",
+      "ticker": "SHAILY",
+      "company": "Shaily Engineering Plastics Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Earnings Miss: Shaily Engineering Plastics Limited Missed EPS By 6.6% And Analysts Are Revising Their Forecasts",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTWktb1lRRU1GbXNyWUZnMldaNXBiQ1F5M3lVUlRadlo2TWo4ZnRkVGw2QTk1VTRhM0h5OWNScDAwYWxvRGc5bHRKQklIdEhyLTlfWmVWUXlvOHBRS2Q5TUd4ejhGRFQ0TmZBOFBPLVp1UUZBUHZpbERsRzA0M3l5cUp1Y0dSdzhGbHFxNlNQNGpCdkNGV2pXNGo1dmp6YWZUQThfOVBOUHR6UzhzNHFxM0ZRdEplUEFfYktJczdZVExfczRyaTNtbFNtbk1hOHZIY0d6azZfVTcxbUdrcW9Nbzg4cjNNdnotOE5hUjl30gHzAUFVX3lxTFAxMjk3MTJwWjl2bVVYZnFCcjl5Sy1Ya1RGcVNhd19CcjdLcWNjcDl2Q1lNQVk0YWJ0c0ZJMzZwSlZuM3c4ZXZaTFpaUVBIcGNqbkZ0NWpVcWtRcElyVTZnX1pWOURWZHVFVGVlTmd6T19IVFR6V3B6YXBhRWZMeVoyWnRLSGR4UnpGZ25KV3FXME53cExISjNZNzBpMTdvTkw5UEZ5YTFyWUxkM3c5QUxRcFdmMVFkRjN5WHBmVEUxWTlKSjIzTm15ZWtUeEdhQk5TeWZGaHdHTWd4ekx3WUtuYm9NcDRVVXdPN2lRUHkwTHJBYw?oc=5",
+      "source": "Simply Wall Street",
+      "date": "2026-08-12T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "negative",
+      "takeaway": "Shaily Engineering Plastics missed earnings by 6.6%, prompting analysts to revise forecasts downward.",
+      "enriched": true
+    },
+    {
+      "id": "nba4e63d74af2",
+      "ticker": "SKYGOLD",
+      "company": "SKY GOLD AND DIAMONDS LIMITED",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Sky Gold and Diamonds Limited (NSE:SKYGOLD) Just Reported First-Quarter Earnings And Analysts Are Lifting Their Estimates",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQR1NjSTJnVmI5MmZhdXZGa3hDaEM4WlJhNHVSb0F4SHBnZ2pjMEtkY05iOHBFMF9SR1VHU29DQ0lydk1IelNicDRldGNhOVBrMG1yeF9yX0ZQNFM1ZUNuLVlmclU3dHJpTE9YYmZ1T2tSMUJSYmVhNjR5RXo5NWg4ZWxHOTVfalNwWkxXT2pfVWY2aGp4US1ILWg2UnM2ZFBuWnhNS2sxLW9PMlZCLW9PY2pOaGNDX2QtdEQ0d08ySEJEYzR0dzJZWThHLU5rOS1mLWxYM3RlelJBeTEyajVZa0thSWwwdFRmVEpKMdIB8gFBVV95cUxOcmdZdEttU3lIQS1PMHJrbGZBSUIzbDF3VklKTEhZbWZaT2tmb3k5Wlcwcl9KR2hXdHFnaVoyZHpGWl9ONDVXaGJ5TUhIYmVyQ3lWZ1o4U1hHQmIzVHVROVhWUU5lbnJvU1R3a1d4SEtLUnhKcW1EbE1zVGpBYWdHdklGUUd1ZXVQS2tFNjcwMmpmeUJhNDBURkpjNUV2N0lOZXNrUFgwWUFHam5uMm9vRVlwTlZ4Z3JhdmlWWG01VERLa1N6dUExelNOaHVkMUNmUHliLVUtWWM5LXEyYlRXWW9rcEhXRm1hSnJvVkpHSU5VQQ?oc=5",
+      "source": "Simply Wall Street",
+      "date": "2026-08-12T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Sky Gold reported Q1 earnings, analysts raised estimates following the results.",
+      "enriched": true
+    },
+    {
       "id": "n91a069b0c23b",
       "ticker": "ADVAIT",
       "company": "Advait Energy Transitions Limited",
@@ -11498,6 +11517,25 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Wockhardt seeks shareholder approval to raise Rs 3,000 crore at AGM on August 10, 2026.",
+      "enriched": true
+    },
+    {
+      "id": "nebab0eeb730c",
+      "ticker": "TENNIND",
+      "company": "Tenneco Clean Air India Limited",
+      "sector": "Automobile and Auto Components",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Tenneco Clean Air India Limited (NSE:TENNIND) Just Reported First-Quarter Earnings: Have Analysts Changed Their Mind On The Stock?",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeVdqc1MtX3FiMjBTS0pLOGJ1MGNHakM1dW13ME1VV3FaTjd3Vm1oTFNpOHFSMlFEYVN1OUJRS2E5MjN3UjltbmpFYUhPYVF2aEhhUHoyOVRKTkZ0NVh6RENObTZiSmhnY1RnaFVwWDhobmlkQW94Q3lscG04UDRNSk1aNkdTcmNkRVJ5TVBxV3Y0dThvRkZCVUlmQ25aUkhMSVdrSDJwWVlENHNkSmQtcm5Fb2ZyYkIwT1d1emd5VnZ4RVhFUzhVZTBlWmZxZ0tsTktCVlBKeS1mTF9FT2NDYlRvUDRPMTDSAewBQVVfeXFMUF9vMFQ3WjdOa0hFeW1HNWhySHN3LTNUYTZkY3NDSl9YQ3I3M3NUOFpsMzNIZFNmazJFLUJaeGpJSXl6SURDSkY0aF8xazVJaGdqVnBEMUJPLUVxTXN0Mk5zbmtJclZDMDM5cGRadTJubEM1SjNQZktyVXlPWXI4dDFIUmdsVFJJdU1qYnJ0UWZ5MHVjWlJtdDZhNk9LRzJKb2NhdVpBYkxYVG50elBsVDYtTzA0ZXpQOXlPc2V1ZmdJQXpaenB0VG9NOHUwMXBBaHBYLWRPdnBJWWVUQmUwT2Z4cG5GWHBsV3pPSnQ?oc=5",
+      "source": "Simply Wall Street",
+      "date": "2026-08-10T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Tenneco Clean Air India reported Q1 earnings, analysts reviewing their outlook.",
       "enriched": true
     },
     {
@@ -11752,6 +11790,26 @@
       "enriched": true
     },
     {
+      "id": "n2e533ac531ab",
+      "ticker": "SUDEEPPHRM",
+      "company": "Sudeep Pharma Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Sudeep Pharma hosts Q1FY27 earnings call on Aug 5 to discuss results",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQlN6bjRYWW9FNlZzR29XV3NJbDRPTnBYUU5vNldiYllFVnlWNmI3dFNvVjdjS3VGaG85dHpPSTNxS3RfZE5aRFVDUzlUOU4xYWpFSlk0NWZvQVBJVjktVEY0TEFjT3d3cS1HYkRJdGlHMFNFdFdlN0QtZERwWVFMQllvMjBtYzRlRjdKNzNHUTZ6TlBKZnQ0YzdadDBrTzRkTzFKQU5EZzNfaU9LTE4wMENNbm1mUQ?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-08-05T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Sudeep Pharma to hold earnings call on Aug 5 to discuss Q1FY27 results.",
+      "enriched": true
+    },
+    {
       "id": "n2380b0c33ce4",
       "ticker": "STLTECH",
       "company": "Sterlite Technologies",
@@ -11788,6 +11846,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Cipla receives US FDA approval for InvaGen's New York manufacturing facility.",
+      "enriched": true
+    },
+    {
+      "id": "nbd159790d8c6",
+      "ticker": "SETL",
+      "company": "Standard Engineering Technology Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Standard Engineering Technology (NSE:SETL) Updates Preferential Issue Details for Proposed GScale Energy Acquisition",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNLTljeUZZWWlEaUdNWjU1TTcxX1ExV3VPekhwaGNSamFGd0EydzhWeEE2dDluU0xjZERhN2tteTVBTGlmTUJtMkVBQW1zZGd0UEFBT081MXFzZ0tWc3NXc3BWYmpXRkJxTmpIVjFYVTZFbFpKMTdLT1JiYTc0RURtUGhJdjR5LXdVQ0ROR0NhVUt3RFgtYUxuREpvXzdBRk9pN2l2ZTF6bmtMWVg4ZV95YnI3em1Ta2FRTjBlR1FQUDNXMVJUSWdyNzhkZUJzbjNPZlJRMGtmZ2VqaVMxc0liTllCMFE0ZDdXaWIySWFUQVA?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-08-04T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Preferential Issue",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Standard Engineering plans preferential share issue to fund acquisition of GScale Energy.",
       "enriched": true
     },
     {
@@ -14888,138 +14965,83 @@
       "enriched": true
     },
     {
-      "id": "n9671c26563a1",
-      "ticker": "EMAPARTNER",
-      "company": "EMA Partners India Limited",
-      "sector": "Services",
+      "id": "n694b9674d431",
+      "ticker": "UNIMECH",
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "sector": "Capital Goods",
       "scope": [
         "watchlist"
       ],
-      "title": "EMA Partners India strengthens talent solutions business with Taggd acquisition",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tSWZVZmpkY1d4a0RkNHlIV092WWFycm0xWWpJTU5DTVRTOElOZHFWNEIwM1I4QXdpMkpyU1hHcjhoSGY4bDNZaFo4cXN2YU5oRWcxN2pGczZLbFdTRzM1R0dkeDRnZTVEYV93NGJxdUdwLUZ2eF9nNDgwZjQ1aE3SAYQBQVVfeXFMTi13R3VZN1FGelhLZldDOEkzanB1UWRQZjNSLWlRM0hHRjI0c3N5ZG1iTE56aW9NX0NqQzFLS0ZISWZMZE9fRXplanl4eU5ZeUhrM3hGTkdVc2hFTzlXaGpUaDFIdkpEcWxqNmtsZ0VLbWVCZDEwa0UxbGNkUzFzd3plcTFq?oc=5",
-      "source": "MediaBrief",
-      "date": "2026-06-24T07:00:00.000Z",
+      "title": "Unimech invests ₹39 crore in Saudi JV for oil and gas components - CNBC TV18",
+      "url": "https://www.cnbctv18.com/market/unimech-invests-rs39-crore-in-saudi-jv-for-oil-and-gas-components-20003279.htm",
+      "source": "cnbctv18.com",
+      "date": "",
       "topic": "Deals",
-      "keyword": "Acquisition",
+      "keyword": "Joint Venture",
       "importance": "medium",
       "mood": "positive",
-      "takeaway": "EMA Partners India acquires Taggd to strengthen its talent solutions business.",
-      "enriched": true
-    },
-    {
-      "id": "n744ef05d7c8e",
-      "ticker": "INDOFARM",
-      "company": "Indo Farm Equipment Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "INDOFARM Mar 2026 Earnings: Modest Profitability Amid Stable Revenue Performance - Revenue Recognition Risk",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSkhuVHhwejBBUkpvT29aM2UtTmtGTGxPb1JIZTU4Qmpld0RHNVV1Y1RpU2czUDF1cWtrTkhfQXFWYy1zaDVucE1QREFhMzJlbDdndmZQX1hTZ3lGUFBkYXkwSDh1c2tjTFZBYkthb1lseDFfQ0lxNmltTVNTV2hNXzRqUXN6QTFtSzNMRkV0YjZ2LUFDTjY3aTR0dFV0MHFPS05pV2hTY3B5QTZkQW5FRWZYbjcycmJCY19TUg?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-24T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Indo Farm Equipment March 2026 earnings showed modest profitability with stable revenue.",
-      "enriched": true
-    },
-    {
-      "id": "n018a57540f97",
-      "ticker": "LGEINDIA",
-      "company": "LG Electronics India Limited",
-      "sector": "Consumer Durables",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "LGEINDIA Q2 2026 Earnings: Flat Revenue Growth and Stable EPS Amid Tepid Demand - Energy Earnings Report",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR3NyamdkNkRURDAtd0h5QzA2SjNQcUVIS1NmaWJtUEYxRlN2NnExS2hiOWhwNjM1V1VJSjlDLWRNZlJ2Z2c2RnFTLVR5NzhYSWF1aTdRdXRscm9nYzd3ZElpdVgtMmJLMld5M1Btc094TlFudXlsZEJERFcxbDdsZXlHNndMY0M0aFdFdjJJalppVnJMNlJhSW1EN285anVUaWxFb0x6LVRBZ0ZfLUx1WmVFYlE5SWtiOVNuNg?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-24T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "LG Electronics India reported Q2 FY2026 with flat revenue growth and stable EPS.",
-      "enriched": true
-    },
-    {
-      "id": "nd38a942bb4e3",
-      "ticker": "BHARATCOAL",
-      "company": "Bharat Coking Coal Limited",
-      "sector": "Oil Gas & Consumable Fuels",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Bharat Coking Coal litigation disposed of by court order",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdDJZOVNrSUE2NVd1NWwyLWo1NTZJVW5neG1iSmlkbW8xSTdXcVNNTlA0Zm5GZUk0Vk5DX1lWQUN6ZXZXa0dLWnpuRzd3QWFVd2E1bWtlZ3FiMHlXMFNQUGhyQzhkbnVtNVoyYlFmV1hjaDNsZk81MzJpSVFQVHhIV1ZrU2J5UEUyNFdUVkd3YjhDd18ycmNjTEtOTU9JdVM5YWQ3blBuY1I1aW8?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-06-24T07:00:00.000Z",
-      "topic": "Trouble",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Court disposed of litigation involving Bharat Coking Coal.",
-      "enriched": true
-    },
-    {
-      "id": "n7f3d388d0339",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "DEE subsidiary wins Rs 64 crore wind tower order from Ganeko Solar",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vUlhZNjFFWjdVdUxOSFg4VC1ZNmttbVlILWdHQlRNT0t2UFd6aHBwV085alR2UmFSZGZCWGRRdzllWG1aM2hhUjNHRVEySVhmVWFhcjRiZXl5QmIyYlN0Qzdyak1XSlo4QjloY2Z0LTFEaEJQbzE4?oc=5",
-      "source": "Power Peak Digest",
-      "date": "2026-06-23T23:02:06.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "DEE subsidiary secured Rs 64 crore order from Ganeko Solar for wind towers.",
+      "takeaway": "Unimech invested Rs 39 crore in Saudi joint venture for oil and gas components.",
       "sources_count": 2,
       "enriched": true
     },
     {
-      "id": "ncf1629504db4",
+      "id": "nb78744063892",
+      "ticker": "SAREGAMA",
+      "company": "Saregama India Limited",
+      "sector": "Media Entertainment & Publication",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "SC dismisses Ilaiyaraaja’s plea against HC order in ‘En Iniya Pon Nilave’ copyright row - english.punjabkesari.com",
+      "url": "https://english.punjabkesari.com/india/sc-dismisses-ilaiyaraajas-plea-against-hc-order-in-en-iniya-pon-nilave-copyright-row",
+      "source": "english.punjabkesari.com",
+      "date": "",
+      "topic": "Trouble",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Supreme Court dismisses Ilaiyaraaja's plea in copyright dispute with Saregama.",
+      "enriched": true
+    },
+    {
+      "id": "n9df45b02e377",
       "ticker": "GOLDIAM",
       "company": "Goldiam International Limited",
       "sector": "Consumer Durables",
       "scope": [
         "watchlist"
       ],
-      "title": "Goldiam International 39వ AGM: షేర్ హోల్డర్లకు డివిడెండ్, కీలక పదవిలో మళ్ళీ అన్మోల్ బన్సాలీ! | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/Telugu/consumer-products/Goldiam-International-Approves-Final-Dividend-and-Reappoints-MD-at-39th-AGM/6abbb5daf2017017ae75ad49",
+      "title": "Goldiam International AGM: Dividend par lagi mohar, MD Anmol Bhansali ki hui re-appointment! | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/consumer-products/Goldiam-International-Approves-Final-Dividend-and-Reappoints-MD-at-39th-AGM/6abbb5daf2017017ae75ad49",
       "source": "whalesbook.com",
       "date": "",
       "topic": "Money",
       "keyword": "QIP",
       "importance": "low",
       "mood": "neutral",
-      "takeaway": "Goldiam International held its 39th AGM, declared dividend, and reappointed Anmol Bansali to a key position.",
+      "takeaway": "Goldiam International AGM approved dividend and reappointed MD Anmol Bhansali.",
       "sources_count": 4,
       "enriched": true
     },
     {
-      "id": "nbe72ed039feb",
+      "id": "nfe18ab93ca48",
       "ticker": "VAML",
       "company": "Vedanta Aluminium Metal Limited",
       "sector": "Metals & Mining",
       "scope": [
         "watchlist"
       ],
-      "title": "Vedanta Aluminium Metal Ltd Shareholders Approve ESOP, Auditor Appointment in Postal Ballot | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/English/industrial-goodsservices/Vedanta-Aluminium-Metal-Ltd-Shareholders-Approve-ESOP-Auditor-Appointment-in-Postal-Ballot/6abe4c7980ecbb8a5f1b90a1",
-      "source": "whalesbook.com",
+      "title": "Vedanta Aluminium shareholders approve ESOPs and auditor appointment",
+      "url": "https://scanx.trade/stock-market-news/companies/vedanta-aluminium-shareholders-approve-esops-auditor-appointment/52406587",
+      "source": "scanx.trade",
       "date": "",
       "topic": "Approvals&IP",
       "keyword": "Approval",
       "importance": "low",
       "mood": "neutral",
-      "takeaway": "Shareholders approved employee stock option plan and auditor appointment via postal ballot.",
+      "takeaway": "Vedanta Aluminium shareholders approved employee stock options and auditor appointment.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -15040,6 +15062,44 @@
       "mood": "positive",
       "takeaway": "Monarch Surveyors won a Rs 2 crore work order.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nf6d5f7df804a",
+      "ticker": "VOEPL",
+      "company": "Virtuoso Optoelectronics Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Virtuoso Optoelectronics releases Q4FY26 earnings call recording",
+      "url": "https://scanx.trade/stock-market-news/companies/virtuoso-optoelectronics-q4-results-earnings-call-recording-released/48505199",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Virtuoso Optoelectronics released its Q4FY26 earnings call recording.",
+      "enriched": true
+    },
+    {
+      "id": "n4abcd9f269e6",
+      "ticker": "SBIFUNDS",
+      "company": "SBI Funds Management Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "SBI Mutual Fund crosses 5% stake in Swiggy with 1.18 crore share buy",
+      "url": "https://scanx.trade/stock-market-news/companies/sbi-mutual-fund-crosses-5-stake-swiggy-1-18-crore-share-buy/52374730",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "SBI Mutual Fund crossed 5% stake in Swiggy by purchasing 1.18 crore shares.",
       "enriched": true
     },
     {
@@ -15081,26 +15141,6 @@
       "enriched": true
     },
     {
-      "id": "n694b9674d431",
-      "ticker": "UNIMECH",
-      "company": "Unimech Aerospace and Manufacturing Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Unimech invests ₹39 crore in Saudi JV for oil and gas components - CNBC TV18",
-      "url": "https://www.cnbctv18.com/market/unimech-invests-rs39-crore-in-saudi-jv-for-oil-and-gas-components-20003279.htm",
-      "source": "cnbctv18.com",
-      "date": "",
-      "topic": "Deals",
-      "keyword": "Joint Venture",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Unimech invested Rs 39 crore in Saudi joint venture for oil and gas components.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "ne4cdcd3670b8",
       "ticker": "EPIGRAL",
       "company": "Epigral Limited",
@@ -15118,6 +15158,65 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Epigral raised ₹333 crore through QIP to fund growth.",
+      "enriched": true
+    },
+    {
+      "id": "n93dabb68b0af",
+      "ticker": "GANESHBE",
+      "company": "Ganesh Benzoplast Limited",
+      "sector": "Oil Gas & Consumable Fuels",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Ganesh Benzoplast Sells Logistics Business for Rs 1,154 Crore; Targets Buyback | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/industrial-goodsservices/Ganesh-Benzoplast-Sells-Logistics-Business-for-Rs-1154-Crore-Targets-Buyback/6abbce18f2017017ae75fba8",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Buyback",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Ganesh Benzoplast sells logistics business for Rs 1,154 crore and plans buyback.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nbe6f14a3faf6",
+      "ticker": "CURRENT",
+      "company": "Current Infraprojects Limited",
+      "sector": "Construction",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Current Infraprojects Secures Rs 10.42 Cr Bank Note Press Solar Order – Outlook Business",
+      "url": "https://www.outlookbusiness.com/spotlight/news-wire/current-infraprojects-secures-rs-10-42-cr-bank-note-press-solar-order",
+      "source": "outlookbusiness.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Current Infraprojects won Rs 10.42 crore solar order from Bank Note Press.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n481f391fa4e8",
+      "ticker": "SHREEREF",
+      "company": "Shree Refrigerations Ltd",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Shree Refrigerations ki hui mauj! CARE Rating upgrade ke baad stock par rakhein nazar | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/industrial-goodsservices/Shree-Refrigerations-Receives-CARE-Credit-Rating-Upgrade-to-BBB/6aa932e1f2017017ae6a6e99",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Trouble",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "CARE upgraded Shree Refrigerations' credit rating.",
       "enriched": true
     },
     {
@@ -15156,6 +15255,25 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Monarch Surveyors changed its official website domain.",
+      "enriched": true
+    },
+    {
+      "id": "n592e1d5619b5",
+      "ticker": "BHARATCOAL",
+      "company": "Bharat Coking Coal Limited",
+      "sector": "Oil Gas & Consumable Fuels",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "CBI Books Two CISF Officers After Corruption Inquiry in Dhanbad - The420.in",
+      "url": "https://the420.in/cbi-cisf-officers-dhanbad-corruption-case/",
+      "source": "the420.in",
+      "date": "",
+      "topic": "Trouble",
+      "keyword": "Investigation",
+      "importance": "medium",
+      "mood": "negative",
+      "takeaway": "CBI books two CISF officers in corruption inquiry at Dhanbad operations.",
       "enriched": true
     }
   ]
