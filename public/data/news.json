@@ -1,13 +1,52 @@
 {
-  "generated_at": "2026-10-02T09:02:20.621Z",
+  "generated_at": "2026-10-02T19:36:19.881Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 137,
-    "watchlist": 744,
-    "universe": 42,
-    "total": 786
+    "watchlist": 749,
+    "universe": 43,
+    "total": 792
   },
   "items": [
+    {
+      "id": "nfc4ab8697c87",
+      "ticker": "THEME",
+      "company": "Power Equipment",
+      "sector": "Capital Goods",
+      "scope": [
+        "universe"
+      ],
+      "title": "TARIL wins DVC order for 500 MVA and 200 MVA transformers",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY3ZWTmVEYjhPZ2QtbC1YOHcwcFNWU3JJWUE4Q3dhRnFMMEFjYVRjb2tDaU9xRXhjU3FMWXJnYS1Da2FhWGdBYXRpRkNGai1RTmVacXlxVndEZVNrMUJMcF9HTm84UmE5VldRTnhnZnNKRl9oN1p1bTVmYzB6SDVhQVFiMnZrT2l6el9ZQ2FLUFd6UzV3enU3ZzJXRmhqZw?oc=5",
+      "source": "Manufacturing Today India",
+      "date": "2026-10-02T13:45:21.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "TARIL secured an order from DVC for 500 MVA and 200 MVA transformers.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "n72e170534f8b",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
+      "scope": [
+        "universe"
+      ],
+      "title": "USFDA expands Camzyos approval to children with obstructive hypertrophic cardiomyopathy",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdGsxc0w4c1d1REF6Y3NHTWZ4OE1LX1p1VDlXNm5VSDZRbzVXM1UyNGxvRlU0U3VSNVc0SXFVRGJueXdPN3Z4YXVCZ1VGemhHTEFzdGpkbTRMLVJhSUJPeW1KbEk0Z05Sb2lvb3dyYTZ6NkdTbmlLYU9aTmJEU2EzRkVQa3lBZlk2emtjOGNOZ2tZWlBiM0VxVElpc0JwTVRwU1FucmU3dWhpRUo2Qi1DYlMtcEdTNGljbWQ4M0hVQnh0RWY3NWU2RzJ2NNIB2gFBVV95cUxNSURXMFM4eFM4eGswVTNHOFF6TkpNb3dqZHhzNHhsRFZ0d09XNEFpRkhoN3JTcV92UU4zbW56Rk5zRGN6Z0xOWm54Zk9TaTF0cEpXMzF5QnJfRGtob3RiRDZwY2FwMlMwb1Q4Yk9IbnNsZmtvV09HZk1jTUIzMndGWjlsbEtEc0lMLS1LNEpEM2ZVYUxNUkh1M2RLdk9zTnFuZm9lTmYxZjZsWDFMX0htYUk5UmN1eGNQUVdJWVpPbUNTTC1DbjZYLUZoZ2swd2hGRWN2VzJwd1JaUQ?oc=5",
+      "source": "indianpharmapost.com",
+      "date": "2026-10-02T13:45:03.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "USFDA expanded Camzyos approval to include children with obstructive hypertrophic cardiomyopathy.",
+      "enriched": true
+    },
     {
       "id": "n0f214a97fd24",
       "ticker": "UNIMECH",
@@ -123,7 +162,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Laxmi Dental released its Q1 2027 earnings call transcript.",
-      "sources_count": 3,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -396,7 +435,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Anupam Rasayan completes acquisition of 48.2% stake in Bliss GVS Pharma.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -2621,6 +2660,26 @@
       "enriched": true
     },
     {
+      "id": "n5449e184818c",
+      "ticker": "CURRENT",
+      "company": "Current Infraprojects Limited",
+      "sector": "Construction",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Current Infraprojects Secures Rs 10.42 Cr Order for 3 MW Rooftop Solar Project",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVDV1cW1BalJxV0pZLWxFZ1gtYktwTkxvT3BYOGNtemNqcE1maDZ3aFVTODVpM0FBa0c2bUpPb0lnWTVJaFlTb1lHYTd6SVE3RlFLTUpaaTF5Q3RxX0k0WUxiam1iblRXSkN1NjhrZGV1Q0JpLVZHQTNuTXhpSFJPMmY4T2Fib2NrUWdEVk5lTlpFRDJrcTNLU0NkakJKbVdxN0ozNnljenhyand4M25yRXl6SUJfbG5EZkh4RFVCN1U?oc=5",
+      "source": "Ahmedabad Mirror",
+      "date": "2026-09-19T13:10:28.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Current Infraprojects won Rs 10.42 crore order for a 3 MW rooftop solar project.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
       "id": "n552bdcdb9d26",
       "ticker": "THEME",
       "company": "Pharma Approvals",
@@ -3861,7 +3920,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "PVR INOX board to meet on Aug 31 to consider its first-ever share buyback.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -6693,7 +6752,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "PVR Inox approved Rs 300 crore share buyback at Rs 1,450 per share.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -10327,26 +10386,6 @@
       "enriched": true
     },
     {
-      "id": "n1e2d41cfcdba",
-      "ticker": "THEME",
-      "company": "Power Equipment",
-      "sector": "Capital Goods",
-      "scope": [
-        "universe"
-      ],
-      "title": "TARIL wins Kaiga transformer order",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QSHNIcFozcXN1TEJlQWdqal9mMko3amhCclZSUGQyMExSbUJSLVNteW1QZXpiSDhmbnpnTW1RVUd0cEp1OVlYWE95VzE4TGZTcWE2bUF5VWhIS2otUzVQYXlITUdqRm03Um0zbjFQT1BjWVVocmxyWlVUVWgtdw?oc=5",
-      "source": "Transformer Magazine",
-      "date": "2026-08-31T10:21:59.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "TARIL wins transformer order for Kaiga nuclear power plant.",
-      "enriched": true,
-      "sources_count": 2
-    },
-    {
       "id": "n4c65918920b9",
       "ticker": "THEME",
       "company": "Power Equipment",
@@ -10382,6 +10421,25 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Tejas Networks wins ₹1,537 crore order from BSNL for optical fiber equipment.",
+      "enriched": true
+    },
+    {
+      "id": "n43ba7d2bfc8e",
+      "ticker": "PVRINOX",
+      "company": "PVR INOX Limited",
+      "sector": "Media Entertainment & Publication",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "PVR INOX Board To Meet On August 31 To Consider Share Buyback Proposal",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMjNCZnBWcVEwRlZ5TzFGdC1ZR3lIaGRhNjdEZVZRV19QZjhIbm9DTzZwb2x1U2xWb3dubVZXd2hYeERTRk9Cb1ZZWHpPWUZkYmh2WG42ZFpRZFVEV1A2OE9pdzlzTVF6Z1NLOVNaeGZZZlY1MFFwVl9KQlRqQ2gtZmc5UU4tOWhuQzJWeVgxUFBzeDc0bXhic2tBUTJ5RzZ2bnNaR0V4NlFuZEYzcGlMcnA3S29oQXdG?oc=5",
+      "source": "Trade Brains",
+      "date": "2026-08-31T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Buyback",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "PVR INOX board meeting on August 31 to consider share buyback proposal.",
       "enriched": true
     },
     {
@@ -11057,6 +11115,26 @@
       "enriched": true
     },
     {
+      "id": "nb914a637513b",
+      "ticker": "ADVAIT",
+      "company": "Advait Energy Transitions Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Advait Energy Transitions Ltd receives order worth Rs. 116 crores",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95U3p6TWhQRWQwQlV1SDROWTQwYkxmbmphemJZZlJsM196TkFyc0tSNW5SUDZ0cmJIdEpUQ1E0YlZ4YUxObmtyTWR6NWZxWHd1bUJHREJTdGluTEFycS1N?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-08-18T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Advait Energy Transitions wins Rs. 116 crore order.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
       "id": "nb6216ef42806",
       "ticker": "SURYAROSNI",
       "company": "Surya Roshni Limited",
@@ -11418,26 +11496,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Sky Gold reported Q1 earnings, analysts raised estimates following the results.",
-      "enriched": true
-    },
-    {
-      "id": "n91a069b0c23b",
-      "ticker": "ADVAIT",
-      "company": "Advait Energy Transitions Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Advait Energy Transitions Ltd receives order worth Rs. 24.88 crores",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtVldzYmM0Z3k0U1o5UU9FM1F2QjlMY19BRmg1RFFsQnozWmRiMVY2OVFSaF9kalRBZ2R4Z1RMcFA1TU5qamdkU011TlNkY05teGRkdjl2Z0NMRVVpeGFB?oc=5",
-      "source": "EquityBulls",
-      "date": "2026-08-11T16:59:19.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Advait Energy Transitions received an order worth Rs. 24.88 crores.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -12057,27 +12115,6 @@
       "mood": "positive",
       "takeaway": "Varun Beverages completes $32 million acquisition in Kenya, expanding its geographic footprint.",
       "enriched": true
-    },
-    {
-      "id": "n39d22c238d28",
-      "ticker": "STLTECH",
-      "company": "Sterlite Technologies Limited",
-      "sector": "Telecommunication",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Sterlite Technologies Wins ₹960 Crore Order",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUXMweWdhQy1ROUVZZzZyM2xCa042SE9tQTNlRjlodlpjWnpVT3I5U3RNSFlaWlQxRng5eUNhY0hVcFMwak5Bd0FDb3hGc0pfMGh4UnBaal80UWJBbHhrOUQzbXhRSlBud2xGeW9XMlBCb25oN2Ixdm5YZ0N6T0JfdnBhNTZXNzljS1pndmlac2dvR0U3Ynp6UEJtcDZUVlVFRW50RWpXZFhBOXFKUUE?oc=5",
-      "source": "investywise.com",
-      "date": "2026-08-01T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Sterlite Technologies secures Rs 960 crore order.",
-      "enriched": true,
-      "sources_count": 2
     },
     {
       "id": "nc54465feba00",
@@ -13617,7 +13654,7 @@
       "mood": "positive",
       "takeaway": "Inventurus Knowledge Solutions completed acquisition of TruBridge.",
       "enriched": true,
-      "sources_count": 2
+      "sources_count": 3
     },
     {
       "id": "n779800e7b3be",
@@ -15005,62 +15042,62 @@
       "enriched": true
     },
     {
-      "id": "n9df45b02e377",
+      "id": "ncf1629504db4",
       "ticker": "GOLDIAM",
       "company": "Goldiam International Limited",
       "sector": "Consumer Durables",
       "scope": [
         "watchlist"
       ],
-      "title": "Goldiam International AGM: Dividend par lagi mohar, MD Anmol Bhansali ki hui re-appointment! | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/Hinglish/consumer-products/Goldiam-International-Approves-Final-Dividend-and-Reappoints-MD-at-39th-AGM/6abbb5daf2017017ae75ad49",
+      "title": "Goldiam International 39వ AGM: షేర్ హోల్డర్లకు డివిడెండ్, కీలక పదవిలో మళ్ళీ అన్మోల్ బన్సాలీ! | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Telugu/consumer-products/Goldiam-International-Approves-Final-Dividend-and-Reappoints-MD-at-39th-AGM/6abbb5daf2017017ae75ad49",
       "source": "whalesbook.com",
       "date": "",
       "topic": "Money",
       "keyword": "QIP",
       "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Goldiam International AGM approved dividend and reappointed MD Anmol Bhansali.",
-      "sources_count": 4,
+      "mood": "positive",
+      "takeaway": "Goldiam held 39th AGM, declared dividend, and reappointed Anmol Bansali to key position.",
+      "sources_count": 3,
       "enriched": true
     },
     {
-      "id": "nfe18ab93ca48",
+      "id": "nbe72ed039feb",
       "ticker": "VAML",
       "company": "Vedanta Aluminium Metal Limited",
       "sector": "Metals & Mining",
       "scope": [
         "watchlist"
       ],
-      "title": "Vedanta Aluminium shareholders approve ESOPs and auditor appointment",
-      "url": "https://scanx.trade/stock-market-news/companies/vedanta-aluminium-shareholders-approve-esops-auditor-appointment/52406587",
-      "source": "scanx.trade",
+      "title": "Vedanta Aluminium Metal Ltd Shareholders Approve ESOP, Auditor Appointment in Postal Ballot | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/industrial-goodsservices/Vedanta-Aluminium-Metal-Ltd-Shareholders-Approve-ESOP-Auditor-Appointment-in-Postal-Ballot/6abe4c7980ecbb8a5f1b90a1",
+      "source": "whalesbook.com",
       "date": "",
       "topic": "Approvals&IP",
       "keyword": "Approval",
       "importance": "low",
       "mood": "neutral",
-      "takeaway": "Vedanta Aluminium shareholders approved employee stock options and auditor appointment.",
+      "takeaway": "Shareholders approved employee stock option plan and auditor appointment via postal ballot.",
       "sources_count": 2,
       "enriched": true
     },
     {
-      "id": "n8f03f4fa38ae",
+      "id": "ndbac1d406588",
       "ticker": "MSECL",
       "company": "Monarch Surveyors and Engineering Consultants Ltd",
       "sector": "Services",
       "scope": [
         "watchlist"
       ],
-      "title": "Monarch Surveyors and Engineering gains on bagging Rs 2-cr work order | Capital Market News - Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/monarch-surveyors-and-engineering-gains-on-bagging-rs-2-cr-work-order-126082400282_1.html",
+      "title": "Monarch Surveyors and Engineering Consultants receives Rs 2-cr work order | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-and-engineering-consultants-receives-rs-2-cr-work-order-126082200734_1.html",
       "source": "business-standard.com",
       "date": "",
       "topic": "Orders",
       "keyword": "Order",
       "importance": "low",
       "mood": "positive",
-      "takeaway": "Monarch Surveyors won a Rs 2 crore work order.",
+      "takeaway": "Received Rs 2 crore work order.",
       "sources_count": 2,
       "enriched": true
     },
@@ -15141,6 +15178,65 @@
       "enriched": true
     },
     {
+      "id": "n2afd0719fbf5",
+      "ticker": "DEVYANI",
+      "company": "Devyani International Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Varun Beverages terminates its acquisition of South African dairy processor Crickley - Trendtype Africa and Middle East",
+      "url": "https://trendtype.com/news/varun-beverages-terminates-its-acquisition-of-south-african-dairy-processor-crickley/",
+      "source": "trendtype.com",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "negative",
+      "takeaway": "Varun Beverages cancels acquisition of South African dairy processor Crickley.",
+      "enriched": true
+    },
+    {
+      "id": "n5ede40e3ca2b",
+      "ticker": "MILLWORKS",
+      "company": "Millworks Technologies Ltd",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Millworks Tech Secures Order Valued At ₹53 Crore",
+      "url": "https://www.sahi.com/news/millworks-tech-secures-order-valued-at-53-crore-8405089-PE1_",
+      "source": "sahi.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Millworks Tech wins order worth ₹53 crore.",
+      "enriched": true
+    },
+    {
+      "id": "n2b042f714980",
+      "ticker": "STLTECH",
+      "company": "Sterlite Technologies Limited",
+      "sector": "Telecommunication",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Sterlite Technologies stock up 5%, bags $1.2 billion hyperscale order- Moneycontrol.com",
+      "url": "https://www.moneycontrol.com/news/business/stocks/sterlite-technologies-stock-up-5-bags-1-2-billion-hyperscale-order-14042641.html",
+      "source": "moneycontrol.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Sterlite Technologies secured a $1.2 billion hyperscale order, significantly boosting its orderbook.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
       "id": "ne4cdcd3670b8",
       "ticker": "EPIGRAL",
       "company": "Epigral Limited",
@@ -15181,23 +15277,22 @@
       "enriched": true
     },
     {
-      "id": "nbe6f14a3faf6",
-      "ticker": "CURRENT",
-      "company": "Current Infraprojects Limited",
-      "sector": "Construction",
+      "id": "n5acd8dc83caa",
+      "ticker": "CNINFOTECH",
+      "company": "Capitalnumbers Infotech Ltd",
+      "sector": "Information Technology",
       "scope": [
         "watchlist"
       ],
-      "title": "Current Infraprojects Secures Rs 10.42 Cr Bank Note Press Solar Order – Outlook Business",
-      "url": "https://www.outlookbusiness.com/spotlight/news-wire/current-infraprojects-secures-rs-10-42-cr-bank-note-press-solar-order",
-      "source": "outlookbusiness.com",
+      "title": "CapitalNumbers Infotech approves IPO object changes for acquisition",
+      "url": "https://scanx.trade/stock-market-news/companies/capitalnumbers-infotech-declares-1-dividend-14th-agm/52247008",
+      "source": "scanx.trade",
       "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
+      "topic": "Approvals&IP",
+      "keyword": "Acquisition",
       "importance": "low",
-      "mood": "positive",
-      "takeaway": "Current Infraprojects won Rs 10.42 crore solar order from Bank Note Press.",
-      "sources_count": 2,
+      "mood": "neutral",
+      "takeaway": "Approved changes to IPO objectives to enable acquisition activity.",
       "enriched": true
     },
     {
@@ -15274,6 +15369,25 @@
       "importance": "medium",
       "mood": "negative",
       "takeaway": "CBI books two CISF officers in corruption inquiry at Dhanbad operations.",
+      "enriched": true
+    },
+    {
+      "id": "n609ef9784650",
+      "ticker": "SHAILY",
+      "company": "Shaily Engineering Plastics Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Shaily Engineering Plastics MD Re-Appointment: What Investors Should Know | Kalkine India",
+      "url": "https://www.kalkine.co.in/article/announcements/shaily-engineering-plastics-nseshaily-why-is-it-seeking-central-government-approval-to-re-appoint-its-managing-director",
+      "source": "kalkine.co.in",
+      "date": "",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Shaily Engineering Plastics reappoints its Managing Director.",
       "enriched": true
     }
   ]
