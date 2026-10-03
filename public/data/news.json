@@ -1,13 +1,51 @@
 {
-  "generated_at": "2026-10-03T08:37:52.852Z",
+  "generated_at": "2026-10-03T18:21:27.946Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 139,
-    "watchlist": 749,
-    "universe": 43,
-    "total": 792
+    "portfolio": 140,
+    "watchlist": 753,
+    "universe": 45,
+    "total": 798
   },
   "items": [
+    {
+      "id": "n18f9d0e46c9a",
+      "ticker": "SETL",
+      "company": "Standard Engineering Technology Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Standard Engineering gets BSE, NSE in-principle nod for preferential issue",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTDhvWWZtRDF5OFdNQ0NPS0VJVm5CeVA1R1doTEF0aG9QTjNhLURUa004encwanB2c1plcHJUOXJ4MEZqSC1OYktaRUViQkxEX1BWOVdsS1VabTBRbTNCcGVFODliMXNoSWlrcTdiWndmcTNpeEtFQS1pVmZNU2NtNzFIcHVqV2JXZjJLUlYzY2hqdWpIRURlUGlLY0o2U2Y2Z09jcjZlVEtpcEY3QmVITWJLT3F5dEdvbWZ2cXNTNEo?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-10-03T13:12:35.000Z",
+      "topic": "Money",
+      "keyword": "Preferential Issue",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Standard Engineering gets exchange approval to raise funds through preferential share issue.",
+      "enriched": true
+    },
+    {
+      "id": "nbab38d0405ce",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
+      "scope": [
+        "universe"
+      ],
+      "title": "Alembic Pharmaceuticals wins final USFDA approval for key oncology drug; details inside",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOEJpRVplMjFEUGlNSlFrQXU0Sm1iWkhkR0E2ZUR3cGh1TmVENVp4UzJFcjQyekdGWlg2T2xtdnc0cU9QMU5mZTFuaUY0aDFxUlY0WU1EWVp0X3RpeWJGSWt2OTNFM09CRkhqaTdOcHRxYmJZT29xYlZBY2tzTHg1aDRKZVRBeEhpMmppUWpsczR0Tm5hUUtwQWh1R0w4Q1hpc2VpUUNEdGlLUmtqaEYxTmtEdHJPQmZxNHN3?oc=5",
+      "source": "Alice Blue",
+      "date": "2026-10-03T10:23:45.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Alembic Pharmaceuticals receives final US FDA approval for oncology drug.",
+      "enriched": true
+    },
     {
       "id": "nfc4ab8697c87",
       "ticker": "THEME",
@@ -84,6 +122,25 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Director Ajay Shiram Patil resigned from KSH International.",
+      "enriched": true
+    },
+    {
+      "id": "nd7b786a10e29",
+      "ticker": "GLOBAL",
+      "company": "Chlor-Alkali",
+      "sector": "Chemicals",
+      "scope": [
+        "universe"
+      ],
+      "title": "thyssenkrupp nucera Wins New Chlor-Alkali Order in China",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU1lXU3ZnOVpGTmlsWEFINjhFNjgyZ0lldEhTbUZqSGdjdmJpU3lVYmpSQkpsa3ZDOXhhUUhpaENzdVhUN1NlbHlSWHZPbmZldUJ3cFduNElTUXhycnFveHE1UEZxZGJEMGl3ajRPNVF3Vnl6LVJkTkk3aHhISWV6c05mdDVqbGRfQXJZSkpnUWVqVFpNVERja1FmdW91VXVJTHoyRmJYLTczV3cyUmQ5YVdoQXJEdw?oc=5",
+      "source": "ChemAnalyst",
+      "date": "2026-10-01T15:41:47.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "thyssenkrupp nucera secures new chlor-alkali order in China.",
       "enriched": true
     },
     {
@@ -2660,6 +2717,26 @@
       "enriched": true
     },
     {
+      "id": "n5449e184818c",
+      "ticker": "CURRENT",
+      "company": "Current Infraprojects Limited",
+      "sector": "Construction",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Current Infraprojects Secures Rs 10.42 Cr Order for 3 MW Rooftop Solar Project",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVDV1cW1BalJxV0pZLWxFZ1gtYktwTkxvT3BYOGNtemNqcE1maDZ3aFVTODVpM0FBa0c2bUpPb0lnWTVJaFlTb1lHYTd6SVE3RlFLTUpaaTF5Q3RxX0k0WUxiam1iblRXSkN1NjhrZGV1Q0JpLVZHQTNuTXhpSFJPMmY4T2Fib2NrUWdEVk5lTlpFRDJrcTNLU0NkakJKbVdxN0ozNnljenhyand4M25yRXl6SUJfbG5EZkh4RFVCN1U?oc=5",
+      "source": "Ahmedabad Mirror",
+      "date": "2026-09-19T13:10:28.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Current Infraprojects wins Rs 10.42 crore order for 3 MW rooftop solar project.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
       "id": "n552bdcdb9d26",
       "ticker": "THEME",
       "company": "Pharma Approvals",
@@ -4156,6 +4233,26 @@
       "enriched": true
     },
     {
+      "id": "n568342e13318",
+      "ticker": "KSHINTL",
+      "company": "KSH International Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "KSH INTERNATIONAL LIMITED (KSHINTL.BO) Q2 25/26 earnings call transcript",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdzFHRWg2ZjY0NGhCcXJPSXRPNlBQcDIxbURhVGFGejVhMmZhZWtwZm1lSnA5THN1SURPaXZBa3J1WTJucUxzUTlaZU5TWFBCWnA2cERDR1VvLVBYMHBsdVloZmhFeDNacV9JMk5kRjNqVG5MelYzd0xOeVJ0cWJLYkRrcE1UTGR1cF85Sll0YTM2MmZTNFlaZnFJX28?oc=5",
+      "source": "Yahoo Finance",
+      "date": "2026-09-12T22:41:14.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "KSH International releases Q2 FY25/26 earnings call transcript.",
+      "enriched": true
+    },
+    {
       "id": "na6feae28dd63",
       "ticker": "ONESOURCE",
       "company": "Onesource Specialty Pharma Limited",
@@ -4722,7 +4819,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Advait Greenergy secured ₹116 crore order from KPI Green Energy for 200 MW solar project in Rajasthan.",
-      "sources_count": 5,
+      "sources_count": 6,
       "enriched": true
     },
     {
@@ -11790,6 +11887,25 @@
       "enriched": true
     },
     {
+      "id": "n3d68cb3ce1b0",
+      "ticker": "SETL",
+      "company": "Standard Engineering Technology Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Standard Engineering Technology makes Q1FY27 earnings call recording available",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQmpjRVN4UkFXcU55dmFmNWhxWEdzbHhKMFZadFBiSXZ3SDVoZ3VHX0pxejRJM3RlVVUyRm0zRWJhR1ZpV2ZoU25OZWlVVElnN3YtQ0lfMWM2OUlwNVh5Ynh3cDJxMUZrMVc4TDVhRW5QMWZocENZTzludFk2RThCRHBNTHNXQ2N1Z1p5dXFMbzVmVlQ0T1VoYUVvYXlYTHVKMlk5cUJIQkZzV0gtTnNjX2psODJnaVQ3YWRuS3UzRWEyQUhQQTdVekd2MjJSQQ?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-08-06T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Standard Engineering Technology made its earnings call recording available.",
+      "enriched": true
+    },
+    {
       "id": "n60d2d3a240a3",
       "ticker": "JUBLCPL",
       "company": "Jubilant Agri and Consumer Products Limited",
@@ -11807,25 +11923,6 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Jubilant Agri schedules shareholder meeting on Sep 5 to approve demerger scheme.",
-      "enriched": true
-    },
-    {
-      "id": "n3d68cb3ce1b0",
-      "ticker": "SETL",
-      "company": "Standard Engineering Technology Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Standard Engineering Technology makes Q1FY27 earnings call recording available",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQmpjRVN4UkFXcU55dmFmNWhxWEdzbHhKMFZadFBiSXZ3SDVoZ3VHX0pxejRJM3RlVVUyRm0zRWJhR1ZpV2ZoU25OZWlVVElnN3YtQ0lfMWM2OUlwNVh5Ynh3cDJxMUZrMVc4TDVhRW5QMWZocENZTzludFk2RThCRHBNTHNXQ2N1Z1p5dXFMbzVmVlQ0T1VoYUVvYXlYTHVKMlk5cUJIQkZzV0gtTnNjX2psODJnaVQ3YWRuS3UzRWEyQUhQQTdVekd2MjJSQQ?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-08-06T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Standard Engineering Technology made its earnings call recording available.",
       "enriched": true
     },
     {
@@ -11908,25 +12005,6 @@
       "enriched": true
     },
     {
-      "id": "nf1f382827cbc",
-      "ticker": "THEME",
-      "company": "Pharma Approvals",
-      "sector": "Healthcare",
-      "scope": [
-        "universe"
-      ],
-      "title": "Cipla Receives USFDA Approval Confirmation for InvaGen's New York Manufacturing Facility",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaHJ4QU1wWWF6S3RxQnNIY3hBRnBwWUNKZWRCQzJkazRGaHBUS0JTaDRPRWpWSGVGLXE1NU8wb2hmN0V6RmlQeEFmTDZpaS1iNVJpZzRoV1lhSnh6cThqVFlKVkVvYTdaTXRkQUxEZXFpUjBVbGgzTlVmZ0d5MVJ4WmRQblkxWXFRaXlaUXgweTllWFFydlhRQnhxZ1ZqWmk3MGIwbjNibGN6dFZpM2hQSzYzX2Y3LWhkd2xNeS1UWlZEdkdGWWc?oc=5",
-      "source": "sahi.com",
-      "date": "2026-08-04T07:00:00.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Cipla receives US FDA approval for InvaGen's New York manufacturing facility.",
-      "enriched": true
-    },
-    {
       "id": "nbd159790d8c6",
       "ticker": "SETL",
       "company": "Standard Engineering Technology Limited",
@@ -11943,6 +12021,25 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Standard Engineering plans preferential share issue to fund acquisition of GScale Energy.",
+      "enriched": true
+    },
+    {
+      "id": "nf1f382827cbc",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
+      "scope": [
+        "universe"
+      ],
+      "title": "Cipla Receives USFDA Approval Confirmation for InvaGen's New York Manufacturing Facility",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaHJ4QU1wWWF6S3RxQnNIY3hBRnBwWUNKZWRCQzJkazRGaHBUS0JTaDRPRWpWSGVGLXE1NU8wb2hmN0V6RmlQeEFmTDZpaS1iNVJpZzRoV1lhSnh6cThqVFlKVkVvYTdaTXRkQUxEZXFpUjBVbGgzTlVmZ0d5MVJ4WmRQblkxWXFRaXlaUXgweTllWFFydlhRQnhxZ1ZqWmk3MGIwbjNibGN6dFZpM2hQSzYzX2Y3LWhkd2xNeS1UWlZEdkdGWWc?oc=5",
+      "source": "sahi.com",
+      "date": "2026-08-04T07:00:00.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Cipla receives US FDA approval for InvaGen's New York manufacturing facility.",
       "enriched": true
     },
     {
@@ -12233,6 +12330,25 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Dixon Technologies to announce Q1 results and hold earnings call.",
+      "enriched": true
+    },
+    {
+      "id": "n42047a1fd03c",
+      "ticker": "YASHO",
+      "company": "Yasho Industries Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Yasho Industries Q1 FY27 Results and Rs 1,250 Cr Borrowing Approval",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUjV2Tm54Q3k0N1JEQl80ZzhYZ3JxMXBQVU1lMEU4c3hTZkNTWEJlSUFMLVpPLUhKZnFmYlh3RW1wdzdZUXFNWlgxQU9ySkFBV1pFUFNQUkRBUmptSkt0Zy14LUZRZ1RVTjU5X2ZPTHl3MlZ3ODlEYmp1RGwwdjUzT19lZ3dCRGk1QmtfaXVJdlh5ZFczS0VFNllCTXJhNmFGdWk3LVRqSjZsRElHaVh2Q21OeTRic2xhbFBCcWktcXA5bXRaa04tTVNVN1YxZw?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-07-31T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Yasho Industries announced Q1 FY27 results and received approval to borrow Rs 1,250 crore.",
       "enriched": true
     },
     {
@@ -13970,6 +14086,25 @@
       "enriched": true
     },
     {
+      "id": "n69686c4caa55",
+      "ticker": "SETL",
+      "company": "Standard Engineering Technology Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Standard Engineering Technology Limited Mar 2026 Earnings: Modest Profit as Revenue Holds Steady - Tangible Book Value",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPR096SDk5WEVlMEF1MHJKLVlldjU3V05DOXRwXzdYUlNQZjEzUGtXQUtjUnUxcjV1V2V5aXpwMEJzOUNhWXczUWxOUUhhaHBvcDZrQlcyV0ZnZ0dnSjc2cnBuSjRZQnVQelhoSVh4ZmFxa2htRHlOWWRRLThSdDIyMXFGeVVkaGZqY05XcmxsN3VVdEQ5RnJYV0o5amYteTVINGdDXzN3Z2xGTWx6ck5jTklSQzYwdkdiSi1tS1JYTlhpOUljbzEzelBnRTl1VEVqYVhz?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-06T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Standard Engineering Technology reported modest profit with steady revenue in March 2026 quarter.",
+      "enriched": true
+    },
+    {
       "id": "n0b99952debf3",
       "ticker": "UNIMECH",
       "company": "Unimech Aerospace and Manufacturing Limited",
@@ -14025,25 +14160,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Jyoti CNC Automation delivers strong Q2 with 15% revenue growth year-on-year and improved efficiency.",
-      "enriched": true
-    },
-    {
-      "id": "n69686c4caa55",
-      "ticker": "SETL",
-      "company": "Standard Engineering Technology Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Standard Engineering Technology Limited Mar 2026 Earnings: Modest Profit as Revenue Holds Steady - Tangible Book Value",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPR096SDk5WEVlMEF1MHJKLVlldjU3V05DOXRwXzdYUlNQZjEzUGtXQUtjUnUxcjV1V2V5aXpwMEJzOUNhWXczUWxOUUhhaHBvcDZrQlcyV0ZnZ0dnSjc2cnBuSjRZQnVQelhoSVh4ZmFxa2htRHlOWWRRLThSdDIyMXFGeVVkaGZqY05XcmxsN3VVdEQ5RnJYV0o5amYteTVINGdDXzN3Z2xGTWx6ck5jTklSQzYwdkdiSi1tS1JYTlhpOUljbzEzelBnRTl1VEVqYVhz?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-06T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Standard Engineering Technology reported modest profit with steady revenue in March 2026 quarter.",
       "enriched": true
     },
     {
@@ -14927,6 +15043,26 @@
       "enriched": true
     },
     {
+      "id": "n1b5652361efc",
+      "ticker": "SETL",
+      "company": "Standard Engineering Technology Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Standard Engineering Technology Gets Exchange Approval for Rs 71 Crore Preferential Issue | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/industrial-goodsservices/Standard-Engineering-Technology-Gets-Exchange-Approval-for-Rs-71-Crore-Preferential-Issue/6ac0fdcc61666c732ba39443",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Preferential Issue",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Standard Engineering gets exchange approval to raise Rs 71 crore through preferential share issue.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
       "id": "n694b9674d431",
       "ticker": "UNIMECH",
       "company": "Unimech Aerospace and Manufacturing Limited",
@@ -14967,26 +15103,6 @@
       "enriched": true
     },
     {
-      "id": "n9df45b02e377",
-      "ticker": "GOLDIAM",
-      "company": "Goldiam International Limited",
-      "sector": "Consumer Durables",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Goldiam International AGM: Dividend par lagi mohar, MD Anmol Bhansali ki hui re-appointment! | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/Hinglish/consumer-products/Goldiam-International-Approves-Final-Dividend-and-Reappoints-MD-at-39th-AGM/6abbb5daf2017017ae75ad49",
-      "source": "whalesbook.com",
-      "date": "",
-      "topic": "Money",
-      "keyword": "QIP",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Goldiam International AGM approved dividend and reappointed MD Anmol Bhansali.",
-      "sources_count": 3,
-      "enriched": true
-    },
-    {
       "id": "nbe72ed039feb",
       "ticker": "VAML",
       "company": "Vedanta Aluminium Metal Limited",
@@ -15007,22 +15123,22 @@
       "enriched": true
     },
     {
-      "id": "n8f03f4fa38ae",
+      "id": "ndbac1d406588",
       "ticker": "MSECL",
       "company": "Monarch Surveyors and Engineering Consultants Ltd",
       "sector": "Services",
       "scope": [
         "watchlist"
       ],
-      "title": "Monarch Surveyors and Engineering gains on bagging Rs 2-cr work order | Capital Market News - Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/monarch-surveyors-and-engineering-gains-on-bagging-rs-2-cr-work-order-126082400282_1.html",
+      "title": "Monarch Surveyors and Engineering Consultants receives Rs 2-cr work order | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-and-engineering-consultants-receives-rs-2-cr-work-order-126082200734_1.html",
       "source": "business-standard.com",
       "date": "",
       "topic": "Orders",
       "keyword": "Order",
       "importance": "low",
       "mood": "positive",
-      "takeaway": "Monarch Surveyors won a Rs 2 crore work order.",
+      "takeaway": "Monarch Surveyors receives Rs 2 crore work order.",
       "sources_count": 2,
       "enriched": true
     },
@@ -15259,23 +15375,22 @@
       "enriched": true
     },
     {
-      "id": "nbe6f14a3faf6",
-      "ticker": "CURRENT",
-      "company": "Current Infraprojects Limited",
-      "sector": "Construction",
+      "id": "ne602d8367e3f",
+      "ticker": "BLACKBUCK",
+      "company": "BLACKBUCK LIMITED",
+      "sector": "Services",
       "scope": [
         "watchlist"
       ],
-      "title": "Current Infraprojects Secures Rs 10.42 Cr Bank Note Press Solar Order – Outlook Business",
-      "url": "https://www.outlookbusiness.com/spotlight/news-wire/current-infraprojects-secures-rs-10-42-cr-bank-note-press-solar-order",
-      "source": "outlookbusiness.com",
+      "title": "BlackBuck Limited Maintains 100% Ownership of Subsidiary TZF Logistics Solutions",
+      "url": "https://www.sahi.com/news/blackbuck-limited-maintains-100-ownership-of-subsidiary-tzf-logistics-solutions",
+      "source": "sahi.com",
       "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
+      "topic": "Deals",
+      "keyword": "Rights Issue",
       "importance": "low",
-      "mood": "positive",
-      "takeaway": "Current Infraprojects wins Rs 10.42 crore solar order from Bank Note Press.",
-      "sources_count": 3,
+      "mood": "neutral",
+      "takeaway": "BlackBuck retains full ownership of its subsidiary TZF Logistics Solutions.",
       "enriched": true
     },
     {
