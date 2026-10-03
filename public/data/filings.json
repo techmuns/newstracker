@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T08:38:09.126Z",
+  "generated_at": "2026-10-03T18:21:33.517Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,66 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f810806ce385e",
+      "ticker": "SETL",
+      "company": "Standard Engineering Technology Limited",
+      "exchange": "NSE",
+      "date": "2026-10-03T18:37:20.000Z",
+      "category": "Disclosure",
+      "title": "Standard Engineering Technology Limited has informed the Exchange about General Updates_Receipt of In-principle Approval",
+      "url": "https://nsearchives.nseindia.com/corporate/SGLTPL_03102026183701_SETL_InPrinciple_Approval_Intimation_BSE_NSE.pdf"
+    },
+    {
+      "id": "f305b206803dc",
+      "ticker": "CMLL",
+      "company": "Caliber Mining and Logistics Limited",
+      "exchange": "NSE",
+      "date": "2026-10-03T17:52:43.000Z",
+      "category": "Shareholders meeting",
+      "title": "Caliber Mining and Logistics Limited has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on September 30, 2026. Further, the company has informed the Exchange regarding voting results.",
+      "url": "https://nsearchives.nseindia.com/corporate/CMLL_03102026175219_Voting_Result_and_Scrutinizer_Report_final.pdf"
+    },
+    {
+      "id": "fdd09cc80ba79",
+      "ticker": "VAML",
+      "company": "Vedanta Aluminium Metal Limited",
+      "exchange": "NSE",
+      "date": "2026-10-03T17:24:17.000Z",
+      "category": "Disclosure",
+      "title": "Vedanta Aluminium Metal Limited has informed the Exchange regarding 'Production Release'.",
+      "url": "https://nsearchives.nseindia.com/corporate/VAML_03102026172407_SEIntimationProductionReleaseOctober32026signed.pdf"
+    },
+    {
+      "id": "fb1502cd8c99f",
+      "ticker": "CURRENT",
+      "company": "Current Infraprojects Limited",
+      "exchange": "NSE",
+      "date": "2026-10-03T17:06:34.000Z",
+      "category": "Receipt of Order",
+      "title": "Current Infraprojects Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
+      "url": "https://nsearchives.nseindia.com/corporate/CURRENTINFRA_03102026170329_Updated-Announcement_New_03-10-2026.pdf"
+    },
+    {
+      "id": "f3ab120f35276",
+      "ticker": "FAZE3Q",
+      "company": "Faze Three Limited",
+      "exchange": "NSE",
+      "date": "2026-10-03T17:05:12.000Z",
+      "category": "Disclosure",
+      "title": "Faze Three Limited has informed the Exchange regarding publication of an interview of Mr. Vishnu Anand, President- Faze Three Limited in Dun & Bradstreet- Business Enterprises of Tomorrow: The AI Moment for India s MSMEs dated September 29, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/FAZETHREE_03102026170456_Submission.pdf"
+    },
+    {
+      "id": "fa962908f44ed",
+      "ticker": "BALUFORGE",
+      "company": "Balu Forge Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-10-03T15:58:54.000Z",
+      "category": "Shareholders meeting",
+      "title": "Balu Forge Industries Limited has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on September 30, 2026. Further, the company has informed the Exchange regarding voting results.",
+      "url": "https://nsearchives.nseindia.com/corporate/BALUFORGE_03102026155816_AGMBaluForgeScutnizer.pdf"
+    },
     {
       "id": "f13d62cb98cb5",
       "ticker": "JYOTICNC",
@@ -19946,66 +20006,6 @@
       "category": "Press Release",
       "title": "PDS Limited has informed the Exchange regarding a press release dated July 14, 2026, titled \"PDS Limited and Busana Apparel Group Announce Strategic Partnership to Build the Next Generation of Global Apparel Manufacturing\".",
       "url": "https://nsearchives.nseindia.com/corporate/PDSL_14072026201716_Ltr_Press_Release_14072026.pdf"
-    },
-    {
-      "id": "f3ccfb8faf890",
-      "ticker": "EPIGRAL",
-      "company": "Epigral Limited",
-      "exchange": "NSE",
-      "date": "2026-07-14T19:10:34.000Z",
-      "category": "Credit Rating",
-      "title": "Epigral Limited has informed the Exchange about Credit Rating- Revision",
-      "url": "https://nsearchives.nseindia.com/corporate/EPIGRAL_14072026191027_CREDITRATING.pdf"
-    },
-    {
-      "id": "f24f67073fa70",
-      "ticker": "IKS",
-      "company": "Inventurus Knowledge Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-07-14T18:44:44.000Z",
-      "category": "Acquisition",
-      "title": "Inventurus Knowledge Solutions Limited has informed the Exchange about update on additional investment in IKS WWMG MSO LLC.",
-      "url": "https://nsearchives.nseindia.com/corporate/IKS2006_14072026184431_UpdateWWMGMSOLLC_Final.pdf"
-    },
-    {
-      "id": "f3369eebd02ef",
-      "ticker": "SONACOMS",
-      "company": "Sona BLW Precision Forgings Limited",
-      "exchange": "NSE",
-      "date": "2026-07-14T18:38:05.000Z",
-      "category": "Disclosure",
-      "title": "Sona Blw Precision Forgings Limited has informed the Exchange regarding ''.",
-      "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_14072026183526_Outcome.pdf"
-    },
-    {
-      "id": "f58c5161b4c82",
-      "ticker": "CARTRADE",
-      "company": "Cartrade Tech Limited",
-      "exchange": "NSE",
-      "date": "2026-07-14T18:31:12.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Cartrade Tech Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/CARTRADE_14072026183108_74_5_-_DP.pdf"
-    },
-    {
-      "id": "fcf383c49eb3a",
-      "ticker": "SHRIAHIMSA",
-      "company": "Shri Ahimsa Naturals Limited",
-      "exchange": "NSE",
-      "date": "2026-07-14T18:06:39.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Shri Ahimsa Naturals Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/AHIMSANATURALS_14072026180624_Certificate_74_5_.pdf"
-    },
-    {
-      "id": "ff2d708449cc2",
-      "ticker": "YASHO",
-      "company": "Yasho Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-07-14T17:42:07.000Z",
-      "category": "Record Date",
-      "title": "Yasho Industries Limited has informed the Exchange that Record date for the purpose of Dividend is 30-Jul-2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/8291904474_14072026174138_Intimation_of_record_date.pdf"
     }
   ]
 }
