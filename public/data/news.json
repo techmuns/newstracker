@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T19:36:19.881Z",
+  "generated_at": "2026-10-03T08:37:52.852Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 137,
+    "portfolio": 139,
     "watchlist": 749,
     "universe": 43,
     "total": 792
@@ -25,7 +25,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "TARIL secured an order from DVC for 500 MVA and 200 MVA transformers.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -435,7 +435,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Anupam Rasayan completes acquisition of 48.2% stake in Bliss GVS Pharma.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -1639,7 +1639,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Avantel secured ₹177 crore order from Zetwerk to supply satellite communication equipment.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -2660,26 +2660,6 @@
       "enriched": true
     },
     {
-      "id": "n5449e184818c",
-      "ticker": "CURRENT",
-      "company": "Current Infraprojects Limited",
-      "sector": "Construction",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Current Infraprojects Secures Rs 10.42 Cr Order for 3 MW Rooftop Solar Project",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVDV1cW1BalJxV0pZLWxFZ1gtYktwTkxvT3BYOGNtemNqcE1maDZ3aFVTODVpM0FBa0c2bUpPb0lnWTVJaFlTb1lHYTd6SVE3RlFLTUpaaTF5Q3RxX0k0WUxiam1iblRXSkN1NjhrZGV1Q0JpLVZHQTNuTXhpSFJPMmY4T2Fib2NrUWdEVk5lTlpFRDJrcTNLU0NkakJKbVdxN0ozNnljenhyand4M25yRXl6SUJfbG5EZkh4RFVCN1U?oc=5",
-      "source": "Ahmedabad Mirror",
-      "date": "2026-09-19T13:10:28.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Current Infraprojects won Rs 10.42 crore order for a 3 MW rooftop solar project.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "n552bdcdb9d26",
       "ticker": "THEME",
       "company": "Pharma Approvals",
@@ -3104,6 +3084,25 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Inventurus Knowledge Solutions reported double-digit revenue growth in Q2 2026.",
+      "enriched": true
+    },
+    {
+      "id": "nd9b313ad39c4",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries India Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Solar Industries (NSE:SOLARINDS): What Does the Omnia Holdings Acquisition Mean for Investors?",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTERHa1lJbEdHNExQeFBRbHBXQm05dE5ZRVE1eU5vVW5CQmRRdGxRczc2ZGpkSTdLZGZSZVhRSHRlS1VHcWgxNHJaSEkyOEpoNEtXd1pPSkFWN2tIMEktY1diQlBlOXlkbVM2R2xlZWxWdE1Zb3EtbXYwUUFoYXFuQUhCOW1DOE54WjE4d1M4dlE5Tm9jR0t4NGhDcWR3TlBNZDhaRTFkX3hOUTNnRGt6alM1c3ljd2R5a1Q3cU9kLVF6OFQxVTNCOTJlOWgzVko0UmxJ?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-09-17T10:23:00.000Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Solar Industries acquires Omnia Holdings, expanding its business footprint.",
       "enriched": true
     },
     {
@@ -3723,7 +3722,7 @@
       "mood": "positive",
       "takeaway": "Solar Industries plans to acquire Omnia for ₹12,951 crore.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "n5f124abb49d1",
@@ -8565,25 +8564,6 @@
       "enriched": true
     },
     {
-      "id": "nab45a28e4965",
-      "ticker": "HILINFRA",
-      "company": "Highway Infrastructure Limited",
-      "sector": "Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Highway Infrastructure wins ₹80.17 Cr NHAI Order for Palayam Fee Plaza Operations",
-      "url": "https://tradebrains.in/highway-infrastructure-wins-80-17-cr-nhai-order-for-palayam-fee-plaza-operations/",
-      "source": "tradebrains.in",
-      "date": "2026-09-03T20:34:16.934Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Highway Infrastructure won ₹80 crore NHAI contract to operate Palayam toll plaza.",
-      "enriched": true
-    },
-    {
       "id": "n56c8d154624e",
       "ticker": "HARIOMPIPE",
       "company": "Hariom Pipe Industries Limited",
@@ -10155,6 +10135,26 @@
       "enriched": true
     },
     {
+      "id": "nc9306ad7a742",
+      "ticker": "EPIGRAL",
+      "company": "Epigral Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Epigral Limited (EPIGRAL.NS) Q2 FY2026 Earnings: Steady EPS of ₹76.95 despite flat revenue - Book Value Growth",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPODZfRTRzemQtbGNaQUpVOE85YS1XLXJFcDFWLVhXQ3J0dThPdmVYQ1dLM2ltbk5tWWh2QXBkMWNtNW1LYTl5Vnd5eXlETHYtR0tCakNJN1Vxd29lb2pueTRveS1UVWRRUXctUllVRFNuRGk4RzdYam5ENm5PbXNIUV96MVNqelVsdFVTQ25YbWJEaUxZcEZXUGoyMW9pRUFNUW1TNmFkazZRV2ZFMTFCYUo2RUQyYmNuVG1yczYwYXlFLXNNdVNJ?oc=5",
+      "source": "siam.in",
+      "date": "2026-09-02T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Epigral Q2 FY26 earnings steady with EPS of ₹76.95 despite flat revenue.",
+      "enriched": true
+    },
+    {
       "id": "n89fe0ca6120e",
       "ticker": "GOLDIAM",
       "company": "Goldiam International Limited",
@@ -11231,6 +11231,26 @@
       "enriched": true
     },
     {
+      "id": "nebdea9c5abde",
+      "ticker": "HILINFRA",
+      "company": "Highway Infrastructure Limited",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Highway Infrastructure Bags ₹80.17 Crore Toll Collection Order from NHAI in Tamil Nadu",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xWW9LWEdVQk50Z18zYVh0QzdKXzE2QjNsZmRfVVdqX0pyZUdma1dpZmNhMWhyUm5RQVNReWJPZEdsaTRZWXktdE9OZW5FUjV1VFdjcUZOaEJDYVNtdHJr?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-08-17T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Highway Infrastructure won ₹80 crore toll collection contract from NHAI in Tamil Nadu.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
       "id": "nfe958097a76d",
       "ticker": "SOLARINDS",
       "company": "Solar Industries",
@@ -12114,6 +12134,27 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Varun Beverages completes $32 million acquisition in Kenya, expanding its geographic footprint.",
+      "enriched": true
+    },
+    {
+      "id": "n39d22c238d28",
+      "ticker": "STLTECH",
+      "company": "Sterlite Technologies Limited",
+      "sector": "Telecommunication",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Sterlite Technologies Wins ₹960 Crore Order",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUXMweWdhQy1ROUVZZzZyM2xCa042SE9tQTNlRjlodlpjWnpVT3I5U3RNSFlaWlQxRng5eUNhY0hVcFMwak5Bd0FDb3hGc0pfMGh4UnBaal80UWJBbHhrOUQzbXhRSlBud2xGeW9XMlBCb25oN2Ixdm5YZ0N6T0JfdnBhNTZXNzljS1pndmlac2dvR0U3Ynp6UEJtcDZUVlVFRW50RWpXZFhBOXFKUUE?oc=5",
+      "source": "InvestyWise",
+      "date": "2026-08-01T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Sterlite Technologies secured a ₹960 crore order.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -13127,6 +13168,26 @@
       "enriched": true
     },
     {
+      "id": "nc2b556a77422",
+      "ticker": "EPIGRAL",
+      "company": "Epigral Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "EPIGRAL Mar 2026 Earnings: Strong EPS Performance Amid Stable Revenue - Estimate Revision Count",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT3J5ZTNvSE1xeFZ2bkNqZ20yYmlzSjVrQ1lpcHcyaHVFYlZualRBY2h1WVFseTdqNnJSaU5pemxYTWVyblFBZlVkV09sanhNV0ZhZTdGZHJTZzJJTV9vU3JFZlBkaTZhUXgzUHNDc3RqM192TWxWUTduNzk0UHBUTndXNlpmRmJmSTNnQTA3dV9SNnF2ZWJsWm91UFBjNURNY2dLOVM4N09rbmpnSzZkSg?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-12T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Epigral reported strong earnings per share performance in March 2026 quarter with stable revenue.",
+      "enriched": true
+    },
+    {
       "id": "n1cc7117ab68b",
       "ticker": "SAILIFE",
       "company": "Sai Life Sciences Limited",
@@ -13183,26 +13244,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Varun Beverages Q1 FY2026 revenue grows 7.15% year-on-year with stable earnings per share.",
-      "enriched": true
-    },
-    {
-      "id": "nc2b556a77422",
-      "ticker": "EPIGRAL",
-      "company": "Epigral Limited",
-      "sector": "Chemicals",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "EPIGRAL Mar 2026 Earnings: Strong EPS Performance Amid Stable Revenue - Estimate Revision Count",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT3J5ZTNvSE1xeFZ2bkNqZ20yYmlzSjVrQ1lpcHcyaHVFYlZualRBY2h1WVFseTdqNnJSaU5pemxYTWVyblFBZlVkV09sanhNV0ZhZTdGZHJTZzJJTV9vU3JFZlBkaTZhUXgzUHNDc3RqM192TWxWUTduNzk0UHBUTndXNlpmRmJmSTNnQTA3dV9SNnF2ZWJsWm91UFBjNURNY2dLOVM4N09rbmpnSzZkSg?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-12T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Epigral reported strong earnings per share performance in March 2026 quarter with stable revenue.",
       "enriched": true
     },
     {
@@ -14886,122 +14927,6 @@
       "enriched": true
     },
     {
-      "id": "n27285f638cf6",
-      "ticker": "VBL",
-      "company": "Varun Beverages Limited",
-      "sector": "Fast Moving Consumer Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Varun Beverages: Can the Asahi Partnership Open a New Growth Phase?",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV29PMTZlekdDaU10WWZ1RnZNYmdvX2wzREd0TENpVEJKSEdYSXhkQ1U2WnJnd1VEZk1tc2VqRTlSaUVaYUItbXlScUxIa3RaT0F6TWJCY00xeGw3Y2FxWjNwTE5aQUtUZ1NTTTF3Sjh2WERfMzEtZm00ZlZvS2pQZ3puT2VtZTV0MllROE83RklkNTA?oc=5",
-      "source": "Trade Brains",
-      "date": "2026-06-25T07:00:00.000Z",
-      "topic": "Deals",
-      "keyword": "Partnership",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Partnership with Asahi could drive new growth opportunities for Varun Beverages.",
-      "enriched": true
-    },
-    {
-      "id": "n2593537a36cd",
-      "ticker": "MSECL",
-      "company": "Monarch Surveyors and Engineering Consultants Ltd",
-      "sector": "Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Monarch Surveyors Bags ₹5.08 Crore Jaipur Corridor Order, To Prepare DPR For Elevated Road Project",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc2MzWTVNTmg1aU9uckpoN0FzRnNFcGk5U0JacWM2QlNGYXJFTTM1QldRVG9UYXVuS3drY3lmaEl3WTBQSng1Mm1rZHRYMVA4VC1kYV9xR1Y0VmhmSGVqTU5HMjNDYjUta3BYQzFGM0ZnYnVrejNrbVZMazN6SVVhZWtxSWNfR25vQ1UtdUZkalJleUItdmM3Nkdkei02bUdQalpZNVE1emZzRmo4QjlEaE9LYVYyTW03THdIbnN6ZjdKRnhUdXdSa3JLc1Rya21rREHSAdcBQVVfeXFMTW83d1hSN1NMMU5MdmlQZk1YNWVINzBibEJtZjhDaURvRTJsMjB4VThqdlBvN2U1b2p2dTF0NkxQSEFkTWFoTDRLcDI2U1JERVFFZU95ZURZSVRMcXAtX3RMcEdzS3ZCaVptb2xnV2RlSGlXU29od3hScXBPdEo3WXlxaGRrSm9GZlVEZHRyMV8yVHhsMnhEaGF4c1JRTXAyVFpKOHh6SEZTVkQybjJ1dVJVMWlqeEhUME80dDAtLWR6N2dMNEJjcHNUNk8wbkw1ZTN1M05LRHM?oc=5",
-      "source": "Free Press Journal",
-      "date": "2026-06-25T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Monarch Surveyors won ₹5.08 crore order to prepare DPR for Jaipur elevated road project.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n94d93956cf18",
-      "ticker": "AVANTEL",
-      "company": "Avantel Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "AVANTEL.NS Mar 2026 Earnings: Robust Quarter with EPS of ₹0.27 on Revenue of ₹63.15 Crore - EPS Miss Report",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYjNqU0xwR1J3YjBZUFJPbWdUZjg4MXBMWEtRSmw4c3gtdk5CSXVHcURqWmNlWnVNZm5GNmg2YlpuczBKWWFvSWJTNDFTZjAwazlva0xLXzhGaGgtb1FILXVkVDg5VGg4a2F6Uk1KX3NwTnlWUWNGajN4bDgyT3JzOTExdGFlZFVXMWpaSDdlQ3ZDYldpMktBaUhFQ19LY050WVVldi00LWt4NzE3YWlFUmFaZ2IxaF9CQ0lpX1hHY3BoUQ?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-25T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Avantel reported March 2026 earnings with EPS of ₹0.27 on revenue of ₹63.15 crore.",
-      "enriched": true
-    },
-    {
-      "id": "n109698d706dd",
-      "ticker": "SETL",
-      "company": "Standard Engineering Technology Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "SETL Invests Rs 500 Crore In AI Datacenter Sector With GScale Energy Acquisition",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRTRDZWRwWXh5NHRUb3J2ZkdETUlSLXJac2pJUV9GU3I1VmlLaVFTWktuY0JIOVNVTTFmeTZkWC1ybGN4QUd1bWdsRXFXY1hRcmpaNkFFZDkyYmItVHVWVFR6RWF0NE9pcXBOemhjcUhONzNKclBETWVrdjl5a24zOWlxaUVqUzZQUXZGZ0tyUW9vUXFGbWdfN1BfV3hpRHJsTkhHWGk0X2pSX2_SAa4BQVVfeXFMTzc3QWxJc3I3TEd1NW5uOE1fM1dkVkpBV3hIbnMyN1pxVjc5STJ5OS1Ya1FFMWMxVS1UV0R4akFjQ0x0anRNRlBZY2lnaE9nLU9DZ0dpdmRhY25XaWhnbW96Q1BKb200UUIxY3dlT0NhR1cwZ3hlY19hVWtUaFhMOXBaWjBDQ21PX2JpdE9GQ2FLbUs1TmZpeUk5Vk1NMVdCQ014enBDT3ZKWnFIYm93?oc=5",
-      "source": "Rediff",
-      "date": "2026-06-25T07:00:00.000Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "SETL acquires GScale Energy for Rs 500 crore to enter AI datacenter sector.",
-      "enriched": true,
-      "sources_count": 2
-    },
-    {
-      "id": "n93599c9ce34d",
-      "ticker": "TRIVENI",
-      "company": "Triveni Engineering & Industries Limited",
-      "sector": "Fast Moving Consumer Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Triveni Engineering gets stock exchange approval to list 14.65 lakh shares",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaUpXNFJMcFMzLVctdGkyYXNFUUlqVG5pSkpCZ2JhQkF2SENoX1g1TVZCWTFKYUI3UmRJeTkxVHhBYi04ajhaeGFhVmhELXZuUk9nZU1paWlLVU5vai1iazBtY1Vza3FJNGMzZGUzRUdWX0pBYjRaa0tSOWJsZkp3SDFILTh4bHNFZm8yanhRTFk2Zk8yNnNybzNRLUJvYnZkV05TYjJSMXhFckVZMDgtSVoxdXljRVYweUxrLWtweVNIdHN0SEJuZTMxWQ?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-06-25T07:00:00.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Stock exchange approved listing of 14.65 lakh shares.",
-      "enriched": true
-    },
-    {
-      "id": "na1aa87cea6d0",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Meesho accepts resignation of Ashish Kumar Singh as CHRO",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM3hMREZySUJ1ZDhDekRUZ0Y4WUFjR2JwUkVfRFE4NFhQSU9mazBlRW5Vdk5hbkdNamM2bmJqcUdOMU9aUE8yTDUtaUdyN2JpOU9CZk0tNTltem42eWo0b282d1ZTaThSSDBOcWVJUjlibVFmTlVVa214Wkg0cXNZUTNDaXZOYlo3MjZtX19JblNYeVM4Q0lKeHgzUmxWbWFPWmliR3ZzVk9BbGw2dTZvZEFFY2pwUWE4MVE?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-06-25T07:00:00.000Z",
-      "topic": "Trouble",
-      "keyword": "Resignation",
-      "importance": "medium",
-      "mood": "negative",
-      "takeaway": "Meesho's Chief Human Resources Officer Ashish Kumar Singh has resigned.",
-      "enriched": true
-    },
-    {
       "id": "n694b9674d431",
       "ticker": "UNIMECH",
       "company": "Unimech Aerospace and Manufacturing Limited",
@@ -15042,22 +14967,22 @@
       "enriched": true
     },
     {
-      "id": "ncf1629504db4",
+      "id": "n9df45b02e377",
       "ticker": "GOLDIAM",
       "company": "Goldiam International Limited",
       "sector": "Consumer Durables",
       "scope": [
         "watchlist"
       ],
-      "title": "Goldiam International 39వ AGM: షేర్ హోల్డర్లకు డివిడెండ్, కీలక పదవిలో మళ్ళీ అన్మోల్ బన్సాలీ! | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/Telugu/consumer-products/Goldiam-International-Approves-Final-Dividend-and-Reappoints-MD-at-39th-AGM/6abbb5daf2017017ae75ad49",
+      "title": "Goldiam International AGM: Dividend par lagi mohar, MD Anmol Bhansali ki hui re-appointment! | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/consumer-products/Goldiam-International-Approves-Final-Dividend-and-Reappoints-MD-at-39th-AGM/6abbb5daf2017017ae75ad49",
       "source": "whalesbook.com",
       "date": "",
       "topic": "Money",
       "keyword": "QIP",
       "importance": "low",
-      "mood": "positive",
-      "takeaway": "Goldiam held 39th AGM, declared dividend, and reappointed Anmol Bansali to key position.",
+      "mood": "neutral",
+      "takeaway": "Goldiam International AGM approved dividend and reappointed MD Anmol Bhansali.",
       "sources_count": 3,
       "enriched": true
     },
@@ -15082,23 +15007,61 @@
       "enriched": true
     },
     {
-      "id": "ndbac1d406588",
+      "id": "n8f03f4fa38ae",
       "ticker": "MSECL",
       "company": "Monarch Surveyors and Engineering Consultants Ltd",
       "sector": "Services",
       "scope": [
         "watchlist"
       ],
-      "title": "Monarch Surveyors and Engineering Consultants receives Rs 2-cr work order | Capital Market News - Business Standard",
-      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-and-engineering-consultants-receives-rs-2-cr-work-order-126082200734_1.html",
+      "title": "Monarch Surveyors and Engineering gains on bagging Rs 2-cr work order | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/markets/capital-market-news/monarch-surveyors-and-engineering-gains-on-bagging-rs-2-cr-work-order-126082400282_1.html",
       "source": "business-standard.com",
       "date": "",
       "topic": "Orders",
       "keyword": "Order",
       "importance": "low",
       "mood": "positive",
-      "takeaway": "Received Rs 2 crore work order.",
+      "takeaway": "Monarch Surveyors won a Rs 2 crore work order.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nb24ec98e92f1",
+      "ticker": "KKJEWELS",
+      "company": "Kabra Jewels Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Kabra Extrusiontechnik: కంపెనీ ఖజానాలోకి భారీ నిధులు.. రూ. 141 కోట్ల Preferential Issue! | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Telugu/industrial-goodsservices/Kabra-Extrusiontechnik-Raises-Rs-141-Crore-Through-Preferential-Allotment-of-Shares/6abf9234af0ff73182756ad9",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Preferential Issue",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Kabra Extrusiontechnik raising Rs 141 crore through preferential issue.",
+      "enriched": true
+    },
+    {
+      "id": "n4140aef6b01d",
+      "ticker": "ADVAIT",
+      "company": "Advait Energy Transitions Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Transformers and Rectifiers India Secures DVC Order for 500 MVA and 200 MVA Auto Transformers - Electrical Mirror",
+      "url": "https://electricalmirror.net/transformers-and-rectifiers-india-secures-dvc-order-for-500-mva-and-200-mva-auto-transformers/",
+      "source": "electricalmirror.net",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Transformers and Rectifiers India wins DVC order for 500 MVA and 200 MVA auto transformers.",
       "enriched": true
     },
     {
@@ -15216,6 +15179,25 @@
       "enriched": true
     },
     {
+      "id": "n1778b21af061",
+      "ticker": "AUSTERE",
+      "company": "Austere Systems Ltd",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Austere Systems gets SEBI warning for late NCLAT order disclosure",
+      "url": "https://scanx.trade/stock-market-news/companies/austere-systems-gets-sebi-warning-late-disclosure-nclat-order/52474290",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Trouble",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "negative",
+      "takeaway": "Austere Systems received SEBI warning for delayed disclosure of NCLAT order.",
+      "enriched": true
+    },
+    {
       "id": "n2b042f714980",
       "ticker": "STLTECH",
       "company": "Sterlite Technologies Limited",
@@ -15274,6 +15256,26 @@
       "mood": "positive",
       "takeaway": "Ganesh Benzoplast sells logistics business for Rs 1,154 crore and plans buyback.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nbe6f14a3faf6",
+      "ticker": "CURRENT",
+      "company": "Current Infraprojects Limited",
+      "sector": "Construction",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Current Infraprojects Secures Rs 10.42 Cr Bank Note Press Solar Order – Outlook Business",
+      "url": "https://www.outlookbusiness.com/spotlight/news-wire/current-infraprojects-secures-rs-10-42-cr-bank-note-press-solar-order",
+      "source": "outlookbusiness.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Current Infraprojects wins Rs 10.42 crore solar order from Bank Note Press.",
+      "sources_count": 3,
       "enriched": true
     },
     {
