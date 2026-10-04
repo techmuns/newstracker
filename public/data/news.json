@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-04T08:55:55.306Z",
+  "generated_at": "2026-10-04T18:26:22.179Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 140,
-    "watchlist": 758,
+    "portfolio": 139,
+    "watchlist": 756,
     "universe": 46,
-    "total": 804
+    "total": 802
   },
   "items": [
     {
@@ -374,7 +374,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Avantel merging subsidiary and entering Space and AI sectors.",
-      "sources_count": 3,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -2792,26 +2792,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Solar Group acquired Omnia for $1.36 billion, expanding its explosives and defence business globally.",
-      "enriched": true
-    },
-    {
-      "id": "n415272bdd232",
-      "ticker": "CURRENT",
-      "company": "Current Infraprojects Limited",
-      "sector": "Construction",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Current Infraprojects Secures Rs 10.42 Cr Bank Note Press Solar Order",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSXlsb0ZrRUpqUloyUkhjR08zZEtRUXVwbVlTLWxBc2FsZXFnMUVjMjdlQ25fZ1FmdXAyZk5jWjIxNFQtdkV3S1JMcnpSS1ZaUFkwZzVzaWpWcExWZWF3anRlQXBNd0I1LWtsZUIwMFRKY3h4U245WlAzVng5M0w1LTM5enRMN1d3bUtFS2hyLVdLQ25aRUl1WFltZ2hsVHZGTFVVd0NoTld2TWpRanJNRWJIeWNKVGJZaEctOTBB0gHLAUFVX3lxTE1HS0thTV9xMTFJLWtLa3dVM0ZhWWZIMjRoM2wxTXM2MHhEQ2N3MlpGY1dnZXdsOWNUN2NWZ3N0V3lIVm5ZaTc5eWtHcmNXWmlQRHd2Y3VwZE9vMTVNTGhUV19wTkNXeWVGTGVxQ1RtT1owcC1VMjJzSEFOMlJfLWl2SHR0ZTNwZVRyTDdhS3o5eGhqMHlSd1g2RzBvTFNVUFlKa2s2M1A5LVhleGsyVTJuM0NKa3E0dXVILWNYdktVVm5FREN1ZUV1S2Fj?oc=5",
-      "source": "outlookbusiness.com",
-      "date": "2026-09-19T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Current Infraprojects wins Rs 10.42 crore solar order from Bank Note Press.",
-      "sources_count": 4,
       "enriched": true
     },
     {
@@ -12292,27 +12272,6 @@
       "enriched": true
     },
     {
-      "id": "n39d22c238d28",
-      "ticker": "STLTECH",
-      "company": "Sterlite Technologies Limited",
-      "sector": "Telecommunication",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Sterlite Technologies Wins ₹960 Crore Order",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUXMweWdhQy1ROUVZZzZyM2xCa042SE9tQTNlRjlodlpjWnpVT3I5U3RNSFlaWlQxRng5eUNhY0hVcFMwak5Bd0FDb3hGc0pfMGh4UnBaal80UWJBbHhrOUQzbXhRSlBud2xGeW9XMlBCb25oN2Ixdm5YZ0N6T0JfdnBhNTZXNzljS1pndmlac2dvR0U3Ynp6UEJtcDZUVlVFRW50RWpXZFhBOXFKUUE?oc=5",
-      "source": "InvestyWise",
-      "date": "2026-08-01T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Sterlite Technologies secured a ₹960 crore order.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "nc54465feba00",
       "ticker": "TRIVENI",
       "company": "Triveni Engineering & Industries Limited",
@@ -12985,26 +12944,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Meesho reports Q1 2027 growth with improved cost management and operational efficiency.",
-      "enriched": true
-    },
-    {
-      "id": "n17f4de6237fc",
-      "ticker": "TRIVENI",
-      "company": "Triveni Engineering & Industries Limited",
-      "sector": "Fast Moving Consumer Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Triveni Engineering to Host Q1 Earnings Call on July 30 at 12 PM",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTzM2Ykd3NFhaY1JTaW5GMm9hdHdYX2R6OGhBUVRqMGlSYWtrTGNQSjlsSDJyazlrUTBxNkNocWk5NGVPNVVGN2xMQ0FHUmdCS0JRb1g2aFo2V09mV3E3Wi10Uk5zSnlCOEZiMkJoUlAxQk00UW9nY1I1b1ViSjlvdnozaEJhOVVsRHF4UG5HRXZDWF9URjB1cHBfejIyYmhVU05kNkdR?oc=5",
-      "source": "Sahi",
-      "date": "2026-07-22T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Triveni Engineering scheduled earnings call for Q1 results on July 30.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -13851,6 +13790,25 @@
       "takeaway": "Medi Assist Q2 revenue jumped 25.1% with earnings of ₹12.14 per share.",
       "enriched": true,
       "sources_count": 2
+    },
+    {
+      "id": "n57f45389d510",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "DEE Development Engineers Strengthens Growth Platform with ₹300 Crore Capital Raise; Order Book Remains Strong at ₹2,428 Crore",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNQ3hCRHZTaHB5Q1laTTFLWm9sRTZQeDRWbnYxeXNVYmFLZHcwWC1TcTVLcGVaRnBlZWJyMVhkUHZlNDZHYkI5RHZTYkdRRGU4d05jVUV0bTVFXzZ1NmVCcjV4eHIxMzV2N3plaF9tbmV4V3NmZjl0R0k2YjY2aEp3ZU5PU25nbFA1aWlSUmYzd2o0Vk9FTmpUNEZXZkZGMzI3OUlGTl9VSXhveXFiWUJPYUw3dmZwclUzSGk2Mm05UklHY0pQelZCdkVBRjZyczNZajJMWkdUT0FjbXRTMFRLbWFDTGFoSlRlNnRGRGpUcUxYRS1VZ0EtUnZEMjFLZFJwaXc?oc=5",
+      "source": "India Education Diary",
+      "date": "2026-07-09T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "DEE Development Engineers raised ₹300 crore with strong order book of ₹2,428 crore.",
+      "enriched": true
     },
     {
       "id": "n61da6444d22d",
@@ -15181,26 +15139,6 @@
       "enriched": true
     },
     {
-      "id": "n9df45b02e377",
-      "ticker": "GOLDIAM",
-      "company": "Goldiam International Limited",
-      "sector": "Consumer Durables",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Goldiam International AGM: Dividend par lagi mohar, MD Anmol Bhansali ki hui re-appointment! | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/Hinglish/consumer-products/Goldiam-International-Approves-Final-Dividend-and-Reappoints-MD-at-39th-AGM/6abbb5daf2017017ae75ad49",
-      "source": "whalesbook.com",
-      "date": "",
-      "topic": "Money",
-      "keyword": "QIP",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Goldiam International AGM approved dividend and reappointed MD Anmol Bhansali.",
-      "sources_count": 4,
-      "enriched": true
-    },
-    {
       "id": "nbe72ed039feb",
       "ticker": "VAML",
       "company": "Vedanta Aluminium Metal Limited",
@@ -15221,22 +15159,22 @@
       "enriched": true
     },
     {
-      "id": "n8f03f4fa38ae",
+      "id": "ndbac1d406588",
       "ticker": "MSECL",
       "company": "Monarch Surveyors and Engineering Consultants Ltd",
       "sector": "Services",
       "scope": [
         "watchlist"
       ],
-      "title": "Monarch Surveyors and Engineering gains on bagging Rs 2-cr work order | Capital Market News - Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/monarch-surveyors-and-engineering-gains-on-bagging-rs-2-cr-work-order-126082400282_1.html",
+      "title": "Monarch Surveyors and Engineering Consultants receives Rs 2-cr work order | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-and-engineering-consultants-receives-rs-2-cr-work-order-126082200734_1.html",
       "source": "business-standard.com",
       "date": "",
       "topic": "Orders",
       "keyword": "Order",
       "importance": "low",
       "mood": "positive",
-      "takeaway": "Monarch Surveyors wins Rs 2 crore work order.",
+      "takeaway": "Monarch Surveyors received a Rs 2 crore work order.",
       "sources_count": 2,
       "enriched": true
     },
@@ -15489,6 +15427,26 @@
       "mood": "positive",
       "takeaway": "Ganesh Benzoplast sells logistics business for Rs 1,154 crore and plans buyback.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nbe6f14a3faf6",
+      "ticker": "CURRENT",
+      "company": "Current Infraprojects Limited",
+      "sector": "Construction",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Current Infraprojects Secures Rs 10.42 Cr Bank Note Press Solar Order – Outlook Business",
+      "url": "https://www.outlookbusiness.com/spotlight/news-wire/current-infraprojects-secures-rs-10-42-cr-bank-note-press-solar-order",
+      "source": "outlookbusiness.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Current Infraprojects won Rs 10.42 crore solar order from Bank Note Press.",
+      "sources_count": 3,
       "enriched": true
     },
     {
