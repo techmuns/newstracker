@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-10-03T18:21:27.946Z",
+  "generated_at": "2026-10-04T08:55:55.306Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 140,
-    "watchlist": 753,
-    "universe": 45,
-    "total": 798
+    "watchlist": 758,
+    "universe": 46,
+    "total": 804
   },
   "items": [
+    {
+      "id": "n9614cc12aad0",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
+      "scope": [
+        "universe"
+      ],
+      "title": "Aurobindo Pharma secures USFDA final approval for multi-strength Perampanel tablets",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaEZXdllhV1BJNmk0b3dVRzZvWEV4WWNlWGFuZ0hUYm5GeVkyYTIzYXd1akhkejNUTkktMHNBV2dkTU9BY082RDlmMm5SY2o2QThqRzZ4VGhxeG5GUm9YaVNIdmRLcGtDcG9aNFFZOHZwTlZSV0JZQUt4N0tEYnd4ZWNyMXdJWlo4TEx3QnBacXBFck1TV2tLVE9VYTgxeWJKZ1ZDc0owUG9PQXRsWHU5cnhRUlgxVVZEQ01CS1pLdDNwakRCa0ZkY01obWlnd9IB1AFBVV95cUxOSVlGM3RDOVUtMGVmOWtjWTdsc09DZXNtYzlOQ1ZTdjJ3SGs2YVItVjdwLVdNYlBDc0l0ZXR5Vzg1YWl0QTZWcy1DOTZNS3hOV1JnRU5TMXZnN2J2UGVrbGdTVWpYN29ObjBBNkZyOGl1eTBPYi1SYlMzX0xLTElIaHFwc3Y5bTBfeVMzbHpDdFdBVFZULXE1WDM2eThnLTBZOEpWcUM3UnhMNFlDRGpremdZRHN1NmZzTXZlbmpBQUtrUnZ1d1ZpYWowOFRSRk5WdG1yTg?oc=5",
+      "source": "Indian Pharma Post",
+      "date": "2026-10-04T04:14:40.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Aurobindo Pharma gets US FDA approval to sell Perampanel tablets in multiple strengths.",
+      "enriched": true
+    },
     {
       "id": "n18f9d0e46c9a",
       "ticker": "SETL",
@@ -47,26 +66,6 @@
       "enriched": true
     },
     {
-      "id": "nfc4ab8697c87",
-      "ticker": "THEME",
-      "company": "Power Equipment",
-      "sector": "Capital Goods",
-      "scope": [
-        "universe"
-      ],
-      "title": "TARIL wins DVC order for 500 MVA and 200 MVA transformers",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY3ZWTmVEYjhPZ2QtbC1YOHcwcFNWU3JJWUE4Q3dhRnFMMEFjYVRjb2tDaU9xRXhjU3FMWXJnYS1Da2FhWGdBYXRpRkNGai1RTmVacXlxVndEZVNrMUJMcF9HTm84UmE5VldRTnhnZnNKRl9oN1p1bTVmYzB6SDVhQVFiMnZrT2l6el9ZQ2FLUFd6UzV3enU3ZzJXRmhqZw?oc=5",
-      "source": "Manufacturing Today India",
-      "date": "2026-10-02T13:45:21.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "TARIL secured an order from DVC for 500 MVA and 200 MVA transformers.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "n72e170534f8b",
       "ticker": "THEME",
       "company": "Pharma Approvals",
@@ -83,6 +82,26 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "USFDA expanded Camzyos approval to include children with obstructive hypertrophic cardiomyopathy.",
+      "enriched": true
+    },
+    {
+      "id": "nab8698dd716e",
+      "ticker": "THEME",
+      "company": "Power Equipment",
+      "sector": "Capital Goods",
+      "scope": [
+        "universe"
+      ],
+      "title": "TARIL bags large DVC order for 500 MVA, 200 MVA transformers",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOanVEQzhLenpEZ29pMVdCMFJGazZEZGdOaEd6SjhkVmt5QjhjRFN4WGxFQVVFNUlUVFFzUFFrVWl0X0lqeHkyZ2p5dWw3M2lUSW5JN3duRDRDSl9zQ25ETkVCOWt5ZERzRXc4dmdmX081RVB0T3gtTVhEdUdrcGFGOGdEMlNYcW10TjczY2RIMmlJMzJnOERQQ2s4ZjJ4UUR6OEtkY053U3R5T1JmT2JJbFJWYzByMTJhSHlWLTJHUUYxTVRQV3ZR0gHHAUFVX3lxTE5qdURDOEt6ekRnb2kxV0IwUkZrNkRkZ05oR3pKOGRWa3lCOGNEU3hYbEVBVUU1SVRUUXNQUWtVaXRfSWp4eTJnanl1bDczaVRJbkk3d25ENENKX3NDbkRORUI5a3lkRHNFdzh2Z2ZfTzVFUHRPeC1NWER1R2twYUY4Z0QyU1hxbXRONzNjZEgyaUkzMmc4RFBDazhmMnhRRHo4S2RjTndTdHlPUmZPYklsUlZjMHIxMmFIeVYtMkdRRjFNVFBXdlE?oc=5",
+      "source": "energy.economictimes.indiatimes.com",
+      "date": "2026-10-02T09:50:56.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "TARIL wins large order from DVC for 500 MVA and 200 MVA transformers.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -2717,26 +2736,6 @@
       "enriched": true
     },
     {
-      "id": "n5449e184818c",
-      "ticker": "CURRENT",
-      "company": "Current Infraprojects Limited",
-      "sector": "Construction",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Current Infraprojects Secures Rs 10.42 Cr Order for 3 MW Rooftop Solar Project",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVDV1cW1BalJxV0pZLWxFZ1gtYktwTkxvT3BYOGNtemNqcE1maDZ3aFVTODVpM0FBa0c2bUpPb0lnWTVJaFlTb1lHYTd6SVE3RlFLTUpaaTF5Q3RxX0k0WUxiam1iblRXSkN1NjhrZGV1Q0JpLVZHQTNuTXhpSFJPMmY4T2Fib2NrUWdEVk5lTlpFRDJrcTNLU0NkakJKbVdxN0ozNnljenhyand4M25yRXl6SUJfbG5EZkh4RFVCN1U?oc=5",
-      "source": "Ahmedabad Mirror",
-      "date": "2026-09-19T13:10:28.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Current Infraprojects wins Rs 10.42 crore order for 3 MW rooftop solar project.",
-      "sources_count": 3,
-      "enriched": true
-    },
-    {
       "id": "n552bdcdb9d26",
       "ticker": "THEME",
       "company": "Pharma Approvals",
@@ -2793,6 +2792,26 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Solar Group acquired Omnia for $1.36 billion, expanding its explosives and defence business globally.",
+      "enriched": true
+    },
+    {
+      "id": "n415272bdd232",
+      "ticker": "CURRENT",
+      "company": "Current Infraprojects Limited",
+      "sector": "Construction",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Current Infraprojects Secures Rs 10.42 Cr Bank Note Press Solar Order",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSXlsb0ZrRUpqUloyUkhjR08zZEtRUXVwbVlTLWxBc2FsZXFnMUVjMjdlQ25fZ1FmdXAyZk5jWjIxNFQtdkV3S1JMcnpSS1ZaUFkwZzVzaWpWcExWZWF3anRlQXBNd0I1LWtsZUIwMFRKY3h4U245WlAzVng5M0w1LTM5enRMN1d3bUtFS2hyLVdLQ25aRUl1WFltZ2hsVHZGTFVVd0NoTld2TWpRanJNRWJIeWNKVGJZaEctOTBB0gHLAUFVX3lxTE1HS0thTV9xMTFJLWtLa3dVM0ZhWWZIMjRoM2wxTXM2MHhEQ2N3MlpGY1dnZXdsOWNUN2NWZ3N0V3lIVm5ZaTc5eWtHcmNXWmlQRHd2Y3VwZE9vMTVNTGhUV19wTkNXeWVGTGVxQ1RtT1owcC1VMjJzSEFOMlJfLWl2SHR0ZTNwZVRyTDdhS3o5eGhqMHlSd1g2RzBvTFNVUFlKa2s2M1A5LVhleGsyVTJuM0NKa3E0dXVILWNYdktVVm5FREN1ZUV1S2Fj?oc=5",
+      "source": "outlookbusiness.com",
+      "date": "2026-09-19T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Current Infraprojects wins Rs 10.42 crore solar order from Bank Note Press.",
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -8429,7 +8448,8 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "MTAR's nuclear order book crosses Rs 775 crore, strengthening its position in the sector.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n63f83a60aa07",
@@ -11289,6 +11309,25 @@
       "enriched": true
     },
     {
+      "id": "nf70808249e04",
+      "ticker": "JYOTICNC",
+      "company": "Jyoti CNC Automation Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Jyoti CNC gets Govt nod for Rs 1,021 cr electronics manufacturing investment; 25% capex incentive on offer",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPY193RDlWZzV5dmxEUl9WTWFidm1FZS1WQkFOcjdWLU5JZlBfNnBKRjdtWlJKMVNSWXVOMERyV3p4Vk1VeHhNU2gtX0c0T0VkRFo0SC12RUI5LVdVakxudWNsMXRMbUVMMUJ3SVA1WGJVYkJDU0JUeWd4SkY5VGZWQXlBbGNodm5oaHdLRWRLckNyb0ZtMk5Zbl9MQk1aUGNMYzdSYkZJaFUtb1MxYndvNXhhcnRQNHJWM0cxSDk0MVdjTlM3QkdfLWJDZm8waXlmZldhd3VIM29OUENGci1VbHRsNVpUQjN0Q2dGZmRJcFdpVEs0NUHSAfwBQVVfeXFMUEtMUHBNbWFzYWFHdDJtTDNuX2xOZDBERFRIUUx2Sk1aR0NSMEd3bjBLWEVWbnU0UTFKYXVkWDlUdXZOYjhmYVZFQkUxbXdzdF9DX0FwbGl5dlVoN1dJN3dEMHo2VDVEYmM5Tmh1bEVFWlJxWVNjdC1faTZjamh3VDQwNFBkM1hEckY1SHNlQ2ExRHN5WEY2aWNnb1VvUzh5UWREQnBTb0hkVVRIOEFEeFJHSzNFSkEtb0w1MGxJVnhMbzA2aFhBc0FtcGdKNEwtZkFnSjBFNGFpZWUzR1JXUzdfdkUxM0paVnhSTU1mNUkzLUZBSTN6QlZNd3lB?oc=5",
+      "source": "financialexpress.com",
+      "date": "2026-08-18T04:45:39.000Z",
+      "topic": "Growth",
+      "keyword": "Capex",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Jyoti CNC gets government approval for Rs 1,021 crore electronics manufacturing investment with 25% capex incentive.",
+      "enriched": true
+    },
+    {
       "id": "n259cf2887c5b",
       "ticker": "VBL",
       "company": "Varun Beverages",
@@ -11613,6 +11652,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Sky Gold reported Q1 earnings, analysts raised estimates following the results.",
+      "enriched": true
+    },
+    {
+      "id": "n799cf8dd2527",
+      "ticker": "MANINDS",
+      "company": "Man Industries (India) Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Man Industries MANINDS Preferential Issue Fund Utilisation Q1 FY27",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOamQxbmZzMnVhTzg1NTVadVdZbDlUQk83M1BNazdMb1g5OGw2anl5STE4aGF2aTNWS3BDODJwUFM4Q2NsVVkxUmkxaXh0ZWt6VHpMWUpRSEhQdHJBaUdDM0VwZl9qaVdVcHhKclFLcTQ2WUNTdmJsSkktdkZ3R0dmWlNuZ2JKLUVuSTVsaGQyT0pJZlVDeHh5OUZxQ2VNaldaUjVLNUZpY0xNQ29iVnBpeklvZjNhY0xOOFp1M3M5c3N5RHRuaWtwSmZobFo?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-08-12T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Preferential Issue",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Man Industries reports fund utilization from preferential issue in Q1 FY27.",
       "enriched": true
     },
     {
@@ -12005,25 +12063,6 @@
       "enriched": true
     },
     {
-      "id": "nbd159790d8c6",
-      "ticker": "SETL",
-      "company": "Standard Engineering Technology Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Standard Engineering Technology (NSE:SETL) Updates Preferential Issue Details for Proposed GScale Energy Acquisition",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNLTljeUZZWWlEaUdNWjU1TTcxX1ExV3VPekhwaGNSamFGd0EydzhWeEE2dDluU0xjZERhN2tteTVBTGlmTUJtMkVBQW1zZGd0UEFBT081MXFzZ0tWc3NXc3BWYmpXRkJxTmpIVjFYVTZFbFpKMTdLT1JiYTc0RURtUGhJdjR5LXdVQ0ROR0NhVUt3RFgtYUxuREpvXzdBRk9pN2l2ZTF6bmtMWVg4ZV95YnI3em1Ta2FRTjBlR1FQUDNXMVJUSWdyNzhkZUJzbjNPZlJRMGtmZ2VqaVMxc0liTllCMFE0ZDdXaWIySWFUQVA?oc=5",
-      "source": "Kalkine India",
-      "date": "2026-08-04T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Preferential Issue",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Standard Engineering plans preferential share issue to fund acquisition of GScale Energy.",
-      "enriched": true
-    },
-    {
       "id": "nf1f382827cbc",
       "ticker": "THEME",
       "company": "Pharma Approvals",
@@ -12040,6 +12079,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Cipla receives US FDA approval for InvaGen's New York manufacturing facility.",
+      "enriched": true
+    },
+    {
+      "id": "nbd159790d8c6",
+      "ticker": "SETL",
+      "company": "Standard Engineering Technology Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Standard Engineering Technology (NSE:SETL) Updates Preferential Issue Details for Proposed GScale Energy Acquisition",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNLTljeUZZWWlEaUdNWjU1TTcxX1ExV3VPekhwaGNSamFGd0EydzhWeEE2dDluU0xjZERhN2tteTVBTGlmTUJtMkVBQW1zZGd0UEFBT081MXFzZ0tWc3NXc3BWYmpXRkJxTmpIVjFYVTZFbFpKMTdLT1JiYTc0RURtUGhJdjR5LXdVQ0ROR0NhVUt3RFgtYUxuREpvXzdBRk9pN2l2ZTF6bmtMWVg4ZV95YnI3em1Ta2FRTjBlR1FQUDNXMVJUSWdyNzhkZUJzbjNPZlJRMGtmZ2VqaVMxc0liTllCMFE0ZDdXaWIySWFUQVA?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-08-04T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Preferential Issue",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Standard Engineering plans preferential share issue to fund acquisition of GScale Energy.",
       "enriched": true
     },
     {
@@ -12927,6 +12985,26 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Meesho reports Q1 2027 growth with improved cost management and operational efficiency.",
+      "enriched": true
+    },
+    {
+      "id": "n17f4de6237fc",
+      "ticker": "TRIVENI",
+      "company": "Triveni Engineering & Industries Limited",
+      "sector": "Fast Moving Consumer Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Triveni Engineering to Host Q1 Earnings Call on July 30 at 12 PM",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTzM2Ykd3NFhaY1JTaW5GMm9hdHdYX2R6OGhBUVRqMGlSYWtrTGNQSjlsSDJyazlrUTBxNkNocWk5NGVPNVVGN2xMQ0FHUmdCS0JRb1g2aFo2V09mV3E3Wi10Uk5zSnlCOEZiMkJoUlAxQk00UW9nY1I1b1ViSjlvdnozaEJhOVVsRHF4UG5HRXZDWF9URjB1cHBfejIyYmhVU05kNkdR?oc=5",
+      "source": "Sahi",
+      "date": "2026-07-22T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Triveni Engineering scheduled earnings call for Q1 results on July 30.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -15103,6 +15181,26 @@
       "enriched": true
     },
     {
+      "id": "n9df45b02e377",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Goldiam International AGM: Dividend par lagi mohar, MD Anmol Bhansali ki hui re-appointment! | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/consumer-products/Goldiam-International-Approves-Final-Dividend-and-Reappoints-MD-at-39th-AGM/6abbb5daf2017017ae75ad49",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "QIP",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Goldiam International AGM approved dividend and reappointed MD Anmol Bhansali.",
+      "sources_count": 4,
+      "enriched": true
+    },
+    {
       "id": "nbe72ed039feb",
       "ticker": "VAML",
       "company": "Vedanta Aluminium Metal Limited",
@@ -15123,22 +15221,22 @@
       "enriched": true
     },
     {
-      "id": "ndbac1d406588",
+      "id": "n8f03f4fa38ae",
       "ticker": "MSECL",
       "company": "Monarch Surveyors and Engineering Consultants Ltd",
       "sector": "Services",
       "scope": [
         "watchlist"
       ],
-      "title": "Monarch Surveyors and Engineering Consultants receives Rs 2-cr work order | Capital Market News - Business Standard",
-      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-and-engineering-consultants-receives-rs-2-cr-work-order-126082200734_1.html",
+      "title": "Monarch Surveyors and Engineering gains on bagging Rs 2-cr work order | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/markets/capital-market-news/monarch-surveyors-and-engineering-gains-on-bagging-rs-2-cr-work-order-126082400282_1.html",
       "source": "business-standard.com",
       "date": "",
       "topic": "Orders",
       "keyword": "Order",
       "importance": "low",
       "mood": "positive",
-      "takeaway": "Monarch Surveyors receives Rs 2 crore work order.",
+      "takeaway": "Monarch Surveyors wins Rs 2 crore work order.",
       "sources_count": 2,
       "enriched": true
     },
@@ -15197,6 +15295,25 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Virtuoso Optoelectronics released its Q4FY26 earnings call recording.",
+      "enriched": true
+    },
+    {
+      "id": "nd27dd0b4e1fa",
+      "ticker": "VOEPL",
+      "company": "Virtuoso Optoelectronics Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Virtuoso Optoelectronics board meet for share issue 2026 | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/virtuoso-optoelectronics-share-offering-plan-cmuthl8k5000034pg3svkzwyk",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Preferential Issue",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Virtuoso Optoelectronics board to meet regarding share issue.",
       "enriched": true
     },
     {
