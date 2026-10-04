@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T08:58:23.542Z",
+  "generated_at": "2026-10-04T18:28:06.269Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,16 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f2311ba22cef1",
+      "ticker": "SONACOMS",
+      "company": "Sona BLW Precision Forgings Limited",
+      "exchange": "NSE",
+      "date": "2026-10-04T17:39:08.000Z",
+      "category": "Disclosure",
+      "title": "Sona Blw Precision Forgings Limited has informed the Exchange regarding 'Allotmenet of equity shares under ESOP 2023'.",
+      "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_04102026173754_NRC_Outcome.pdf"
+    },
     {
       "id": "f810806ce385e",
       "ticker": "SETL",
@@ -19996,16 +20006,6 @@
       "category": "Board Meeting",
       "title": "The Company has approved the unaudited financial results for the quarter ended June 30, 2026.",
       "url": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_15072026112913_outcomefinal.pdf"
-    },
-    {
-      "id": "f07965fb3e4a3",
-      "ticker": "PDSL",
-      "company": "PDS Limited",
-      "exchange": "NSE",
-      "date": "2026-07-14T20:17:22.000Z",
-      "category": "Press Release",
-      "title": "PDS Limited has informed the Exchange regarding a press release dated July 14, 2026, titled \"PDS Limited and Busana Apparel Group Announce Strategic Partnership to Build the Next Generation of Global Apparel Manufacturing\".",
-      "url": "https://nsearchives.nseindia.com/corporate/PDSL_14072026201716_Ltr_Press_Release_14072026.pdf"
     }
   ]
 }
