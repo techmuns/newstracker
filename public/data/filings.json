@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T18:28:06.269Z",
+  "generated_at": "2026-10-05T09:43:11.329Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,46 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f737d24f72443",
+      "ticker": "GULFOILLUB",
+      "company": "Gulf Oil Lubricants India Limited",
+      "exchange": "NSE",
+      "date": "2026-10-05T15:02:40.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "We enclose herewith the Certificates received from KFin Technologies Limited, Registrar and Share Transfer Agent (RTA) of the Company under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018, for the quarter ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/GULFOILLUB_05102026150210_reg745September2026.pdf"
+    },
+    {
+      "id": "f196df31c2606",
+      "ticker": "ADROITIND",
+      "company": "Adroit Industries (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-10-05T11:27:55.000Z",
+      "category": "Trading Window",
+      "title": "Adroit Industries (India) Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/ADROIT_05102026112744_Closure_of_Trading_Window_Sept_2026.pdf"
+    },
+    {
+      "id": "f385fb0316970",
+      "ticker": "SAILIFE",
+      "company": "Sai Life Sciences Limited",
+      "exchange": "NSE",
+      "date": "2026-10-05T10:54:06.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Sai Life Sciences Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/SAILIFE_05102026105343_Stx_Intimation_DP_Reg_74_5__Signed.pdf"
+    },
+    {
+      "id": "f951db7d3a3a2",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-10-05T09:42:54.000Z",
+      "category": "Press Release",
+      "title": "Aurionpro Solutions Limited has informed the Exchange regarding a press release dated October 05, 2026, titled \"Aurionpro Strengthens Data Centre Growth Momentum with &#8377;150 Crore Follow-on Order from Global Hyperscaler.\".",
+      "url": "https://nsearchives.nseindia.com/corporate/AURIONPRO_05102026094233_ASL_Press_Release_final_1_SD.pdf"
+    },
     {
       "id": "f2311ba22cef1",
       "ticker": "SONACOMS",
@@ -19966,46 +20006,6 @@
       "category": "Amendment to AOA/MOA",
       "title": "Highway Infrastructure Limited has informed the Exchange regarding the Amendment to AOA/MOA of the company.",
       "url": "https://nsearchives.nseindia.com/corporate/HIGHWAY123_15072026113659_HIL_Reg30_AOA_15072026.pdf"
-    },
-    {
-      "id": "f44d7ea6db194",
-      "ticker": "GROWW",
-      "company": "Billionbrains Garage Ventures Limited",
-      "exchange": "NSE",
-      "date": "2026-07-15T11:34:43.000Z",
-      "category": "Statement of deviation(s) or variation(s) under Reg. 32",
-      "title": "Billionbrains Garage Ventures Limited has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32",
-      "url": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_15072026113432_outcomefinal.pdf"
-    },
-    {
-      "id": "fbdc9b92e3e04",
-      "ticker": "GROWW",
-      "company": "Billionbrains Garage Ventures Limited",
-      "exchange": "NSE",
-      "date": "2026-07-15T11:33:31.000Z",
-      "category": "Amendment to AOA/MOA",
-      "title": "Billionbrains Garage Ventures Limited has informed the Exchange regarding the Amendment to AOA/MOA of the company.",
-      "url": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_15072026113314_outcomefinal.pdf"
-    },
-    {
-      "id": "fafae11a2fe95",
-      "ticker": "GROWW",
-      "company": "Billionbrains Garage Ventures Limited",
-      "exchange": "NSE",
-      "date": "2026-07-15T11:32:20.000Z",
-      "category": "Change in Directors",
-      "title": "Billionbrains Garage Ventures Limited has informed the Exchange about appointment of Internal Auditors.",
-      "url": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_15072026113210_outcomefinal.pdf"
-    },
-    {
-      "id": "f23eb768696ef",
-      "ticker": "GROWW",
-      "company": "Billionbrains Garage Ventures Limited",
-      "exchange": "NSE",
-      "date": "2026-07-15T11:30:46.000Z",
-      "category": "Board Meeting",
-      "title": "The Company has approved the unaudited financial results for the quarter ended June 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_15072026112913_outcomefinal.pdf"
     }
   ]
 }
