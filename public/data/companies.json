@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T19:59:47.032Z",
+  "generated_at": "2026-10-05T21:35:59.402Z",
   "portfolio": [
     {
       "company": "Monolithisch India Limited",
@@ -17,24 +17,24 @@
       "sector": "Capital Goods"
     },
     {
-      "company": "Menon Bearings Limited",
-      "ticker": "MENONBE",
-      "sector": "Automobile and Auto Components"
-    },
-    {
       "company": "Sterlite Technologies Limited",
       "ticker": "STLTECH",
       "sector": "Telecommunication"
     },
     {
-      "company": "Stylam Industries Limited",
-      "ticker": "STYLAMIND",
-      "sector": "Consumer Durables"
+      "company": "Menon Bearings Limited",
+      "ticker": "MENONBE",
+      "sector": "Automobile and Auto Components"
     },
     {
       "company": "Shadowfax Technologies Limited",
       "ticker": "SHADOWFAX",
       "sector": "Services"
+    },
+    {
+      "company": "Stylam Industries Limited",
+      "ticker": "STYLAMIND",
+      "sector": "Consumer Durables"
     },
     {
       "company": "Acutaas Chemicals Limited",
@@ -67,29 +67,9 @@
       "sector": "Media Entertainment & Publication"
     },
     {
-      "company": "Omnitech Engineering Limited",
-      "ticker": "OMNI",
-      "sector": "Capital Goods"
-    },
-    {
       "company": "Sudeep Pharma Limited",
       "ticker": "SUDEEPPHRM",
       "sector": "Chemicals"
-    },
-    {
-      "company": "Epigral Limited",
-      "ticker": "EPIGRAL",
-      "sector": "Chemicals"
-    },
-    {
-      "company": "Jubilant Agri and Consumer Products Limited",
-      "ticker": "JUBLCPL",
-      "sector": ""
-    },
-    {
-      "company": "Tempsens Instruments (India) Limited",
-      "ticker": "TEMPSENS",
-      "sector": "Capital Goods"
     },
     {
       "company": "Venus Remedies Limited",
@@ -97,29 +77,19 @@
       "sector": "Healthcare"
     },
     {
-      "company": "Lumino Industries Limited",
-      "ticker": "LUMINO",
+      "company": "Omnitech Engineering Limited",
+      "ticker": "OMNI",
       "sector": "Capital Goods"
     },
     {
-      "company": "Qualiance International Limited",
-      "ticker": "QUALIANCE",
-      "sector": ""
-    },
-    {
-      "company": "ESDS Software Solution Limited",
-      "ticker": "ESDS",
-      "sector": "Information Technology"
-    },
-    {
-      "company": "Adroit Industries (India) Limited",
-      "ticker": "ADROITIND",
-      "sector": "Automobile and Auto Components"
-    },
-    {
-      "company": "SpectraA Technology Solutions Limited",
-      "ticker": "SPECTRAA",
+      "company": "Tempsens Instruments (India) Limited",
+      "ticker": "TEMPSENS",
       "sector": "Capital Goods"
+    },
+    {
+      "company": "Epigral Limited",
+      "ticker": "EPIGRAL",
+      "sector": "Chemicals"
     },
     {
       "company": "TANFAC Industries Ltd",
@@ -133,6 +103,11 @@
     }
   ],
   "watchlist_exited": [
+    {
+      "company": "Adroit Industries (India) Limited",
+      "ticker": "ADROITIND",
+      "sector": "Automobile and Auto Components"
+    },
     {
       "company": "Advait Energy Transitions Limited",
       "ticker": "ADVAIT",
@@ -239,6 +214,11 @@
       "sector": "Services"
     },
     {
+      "company": "ESDS Software Solution Limited",
+      "ticker": "ESDS",
+      "sector": "Information Technology"
+    },
+    {
       "company": "Faze Three Limited",
       "ticker": "FAZE3Q",
       "sector": "Textiles"
@@ -304,8 +284,18 @@
       "sector": "Capital Goods"
     },
     {
+      "company": "Jubilant Agri and Consumer Products Limited",
+      "ticker": "JUBLCPL",
+      "sector": ""
+    },
+    {
       "company": "Jyoti CNC Automation Limited",
       "ticker": "JYOTICNC",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "Kanohar Electricals Limited",
+      "ticker": "KANOHAR",
       "sector": "Capital Goods"
     },
     {
@@ -332,6 +322,11 @@
       "company": "LG Electronics India Limited",
       "ticker": "LGEINDIA",
       "sector": "Consumer Durables"
+    },
+    {
+      "company": "Lumino Industries Limited",
+      "ticker": "LUMINO",
+      "sector": "Capital Goods"
     },
     {
       "company": "MAS Financial Services Limited",
@@ -397,6 +392,11 @@
       "company": "PVR INOX Limited",
       "ticker": "PVRINOX",
       "sector": "Media Entertainment & Publication"
+    },
+    {
+      "company": "Qualiance International Limited",
+      "ticker": "QUALIANCE",
+      "sector": ""
     },
     {
       "company": "RPSG VENTURES LIMITED",
@@ -477,6 +477,11 @@
       "company": "Sonata Software Limited",
       "ticker": "SONATSOFTW",
       "sector": "Information Technology"
+    },
+    {
+      "company": "SpectraA Technology Solutions Limited",
+      "ticker": "SPECTRAA",
+      "sector": "Capital Goods"
     },
     {
       "company": "Spunweb Nonwoven Limited",

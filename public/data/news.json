@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-05T09:43:11.867Z",
+  "generated_at": "2026-10-05T21:49:31.897Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 140,
-    "watchlist": 756,
-    "universe": 46,
-    "total": 802
+    "watchlist": 759,
+    "universe": 45,
+    "total": 804
   },
   "items": [
     {
@@ -25,7 +25,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Aurionpro wins ₹150 crore data centre order from a global hyperscaler client.",
-      "sources_count": 4,
+      "sources_count": 5,
       "enriched": true
     },
     {
@@ -45,7 +45,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Aurobindo Pharma receives final USFDA approval for Perampanel tablets.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -395,7 +395,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Avantel merging subsidiary and entering Space and AI sectors.",
-      "sources_count": 3,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -532,7 +532,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Anupam Rasayan completes acquisition of 48.2% stake in Bliss GVS Pharma.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -553,6 +553,25 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Epigral plans capacity expansion to reach Rs 50 billion revenue by FY31.",
+      "enriched": true
+    },
+    {
+      "id": "n44b7f5bb44b9",
+      "ticker": "KANOHAR",
+      "company": "Kanohar Electricals Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Kanohar Electricals Gets Large 400kV Transformer Order",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZm0tTms2eTE1TzBUMXUzaHk3SksxVmtRc0wzYW1hTlpGdm1ZT0VVSFROSHlUZHdtX18wb0YyUXh3U3o4Z1Q0cC1DWTlXMEJNOXZBeUNhdVgtYWxLcFFCeHRyZi1WUWlyMkxZWmY5dlZZNWpvNkVyRUtiR2E4T204dHJhUlJVT3pMd3ZJ?oc=5",
+      "source": "HDFC Sky",
+      "date": "2026-09-30T09:22:46.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Kanohar Electricals secured a large order for 400kV transformers.",
       "enriched": true
     },
     {
@@ -3922,26 +3941,6 @@
       "enriched": true
     },
     {
-      "id": "n753f098601da",
-      "ticker": "THEME",
-      "company": "Pharma Approvals",
-      "sector": "Healthcare",
-      "scope": [
-        "universe"
-      ],
-      "title": "Aurobindo Pharma receives USFDA approval for Beclomethasone Dipropionate HFA Inhalation Aerosol",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOSjI4Qmh0a1Z3RXd1Y1lCSzVCRWtmQy1DUjlXTkFjRTBfN3FYbUQ3d1FrdDdJMTFleTNvS0VCX2djX216RlNYSldjRDFONzRSRHliNklFMERxbTVFeDVONzRqeUdCd3BoRzJ0aVQ1R00xZ1otRU5BdDduZDMycUpGMkt2bk9BQnZuTGZsUmViRGFNN25rTDNxajBObHIyM0E4MDRFTGdlbkNHUHlvaGZDQm1yV1dkam14ZWs1R2pYRVJqczQxZ3RIUnpLYlMwaWs3NWxvOENkV000UmhiUUcyTlE2TVNEcUNKd3VXNHFHeTl1NDlEb0kxc1FTUUVHMS1ILWZGdXFwUULSAY4CQVVfeXFMTTF6V3d0WVhmSG1mOHkxcFlQU0N5OE9YLXJ5SWxnUUJMZnFVRWlmMGQ1SUFJcEgxZWtQTlhWY2RMSlJzendwYmhBTXFpZFY2aF8xLWpCUUJKQmFZZFVxODVScEJQSmxSSmFiQXlHakFqanhEYUtfWnhpRlNJUWpVVWplYmh1LTFjZ05ZQW56blJyd1Y3Tm43Z2NTX25MaEJfOTJIYWlvd3J2akk1TXFQUlhlVEpwZE52dTlqZWQwdXVJaGRlOWFJM3BTWENPUzNfWVpIZ09vRU5aMzBVUUJ5QS1WSHkxV2ljUE1hZ3BJUTRSYW9RWE9scFEwdmlQZjMxZk8wSXE5SENzNUo4WHBR?oc=5",
-      "source": "Business Standard",
-      "date": "2026-09-15T09:46:01.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Aurobindo Pharma gets US FDA approval for Beclomethasone inhalation aerosol.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "ndc0f6cae68ad",
       "ticker": "SCODATUBES",
       "company": "Scoda Tubes Limited",
@@ -7238,7 +7237,7 @@
       "mood": "positive",
       "takeaway": "Rajesh Power Services wins Rs 653 crore underground power distribution order in Gujarat.",
       "enriched": true,
-      "sources_count": 2
+      "sources_count": 3
     },
     {
       "id": "n17cc3ebb93f8",
@@ -10659,25 +10658,6 @@
       "enriched": true
     },
     {
-      "id": "n52a9d0f366fc",
-      "ticker": "RUBICON",
-      "company": "Rubicon Research Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Rubicon Research Limited Completes 85% Stake Acquisition in Arinna Lifesciences Limited",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOXprelFqakljb2gwaFFPWkd3YWlaYkJod2FucHBPdjQtTkNhNWNsa0lxREdTa3dUMDBsZEEtQnlDZmZ0WEVOQVp0WHlfcElNSWlUUGNrbUxkMHE5RXM4d0tuV0ozY1JhMXZoVWU4NDVueGNBNi1HYVhNYmtyTXJwNzhoYjZhcUR3YWhERFJsQnNkSXRIdnl4UHZPalVBekpSbDFNam03SzEtNk9JY29hckNuNkp3Nmk5dVIwbzJvUlRsQ3lKVEhxSVJCaFlnY0VfQWZ4bk5aUXNYa0U?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-08-30T07:13:08.000Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Rubicon Research acquires 85% stake in Arinna Lifesciences.",
-      "enriched": true
-    },
-    {
       "id": "ncd0c7db42c42",
       "ticker": "ONESOURCE",
       "company": "Onesource Specialty Pharma Limited",
@@ -12680,6 +12660,25 @@
       "enriched": true
     },
     {
+      "id": "n610dc021a26b",
+      "ticker": "VBL",
+      "company": "Varun Beverages Limited",
+      "sector": "Fast Moving Consumer Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Varun Beverages (VBL) Earnings: 2Q Net Income Surpasses Estimates with a 15% Increase",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNV190RFJUUUJlTUp1QVE2d0tXckVsWXEyM1hiQjZGeHY3bTFBV0h2Q0xXM09sTnRLTXRLdkxnSGtDY0Nwd3Y2Y3JSWFlNMGprODc1N3dsMGptZkR2OFBkMGhNb1dvUi1YMldUOWJibmlwaTJ1WF95Ti1SVHlISnlhVzRGNHhrVlQ4S0RIWVpGd1hETlM5bGh5aEJhZjdUdTJxb01ybnBGS1hHRGZpbWV0Yy1nNlZBeUNlOVFYbEdacjlUOGtQWVlCeUVyNVMzYXhlNTAwM3Rn?oc=5",
+      "source": "Smartkarma",
+      "date": "2026-07-28T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Varun Beverages Q2 net income beat estimates, rising 15%.",
+      "enriched": true
+    },
+    {
       "id": "n5a919f7e38e6",
       "ticker": "SHADOWFAX",
       "company": "Shadowfax Technologies Limited",
@@ -12717,25 +12716,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Poojaa Precision plans capacity expansion using ₹160 crore from its SME IPO opening July 28.",
-      "enriched": true
-    },
-    {
-      "id": "n610dc021a26b",
-      "ticker": "VBL",
-      "company": "Varun Beverages Limited",
-      "sector": "Fast Moving Consumer Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Varun Beverages (VBL) Earnings: 2Q Net Income Surpasses Estimates with a 15% Increase",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNV190RFJUUUJlTUp1QVE2d0tXckVsWXEyM1hiQjZGeHY3bTFBV0h2Q0xXM09sTnRLTXRLdkxnSGtDY0Nwd3Y2Y3JSWFlNMGprODc1N3dsMGptZkR2OFBkMGhNb1dvUi1YMldUOWJibmlwaTJ1WF95Ti1SVHlISnlhVzRGNHhrVlQ4S0RIWVpGd1hETlM5bGh5aEJhZjdUdTJxb01ybnBGS1hHRGZpbWV0Yy1nNlZBeUNlOVFYbEdacjlUOGtQWVlCeUVyNVMzYXhlNTAwM3Rn?oc=5",
-      "source": "Smartkarma",
-      "date": "2026-07-28T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Varun Beverages Q2 net income beat estimates, rising 15%.",
       "enriched": true
     },
     {
@@ -13380,25 +13360,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Shadowfax Technologies turned profitable in March 2026 quarter with revenue growth amid logistics expansion.",
-      "enriched": true
-    },
-    {
-      "id": "n5b07b9f8bf8e",
-      "ticker": "VBL",
-      "company": "Varun Beverages Limited",
-      "sector": "Fast Moving Consumer Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Varun Beverages (VBL.NS) Q1 FY2026 Earnings: Revenue Grows 7.15% YoY, EPS Held at ₹8.98 - Return On Equity",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRndJYnF4NU1SMUxacV9TRHlEQktZT3hmaTQxWGhIa2RVM3A0MFVhY3NKb1I1bG5IZFFvSWhQSnZXNDgxQ05NeE5PVUZ0T0F0cF9ZMHk2X1J6ZlgwU19NVnRZZllNSEdWN1ptYVJDdnF0Q2EtWG1qTG1oemVnSXV1RHg4RXJDMDJGQzRNSjd5MktWUDh1Q0cwQUVvaXFzbmJFQlJUZmQwRUp3V0pRZWhsZldIQ2ZCYzExSmdQaUJn?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-12T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Varun Beverages Q1 FY2026 revenue grows 7.15% year-on-year with stable earnings per share.",
       "enriched": true
     },
     {
@@ -15104,23 +15065,60 @@
       "enriched": true
     },
     {
-      "id": "n9df45b02e377",
-      "ticker": "GOLDIAM",
-      "company": "Goldiam International Limited",
+      "id": "n355887961869",
+      "ticker": "DIXON",
+      "company": "Dixon Technologies (India) Limited",
       "sector": "Consumer Durables",
       "scope": [
         "watchlist"
       ],
-      "title": "Goldiam International AGM: Dividend par lagi mohar, MD Anmol Bhansali ki hui re-appointment! | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/Hinglish/consumer-products/Goldiam-International-Approves-Final-Dividend-and-Reappoints-MD-at-39th-AGM/6abbb5daf2017017ae75ad49",
-      "source": "whalesbook.com",
+      "title": "DEAPL signs intellectual property license agreement with Aviat",
+      "url": "https://evertiq.com/design/2026-10-05-deapl-signs-intellectual-property-license-agreement-with-aviat",
+      "source": "evertiq.com",
+      "date": "",
+      "topic": "Approvals&IP",
+      "keyword": "Joint Venture",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "DEAPL signed intellectual property license agreement with Aviat.",
+      "enriched": true
+    },
+    {
+      "id": "n19aabff7a233",
+      "ticker": "VBL",
+      "company": "Varun Beverages Limited",
+      "sector": "Fast Moving Consumer Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Varun Beverages’ Crickley Dairy Acquisition Moves to Arbitration After Deal Deadline Lapses - AgriMoon",
+      "url": "https://agrimoon.com/varun-beverages-crickley-dairy-acquisition-moves-to-arbitration-after-deal-deadline-lapses/",
+      "source": "agrimoon.com",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "negative",
+      "takeaway": "Varun Beverages' Crickley Dairy acquisition deal missed deadline and is now heading to arbitration.",
+      "enriched": true
+    },
+    {
+      "id": "ncd696b396b1d",
+      "ticker": "QUALIANCE",
+      "company": "Qualiance International Limited",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Qualiance International shares list at 77% premium over IPO price on NSE SME platform - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/qualiance-international-sme-shares-to-list-today-gmp-signals-64-listing-gain/articleshow/134044340.cms",
+      "source": "economictimes.indiatimes.com",
       "date": "",
       "topic": "Money",
-      "keyword": "QIP",
-      "importance": "low",
+      "keyword": "Partnership",
+      "importance": "medium",
       "mood": "positive",
-      "takeaway": "Goldiam International AGM approved dividend and reappointed MD Anmol Bhansali.",
-      "sources_count": 2,
+      "takeaway": "Qualiance International shares debuted 77% above IPO price on NSE SME platform.",
       "enriched": true
     },
     {
@@ -15144,22 +15142,22 @@
       "enriched": true
     },
     {
-      "id": "ndbac1d406588",
+      "id": "n8f03f4fa38ae",
       "ticker": "MSECL",
       "company": "Monarch Surveyors and Engineering Consultants Ltd",
       "sector": "Services",
       "scope": [
         "watchlist"
       ],
-      "title": "Monarch Surveyors and Engineering Consultants receives Rs 2-cr work order | Capital Market News - Business Standard",
-      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-and-engineering-consultants-receives-rs-2-cr-work-order-126082200734_1.html",
+      "title": "Monarch Surveyors and Engineering gains on bagging Rs 2-cr work order | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/markets/capital-market-news/monarch-surveyors-and-engineering-gains-on-bagging-rs-2-cr-work-order-126082400282_1.html",
       "source": "business-standard.com",
       "date": "",
       "topic": "Orders",
       "keyword": "Order",
       "importance": "low",
       "mood": "positive",
-      "takeaway": "Monarch Surveyors received a Rs 2 crore work order.",
+      "takeaway": "Monarch Surveyors secured a Rs 2 crore work order.",
       "sources_count": 2,
       "enriched": true
     },
@@ -15275,7 +15273,8 @@
       "importance": "low",
       "mood": "positive",
       "takeaway": "Current Infraprojects secured a Rs 44.76 crore solar project order.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n486c7647dbb9",
@@ -15373,6 +15372,26 @@
       "enriched": true
     },
     {
+      "id": "n08c9f0d4cfe3",
+      "ticker": "RUBICON",
+      "company": "Rubicon Research Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Rubicon Research enters high-growth CNS segment with 85% stake acquisition in Arinna Lifesciences",
+      "url": "https://aliceblueonline.com/news/rubicon-research-enters-high-growth-cns-segment-with-85-stake-acquisition-in-arinna-lifesciences",
+      "source": "aliceblueonline.com",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Rubicon Research acquires 85% stake in Arinna Lifesciences to enter high-growth CNS segment.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
       "id": "n2b042f714980",
       "ticker": "STLTECH",
       "company": "Sterlite Technologies Limited",
@@ -15450,6 +15469,26 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Ganesh Benzoplast sells logistics business for Rs 1,154 crore and plans buyback.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "ncf1629504db4",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Goldiam International 39వ AGM: షేర్ హోల్డర్లకు డివిడెండ్, కీలక పదవిలో మళ్ళీ అన్మోల్ బన్సాలీ! | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Telugu/consumer-products/Goldiam-International-Approves-Final-Dividend-and-Reappoints-MD-at-39th-AGM/6abbb5daf2017017ae75ad49",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Other",
+      "keyword": "QIP",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Goldiam International held 39th AGM, approved dividend and reappointed Anmol Bansali to key position.",
       "sources_count": 2,
       "enriched": true
     },
