@@ -1,30 +1,51 @@
 {
-  "generated_at": "2026-10-04T18:26:22.179Z",
+  "generated_at": "2026-10-05T09:43:11.867Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 139,
+    "portfolio": 140,
     "watchlist": 756,
     "universe": 46,
     "total": 802
   },
   "items": [
     {
-      "id": "n9614cc12aad0",
+      "id": "ncfbe863cede6",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Aurionpro Bags ₹150 Crore Data Centre Order From Global Hyperscaler",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM0F0Rkt6MnFsOU5nbWl6SUJNUnEtdGpxZVRLWUh5eEFoUFBJWVFBRmlLR2lyZlBZZGVPV2c0ZHR3c0tfQVN3N0FINzJ5RGNVWi1VdUdlMXJNb2tFWW9lMmxSX0VDSDJScDE5OUtMOGhXNXI1Uk9YOXE1WHBxc0NPQXdsTTJsMHZqNktaUHN2aVlWS1ZRbl9Ed1lQQmpnRDFOcGQycEM4NDVIczjSAbABQVVfeXFMUGNxcnl5Z0RUY0MtdVVZeEtqQTRKb01maktNTzc1SXppN1k4c1BDT0FubHFJLTZWRVc1Q1ZPcHBSc29JM1NhWXJwdHRyZzBXZmdRWkYtS1FzMm0wWlhUd3lFZUlwLUFRdldWY25WN2d5a04ySTVTNUtSVTU3SW1GeXU0Q01oeWZ4ZU5UdFNzR3N4RWl5Z255WldOcmpBcExUc1lrY3JIdWNHVEZvUDZySHA?oc=5",
+      "source": "freepressjournal.in",
+      "date": "2026-10-05T04:35:01.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Aurionpro wins ₹150 crore data centre order from a global hyperscaler client.",
+      "sources_count": 4,
+      "enriched": true
+    },
+    {
+      "id": "n121992f73578",
       "ticker": "THEME",
       "company": "Pharma Approvals",
       "sector": "Healthcare",
       "scope": [
         "universe"
       ],
-      "title": "Aurobindo Pharma secures USFDA final approval for multi-strength Perampanel tablets",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaEZXdllhV1BJNmk0b3dVRzZvWEV4WWNlWGFuZ0hUYm5GeVkyYTIzYXd1akhkejNUTkktMHNBV2dkTU9BY082RDlmMm5SY2o2QThqRzZ4VGhxeG5GUm9YaVNIdmRLcGtDcG9aNFFZOHZwTlZSV0JZQUt4N0tEYnd4ZWNyMXdJWlo4TEx3QnBacXBFck1TV2tLVE9VYTgxeWJKZ1ZDc0owUG9PQXRsWHU5cnhRUlgxVVZEQ01CS1pLdDNwakRCa0ZkY01obWlnd9IB1AFBVV95cUxOSVlGM3RDOVUtMGVmOWtjWTdsc09DZXNtYzlOQ1ZTdjJ3SGs2YVItVjdwLVdNYlBDc0l0ZXR5Vzg1YWl0QTZWcy1DOTZNS3hOV1JnRU5TMXZnN2J2UGVrbGdTVWpYN29ObjBBNkZyOGl1eTBPYi1SYlMzX0xLTElIaHFwc3Y5bTBfeVMzbHpDdFdBVFZULXE1WDM2eThnLTBZOEpWcUM3UnhMNFlDRGpremdZRHN1NmZzTXZlbmpBQUtrUnZ1d1ZpYWowOFRSRk5WdG1yTg?oc=5",
-      "source": "Indian Pharma Post",
-      "date": "2026-10-04T04:14:40.000Z",
+      "title": "Aurobindo Pharma shares in focus on final USFDA approval for Perampanel tablets",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTXpFdTg3c3hDMG9wWUhrVzI1RWJHX3dONS1uQllwQ3huVE1yaE9nMjdVcjludnZmTjNGR2w5UWFpVEl1X1BUWEozVlZENU5sZ0x4LWY3eTBQOFg3RjRzV2F1RF9jVFB3elRReHFqYVpucldhdkFTbXhCdnVoQnZkdk85VVk0ak81MzFsTEVYNDFiU2ZXbUJjOFJEWUhyaTZMcldZX0ZZaDI3THpLdGRPVkZhejhQWU52SzNZdVQ3czV4WFBiaGJwSGdlaERyVmxqWjdHVE1JbkFJN0huR0huT21R0gHiAUFVX3lxTFBNekV1ODdzeEMwb3BZSGtXMjVFYkdfd041LW5CWXBDeG5UTXJoT2cyN1VyOW52dmZOM0ZHbDlRYWlUSXVfUFRYSjNWVkQ1TmxnTHgtZjd5MFA4WDdGNHNXYXVEX2NUUHd6VFF4cWphWm5yV2F2QVNteEJ2dWhCdmR2TzlVWTRqTzUzMWxMRVg0MWJTZldtQmM4UkRZSHJpNkxyV1lfRlloMjdMekt0ZE9WRmF6OFBZTnZLM1l1VDdzNXhYUGJoYnBIZ2VoRHJWbGpaN0dUTUluQUk3SG5HSG5PbVE?oc=5",
+      "source": "Moneycontrol.com",
+      "date": "2026-10-05T01:37:12.000Z",
       "topic": "Approvals&IP",
       "keyword": "Approval",
       "importance": "medium",
       "mood": "positive",
-      "takeaway": "Aurobindo Pharma gets US FDA approval to sell Perampanel tablets in multiple strengths.",
+      "takeaway": "Aurobindo Pharma receives final USFDA approval for Perampanel tablets.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -374,7 +395,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Avantel merging subsidiary and entering Space and AI sectors.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -1604,25 +1625,6 @@
       "enriched": true
     },
     {
-      "id": "n17e9951fbba7",
-      "ticker": "LAPL",
-      "company": "LAPL Automotive Ltd",
-      "sector": "Automobile and Auto Components",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "LAPL Automotive Ltd Q1 Results 2026 - Find LAPL Automotive Ltd Q1 Earnings Result | LAPL Automotive Ltd Q1 results",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY2Z6dS1LVzZWSWw3UXlPMXVidmRvRUJmOEEwbmJMMWtNMU0taFFEZWREdXdEN2Q4WTNFeTZYSHZQUWc5NzJwS3F6UFNJdEluN0prR1ptVjJ4dEc4c19uSHg3clFUWnRxNUNITmZGS1BVOXN2QnBoSTJ3dGtsUHVLV2ZfQUY3NDRRc1V0Vw?oc=5",
-      "source": "Livemint",
-      "date": "2026-09-25T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "LAPL Automotive reported Q1 FY2026 earnings results.",
-      "enriched": true
-    },
-    {
       "id": "n1e68987ca657",
       "ticker": "UNIMECH",
       "company": "Unimech Aerospace and Manufacturing Limited",
@@ -2792,6 +2794,26 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Solar Group acquired Omnia for $1.36 billion, expanding its explosives and defence business globally.",
+      "enriched": true
+    },
+    {
+      "id": "n415272bdd232",
+      "ticker": "CURRENT",
+      "company": "Current Infraprojects Limited",
+      "sector": "Construction",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Current Infraprojects Secures Rs 10.42 Cr Bank Note Press Solar Order",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSXlsb0ZrRUpqUloyUkhjR08zZEtRUXVwbVlTLWxBc2FsZXFnMUVjMjdlQ25fZ1FmdXAyZk5jWjIxNFQtdkV3S1JMcnpSS1ZaUFkwZzVzaWpWcExWZWF3anRlQXBNd0I1LWtsZUIwMFRKY3h4U245WlAzVng5M0w1LTM5enRMN1d3bUtFS2hyLVdLQ25aRUl1WFltZ2hsVHZGTFVVd0NoTld2TWpRanJNRWJIeWNKVGJZaEctOTBB0gHLAUFVX3lxTE1HS0thTV9xMTFJLWtLa3dVM0ZhWWZIMjRoM2wxTXM2MHhEQ2N3MlpGY1dnZXdsOWNUN2NWZ3N0V3lIVm5ZaTc5eWtHcmNXWmlQRHd2Y3VwZE9vMTVNTGhUV19wTkNXeWVGTGVxQ1RtT1owcC1VMjJzSEFOMlJfLWl2SHR0ZTNwZVRyTDdhS3o5eGhqMHlSd1g2RzBvTFNVUFlKa2s2M1A5LVhleGsyVTJuM0NKa3E0dXVILWNYdktVVm5FREN1ZUV1S2Fj?oc=5",
+      "source": "outlookbusiness.com",
+      "date": "2026-09-19T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Current Infraprojects secures ₹10.42 crore solar order from Bank Note Press.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -4818,7 +4840,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Advait Greenergy secured ₹116 crore order from KPI Green Energy for 200 MW solar project in Rajasthan.",
-      "sources_count": 6,
+      "sources_count": 5,
       "enriched": true
     },
     {
@@ -7216,7 +7238,7 @@
       "mood": "positive",
       "takeaway": "Rajesh Power Services wins Rs 653 crore underground power distribution order in Gujarat.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "n17cc3ebb93f8",
@@ -9335,25 +9357,6 @@
       "enriched": true
     },
     {
-      "id": "n71e888649cae",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Aurionpro Solutions releases unaudited financial results for quarter ended June 30, 2026",
-      "url": "https://tele.net.in/press-release/aurionpro-solutions-releases-unaudited-financial-results-for-quarter-ended-june-30-2026-12214367",
-      "source": "tele.net.in",
-      "date": "2026-09-03T20:34:02.502Z",
-      "topic": "Money",
-      "keyword": "Partnership",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Aurionpro Solutions released unaudited financial results for quarter ended June 30, 2026.",
-      "enriched": true
-    },
-    {
       "id": "n558d19bfaaab",
       "ticker": "AURIONPRO",
       "company": "Aurionpro Solutions Limited",
@@ -9391,6 +9394,25 @@
       "mood": "positive",
       "takeaway": "Aurionpro won ₹100 crore order to build AI data centre infrastructure.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n71e888649cae",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Aurionpro Solutions releases unaudited financial results for quarter ended June 30, 2026",
+      "url": "https://tele.net.in/press-release/aurionpro-solutions-releases-unaudited-financial-results-for-quarter-ended-june-30-2026-12214367",
+      "source": "tele.net.in",
+      "date": "2026-09-03T20:34:02.502Z",
+      "topic": "Money",
+      "keyword": "Partnership",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Aurionpro Solutions released unaudited financial results for quarter ended June 30, 2026.",
       "enriched": true
     },
     {
@@ -12291,26 +12313,6 @@
       "enriched": true
     },
     {
-      "id": "na2295d35fee7",
-      "ticker": "THEME",
-      "company": "Pharma Approvals",
-      "sector": "Healthcare",
-      "scope": [
-        "universe"
-      ],
-      "title": "Lupin Announces U.S. FDA Approval and Launch of Sugammadex Injection - Lupin | Press Release",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSFBhNjE2Mk5ITE5VV3V6cngzNi1pdENoeFlGRGtjcUNsbE1HY1RHLXQyZy16YXlVM3RRWkdLdkdPa05aeFVFaDBvWWNieWVWVzBydXVjQVVZeE9ONmxHeXhyLWR1Q2o3RkZzNU5ON0R2QWtXV0NjM1UySXF2bkxNWW1DUmpaUmJVYVRvYWRDOV9yWFZYb2NrWHJuRmdOR2d2ODVfbDllSllNZ2lhakEw?oc=5",
-      "source": "lupin.com",
-      "date": "2026-07-31T07:00:00.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Lupin receives U.S. FDA approval and launches Sugammadex Injection.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "n49550dc0dfe3",
       "ticker": "AURIONPRO",
       "company": "Aurionpro Solutions Limited",
@@ -12327,6 +12329,26 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Aurionpro wins ₹50 crore order from MMRDA for Mumbai Metro project.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "na2295d35fee7",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
+      "scope": [
+        "universe"
+      ],
+      "title": "Lupin Announces U.S. FDA Approval and Launch of Sugammadex Injection - Lupin | Press Release",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSFBhNjE2Mk5ITE5VV3V6cngzNi1pdENoeFlGRGtjcUNsbE1HY1RHLXQyZy16YXlVM3RRWkdLdkdPa05aeFVFaDBvWWNieWVWVzBydXVjQVVZeE9ONmxHeXhyLWR1Q2o3RkZzNU5ON0R2QWtXV0NjM1UySXF2bkxNWW1DUmpaUmJVYVRvYWRDOV9yWFZYb2NrWHJuRmdOR2d2ODVfbDllSllNZ2lhakEw?oc=5",
+      "source": "lupin.com",
+      "date": "2026-07-31T07:00:00.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Lupin receives U.S. FDA approval and launches Sugammadex Injection.",
       "sources_count": 2,
       "enriched": true
     },
@@ -15022,63 +15044,6 @@
       "enriched": true
     },
     {
-      "id": "n62b5b786e12f",
-      "ticker": "JYOTICNC",
-      "company": "Jyoti CNC Automation Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "JYOTICNC Q2 2026 Earnings: Double-Digit Revenue Growth Supported by Strong Profitability - EPS Estimate Trend",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR3YzcW4tZW1qeGl1UHhIUFJiVnhETldqUmpYWDBKR2NZTFo2clNUdEVNTm5YbzFOSk95cGhrdGhjUjVuVVNBVzlYa1V6RXdZMGNGZjAyYjlMcjc0emhXb2ZzcGVtVEpwSXY3eVlhNXlCSUhNS05TLUY0cHVkUkRjdXl1Mno1akhuUkFWaU8wRFRfMFhPOExDYVRkT2p0aHpHc2NUUURwZ2RUcmZmS3FsMzktMXRYdHBxR2loUl80Q2pfTDZFMGlz?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-27T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Jyoti CNC posted double-digit revenue growth in Q2 2026 with strong profitability.",
-      "enriched": true
-    },
-    {
-      "id": "nd85953783762",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Sapphire Foods India Q2 2026 Earnings: Revenue Growth Amidst Bottom-Line Pressure - Revenue Growth Report",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd0s3QV9sYW4xWlhCbW0wNGdIaC1FR29pd1FlWU9GVmNpMFJpRGNsTWJIV3VDc2swRjNkOXlJTGdwQ2ktWFZfWXJfQUlWTlpWOHlaMlBQNTZkcFJSWkV4YUh3eVZpVWxXSFotQ3NrZk1kNWNRLXZzN292SnBidjVpZGlVUVZ0RUdhMy1fRkxWRkNTRk4tdkh5MWhLQnhUY3JjdDZNNncwLTQxWlRfZDdYcDV5TExiRHo4Q0lkQQ?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-27T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Sapphire Foods Q2 2026 showed revenue growth but faced bottom-line pressure.",
-      "enriched": true
-    },
-    {
-      "id": "nd7d7d908135c",
-      "ticker": "MASFIN",
-      "company": "MAS Financial Services Limited",
-      "sector": "Financial Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "MASFIN Q2 2026 Earnings: Steady Double-Digit Revenue Growth Amidst Market Caution - Guidance Update",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMk4ySmI2Z3hmY2kwblkybDBLMjRwbmo1TDhVREVLWi00Z0hZNnVacU8xeHh6ZkpfYldHVGljUWhjbmhnRnRZdzJELTRFbWE5ZVZzZnRUeDBMZXhxQmxtZDUwaTlvdUQ1c0VDZGtURzgyY21HbVNaaGRSenUzb09DZVZLS1hWbjFSc1ZnZWFSeWEybnBiNzZiTU9yUE52akNna2hhMV9JVmJ4aXBKTXkxTktrSm85V01UV1Vmdg?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-27T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "MAS Financial Q2 2026 posted steady double-digit revenue growth.",
-      "enriched": true
-    },
-    {
       "id": "n1b5652361efc",
       "ticker": "SETL",
       "company": "Standard Engineering Technology Limited",
@@ -15136,6 +15101,26 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Supreme Court dismisses Ilaiyaraaja's plea in copyright dispute with Saregama.",
+      "enriched": true
+    },
+    {
+      "id": "n9df45b02e377",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Goldiam International AGM: Dividend par lagi mohar, MD Anmol Bhansali ki hui re-appointment! | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/consumer-products/Goldiam-International-Approves-Final-Dividend-and-Reappoints-MD-at-39th-AGM/6abbb5daf2017017ae75ad49",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "QIP",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Goldiam International AGM approved dividend and reappointed MD Anmol Bhansali.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -15274,6 +15259,25 @@
       "enriched": true
     },
     {
+      "id": "nfdc08b26bb2f",
+      "ticker": "CURRENT",
+      "company": "Current Infraprojects Limited",
+      "sector": "Construction",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Current Infraprojects wins Rs 44.76 crore solar order | Stocks Sena",
+      "url": "https://www.stockssena.com/research/current-infraprojects-wins-rs-44-76-crore-solar-order-win-fy27-031026",
+      "source": "stockssena.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Current Infraprojects secured a Rs 44.76 crore solar project order.",
+      "enriched": true
+    },
+    {
       "id": "n486c7647dbb9",
       "ticker": "HILINFRA",
       "company": "Highway Infrastructure Limited",
@@ -15390,6 +15394,26 @@
       "enriched": true
     },
     {
+      "id": "na97546bc0b37",
+      "ticker": "MONOLITH",
+      "company": "Monolithisch India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "ICU #52 - Important SME Corporate Updates - by Shubham",
+      "url": "https://lawofinvesting.substack.com/p/icu-52-important-sme-corporate-updates",
+      "source": "lawofinvesting.substack.com",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Commissioning",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Monolithisch India completed commissioning of new facilities.",
+      "enriched": true
+    },
+    {
       "id": "ne4cdcd3670b8",
       "ticker": "EPIGRAL",
       "company": "Epigral Limited",
@@ -15427,26 +15451,6 @@
       "mood": "positive",
       "takeaway": "Ganesh Benzoplast sells logistics business for Rs 1,154 crore and plans buyback.",
       "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "nbe6f14a3faf6",
-      "ticker": "CURRENT",
-      "company": "Current Infraprojects Limited",
-      "sector": "Construction",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Current Infraprojects Secures Rs 10.42 Cr Bank Note Press Solar Order – Outlook Business",
-      "url": "https://www.outlookbusiness.com/spotlight/news-wire/current-infraprojects-secures-rs-10-42-cr-bank-note-press-solar-order",
-      "source": "outlookbusiness.com",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Current Infraprojects won Rs 10.42 crore solar order from Bank Note Press.",
-      "sources_count": 3,
       "enriched": true
     },
     {
