@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T09:43:11.329Z",
+  "generated_at": "2026-10-05T21:44:59.103Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,96 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "ff563bff40058",
+      "ticker": "PVRINOX",
+      "company": "PVR INOX Limited",
+      "exchange": "NSE",
+      "date": "2026-10-05T19:10:41.000Z",
+      "category": "Closure of Buy Back",
+      "title": "PVR INOX Limited has informed the Exchange about Completion of extinguishment of 20,68,965 Equity Shares of the Company pursuant to Buyback.",
+      "url": "https://nsearchives.nseindia.com/corporate/PVRINOXLTD_05102026191017_PVRINOXExtinguishmentCertificate05102026.pdf"
+    },
+    {
+      "id": "f01b265dbe84d",
+      "ticker": "HARIOMPIPE",
+      "company": "Hariom Pipe Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-10-05T18:07:11.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Hariom Pipe Industries Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/hariompipes_05102026180700_Regulation_74_5_30092026.pdf"
+    },
+    {
+      "id": "f1d3512e072e0",
+      "ticker": "HTEL",
+      "company": "Hy-Tech Engineers Limited",
+      "exchange": "NSE",
+      "date": "2026-10-05T18:00:54.000Z",
+      "category": "Disclosure",
+      "title": "Hy-Tech Engineers Limited has informed the Exchange regarding 'Disclosure under SEBI (Prohibition of Insider Trading) Regulations, 2015'.",
+      "url": "https://nsearchives.nseindia.com/corporate/HYTECH_05102026175931_HTEL_declaration.pdf"
+    },
+    {
+      "id": "fc3b36e46bd16",
+      "ticker": "SGMART",
+      "company": "SG Mart Limited",
+      "exchange": "NSE",
+      "date": "2026-10-05T17:52:48.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "SG Mart Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/SGMART_05102026175226_RTAComplianceCertificate30092026.pdf"
+    },
+    {
+      "id": "fbecf32db503b",
+      "ticker": "SUDEEPPHRM",
+      "company": "Sudeep Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-10-05T17:02:37.000Z",
+      "category": "Change in Directors",
+      "title": "Sudeep Pharma Limited has informed the Exchange about change in Management",
+      "url": "https://nsearchives.nseindia.com/corporate/SUDEEPPHARMALIMITED_05102026170200_Intimation_for_Change_in_SMP.pdf"
+    },
+    {
+      "id": "fd8ae33a99746",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "exchange": "NSE",
+      "date": "2026-10-05T16:58:52.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Goldiam International Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/GOLDIAM_05102026165833_Regulation-74-.pdf"
+    },
+    {
+      "id": "fa2571b02c459",
+      "ticker": "CANFINHOME",
+      "company": "Can Fin Homes Limited",
+      "exchange": "NSE",
+      "date": "2026-10-05T16:28:24.000Z",
+      "category": "Newspaper Publication",
+      "title": "Can Fin Homes Limited has informed the Exchange about Copy of Newspaper Publication dated 05/10/2026 regarding Special Window for re-lodgment of transfer requests of physical shares.",
+      "url": "https://nsearchives.nseindia.com/corporate/CANFINHOME_05102026162810_NEWSPAPER_publication_05_10_2026.pdf"
+    },
+    {
+      "id": "fdd4d54e11541",
+      "ticker": "VIVIDEL",
+      "company": "Vivid Electromech Limited",
+      "exchange": "NSE",
+      "date": "2026-10-05T15:59:26.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Vivid Electromech Limited has informed the Exchange about Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/VIVID_05102026155906_Intimation_Reg_74_5_.pdf"
+    },
+    {
+      "id": "ff5c9f1e63946",
+      "ticker": "APTUS",
+      "company": "Aptus Value Housing Finance India Limited",
+      "exchange": "NSE",
+      "date": "2026-10-05T15:46:59.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Aptus Value Housing Finance India Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/APTUS_05102026154623_Aptus_Value_Covering_Letter_74_5__DP_Reg_September__30_2026_sd_Final.pdf"
+    },
     {
       "id": "f737d24f72443",
       "ticker": "GULFOILLUB",
@@ -19916,96 +20006,6 @@
       "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
       "title": "Lenskart Solutions Limited has informed the Exchange about Certificate under Regulation 76 of SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended June 30, 2026",
       "url": "https://nsearchives.nseindia.com/corporate/LENSKART_15072026153131_Reg_76.pdf"
-    },
-    {
-      "id": "f51cb92da2099",
-      "ticker": "LENSKART",
-      "company": "Lenskart Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-07-15T14:43:29.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Lenskart Solutions Limited has informed the Exchange about Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended June 30, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/LENSKART_15072026144258_Reg_74_5_.pdf"
-    },
-    {
-      "id": "f5bd120a986ca",
-      "ticker": "LENSKART",
-      "company": "Lenskart Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-07-15T14:33:04.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Lenskart Solutions Limited has informed the Exchange about Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended March 31, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/LENSKART_15072026143246_Reg_74_5_.pdf"
-    },
-    {
-      "id": "f9151887f9015",
-      "ticker": "HILINFRA",
-      "company": "Highway Infrastructure Limited",
-      "exchange": "NSE",
-      "date": "2026-07-15T12:35:28.000Z",
-      "category": "Shareholders meeting",
-      "title": "Highway Infrastructure Limited has informed the Exchange about Shareholders meeting",
-      "url": "https://nsearchives.nseindia.com/corporate/HIGHWAY123_15072026123453_HIL_PB_Outcome_15072026.pdf"
-    },
-    {
-      "id": "f0d6a784e121c",
-      "ticker": "DIXON",
-      "company": "Dixon Technologies (India) Limited",
-      "exchange": "NSE",
-      "date": "2026-07-15T12:17:00.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Dixon Technologies (India) Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/DIXON_15072026121646_Reg74_5_Disclosure150726.pdf"
-    },
-    {
-      "id": "fcaa7908a477f",
-      "ticker": "SOLARINDS",
-      "company": "Solar Industries India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-15T11:59:25.000Z",
-      "category": "Newspaper Publication",
-      "title": "Solar Industries India Limited has informed the Exchange about Newspaper clippings of 31st Annual General Meeting, Information on E-voting and Record date.",
-      "url": "https://nsearchives.nseindia.com/corporate/SOLARINDS_15072026115854_Intimation_AGM_Info_sd.pdf"
-    },
-    {
-      "id": "f97d26a391c50",
-      "ticker": "HILINFRA",
-      "company": "Highway Infrastructure Limited",
-      "exchange": "NSE",
-      "date": "2026-07-15T11:58:46.000Z",
-      "category": "Change in Directors",
-      "title": "Highway Infrastructure Limited has informed the Exchange about change in Management",
-      "url": "https://nsearchives.nseindia.com/corporate/HIGHWAY123_15072026115832_HIL_PB_Outcome_15072026.pdf"
-    },
-    {
-      "id": "f55c1d219d503",
-      "ticker": "GROWW",
-      "company": "Billionbrains Garage Ventures Limited",
-      "exchange": "NSE",
-      "date": "2026-07-15T11:53:56.000Z",
-      "category": "Disclosure",
-      "title": "Billionbrains Garage Ventures Limited has informed the Exchange about Key Performance Indicators.",
-      "url": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_15072026115341_IntimationKPIsigned.pdf"
-    },
-    {
-      "id": "f55b79ba5afb9",
-      "ticker": "GROWW",
-      "company": "Billionbrains Garage Ventures Limited",
-      "exchange": "NSE",
-      "date": "2026-07-15T11:45:14.000Z",
-      "category": "Investor Presentation",
-      "title": "Billionbrains Garage Ventures Limited has informed the Exchange about Shareholder's letter for the Quarter ended June 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_15072026114459_ShareholderLettersigned.pdf"
-    },
-    {
-      "id": "fa4fbb135e1f4",
-      "ticker": "HILINFRA",
-      "company": "Highway Infrastructure Limited",
-      "exchange": "NSE",
-      "date": "2026-07-15T11:37:26.000Z",
-      "category": "Amendment to AOA/MOA",
-      "title": "Highway Infrastructure Limited has informed the Exchange regarding the Amendment to AOA/MOA of the company.",
-      "url": "https://nsearchives.nseindia.com/corporate/HIGHWAY123_15072026113659_HIL_Reg30_AOA_15072026.pdf"
     }
   ]
 }
