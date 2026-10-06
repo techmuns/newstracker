@@ -1,13 +1,51 @@
 {
-  "generated_at": "2026-10-06T09:33:31.574Z",
+  "generated_at": "2026-10-06T20:00:35.662Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 139,
-    "watchlist": 757,
+    "portfolio": 140,
+    "watchlist": 767,
     "universe": 45,
-    "total": 802
+    "total": 812
   },
   "items": [
+    {
+      "id": "n716ceef960de",
+      "ticker": "TECHNOCRAT",
+      "company": "Technocrats Plasma Systems Ltd",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Technocrats Plasma board to meet Oct 13 for CS resignation and new appointment",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRW5JeWFxaVZldHpkTUZEeVlhZTJ3Y0E4cVRrS0VfT19VN3gzZ0loMkpDcERsMTRCU1NGX05xRFd5aTB2cW9ta0NQbWdCNktGMlo2THhXQ3h0S0tpNEhVeEphdUw1cU1ZNUphTGxXeGh1NzRtb2FJdEpjbkpPMnMwMUhPZ3FDNGUyZVZzTHZjUXVyeVRidFVWVHplOGxOTnBoUlc4RmR1VTAtZy15X1h3VmdYZmZvSVNObFRZV3F5S3hxUQ?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-10-06T18:05:00.000Z",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Board meeting scheduled to discuss company secretary resignation and new appointment.",
+      "enriched": true
+    },
+    {
+      "id": "n1bf2d20c2a31",
+      "ticker": "KKJEWELS",
+      "company": "Kabra Jewels Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Kabra Jewels (NSE: KKJEWELS) FY26 Earnings: Profit More Than Doubles at the KK Jewels Retailer",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORXROWmdhc25XdnVpWDVZU3YybmxxaXByMU1vVjhjU3l1VU4yb24yWF9OMTlHbTJJX0hjdGlxWEs0VWRlUXFnU1RBNDJjNGZBbU5aWV9TaVhQM3dyUTdqeW9YTzM2dW05YW0tQzMwWkp1UXM2SXhXVnNnNTZjOElkbS1vQVI3M0dLd3NndG8ySGdZM0VZdmpBMTluMmhiT20zWkZzQ05zRTA1MGcta2VFN1I0dlpmUDFhcXp6cXNmaThqNlF2N3JXdjJJSnlHUQ?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-10-06T13:28:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Kabra Jewels profit more than doubled in FY26 results.",
+      "enriched": true
+    },
     {
       "id": "ncfbe863cede6",
       "ticker": "AURIONPRO",
@@ -25,7 +63,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Aurionpro wins ₹150 crore data centre order from a global hyperscaler client.",
-      "sources_count": 5,
+      "sources_count": 6,
       "enriched": true
     },
     {
@@ -259,7 +297,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Laxmi Dental released its Q1 2027 earnings call transcript.",
-      "sources_count": 3,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -416,6 +454,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Inox Green Energy raises Rs 300 crore through equity share issue.",
+      "enriched": true
+    },
+    {
+      "id": "nb8e23fb1d40c",
+      "ticker": "LAPL",
+      "company": "LAPL Automotive Ltd",
+      "sector": "Automobile and Auto Components",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "LAPL Automotive Ltd Q2 Results 2026 - Find LAPL Automotive Ltd Q2 Earnings Result | LAPL Automotive Ltd Q2 results",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObXVtOUZsdGFSWklGNVppSi14NFVITU5IcXRKRkJoZVZwdkZuV0tkeHFPTC1WV0pjVjlOUmF5NkN5TGdTeGRBTDdGdklCb00taDFndkI3SXZfd2FJd2ExMmduSGRMdEV6UTRHSjBiTGlpOHRCT2d5VS1NN1R0bEJ0cGIxazJCZXpTMzVvZQ?oc=5",
+      "source": "Livemint",
+      "date": "2026-10-01T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "LAPL Automotive Q2 results announced.",
       "enriched": true
     },
     {
@@ -2210,6 +2267,25 @@
       "enriched": true
     },
     {
+      "id": "ne37a97023bb9",
+      "ticker": "LUMINO",
+      "company": "Lumino Industries Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Lumino Industries (NSE: LUMINO) Growth Strategy, EPC Expansion and Order Book Update",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOGliVV9ZeXNuWjdSVHRVdlhDWnA4d2d0Sl94ZmpDd3NvVWxrUHdBeHdGWVJrMUp6dklfZFEwRURRZklLOS1zamdJQXNZTjRpcVAzR2xUanN3VmZyb3B6dk9IVDY4NkNtUzE4U29iRVdsM0NNOUNIblVsSmM0QzQzNGlQWkxpMzRvVFBtcTFwSllrb2VnTHlIZ3Q0NXA4ME1wUzZsRFBRWmNJT0dOMXFMU0JkMlNXMWF3OFZRM3ZqeHZ1a2ZyVEV2Rjd1VUU4SG8?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-09-23T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Lumino Industries provides update on growth strategy, EPC expansion and order book.",
+      "enriched": true
+    },
+    {
       "id": "na8e9a9b95555",
       "ticker": "STYLAMIND",
       "company": "Stylam Industries Limited",
@@ -3201,7 +3277,8 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Solar Industries acquires Omnia Holdings, expanding its business footprint.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 3
     },
     {
       "id": "nd0ea6e9e5e5f",
@@ -4114,25 +4191,6 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Zimbabwe authorities are reviewing Varun Beverages' plan to buy stake in Dairibord.",
-      "enriched": true
-    },
-    {
-      "id": "n32babef47024",
-      "ticker": "SOLARINDS",
-      "company": "Solar Industries India Limited",
-      "sector": "Chemicals",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Solar Industries hosts investor call on Omnia Holdings acquisition",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNblRTTFFQbVY3eGRsS3FhRXFWcU1LVmJrZkx5R21rczNnOXh6a0YyQkpaejQxLVdZZHlKdmFMdy1oNm9KMXhmZGoyWjVibUpuZHF2OHNhRkFKRkxsZmR5eTViY2ZmWjVmVGw3MjNOMWFDcVpwYl9NOEc1Skx2VnFvRzNhQWN0UFBnWVlQanNlSFZObVNNdFNuaTBvblBGTmNSTkZKb3FuYXJseVcyWWhnVGt4QWhGT05LSVFGYw?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-09-14T11:46:21.000Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Solar Industries holds investor call to discuss its acquisition of Omnia Holdings.",
       "enriched": true
     },
     {
@@ -6464,7 +6522,7 @@
       "mood": "neutral",
       "takeaway": "Q1 FY27 earnings call held.",
       "enriched": true,
-      "sources_count": 2
+      "sources_count": 3
     },
     {
       "id": "nd9852062ad1b",
@@ -7237,7 +7295,7 @@
       "mood": "positive",
       "takeaway": "Rajesh Power Services wins Rs 653 crore underground power distribution order in Gujarat.",
       "enriched": true,
-      "sources_count": 2
+      "sources_count": 3
     },
     {
       "id": "n17cc3ebb93f8",
@@ -10253,6 +10311,25 @@
       "enriched": true
     },
     {
+      "id": "n06e28b0c58b6",
+      "ticker": "VOEPL",
+      "company": "Virtuoso Optoelectronics Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Virtuoso Optoelectronics schedules Sept 24 EGM for ₹85 crore preferential issue",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdm1iUGRIMVBtdk1QeS1CNTBrWmdLb1duazVPRjhJTWRKM3llbjhCbGVkV2xMV1V0MmNpZVFScmhudWtvcVJZaGp4Z3lFa01NNHdjZlBtdlV1SW9odFdKWWN3TXloTkRtbHBsRm0zRklEUkhkcUFQRzBEYk9tT3kwWlg3bms1aDN4blJaN3loc0hySl9BUVFaamItVTE3b0ZNT1d4VmVwQ0dDMnBBYTFQWVZSOTlQVDdlQktXbUxXeWsxNGs?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-09-02T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Preferential Issue",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Virtuoso Optoelectronics to raise ₹85 crore via preferential issue, EGM scheduled for Sept 24.",
+      "enriched": true
+    },
+    {
       "id": "nc9306ad7a742",
       "ticker": "EPIGRAL",
       "company": "Epigral Limited",
@@ -10445,7 +10522,8 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "TANFAC Industries received BSE approval to issue 4.24 lakh shares through preferential allotment.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "nf797017346d7",
@@ -11580,6 +11658,25 @@
       "enriched": true
     },
     {
+      "id": "n05b8625fc79b",
+      "ticker": "SBCL",
+      "company": "Shivalik Bimetal Controls Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Shivalik Bimetal Controls SBCL Q1FY27 Earnings Call Key Highlights",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRm5pTFNaWnQtRnFvbUo0bEJYam5zQXhWTEUtWXRzeEtzeVNJQjhPaDZ4bndrNVFBUllic2U3LWpvY0l0d0hscGotT0dwZzVUUkVBODMtSHNuYmxxZE9NZ2dBOVpkbEg1UmJ4c3lvRnU5SndoQi1aeWRaTmh3T1ZRN2JUVTNKbC1aQ0JRMS12WUxrUkZmWWMyZWhGaXhuNE4yUUNwZWE5b0NZaXQ2Vy1mZkdJd0szbGNHbzVEYkhPMGhJTlZiamg2em95Zl8?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-08-13T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Shivalik Bimetal Controls held Q1FY27 earnings call discussing quarterly results.",
+      "enriched": true
+    },
+    {
       "id": "nda59b11a43cf",
       "ticker": "AURIONPRO",
       "company": "Aurionpro Solutions",
@@ -12291,6 +12388,27 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Varun Beverages completes $32 million acquisition in Kenya, expanding its geographic footprint.",
+      "enriched": true
+    },
+    {
+      "id": "n39d22c238d28",
+      "ticker": "STLTECH",
+      "company": "Sterlite Technologies Limited",
+      "sector": "Telecommunication",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Sterlite Technologies Wins ₹960 Crore Order",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUXMweWdhQy1ROUVZZzZyM2xCa042SE9tQTNlRjlodlpjWnpVT3I5U3RNSFlaWlQxRng5eUNhY0hVcFMwak5Bd0FDb3hGc0pfMGh4UnBaal80UWJBbHhrOUQzbXhRSlBud2xGeW9XMlBCb25oN2Ixdm5YZ0N6T0JfdnBhNTZXNzljS1pndmlac2dvR0U3Ynp6UEJtcDZUVlVFRW50RWpXZFhBOXFKUUE?oc=5",
+      "source": "InvestyWise",
+      "date": "2026-08-01T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Sterlite Technologies wins ₹960 crore order, boosting orderbook significantly.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -13831,7 +13949,7 @@
       "mood": "positive",
       "takeaway": "Inventurus Knowledge Solutions completed acquisition of TruBridge.",
       "enriched": true,
-      "sources_count": 2
+      "sources_count": 3
     },
     {
       "id": "n779800e7b3be",
@@ -14927,6 +15045,25 @@
       "enriched": true
     },
     {
+      "id": "nb24ec98e92f1",
+      "ticker": "KKJEWELS",
+      "company": "Kabra Jewels Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Kabra Extrusiontechnik: కంపెనీ ఖజానాలోకి భారీ నిధులు.. రూ. 141 కోట్ల Preferential Issue! | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Telugu/industrial-goodsservices/Kabra-Extrusiontechnik-Raises-Rs-141-Crore-Through-Preferential-Allotment-of-Shares/6abf9234af0ff73182756ad9",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Preferential Issue",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Kabra Extrusiontechnik raising Rs 141 crore through preferential issue.",
+      "enriched": true
+    },
+    {
       "id": "n1b5652361efc",
       "ticker": "SETL",
       "company": "Standard Engineering Technology Limited",
@@ -14943,7 +15080,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Standard Engineering gets exchange approval to raise Rs 71 crore through preferential share issue.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -14984,6 +15121,26 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Supreme Court dismisses Ilaiyaraaja's plea in copyright dispute with Saregama.",
+      "enriched": true
+    },
+    {
+      "id": "ncde0e5c3323e",
+      "ticker": "RPSGVENT",
+      "company": "RPSG VENTURES LIMITED",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "RPSG Group weighs 15-20% stake sale in IPL team Lucknow Super Giants | Company Business News",
+      "url": "https://www.livemint.com/companies/rpsg-group-stake-sale-ipl-franchise-lucknow-super-giants-11791265884438.html",
+      "source": "livemint.com",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Stake sale",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "RPSG Group considering selling 15-20% stake in IPL team Lucknow Super Giants.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -15041,6 +15198,25 @@
       "importance": "medium",
       "mood": "negative",
       "takeaway": "Varun Beverages' Crickley Dairy acquisition deal missed deadline and is now heading to arbitration.",
+      "enriched": true
+    },
+    {
+      "id": "n8da0990653e5",
+      "ticker": "KANOHAR",
+      "company": "Kanohar Electricals Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Kanohar Electricals ka dhamaka: Profit mein **140%** ka uchhal, orders ki lagi line! | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/industrial-goodsservices/Kanohar-Electricals-Q1-FY27-PAT-Jumps-140percent-to-Rs-273-Crore/6ac51f4d61666c732ba6011b",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Kanohar Electricals reports 140% profit jump with strong order inflow.",
       "enriched": true
     },
     {
@@ -15102,42 +15278,23 @@
       "enriched": true
     },
     {
-      "id": "n8f03f4fa38ae",
+      "id": "ndbac1d406588",
       "ticker": "MSECL",
       "company": "Monarch Surveyors and Engineering Consultants Ltd",
       "sector": "Services",
       "scope": [
         "watchlist"
       ],
-      "title": "Monarch Surveyors and Engineering gains on bagging Rs 2-cr work order | Capital Market News - Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/monarch-surveyors-and-engineering-gains-on-bagging-rs-2-cr-work-order-126082400282_1.html",
+      "title": "Monarch Surveyors and Engineering Consultants receives Rs 2-cr work order | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-and-engineering-consultants-receives-rs-2-cr-work-order-126082200734_1.html",
       "source": "business-standard.com",
       "date": "",
       "topic": "Orders",
       "keyword": "Order",
       "importance": "low",
       "mood": "positive",
-      "takeaway": "Monarch Surveyors secured a Rs 2 crore work order.",
+      "takeaway": "Monarch Surveyors received a Rs 2 crore work order.",
       "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "nb24ec98e92f1",
-      "ticker": "KKJEWELS",
-      "company": "Kabra Jewels Limited",
-      "sector": "Consumer Durables",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Kabra Extrusiontechnik: కంపెనీ ఖజానాలోకి భారీ నిధులు.. రూ. 141 కోట్ల Preferential Issue! | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/Telugu/industrial-goodsservices/Kabra-Extrusiontechnik-Raises-Rs-141-Crore-Through-Preferential-Allotment-of-Shares/6abf9234af0ff73182756ad9",
-      "source": "whalesbook.com",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Preferential Issue",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Kabra Extrusiontechnik raising Rs 141 crore through preferential issue.",
       "enriched": true
     },
     {
@@ -15433,6 +15590,25 @@
       "enriched": true
     },
     {
+      "id": "n8e536362f33a",
+      "ticker": "SONACOMS",
+      "company": "Sona BLW Precision Forgings Limited",
+      "sector": "Automobile and Auto Components",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Sona BLW Ends Chennai Solar Project Due To Changing Power Needs",
+      "url": "https://www.sahi.com/news/sona-blw-ends-chennai-solar-project-due-to-changing-power-needs",
+      "source": "sahi.com",
+      "date": "",
+      "topic": "Other",
+      "keyword": "Partnership",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Sona BLW ends Chennai solar project due to changing power requirements.",
+      "enriched": true
+    },
+    {
       "id": "ncf1629504db4",
       "ticker": "GOLDIAM",
       "company": "Goldiam International Limited",
@@ -15583,6 +15759,25 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Shaily Engineering Plastics reappoints its Managing Director.",
+      "enriched": true
+    },
+    {
+      "id": "nc022b1daebeb",
+      "ticker": "SHREEREF",
+      "company": "Shree Refrigerations Ltd",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Shree Refrigerations sets Aug 31 for 20th AGM with e-voting",
+      "url": "https://scanx.trade/stock-market-news/companies/shree-refrigerations-sets-aug-31-for-20th-agm-with-e-voting/47828803",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Other",
+      "keyword": "Partnership",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Shree Refrigerations scheduled its 20th Annual General Meeting for August 31 with e-voting facility.",
       "enriched": true
     }
   ]

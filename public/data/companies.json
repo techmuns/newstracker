@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T21:35:59.402Z",
+  "generated_at": "2026-10-06T19:46:40.520Z",
   "portfolio": [
     {
       "company": "Monolithisch India Limited",
@@ -17,14 +17,14 @@
       "sector": "Capital Goods"
     },
     {
-      "company": "Sterlite Technologies Limited",
-      "ticker": "STLTECH",
-      "sector": "Telecommunication"
-    },
-    {
       "company": "Menon Bearings Limited",
       "ticker": "MENONBE",
       "sector": "Automobile and Auto Components"
+    },
+    {
+      "company": "Sterlite Technologies Limited",
+      "ticker": "STLTECH",
+      "sector": "Telecommunication"
     },
     {
       "company": "Shadowfax Technologies Limited",
@@ -90,6 +90,11 @@
       "company": "Epigral Limited",
       "ticker": "EPIGRAL",
       "sector": "Chemicals"
+    },
+    {
+      "company": "Orient Cables (India) Limited",
+      "ticker": "ORIENTCABL",
+      "sector": "Telecommunication"
     },
     {
       "company": "TANFAC Industries Ltd",
