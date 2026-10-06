@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T21:44:59.103Z",
+  "generated_at": "2026-10-06T09:34:41.905Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,116 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "ff67da7169e98",
+      "ticker": "INDOMIM",
+      "company": "INDO-MIM Limited",
+      "exchange": "NSE",
+      "date": "2026-10-06T14:56:04.000Z",
+      "category": "Disclosure",
+      "title": "INDO-MIM Limited has informed the Exchange about Intimation for change of Corporate Identification Number (CIN) and Listing Status of the Company.",
+      "url": "https://nsearchives.nseindia.com/corporate/INDOMIM_06102026145535_INDO_MIM_-_Updation_of_CIN_-_06-10-2026.pdf"
+    },
+    {
+      "id": "f4dbc594e23d5",
+      "ticker": "GULFOILLUB",
+      "company": "Gulf Oil Lubricants India Limited",
+      "exchange": "NSE",
+      "date": "2026-10-06T14:35:19.000Z",
+      "category": "Disclosure",
+      "title": "We wish to inform you that Crisil ESG Ratings & Analytics Limited (\"Crisil\") a SEBI registered ESG Rating Provider, has assigned the Company an ESG Rating of 63 with a corresponding Category of Strong.",
+      "url": "https://nsearchives.nseindia.com/corporate/GULFOILLUB_06102026143437_ESGRating2026.pdf"
+    },
+    {
+      "id": "ff169d22b4531",
+      "ticker": "JUBLCPL",
+      "company": "Jubilant Agri and Consumer Products Limited",
+      "exchange": "NSE",
+      "date": "2026-10-06T14:27:25.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "JUBLCPL: Jubilant Agri and Consumer Products Limited has informed the Exchange about Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/JACPL_06102026142615_RTA_Cert_Regu74_5__Signed.pdf"
+    },
+    {
+      "id": "f1c99548f29b7",
+      "ticker": "INDOFARM",
+      "company": "Indo Farm Equipment Limited",
+      "exchange": "NSE",
+      "date": "2026-10-06T14:04:17.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Indo Farm Equipment Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/IFEL_06102026140406_Covering_Letter_74_5_.pdf"
+    },
+    {
+      "id": "fbe58443fb400",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-10-06T13:13:12.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Zen Technologies Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/ZENTEC_06102026131233_Covering_Letter_74_5_.pdf"
+    },
+    {
+      "id": "f02951987afcb",
+      "ticker": "AVANTEL",
+      "company": "Avantel Limited",
+      "exchange": "NSE",
+      "date": "2026-10-06T12:14:11.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Avantel Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/AVANTEL_06102026121139_Regulation74.pdf"
+    },
+    {
+      "id": "f02360c866b3b",
+      "ticker": "SONACOMS",
+      "company": "Sona BLW Precision Forgings Limited",
+      "exchange": "NSE",
+      "date": "2026-10-06T12:02:39.000Z",
+      "category": "Shareholders meeting",
+      "title": "Sona Blw Precision Forgings Limited has submitted the Exchange a copy Srutinizers report of Postal Ballot. Further, the company has informed the Exchange regarding voting results.",
+      "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_06102026120223_Scrutinizer_Report_final.pdf"
+    },
+    {
+      "id": "f259b410ab9cc",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "exchange": "NSE",
+      "date": "2026-10-06T11:36:07.000Z",
+      "category": "Press Release",
+      "title": "Meesho Limited has informed the Exchange regarding a press release dated October 06, 2026, titled \"Meesho Content Commerce NMV Grows 152% YoY, Powered by Bharat s Homemakers and Young Graduates\".",
+      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_06102026113557_PressRelease.pdf"
+    },
+    {
+      "id": "f42541bab2cbb",
+      "ticker": "XPROINDIA",
+      "company": "Xpro India Limited",
+      "exchange": "NSE",
+      "date": "2026-10-06T11:26:39.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Xpro India Limited has informed the Exchange about Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018 for quarter ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/XPROINDIASKD_06102026112006_XIL_Reg_74_5__signed.pdf"
+    },
+    {
+      "id": "ff92168a1aab4",
+      "ticker": "LGEINDIA",
+      "company": "LG Electronics India Limited",
+      "exchange": "NSE",
+      "date": "2026-10-06T11:15:32.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "LG Electronics India Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/LGEINDIA_06102026111440_Compliance_under_74_5__of_SEBI__DP__Regulations_2018.pdf"
+    },
+    {
+      "id": "f51e2ade3ef7f",
+      "ticker": "OMNI",
+      "company": "Omnitech Engineering Limited",
+      "exchange": "NSE",
+      "date": "2026-10-06T10:57:29.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Submission of Compliance Certificate under Regulation 74(5) of the SEBI (Depositories and Participants) Regulations, 2018, as amended, for the quarter ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/OMNITECHENG_06102026105702_Confirmation_Certificate__Signed.pdf"
+    },
     {
       "id": "ff563bff40058",
       "ticker": "PVRINOX",
@@ -438,6 +548,16 @@
       "url": "https://nsearchives.nseindia.com/corporate/VBL_30092026214303_Update_Crickely.pdf"
     },
     {
+      "id": "f8ddcc7c79dae",
+      "ticker": "KANOHAR",
+      "company": "Kanohar Electricals Limited",
+      "exchange": "NSE",
+      "date": "2026-09-30T21:22:10.000Z",
+      "category": "Investor Presentation",
+      "title": "Kanohar Electricals Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/KANOHARNSE2026_30092026211905_Earning_Call_Intimation_with_dial_in_details.pdf"
+    },
+    {
       "id": "fe7453841696a",
       "ticker": "FLYSBS",
       "company": "FlySBS Aviation Limited",
@@ -666,6 +786,16 @@
       "category": "Shareholders meeting",
       "title": "Balu Forge Industries Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 30, 2026",
       "url": "https://nsearchives.nseindia.com/corporate/BALUFORGE_30092026135734_Proceedings_of_37th_AGM_2025-26.pdf"
+    },
+    {
+      "id": "f4b4ad197d5bf",
+      "ticker": "KANOHAR",
+      "company": "Kanohar Electricals Limited",
+      "exchange": "NSE",
+      "date": "2026-09-30T13:55:45.000Z",
+      "category": "Disclosure",
+      "title": "Kanohar Electricals Limited has informed the Exchange regarding 'Disclosure pursuant to Regulation 30(12) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015-Receipt of Notification of Award '.",
+      "url": "https://nsearchives.nseindia.com/corporate/KANOHARNSE2026_30092026134519_Disclosure_of_Order_received_KEL.pdf"
     },
     {
       "id": "f6691ba5a8759",
@@ -1356,6 +1486,16 @@
       "category": "Trading Window",
       "title": "Denta Water and Infra Solutions Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
       "url": "https://nsearchives.nseindia.com/corporate/DENTA_28092026175558_Tradingwindow_closure_from_October_1_2026.pdf"
+    },
+    {
+      "id": "f9ae8de0e6d92",
+      "ticker": "KANOHAR",
+      "company": "Kanohar Electricals Limited",
+      "exchange": "NSE",
+      "date": "2026-09-28T17:51:58.000Z",
+      "category": "Trading Window",
+      "title": "Kanohar Electricals Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/KANOHARNSE2026_28092026175108_Intimation_of_Closure_of_Trading_Window.pdf"
     },
     {
       "id": "f2b1b3aaa3c67",
@@ -3996,6 +4136,16 @@
       "category": "ESOP/ESOS/ESPS",
       "title": "Northern Arc Capital Limited has informed the Exchange regarding Allotment of 144000 Shares.",
       "url": "https://nsearchives.nseindia.com/corporate/NACL2020_16092026154113_ESOPAllotment_16092026.pdf"
+    },
+    {
+      "id": "fe6ace6410a38",
+      "ticker": "KANOHAR",
+      "company": "Kanohar Electricals Limited",
+      "exchange": "NSE",
+      "date": "2026-09-16T14:38:28.000Z",
+      "category": "Disclosure",
+      "title": "Kanohar Electricals Limited has informed the Exchange about General Updates",
+      "url": "https://nsearchives.nseindia.com/corporate/KANOHARNSE2026_16092026143753_Code_of_practice_Insider_Trading_8_new.pdf"
     },
     {
       "id": "fa7d1119b2cf3",
@@ -19856,156 +20006,6 @@
       "category": "Record Date",
       "title": "Menon Bearings Limited has informed the Exchange that Record date for the purpose of Dividend is 22-Jul-2026.",
       "url": "https://nsearchives.nseindia.com/corporate/MENONBE_16072026125729_Filing_Outcome.pdf"
-    },
-    {
-      "id": "f85af67b99c33",
-      "ticker": "MENONBE",
-      "company": "Menon Bearings Limited",
-      "exchange": "NSE",
-      "date": "2026-07-16T12:55:04.000Z",
-      "category": "Dividend",
-      "title": "Menon Bearings Limited has informed the Exchange that Board of Directors at its meeting held on July 16, 2026, declared Interim Dividend of Rs. 2 per equity share.",
-      "url": "https://nsearchives.nseindia.com/corporate/MENONBE_16072026125326_Filing_Outcome.pdf"
-    },
-    {
-      "id": "f9acf97904b4c",
-      "ticker": "MENONBE",
-      "company": "Menon Bearings Limited",
-      "exchange": "NSE",
-      "date": "2026-07-16T12:52:18.000Z",
-      "category": "Board Meeting",
-      "title": "Menon Bearings Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/MENONBE_16072026124946_Filing_Outcome.pdf"
-    },
-    {
-      "id": "fcca511a95d0a",
-      "ticker": "SBCL",
-      "company": "Shivalik Bimetal Controls Limited",
-      "exchange": "NSE",
-      "date": "2026-07-16T12:30:12.000Z",
-      "category": "Disclosure",
-      "title": "Shivalik Bimetal Controls Limited has informed the Exchange about General Updates - Intimation of Consent to operate for Pune Facility (Phase-I) from Maharashtra Pollution Control Board.",
-      "url": "https://nsearchives.nseindia.com/corporate/SBCL_16072026122948_Reg_30_-_Update_on_Pune_plant__1_.pdf"
-    },
-    {
-      "id": "ffcfbc8054dac",
-      "ticker": "GMMPFAUDLR",
-      "company": "GMM Pfaudler Limited",
-      "exchange": "NSE",
-      "date": "2026-07-15T19:25:00.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "GMM Pfaudler Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_15072026192434_GMM_Reg_74_5__30062026.pdf"
-    },
-    {
-      "id": "f957133831363",
-      "ticker": "GROWW",
-      "company": "Billionbrains Garage Ventures Limited",
-      "exchange": "NSE",
-      "date": "2026-07-15T19:20:45.000Z",
-      "category": "Investor Presentation",
-      "title": "Billionbrains Garage Ventures Limited has informed the Exchange about Link of Recording",
-      "url": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_15072026192031_Investor_Audio.pdf"
-    },
-    {
-      "id": "f3bbf32a03fab",
-      "ticker": "SONACOMS",
-      "company": "Sona BLW Precision Forgings Limited",
-      "exchange": "NSE",
-      "date": "2026-07-15T19:04:29.000Z",
-      "category": "Investor Presentation",
-      "title": "Sona Blw Precision Forgings Limited has informed the Exchange about Schedule of meet",
-      "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_15072026190349_Intimation.pdf"
-    },
-    {
-      "id": "f296ab7521ebd",
-      "ticker": "SONACOMS",
-      "company": "Sona BLW Precision Forgings Limited",
-      "exchange": "NSE",
-      "date": "2026-07-15T19:01:17.000Z",
-      "category": "Shareholders meeting",
-      "title": "Sona Blw Precision Forgings Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on July 15, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_15072026185918_AGM_Proceeding.pdf"
-    },
-    {
-      "id": "fd74d3490e9c5",
-      "ticker": "GROWW",
-      "company": "Billionbrains Garage Ventures Limited",
-      "exchange": "NSE",
-      "date": "2026-07-15T17:40:33.000Z",
-      "category": "Monitoring Agency Report",
-      "title": "The monitoring agency report for the quarter ended June 30, 2026, is attached herewith.",
-      "url": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_15072026174012_MA_SD.pdf"
-    },
-    {
-      "id": "f7679bc3b5ac3",
-      "ticker": "MTARTECH",
-      "company": "Mtar Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-15T17:37:26.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Mtar Technologies Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/MTARTECH_15072026173718_Intimation.pdf"
-    },
-    {
-      "id": "f30b8d16b1e4b",
-      "ticker": "DYNAMATECH",
-      "company": "Dynamatic Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-15T17:16:20.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Dynamatic Technologies Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/DYNAMATICH_15072026171438_DTLCertificateunderRegulation74530062026.pdf"
-    },
-    {
-      "id": "fe70287a0aacd",
-      "ticker": "KPITTECH",
-      "company": "KPIT Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-15T16:48:05.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "KPIT Technologies Limited has informed the Exchange about Reconciliation of Share Capital Audit Report for 30 June, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/KPITTECH_15072026164704_CoveringletterJune26Reg76_signed.pdf"
-    },
-    {
-      "id": "fffb6a7240e9a",
-      "ticker": "SGMART",
-      "company": "SG Mart Limited",
-      "exchange": "NSE",
-      "date": "2026-07-15T16:32:16.000Z",
-      "category": "Investor Presentation",
-      "title": "SG Mart Limited has informed the Exchange about Schedule of meet",
-      "url": "https://nsearchives.nseindia.com/corporate/SGMART_15072026162949_SGMLINVESTORMEETINTIMATION20072026.pdf"
-    },
-    {
-      "id": "febd6a2917696",
-      "ticker": "UNIMECH",
-      "company": "Unimech Aerospace and Manufacturing Limited",
-      "exchange": "NSE",
-      "date": "2026-07-15T16:18:55.000Z",
-      "category": "ESOP/ESOS/ESPS",
-      "title": "Unimech Aerospace and Manufacturing Limited has informed the Exchange regarding allotment of 45,114 Equity Shares of the Company.",
-      "url": "https://nsearchives.nseindia.com/corporate/UNIMECH_15072026161842_Reg_30_ESOP_Allotment.pdf"
-    },
-    {
-      "id": "fe14beb7bf1f8",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-07-15T15:36:59.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Aurionpro Solutions Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/AURIONPRO_15072026153644_ASL_Certificate_Reg_74_5_Covering_30_06_2026_Q1_sd.pdf"
-    },
-    {
-      "id": "ff4a394058795",
-      "ticker": "LENSKART",
-      "company": "Lenskart Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-07-15T15:32:30.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Lenskart Solutions Limited has informed the Exchange about Certificate under Regulation 76 of SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended June 30, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/LENSKART_15072026153131_Reg_76.pdf"
     }
   ]
 }
