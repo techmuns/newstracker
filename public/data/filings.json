@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T09:34:41.905Z",
+  "generated_at": "2026-10-06T19:55:44.434Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,146 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f51c1e86abba1",
+      "ticker": "TENNIND",
+      "company": "Tenneco Clean Air India Limited",
+      "exchange": "NSE",
+      "date": "2026-10-06T22:53:06.000Z",
+      "category": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+      "title": "Tenneco Clean Air India Limited has informed the Exchange about Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+      "url": "https://nsearchives.nseindia.com/corporate/TENNECO_06102026224928_Regulation_30_Disclsoure_Fine_and_Penalties_SCN_Oct_6_2026_Final_Signed.pdf"
+    },
+    {
+      "id": "f8c22e007ebfc",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "exchange": "NSE",
+      "date": "2026-10-06T22:12:20.000Z",
+      "category": "Disclosure",
+      "title": "Meesho Limited has informed the Exchange about update on acquisition under Regulation 30 of SEBI (LODR) Regulations, 2015.",
+      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_06102026221209_MLBMOutcome06Oct2026Final.pdf"
+    },
+    {
+      "id": "fd770105c0d41",
+      "ticker": "KANOHAR",
+      "company": "Kanohar Electricals Limited",
+      "exchange": "NSE",
+      "date": "2026-10-06T21:37:58.000Z",
+      "category": "Press Release",
+      "title": "Kanohar Electricals Limited has informed the Exchange regarding a press release dated October 06, 2026, titled \"Press Release - Q1/FY27 \".",
+      "url": "https://nsearchives.nseindia.com/corporate/KANOHARNSE2026_06102026213732_Intimations_for_Press_Release.pdf"
+    },
+    {
+      "id": "f568f0effb578",
+      "ticker": "KANOHAR",
+      "company": "Kanohar Electricals Limited",
+      "exchange": "NSE",
+      "date": "2026-10-06T21:30:26.000Z",
+      "category": "Investor Presentation",
+      "title": "Kanohar Electricals Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/KANOHARNSE2026_06102026212951_Intimations_for_Investor_Presentation.pdf"
+    },
+    {
+      "id": "f41b477f15714",
+      "ticker": "KANOHAR",
+      "company": "Kanohar Electricals Limited",
+      "exchange": "NSE",
+      "date": "2026-10-06T19:25:11.000Z",
+      "category": "Board Meeting",
+      "title": "Kanohar Electricals Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/KANOHARNSE2026_06102026191733_Outcome_Board_Meeting.pdf"
+    },
+    {
+      "id": "fb67d724d2a6f",
+      "ticker": "SHADOWFAX",
+      "company": "Shadowfax Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-10-06T18:46:54.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Shadowfax Technologies Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/9900590024_06102026184454_74.pdf"
+    },
+    {
+      "id": "fb15ced1a0a01",
+      "ticker": "EMAPARTNER",
+      "company": "EMA Partners India Limited",
+      "exchange": "NSE",
+      "date": "2026-10-06T18:19:25.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "EMA Partners India Limited has informed the Exchange about Certificate under Regulation 74(5) of the SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/EMAIN_06102026181905_Intimation_Reg_74_5__September_2026.pdf"
+    },
+    {
+      "id": "f1a56d8fbd8d8",
+      "ticker": "LENSKART",
+      "company": "Lenskart Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-10-06T17:45:43.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Lenskart Solutions Limited has informed the Exchange about Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018 for the quarter and half year ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/LENSKART_06102026174405_Regulation_74.pdf"
+    },
+    {
+      "id": "f879764beb64c",
+      "ticker": "ACUTAAS",
+      "company": "Acutaas Chemicals Limited",
+      "exchange": "NSE",
+      "date": "2026-10-06T17:06:18.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Acutaas Chemicals Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/AMIORG_06102026170605_Reg74300926swsigned.pdf"
+    },
+    {
+      "id": "fd956e070dbb0",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "exchange": "NSE",
+      "date": "2026-10-06T16:44:10.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Meesho Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_06102026164335_Meesho_-_Cover_letter_Regulation_74_5__Sep_30_2026.pdf"
+    },
+    {
+      "id": "f3b0b2f4e256b",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "exchange": "NSE",
+      "date": "2026-10-06T16:01:42.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "E2E Networks Limited has informed the Exchange about Certificate under Regulation 74(5) of SEBI (Depositories and Participant) Regulations, 2018 for the Quarter ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/E2E_06102026160132_Signed_74_5__Certificate.pdf"
+    },
+    {
+      "id": "f2dfcd028486c",
+      "ticker": "KSHINTL",
+      "company": "KSH International Limited",
+      "exchange": "NSE",
+      "date": "2026-10-06T15:56:39.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "KSH International Limited has submitted to the Exchange, Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018.",
+      "url": "https://nsearchives.nseindia.com/corporate/INTERNATIONAL_06102026155514_KSH_Intimation_under_Reg-74_5__signed.pdf"
+    },
+    {
+      "id": "fe9f91b19e126",
+      "ticker": "SONACOMS",
+      "company": "Sona BLW Precision Forgings Limited",
+      "exchange": "NSE",
+      "date": "2026-10-06T15:16:06.000Z",
+      "category": "Rescission/termination(s)",
+      "title": "Sona Blw Precision Forgings Limited has informed the Exchange about Rescission/termination(s)",
+      "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_06102026151541_Intimation.pdf"
+    },
+    {
+      "id": "f76caa645adbe",
+      "ticker": "INDOMIM",
+      "company": "INDO-MIM Limited",
+      "exchange": "NSE",
+      "date": "2026-10-06T15:05:20.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "INDO-MIM Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018.",
+      "url": "https://nsearchives.nseindia.com/corporate/INDOMIM_06102026150507_INDO-MIM_-_Regulation_74_5___-_06-10-2026.pdf"
+    },
     {
       "id": "ff67da7169e98",
       "ticker": "INDOMIM",
@@ -4466,6 +4606,16 @@
       "category": "Investor Presentation",
       "title": "Solar Industries India Limited has informed the Exchange about Schedule of meet",
       "url": "https://nsearchives.nseindia.com/corporate/SOLARINDS_14092026173100_signed_concall1710.pdf"
+    },
+    {
+      "id": "f0b6c77bc7c80",
+      "ticker": "SONACOMS",
+      "company": "Sona BLW Precision Forgings Limited",
+      "exchange": "NSE",
+      "date": "2026-09-14T15:33:25.000Z",
+      "category": "Investor Presentation",
+      "title": "Sona Blw Precision Forgings Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_14092026153302_Intimation_for_Conference_Jefferies.pdf"
     },
     {
       "id": "f513f760ef658",
@@ -19856,156 +20006,6 @@
       "category": "Shareholders meeting",
       "title": "Avantel Limited has informed the Exchange regarding Notice of Postal Ballot",
       "url": "https://nsearchives.nseindia.com/corporate/AVANTEL_16072026192914_PostalBallotIntimation16072026.pdf"
-    },
-    {
-      "id": "f7cae881e0234",
-      "ticker": "SONACOMS",
-      "company": "Sona BLW Precision Forgings Limited",
-      "exchange": "NSE",
-      "date": "2026-07-16T19:21:06.000Z",
-      "category": "Shareholders meeting",
-      "title": "Sona Blw Precision Forgings Limited has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on July 15, 2026. Further, the company has informed the Exchange regarding voting results.",
-      "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_16072026192049_Scrutinizer_Report.pdf"
-    },
-    {
-      "id": "f0f5c8e164776",
-      "ticker": "SPUNWEB",
-      "company": "Spunweb Nonwoven Limited",
-      "exchange": "NSE",
-      "date": "2026-07-16T19:19:04.000Z",
-      "category": "Structural Digital Database",
-      "title": "SDD Compliance Certificate for the Quarter Ended on June 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/SPUNWEB_16072026191815_SDDComplianceCertificateJune2026.pdf"
-    },
-    {
-      "id": "f11abe40f558e",
-      "ticker": "SPUNWEB",
-      "company": "Spunweb Nonwoven Limited",
-      "exchange": "NSE",
-      "date": "2026-07-16T19:05:24.000Z",
-      "category": "Quarterly Compliance Report on Corporate governance - within 21 days from the end of the quarter",
-      "title": "Spunweb Nonwoven Limited has informed regarding Submission of the Compliance Report on Corporate Governance for the Quarter Ended on June 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/SPUNWEB_16072026190141_NonApplicabilityofCGJune2026.pdf"
-    },
-    {
-      "id": "fcd453c130564",
-      "ticker": "E2E",
-      "company": "E2E Networks Limited",
-      "exchange": "NSE",
-      "date": "2026-07-16T18:58:57.000Z",
-      "category": "Investor Presentation",
-      "title": "E2E Networks Limited has informed the Exchange about Schedule of meet",
-      "url": "https://nsearchives.nseindia.com/corporate/E2E_16072026185802_Intimation_EC.pdf"
-    },
-    {
-      "id": "f6ef620d469a4",
-      "ticker": "PVRINOX",
-      "company": "PVR INOX Limited",
-      "exchange": "NSE",
-      "date": "2026-07-16T18:46:19.000Z",
-      "category": "Investor Presentation",
-      "title": "PVR INOX has informed the Stock Exchange that post announcement of Financial Results for the First Quarter ended 30th June, 2026 our Company's officials will be participating in conference call for analysts and investors, on Friday, 24th July, 2026 at 03:00 P.M. (IST).",
-      "url": "https://nsearchives.nseindia.com/corporate/PVRINOXLTD_16072026184556_PVRINOXEarningscall24072026.pdf"
-    },
-    {
-      "id": "f44f6bd618011",
-      "ticker": "CURRENT",
-      "company": "Current Infraprojects Limited",
-      "exchange": "NSE",
-      "date": "2026-07-16T17:39:23.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Current Infraprojects Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/CURRENTINFRA_16072026165541_SHARE_CAPITAL_AUDIT_30TH_JUNE_2026_REGULATION_76.pdf"
-    },
-    {
-      "id": "f2cd9ce4393cd",
-      "ticker": "YASHO",
-      "company": "Yasho Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-07-16T17:31:17.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Yasho Industries Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/8291904474_16072026173108_covering.pdf"
-    },
-    {
-      "id": "f7884a4eb82c6",
-      "ticker": "GROWW",
-      "company": "Billionbrains Garage Ventures Limited",
-      "exchange": "NSE",
-      "date": "2026-07-16T17:06:03.000Z",
-      "category": "Disclosure",
-      "title": "Billionbrains Garage Ventures Limited has informed the Exchange regarding 'Clarification to our earlier letter dated July 16, 2026 with respect to Board comments on fine imposed'.",
-      "url": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_16072026170539_Board_comments_on_fine_imposed_final_NSE.pdf"
-    },
-    {
-      "id": "f4f04fd75691f",
-      "ticker": "GANESHBE",
-      "company": "Ganesh Benzoplast Limited",
-      "exchange": "NSE",
-      "date": "2026-07-16T16:56:02.000Z",
-      "category": "Disclosure",
-      "title": "Ganesh Benzoplast Limited has informed the Exchange about Disclosure Under regulation 30-updates",
-      "url": "https://nsearchives.nseindia.com/corporate/GANESHBE_16072026165548_DisclosureProgfinNCLATorder.pdf"
-    },
-    {
-      "id": "f87b9c5759b18",
-      "ticker": "SKYGOLD",
-      "company": "SKY GOLD AND DIAMONDS LIMITED",
-      "exchange": "NSE",
-      "date": "2026-07-16T16:02:06.000Z",
-      "category": "Disclosure",
-      "title": "This is to inform you that Starmangalsutra Private Limited, a subsidiary of the company has suffered a Financial Loss arising from a Fraud Incident.",
-      "url": "https://nsearchives.nseindia.com/corporate/SKYGOLD_16072026160150_Intimation.pdf"
-    },
-    {
-      "id": "f03c8ebc200fe",
-      "ticker": "GROWW",
-      "company": "Billionbrains Garage Ventures Limited",
-      "exchange": "NSE",
-      "date": "2026-07-16T15:51:18.000Z",
-      "category": "Disclosure",
-      "title": "Billionbrains Garage Ventures Limited has informed the Exchange regarding 'Board comments on fine levied by the Exchange'.",
-      "url": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_16072026155015_Board_comments_on_fine_imposed_Signed.pdf"
-    },
-    {
-      "id": "f46f05f3e69a9",
-      "ticker": "GROWW",
-      "company": "Billionbrains Garage Ventures Limited",
-      "exchange": "NSE",
-      "date": "2026-07-16T15:42:26.000Z",
-      "category": "Newspaper Publication",
-      "title": "Billionbrains Garage Ventures Limited has informed the Exchange about Copy of Newspaper Publication",
-      "url": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_16072026154209_NPInti.pdf"
-    },
-    {
-      "id": "f5f41107cf67e",
-      "ticker": "GROWW",
-      "company": "Billionbrains Garage Ventures Limited",
-      "exchange": "NSE",
-      "date": "2026-07-16T15:30:07.000Z",
-      "category": "ESOP/ESOS/ESPS",
-      "title": "Billionbrains Garage Ventures Limited has informed the Exchange regarding Grant of 190198 Options under Billionbrains Garage Ventures Limited Employee Stock Option Scheme 2024.",
-      "url": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_16072026152959_ESOPGrant_SD.pdf"
-    },
-    {
-      "id": "fdeccf77fe7b9",
-      "ticker": "SBCL",
-      "company": "Shivalik Bimetal Controls Limited",
-      "exchange": "NSE",
-      "date": "2026-07-16T14:39:05.000Z",
-      "category": "Press Release",
-      "title": "Shivalik Bimetal Controls Limited has informed the Exchange regarding a press release dated July 16, 2026, titled \"Shivalik Bimetal Controls Limited receives Consent to Operate (CTO) for Pune facility (Phase-I)\".",
-      "url": "https://nsearchives.nseindia.com/corporate/SBCL_16072026143842_Press_Release__1_.pdf"
-    },
-    {
-      "id": "fb690482c7d2f",
-      "ticker": "MENONBE",
-      "company": "Menon Bearings Limited",
-      "exchange": "NSE",
-      "date": "2026-07-16T12:57:58.000Z",
-      "category": "Record Date",
-      "title": "Menon Bearings Limited has informed the Exchange that Record date for the purpose of Dividend is 22-Jul-2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/MENONBE_16072026125729_Filing_Outcome.pdf"
     }
   ]
 }
