@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-05T21:49:31.897Z",
+  "generated_at": "2026-10-06T09:33:31.574Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 140,
-    "watchlist": 759,
+    "portfolio": 139,
+    "watchlist": 757,
     "universe": 45,
-    "total": 804
+    "total": 802
   },
   "items": [
     {
@@ -259,7 +259,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Laxmi Dental released its Q1 2027 earnings call transcript.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -1583,25 +1583,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Kabra Extrusion Technik to raise Rs 141 crore through preferential share issue.",
-      "enriched": true
-    },
-    {
-      "id": "nd06cdcf5febc",
-      "ticker": "GOLDIAM",
-      "company": "Goldiam International Limited",
-      "sector": "Consumer Durables",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Goldiam International Q1 FY27: Board meet Aug 7, call Aug 10 | Market News & Analysis",
-      "url": "https://www.multibagg.ai/market-pulse/articles/goldiam-q1-fy27-board-call-cmsio9y6eayzn0zp7gg3zz9hw",
-      "source": "multibagg.ai",
-      "date": "2026-09-25T08:10:02.932Z",
-      "topic": "Money",
-      "keyword": "Approval",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Goldiam International board meeting scheduled for Aug 7, earnings call on Aug 10.",
       "enriched": true
     },
     {
@@ -3706,6 +3687,25 @@
       "enriched": true
     },
     {
+      "id": "n6bb941aec168",
+      "ticker": "VBL",
+      "company": "Varun Beverages Limited",
+      "sector": "Fast Moving Consumer Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Varun Beverages Q1 2026 Earnings: EPS of ₹8.98 as Revenue Grows 7.15% YoY - Earnings Whisper Number",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTXhpZDRYejlXUkF6X1FSMkQyRTV0NkNLaG4zSGNLamlET0UwUGo0VlBBeE1RRXNLa1lzWGQ4NC1wRUNfbWZMYmJmMnZrNlVrM0ZyWTFrMUdvSS00NTZpVlZSbVc4SDdyeTA1R3FnWDlGdUI1S0JCTngwRHcwU184ZUdfSmtXZ1M0clhXbHBuUVdlTXRwYlYxc25jbzNaZEtxRVdzaVdQbVF4aERoMk5V?oc=5",
+      "source": "siam.in",
+      "date": "2026-09-16T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Varun Beverages Q1 revenue grew 7% year-on-year with earnings per share of ₹8.98.",
+      "enriched": true
+    },
+    {
       "id": "n4a74ec7e5456",
       "ticker": "GULFOILLUB",
       "company": "Gulf Oil Lubricants India Limited",
@@ -3941,6 +3941,26 @@
       "enriched": true
     },
     {
+      "id": "n8bdf67533071",
+      "ticker": "GLOBAL",
+      "company": "Optical Fibre",
+      "sector": "Telecom",
+      "scope": [
+        "universe"
+      ],
+      "title": "HFCL boosts capex to ₹1,800 crore for optical fibre production",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQakFGTmJLLTI5bzZlMklBSm9ISFppalJic3dxUVRMeUM2dEV1emt6U0MtTzdhZXpfeE14bWlnMGpncmg4c0NXb2hzLVFnT201VVZQclp5NWFQT1gxR1hHUE5DVnFyLWctWXBfQ0FBQTV1M0xfaExEWmpZREhMRFhRa0xCeTA0VEoybnRwN1FKM2RPWU9XekFjOUZLenhBbVVteVVJRmdzalFFNURXdklxUDZ1Tk1kVHo1WERvNHFkSUVkcHplYkY2dzY1Zks2MFFzdk1obdIB2gFBVV95cUxQSm5hbElTT2U4UnJNVExhbW5Wd1E0S1JxQUptd2plUGtDX2Mzelp0VVlGaVVLRDU1RzlKLWxsX0d3VTFqMm85TlNMeUowUWtOLVNORHRFaG1adFZrQS1FT2psUEVTREJCY3Jzelg5NllrWFRFcE9Bbkc1NmYwM2stM1dXMlNwR2lXdmZidkxFbVZZUFktT2NlOGRoZHVFdGd3aUdYdEYyRGlEQWtUc2s2ZW51R01jTVVoWGZubXlqakV5dTR1N0lVS05qVmJuV1pJQjQ4Uk9zMkJSZw?oc=5",
+      "source": "telecom.economictimes.indiatimes.com",
+      "date": "2026-09-15T07:00:00.000Z",
+      "topic": "Growth",
+      "keyword": "Capex",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "HFCL increases capital spending to ₹1,800 crore to expand optical fibre production capacity.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
       "id": "ndc0f6cae68ad",
       "ticker": "SCODATUBES",
       "company": "Scoda Tubes Limited",
@@ -4056,26 +4076,6 @@
       "mood": "positive",
       "takeaway": "EMA Partners acquiring 100% of Taggd for Rs 96.75 crore, expanding its business portfolio.",
       "enriched": true
-    },
-    {
-      "id": "n569f90e6d479",
-      "ticker": "GLOBAL",
-      "company": "Optical Fibre",
-      "sector": "Telecom",
-      "scope": [
-        "universe"
-      ],
-      "title": "HFCL Boosts Optical Fibre Production with Rs 1,800 Cr Capex",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMHBuVm4xZWxueXQxeWNvYWxRVjJHT1pMS1RKa1lYdVRERFBPQ2ozanBQQzFzdk5xcm9oNzl1ay1wdDduRUoxYUEydGJpRGpxVE5RVWFVbFJHUWk3by1xXy1NUFVfWEJ5N3hpTG16ODBMN3k4b2JkcDNUQy1ZTWkyeGotbzB0N0NjQ05CeGc4dWF3dklvSkFnRnlMWjM4SDNSTEx5LXdNTFdlbnRKTTY4Ml93c2NkUdIBtgFBVV95cUxPMHBuVm4xZWxueXQxeWNvYWxRVjJHT1pMS1RKa1lYdVRERFBPQ2ozanBQQzFzdk5xcm9oNzl1ay1wdDduRUoxYUEydGJpRGpxVE5RVWFVbFJHUWk3by1xXy1NUFVfWEJ5N3hpTG16ODBMN3k4b2JkcDNUQy1ZTWkyeGotbzB0N0NjQ05CeGc4dWF3dklvSkFnRnlMWjM4SDNSTEx5LXdNTFdlbnRKTTY4Ml93c2NkUQ?oc=5",
-      "source": "Rediff MoneyWiz",
-      "date": "2026-09-14T16:32:11.000Z",
-      "topic": "Growth",
-      "keyword": "Capex",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "HFCL investing Rs 1,800 crore to expand optical fibre manufacturing capacity.",
-      "enriched": true,
-      "sources_count": 2
     },
     {
       "id": "n89d085e3b005",
@@ -7237,7 +7237,7 @@
       "mood": "positive",
       "takeaway": "Rajesh Power Services wins Rs 653 crore underground power distribution order in Gujarat.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "n17cc3ebb93f8",
@@ -7604,7 +7604,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Zen Technologies secured ₹295 crore order from Defence Ministry for simulators.",
-      "sources_count": 3,
+      "sources_count": 5,
       "enriched": true
     },
     {
@@ -10369,6 +10369,26 @@
       "enriched": true
     },
     {
+      "id": "n4884e54b37dd",
+      "ticker": "GMMPFAUDLR",
+      "company": "GMM Pfaudler Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "GMM Pfaudler Q2 2026 Earnings: Revenue Grows 10.5% YoY, EPS Steady at ₹12.86 - Upward Estimate Revision",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMGx5UUduaHZlWDFISXNDWTUxX3FRWjhCclBKVXJoMHRDbnNIUnRxTEJwM0xkTjJQODlGb0R6M1V0NEdMLXhCRmlsSHl5Mk1PdjFNN0JZVjMwQWNlUHpQS2gyeEs4Tlh2M0dGclBQM0lJbjMzeXVhc0pYX1U2OGt3MTBIQnIwRi03NjMySnZCSXZvVDJkcTJ2QzNKZDlXXzFFMURDeWtxcWVZQXNZZmVZWm10ZkU?oc=5",
+      "source": "siam.in",
+      "date": "2026-09-01T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "GMM Pfaudler Q2 revenue rose 10.5% year-on-year with steady earnings per share of ₹12.86.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
       "id": "nea2068b122f7",
       "ticker": "DHOOTTRANS",
       "company": "Dhoot Transmission Limited",
@@ -12641,25 +12661,6 @@
       "enriched": true
     },
     {
-      "id": "n20b10b303a00",
-      "ticker": "GMMPFAUDLR",
-      "company": "GMM Pfaudler Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "GMM Pfaudler Q1FY27 Results on Aug 5, Earnings Call Scheduled for Aug 6",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM2Q1cHN3WFBuRndSaFNQaVk4XzlZVktTbjBsaXd5dmZYNGU0TXFDZEo4dmh4NjE2V3ltbElkVFVYT2lMd0RVcmFrdFB3SmlXVDc2bVNFa3c5dnQzb1pzOGw1bkdFQmZ0ZlNWV19yZDh0ZjdzTWFEX0tDTk9fdVQtd2JUeGpZN09ZeTFOZ3N0TmNpTlZQTFIxTXMtMnVOdjNDc1A0NUxfY2NpLW9wSWVWVEI3U24yWms?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-07-28T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "GMM Pfaudler to announce Q1FY27 results on Aug 5, earnings call on Aug 6.",
-      "enriched": true
-    },
-    {
       "id": "n610dc021a26b",
       "ticker": "VBL",
       "company": "Varun Beverages Limited",
@@ -12676,6 +12677,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Varun Beverages Q2 net income beat estimates, rising 15%.",
+      "enriched": true
+    },
+    {
+      "id": "n20b10b303a00",
+      "ticker": "GMMPFAUDLR",
+      "company": "GMM Pfaudler Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "GMM Pfaudler Q1FY27 Results on Aug 5, Earnings Call Scheduled for Aug 6",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM2Q1cHN3WFBuRndSaFNQaVk4XzlZVktTbjBsaXd5dmZYNGU0TXFDZEo4dmh4NjE2V3ltbElkVFVYT2lMd0RVcmFrdFB3SmlXVDc2bVNFa3c5dnQzb1pzOGw1bkdFQmZ0ZlNWV19yZDh0ZjdzTWFEX0tDTk9fdVQtd2JUeGpZN09ZeTFOZ3N0TmNpTlZQTFIxTXMtMnVOdjNDc1A0NUxfY2NpLW9wSWVWVEI3U24yWms?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-07-28T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "GMM Pfaudler to announce Q1FY27 results on Aug 5, earnings call on Aug 6.",
       "enriched": true
     },
     {
@@ -12739,25 +12759,6 @@
       "enriched": true
     },
     {
-      "id": "ned3e07c2de42",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Devyani International eyes next growth chapter with Sapphire merger, AI push and store expansion",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcGRYMjBESGRmSU5SYjBidmJvSWJtTEVSWjJ4TXpNeW5xNE9HTFFRaEN6QXk0cVdnSjktaE43UnFKX29WQ0Y5UUV1UjBfdS01My1iTEQ1cjNhODJjNGlSMXA2QnRJaWwtU2xiS2Z4OThCV05MRUpJcVFIWUdNeV90UnYxSHY1czNqOXdDNE5HRkJvS3hQM1p5dFBGWkUwQ2RIV1VpcjVnTlJFOVNCbWt1TEZoNGZIaXZnclNwNlVGZS12LTgxZ1JhNw?oc=5",
-      "source": "Indian Television Dot Com",
-      "date": "2026-07-27T07:00:00.000Z",
-      "topic": "Deals",
-      "keyword": "Merger",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Devyani International pursuing merger with Sapphire Foods along with store expansion plans.",
-      "enriched": true
-    },
-    {
       "id": "n500d994efc8c",
       "ticker": "VBL",
       "company": "Varun Beverages Limited",
@@ -12774,6 +12775,25 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Varun Beverages board to review Q2 earnings and interim dividend amid Africa expansion.",
+      "enriched": true
+    },
+    {
+      "id": "ned3e07c2de42",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Devyani International eyes next growth chapter with Sapphire merger, AI push and store expansion",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcGRYMjBESGRmSU5SYjBidmJvSWJtTEVSWjJ4TXpNeW5xNE9HTFFRaEN6QXk0cVdnSjktaE43UnFKX29WQ0Y5UUV1UjBfdS01My1iTEQ1cjNhODJjNGlSMXA2QnRJaWwtU2xiS2Z4OThCV05MRUpJcVFIWUdNeV90UnYxSHY1czNqOXdDNE5HRkJvS3hQM1p5dFBGWkUwQ2RIV1VpcjVnTlJFOVNCbWt1TEZoNGZIaXZnclNwNlVGZS12LTgxZ1JhNw?oc=5",
+      "source": "Indian Television Dot Com",
+      "date": "2026-07-27T07:00:00.000Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Devyani International pursuing merger with Sapphire Foods along with store expansion plans.",
       "enriched": true
     },
     {
@@ -12831,25 +12851,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Pon Pure Chemicals is expanding capacity and focusing on innovation in specialty chemicals.",
-      "enriched": true
-    },
-    {
-      "id": "n1e1fffd69b25",
-      "ticker": "ZENTEC",
-      "company": "Zen Technologies Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Zen Technologies Secures Rs 1,775 mn Defence Order",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZWtFcmVGcTZ3X096elNscERkQUpxYUFWOEpoaHNOUl9GY3BGTGNMZXV2emxmYlU4VjI1WGswSDNQSXVpRUZ5Sm8tMGVsT3F3eDQxbzhyQ0t1dzNOMzRHb0ZmR3hJSnRYb1JvYU1kaFctMUNzc3RtckduNDFBbHk4dk5pU2ZSQlIzUWExSUZxWklsSXd5SWkybW1VYnVYb0JnU0ppbDIwaHNnY0l4MVlKb0NRdlUyYUti?oc=5",
-      "source": "constructionworld.in",
-      "date": "2026-07-24T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Zen Technologies wins defence order worth Rs 178 crore.",
       "enriched": true
     },
     {
@@ -13065,26 +13066,6 @@
       "enriched": true
     },
     {
-      "id": "n71251ce41024",
-      "ticker": "ONESOURCE",
-      "company": "Onesource Specialty Pharma Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "OneSource Specialty Pharma, Formycon forge strategic manufacturing partnership for biosimilars",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWE85MzhDbVZGRWQzV3VRaHFzTE5KLVI1UEtoMnVocnVOVWx6eUdGTGJwZ3hrM3JJcXBzVFpmc05wQ1FWYTUxTVNLc3R4bS1sa2hJRFlubDN3VDl1UFBJa29nQkctaTVVV1pjUnV2VGRKeWp6TlNIVi1PVFJKWEp2bEREOUlNVGNRV1BaeVhuNXR3NDQxVHBDRlF5amVPNHdHLWhaRVNzd1BMQXB2bXJ3MGVZc1E4WlZfMkJyNk8yWmhJSHNUbkNXMEFLWnpqaXFrbjZad040WElUZ9IB4AFBVV95cUxQWE9HMGxyV1d1dlItb2JyVmNfa3V5OWRETEVXSUVhUGJJbTRoR0g3MllaYlpzRm40ZkpnNHJXSEZCV0hEUHE5RVdoSENoOU9sZ24ycGNfaVFia0c1V2h1bEI2LWlESWVtTUxSamtvTDYzLVBodUh3eHpBU3pkbDlfdjlLQUdlMi12VDlDMUJ6MHVoQmU5ZEtYVnNhUUtRWEZXcV82dklKNHlHWGQyY2oxZTYwTFQyaXkwdTF5Tk1ROGw3MGdyeHB6Y3pfWnBZV0l4UHBCazNRQV9DdTNiaFhuUw?oc=5",
-      "source": "Indian Pharma Post",
-      "date": "2026-07-15T07:00:00.000Z",
-      "topic": "Deals",
-      "keyword": "Partnership",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "OneSource Specialty Pharma partners with Formycon for biosimilar manufacturing.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "n6240a723a07d",
       "ticker": "VBL",
       "company": "Varun Beverages Limited",
@@ -13101,6 +13082,26 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Varun Beverages Q1 revenue grew 7% on higher volumes, though profit margins faced pressure.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n71251ce41024",
+      "ticker": "ONESOURCE",
+      "company": "Onesource Specialty Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "OneSource Specialty Pharma, Formycon forge strategic manufacturing partnership for biosimilars",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWE85MzhDbVZGRWQzV3VRaHFzTE5KLVI1UEtoMnVocnVOVWx6eUdGTGJwZ3hrM3JJcXBzVFpmc05wQ1FWYTUxTVNLc3R4bS1sa2hJRFlubDN3VDl1UFBJa29nQkctaTVVV1pjUnV2VGRKeWp6TlNIVi1PVFJKWEp2bEREOUlNVGNRV1BaeVhuNXR3NDQxVHBDRlF5amVPNHdHLWhaRVNzd1BMQXB2bXJ3MGVZc1E4WlZfMkJyNk8yWmhJSHNUbkNXMEFLWnpqaXFrbjZad040WElUZ9IB4AFBVV95cUxQWE9HMGxyV1d1dlItb2JyVmNfa3V5OWRETEVXSUVhUGJJbTRoR0g3MllaYlpzRm40ZkpnNHJXSEZCV0hEUHE5RVdoSENoOU9sZ24ycGNfaVFia0c1V2h1bEI2LWlESWVtTUxSamtvTDYzLVBodUh3eHpBU3pkbDlfdjlLQUdlMi12VDlDMUJ6MHVoQmU5ZEtYVnNhUUtRWEZXcV82dklKNHlHWGQyY2oxZTYwTFQyaXkwdTF5Tk1ROGw3MGdyeHB6Y3pfWnBZV0l4UHBCazNRQV9DdTNiaFhuUw?oc=5",
+      "source": "Indian Pharma Post",
+      "date": "2026-07-15T07:00:00.000Z",
+      "topic": "Deals",
+      "keyword": "Partnership",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "OneSource Specialty Pharma partners with Formycon for biosimilar manufacturing.",
       "sources_count": 2,
       "enriched": true
     },
@@ -13421,6 +13422,25 @@
       "enriched": true
     },
     {
+      "id": "n7cef23686e89",
+      "ticker": "VBL",
+      "company": "Varun Beverages Limited",
+      "sector": "Fast Moving Consumer Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Varun Beverages Q1 2026 Earnings: Revenue Growth of 7.1% Amid Operational Efficiency Gains - Earnings Cycle Outlook",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcExuUnNjdXVwalVaNHY0RklfOFBYNmFSc1BzOEttbmNtNWR4Z3pyMWo5SjNHaWhaWDVxWGYySEN0TjdrdTNwLVZPSlNIcTFONlhFYjlla2otNWdBYVZnaVZKX2dXM2VCUHRiZHFlQTBqNFdaZjZwR3NHTnJ5bHpVR2ZPRHAteHF3dnBYbU5pVXYwYWlqOS0wT3RLSlpEZTBvcHhnd2pFeGhwX3hSRHBReGRQZzdFaFRGRU5DR0Z1cGw4SkVzRVNjcA?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-11T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Varun Beverages Q1 revenue up 7.1% with improved operational efficiency.",
+      "enriched": true
+    },
+    {
       "id": "n465ad646d3d1",
       "ticker": "RUBICON",
       "company": "Rubicon Research Limited",
@@ -13535,25 +13555,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Triveni Engineering reported strong revenue and margin performance in March 2026 quarter.",
-      "enriched": true
-    },
-    {
-      "id": "n7cef23686e89",
-      "ticker": "VBL",
-      "company": "Varun Beverages Limited",
-      "sector": "Fast Moving Consumer Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Varun Beverages Q1 2026 Earnings: Revenue Growth of 7.1% Amid Operational Efficiency Gains - Earnings Cycle Outlook",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcExuUnNjdXVwalVaNHY0RklfOFBYNmFSc1BzOEttbmNtNWR4Z3pyMWo5SjNHaWhaWDVxWGYySEN0TjdrdTNwLVZPSlNIcTFONlhFYjlla2otNWdBYVZnaVZKX2dXM2VCUHRiZHFlQTBqNFdaZjZwR3NHTnJ5bHpVR2ZPRHAteHF3dnBYbU5pVXYwYWlqOS0wT3RLSlpEZTBvcHhnd2pFeGhwX3hSRHBReGRQZzdFaFRGRU5DR0Z1cGw4SkVzRVNjcA?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-11T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Varun Beverages Q1 revenue up 7.1% with improved operational efficiency.",
       "enriched": true
     },
     {
@@ -13830,7 +13831,7 @@
       "mood": "positive",
       "takeaway": "Inventurus Knowledge Solutions completed acquisition of TruBridge.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "n779800e7b3be",
@@ -14045,25 +14046,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Varun Beverages may benefit from Devyani Food Kenya's beverage business acquisition.",
-      "enriched": true
-    },
-    {
-      "id": "nfa4ad9f88736",
-      "ticker": "GMMPFAUDLR",
-      "company": "GMM Pfaudler Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "GMM Pfaudler Q2 2026 Earnings: Steady Revenue Growth Amid Margin Pressures - Estimate Accuracy",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXBQeXN2aGc4NWxodGxuMFNQRFRPdXdpajBVSXQ4dGdYMkJtal9rZThjUE8zc1ltSkF6UzZoZ3I2cWVKYV85LXB3LUlRX0pibkRYMWpQakFqa0JuUlhxM1N4OHVFTHh2TDJxQWlYMzVYTlhOSUhwcTc3S3VvZXFlRVBKV0pxbEp5RUx3ZUFMTXNudVFLWk53QXFzUlktUVNyTW5OWUpjRGZFcGVKcVpIWkNRd3E5bG8?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-07T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "GMM Pfaudler reports Q2 revenue growth but faces margin pressure in operations.",
       "enriched": true
     },
     {
@@ -14945,66 +14927,6 @@
       "enriched": true
     },
     {
-      "id": "n3f7d867d91f3",
-      "ticker": "WOCKPHARMA",
-      "company": "Wockhardt Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "WOCKPHARMA.NS Mar 2026 Earnings: Positive EPS of ₹10.28 on Revenue of ₹516 Crore - Share Dilution Risk",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMVNQaU1jdWRVMFhyazZhZHl4VUlqdFZ3NEdFbFVoUEtWREoxaF9peW1rMGtxcWU3TmdiTTdiVFZpWk9lX1pkTVBwZ3doWkxwQU9kX0M2eFJhQ2J0N2FKazQwdzZaR28wWHlHMkZpYVlyMERTeTNsNi13c3plTkllNVhnWjRJRnl6eXRFYzd3TGplTXB1aml1QnFGX2p3N0NwbGE0dXd5U21sa0tKN1ZZTWlCVWY1bEE?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-28T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Wockhardt posted positive Q4 FY2026 earnings with EPS of ₹10.28 on revenue of ₹516 crore.",
-      "sources_count": 3,
-      "enriched": true
-    },
-    {
-      "id": "n820b02552890",
-      "ticker": "TENNIND",
-      "company": "Tenneco Clean Air India Limited",
-      "sector": "Automobile and Auto Components",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Tenneco Clean Air India Q2 2026 Earnings: Double-Digit Revenue Growth Fails to Lift Stock as Markets Eye Margins",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQmZJVm1wS1Q1eEZOYllJMEhJbGI0VkVieUhUMlhGOGt6UVF6d0VSNnRxT3drTDFSM2JrVE1xekZFc2FMQ1hJeC1GR2ZSeFVKQzhORjd1TGREU1R2d1AyZFNBMC1xQmZaTGVnNmx2b3JaNHpnVW1WTW5yc3QwR0hDZHpyNWpZY1M4aktlOXNSVWxNTXM1Z2Z2X3VyUkFoZFJfZGFnWGNrTTE2Xzc1R2RJa1ZKVGhDVVliRFJjYUFOMlc5ZG1Rd2JwZmVvTWFhX1FtZUFRcHBsNVA0V3R1Zm1scGMyVDU0dw?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-28T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Tenneco Clean Air India posts double-digit revenue growth in Q2 2026, but margin concerns persist.",
-      "enriched": true
-    },
-    {
-      "id": "n7a4fc8aea26f",
-      "ticker": "SHADOWFAX",
-      "company": "Shadowfax Technologies Limited",
-      "sector": "Services",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "SHADOWFAX Mar 2026 Earnings: Profitability Achieved with Revenue at ₹1,206 Crore - Profit Margin Analysis",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV0IwcjBaWjlNeFVRZW9teW1WZDRfSDczMWVaYjEwODhjUXJLSGJwbHJkZ2diME1GRkV3LUNWVUFZWXRaNFZ5WUJJQmJaZmM2bnlmVFRrOHNkWExSSzhhclVza1QwVnRxSTR2NGJsbnFrRnNCR1M0SzkxY1Y1aFQ3R1NnSi1Uc1FFUld0cUNjMFB3VHRjWmMxeE9EYnZEQkRNYUwzRGFRZ3czc0F3UlFWc1VKcHFEckE5ejZGaw?oc=5",
-      "source": "siam.in",
-      "date": "2026-06-28T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Shadowfax Technologies turned profitable with Q4 revenue of ₹1,206 crore.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "n1b5652361efc",
       "ticker": "SETL",
       "company": "Standard Engineering Technology Limited",
@@ -15065,6 +14987,25 @@
       "enriched": true
     },
     {
+      "id": "nd5995d74a0f4",
+      "ticker": "PVRINOX",
+      "company": "PVR INOX Limited",
+      "sector": "Media Entertainment & Publication",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Cyril Amarchand Mangaldas advises PVR INOX Limited on 2.11% Equity Share Buyback",
+      "url": "https://www.scconline.com/blog/post/2026/10/06/cyril-amarchand-mangaldas-advises-pvr-inox-limited-on-2-11-equity-share-buyback/",
+      "source": "scconline.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Buyback",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "PVR INOX announced a 2.11% equity share buyback.",
+      "enriched": true
+    },
+    {
       "id": "n355887961869",
       "ticker": "DIXON",
       "company": "Dixon Technologies (India) Limited",
@@ -15119,6 +15060,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Qualiance International shares debuted 77% above IPO price on NSE SME platform.",
+      "enriched": true
+    },
+    {
+      "id": "n8444b4e2b7e0",
+      "ticker": "QUALIANCE",
+      "company": "Qualiance International Limited",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Qualiance International SME IPO opens today: GMP signals 43% listing gain — Check key details - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/qualiance-international-sme-ipo-opens-today-gmp-signals-43-listing-gain-check-key-details/articleshow/133750779.cms?from=mdr",
+      "source": "m.economictimes.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Partnership",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Qualiance International SME IPO opens with strong grey market premium indicating investor interest.",
       "enriched": true
     },
     {
