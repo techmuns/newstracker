@@ -1,13 +1,52 @@
 {
-  "generated_at": "2026-10-07T09:16:55.198Z",
+  "generated_at": "2026-10-07T20:20:46.516Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 139,
-    "watchlist": 766,
+    "portfolio": 141,
+    "watchlist": 775,
     "universe": 45,
-    "total": 811
+    "total": 820
   },
   "items": [
+    {
+      "id": "n6a942d82d5e2",
+      "ticker": "MIDWESTLTD",
+      "company": "Midwest Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "DGMS Issues Prohibitory Order to Midwest Limited, Halting Mining Operations at Chimakurthy Unit",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Lb1hHdE9fdmVaNUZJU2Y0S2hmUHZINnhFanZXTV85NmlhOWdWMi1QZEtobm5fZXkxeXk3bEdlMGF5NzZselpqa3NYV190ZDR0dmd3OXU2aGtLOXVPLVdJ?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-10-07T16:53:17.000Z",
+      "topic": "Trouble",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "negative",
+      "takeaway": "Mining regulator halts Midwest's Chimakurthy operations with prohibitory order.",
+      "enriched": true
+    },
+    {
+      "id": "n57a8f540f896",
+      "ticker": "DIXON",
+      "company": "Dixon Technologies (India) Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Dixon Technologies enters joint venture with Gemtek to manufacture optical transceivers",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQTI5WU1WeVNTWjQzcmpja1J0Q0Y0Tm5XS2NJbXlWX1Y0Uk1jWlRnUFNkYUs0SWFLbW9MZTgyX1ZwR0otOEZfLUZzRE9EZlVENHRfR0xqenVTU1QwRnF1V0tIQlMyZkJvUlZ0bjBiMmFRMnZrdFFzWkpvUnRGcUo3Tjh2LTFXSHZJSFJ3ZXdTRnFKaWNIRXc4b2VURHU3b0JOUFl0WURSQmVMd05zUk5UWTJSb1haSXUtdXRIQkNSWl84dw?oc=5",
+      "source": "Business Upturn",
+      "date": "2026-10-07T09:52:31.000Z",
+      "topic": "Deals",
+      "keyword": "Joint Venture",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Dixon Technologies forms joint venture with Gemtek to make optical transceivers.",
+      "sources_count": 2,
+      "enriched": true
+    },
     {
       "id": "n716ceef960de",
       "ticker": "TECHNOCRAT",
@@ -63,7 +102,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Aurionpro wins ₹150 crore data centre order from a global hyperscaler client.",
-      "sources_count": 6,
+      "sources_count": 8,
       "enriched": true
     },
     {
@@ -278,7 +317,8 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "PVR Inox completed Rs 300 crore share buyback with 16 times oversubscription from investors.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n93b708a251dd",
@@ -13717,6 +13757,26 @@
       "enriched": true
     },
     {
+      "id": "n0b03ce67c7e2",
+      "ticker": "DIXON",
+      "company": "Dixon Technologies (India) Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Government clears Dixon (India)-Vivo (China) joint venture for manufacturing smartphones",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVEFvdFVXVkVGRDdvaWJRWWdLVzFjVmFNbFQzbnNVUHo2UkpORVViamhGbE5aVElqemtnRk53RGNrTkpZdzlCak1iR0FENjU2bnVQWHNtdHN6TDR4SGo3aHJpaWo0dzJBOWJNTkJIbklCX3ZqOTBReGxTNm95S2Q4QVZPWGpYajgwSWZlVHpkeFpRLTJBOXNaVlN5ajRTcldxNnlZWHZvbGhjNVE1R2xhRWdZUi1XUFlHYmp1X2NYVTNMRmw2VmR6MUFJdm5Ud2M3OUJGWUR3ZE_SAd8BQVVfeXFMTnVOUm5DQk9WODRWdGVEdjdNbUVqWjNpdXUxNHpwVUtpZm9Yd1N6REdiYUN4eEFpeDV3RzZIQlRrcE5VS19xU2ItdWNmbFdRd1VlU09abVNxeEFqUWxrc0lPX1JyYm1ncGNIeHA1LThrb01jamcwc3dwbG1oTWg2VTJVUGpJRGxCdzd3Sy15MlZzemxYdTdUSTFoaXlDeFpKZWNCdVdNVVNVYXpVUmJ2ZUtTWGtMQlQ3VG1FZC15TEZDUXZnN3lzdHpaWnRIT1g0T21WMkxHS1dtS3ZvSG9Taw?oc=5",
+      "source": "The Indian Express",
+      "date": "2026-07-10T07:00:00.000Z",
+      "topic": "Deals",
+      "keyword": "Joint Venture",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Government approved Dixon Technologies joint venture with Vivo China for smartphone manufacturing.",
+      "enriched": true,
+      "sources_count": 2
+    },
+    {
       "id": "n946f4c4b964a",
       "ticker": "LAXMIDENTL",
       "company": "Laxmi Dental Limited",
@@ -13813,26 +13873,6 @@
       "takeaway": "Sapphire Foods reported Q2 2026 revenue growth of 8.37% but posted a net loss of ₹0.99 per share.",
       "sources_count": 2,
       "enriched": true
-    },
-    {
-      "id": "n0b03ce67c7e2",
-      "ticker": "DIXON",
-      "company": "Dixon Technologies (India) Limited",
-      "sector": "Consumer Durables",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Government clears Dixon (India)-Vivo (China) joint venture for manufacturing smartphones",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVEFvdFVXVkVGRDdvaWJRWWdLVzFjVmFNbFQzbnNVUHo2UkpORVViamhGbE5aVElqemtnRk53RGNrTkpZdzlCak1iR0FENjU2bnVQWHNtdHN6TDR4SGo3aHJpaWo0dzJBOWJNTkJIbklCX3ZqOTBReGxTNm95S2Q4QVZPWGpYajgwSWZlVHpkeFpRLTJBOXNaVlN5ajRTcldxNnlZWHZvbGhjNVE1R2xhRWdZUi1XUFlHYmp1X2NYVTNMRmw2VmR6MUFJdm5Ud2M3OUJGWUR3ZE_SAd8BQVVfeXFMTnVOUm5DQk9WODRWdGVEdjdNbUVqWjNpdXUxNHpwVUtpZm9Yd1N6REdiYUN4eEFpeDV3RzZIQlRrcE5VS19xU2ItdWNmbFdRd1VlU09abVNxeEFqUWxrc0lPX1JyYm1ncGNIeHA1LThrb01jamcwc3dwbG1oTWg2VTJVUGpJRGxCdzd3Sy15MlZzemxYdTdUSTFoaXlDeFpKZWNCdVdNVVNVYXpVUmJ2ZUtTWGtMQlQ3VG1FZC15TEZDUXZnN3lzdHpaWnRIT1g0T21WMkxHS1dtS3ZvSG9Taw?oc=5",
-      "source": "The Indian Express",
-      "date": "2026-07-10T07:00:00.000Z",
-      "topic": "Deals",
-      "keyword": "Joint Venture",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Government approved Dixon Technologies joint venture with Vivo China for smartphone manufacturing.",
-      "enriched": true,
-      "sources_count": 2
     },
     {
       "id": "n74e69575a12c",
@@ -14968,6 +15008,25 @@
       "enriched": true
     },
     {
+      "id": "n99bcce64b885",
+      "ticker": "DIXON",
+      "company": "Dixon Technologies (India) Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Strategic JV Alert! This Tech Manufacturer Expands Into Optical Connectivity",
+      "url": "https://insights.dsij.in/dsijarticledetail/strategic-jv-alert-this-tech-manufacturer-expands-into-optical-connectivity-id022",
+      "source": "insights.dsij.in",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Joint Venture",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Dixon Technologies forms joint venture to expand into optical connectivity business.",
+      "enriched": true
+    },
+    {
       "id": "nb24ec98e92f1",
       "ticker": "KKJEWELS",
       "company": "Kabra Jewels Limited",
@@ -15124,6 +15183,26 @@
       "enriched": true
     },
     {
+      "id": "n22c980504bd4",
+      "ticker": "TANFACIND",
+      "company": "TANFAC Industries Ltd",
+      "sector": "Chemicals",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Anupam Rasayan: Completes ₹60.88 Crore Equity Share Acquisition in Tanfac | InvestyWise",
+      "url": "https://www.investywise.com/anupam-rasayan-india-ltd-acquisition-of-equity-shares-in-tanfac-industries/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Preferential Issue",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Anupam Rasayan completes ₹60.88 crore equity acquisition in Tanfac Industries.",
+      "enriched": true
+    },
+    {
       "id": "n8da0990653e5",
       "ticker": "KANOHAR",
       "company": "Kanohar Electricals Limited",
@@ -15220,23 +15299,42 @@
       "enriched": true
     },
     {
-      "id": "n8f03f4fa38ae",
+      "id": "ndbac1d406588",
       "ticker": "MSECL",
       "company": "Monarch Surveyors and Engineering Consultants Ltd",
       "sector": "Services",
       "scope": [
         "watchlist"
       ],
-      "title": "Monarch Surveyors and Engineering gains on bagging Rs 2-cr work order | Capital Market News - Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/monarch-surveyors-and-engineering-gains-on-bagging-rs-2-cr-work-order-126082400282_1.html",
+      "title": "Monarch Surveyors and Engineering Consultants receives Rs 2-cr work order | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/amp/markets/capital-market-news/monarch-surveyors-and-engineering-consultants-receives-rs-2-cr-work-order-126082200734_1.html",
       "source": "business-standard.com",
       "date": "",
       "topic": "Orders",
       "keyword": "Order",
       "importance": "low",
       "mood": "positive",
-      "takeaway": "Monarch Surveyors wins Rs 2 crore work order.",
+      "takeaway": "Monarch Surveyors received a Rs 2 crore work order.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n3b97c62384cf",
+      "ticker": "EMAPARTNER",
+      "company": "EMA Partners India Limited",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Recruitment Process Outsourcing Market Strengthens as ₹95 Crore Taggd Acquisition Accelerates AI-Powered Talent Solutions",
+      "url": "https://www.openpr.com/news/4654048/recruitment-process-outsourcing-market-strengthens-as-95",
+      "source": "openpr.com",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "EMA Partners' Taggd acquires recruitment firm for ₹95 crore to expand AI-powered talent solutions.",
       "enriched": true
     },
     {
@@ -15334,6 +15432,44 @@
       "takeaway": "Current Infraprojects secured a Rs 44.76 crore solar project order.",
       "enriched": true,
       "sources_count": 2
+    },
+    {
+      "id": "n867dba4eea0d",
+      "ticker": "SKYGOLD",
+      "company": "SKY GOLD AND DIAMONDS LIMITED",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Sky Gold & Diamonds To Acquire Purvi Gems In Strategic Move To Drive Growth, Achieve Scale and Product Diversification - JewelBuzz Magazine",
+      "url": "https://jewelbuzz.in/sky-gold-diamonds-to-acquire-purvi-gems-in-strategic-move-to-drive-growth-achieve-scale-and-product-diversification/",
+      "source": "jewelbuzz.in",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Sky Gold acquires Purvi Gems to expand into studded jewelry products and drive growth.",
+      "enriched": true
+    },
+    {
+      "id": "nd4af95d83579",
+      "ticker": "SKYGOLD",
+      "company": "SKY GOLD AND DIAMONDS LIMITED",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Acquisition Alert! Jewellery Company Expands Into Studded Products",
+      "url": "https://insights.dsij.in/dsijarticledetail/acquisition-alert-jewellery-company-expands-into-studded-products-id022",
+      "source": "insights.dsij.in",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Sky Gold acquires jewelry company to expand into studded products segment.",
+      "enriched": true
     },
     {
       "id": "n486c7647dbb9",
@@ -15466,6 +15602,25 @@
       "importance": "medium",
       "mood": "negative",
       "takeaway": "Austere Systems received SEBI warning for delayed disclosure of NCLAT order.",
+      "enriched": true
+    },
+    {
+      "id": "n890b2821b3fd",
+      "ticker": "YASHO",
+      "company": "Yasho Industries Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Yasho Industries to host Q1 and FY27 earnings call on Aug 3",
+      "url": "https://scanx.trade/stock-market-news/companies/yasho-industries-q1-results-earnings-call-scheduled-for-aug-3/46777170",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Yasho Industries will discuss Q1 and full-year FY27 results in an earnings call on August 3.",
       "enriched": true
     },
     {
@@ -15758,6 +15913,27 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Shree Refrigerations scheduled its 20th Annual General Meeting for August 31 with e-voting facility.",
+      "enriched": true
+    },
+    {
+      "id": "n12ca6e78dd4f",
+      "ticker": "TANFACIND",
+      "company": "TANFAC Industries Ltd",
+      "sector": "Chemicals",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "TANFAC Industries Receives BSE Listing Approval for 4.24 Lakh Preferential Shares | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/chemicals/TANFAC-Industries-Receives-BSE-Listing-Approval-for-424-Lakh-Preferential-Shares/6ac501fa61666c732ba5f26d",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "TANFAC receives BSE approval to list 4.24 lakh preferential shares.",
+      "sources_count": 2,
       "enriched": true
     }
   ]

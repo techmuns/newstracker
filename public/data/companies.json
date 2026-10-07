@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T19:46:40.520Z",
+  "generated_at": "2026-10-07T20:06:52.237Z",
   "portfolio": [
     {
       "company": "Monolithisch India Limited",
@@ -57,11 +57,6 @@
       "sector": "Consumer Services"
     },
     {
-      "company": "Apsis Aerocom Limited",
-      "ticker": "APSISAERO",
-      "sector": "Capital Goods"
-    },
-    {
       "company": "Saregama India Limited",
       "ticker": "SAREGAMA",
       "sector": "Media Entertainment & Publication"
@@ -72,24 +67,9 @@
       "sector": "Chemicals"
     },
     {
-      "company": "Venus Remedies Limited",
-      "ticker": "VENUSREM",
-      "sector": "Healthcare"
-    },
-    {
       "company": "Omnitech Engineering Limited",
       "ticker": "OMNI",
       "sector": "Capital Goods"
-    },
-    {
-      "company": "Tempsens Instruments (India) Limited",
-      "ticker": "TEMPSENS",
-      "sector": "Capital Goods"
-    },
-    {
-      "company": "Epigral Limited",
-      "ticker": "EPIGRAL",
-      "sector": "Chemicals"
     },
     {
       "company": "Orient Cables (India) Limited",
@@ -121,6 +101,11 @@
     {
       "company": "Anawil Wire and Engineering Limited",
       "ticker": "ANAWIL",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "Apsis Aerocom Limited",
+      "ticker": "APSISAERO",
       "sector": "Capital Goods"
     },
     {
@@ -217,6 +202,11 @@
       "company": "EMA Partners India Limited",
       "ticker": "EMAPARTNER",
       "sector": "Services"
+    },
+    {
+      "company": "Epigral Limited",
+      "ticker": "EPIGRAL",
+      "sector": "Chemicals"
     },
     {
       "company": "ESDS Software Solution Limited",
@@ -504,6 +494,11 @@
       "sector": "Capital Goods"
     },
     {
+      "company": "Tempsens Instruments (India) Limited",
+      "ticker": "TEMPSENS",
+      "sector": "Capital Goods"
+    },
+    {
       "company": "Tenneco Clean Air India Limited",
       "ticker": "TENNIND",
       "sector": "Automobile and Auto Components"
@@ -527,6 +522,11 @@
       "company": "Varun Beverages Limited",
       "ticker": "VBL",
       "sector": "Fast Moving Consumer Goods"
+    },
+    {
+      "company": "Venus Remedies Limited",
+      "ticker": "VENUSREM",
+      "sector": "Healthcare"
     },
     {
       "company": "Virtuoso Optoelectronics Limited",
