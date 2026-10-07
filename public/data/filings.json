@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T19:55:44.434Z",
+  "generated_at": "2026-10-07T09:26:35.949Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,56 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "fa94d1a49fcf0",
+      "ticker": "GROWW",
+      "company": "Billionbrains Garage Ventures Limited",
+      "exchange": "NSE",
+      "date": "2026-10-07T14:41:45.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Billionbrains Garage Ventures Limited has informed the Exchange about Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_07102026144114_Reg74_5__SD.pdf"
+    },
+    {
+      "id": "f6d8533c1d993",
+      "ticker": "SKYGOLD",
+      "company": "SKY GOLD AND DIAMONDS LIMITED",
+      "exchange": "NSE",
+      "date": "2026-10-07T13:10:57.000Z",
+      "category": "Press Release",
+      "title": "We hereby enclose herewith the Press Release titled Sky Gold & Diamonds to Acquire Purvi Gems in Strategic Move to Drive Growth, Achieve Scale and Product Diversification",
+      "url": "https://nsearchives.nseindia.com/corporate/SKYGOLD_07102026131040_PR.pdf"
+    },
+    {
+      "id": "f521078b1abd8",
+      "ticker": "LGEINDIA",
+      "company": "LG Electronics India Limited",
+      "exchange": "NSE",
+      "date": "2026-10-07T12:33:47.000Z",
+      "category": "Press Release",
+      "title": "LG Electronics India Limited has informed the Exchange regarding a press release dated October 07, 2026, titled \"LG Electronics India Announces \"Celebration of Trust\" Diwali Offers on Home Appliances and Consumer Electronics\"\".",
+      "url": "https://nsearchives.nseindia.com/corporate/LGEINDIA_07102026123209_Press_Release_dated_7th_October_2026.pdf"
+    },
+    {
+      "id": "fca1181781be2",
+      "ticker": "CONCORDBIO",
+      "company": "Concord Biotech Limited",
+      "exchange": "NSE",
+      "date": "2026-10-07T11:01:02.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Concord Biotech Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/CONCORD_07102026110046_DisclosuresReg745CBL.pdf"
+    },
+    {
+      "id": "f6b8208400129",
+      "ticker": "HTEL",
+      "company": "Hy-Tech Engineers Limited",
+      "exchange": "NSE",
+      "date": "2026-10-07T09:55:36.000Z",
+      "category": "Disclosure",
+      "title": "Hy-Tech Engineers Limited has informed the Exchange regarding 'Revised disclosure under SEBI (Prohibition of Insider Trading) Regulations, 2015.'.",
+      "url": "https://nsearchives.nseindia.com/corporate/HYTECH_07102026095519_Revised.pdf"
+    },
     {
       "id": "f51c1e86abba1",
       "ticker": "TENNIND",
@@ -296,6 +346,16 @@
       "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
       "title": "SG Mart Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
       "url": "https://nsearchives.nseindia.com/corporate/SGMART_05102026175226_RTAComplianceCertificate30092026.pdf"
+    },
+    {
+      "id": "f10bbe47684b3",
+      "ticker": "ORIENTCABL",
+      "company": "Orient Cables (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-10-05T17:10:50.000Z",
+      "category": "Trading Window",
+      "title": "Orient Cables (India) Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/ORIENTCABLES_05102026170843_Trading_window_closure.pdf"
     },
     {
       "id": "fbecf32db503b",
@@ -19946,66 +20006,6 @@
       "category": "Investor Presentation",
       "title": "Billionbrains Garage Ventures Limited has informed the Exchange about Transcript",
       "url": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_17072026171936_EC_Trans_SD.pdf"
-    },
-    {
-      "id": "fb49fc1a5a58b",
-      "ticker": "SETL",
-      "company": "Standard Engineering Technology Limited",
-      "exchange": "NSE",
-      "date": "2026-07-17T16:36:26.000Z",
-      "category": "Shareholders meeting",
-      "title": "Standard Engineering Technology Limited has informed the Exchange regarding Notice of Extraordinary General Meeting to be held on August 10, 2026 at 11.00 AM (IST) through Video Conferencing ( VC ) / Other Audio-Visual Means ( OAVM )",
-      "url": "https://nsearchives.nseindia.com/corporate/SGLTPL_17072026163617_SETL_EGM_Intimation.pdf"
-    },
-    {
-      "id": "fc58523001b9b",
-      "ticker": "MENONBE",
-      "company": "Menon Bearings Limited",
-      "exchange": "NSE",
-      "date": "2026-07-17T16:27:48.000Z",
-      "category": "Newspaper Publication",
-      "title": "Menon Bearings Limited has informed the Exchange about Copy of Newspaper Publication",
-      "url": "https://nsearchives.nseindia.com/corporate/MENONBE_17072026162706_FILING_Intimation_of_Newspaper_Submission_47_SIGNED.pdf"
-    },
-    {
-      "id": "fbb3ae72bae9e",
-      "ticker": "AVANTEL",
-      "company": "Avantel Limited",
-      "exchange": "NSE",
-      "date": "2026-07-17T12:59:59.000Z",
-      "category": "Disclosure",
-      "title": "Announcement Under Regulation 30 - Letters Sent To Shareholders whose e-mail addresses are not registered with the Company",
-      "url": "https://nsearchives.nseindia.com/corporate/AVANTEL_17072026125836_IntimationLetter.pdf"
-    },
-    {
-      "id": "fa0b139696e52",
-      "ticker": "MENONBE",
-      "company": "Menon Bearings Limited",
-      "exchange": "NSE",
-      "date": "2026-07-16T23:23:30.000Z",
-      "category": "Investor Presentation",
-      "title": "Menon Bearings Limited has informed the Exchange about Investor Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/MENONBE_16072026232244_Filing_IVNP.pdf"
-    },
-    {
-      "id": "fe9074c5afc69",
-      "ticker": "SPUNWEB",
-      "company": "Spunweb Nonwoven Limited",
-      "exchange": "NSE",
-      "date": "2026-07-16T19:47:23.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Spunweb Nonwoven Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/SPUNWEB_16072026194706_RTACertificateJune2026.pdf"
-    },
-    {
-      "id": "f57b5823a08ec",
-      "ticker": "AVANTEL",
-      "company": "Avantel Limited",
-      "exchange": "NSE",
-      "date": "2026-07-16T19:30:22.000Z",
-      "category": "Shareholders meeting",
-      "title": "Avantel Limited has informed the Exchange regarding Notice of Postal Ballot",
-      "url": "https://nsearchives.nseindia.com/corporate/AVANTEL_16072026192914_PostalBallotIntimation16072026.pdf"
     }
   ]
 }
