@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T09:26:35.949Z",
+  "generated_at": "2026-10-07T20:16:47.917Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,226 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f0e43c2fa3755",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-10-07T23:47:04.000Z",
+      "category": "ESOP/ESOS/ESPS",
+      "title": "Zen Technologies Limited has informed the Exchange regarding Exercise of 2000 Options.",
+      "url": "https://nsearchives.nseindia.com/corporate/ZENTEC_07102026234544_SEIntimationEsop_2000_Shares_Signed.pdf"
+    },
+    {
+      "id": "fc0ceea857655",
+      "ticker": "RPSGVENT",
+      "company": "RPSG VENTURES LIMITED",
+      "exchange": "NSE",
+      "date": "2026-10-07T22:29:53.000Z",
+      "category": "Rumour Verification - Regulation 30(11)",
+      "title": "RPSG VENTURES LIMITED has informed the Exchange about Rumour Verification - Regulation 30(11)",
+      "url": "https://nsearchives.nseindia.com/corporate/RPSGVENT_07102026222926_RVL_Stock_Exchange_Clarification.pdf"
+    },
+    {
+      "id": "f359f1c130aa1",
+      "ticker": "KANOHAR",
+      "company": "Kanohar Electricals Limited",
+      "exchange": "NSE",
+      "date": "2026-10-07T22:25:07.000Z",
+      "category": "Disclosure",
+      "title": "Kanohar Electricals Limited has informed the Exchange regarding 'Intimation of updated contact details of Key Managerial Personnel authorised under Regulation 30(5) of SEBI LODR'.",
+      "url": "https://nsearchives.nseindia.com/corporate/KANOHARNSE2026_07102026222320_Intimation_under_30_5_-updated_contacts.pdf"
+    },
+    {
+      "id": "f8e2210d12dfc",
+      "ticker": "SETL",
+      "company": "Standard Engineering Technology Limited",
+      "exchange": "NSE",
+      "date": "2026-10-07T21:36:26.000Z",
+      "category": "Disclosure",
+      "title": "Standard Engineering Technology Limited has informed the Exchange about Clarification sought by the NSE",
+      "url": "https://nsearchives.nseindia.com/corporate/SGLTPL_07102026213554_SETL_Clarification_NSE_Reg30_07Oct2026.pdf"
+    },
+    {
+      "id": "fe2e6539dd142",
+      "ticker": "HTEL",
+      "company": "Hy-Tech Engineers Limited",
+      "exchange": "NSE",
+      "date": "2026-10-07T20:10:57.000Z",
+      "category": "Disclosure",
+      "title": "Hy-Tech Engineers Limited has informed the Exchange about incorporation of Wholly Owned Subsidiary- HY-TECH ENGINEERS Inc",
+      "url": "https://nsearchives.nseindia.com/corporate/HYTECH_07102026201042_Incorporation_intimation.pdf"
+    },
+    {
+      "id": "f320b7864e9bb",
+      "ticker": "SBIFUNDS",
+      "company": "SBI Funds Management Limited",
+      "exchange": "NSE",
+      "date": "2026-10-07T19:12:49.000Z",
+      "category": "Change in Directors",
+      "title": "SBI Funds Management Limited has informed the Exchange regarding Appointment of Mr Dhruva Agarwal as Senior Management Personnel of the company w.e.f. October 07, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/SBIMF2026_07102026191002_Appointment_of_SMP_final.pdf"
+    },
+    {
+      "id": "fb24205707043",
+      "ticker": "SKYGOLD",
+      "company": "SKY GOLD AND DIAMONDS LIMITED",
+      "exchange": "NSE",
+      "date": "2026-10-07T18:11:35.000Z",
+      "category": "Acquisition",
+      "title": "We wish to inform you that the company has completed 100% acquisition of M/s. Purvi Gems & Jewellery (India) Private Limited on 7th October 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/SKYGOLD_07102026181115_IntimationAcq.pdf"
+    },
+    {
+      "id": "f3f89b6d07124",
+      "ticker": "VAML",
+      "company": "Vedanta Aluminium Metal Limited",
+      "exchange": "NSE",
+      "date": "2026-10-07T17:52:59.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Vedanta Aluminium Metal Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/VAML_07102026175200_VAMLSEIntimationReg74_5_Q2FY27signed.pdf"
+    },
+    {
+      "id": "f1715bbeaaa15",
+      "ticker": "GANESHBE",
+      "company": "Ganesh Benzoplast Limited",
+      "exchange": "NSE",
+      "date": "2026-10-07T17:47:47.000Z",
+      "category": "Investor Presentation",
+      "title": "Ganesh Benzoplast Limited has informed the Exchange about Link of Recording",
+      "url": "https://nsearchives.nseindia.com/corporate/GANESHBE_07102026174703_covering_letter_CONCALL_AUDIO.pdf"
+    },
+    {
+      "id": "f0e1f87559d68",
+      "ticker": "PDSL",
+      "company": "PDS Limited",
+      "exchange": "NSE",
+      "date": "2026-10-07T17:37:41.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "PDS Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/PDSL_07102026173731_Ltr_Reg74_5_07102026.pdf"
+    },
+    {
+      "id": "f92d8b2df4e8a",
+      "ticker": "SUDEEPPHRM",
+      "company": "Sudeep Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-10-07T17:27:54.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Sudeep Pharma Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/SUDEEPPHARMALIMITED_07102026172733_Submission_of_Certificate_under_Regulation_74_5__of_SEBI.pdf"
+    },
+    {
+      "id": "f448f3f290d5b",
+      "ticker": "CANFINHOME",
+      "company": "Can Fin Homes Limited",
+      "exchange": "NSE",
+      "date": "2026-10-07T16:58:45.000Z",
+      "category": "Investor Presentation",
+      "title": "Can Fin Homes Limited has informed the Exchange about Schedule of meet- Earnings Conference Call (Group Call) has been arranged by M/s Investec Capital Services (India) Private Ltd on Monday, October 12, 2026 at 03:00 PM IST for discussion on Q2 FY27 Un-Audited Financial Results. For more details please refer the attachment.",
+      "url": "https://nsearchives.nseindia.com/corporate/CANFINHOME_07102026165809_Earnings_Call_Intimation_Q2_FY27.pdf"
+    },
+    {
+      "id": "ff1f5430b6f03",
+      "ticker": "SONATSOFTW",
+      "company": "Sonata Software Limited",
+      "exchange": "NSE",
+      "date": "2026-10-07T16:44:40.000Z",
+      "category": "Disclosure",
+      "title": "Sonata Software Limited has informed the Exchange regarding ' SonataSoftware Achieves the 2026 2027 Microsoft AI Business Solutions Inner Circle Award '.",
+      "url": "https://nsearchives.nseindia.com/corporate/SONATSOFTW_07102026164428_pressrelease07102026.pdf"
+    },
+    {
+      "id": "fb16f12b0c76b",
+      "ticker": "GROWW",
+      "company": "Billionbrains Garage Ventures Limited",
+      "exchange": "NSE",
+      "date": "2026-10-07T16:40:43.000Z",
+      "category": "Investor Presentation",
+      "title": "Billionbrains Garage Ventures Limited has informed the Exchange about Schedule of meet for Q2FY27.",
+      "url": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_07102026163914_EarningCall_inti_SD.pdf"
+    },
+    {
+      "id": "f19d18338d300",
+      "ticker": "KANOHAR",
+      "company": "Kanohar Electricals Limited",
+      "exchange": "NSE",
+      "date": "2026-10-07T16:29:52.000Z",
+      "category": "Investor Presentation",
+      "title": "Kanohar Electricals Limited has informed the Exchange about Link of Recording",
+      "url": "https://nsearchives.nseindia.com/corporate/KANOHARNSE2026_07102026162612_Intimation-audio_recording.pdf"
+    },
+    {
+      "id": "f22fad987ba89",
+      "ticker": "CANFINHOME",
+      "company": "Can Fin Homes Limited",
+      "exchange": "NSE",
+      "date": "2026-10-07T16:23:11.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Can Fin Homes Limited has informed the Exchange about Certificate from RTA under Reg 74(5) of SEBI (Depositories and Participants) Regulations, 2018 for the Quarter ended 30/09/2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/CANFINHOME_07102026162223_Reg_74_5__RTA_Certificate_Q2_30_09_2026.pdf"
+    },
+    {
+      "id": "fa1126328ba39",
+      "ticker": "KANOHAR",
+      "company": "Kanohar Electricals Limited",
+      "exchange": "NSE",
+      "date": "2026-10-07T16:08:20.000Z",
+      "category": "Newspaper Publication",
+      "title": "Kanohar Electricals Limited has informed the Exchange about Copy of Newspaper Publication",
+      "url": "https://nsearchives.nseindia.com/corporate/KANOHARNSE2026_07102026160735_Intimation-newspaper_publications.pdf"
+    },
+    {
+      "id": "fa1092ca72889",
+      "ticker": "MIDWESTLTD",
+      "company": "Midwest Limited",
+      "exchange": "NSE",
+      "date": "2026-10-07T15:58:21.000Z",
+      "category": "Disruption of Operations",
+      "title": "Midwest Limited has informed the Exchange about Disruption of Operations",
+      "url": "https://nsearchives.nseindia.com/corporate/MIDWEST_07102026155808_Cover.pdf"
+    },
+    {
+      "id": "f8782e87402a9",
+      "ticker": "VBL",
+      "company": "Varun Beverages Limited",
+      "exchange": "NSE",
+      "date": "2026-10-07T15:50:19.000Z",
+      "category": "Disclosure",
+      "title": "Investment and Borrowing Committee of the Board of Directors at its meeting held today approved to invest upto 26% of Equity Share Capital of Jager Renewables Private Limited (a special purpose vehicle inter-alia engaged to generate & supply solar power to consumers in the state of Uttar Pradesh) for a consideration of upto Rs. 4.10 Crore to obtain solar power for captive consumption as per details in enclosed intimation.",
+      "url": "https://nsearchives.nseindia.com/corporate/VBL_07102026154901_OutcomeIBC.pdf"
+    },
+    {
+      "id": "f3e79edc3c6dd",
+      "ticker": "URBANCO",
+      "company": "Urban Company Limited",
+      "exchange": "NSE",
+      "date": "2026-10-07T15:48:16.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Urban Company Limited has informed the Exchange about Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations,2018 for the quarter ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_07102026154614_Reg_74_5__Sep302026.pdf"
+    },
+    {
+      "id": "f1c3d776514b8",
+      "ticker": "DIXON",
+      "company": "Dixon Technologies (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-10-07T15:01:51.000Z",
+      "category": "Agreements",
+      "title": "Dixon Technologies (India) Limited has informed the Exchange about Joint Venture Agreement executed between Dixon Technologies (India) Limited, Dixon Electroconnect Private Limited and Gemtek Technology Co., Ltd",
+      "url": "https://nsearchives.nseindia.com/corporate/DIXON_07102026150006_Regulation30_DisclosureGemtek07102026.pdf"
+    },
+    {
+      "id": "f7aca4c21bffd",
+      "ticker": "MIDWESTLTD",
+      "company": "Midwest Limited",
+      "exchange": "NSE",
+      "date": "2026-10-07T14:59:34.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Midwest Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/MIDWEST_07102026145925_Cover.pdf"
+    },
     {
       "id": "fa94d1a49fcf0",
       "ticker": "GROWW",
@@ -3356,6 +3576,16 @@
       "category": "Shareholders meeting",
       "title": "One Mobikwik Systems Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 22, 2026. Further, the company has submitted the Exchange a copy of Srutinizers report along with voting results.",
       "url": "https://nsearchives.nseindia.com/corporate/MOBIKWIK_22092026144545_Outcome_of_AGM_with_Proceedings.pdf"
+    },
+    {
+      "id": "f22c38dfdb651",
+      "ticker": "AVANTEL",
+      "company": "Avantel Limited",
+      "exchange": "NSE",
+      "date": "2026-09-22T14:44:44.000Z",
+      "category": "Shareholders meeting",
+      "title": "Avantel Limited has informed the Exchange regarding Notice of Postal Ballot",
+      "url": "https://nsearchives.nseindia.com/corporate/AVANTEL_22092026144400_PBIntimation22092026.pdf"
     },
     {
       "id": "f2ea5fd62b6fb",
@@ -19776,236 +20006,6 @@
       "category": "Investor Presentation",
       "title": "SG Mart Limited has informed the Exchange about Investor Presentation",
       "url": "https://nsearchives.nseindia.com/corporate/SGMART_20072026144417_Investor_Presentation_and_press_release_20_07_2026.pdf"
-    },
-    {
-      "id": "f58db2e4f70b7",
-      "ticker": "SGMART",
-      "company": "SG Mart Limited",
-      "exchange": "NSE",
-      "date": "2026-07-20T14:44:29.000Z",
-      "category": "Press Release",
-      "title": "SG Mart Limited has informed the Exchange regarding a press release dated July 20, 2026, titled \"Q1FY27 Result Highlights\".",
-      "url": "https://nsearchives.nseindia.com/corporate/SGMART_20072026144403_Investor_Presentation_and_press_release_20_07_2026.pdf"
-    },
-    {
-      "id": "f47fa68a567b5",
-      "ticker": "SGMART",
-      "company": "SG Mart Limited",
-      "exchange": "NSE",
-      "date": "2026-07-20T14:40:39.000Z",
-      "category": "Acquisition",
-      "title": "SG Mart Limited has informed the Exchange about Acquisition",
-      "url": "https://nsearchives.nseindia.com/corporate/SGMART_20072026144026_Outcome_of_Board_Meeting_20_07_2026.pdf"
-    },
-    {
-      "id": "fa439a618f02c",
-      "ticker": "SGMART",
-      "company": "SG Mart Limited",
-      "exchange": "NSE",
-      "date": "2026-07-20T14:27:08.000Z",
-      "category": "Change in Directors",
-      "title": "SG Mart Limited has informed the Exchange regarding Appointment of Mr Sanjay Gupta as Chairman & Managing Director of the company w.e.f. July 20, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/SGMART_20072026142123_Outcome_of_Board_Meeting_20_07_2026.pdf"
-    },
-    {
-      "id": "f84958a6ecb4f",
-      "ticker": "SGMART",
-      "company": "SG Mart Limited",
-      "exchange": "NSE",
-      "date": "2026-07-20T14:27:08.000Z",
-      "category": "Change in Directors",
-      "title": "SG Mart Limited has informed the Exchange regarding Appointment of Ms Shruti Shrivastava as Non- Executive Independent Director of the company w.e.f. July 20, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/SGMART_20072026142656_Outcome_of_Board_Meeting_20_07_2026.pdf"
-    },
-    {
-      "id": "f49efb2f2ae26",
-      "ticker": "SGMART",
-      "company": "SG Mart Limited",
-      "exchange": "NSE",
-      "date": "2026-07-20T14:27:08.000Z",
-      "category": "Change in Directors",
-      "title": "SG Mart Limited has informed the Exchange regarding Appointment of Mr Chakram Kumar Singh as Non- Executive Director of the company w.e.f. July 20, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/SGMART_20072026142640_Outcome_of_Board_Meeting_20_07_2026.pdf"
-    },
-    {
-      "id": "f8b5aceb6b1ce",
-      "ticker": "SGMART",
-      "company": "SG Mart Limited",
-      "exchange": "NSE",
-      "date": "2026-07-20T14:27:08.000Z",
-      "category": "Change in Directors",
-      "title": "SG Mart Limited has informed the Exchange regarding Appointment of Mr Rohan Gupta as Executive Director of the company w.e.f. July 20, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/SGMART_20072026142634_Outcome_of_Board_Meeting_20_07_2026.pdf"
-    },
-    {
-      "id": "f2fa2cd7a1dc5",
-      "ticker": "SGMART",
-      "company": "SG Mart Limited",
-      "exchange": "NSE",
-      "date": "2026-07-20T14:16:16.000Z",
-      "category": "Board Meeting",
-      "title": "SG Mart Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/SGMART_20072026141516_Outcome_of_Board_Meeting_20_07_2026.pdf"
-    },
-    {
-      "id": "f96ce514eba32",
-      "ticker": "CANFINHOME",
-      "company": "Can Fin Homes Limited",
-      "exchange": "NSE",
-      "date": "2026-07-20T13:14:24.000Z",
-      "category": "Investor Presentation",
-      "title": "Can Fin Homes Limited has informed the Exchange about Investor Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/CANFINHOME_20072026131407_Revised_Intimation_Investor_presentation_30_06_2026.pdf"
-    },
-    {
-      "id": "fcf6d0a5c0d2a",
-      "ticker": "VBL",
-      "company": "Varun Beverages Limited",
-      "exchange": "NSE",
-      "date": "2026-07-20T13:00:05.000Z",
-      "category": "Change in Directors",
-      "title": "Appointment of Senior Management Personnel of the Company as per enclosed intimation.",
-      "url": "https://nsearchives.nseindia.com/corporate/VBL_20072026125858_OutcomeSMP.pdf"
-    },
-    {
-      "id": "fc9ec74e096ee",
-      "ticker": "HILINFRA",
-      "company": "Highway Infrastructure Limited",
-      "exchange": "NSE",
-      "date": "2026-07-20T12:14:02.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Highway Infrastructure Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/HIGHWAY123_20072026121340_Reconcilliation_Certificate_30062026_HIL.pdf"
-    },
-    {
-      "id": "f55cc0caa4950",
-      "ticker": "ACUTAAS",
-      "company": "Acutaas Chemicals Limited",
-      "exchange": "NSE",
-      "date": "2026-07-20T11:47:02.000Z",
-      "category": "Investor Presentation",
-      "title": "Acutaas Chemicals Limited has informed the Exchange about Schedule of meet scheduled on July 24, 2026 at 04.00 P.M. (IST)",
-      "url": "https://nsearchives.nseindia.com/corporate/AMIORG_20072026114240_Intimationcall30062026Signed.pdf"
-    },
-    {
-      "id": "ff0cbfedbcb8f",
-      "ticker": "SPUNWEB",
-      "company": "Spunweb Nonwoven Limited",
-      "exchange": "NSE",
-      "date": "2026-07-19T10:52:01.000Z",
-      "category": "Disclosure",
-      "title": "Spunweb Nonwoven Limited has informed the Exchange about General Updates",
-      "url": "https://nsearchives.nseindia.com/corporate/SPUNWEB_19072026105113_participatedinevent.pdf"
-    },
-    {
-      "id": "f52d5140c834c",
-      "ticker": "CANFINHOME",
-      "company": "Can Fin Homes Limited",
-      "exchange": "NSE",
-      "date": "2026-07-18T19:44:26.000Z",
-      "category": "Press Release",
-      "title": "Can Fin Homes Limited has informed the Exchange regarding a press release dated July 18, 2026, titled \"Can Fin Homes Limited has informed the Exchange regarding a press release dated July 18, 2026, titled \"UN-AUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED 30.06.2026\".",
-      "url": "https://nsearchives.nseindia.com/corporate/CANFINHOME_18072026194419_SE_Intimation_press_release_Q1FY27.pdf"
-    },
-    {
-      "id": "f9fc2569b95be",
-      "ticker": "CANFINHOME",
-      "company": "Can Fin Homes Limited",
-      "exchange": "NSE",
-      "date": "2026-07-18T18:50:03.000Z",
-      "category": "Board Meeting",
-      "title": "Can Fin Homes Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/CANFINHOME_18072026184431_SE_Intimation_Outcome_of_Q1_FY27.pdf"
-    },
-    {
-      "id": "f9822af408bee",
-      "ticker": "WOCKPHARMA",
-      "company": "Wockhardt Limited",
-      "exchange": "NSE",
-      "date": "2026-07-18T18:40:56.000Z",
-      "category": "Newspaper Publication",
-      "title": "Pursuant to Regulation 30 read with Schedule III (Part A Para A) and other applicable regulations of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, please find enclosed the copies of Newspaper extracts of public notice regarding the 27th Annual General Meeting (the AGM ) of the Company, Completion of dispatch of Notice of AGM and Annual Report for FY 2026 and Information about remote e-voting and e-voting facility and e-voting facility at AGM provided to the Members.",
-      "url": "https://nsearchives.nseindia.com/corporate/WOCKPHARMA_18072026183909_Newspaperintimationsigned.pdf"
-    },
-    {
-      "id": "fd861bf09c6da",
-      "ticker": "STYLAMIND",
-      "company": "Stylam Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-07-18T17:32:21.000Z",
-      "category": "Investor Presentation",
-      "title": "Stylam Industries Limited has informed the Exchange about Schedule of Investors meet",
-      "url": "https://nsearchives.nseindia.com/corporate/STYLAMIND_18072026173213_Investor_Meet_Intimation.pdf"
-    },
-    {
-      "id": "f6ade11ef62ba",
-      "ticker": "VENUSREM",
-      "company": "Venus Remedies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-18T17:27:59.000Z",
-      "category": "Disclosure",
-      "title": "Venus Remedies Limited has informed the Exchange regarding 'Social Media Post on KYC updation'.",
-      "url": "https://nsearchives.nseindia.com/corporate/VENUSREM_18072026172743_social_media_KYC_july_2026.pdf"
-    },
-    {
-      "id": "f205c63b6665f",
-      "ticker": "SBCL",
-      "company": "Shivalik Bimetal Controls Limited",
-      "exchange": "NSE",
-      "date": "2026-07-18T14:11:14.000Z",
-      "category": "Newspaper Publication",
-      "title": "Shivalik Bimetal Controls Limited has informed the Exchange about Copy of Newspaper Publication - Transfer of shares into Investor Education and Protection Fund and Special Window for re-lodgement of Transfer and dematerialisation of physical shares",
-      "url": "https://nsearchives.nseindia.com/corporate/SBCL_18072026141029_NSEBSE_18072026__1_.pdf"
-    },
-    {
-      "id": "f573d1e12656c",
-      "ticker": "WOCKPHARMA",
-      "company": "Wockhardt Limited",
-      "exchange": "NSE",
-      "date": "2026-07-17T20:24:31.000Z",
-      "category": "Shareholders meeting",
-      "title": "The 27th Annual General Meeting ( 27th AGM ) of the Members of Wockhardt Limited will be held on Monday, 10th August, 2026 at 3:30 p.m. (IST), through Video Conferencing ( VC )/ Other Audio Visual Means ( OAVM ). Pursuant to Regulations 29, 30 and 34(1) of the SEBI Listing Regulations, we submit herewith the Notice convening the 27th AGM and the Annual Report for the Financial Year 2025-26, including the Business Responsibility and Sustainability Report of the Company for the period ( Annual Report ). Pursuant to Regulation 36 of the SEBI Listing Regulations, the Notice of the 27th AGM and Annual Report are sent through the electronic mode to the Members of the Company whose e-mail addresses are registered with the Depositories/RTA and letters providing web inks and QR codes for accessing the Notice of the 27th AGM and Annual Report are sent to the Members whose e-mail addresses are not registered.",
-      "url": "https://nsearchives.nseindia.com/corporate/WOCKPHARMA_17072026202419_NoticeARfinalsigned.pdf"
-    },
-    {
-      "id": "f9b05b2024948",
-      "ticker": "CURRENT",
-      "company": "Current Infraprojects Limited",
-      "exchange": "NSE",
-      "date": "2026-07-17T18:07:08.000Z",
-      "category": "Investor Presentation",
-      "title": "Current Infraprojects Limited has informed the Exchange about Schedule of meet",
-      "url": "https://nsearchives.nseindia.com/corporate/CURRENTINFRA_17072026180512_Investor_Meet_intimation_23072026.pdf"
-    },
-    {
-      "id": "f0f6cd104a74c",
-      "ticker": "MENONBE",
-      "company": "Menon Bearings Limited",
-      "exchange": "NSE",
-      "date": "2026-07-17T17:33:27.000Z",
-      "category": "Investor Presentation",
-      "title": "Menon Bearings Limited has informed the Exchange about Link of Recording",
-      "url": "https://nsearchives.nseindia.com/corporate/MENONBE_17072026173311_Covering_Letter_SIGNED.pdf"
-    },
-    {
-      "id": "f67a16f90f2eb",
-      "ticker": "STLTECH",
-      "company": "Sterlite Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-17T17:28:57.000Z",
-      "category": "Press Release",
-      "title": "Sterlite Technologies Limited has informed the Exchange regarding a press release dated July 17, 2026, titled \"STL expands its optical connectivity portfolio in the US with theCONCAT solution\".",
-      "url": "https://nsearchives.nseindia.com/corporate/STLTECH_17072026172826_SEintimationPR_signed.pdf"
-    },
-    {
-      "id": "f0a468eea2c58",
-      "ticker": "GROWW",
-      "company": "Billionbrains Garage Ventures Limited",
-      "exchange": "NSE",
-      "date": "2026-07-17T17:21:05.000Z",
-      "category": "Investor Presentation",
-      "title": "Billionbrains Garage Ventures Limited has informed the Exchange about Transcript",
-      "url": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_17072026171936_EC_Trans_SD.pdf"
     }
   ]
 }
