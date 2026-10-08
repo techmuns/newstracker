@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T09:34:45.809Z",
+  "generated_at": "2026-10-08T20:16:52.942Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,146 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f7e2c9b3441d1",
+      "ticker": "RUBICON",
+      "company": "Rubicon Research Limited",
+      "exchange": "NSE",
+      "date": "2026-10-08T21:49:50.000Z",
+      "category": "Disclosure",
+      "title": "Rubicon Research Limited has informed the Exchange regarding 'ESOP Allotment'.",
+      "url": "https://nsearchives.nseindia.com/corporate/9823522970_08102026214931_RRLSEIntimationESOPAlottmentOct2026.pdf"
+    },
+    {
+      "id": "fa28d5ad94205",
+      "ticker": "RPSGVENT",
+      "company": "RPSG VENTURES LIMITED",
+      "exchange": "NSE",
+      "date": "2026-10-08T20:12:26.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "RPSG VENTURES LIMITED has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/RPSGVENT_08102026201216_SE_74_5__SIGNED.pdf"
+    },
+    {
+      "id": "f0af7c598c183",
+      "ticker": "LAXMIDENTL",
+      "company": "Laxmi Dental Limited",
+      "exchange": "NSE",
+      "date": "2026-10-08T19:59:33.000Z",
+      "category": "Monitoring Agency Report",
+      "title": "Monitoring Agency Report for quarter ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/LAXMI_08102026195911_Monitoring_Agency_Report_Q2_2027.pdf"
+    },
+    {
+      "id": "fecabf4e96359",
+      "ticker": "SETL",
+      "company": "Standard Engineering Technology Limited",
+      "exchange": "NSE",
+      "date": "2026-10-08T19:47:35.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Standard Engineering Technology Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/SGLTPL_08102026194601_Regulation_74_5_of_the_SEBI_Depositories__Participants.pdf"
+    },
+    {
+      "id": "f269a82741ec5",
+      "ticker": "LAXMIDENTL",
+      "company": "Laxmi Dental Limited",
+      "exchange": "NSE",
+      "date": "2026-10-08T18:59:59.000Z",
+      "category": "Disclosure",
+      "title": "Laxmi Dental Limited has informed the Exchange regarding 'Board Comments On The Fine Levied By The NSE And BSE'.",
+      "url": "https://nsearchives.nseindia.com/corporate/LAXMI_08102026185925_Reg_30.pdf"
+    },
+    {
+      "id": "ff3529a0247b3",
+      "ticker": "IKS",
+      "company": "Inventurus Knowledge Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-10-08T18:07:27.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Inventurus Knowledge Solutions Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018.",
+      "url": "https://nsearchives.nseindia.com/corporate/IKS2006_08102026180710_Compliances-CertificateunderReg74_5_SEUPLOAD.pdf"
+    },
+    {
+      "id": "f3661dde834db",
+      "ticker": "SKYGOLD",
+      "company": "SKY GOLD AND DIAMONDS LIMITED",
+      "exchange": "NSE",
+      "date": "2026-10-08T17:32:58.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Please find enclosed herewith, the certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018 received from MUFG Intime India Private Limited for the quarter ended 30th September 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/SKYGOLD_08102026173246_Reg74.pdf"
+    },
+    {
+      "id": "fe63b8d952782",
+      "ticker": "SAREGAMA",
+      "company": "Saregama India Limited",
+      "exchange": "NSE",
+      "date": "2026-10-08T16:48:43.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Saregama India Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/SAREGAMA_08102026164830_Covering_Letter_Reg_74_5__September_2026.pdf"
+    },
+    {
+      "id": "f840e4470bc12",
+      "ticker": "MANINDS",
+      "company": "Man Industries (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-10-08T16:39:36.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Man Industries (India) Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/MANINDS_08102026163924_MIIL_Reg_74_5__SEBI_DP_Reg_30092026.pdf"
+    },
+    {
+      "id": "fc290c966e8ed",
+      "ticker": "JYOTICNC",
+      "company": "Jyoti CNC Automation Limited",
+      "exchange": "NSE",
+      "date": "2026-10-08T16:39:13.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Jyoti CNC Automation Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/JYOTICNC_NSE_08102026163903_DP745stockExchangeIntimationJCALsept2026.pdf"
+    },
+    {
+      "id": "f6499ff684892",
+      "ticker": "DAMCAPITAL",
+      "company": "Dam Capital Advisors Limited",
+      "exchange": "NSE",
+      "date": "2026-10-08T16:35:08.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Dam Capital Advisors Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/DAMCAPITAL_08102026163453_Intimation.pdf"
+    },
+    {
+      "id": "f2f3910c27bb5",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-10-08T16:26:28.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Aurionpro Solutions Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/AURIONPRO_08102026162615_ASL_Reg_74_5__30_09_2026_sd.pdf"
+    },
+    {
+      "id": "f9cce9277e521",
+      "ticker": "AVANTEL",
+      "company": "Avantel Limited",
+      "exchange": "NSE",
+      "date": "2026-10-08T15:16:53.000Z",
+      "category": "Credit Rating",
+      "title": "Avantel Limited has informed the Exchange about Credit Rating",
+      "url": "https://nsearchives.nseindia.com/corporate/AVANTEL_08102026151615_IntimationLetter08102026.pdf"
+    },
+    {
+      "id": "f9b507edd2593",
+      "ticker": "STLTECH",
+      "company": "Sterlite Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-10-08T15:15:21.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Sterlite Technologies Limited has informed the Exchange about Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/STLTECH_08102026151451_SEintimation_Reg74certificate_signed.pdf"
+    },
     {
       "id": "f06b791ecaa13",
       "ticker": "APSISAERO",
@@ -1546,6 +1686,16 @@
       "category": "Board Meeting",
       "title": "SBI Funds Management Limited has informed the Exchange regarding Outcome of Board Meeting held on September 29, 2026.",
       "url": "https://nsearchives.nseindia.com/corporate/SBIMF2026_29092026191159_SE_BoardOutcomeCFO290926.pdf"
+    },
+    {
+      "id": "f7e8ed66bbaad",
+      "ticker": "MONOLITH",
+      "company": "Monolithisch India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-29T19:12:45.000Z",
+      "category": "Investor Presentation",
+      "title": "Monolithisch India Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/MONOLITHISCH_29092026191233_30092026_Monolithisch_Investors_call_for_Mines_and_Capacity.pdf"
     },
     {
       "id": "f4b0b3683892d",
@@ -19856,156 +20006,6 @@
       "category": "Press Release",
       "title": "E2E Networks Limited has informed the Exchange regarding a press release dated July 21, 2026, titled \"Press Release: E2E Networks Reports Q1 FY 27 Results\".",
       "url": "https://nsearchives.nseindia.com/corporate/E2E_21072026135751_Press_Release21072026.pdf"
-    },
-    {
-      "id": "f1f54897ef22a",
-      "ticker": "E2E",
-      "company": "E2E Networks Limited",
-      "exchange": "NSE",
-      "date": "2026-07-21T13:28:02.000Z",
-      "category": "Board Meeting",
-      "title": "Outcome of Board Meeting of E2E Networks Limited ( the Company )",
-      "url": "https://nsearchives.nseindia.com/corporate/E2E_21072026132440_Outcome_BM.pdf"
-    },
-    {
-      "id": "f01db11ee4387",
-      "ticker": "SOLARINDS",
-      "company": "Solar Industries India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-21T13:12:18.000Z",
-      "category": "Newspaper Publication",
-      "title": "Solar Industries India Limited has informed the Exchange about Copy of Newspaper Publication regarding 31st Annual General Meeting, Information on E-voting, Record Date and Final Dividend",
-      "url": "https://nsearchives.nseindia.com/corporate/SOLARINDS_21072026131012_Notice_Publication__AGM_2026sd.pdf"
-    },
-    {
-      "id": "fb5a3e3033cf5",
-      "ticker": "SOLARINDS",
-      "company": "Solar Industries India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-21T12:42:30.000Z",
-      "category": "Disclosure",
-      "title": "Solar Industries India Limited has informed the Exchange regarding 'Letter to the Shareholders - Annual Report FY 2025-26'.",
-      "url": "https://nsearchives.nseindia.com/corporate/SOLARINDS_21072026123720_Letter_to_Shareholders_36_1__b_sd.pdf"
-    },
-    {
-      "id": "f3a52f8bcb908",
-      "ticker": "ONESOURCE",
-      "company": "Onesource Specialty Pharma Limited",
-      "exchange": "NSE",
-      "date": "2026-07-21T12:32:18.000Z",
-      "category": "Investor Presentation",
-      "title": "Onesource Specialty Pharma Limited has informed the Exchange about Schedule of meet on July 25, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/ONESOURCECDMO_21072026123051_OS_SEI_Earnings_call_21July2026_c.pdf"
-    },
-    {
-      "id": "f7ecc5b2f1968",
-      "ticker": "DENTA",
-      "company": "Denta Water and Infra Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-07-21T11:02:00.000Z",
-      "category": "Receipt of Order",
-      "title": "Denta Water and Infra Solutions Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
-      "url": "https://nsearchives.nseindia.com/corporate/DENTA_21072026110146_General_Update_July_21_2026.pdf"
-    },
-    {
-      "id": "f3912605fb91d",
-      "ticker": "PDSL",
-      "company": "PDS Limited",
-      "exchange": "NSE",
-      "date": "2026-07-20T22:44:10.000Z",
-      "category": "Disclosure",
-      "title": "PDS Limited has informed the Exchange about General Updates",
-      "url": "https://nsearchives.nseindia.com/corporate/PDSL_20072026224402_Ltr_SDDdataLoss_20072026.pdf"
-    },
-    {
-      "id": "f36b63b47815f",
-      "ticker": "SOLARINDS",
-      "company": "Solar Industries India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-20T21:34:07.000Z",
-      "category": "Disclosure",
-      "title": "Solar Industries India Limited has informed the Exchange regarding 'Business Responsibility and Sustainability Report for FY 2025-26.'.",
-      "url": "https://nsearchives.nseindia.com/corporate/SOLARINDS_20072026213350_BRSR_Signeddd.pdf"
-    },
-    {
-      "id": "fd887d8286335",
-      "ticker": "SOLARINDS",
-      "company": "Solar Industries India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-20T21:21:37.000Z",
-      "category": "Shareholders meeting",
-      "title": "Solar Industries India Limited has informed the Exchange regarding Integrated Annual Report for the financial year 2025-26 including Notice convening the 31st AnnualGeneral Meeting (AGM) and Intimation of Record Date",
-      "url": "https://nsearchives.nseindia.com/corporate/SOLARINDS_20072026212105_Integrated_AR_SIIL_2025-26_sd.pdf"
-    },
-    {
-      "id": "fc63c72427b5c",
-      "ticker": "CANFINHOME",
-      "company": "Can Fin Homes Limited",
-      "exchange": "NSE",
-      "date": "2026-07-20T20:51:54.000Z",
-      "category": "Investor Presentation",
-      "title": "Can Fin Homes Limited has informed the Exchange about Link of Recording",
-      "url": "https://nsearchives.nseindia.com/corporate/CANFINHOME_20072026205103_Outcome_Of_Q1_FY27_Earnings_Call.pdf"
-    },
-    {
-      "id": "f165f4d4879a0",
-      "ticker": "SGMART",
-      "company": "SG Mart Limited",
-      "exchange": "NSE",
-      "date": "2026-07-20T19:49:37.000Z",
-      "category": "Investor Presentation",
-      "title": "SG Mart Limited has informed the Exchange about Link of Recording",
-      "url": "https://nsearchives.nseindia.com/corporate/SGMART_20072026194920_SGML_Investor_Analyst_Outcome.pdf"
-    },
-    {
-      "id": "f2a21ee537e78",
-      "ticker": "SHRIAHIMSA",
-      "company": "Shri Ahimsa Naturals Limited",
-      "exchange": "NSE",
-      "date": "2026-07-20T18:47:58.000Z",
-      "category": "Quarterly Compliance Report on Corporate governance - within 21 days from the end of the quarter",
-      "title": "Shri Ahimsa Naturals Limited has informed regarding Submission of the Compliance Report on Corporate Governance for the Q 1 FY 2026 - 27",
-      "url": "https://nsearchives.nseindia.com/corporate/AHIMSANATURALS_20072026184747_Certificate.pdf"
-    },
-    {
-      "id": "f6debded4cf8c",
-      "ticker": "VENUSREM",
-      "company": "Venus Remedies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-20T18:37:55.000Z",
-      "category": "Board Meeting",
-      "title": "Outcome of Board Meeting & Unaudited Financial Results as on 30th June 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/VENUSREM_20072026183512_Outcome_2026June.pdf"
-    },
-    {
-      "id": "f1ef80516607e",
-      "ticker": "XPROINDIA",
-      "company": "Xpro India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-20T18:27:14.000Z",
-      "category": "Shareholders meeting",
-      "title": "Xpro India Limited has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on July 20, 2026. Further, the company has informed the Exchange regarding voting results.",
-      "url": "https://nsearchives.nseindia.com/corporate/XPROINDIASKD_20072026182453_Voting_Result_Scrutinizer_Report_signed.pdf"
-    },
-    {
-      "id": "feca1e01bcf8f",
-      "ticker": "XPROINDIA",
-      "company": "Xpro India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-20T18:20:46.000Z",
-      "category": "Shareholders meeting",
-      "title": "Xpro India Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on July 20, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/XPROINDIASKD_20072026181840_Proceeding_AGM_signed.pdf"
-    },
-    {
-      "id": "f93360fb55f27",
-      "ticker": "DENTALKART",
-      "company": "Vasa Denticity Limited",
-      "exchange": "NSE",
-      "date": "2026-07-20T18:17:43.000Z",
-      "category": "Structural Digital Database",
-      "title": "SDD Certificate for the Quarter ended June 30, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/VASADENTICITY_20072026181719_SDD_Certificate_30062026.pdf"
     }
   ]
 }
