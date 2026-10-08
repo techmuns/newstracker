@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-10-08T09:27:18.717Z",
+  "generated_at": "2026-10-08T20:13:37.383Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 100,
-    "watchlist": 393,
+    "watchlist": 399,
     "universe": 45,
-    "total": 438
+    "total": 444
   },
   "items": [
+    {
+      "id": "ne4a82cc7c544",
+      "ticker": "SETL",
+      "company": "Standard Engineering Technology Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Standard Engineering Technology (NSE: SETL) Clarifies GScale Energy Acquisition and Infrastructure Plans",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZUpTN3Q4OXotU2lYYVRESTVIVU5KU1pHY1ZnR3o4Rl9GMXQ1bVRPeW5iTzVBYmNUeEtYdkRPa1RENlpwXzBhLUlZMjljYjVXNzhXZF9FT3FSTVhWb0x0N3czNFlNVTV5MFNIZTNVNHRnb1JPRVhaLVc2TUlRV0xXWGt3bkdmQkNzV1R1N1ZpNDVtVlhnVzB4MW45VDlPaUp0bTlDYUNyanJMNjQ3Y05UeGZUSUI4YUF4Tmg4NUN2aU90WU85N08xbVFZbkpQYURNT1BVZ21qb3R0R0U?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-10-08T10:08:00.000Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Standard Engineering Technology clarifies GScale Energy acquisition and infrastructure plans.",
+      "enriched": true
+    },
     {
       "id": "n40510c0db224",
       "ticker": "DEEDEV",
@@ -4119,6 +4138,25 @@
       "enriched": true
     },
     {
+      "id": "n34962ffcf466",
+      "ticker": "SETL",
+      "company": "Standard Engineering Technology Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Standard Engineering Technology completes 33.55% acquisition in GScale Energy",
+      "url": "https://scanx.trade/stock-market-news/companies/standard-engineering-technology-completes-33-55-acquisition-in-gscale-energy/46979968",
+      "source": "scanx.trade",
+      "date": "2026-09-03T20:34:32.504Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Standard Engineering Technology acquired 33.55% stake in GScale Energy.",
+      "enriched": true
+    },
+    {
       "id": "n25cdaf986be3",
       "ticker": "SETL",
       "company": "Standard Engineering Technology Limited",
@@ -4154,25 +4192,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Standard Engineering Technology board to consider preferential share issue on July 11.",
-      "enriched": true
-    },
-    {
-      "id": "n34962ffcf466",
-      "ticker": "SETL",
-      "company": "Standard Engineering Technology Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Standard Engineering Technology completes 33.55% acquisition in GScale Energy",
-      "url": "https://scanx.trade/stock-market-news/companies/standard-engineering-technology-completes-33-55-acquisition-in-gscale-energy/46979968",
-      "source": "scanx.trade",
-      "date": "2026-09-03T20:34:32.504Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Standard Engineering Technology acquired 33.55% stake in GScale Energy.",
       "enriched": true
     },
     {
@@ -6006,6 +6025,25 @@
       "sources_count": 2
     },
     {
+      "id": "n572573dcbe30",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Sapphire Foods approves revised merger scheme with Devyani International",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOODQxTDU3QzVvRW1ZLXB4Y3lHdDNOTXJQWHVsQ3N6SXhkRG9KeHdIeTMtQ0xiZG4yQUpGSDlZZDJuZndYYUhyWDhFcnFPQkZfNHJHYTdPa1F2eE41T3VJbTMyQ3BoZDdJS2xwaHBNVVZBQ0lyczh5cTlIQlFoRGlDZVZFd1Mtb25HS0liQW0yb0JzS2pTTUNGUHYxX3VwQnJjSDE3R3dET0dzYnU3N09NU3BDcG1FOFR0UE1paEJoTHJGUQ?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-08-26T07:00:00.000Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "high",
+      "mood": "neutral",
+      "takeaway": "Sapphire Foods approves revised merger scheme with Devyani International.",
+      "enriched": true
+    },
+    {
       "id": "n3c77f5442fbb",
       "ticker": "MTARTECH",
       "company": "Mtar Technologies Limited",
@@ -6854,6 +6892,25 @@
       "enriched": true
     },
     {
+      "id": "n5feab881b639",
+      "ticker": "SETL",
+      "company": "Standard Engineering Technology Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Standard Engineering Technology clarifies GScale acquisition funding in EGM corrigendum",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTEo0V093dEplRWpUNTVYWjJ6R2pSbzRvRlp6dEhRZHJXR2x6b25Da1pHdWRyRW1MWV84U2tIYkloejdNQ2lSMXFRYTFmWllId3gzTU5LdlZva0JtV2lYZDBZXzBGaHhEUE52SzVDdk1KeUJKQk8yMnZyaU1kNVdtNlBLZDZvby00UTZMR29CMlB1MDdTTXYtWTFNNDI1QVJEWlFCLVl4MVZKbnhMSHlJR25GUllnWGlrZjFzNEROYlpYWnRxOGE0X1lOMVZfQQ?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-08-04T07:00:00.000Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Standard Engineering Technology clarifies funding details for GScale acquisition in EGM corrigendum.",
+      "enriched": true
+    },
+    {
       "id": "nf1f382827cbc",
       "ticker": "THEME",
       "company": "Pharma Approvals",
@@ -6889,25 +6946,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Standard Engineering plans preferential share issue to fund acquisition of GScale Energy.",
-      "enriched": true
-    },
-    {
-      "id": "n5feab881b639",
-      "ticker": "SETL",
-      "company": "Standard Engineering Technology Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Standard Engineering Technology clarifies GScale acquisition funding in EGM corrigendum",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTEo0V093dEplRWpUNTVYWjJ6R2pSbzRvRlp6dEhRZHJXR2x6b25Da1pHdWRyRW1MWV84U2tIYkloejdNQ2lSMXFRYTFmWllId3gzTU5LdlZva0JtV2lYZDBZXzBGaHhEUE52SzVDdk1KeUJKQk8yMnZyaU1kNVdtNlBLZDZvby00UTZMR29CMlB1MDdTTXYtWTFNNDI1QVJEWlFCLVl4MVZKbnhMSHlJR25GUllnWGlrZjFzNEROYlpYWnRxOGE0X1lOMVZfQQ?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-08-04T07:00:00.000Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Standard Engineering Technology clarifies funding details for GScale acquisition in EGM corrigendum.",
       "enriched": true
     },
     {
@@ -7338,6 +7376,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Sterlite Technologies posted record Q1 FY27 results with strong performance.",
+      "enriched": true
+    },
+    {
+      "id": "nd1f11fed534a",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Devyani International Annual Report FY 2025-26: Revenue at ₹ 56,115 Million, Merger with Sapphire Foods Announced",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQeFR4bXdUdVhvY3JuQnZDd1plU1hObzV5LUNiYU1kb1cxYjJpdTRUcHhScDRBRkhPUWxIeGdXSnJoeFEwNk85RlRZdGFycHhJRFNuYzhCUGFWakVHVDRidkduUkpHMXZfR2ppS2lVVl91OUR4REN3ZG5vWURWWlhoVFVlcDRuZ0JTdW9qRVZ4VDRmazRUVVpfTXZFM214UVBDTzR1RGthWnIxTlNfY1BEX09RM09nbU1YSFFUMEd4MUYwV0NNUlpBcFRuekhKUk5wM01fU0JTanhnVFlOaU5NdkZROG1nLWtyMHd4TUg1aXcwT2JlaVR6NGN3?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-07-23T07:00:00.000Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Devyani International to merge with Sapphire Foods India.",
       "enriched": true
     },
     {
@@ -8241,7 +8298,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Standard Engineering gets exchange approval to raise Rs 71 crore through preferential share issue.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -8281,7 +8338,26 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "RPSG Group considering selling 15-20% stake in IPL team Lucknow Super Giants.",
-      "sources_count": 4,
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "nb4b709e9738c",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "E2E Networks shareholders approve fund raise and borrowing powers",
+      "url": "https://scanx.trade/stock-market-news/companies/e2e-networks-shareholders-approve-fund-raise-borrowing-powers/52135121",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Rights Issue",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "E2E Networks shareholders approve fundraising and increased borrowing limits.",
       "enriched": true
     },
     {
@@ -8499,6 +8575,25 @@
       "enriched": true
     },
     {
+      "id": "n646df83d9109",
+      "ticker": "VAML",
+      "company": "Vedanta Aluminium Metal Limited",
+      "sector": "Metals & Mining",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "S&S Power Switchgears wins Rs 1 crore work order from Sterling & Wilson for Maharashtra project",
+      "url": "https://scanx.trade/stock-market-news/companies/s-s-power-switchgears-wins-rs-1-crore-work-order-sterling-wilson/53007278",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "S&S Power Switchgears secured Rs 1 crore order from Sterling & Wilson for Maharashtra project.",
+      "enriched": true
+    },
+    {
       "id": "ncf1629504db4",
       "ticker": "GOLDIAM",
       "company": "Goldiam International Limited",
@@ -8535,6 +8630,25 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Shaily Engineering Plastics reappoints its Managing Director.",
+      "enriched": true
+    },
+    {
+      "id": "nc4cc3663aa63",
+      "ticker": "RPSGVENT",
+      "company": "RPSG VENTURES LIMITED",
+      "sector": "Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "‘The pivot has to come quicker’: Shashwat Goenka on RPSG’s ₹70,000-cr capex cycle - The HinduBusinessLine",
+      "url": "https://www.thehindubusinessline.com/companies/the-pivot-has-to-come-quicker-shashwat-goenka-on-steering-rpsg-through-a-70000-cr-capex-cycle/article71555220.ece",
+      "source": "thehindubusinessline.com",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Capex",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "RPSG plans ₹70,000 crore capital spending cycle to expand business operations.",
       "enriched": true
     }
   ]
