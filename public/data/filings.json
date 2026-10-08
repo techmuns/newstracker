@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T20:16:47.917Z",
+  "generated_at": "2026-10-08T09:34:45.809Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,106 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f06b791ecaa13",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "exchange": "NSE",
+      "date": "2026-10-08T14:51:02.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Apsis Aerocom Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/APSIS2025_08102026145000_Reg74_5_DP2018_30092026_Signed.pdf"
+    },
+    {
+      "id": "f2ca31fcf72b0",
+      "ticker": "HTEL",
+      "company": "Hy-Tech Engineers Limited",
+      "exchange": "NSE",
+      "date": "2026-10-08T13:27:57.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Hy-Tech Engineers Limited has informed the Exchange about Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/HYTECH_08102026132732_Cover_certificate.pdf"
+    },
+    {
+      "id": "fffe8b9636e4d",
+      "ticker": "SENORES",
+      "company": "Senores Pharmaceuticals Limited",
+      "exchange": "NSE",
+      "date": "2026-10-08T13:10:34.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Senores Pharmaceuticals Limited has informed the Exchange about Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/SENORES_08102026131027_Intimationunderregulation74.pdf"
+    },
+    {
+      "id": "f01ce6e6d233d",
+      "ticker": "SONACOMS",
+      "company": "Sona BLW Precision Forgings Limited",
+      "exchange": "NSE",
+      "date": "2026-10-08T12:45:04.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Sona Blw Precision Forgings Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_08102026124442_74.pdf"
+    },
+    {
+      "id": "fa63e52f0a18f",
+      "ticker": "GANESHBE",
+      "company": "Ganesh Benzoplast Limited",
+      "exchange": "NSE",
+      "date": "2026-10-08T12:26:02.000Z",
+      "category": "Newspaper Publication",
+      "title": "Ganesh Benzoplast Limited has informed the Exchange about Copy of Newspaper Publication in respect of special window opened for lodgement of transfer and dematerialization request",
+      "url": "https://nsearchives.nseindia.com/corporate/GANESHBE_08102026122543_NewspaperPublicationSpecialwindow07102026.pdf"
+    },
+    {
+      "id": "f2a5e5d6860d4",
+      "ticker": "TRIVENI",
+      "company": "Triveni Engineering & Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-10-08T12:15:58.000Z",
+      "category": "Disclosure",
+      "title": "Triveni Engineering & Industries Limited has informed the Exchange regarding 'Certificate under Regulation 74 (5) of SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended 30th September, 2026'.",
+      "url": "https://nsearchives.nseindia.com/corporate/TRIVENI_08102026121551_TEIL_74_5_SEP26.pdf"
+    },
+    {
+      "id": "fc6ee4fb870d5",
+      "ticker": "LAXMIDENTL",
+      "company": "Laxmi Dental Limited",
+      "exchange": "NSE",
+      "date": "2026-10-08T12:15:20.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Laxmi Dental Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/LAXMI_08102026121459_Regulation_74.pdf"
+    },
+    {
+      "id": "f1b8ffa2f5fe6",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "exchange": "NSE",
+      "date": "2026-10-08T12:10:29.000Z",
+      "category": "Receipt of Order",
+      "title": "DEE Development Engineers Limited has informed that its WOS, M/s DEE Fabricom India Private Limited, has received orders/contracts of approximately Rs. 55 Crores (exclusive of GST).",
+      "url": "https://nsearchives.nseindia.com/corporate/DDEL_08102026120956_NSEBSE_DFIPL_order.pdf"
+    },
+    {
+      "id": "f8500fdb56140",
+      "ticker": "ORIENTCABL",
+      "company": "Orient Cables (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-10-08T11:21:19.000Z",
+      "category": "Disclosure",
+      "title": "Orient Cables (India) Limited has informed the Exchange regarding 'Disclosure under Regulation 30(5) of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 ( SEBI Listing Regulations )'.",
+      "url": "https://nsearchives.nseindia.com/corporate/ORIENTCABLES_08102026112105_OCIL_Disclosure30_5_.pdf"
+    },
+    {
+      "id": "f5b81c4649e17",
+      "ticker": "ORIENTCABL",
+      "company": "Orient Cables (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-10-08T10:53:21.000Z",
+      "category": "Disclosure",
+      "title": "Orient Cables (India) Limited has informed the Exchange regarding ''.",
+      "url": "https://nsearchives.nseindia.com/corporate/ORIENTCABLES_08102026104003_OCIL_6_1__Intimation.pdf"
+    },
     {
       "id": "f0e43c2fa3755",
       "ticker": "ZENTEC",
@@ -3746,6 +3846,16 @@
       "category": "Shareholders meeting",
       "title": "Inventurus Knowledge Solutions Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 21, 2026",
       "url": "https://nsearchives.nseindia.com/corporate/IKS2006_21092026195920_ProceedingsOfAGM21092026SEUPLOAD.pdf"
+    },
+    {
+      "id": "fd205c6f46e83",
+      "ticker": "CURRENT",
+      "company": "Current Infraprojects Limited",
+      "exchange": "NSE",
+      "date": "2026-09-21T18:54:51.000Z",
+      "category": "Investor Presentation",
+      "title": "Current Infraprojects Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/CURRENTINFRA_21092026185210_Investor_Meet_intimation_25092026.pdf"
     },
     {
       "id": "f5a7f54d61420",
@@ -19896,116 +20006,6 @@
       "category": "Structural Digital Database",
       "title": "SDD Certificate for the Quarter ended June 30, 2026",
       "url": "https://nsearchives.nseindia.com/corporate/VASADENTICITY_20072026181719_SDD_Certificate_30062026.pdf"
-    },
-    {
-      "id": "f4be0f670a108",
-      "ticker": "KKJEWELS",
-      "company": "Kabra Jewels Limited",
-      "exchange": "NSE",
-      "date": "2026-07-20T18:15:30.000Z",
-      "category": "Financial Results",
-      "title": "The Exchange had sought clarification from Kabra Jewels Limited for the quarter ended 31-Mar-2026 with respect to Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015. On basis of above the Company was required to clarify the following: -1. Financial results submitted is not as per format prescribed by SEBI. The response of the Company is enclosed.",
-      "url": "https://nsearchives.nseindia.com/corporate/KABRAJEWELS_18072026113956_Clarification_on_Resubmission_of_Financial_Results.pdf"
-    },
-    {
-      "id": "f64e487e62c78",
-      "ticker": "RUBICON",
-      "company": "Rubicon Research Limited",
-      "exchange": "NSE",
-      "date": "2026-07-20T17:35:27.000Z",
-      "category": "Record Date",
-      "title": "Rubicon Research Limited has informed the Exchange that Record date for the purpose of Dividend is 07-Aug-2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/9823522970_20072026173436_RRLOutcomeofBM20072026.pdf"
-    },
-    {
-      "id": "f593323980482",
-      "ticker": "RUBICON",
-      "company": "Rubicon Research Limited",
-      "exchange": "NSE",
-      "date": "2026-07-20T17:34:05.000Z",
-      "category": "Board Meeting",
-      "title": "Rubicon Research Limited has informed the Exchange regarding Outcome of Board Meeting held on July 20, 2026.1. Date of 27th Annual General Meeting and Record Date for payment of final dividend on equity shares for the financial year 2025-26.2. Update on the merger of Kia Health Tech Private Limited, WOS, with Rubicon Research Limited",
-      "url": "https://nsearchives.nseindia.com/corporate/9823522970_20072026173221_RRLOutcomeofBM20072026.pdf"
-    },
-    {
-      "id": "f9059460235c6",
-      "ticker": "RUBICON",
-      "company": "Rubicon Research Limited",
-      "exchange": "NSE",
-      "date": "2026-07-20T16:40:00.000Z",
-      "category": "Disclosure",
-      "title": "Rubicon Research Limited has informed the Exchange regarding 'Allotment of ESOPs'.",
-      "url": "https://nsearchives.nseindia.com/corporate/9823522970_20072026162802_SEIntimationESOPAllotment.pdf"
-    },
-    {
-      "id": "f4152fe5d7d85",
-      "ticker": "SGMART",
-      "company": "SG Mart Limited",
-      "exchange": "NSE",
-      "date": "2026-07-20T16:31:50.000Z",
-      "category": "ESOP/ESOS/ESPS",
-      "title": "SG Mart Limited has informed the Exchange regarding Grant of 486000 Options.",
-      "url": "https://nsearchives.nseindia.com/corporate/SGMART_20072026163055_Outcome_Grant_of_ESOPs_20072026.pdf"
-    },
-    {
-      "id": "fcb13b77c08d2",
-      "ticker": "DENTALKART",
-      "company": "Vasa Denticity Limited",
-      "exchange": "NSE",
-      "date": "2026-07-20T16:22:47.000Z",
-      "category": "Quarterly Compliance Report on Corporate governance - within 21 days from the end of the quarter",
-      "title": "Non-Applicability of Corporate Governance Report",
-      "url": "https://nsearchives.nseindia.com/corporate/VASADENTICITY_20072026162233_Non-Applicability_of_Corporate_Governance.pdf"
-    },
-    {
-      "id": "f169611991172",
-      "ticker": "VIVIDEL",
-      "company": "Vivid Electromech Limited",
-      "exchange": "NSE",
-      "date": "2026-07-20T16:02:22.000Z",
-      "category": "Financial Results",
-      "title": "The Exchange had sought clarification from Vivid Electromech Limited for the quarter ended 31-Mar-2026 with respect to Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015. On basis of above the Company was required to clarify the following: -1. Financial results submitted is not as per format prescribed by SEBI. -2. Segment details not submitted. The response of the Company is enclosed.",
-      "url": "https://nsearchives.nseindia.com/corporate/VIVID_03072026153551_Clarification_Letter_.pdf"
-    },
-    {
-      "id": "ff13f4ffc85d8",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-20T15:45:34.000Z",
-      "category": "Investor Presentation",
-      "title": "Sapphire Foods India Limited has informed the Exchange about Schedule of meet",
-      "url": "https://nsearchives.nseindia.com/corporate/SAPPHIRE_20072026154416_SapphireSEDisclosureEarningsCallQ1FY27.pdf"
-    },
-    {
-      "id": "fc75a9d681d04",
-      "ticker": "CANFINHOME",
-      "company": "Can Fin Homes Limited",
-      "exchange": "NSE",
-      "date": "2026-07-20T15:30:02.000Z",
-      "category": "Newspaper Publication",
-      "title": "Can Fin Homes Limited has informed the Exchange about Copy of Newspaper Publication for Un-Audited Financial Results for Quarter ended June 30,2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/CANFINHOME_20072026152848_SE_Newspaper_publication_Unaudited_Financial_resultsQ1_FY_27.pdf"
-    },
-    {
-      "id": "f2ac851d0f946",
-      "ticker": "MONOLITH",
-      "company": "Monolithisch India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-20T15:08:30.000Z",
-      "category": "Investor Presentation",
-      "title": "Monolithisch India Limited has informed the Exchange about Schedule of meet",
-      "url": "https://nsearchives.nseindia.com/corporate/MONOLITHISCH_20072026150822_27072026_Monolithisch_Investors_Earning_call.pdf"
-    },
-    {
-      "id": "f7ebd2ddd3198",
-      "ticker": "SGMART",
-      "company": "SG Mart Limited",
-      "exchange": "NSE",
-      "date": "2026-07-20T14:44:29.000Z",
-      "category": "Investor Presentation",
-      "title": "SG Mart Limited has informed the Exchange about Investor Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/SGMART_20072026144417_Investor_Presentation_and_press_release_20_07_2026.pdf"
     }
   ]
 }
