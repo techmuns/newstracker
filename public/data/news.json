@@ -1,13 +1,90 @@
 {
-  "generated_at": "2026-10-08T20:13:37.383Z",
+  "generated_at": "2026-10-09T09:41:58.489Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 100,
-    "watchlist": 399,
-    "universe": 45,
+    "portfolio": 98,
+    "watchlist": 397,
+    "universe": 47,
     "total": 444
   },
   "items": [
+    {
+      "id": "n14c8be2c1e78",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "DEE Development Engineers Ltd reports expansion in Order Book to ₹2,531.04 Crore for September 2026",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RenI2Y3VKSmphYVYtWlc5X2R1RVNnc2lfaGtGbXB0dzdEelVkbzFBbXF4cEdCZVRERkhMRk02dUFmX3FQck9yTWhGbkUwOWdrWHZjRU1xd0xqeFZad2ZZ?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-10-09T08:34:59.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "DEE Development Engineers' order book expanded to ₹2,531 crore as of September 2026.",
+      "enriched": true
+    },
+    {
+      "id": "n4347b215192a",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
+      "scope": [
+        "universe"
+      ],
+      "title": "Lupin receives USFDA approval for Phytonadione Injectable Emulsion",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbDBhRmFScWVjR0FKenFHdWtRdzRKRFJ0MF9xWVN4MkxsSkNRNWZrbkQtOG9ta0tISklfWEFFUHBFUVRxRGpaNTZqMUhzWXNKR05TNjRaa2VKcW9EMU9qQUJ1S0YzUDhjOFpDQ3pwZk9oVnVyVlRZM2tDb3dKZkdETzVGYk9NZWNQekR4cTkzdmszVThEcGZNOWlWRkZXZ3gzTFE?oc=5",
+      "source": "Express Pharma",
+      "date": "2026-10-09T07:38:33.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Lupin received US FDA approval for Phytonadione Injectable Emulsion.",
+      "enriched": true
+    },
+    {
+      "id": "nb41d45f2a1ef",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "DEE Development Engineers reports order execution of ₹225.17 crores in September 2026",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSE85TnVEMWRzVHBTSkNOU0dqbGhtNV9nRVBkeWsta0tlaDZ4YzBEUWk0MlFzS2V3eDNBNEpWVE1Vdl9Gc2RNQU9RZEZhdDZIQjIzSEFmUVBlcUkwSE8zTDhZT0tXVmZncWYxdW9qU3ZUUnJuUm9nLXVtT1BWS0tuZm5KS2JkLVk4RHBQOVNTV1FGclIzMFRiemQ1U1E3Ml9tVmkxbFpGbUh5UV9GUTBUQm5VWkJKTnp1ZWJvV2FES28?oc=5",
+      "source": "Business Upturn",
+      "date": "2026-10-09T05:16:47.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "DEE Development Engineers executed orders worth ₹225 crore in September 2026.",
+      "enriched": true
+    },
+    {
+      "id": "n55787a26b571",
+      "ticker": "MACRO",
+      "company": "India Defence Exports",
+      "sector": "Capital Goods",
+      "scope": [
+        "universe"
+      ],
+      "title": "BEML bags Rs 75.58 crore order for military vehicle exports",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWmdTZHR6dnJWalMzRFhKSzZTZEk1eDdLdmkxQ1lwV0Q5cDVJTFJFN0p0Y0RFdlc2NlRoZExVMzdfYmZWMzM4WEhzazA3TVFXOEZiSGJVWjYxZE5OYTd1WDdVUDgyLTRCZjFDZXF4ckZOV1J5ZlpBbk5QS2RxbWdBelFvODZsTGQtMzFDenhuYnBBXzAwcDB0ckdKa3Bqa01RTkxxOHRibnVoT1NWb2JFSXJvQjR3a1Zxc21F0gHCAUFVX3lxTFBRejVLWC0yM2dFM0daTVZ2c0JZaFdGVzlGU3h1M09EdTRsbThnbGZvcG1QaFgxUGYxaEFlNVE1ZWx6MGU5OWltUHdrZmVrUGlPdkE4WmpqWktybmZpNXk2VlZORXd1SDRvZWhmYTFkb1pJdVZncmFwSkk5cU1DbURIUXFod0RITFU1UnB3TnItVWdWUWpWN29KeENacWFiTTc3M3BqNEhqQk1YRjV3WExLejE5U1NHdV9LTFhWczlRSjR3?oc=5",
+      "source": "The Financial Express",
+      "date": "2026-10-09T04:57:57.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "BEML secured ₹75.58 crore order for military vehicle exports.",
+      "sources_count": 2,
+      "enriched": true
+    },
     {
       "id": "ne4a82cc7c544",
       "ticker": "SETL",
@@ -2411,7 +2488,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Sterlite Technologies approved ₹3,000 crore capex for capacity expansion.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -4630,7 +4707,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Secured export order for lab-grown diamond jewellery.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -5243,7 +5320,7 @@
       "mood": "positive",
       "takeaway": "Sterlite Technologies approved ₹3,000 crore capex to expand manufacturing capacity.",
       "enriched": true,
-      "sources_count": 4
+      "sources_count": 2
     },
     {
       "id": "nc97e3730943a",
@@ -6294,6 +6371,25 @@
       "enriched": true
     },
     {
+      "id": "n4a065ab40ce9",
+      "ticker": "MACRO",
+      "company": "India Defence Exports",
+      "sector": "Capital Goods",
+      "scope": [
+        "universe"
+      ],
+      "title": "Three orders, Rs 1.53 lakh crore: Submarine, missile and corvette deals could reshape India’s defence order pipeline",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOYVlYRjZYSVBXTlRkVUtvS2ctV3ZoWXVXdkgyQ0xwV1M1bXR1cVFhSG9kZTlEcGVabmY5WEtadGVrLUFkRkRyV2gwcnlIRV83Z1l0VnY2RzBob1lob1VzdllBSkRpcVFnQ1FjQzJ2Z0puZ29WT0RwR1BwRGZPUlNXTlBGWXJaME40YzFmeGtxNXF1VG04dTEwaVBMZ0w5dDhpcGhhaW0xMDJLeTlCa0dDV0w3bW5RT2ZwMVFRMWFXSlkxb3M2TWZhN1UtOTZnVmd0amxMOFBwaXpFS2RWS2JuWDd3OU1DTExydHVsTkxaZHdmTF83eTFlRk5GU00wVjRS0gGHAkFVX3lxTE5uZXZFS2FnVm9aOElMRERtT2VBa2gweUFoWWJJZWVucUw5bk9OaGlFd3RkSmszdVpGOERPMmtSZVZ1ZV9taTRfenRZLUpUOVVaNjZnRV9TTGZqVFF5a1c2M3dhcWh2ZnM0VTBwQ0c5NmM0Ym5fT1NIY3NGMGNicnBCQnBUSGpXMnBDR3NmbDRtYjcyR1dvYXZNVFVmY19NY2pwcjlZZ0VrZEpiWFpYYTZqYUpsMXNwTG1zc1ROZzZqWXBEeW43QWxCblc2WXJXMTlIM3Nva2pWLU5VZkkyTzBqVkppS3IwaktGVXRkYm1KeFRHQjBsMDFuQUh3cURqS3Qzdl9kSWY4?oc=5",
+      "source": "financialexpress.com",
+      "date": "2026-08-17T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Three major defence orders worth Rs 1.53 lakh crore for submarines, missiles and corvettes could reshape order pipeline.",
+      "enriched": true
+    },
+    {
       "id": "nfe958097a76d",
       "ticker": "SOLARINDS",
       "company": "Solar Industries",
@@ -6312,25 +6408,6 @@
       "takeaway": "Solar Industries subsidiary Saatvik secures ₹476 crore solar module order.",
       "enriched": true,
       "sources_count": 3
-    },
-    {
-      "id": "n4a065ab40ce9",
-      "ticker": "MACRO",
-      "company": "India Defence Exports",
-      "sector": "Capital Goods",
-      "scope": [
-        "universe"
-      ],
-      "title": "Three orders, Rs 1.53 lakh crore: Submarine, missile and corvette deals could reshape India’s defence order pipeline",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOYVlYRjZYSVBXTlRkVUtvS2ctV3ZoWXVXdkgyQ0xwV1M1bXR1cVFhSG9kZTlEcGVabmY5WEtadGVrLUFkRkRyV2gwcnlIRV83Z1l0VnY2RzBob1lob1VzdllBSkRpcVFnQ1FjQzJ2Z0puZ29WT0RwR1BwRGZPUlNXTlBGWXJaME40YzFmeGtxNXF1VG04dTEwaVBMZ0w5dDhpcGhhaW0xMDJLeTlCa0dDV0w3bW5RT2ZwMVFRMWFXSlkxb3M2TWZhN1UtOTZnVmd0amxMOFBwaXpFS2RWS2JuWDd3OU1DTExydHVsTkxaZHdmTF83eTFlRk5GU00wVjRS0gGHAkFVX3lxTE5uZXZFS2FnVm9aOElMRERtT2VBa2gweUFoWWJJZWVucUw5bk9OaGlFd3RkSmszdVpGOERPMmtSZVZ1ZV9taTRfenRZLUpUOVVaNjZnRV9TTGZqVFF5a1c2M3dhcWh2ZnM0VTBwQ0c5NmM0Ym5fT1NIY3NGMGNicnBCQnBUSGpXMnBDR3NmbDRtYjcyR1dvYXZNVFVmY19NY2pwcjlZZ0VrZEpiWFpYYTZqYUpsMXNwTG1zc1ROZzZqWXBEeW43QWxCblc2WXJXMTlIM3Nva2pWLU5VZkkyTzBqVkppS3IwaktGVXRkYm1KeFRHQjBsMDFuQUh3cURqS3Qzdl9kSWY4?oc=5",
-      "source": "financialexpress.com",
-      "date": "2026-08-17T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Three major defence orders worth Rs 1.53 lakh crore for submarines, missiles and corvettes could reshape order pipeline.",
-      "enriched": true
     },
     {
       "id": "n1806660f1c6f",
@@ -6640,6 +6717,25 @@
       "enriched": true
     },
     {
+      "id": "n6898da141fb4",
+      "ticker": "MACRO",
+      "company": "India Defence Exports",
+      "sector": "Capital Goods",
+      "scope": [
+        "universe"
+      ],
+      "title": "Strong defence order books must translate into faster execution: Parl panel | India News",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTjA3UjA5TmRXU01neU0yOHVja0VCMHhDTldSWlV5TmphTlMxbXF3bnVNTHFZQ2NmbHJVYnNQc0ZDRUVjaEMtdUQtbnM2VkZFNU1faGRzdEVOTDJURFI2bmZMbjRPbTdDdnM1UndKZkdIUk9MQ01PQVFVejY3XzQySEd1bTB5Um9GZkJSTTVmSDRFQ3MxcG5paUlxOU02bW5EcXlROFl0YmFac19jeHRiakRIUEl4WGRXNlhIa0R4NkJ6VlIxY1N5STROU3B4NWFKQl800gHYAUFVX3lxTE9yblJsTXdOTkFrVWd5dk5LbWNqQ0RHSkpNVTdlUmd6OU81OWFKQTRsNjJVeGRZNlhhY1BaVGhqeXBCazQ2TExfUEVHZ1hTVTZYckhJWHBmLWM2YTVLaXFwNmhrTmsxTm1Kbkpmd3N4OVAxOE9zd2p1YkxRWjdaZVBmVGVKNHl5eHpPZldVUndaOTM2QTdZcTRlUGdSVVpQTDd5eFZ3Vmp0c3k1UktNNVBnS2pzR1JSVVA0VlRFaDQyaGl5RG5kVExjbEpkWWMwekd5bTdueEdteg?oc=5",
+      "source": "Hindustan Times",
+      "date": "2026-08-10T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Parliamentary panel urges faster execution of strong defence order books.",
+      "enriched": true
+    },
+    {
       "id": "nebab0eeb730c",
       "ticker": "TENNIND",
       "company": "Tenneco Clean Air India Limited",
@@ -6677,25 +6773,6 @@
       "takeaway": "Zen Technologies bags Rs 295 crore order from Defence Ministry for simulators.",
       "enriched": true,
       "sources_count": 2
-    },
-    {
-      "id": "n6898da141fb4",
-      "ticker": "MACRO",
-      "company": "India Defence Exports",
-      "sector": "Capital Goods",
-      "scope": [
-        "universe"
-      ],
-      "title": "Strong defence order books must translate into faster execution: Parl panel | India News",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTjA3UjA5TmRXU01neU0yOHVja0VCMHhDTldSWlV5TmphTlMxbXF3bnVNTHFZQ2NmbHJVYnNQc0ZDRUVjaEMtdUQtbnM2VkZFNU1faGRzdEVOTDJURFI2bmZMbjRPbTdDdnM1UndKZkdIUk9MQ01PQVFVejY3XzQySEd1bTB5Um9GZkJSTTVmSDRFQ3MxcG5paUlxOU02bW5EcXlROFl0YmFac19jeHRiakRIUEl4WGRXNlhIa0R4NkJ6VlIxY1N5STROU3B4NWFKQl800gHYAUFVX3lxTE9yblJsTXdOTkFrVWd5dk5LbWNqQ0RHSkpNVTdlUmd6OU81OWFKQTRsNjJVeGRZNlhhY1BaVGhqeXBCazQ2TExfUEVHZ1hTVTZYckhJWHBmLWM2YTVLaXFwNmhrTmsxTm1Kbkpmd3N4OVAxOE9zd2p1YkxRWjdaZVBmVGVKNHl5eHpPZldVUndaOTM2QTdZcTRlUGdSVVpQTDd5eFZ3Vmp0c3k1UktNNVBnS2pzR1JSVVA0VlRFaDQyaGl5RG5kVExjbEpkWWMwekd5bTdueEdteg?oc=5",
-      "source": "Hindustan Times",
-      "date": "2026-08-10T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Parliamentary panel urges faster execution of strong defence order books.",
-      "enriched": true
     },
     {
       "id": "n88323ea56af9",
@@ -6892,25 +6969,6 @@
       "enriched": true
     },
     {
-      "id": "n5feab881b639",
-      "ticker": "SETL",
-      "company": "Standard Engineering Technology Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Standard Engineering Technology clarifies GScale acquisition funding in EGM corrigendum",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTEo0V093dEplRWpUNTVYWjJ6R2pSbzRvRlp6dEhRZHJXR2x6b25Da1pHdWRyRW1MWV84U2tIYkloejdNQ2lSMXFRYTFmWllId3gzTU5LdlZva0JtV2lYZDBZXzBGaHhEUE52SzVDdk1KeUJKQk8yMnZyaU1kNVdtNlBLZDZvby00UTZMR29CMlB1MDdTTXYtWTFNNDI1QVJEWlFCLVl4MVZKbnhMSHlJR25GUllnWGlrZjFzNEROYlpYWnRxOGE0X1lOMVZfQQ?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-08-04T07:00:00.000Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Standard Engineering Technology clarifies funding details for GScale acquisition in EGM corrigendum.",
-      "enriched": true
-    },
-    {
       "id": "nf1f382827cbc",
       "ticker": "THEME",
       "company": "Pharma Approvals",
@@ -6927,6 +6985,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Cipla receives US FDA approval for InvaGen's New York manufacturing facility.",
+      "enriched": true
+    },
+    {
+      "id": "n5feab881b639",
+      "ticker": "SETL",
+      "company": "Standard Engineering Technology Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Standard Engineering Technology clarifies GScale acquisition funding in EGM corrigendum",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTEo0V093dEplRWpUNTVYWjJ6R2pSbzRvRlp6dEhRZHJXR2x6b25Da1pHdWRyRW1MWV84U2tIYkloejdNQ2lSMXFRYTFmWllId3gzTU5LdlZva0JtV2lYZDBZXzBGaHhEUE52SzVDdk1KeUJKQk8yMnZyaU1kNVdtNlBLZDZvby00UTZMR29CMlB1MDdTTXYtWTFNNDI1QVJEWlFCLVl4MVZKbnhMSHlJR25GUllnWGlrZjFzNEROYlpYWnRxOGE0X1lOMVZfQQ?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-08-04T07:00:00.000Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Standard Engineering Technology clarifies funding details for GScale acquisition in EGM corrigendum.",
       "enriched": true
     },
     {
@@ -6990,26 +7067,6 @@
       "enriched": true
     },
     {
-      "id": "n49550dc0dfe3",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Aurionpro bags ₹50 cr MMRDA order",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNnR2UjIwSXI0bmkxalc3T3ppTy0yV2duYWJpWG5CU1k4cXBjZkZWTkF4ZUpjY0pXdHZqaGxTdzR2d3hYaV80aWdNYWZuU3RZN0xRX3Y0NUIta21vYVg3alRldkhRODN4V2o1WVBfV2xWeHJTcE5DMzVab1RSTHZlR2l4YTcyaVRYSEgxZEwxOUVXZw?oc=5",
-      "source": "Construction Week India",
-      "date": "2026-07-31T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Aurionpro wins ₹50 crore order from MMRDA for Mumbai Metro project.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "na2295d35fee7",
       "ticker": "THEME",
       "company": "Pharma Approvals",
@@ -7026,6 +7083,26 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Lupin receives U.S. FDA approval and launches Sugammadex Injection.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n49550dc0dfe3",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Aurionpro bags ₹50 cr MMRDA order",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNnR2UjIwSXI0bmkxalc3T3ppTy0yV2duYWJpWG5CU1k4cXBjZkZWTkF4ZUpjY0pXdHZqaGxTdzR2d3hYaV80aWdNYWZuU3RZN0xRX3Y0NUIta21vYVg3alRldkhRODN4V2o1WVBfV2xWeHJTcE5DMzVab1RSTHZlR2l4YTcyaVRYSEgxZEwxOUVXZw?oc=5",
+      "source": "Construction Week India",
+      "date": "2026-07-31T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Aurionpro wins ₹50 crore order from MMRDA for Mumbai Metro project.",
       "sources_count": 2,
       "enriched": true
     },
@@ -8198,87 +8275,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Lords Chloro Alkali Q2 revenue surges 44% on strong demand.",
-      "enriched": true
-    },
-    {
-      "id": "na99507b339c2",
-      "ticker": "LAXMIDENTL",
-      "company": "Laxmi Dental Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "LAXMIDENTL Q2 2026 Earnings: Revenue Growth of 14.77% YoY Amid Market Headwinds - Earnings Call Q&A",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZEJfSDM1TTIwZktFMDJGVXV1MUU3NFNMNnBVbDRaM0lmXzJ3TWZyYkw2ZWprSmY0SUJWcGRHMnkxdWFfNEp4QUZpRTNidWg1aXQ3UjRzdHEzNG9WVGRsZ1hlT3BqYnRsV0s5SUNiQ01OU0N2QXYtcGdROXZIdUNRR19tVGRWcTBqNXUyYXpPWDZYSTZwQTdOcWpMYkw1dVptQlFZZ3dlU2lGQnB2eWxDcTQ4MVJMZTU5U2c?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-01T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Laxmi Dental's Q2 revenue increased 14.77% year-on-year despite market challenges.",
-      "enriched": true,
-      "sources_count": 2
-    },
-    {
-      "id": "nadb99199cd58",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "DEE Development Engineers receives approval for issuance of 59.76 lakh shares at Rs 502 each",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVldVQTBDY2dlTFJ6UHJ4TUtJNWEzQkx3dk9UMlhCX0JZcW9lc1pId253a1l1eUlPSWxyZERZdXE3WXMwb2JqTzZVRHNkRktJY3h5U3liejF6LVI4QjV6blQwRDQtcVV6SzVtbExPWEVlSE93eWc1bGpoUHBTUXphR0xTcDlKMWFKY3ByV0I4VGxuVVJ0Y0RHRG95aG5fZ0ZFbVRISHhzbnpVaWQ4NTBzNTZTWHRXUFFQNG05N0gxdW1KRUVxenF1SQ?oc=5",
-      "source": "businessupturn.com",
-      "date": "2026-07-01T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Approval",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "DEE Development Engineers approved to issue 59.76 lakh shares at Rs 502 each to raise funds.",
-      "enriched": true
-    },
-    {
-      "id": "n70b4aa0f88ed",
-      "ticker": "CARTRADE",
-      "company": "Cartrade Tech Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "CARTRADE.NS Q2 2026 Earnings: Robust Revenue Growth Drives Profitability - Profit Announcement",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbEFMX3hJZ3ZHQlQ5VU1SWDRkRWkxaXlhR01IYURwdlJzSnJSOGZud05mOUp0ZHp4Nl9tTExSWGRLN1VYZ3EtZ2NOLThHRk45VW9CVjZjU3VScGFuMWJZcUdaTEZxVER6X3FhWTBnei1pbWlzck5GQzhNZ2hQRkNDSjhnX3NGdkZsX0JNY0p2NTBIR2FHWkp5eVhjQUI0TjgwelV5WU91c083Yi1PZ0JabHB3?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-01T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "CarTrade Tech's Q2 showed strong revenue growth driving improved profitability.",
-      "enriched": true,
-      "sources_count": 2
-    },
-    {
-      "id": "n6296b17243eb",
-      "ticker": "STLTECH",
-      "company": "Sterlite Technologies Limited",
-      "sector": "Telecommunication",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Cyril Amarchand Mangaldas, AZB & Partners, Hogan Lovells act on Sterlite Technologies ₹1,500 crore QIP",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeWdmRnFBWUd0cF8xZkVBaUxZWllPWXhrYU9hbFVydzVjWHlyQTJod0htb3NPb1hRNDV5X3ZzdUV2NTZZUUY4TWdiT3VKcWJpNlF5RGFrR20xMzdzekxRcndRMFNnd3FVMk9lancxWkxMOGpMMXc3eVJfcGt6ZG42R2tvOTg5YjV0SlNLb2lmTXB0SHlGOHl2elV3dzJhNzhjZVYwOUNfeGhURWFaS05fR1BLQjVrZTF1dVZyZ0FCQWFicm9yTmdqSG94cjV5LVdmaE9OT0xGWVhvVEhzWkHSAesBQVVfeXFMUC1rUGNaUFZpMmd0OFlvX1lObXQ5NmQwQzhJckkzV1prSUluVTZUcFVmQ2NuQm4wYlJGa2xTN3FPalBvWEYzc2JGRGNqVVdtR3RUNHBVTjRXM3FPeWE4Wi1TZ0dOQlA1Qzdncm0xUlBYRHNtTnNaazdvcS1uMTM2TDVHbHdYLW9lU1VPanNUX2RxN0VnUENBdmtOWXZDVlpTWldhWmpYX0RFdXB2OTBTWDRRbGVkcUFYaHM3UzByUmtQckZxU1R1VjNQWm5wNHdnRkJlVlVRUG9ZaFhzMEVObXctcU4tSWVNOEJ3TQ?oc=5",
-      "source": "Bar and Bench",
-      "date": "2026-07-01T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "QIP",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Sterlite Technologies completed ₹1,500 crore QIP fundraising.",
-      "sources_count": 2,
       "enriched": true
     },
     {
