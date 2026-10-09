@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T20:16:52.942Z",
+  "generated_at": "2026-10-09T09:44:49.980Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,126 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "ff7e7deaa2254",
+      "ticker": "TENNIND",
+      "company": "Tenneco Clean Air India Limited",
+      "exchange": "NSE",
+      "date": "2026-10-09T14:51:12.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Tenneco Clean Air India Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/TENNECO_09102026145040_Certificate_under_Reg_74_5_.pdf"
+    },
+    {
+      "id": "f3a255878d3a2",
+      "ticker": "SUNSHINE",
+      "company": "Sunshine Pictures Limited",
+      "exchange": "NSE",
+      "date": "2026-10-09T14:36:55.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Sunshine Pictures Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/SUNSHINE_09102026143646_74_5_DPRegulations.pdf"
+    },
+    {
+      "id": "f5b606eb0ee09",
+      "ticker": "WOCKPHARMA",
+      "company": "Wockhardt Limited",
+      "exchange": "NSE",
+      "date": "2026-10-09T14:36:47.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Pursuant to Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018, please find enclosed the Certificate received from MUFG Intime India Private Limited, Registrar and Share Transfer Agent of the Company for the quarter ended 30th September, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/WOCKPHARMA_09102026143603_Regulation74_5_certificate.pdf"
+    },
+    {
+      "id": "f12bcf594d3d8",
+      "ticker": "YASHO",
+      "company": "Yasho Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-10-09T14:02:07.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Yasho Industries Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/8291904474_09102026140158_covering.pdf"
+    },
+    {
+      "id": "f869e9c095684",
+      "ticker": "TRIVENI",
+      "company": "Triveni Engineering & Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-10-09T13:38:37.000Z",
+      "category": "Disclosure",
+      "title": "Triveni Engineering & Industries Limited has informed the Exchange regarding 'Receipt of Listing and Trading Approvals of TPTL from BSE and NSE'.",
+      "url": "https://nsearchives.nseindia.com/corporate/TRIVENI_09102026133828_INTIMATION__TPTL_LISTING.pdf"
+    },
+    {
+      "id": "f6cd9843859fe",
+      "ticker": "TRIVENI",
+      "company": "Triveni Engineering & Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-10-09T13:36:43.000Z",
+      "category": "Acquisition",
+      "title": "Triveni Engineering & Industries Limited has informed the Exchange about Scheme of Arrangement -Receipt of Listing and Trading Approvals of TPTL from BSE and NSE",
+      "url": "https://nsearchives.nseindia.com/corporate/TRIVENI_09102026133634_INTIMATION__TPTL_LISTING.pdf"
+    },
+    {
+      "id": "f9d5bad78eb91",
+      "ticker": "MEDIASSIST",
+      "company": "Medi Assist Healthcare Services Limited",
+      "exchange": "NSE",
+      "date": "2026-10-09T13:20:13.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Medi Assist Healthcare Services Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/MEDIASSIST_09102026131929_Reg7430092026.pdf"
+    },
+    {
+      "id": "f96248948f5b0",
+      "ticker": "RUBICON",
+      "company": "Rubicon Research Limited",
+      "exchange": "NSE",
+      "date": "2026-10-09T12:15:16.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Rubicon Research Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/9823522970_09102026121233_RRLSEIntimationReg74_5_.pdf"
+    },
+    {
+      "id": "ff4723e6becbb",
+      "ticker": "VENUSREM",
+      "company": "Venus Remedies Limited",
+      "exchange": "NSE",
+      "date": "2026-10-09T11:25:19.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Venus Remedies Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/VENUSREM_09102026112508_Reg_74_comp_Sep2026_VRL.pdf"
+    },
+    {
+      "id": "f7c3f6875702e",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "exchange": "NSE",
+      "date": "2026-10-09T10:49:00.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "DEE Development Engineers Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/DDEL_09102026104707_NSEBSE_74_5_.pdf"
+    },
+    {
+      "id": "fa0e6c2e13bfd",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "exchange": "NSE",
+      "date": "2026-10-09T10:37:05.000Z",
+      "category": "Disclosure",
+      "title": "DEE Development Engineers Limited has informed the Exchange regarding Monthly Execution & Order Position of the Company.",
+      "url": "https://nsearchives.nseindia.com/corporate/DDEL_09102026103259_NSEBSE_Monthly_Order_Book.pdf"
+    },
+    {
+      "id": "ff1ca6923de4f",
+      "ticker": "HILINFRA",
+      "company": "Highway Infrastructure Limited",
+      "exchange": "NSE",
+      "date": "2026-10-09T08:59:10.000Z",
+      "category": "Press Release",
+      "title": "Highway Infrastructure Limited has informed the Exchange regarding a press release dated October 09, 2026, titled \"Highway Infrastructure Limited Receives Work Order for Rs. 24.46 Crore Toll Operations Contract from NHAI\".",
+      "url": "https://nsearchives.nseindia.com/corporate/HIGHWAY123_09102026085436_HIL_Velanchettiyur_PR_Wo_08102026.pdf"
+    },
     {
       "id": "f7e2c9b3441d1",
       "ticker": "RUBICON",
@@ -19886,126 +20006,6 @@
       "category": "Change in Auditors",
       "title": "LG Electronics India Limited has informed the Exchange regarding Change in Auditors of the company.",
       "url": "https://nsearchives.nseindia.com/corporate/LGEINDIA_21072026172408_OutcomeBMJuly.pdf"
-    },
-    {
-      "id": "ff37b289a5144",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "exchange": "NSE",
-      "date": "2026-07-21T17:24:03.000Z",
-      "category": "Integrated Filing- Governance",
-      "title": "Apsis Aerocom Limited has informed exchange on Non-Applicability of Regulation 27 of SEBI (LODR) 2015 for the FY 2026-27 ending 30th June, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/APSIS2025_21072026172350_Apsis_30062026_NA_of_CG_signed.pdf"
-    },
-    {
-      "id": "f793971027dae",
-      "ticker": "LGEINDIA",
-      "company": "LG Electronics India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-21T17:22:32.000Z",
-      "category": "Board Meeting",
-      "title": "LG Electronics India Limited has informed the Exchange regarding Outcome of Board Meeting held on July 21, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/LGEINDIA_21072026172058_OutcomeBMJuly.pdf"
-    },
-    {
-      "id": "f57fe2ea3d009",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "exchange": "NSE",
-      "date": "2026-07-21T17:20:04.000Z",
-      "category": "Integrated Filing- Governance",
-      "title": "Apsis Aerocom Limited has informed exchange on Statement of Investor Complaints as per Regulation 13(3) of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 for the First Quarter of F.Y. 2026-27 ending 30th June, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/APSIS2025_21072026171949_Disclosure_Reg13Investorgrievance_signed.pdf"
-    },
-    {
-      "id": "fd14407286fbb",
-      "ticker": "MOBIKWIK",
-      "company": "One Mobikwik Systems Limited",
-      "exchange": "NSE",
-      "date": "2026-07-21T16:58:03.000Z",
-      "category": "Disclosure",
-      "title": "One Mobikwik Systems Limited has informed the Exchange about the investment in a wholly owned subsidiaries of the Company.",
-      "url": "https://nsearchives.nseindia.com/corporate/MOBIKWIK_21072026165649_Intimation.pdf"
-    },
-    {
-      "id": "f29012a708e19",
-      "ticker": "E2E",
-      "company": "E2E Networks Limited",
-      "exchange": "NSE",
-      "date": "2026-07-21T16:48:19.000Z",
-      "category": "Investor Presentation",
-      "title": "E2E Networks Limited has informed the Exchange about Investor Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/E2E_21072026164810_21072026E2E_Networks_-_Investor_Presentation_-_Q1_FY27.pdf"
-    },
-    {
-      "id": "f872d7963fb9b",
-      "ticker": "SENORES",
-      "company": "Senores Pharmaceuticals Limited",
-      "exchange": "NSE",
-      "date": "2026-07-21T16:19:17.000Z",
-      "category": "Investor Presentation",
-      "title": "Senores Pharmaceuticals Limited has informed the Exchange regarding Earnings Conference Call for Q1FY27 scheduled to be held on July 27, 2026 at 05:15 P.M. (IST)",
-      "url": "https://nsearchives.nseindia.com/corporate/SENORES_21072026161904_Reg_30_earningscall_SPL_final_signed.pdf"
-    },
-    {
-      "id": "f1cc04baaf7ea",
-      "ticker": "SBIFUNDS",
-      "company": "SBI Funds Management Limited",
-      "exchange": "NSE",
-      "date": "2026-07-21T15:44:52.000Z",
-      "category": "Disclosure",
-      "title": "SBI Funds Management Limited has informed the Exchange regarding 'Intimation under Regulation 8 (2) of the Securities Exchange Board of India (Prohibition of Insider Trading)Regulations, 2015 ( PIT Regulations )'.",
-      "url": "https://nsearchives.nseindia.com/corporate/SBIMF2026_21072026154336_Fair_Disclosure_Policy.pdf"
-    },
-    {
-      "id": "f59b433648352",
-      "ticker": "SBIFUNDS",
-      "company": "SBI Funds Management Limited",
-      "exchange": "NSE",
-      "date": "2026-07-21T15:35:27.000Z",
-      "category": "Disclosure",
-      "title": "SBI Funds Management Limited has informed the Exchange regarding 'Disclosure under Regulation 30(5) of Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements), Regulations, 2015'.",
-      "url": "https://nsearchives.nseindia.com/corporate/SBIMF2026_21072026153430_SBIFM_Authrisation_of_Materiality.pdf"
-    },
-    {
-      "id": "f42d98412c21f",
-      "ticker": "SBIFUNDS",
-      "company": "SBI Funds Management Limited",
-      "exchange": "NSE",
-      "date": "2026-07-21T15:16:24.000Z",
-      "category": "Trading Window",
-      "title": "SBI Funds Management Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/SBIMF2026_21072026151601_SBIFM_ClosureofTradingWindow_June_2026.pdf"
-    },
-    {
-      "id": "f86af78747d41",
-      "ticker": "VOEPL",
-      "company": "Virtuoso Optoelectronics Limited",
-      "exchange": "NSE",
-      "date": "2026-07-21T15:01:11.000Z",
-      "category": "Board Meeting",
-      "title": "Allotment of Shares pursuant to the conversion of warrants into equity",
-      "url": "https://nsearchives.nseindia.com/corporate/VIRTUOSO_21072026150021_Allotment.pdf"
-    },
-    {
-      "id": "fa18eeeb96f6f",
-      "ticker": "SGMART",
-      "company": "SG Mart Limited",
-      "exchange": "NSE",
-      "date": "2026-07-21T14:35:26.000Z",
-      "category": "Newspaper Publication",
-      "title": "SG Mart Limited has informed the Exchange about Copy of Newspaper Publication",
-      "url": "https://nsearchives.nseindia.com/corporate/SGMART_21072026143502_Intimation_FR_Newpaper_Publishing.pdf"
-    },
-    {
-      "id": "f4af66ec9ba9d",
-      "ticker": "E2E",
-      "company": "E2E Networks Limited",
-      "exchange": "NSE",
-      "date": "2026-07-21T13:58:09.000Z",
-      "category": "Press Release",
-      "title": "E2E Networks Limited has informed the Exchange regarding a press release dated July 21, 2026, titled \"Press Release: E2E Networks Reports Q1 FY 27 Results\".",
-      "url": "https://nsearchives.nseindia.com/corporate/E2E_21072026135751_Press_Release21072026.pdf"
     }
   ]
 }
