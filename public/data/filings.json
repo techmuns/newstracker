@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T09:44:49.980Z",
+  "generated_at": "2026-10-09T20:15:16.217Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,126 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f26183180305f",
+      "ticker": "CANFINHOME",
+      "company": "Can Fin Homes Limited",
+      "exchange": "NSE",
+      "date": "2026-10-09T23:26:36.000Z",
+      "category": "Investor Presentation",
+      "title": "Can Fin Homes Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/CANFINHOME_09102026232624_SE_Investor_presentation_30092026.pdf"
+    },
+    {
+      "id": "f7c9c1936b46c",
+      "ticker": "GANESHBE",
+      "company": "Ganesh Benzoplast Limited",
+      "exchange": "NSE",
+      "date": "2026-10-09T22:00:00.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Ganesh Benzoplast Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/GANESHBE_09102026215946_Regulation74compliancecertifcate30092026.pdf"
+    },
+    {
+      "id": "f416b76e718d4",
+      "ticker": "CANFINHOME",
+      "company": "Can Fin Homes Limited",
+      "exchange": "NSE",
+      "date": "2026-10-09T20:16:54.000Z",
+      "category": "Press Release",
+      "title": "Can Fin Homes Limited has informed the Exchange regarding a press release dated October 09, 2026, titled \"Press release on the Financial performance of the company for the Quarter and Half year ended September 30,2026.\".",
+      "url": "https://nsearchives.nseindia.com/corporate/CANFINHOME_09102026201644_SE_Intimation_press_release_Q2FY27.pdf"
+    },
+    {
+      "id": "feb873188b8e9",
+      "ticker": "RUBICON",
+      "company": "Rubicon Research Limited",
+      "exchange": "NSE",
+      "date": "2026-10-09T20:16:34.000Z",
+      "category": "Disclosure",
+      "title": "Rubicon Research Limited has informed the Exchange about General Updates",
+      "url": "https://nsearchives.nseindia.com/corporate/9823522970_09102026201501_RRLSEintimationSatarasiteUSFDAinspectionupdate09Oct26docx.pdf"
+    },
+    {
+      "id": "f5c2243d6d649",
+      "ticker": "URBANCO",
+      "company": "Urban Company Limited",
+      "exchange": "NSE",
+      "date": "2026-10-09T19:12:17.000Z",
+      "category": "Investor Presentation",
+      "title": "Urban Company Limited has informed the Exchange about Schedule of Earnings Call to be held on Friday, October 16, 2026 to discuss the financial results of the Company for the quarter and half year ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_09102026191203_BM_Earnings_Call_Intimation_Q2FY27.pdf"
+    },
+    {
+      "id": "fd3d8aae61119",
+      "ticker": "CANFINHOME",
+      "company": "Can Fin Homes Limited",
+      "exchange": "NSE",
+      "date": "2026-10-09T19:08:20.000Z",
+      "category": "Board Meeting",
+      "title": "Can Fin Homes Limited has submitted to the Exchange regarding the Outcome of Board Meeting of Un-Audited Financial Results for the 2nd Quarter and Half Year Ended on September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/CANFINHOME_09102026190342_SE_Intimation_Outcome_of_Q2_H1_FY27.pdf"
+    },
+    {
+      "id": "fbd8c3518a8bf",
+      "ticker": "FLYSBS",
+      "company": "FlySBS Aviation Limited",
+      "exchange": "NSE",
+      "date": "2026-10-09T19:00:11.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "FlySBS Aviation Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/FLYSBS_09102026185951_Reg74.pdf"
+    },
+    {
+      "id": "fabf3f4737167",
+      "ticker": "JUBLCPL",
+      "company": "Jubilant Agri and Consumer Products Limited",
+      "exchange": "NSE",
+      "date": "2026-10-09T18:58:01.000Z",
+      "category": "Acquisition",
+      "title": "Jubilant Agri and Consumer Products Limited has informed the Exchange about Second Motion Petition for Scheme of Arrangement for Demerger",
+      "url": "https://nsearchives.nseindia.com/corporate/JACPL_09102026185743_Intimation_2nd_MotionSigned.pdf"
+    },
+    {
+      "id": "f38decda9d381",
+      "ticker": "LUMINO",
+      "company": "Lumino Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-10-09T18:35:40.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Lumino Industries Limited has informed the Exchange about Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended 30th September, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/LUMINO123_09102026183523_Certificate_under_Reg_74_5__of_SEBI_DP_Regulations.pdf"
+    },
+    {
+      "id": "f4fbb317810cc",
+      "ticker": "DIXON",
+      "company": "Dixon Technologies (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-10-09T18:23:50.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Dixon Technologies (India) Limited has informed the Exchange about Certificate under 74(5) SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended on 30th September, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/DIXON_09102026182235_Reg74_5_Disclosure09102026.pdf"
+    },
+    {
+      "id": "f9f913495e582",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries India Limited",
+      "exchange": "NSE",
+      "date": "2026-10-09T16:21:41.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Solar Industries India Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/SOLARINDS_09102026162117_Regulation74Sd.pdf"
+    },
+    {
+      "id": "fa25f0ddb8210",
+      "ticker": "SHAILY",
+      "company": "Shaily Engineering Plastics Limited",
+      "exchange": "NSE",
+      "date": "2026-10-09T15:19:00.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Shaily Engineering Plastics Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/Shailyengineering_09102026151851_Covering_Letter_signed.pdf"
+    },
     {
       "id": "ff7e7deaa2254",
       "ticker": "TENNIND",
@@ -2076,6 +2196,16 @@
       "category": "ESOP/ESOS/ESPS",
       "title": "Meesho Limited has informed the Exchange regarding Allotment of 1228752 Shares.",
       "url": "https://nsearchives.nseindia.com/corporate/MEESHO_29092026121437_MLIntimationAllotmentofESOPs29Sep2026.pdf"
+    },
+    {
+      "id": "f11c5052494ed",
+      "ticker": "SBIFUNDS",
+      "company": "SBI Funds Management Limited",
+      "exchange": "NSE",
+      "date": "2026-09-29T12:12:59.000Z",
+      "category": "Trading Window",
+      "title": "SBI Funds Management Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/SBIMF2026_29092026121246_SE_Trading_window_closure_300926_signed.pdf"
     },
     {
       "id": "f4415ededb0ba",
@@ -19876,136 +20006,6 @@
       "category": "Newspaper Publication",
       "title": "Venus Remedies Limited has informed the Exchange about Copy of Newspaper Publication",
       "url": "https://nsearchives.nseindia.com/corporate/VENUSREM_22072026115757_newspaper_UFR_June2026.pdf"
-    },
-    {
-      "id": "f45cd1fb589db",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "exchange": "NSE",
-      "date": "2026-07-22T11:20:07.000Z",
-      "category": "ESOP/ESOS/ESPS",
-      "title": "Meesho Limited has informed the Exchange regarding allotment of 271303 equity shares pursuant to exercise of ESOP.",
-      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_22072026111739_MLIntimationAllotmentofESOPs22July2026.pdf"
-    },
-    {
-      "id": "f8ae81897dfd4",
-      "ticker": "NORTHARC",
-      "company": "Northern Arc Capital Limited",
-      "exchange": "NSE",
-      "date": "2026-07-22T11:01:38.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Northern Arc Capital Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/NACL2020_22072026110130_RSCA_SDD.pdf"
-    },
-    {
-      "id": "f5dd988ea2e78",
-      "ticker": "EPIGRAL",
-      "company": "Epigral Limited",
-      "exchange": "NSE",
-      "date": "2026-07-22T10:54:49.000Z",
-      "category": "Spurt in Volume",
-      "title": "Significant increase in volume has been observed in Epigral Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the market place so that the interest of the investors is safeguarded, had written to the company. Epigral Limited has submitted their response.",
-      "url": "https://nsearchives.nseindia.com/corporate/MFL_22072026105409_NSE_Reply_-_Spurt_in_Volume.pdf"
-    },
-    {
-      "id": "fd6c3ebba8642",
-      "ticker": "BHARATCOAL",
-      "company": "Bharat Coking Coal Limited",
-      "exchange": "NSE",
-      "date": "2026-07-22T10:51:47.000Z",
-      "category": "Disclosure",
-      "title": "Bharat Coking Coal Limited has informed the Exchange regarding 'Presentation made by Company on the Quarterly Financial Results for the 1st Quarter ended 30th June 2026'.",
-      "url": "https://nsearchives.nseindia.com/corporate/BCCL_22072026105102_Corporate_PPT.pdf"
-    },
-    {
-      "id": "f6a6302e05618",
-      "ticker": "VBL",
-      "company": "Varun Beverages Limited",
-      "exchange": "NSE",
-      "date": "2026-07-22T09:59:44.000Z",
-      "category": "Investor Presentation",
-      "title": "Pursuant to the provisions of Regulation 30(6) read with Part A of Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that the Company will host a conference call with Investors and Analysts on Tuesday, July 28, 2026 at 2:30 P.M. (IST). Details of the conference call with Investors and Analysts are enclosed.",
-      "url": "https://nsearchives.nseindia.com/corporate/VBL_22072026095907_Intimation.pdf"
-    },
-    {
-      "id": "ffa45265104cc",
-      "ticker": "BHARATCOAL",
-      "company": "Bharat Coking Coal Limited",
-      "exchange": "NSE",
-      "date": "2026-07-22T01:37:09.000Z",
-      "category": "Board Meeting",
-      "title": "Bharat Coking Coal Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/BCCL_22072026013411_Financial_Results.pdf"
-    },
-    {
-      "id": "f83a27b98f7d8",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-21T20:33:13.000Z",
-      "category": "Shareholders meeting",
-      "title": "Sapphire Foods India Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on 21st July 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/SAPPHIRE_21072026203259_ProceedingsofAGMSFIL21072026.pdf"
-    },
-    {
-      "id": "fa4abb39c1cc5",
-      "ticker": "STLTECH",
-      "company": "Sterlite Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-21T19:42:56.000Z",
-      "category": "Disclosure",
-      "title": "Sterlite Technologies Limited has informed the Exchange about General Updates - Intimation of 27th Annual General Meeting and cut-off date for e-voting.",
-      "url": "https://nsearchives.nseindia.com/corporate/STLTECH_21072026193519_SE_Intimation_AGM_signed.pdf"
-    },
-    {
-      "id": "f96ffca7c9fea",
-      "ticker": "VIVIDEL",
-      "company": "Vivid Electromech Limited",
-      "exchange": "NSE",
-      "date": "2026-07-21T19:35:35.000Z",
-      "category": "Investor Presentation",
-      "title": "Vivid Electromech Limited has informed the Exchange about Cancellation of Scheduled Analyst / Institutional Investor Meet scheduled to be held on Tuesday, July 21st, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/VIVID_21072026193518_Cancellation_of_Meeting.pdf"
-    },
-    {
-      "id": "f68aca72a6452",
-      "ticker": "CURRENT",
-      "company": "Current Infraprojects Limited",
-      "exchange": "NSE",
-      "date": "2026-07-21T18:27:06.000Z",
-      "category": "Disclosure",
-      "title": "Current Infraprojects Limited has informed the Exchange regarding 'non-applicability of filing quarterly Compliance Report on Corporate Governance under Regulation 27(2) of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015'.",
-      "url": "https://nsearchives.nseindia.com/corporate/CURRENTINFRA_21072026182641_NON_APPLICABILITY_27_2_.pdf"
-    },
-    {
-      "id": "f7173b2e02b25",
-      "ticker": "CURRENT",
-      "company": "Current Infraprojects Limited",
-      "exchange": "NSE",
-      "date": "2026-07-21T18:21:08.000Z",
-      "category": "Agreements",
-      "title": "Current Infraprojects Limited has informed the Exchange about Agreements",
-      "url": "https://nsearchives.nseindia.com/corporate/CURRENTINFRA_21072026181602_INTIMATION_HDFC.pdf"
-    },
-    {
-      "id": "fe7e4da5fb67a",
-      "ticker": "E2E",
-      "company": "E2E Networks Limited",
-      "exchange": "NSE",
-      "date": "2026-07-21T17:49:00.000Z",
-      "category": "Monitoring Agency Report",
-      "title": "Monitoring Agency Reports for the quarter ending on June 30, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/E2E_21072026174842_MAR_Final.pdf"
-    },
-    {
-      "id": "fe66f9fdf133a",
-      "ticker": "LGEINDIA",
-      "company": "LG Electronics India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-21T17:25:10.000Z",
-      "category": "Change in Auditors",
-      "title": "LG Electronics India Limited has informed the Exchange regarding Change in Auditors of the company.",
-      "url": "https://nsearchives.nseindia.com/corporate/LGEINDIA_21072026172408_OutcomeBMJuly.pdf"
     }
   ]
 }
