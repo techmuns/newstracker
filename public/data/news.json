@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-09T09:41:58.489Z",
+  "generated_at": "2026-10-09T19:53:39.235Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 98,
-    "watchlist": 397,
+    "watchlist": 395,
     "universe": 47,
-    "total": 444
+    "total": 442
   },
   "items": [
     {
@@ -25,7 +25,8 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "DEE Development Engineers' order book expanded to ₹2,531 crore as of September 2026.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 5
     },
     {
       "id": "n4347b215192a",
@@ -44,25 +45,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Lupin received US FDA approval for Phytonadione Injectable Emulsion.",
-      "enriched": true
-    },
-    {
-      "id": "nb41d45f2a1ef",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "DEE Development Engineers reports order execution of ₹225.17 crores in September 2026",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSE85TnVEMWRzVHBTSkNOU0dqbGhtNV9nRVBkeWsta0tlaDZ4YzBEUWk0MlFzS2V3eDNBNEpWVE1Vdl9Gc2RNQU9RZEZhdDZIQjIzSEFmUVBlcUkwSE8zTDhZT0tXVmZncWYxdW9qU3ZUUnJuUm9nLXVtT1BWS0tuZm5KS2JkLVk4RHBQOVNTV1FGclIzMFRiemQ1U1E3Ml9tVmkxbFpGbUh5UV9GUTBUQm5VWkJKTnp1ZWJvV2FES28?oc=5",
-      "source": "Business Upturn",
-      "date": "2026-10-09T05:16:47.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "DEE Development Engineers executed orders worth ₹225 crore in September 2026.",
       "enriched": true
     },
     {
@@ -160,7 +142,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Aurionpro wins ₹150 crore data centre order from a global hyperscaler client.",
-      "sources_count": 8,
+      "sources_count": 7,
       "enriched": true
     },
     {
@@ -4707,7 +4689,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Secured export order for lab-grown diamond jewellery.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -6694,26 +6676,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Jyoti CNC plans capacity expansion targeting revenue growth by FY27.",
-      "enriched": true
-    },
-    {
-      "id": "n9aaaefe5a68f",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "DEE Development Engineers Reports Strong Order Book Position of ₹2,428.79 Crore as of July 2026",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03ZTBhbXlMRlQzWDFtaGk0MXJuYzVXcmNzbUdFckJhZFFiWXFQd0tQVVd3MVZhTU56MURxQVVCVi0zMnd6dXE4TVF3aXpLRW9OT0ViMWdFNXA3dGt4TFZB?oc=5",
-      "source": "EquityBulls",
-      "date": "2026-08-10T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "DEE Development Engineers has a strong order book of ₹2,429 crore as of July 2026.",
-      "sources_count": 2,
       "enriched": true
     },
     {

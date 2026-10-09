@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T20:06:52.237Z",
+  "generated_at": "2026-10-09T19:40:31.098Z",
   "portfolio": [
     {
       "company": "Monolithisch India Limited",
@@ -17,14 +17,14 @@
       "sector": "Capital Goods"
     },
     {
-      "company": "Menon Bearings Limited",
-      "ticker": "MENONBE",
-      "sector": "Automobile and Auto Components"
-    },
-    {
       "company": "Sterlite Technologies Limited",
       "ticker": "STLTECH",
       "sector": "Telecommunication"
+    },
+    {
+      "company": "Menon Bearings Limited",
+      "ticker": "MENONBE",
+      "sector": "Automobile and Auto Components"
     },
     {
       "company": "Shadowfax Technologies Limited",
@@ -65,11 +65,6 @@
       "company": "Sudeep Pharma Limited",
       "ticker": "SUDEEPPHRM",
       "sector": "Chemicals"
-    },
-    {
-      "company": "Omnitech Engineering Limited",
-      "ticker": "OMNI",
-      "sector": "Capital Goods"
     },
     {
       "company": "Orient Cables (India) Limited",
@@ -367,6 +362,11 @@
       "company": "Northern Arc Capital Limited",
       "ticker": "NORTHARC",
       "sector": "Financial Services"
+    },
+    {
+      "company": "Omnitech Engineering Limited",
+      "ticker": "OMNI",
+      "sector": "Capital Goods"
     },
     {
       "company": "Onesource Specialty Pharma Limited",
