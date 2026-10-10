@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-10-10T08:56:38.401Z",
+  "generated_at": "2026-10-10T19:00:43.017Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 97,
-    "watchlist": 394,
-    "universe": 44,
-    "total": 438
+    "portfolio": 98,
+    "watchlist": 395,
+    "universe": 47,
+    "total": 442
   },
   "items": [
+    {
+      "id": "n5e2ca8f0b844",
+      "ticker": "GLOBAL",
+      "company": "PFAS Regulation",
+      "sector": "Chemicals",
+      "scope": [
+        "universe"
+      ],
+      "title": "Fluorochemicals Market Gains Momentum as Gujarat Fluorochemicals Plans Refrigerant Capacity Expansion in 2026",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdzRUa0x2dUs0aFNCbHRDckp5WVFWN0o2MTFKZDNBQ2VFNTY1NVZscDJZZlRtWVVkWUtLS3M5dzdEVVVVLWNqVTFXdTBVSWFzVm9PX1V0V3NmMFJkcF9JSVVoU29zc25RbTVlekgzQmQ4Z2h6NDlqU0lLU2hMUF9vM1p2aXlpcjN6a1R1bQ?oc=5",
+      "source": "openPR.com",
+      "date": "2026-10-10T13:48:26.000Z",
+      "topic": "Growth",
+      "keyword": "Capacity Expansion",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Gujarat Fluorochemicals plans to expand refrigerant production capacity in 2026.",
+      "enriched": true
+    },
     {
       "id": "n14c8be2c1e78",
       "ticker": "DEEDEV",
@@ -27,6 +46,25 @@
       "takeaway": "DEE Development Engineers' order book expanded to ₹2,531 crore as of September 2026.",
       "enriched": true,
       "sources_count": 5
+    },
+    {
+      "id": "n410670316ff6",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
+      "scope": [
+        "universe"
+      ],
+      "title": "Lupin receives USFDA approval for Phytonadione Injectable Emulsion",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT01CRTlpYTkxVXRrempVUlpNZWZGa0pEazhVSVlTYnRNM3FVMlZ6bU1wbHpXUTVtMlZNU2Z4TktpS2JNbE5TcHpMelpYaXo5Zm4zQ3N1N1doYVZVM3pkTWJpV1JKTXUycE9jZFFfNGUtUmo2NzJRVkJ5QjNDajVLTnYxNzJoZ0d3el9Zd2NiN2tnWW95NHdfemFueGM?oc=5",
+      "source": "Express Pharma",
+      "date": "2026-10-09T06:29:30.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Lupin receives US FDA approval for Phytonadione Injectable Emulsion.",
+      "enriched": true
     },
     {
       "id": "n55787a26b571",
@@ -6893,25 +6931,6 @@
       "enriched": true
     },
     {
-      "id": "n5feab881b639",
-      "ticker": "SETL",
-      "company": "Standard Engineering Technology Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Standard Engineering Technology clarifies GScale acquisition funding in EGM corrigendum",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTEo0V093dEplRWpUNTVYWjJ6R2pSbzRvRlp6dEhRZHJXR2x6b25Da1pHdWRyRW1MWV84U2tIYkloejdNQ2lSMXFRYTFmWllId3gzTU5LdlZva0JtV2lYZDBZXzBGaHhEUE52SzVDdk1KeUJKQk8yMnZyaU1kNVdtNlBLZDZvby00UTZMR29CMlB1MDdTTXYtWTFNNDI1QVJEWlFCLVl4MVZKbnhMSHlJR25GUllnWGlrZjFzNEROYlpYWnRxOGE0X1lOMVZfQQ?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-08-04T07:00:00.000Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Standard Engineering Technology clarifies funding details for GScale acquisition in EGM corrigendum.",
-      "enriched": true
-    },
-    {
       "id": "nf1f382827cbc",
       "ticker": "THEME",
       "company": "Pharma Approvals",
@@ -6928,6 +6947,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Cipla receives US FDA approval for InvaGen's New York manufacturing facility.",
+      "enriched": true
+    },
+    {
+      "id": "n5feab881b639",
+      "ticker": "SETL",
+      "company": "Standard Engineering Technology Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Standard Engineering Technology clarifies GScale acquisition funding in EGM corrigendum",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTEo0V093dEplRWpUNTVYWjJ6R2pSbzRvRlp6dEhRZHJXR2x6b25Da1pHdWRyRW1MWV84U2tIYkloejdNQ2lSMXFRYTFmWllId3gzTU5LdlZva0JtV2lYZDBZXzBGaHhEUE52SzVDdk1KeUJKQk8yMnZyaU1kNVdtNlBLZDZvby00UTZMR29CMlB1MDdTTXYtWTFNNDI1QVJEWlFCLVl4MVZKbnhMSHlJR25GUllnWGlrZjFzNEROYlpYWnRxOGE0X1lOMVZfQQ?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-08-04T07:00:00.000Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Standard Engineering Technology clarifies funding details for GScale acquisition in EGM corrigendum.",
       "enriched": true
     },
     {
@@ -6991,26 +7029,6 @@
       "enriched": true
     },
     {
-      "id": "n49550dc0dfe3",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Aurionpro bags ₹50 cr MMRDA order",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNnR2UjIwSXI0bmkxalc3T3ppTy0yV2duYWJpWG5CU1k4cXBjZkZWTkF4ZUpjY0pXdHZqaGxTdzR2d3hYaV80aWdNYWZuU3RZN0xRX3Y0NUIta21vYVg3alRldkhRODN4V2o1WVBfV2xWeHJTcE5DMzVab1RSTHZlR2l4YTcyaVRYSEgxZEwxOUVXZw?oc=5",
-      "source": "Construction Week India",
-      "date": "2026-07-31T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Aurionpro wins ₹50 crore order from MMRDA for Mumbai Metro project.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "na2295d35fee7",
       "ticker": "THEME",
       "company": "Pharma Approvals",
@@ -7028,6 +7046,26 @@
       "mood": "positive",
       "takeaway": "Lupin receives U.S. FDA approval and launches Sugammadex Injection.",
       "sources_count": 4,
+      "enriched": true
+    },
+    {
+      "id": "n49550dc0dfe3",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Aurionpro bags ₹50 cr MMRDA order",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNnR2UjIwSXI0bmkxalc3T3ppTy0yV2duYWJpWG5CU1k4cXBjZkZWTkF4ZUpjY0pXdHZqaGxTdzR2d3hYaV80aWdNYWZuU3RZN0xRX3Y0NUIta21vYVg3alRldkhRODN4V2o1WVBfV2xWeHJTcE5DMzVab1RSTHZlR2l4YTcyaVRYSEgxZEwxOUVXZw?oc=5",
+      "source": "Construction Week India",
+      "date": "2026-07-31T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Aurionpro wins ₹50 crore order from MMRDA for Mumbai Metro project.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -7377,6 +7415,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Sterlite Technologies posted record Q1 FY27 results with strong performance.",
+      "enriched": true
+    },
+    {
+      "id": "nabf8b0e904c2",
+      "ticker": "THEME",
+      "company": "Specialty Chemicals",
+      "sector": "Chemicals",
+      "scope": [
+        "universe"
+      ],
+      "title": "Fineotex Chemical Q1 FY27 Earnings Release: Posts Robust Growth with Revenue at Rs 386.72 Crore",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNThFMlFSTXZQY2Nvd3V5bjRwTkRyTjdRLUpYWF95ZDBrTTdDRGRKcU5jRkRmT25qT1ZFR25lTkFieXRtX1FWb0JtYXBfQ3FyMlhFLW1XbGFtSDI0amt2MW90MVFLaEh6cExDX0FHWTBVSlhZTE9FR1NLdkY5LUZRTjJRempLbzF4VkhxQ0Eyak1kSHBIVWJFQUFMdVNxZTdNN2Z1UmVIblFDTklObzdmV1hZeVVpcnBESjhxMnlxNFBGYkg5SkIza2puNmhidUVVbXUw?oc=5",
+      "source": "https://www.indiagazette.com/",
+      "date": "2026-07-24T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Fineotex Chemical reported Q1 FY27 revenue of Rs 386.72 crore, showing robust growth.",
       "enriched": true
     },
     {
@@ -8200,7 +8257,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "RPSG Group considering selling 15-20% stake in IPL team Lucknow Super Giants.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -8316,6 +8373,26 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Virtuoso Optoelectronics board to meet regarding share issue.",
+      "enriched": true
+    },
+    {
+      "id": "n9c50dd204e22",
+      "ticker": "SENORES",
+      "company": "Senores Pharmaceuticals Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Senores Pharmaceuticals Q1 FY27: Robust Growth Momentum Continues Despite Margin Pressure",
+      "url": "https://www.marketsmojo.com/news/result-analysis/senores-pharmaceuticals-q1-fy27-robust-growth-momentum-continues-despite-margin-pressure-4123011",
+      "source": "marketsmojo.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Senores Pharma Q1 FY27 shows strong revenue growth but faces margin pressure.",
       "enriched": true
     },
     {
