@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-09T19:53:39.235Z",
+  "generated_at": "2026-10-10T08:56:38.401Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 98,
-    "watchlist": 395,
-    "universe": 47,
-    "total": 442
+    "portfolio": 97,
+    "watchlist": 394,
+    "universe": 44,
+    "total": 438
   },
   "items": [
     {
@@ -29,25 +29,6 @@
       "sources_count": 5
     },
     {
-      "id": "n4347b215192a",
-      "ticker": "THEME",
-      "company": "Pharma Approvals",
-      "sector": "Healthcare",
-      "scope": [
-        "universe"
-      ],
-      "title": "Lupin receives USFDA approval for Phytonadione Injectable Emulsion",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbDBhRmFScWVjR0FKenFHdWtRdzRKRFJ0MF9xWVN4MkxsSkNRNWZrbkQtOG9ta0tISklfWEFFUHBFUVRxRGpaNTZqMUhzWXNKR05TNjRaa2VKcW9EMU9qQUJ1S0YzUDhjOFpDQ3pwZk9oVnVyVlRZM2tDb3dKZkdETzVGYk9NZWNQekR4cTkzdmszVThEcGZNOWlWRkZXZ3gzTFE?oc=5",
-      "source": "Express Pharma",
-      "date": "2026-10-09T07:38:33.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Lupin received US FDA approval for Phytonadione Injectable Emulsion.",
-      "enriched": true
-    },
-    {
       "id": "n55787a26b571",
       "ticker": "MACRO",
       "company": "India Defence Exports",
@@ -64,7 +45,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "BEML secured ₹75.58 crore order for military vehicle exports.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -2956,25 +2937,6 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Company Secretary Aarti Sahni resigned from Shivalik Bimetal Controls.",
-      "enriched": true
-    },
-    {
-      "id": "n86475c0d4307",
-      "ticker": "THEME",
-      "company": "Pharma Approvals",
-      "sector": "Healthcare",
-      "scope": [
-        "universe"
-      ],
-      "title": "Lupin receives US FDA approval for Modafinil Tablets, USP",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSlVhTVhJcnFleWs5Zm1HN2ZLSmUwRWFYZV96TDhPREJPZnpPaTVDWm1IbUMtMGRldVhUUW52d3Bibkoza1FQd2JZOE9lT01GQnZFT0djaWZkYWZYanBNcnhPdHgwMzVUOFI5N2c0MzBpNmZiWWYzaF9mdGJROGhkbE5QX2tydTFXaU85b3NxSQ?oc=5",
-      "source": "Express Pharma",
-      "date": "2026-09-07T08:51:31.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Lupin received US FDA approval for Modafinil Tablets, expanding its product portfolio.",
       "enriched": true
     },
     {
@@ -6931,25 +6893,6 @@
       "enriched": true
     },
     {
-      "id": "nf1f382827cbc",
-      "ticker": "THEME",
-      "company": "Pharma Approvals",
-      "sector": "Healthcare",
-      "scope": [
-        "universe"
-      ],
-      "title": "Cipla Receives USFDA Approval Confirmation for InvaGen's New York Manufacturing Facility",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaHJ4QU1wWWF6S3RxQnNIY3hBRnBwWUNKZWRCQzJkazRGaHBUS0JTaDRPRWpWSGVGLXE1NU8wb2hmN0V6RmlQeEFmTDZpaS1iNVJpZzRoV1lhSnh6cThqVFlKVkVvYTdaTXRkQUxEZXFpUjBVbGgzTlVmZ0d5MVJ4WmRQblkxWXFRaXlaUXgweTllWFFydlhRQnhxZ1ZqWmk3MGIwbjNibGN6dFZpM2hQSzYzX2Y3LWhkd2xNeS1UWlZEdkdGWWc?oc=5",
-      "source": "sahi.com",
-      "date": "2026-08-04T07:00:00.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Cipla receives US FDA approval for InvaGen's New York manufacturing facility.",
-      "enriched": true
-    },
-    {
       "id": "n5feab881b639",
       "ticker": "SETL",
       "company": "Standard Engineering Technology Limited",
@@ -6966,6 +6909,25 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Standard Engineering Technology clarifies funding details for GScale acquisition in EGM corrigendum.",
+      "enriched": true
+    },
+    {
+      "id": "nf1f382827cbc",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
+      "scope": [
+        "universe"
+      ],
+      "title": "Cipla Receives USFDA Approval Confirmation for InvaGen's New York Manufacturing Facility",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaHJ4QU1wWWF6S3RxQnNIY3hBRnBwWUNKZWRCQzJkazRGaHBUS0JTaDRPRWpWSGVGLXE1NU8wb2hmN0V6RmlQeEFmTDZpaS1iNVJpZzRoV1lhSnh6cThqVFlKVkVvYTdaTXRkQUxEZXFpUjBVbGgzTlVmZ0d5MVJ4WmRQblkxWXFRaXlaUXgweTllWFFydlhRQnhxZ1ZqWmk3MGIwbjNibGN6dFZpM2hQSzYzX2Y3LWhkd2xNeS1UWlZEdkdGWWc?oc=5",
+      "source": "sahi.com",
+      "date": "2026-08-04T07:00:00.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Cipla receives US FDA approval for InvaGen's New York manufacturing facility.",
       "enriched": true
     },
     {
@@ -7029,26 +6991,6 @@
       "enriched": true
     },
     {
-      "id": "na2295d35fee7",
-      "ticker": "THEME",
-      "company": "Pharma Approvals",
-      "sector": "Healthcare",
-      "scope": [
-        "universe"
-      ],
-      "title": "Lupin Announces U.S. FDA Approval and Launch of Sugammadex Injection - Lupin | Press Release",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSFBhNjE2Mk5ITE5VV3V6cngzNi1pdENoeFlGRGtjcUNsbE1HY1RHLXQyZy16YXlVM3RRWkdLdkdPa05aeFVFaDBvWWNieWVWVzBydXVjQVVZeE9ONmxHeXhyLWR1Q2o3RkZzNU5ON0R2QWtXV0NjM1UySXF2bkxNWW1DUmpaUmJVYVRvYWRDOV9yWFZYb2NrWHJuRmdOR2d2ODVfbDllSllNZ2lhakEw?oc=5",
-      "source": "lupin.com",
-      "date": "2026-07-31T07:00:00.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Lupin receives U.S. FDA approval and launches Sugammadex Injection.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "n49550dc0dfe3",
       "ticker": "AURIONPRO",
       "company": "Aurionpro Solutions Limited",
@@ -7066,6 +7008,26 @@
       "mood": "positive",
       "takeaway": "Aurionpro wins ₹50 crore order from MMRDA for Mumbai Metro project.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "na2295d35fee7",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
+      "scope": [
+        "universe"
+      ],
+      "title": "Lupin Announces U.S. FDA Approval and Launch of Sugammadex Injection - Lupin | Press Release",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSFBhNjE2Mk5ITE5VV3V6cngzNi1pdENoeFlGRGtjcUNsbE1HY1RHLXQyZy16YXlVM3RRWkdLdkdPa05aeFVFaDBvWWNieWVWVzBydXVjQVVZeE9ONmxHeXhyLWR1Q2o3RkZzNU5ON0R2QWtXV0NjM1UySXF2bkxNWW1DUmpaUmJVYVRvYWRDOV9yWFZYb2NrWHJuRmdOR2d2ODVfbDllSllNZ2lhakEw?oc=5",
+      "source": "lupin.com",
+      "date": "2026-07-31T07:00:00.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Lupin receives U.S. FDA approval and launches Sugammadex Injection.",
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -8182,64 +8144,6 @@
       "enriched": true
     },
     {
-      "id": "n16b7b022a603",
-      "ticker": "SUDEEPPHRM",
-      "company": "Sudeep Pharma Limited",
-      "sector": "Chemicals",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Sudeep Pharma Limited Q2 2025 Earnings: Revenue Growth of 9.4% YoY Drives Solid Performance - CEO Earnings Statement",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWG1WV1Z0QXZ0NWR2SWJfN1JqS1A0cFZqck43T09zRHJuYzlaMmlteTFrTHdzcHdteVZJU0pDaFE4cHg0bF9VNlUzSEFTbzZOUnhaQ25LMHRMZHpHTXVPVWVDR2F0S0dfa0pfQi1KV2hRZzBEa0J2S21HSDR1MEhtQS1Ed005VFpUNzR1Z1JHbGE5Y0tjdmFWaVBzeW9DZUV0bmxqaUU1eFljaGl3ekFyVy15Rm83TW8zUDlENFZlWERvZzBsbW5ud3hNbjQ?oc=5",
-      "source": "siam.in",
-      "date": "2026-07-02T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Q2 2025 revenue grew 9.4% year-on-year, showing solid performance.",
-      "enriched": true
-    },
-    {
-      "id": "n5cf75a060b09",
-      "ticker": "SBCL",
-      "company": "Shivalik Bimetal Controls Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Shivalik Bimetal Controls Mar 2026 Earnings: Steady Performance Amidst Operational Efficiency - Post-Announcement Reaction",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNY3MwUEw3MGJkNE5BR0dfdEtDMVZodW5zOGU3a3hhZWRYZFdJNTd5VGtrdnFGTV9NeUoyam5hanBuY19pQmMyUkU2S2QzSXhLdVJ6VkpxbTJCMmNNSzJyNmp6OEpXRWIxQk9MNjhyY29FWTlGMXpLVHNMMjNDX2ttT2ZwZ1pvUktNY2l5cUVLRmp3d0JGal9QQVRsbEhwb2N2UGd0QVRtUnl1OVdkWU1yZkdraHJDVkNRWjVWUVV2N0JlSjR4RXNsRVBFUXlkMFE?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-02T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Shivalik Bimetal Controls delivered steady Q4 performance with operational efficiency.",
-      "enriched": true
-    },
-    {
-      "id": "n8b822ebdd77b",
-      "ticker": "GLOBAL",
-      "company": "Chlor-Alkali",
-      "sector": "Chemicals",
-      "scope": [
-        "universe"
-      ],
-      "title": "Lords Chloro Alkali (LORDSCHLO) Q2 2026 Earnings: Strong Revenue Growth of 44.38% Driven by Robust Demand - Guidance Revision Trend",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcm1tdk42NzU2RFF5U29TQklwSmplRFc4dXhETmJkWEszS1ZJdVB6WXFCS0RJMXVGYTFHSGxveDQwcDdHVTJEY0Rjc0VOMlFZSWhwbFJkaHphVHpEeFRjTl81a0dPR1diaHBXRjAtalNsV0R1QVBnTE5aT21vQ2RSY09aZWM3UUZUQVBiREdCUldtM1RnWGk5b2xFQmNfcWg5cjBVenl0ejdoMkx5QnNSbWJTUWlWSG82UG5DdFJOQWxzeTR3Z1FFN1k0VjFqejdDbVNudnplUS1CUQ?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-02T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Lords Chloro Alkali Q2 revenue surges 44% on strong demand.",
-      "enriched": true
-    },
-    {
       "id": "n1b5652361efc",
       "ticker": "SETL",
       "company": "Standard Engineering Technology Limited",
@@ -8412,6 +8316,25 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Virtuoso Optoelectronics board to meet regarding share issue.",
+      "enriched": true
+    },
+    {
+      "id": "n47da37245b6d",
+      "ticker": "NORTHARC",
+      "company": "Northern Arc Capital Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Northern Arc Capital AGM on Aug 18, 2026: ₹5,000 Crore NCD Issue and Key Resolutions on Agenda",
+      "url": "https://scanx.trade/stock-market-news/companies/northern-arc-capital-seeks-approval-for-5-000-crore-ncd-issuance-at-agm/46532451",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Approval",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Northern Arc to raise ₹5,000 crore via NCD issue, approved at AGM scheduled for Aug 18, 2026.",
       "enriched": true
     },
     {
