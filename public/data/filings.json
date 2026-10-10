@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T20:15:16.217Z",
+  "generated_at": "2026-10-10T09:09:07.804Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,36 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f5aa87235e12d",
+      "ticker": "HILINFRA",
+      "company": "Highway Infrastructure Limited",
+      "exchange": "NSE",
+      "date": "2026-10-10T12:20:18.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Highway Infrastructure Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/HIGHWAY123_10102026122007_HIL_Reg74_5__DP_Reg_2018.pdf"
+    },
+    {
+      "id": "fd5f5e39e4c1e",
+      "ticker": "UNIMECH",
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "exchange": "NSE",
+      "date": "2026-10-10T11:56:55.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/UNIMECH_10102026115643_Certificate_74_5__SE.pdf"
+    },
+    {
+      "id": "f8f11be1b9a0d",
+      "ticker": "ANAWIL",
+      "company": "Anawil Wire and Engineering Limited",
+      "exchange": "NSE",
+      "date": "2026-10-10T10:43:47.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Anawil Wire and Engineering Limited has informed the Exchange about Certificate under Regulation 74(5) SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/ANAWIL_10102026104313_ANAWIL_REG_74_5_.pdf"
+    },
     {
       "id": "f26183180305f",
       "ticker": "CANFINHOME",
@@ -1046,6 +1076,16 @@
       "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
       "title": "SG Mart Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
       "url": "https://nsearchives.nseindia.com/corporate/SGMART_05102026175226_RTAComplianceCertificate30092026.pdf"
+    },
+    {
+      "id": "f96800a9bf76c",
+      "ticker": "NORTHARC",
+      "company": "Northern Arc Capital Limited",
+      "exchange": "NSE",
+      "date": "2026-10-05T17:45:13.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Northern Arc Capital Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/NACL2020_05102026174459_74__5__SD.pdf"
     },
     {
       "id": "f10bbe47684b3",
@@ -19966,46 +20006,6 @@
       "category": "Press Release",
       "title": "Rubicon Research Limited has informed the Exchange regarding a press release dated July 22, 2026, titled \"Intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ( SEBI Listing Regulations ) -Acquisition of a manufacturing facility in USA \".",
       "url": "https://nsearchives.nseindia.com/corporate/9823522970_22072026152611_RRLSEIntimationInvatechAcquisition22Jul2026.pdf"
-    },
-    {
-      "id": "f2b9a6dc70a52",
-      "ticker": "SGMART",
-      "company": "SG Mart Limited",
-      "exchange": "NSE",
-      "date": "2026-07-22T14:58:56.000Z",
-      "category": "Investor Presentation",
-      "title": "SG Mart Limited has informed the Exchange about Transcript",
-      "url": "https://nsearchives.nseindia.com/corporate/SGMART_22072026145834_SGML_Q1FY27_Concall_Transcript_20062026.pdf"
-    },
-    {
-      "id": "feb33d2d14e09",
-      "ticker": "STYLAMIND",
-      "company": "Stylam Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-07-22T13:25:48.000Z",
-      "category": "Board Meeting",
-      "title": "Stylam Industries Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/STYLAMIND_22072026132444_Outcome.pdf"
-    },
-    {
-      "id": "f4258752d6a15",
-      "ticker": "EPIGRAL",
-      "company": "Epigral Limited",
-      "exchange": "NSE",
-      "date": "2026-07-22T13:19:59.000Z",
-      "category": "Investor Presentation",
-      "title": "Epigral Limited has informed the Exchange about Conference Call on Monday, 27th July, 2026 to discuss Q1 FY27 Results",
-      "url": "https://nsearchives.nseindia.com/corporate/MFL_22072026131939_EPLConCallQ1.pdf"
-    },
-    {
-      "id": "f07bef0d4633d",
-      "ticker": "VENUSREM",
-      "company": "Venus Remedies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-22T12:10:15.000Z",
-      "category": "Newspaper Publication",
-      "title": "Venus Remedies Limited has informed the Exchange about Copy of Newspaper Publication",
-      "url": "https://nsearchives.nseindia.com/corporate/VENUSREM_22072026115757_newspaper_UFR_June2026.pdf"
     }
   ]
 }
