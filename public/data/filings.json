@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T09:09:07.804Z",
+  "generated_at": "2026-10-10T18:58:23.308Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,36 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "fb15a5455d2e4",
+      "ticker": "SGMART",
+      "company": "SG Mart Limited",
+      "exchange": "NSE",
+      "date": "2026-10-10T17:23:31.000Z",
+      "category": "Change in Directors",
+      "title": "SG Mart Limited has informed the Exchange regarding Appointment of Mr Jitendra Agarwal as an Additional Director (Non- Executive Independent Director) of the Company w.e.f. October 10, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/SGMART_10102026172320_Intimation_Appointment_of_Jitendra_Agarwal_as_ID_10_10_2026.pdf"
+    },
+    {
+      "id": "f52591bff3c73",
+      "ticker": "CANFINHOME",
+      "company": "Can Fin Homes Limited",
+      "exchange": "NSE",
+      "date": "2026-10-10T16:55:30.000Z",
+      "category": "Newspaper Publication",
+      "title": "Can Fin Homes Limited has informed the Exchange about Copy of Newspaper Publication of Un-Audited Financial Results for the 2nd Quarter and Half year ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/CANFINHOME_10102026165519_Newspaper_publication_financial_resultsQ2_FY_27.pdf"
+    },
+    {
+      "id": "f28e4a212c1d4",
+      "ticker": "QUALIANCE",
+      "company": "Qualiance International Limited",
+      "exchange": "NSE",
+      "date": "2026-10-10T15:58:58.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Qualiance International Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/QUALIANCE_10102026155839_QIL-Reg_74_5_-Q2-FY2026-27.pdf"
+    },
     {
       "id": "f5aa87235e12d",
       "ticker": "HILINFRA",
@@ -5856,6 +5886,16 @@
       "category": "Disclosure",
       "title": "Caliber Mining and Logistics Limited has informed the Exchange about General Updates- Initmation regarding dispatch of letter to those shareholders whose email address is not registered with Company/RTA/DPs",
       "url": "https://nsearchives.nseindia.com/corporate/CMLL_10092026114711_Intimation_letter_to_shareholder_final.pdf"
+    },
+    {
+      "id": "f79e30dcc3b3b",
+      "ticker": "VENUSREM",
+      "company": "Venus Remedies Limited",
+      "exchange": "NSE",
+      "date": "2026-09-10T10:52:37.000Z",
+      "category": "Newspaper Publication",
+      "title": "Venus Remedies Limited has informed the Exchange about Copy of Newspaper Publication",
+      "url": "https://nsearchives.nseindia.com/corporate/VENUSREM_10092026105218_NewspaperPublication_Exchange.pdf"
     },
     {
       "id": "f65afb2905f76",
@@ -19966,46 +20006,6 @@
       "category": "Press Release",
       "title": "Sona Blw Precision Forgings Limited has informed the Exchange regarding a press release dated July 22, 2026, titled \"SONA Comstar partners with DENSO Corporation Japan\".",
       "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_22072026172600_Press_Release.pdf"
-    },
-    {
-      "id": "f17c479ffbdb8",
-      "ticker": "SONACOMS",
-      "company": "Sona BLW Precision Forgings Limited",
-      "exchange": "NSE",
-      "date": "2026-07-22T17:22:00.000Z",
-      "category": "Board Meeting",
-      "title": "Sona Blw Precision Forgings Limited has informed the Exchange regarding Outcome of Board Meeting held on July 22, 2026 and Intimation under Reg 30 of SEBI LODR Regulations",
-      "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_22072026171925_Outcome_22nd_July_2026.pdf"
-    },
-    {
-      "id": "f6c799cf86f0c",
-      "ticker": "STLTECH",
-      "company": "Sterlite Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-22T17:12:22.000Z",
-      "category": "Newspaper Publication",
-      "title": "Sterlite Technologies Limited has informed the Exchange about Copy of Newspaper Publication titled 27th Annual General Meeting to be held on August 19, 2026 through Video Conference and E-voting information.",
-      "url": "https://nsearchives.nseindia.com/corporate/STLTECH_22072026171127_SEintimationPredispatch_signed.pdf"
-    },
-    {
-      "id": "f687dba72fcb1",
-      "ticker": "MENONBE",
-      "company": "Menon Bearings Limited",
-      "exchange": "NSE",
-      "date": "2026-07-22T16:47:37.000Z",
-      "category": "Investor Presentation",
-      "title": "Menon Bearings Limited has informed the Exchange about Transcript",
-      "url": "https://nsearchives.nseindia.com/corporate/MENONBE_22072026164701_Filing_Transcript_signed.pdf"
-    },
-    {
-      "id": "ff1213ae7f14a",
-      "ticker": "RUBICON",
-      "company": "Rubicon Research Limited",
-      "exchange": "NSE",
-      "date": "2026-07-22T15:30:10.000Z",
-      "category": "Press Release",
-      "title": "Rubicon Research Limited has informed the Exchange regarding a press release dated July 22, 2026, titled \"Intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ( SEBI Listing Regulations ) -Acquisition of a manufacturing facility in USA \".",
-      "url": "https://nsearchives.nseindia.com/corporate/9823522970_22072026152611_RRLSEIntimationInvatechAcquisition22Jul2026.pdf"
     }
   ]
 }
