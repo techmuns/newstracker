@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-10T19:00:43.017Z",
+  "generated_at": "2026-10-11T09:17:20.828Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 98,
-    "watchlist": 395,
+    "watchlist": 392,
     "universe": 47,
-    "total": 442
+    "total": 439
   },
   "items": [
     {
@@ -743,26 +743,6 @@
       "importance": "high",
       "mood": "negative",
       "takeaway": "Fire broke out at Jyoti CNC's Rajkot manufacturing facility, potentially disrupting production.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "nc94fc7e46519",
-      "ticker": "DENTALKART",
-      "company": "Vasa Denticity Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Vasa Denticity Ltd (NSE:DENTALKART) (Q1 2027) Earnings Call Highlights: Margins Recover, ...",
-      "url": "https://uk.finance.yahoo.com/news/vasa-denticity-ltd-nse-dentalkart-030115532.html",
-      "source": "uk.finance.yahoo.com",
-      "date": "2026-09-28T08:57:02.137Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Vasa Denticity's profit margins recovered in Q1 FY27.",
       "sources_count": 2,
       "enriched": true
     },
@@ -2032,7 +2012,7 @@
       "mood": "positive",
       "takeaway": "Solar Industries plans to acquire Omnia for ₹12,951 crore.",
       "enriched": true,
-      "sources_count": 4
+      "sources_count": 3
     },
     {
       "id": "n5f124abb49d1",
@@ -8123,84 +8103,6 @@
       "enriched": true
     },
     {
-      "id": "n560b6dd11e0b",
-      "ticker": "UNIMECH",
-      "company": "Unimech Aerospace and Manufacturing Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "UNIMECH.NSE Q2 2026 Earnings: Revenue Dips Slightly, Profitability Remains Steady - Surprise Factor Analysis",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaDlGQ2lTam1lV054UzFMZUZRc2lkZDhRVjR4UmVoMjlRaG5kU0FwRk1LYTE2WGN1RWJqcEFZc1JrZHJ6M2lFWVVwLVdFNTVyX2ZzblcyM1htRXNXQkJoa2VjSHVBV2puWDdqejFTbEFkQTVLR3I3VjBkUmVhMHhlcVB4eDMyNjdESnU4Ny1WX2drWmZRU245SlRqTXFKVUF3TnZhRGhaazh3VThBTVpXUy1ObkdrTERPQWhVMw?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-03T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Unimech Aerospace Q2 revenue slightly down but profits remain stable.",
-      "enriched": true
-    },
-    {
-      "id": "nb113b686e2ab",
-      "ticker": "INDOFARM",
-      "company": "Indo Farm Equipment Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "INDOFARM Mar 2026 Earnings: Revenue of ₹128.58 Crore and EPS of ₹1.71 Mark a Mixed Quarter - Profit Announcement",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVkRoc05mOGxEcGQ1ZGVFdk4zUTBDd1FvYTRxOW91V2x3enBseDB5WFRMbmFpUXNxMXpKckZkNFczQllUX2xSbWFlMEJWeGwtWm1MNEJ3SzRTaS1DNTlJbDZoNE1pWlZRUEVGR1NQcldablgzWGtHbVQwQXhJWGdtMWdnckRjd1ZtSHZxRnprSEhJYXRNZmg0dDFWV3JyVks4ODdJZVhNOEJPRmZBYXhMMXFhWmJkMU1QTndJYTZfVC1Zb00yZXc?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-03T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Indo Farm reported Q4 revenue of ₹128.58 crore with earnings per share of ₹1.71.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n6b6d9562c0c3",
-      "ticker": "MANINDS",
-      "company": "Man Industries (India) Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Man Industries (India) Limited Mar 2026 Earnings: Robust EPS of ₹9.36 on Revenue of ₹1,157 Crore - Margin Expansion Trends",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS3o0OWt5cHZfRlU4MnU4TnlIM241Z2ltOTJrSkF5aGM0R0lBaElNbEN3a1Z1NU5kNnlQVGxSTUU5Z0RITUxlWmJISlV1ZmkyWGhYMUlCVENwNUxVdmNHa3hlUjR1MGVydE9md09tRjluZTRETGJTV2QweFA5Y3lGU1BlaEFFOXFUN3lHRU9PRHVWZHFOZ1FBcTlvNE5nRi0yOE1mVnBKQ0p6UG85LWJWczlWZzB4ZklXT2xBVGlTQlU1UjVRTzRZQWQyRQ?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-03T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Man Industries reported strong Q4 earnings of ₹9.36 per share on revenue of ₹1,157 crore.",
-      "sources_count": 3,
-      "enriched": true
-    },
-    {
-      "id": "n63273bcfd84a",
-      "ticker": "VAML",
-      "company": "Vedanta Aluminium Metal Limited",
-      "sector": "Metals & Mining",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "STEAG Energy Services India Pvt Ltd receives order from Vedanta Aluminium Metal Ltd",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kdGtkNVNRb1BjeTBiNmxfcnpEQldIOUtRbXpLbmxYTGQ3YUstbEpPem5qbjgwcy1RMFhBaGFpZUJHZ3VmdzZIQU16RGFub2lxYVBMcjJ5WFhOUVByRThV?oc=5",
-      "source": "EquityBulls",
-      "date": "2026-07-03T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "STEAG Energy Services received order from Vedanta Aluminium Metal.",
-      "enriched": true
-    },
-    {
       "id": "n1b5652361efc",
       "ticker": "SETL",
       "company": "Standard Engineering Technology Limited",
@@ -8533,6 +8435,26 @@
       "enriched": true
     },
     {
+      "id": "n50c918f8153a",
+      "ticker": "DENTALKART",
+      "company": "Vasa Denticity Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Vasa Denticity Ltd (NSE:DENTALKART) (Q1 2027) Earnings Call Highlights: Margins Recover, ... By GuruFocus",
+      "url": "https://ca.investing.com/news/company-news/vasa-denticity-ltd-nsedentalkart-q1-2027-earnings-call-highlights-margins-recover--4807046",
+      "source": "ca.investing.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Vasa Denticity's Q1 margins recovered in latest earnings call.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
       "id": "n646df83d9109",
       "ticker": "VAML",
       "company": "Vedanta Aluminium Metal Limited",
@@ -8607,6 +8529,25 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "RPSG plans ₹70,000 crore capital spending cycle to expand business operations.",
+      "enriched": true
+    },
+    {
+      "id": "nd8fe14562433",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho's Festive Sale Sees 75% Order Growth, AI Drives 85% of Orders",
+      "url": "https://www.ciol.com/news/meeshos-festive-sale-sees-75-order-growth-ai-drives-85-of-orders-12664613",
+      "source": "ciol.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Meesho saw 75% order growth during festive sale with AI handling 85% of orders.",
       "enriched": true
     }
   ]
