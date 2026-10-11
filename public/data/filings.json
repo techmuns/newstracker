@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T18:58:23.308Z",
+  "generated_at": "2026-10-11T09:24:59.879Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,36 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f14aab3b511f0",
+      "ticker": "DENTALKART",
+      "company": "Vasa Denticity Limited",
+      "exchange": "NSE",
+      "date": "2026-10-11T14:35:30.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Vasa Denticity Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/VASADENTICITY_11102026143503_Certificate_Reg_74_5__30th_Sept_26.pdf"
+    },
+    {
+      "id": "f649086007c9e",
+      "ticker": "MENONBE",
+      "company": "Menon Bearings Limited",
+      "exchange": "NSE",
+      "date": "2026-10-11T11:25:36.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Menon Bearings Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/MENONBE_11102026112501_FIling_REG74MBLFILING.pdf"
+    },
+    {
+      "id": "fd2cff5663176",
+      "ticker": "VOEPL",
+      "company": "Virtuoso Optoelectronics Limited",
+      "exchange": "NSE",
+      "date": "2026-10-11T10:41:11.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Virtuoso Optoelectronics Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/VIRTUOSO_11102026104059_Final_Reg_74_.pdf"
+    },
     {
       "id": "fb15a5455d2e4",
       "ticker": "SGMART",
@@ -19976,36 +20006,6 @@
       "category": "Acquisition",
       "title": "Saregama India Limited has informed the Exchange about Acquisition",
       "url": "https://nsearchives.nseindia.com/corporate/SAREGAMA_22072026192843_Intimation_SIGNED.pdf"
-    },
-    {
-      "id": "fbce0f4858ec1",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-22T19:09:50.000Z",
-      "category": "Shareholders meeting",
-      "title": "Sapphire Foods India Limited has submitted the Exchange a copy of Voting Results and Scrutinizers report of Annual General Meeting held on 21st July 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/SAPPHIRE_22072026190940_CoveringLetterRegulation44.pdf"
-    },
-    {
-      "id": "fe64630aee28b",
-      "ticker": "SHRIAHIMSA",
-      "company": "Shri Ahimsa Naturals Limited",
-      "exchange": "NSE",
-      "date": "2026-07-22T18:00:58.000Z",
-      "category": "Financial Results",
-      "title": "The Exchange had sought clarification from Shri Ahimsa Naturals Limited for the quarter ended 31-Mar-2026 with respect to Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015. On basis of above the Company was required to clarify the following: -1. Financial results submitted in XBRL with discrepancies. -2. Financial results submitted is not as per format prescribed by SEBI. -3. Machine Readable Form / Legible copy of Financial Results not submitted. The response of the Company is enclosed.",
-      "url": "https://nsearchives.nseindia.com/corporate/AHIMSANATURALS_17072026152715_Reply_to_NSE.pdf"
-    },
-    {
-      "id": "f608938e969d0",
-      "ticker": "SONACOMS",
-      "company": "Sona BLW Precision Forgings Limited",
-      "exchange": "NSE",
-      "date": "2026-07-22T17:26:34.000Z",
-      "category": "Press Release",
-      "title": "Sona Blw Precision Forgings Limited has informed the Exchange regarding a press release dated July 22, 2026, titled \"SONA Comstar partners with DENSO Corporation Japan\".",
-      "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_22072026172600_Press_Release.pdf"
     }
   ]
 }
