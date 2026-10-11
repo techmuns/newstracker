@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-11T09:17:20.828Z",
+  "generated_at": "2026-10-11T19:11:51.429Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 98,
-    "watchlist": 392,
+    "watchlist": 393,
     "universe": 47,
-    "total": 439
+    "total": 440
   },
   "items": [
     {
@@ -45,25 +45,26 @@
       "mood": "positive",
       "takeaway": "DEE Development Engineers' order book expanded to ₹2,531 crore as of September 2026.",
       "enriched": true,
-      "sources_count": 5
+      "sources_count": 4
     },
     {
-      "id": "n410670316ff6",
+      "id": "nb6f5ee3b7626",
       "ticker": "THEME",
       "company": "Pharma Approvals",
       "sector": "Healthcare",
       "scope": [
         "universe"
       ],
-      "title": "Lupin receives USFDA approval for Phytonadione Injectable Emulsion",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT01CRTlpYTkxVXRrempVUlpNZWZGa0pEazhVSVlTYnRNM3FVMlZ6bU1wbHpXUTVtMlZNU2Z4TktpS2JNbE5TcHpMelpYaXo5Zm4zQ3N1N1doYVZVM3pkTWJpV1JKTXUycE9jZFFfNGUtUmo2NzJRVkJ5QjNDajVLTnYxNzJoZ0d3el9Zd2NiN2tnWW95NHdfemFueGM?oc=5",
-      "source": "Express Pharma",
-      "date": "2026-10-09T06:29:30.000Z",
+      "title": "Lupin Receives US FDA Approval for Phytonadione Injectable Emulsion",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOTmpCUER0NXNHSnpIU3BNZ2RrdUZGYkNSUG5DaWhqRU1PcXNQc3FNc0pTRjNGYURxX1M5NTUzaVlTVk0wdVh6MTlGc29qX29sTVExNG5RZ1E4eE9FeS1iTVJGNGdZYjBwZURqclo3YlpCWkJKOVd4UFRySmNFclVJYm5RMG5YdkJBelQ3bTUzQlB2LXhGdWJta3BJb2lsLUJ3c1lRbE1DWHZ1OG1Wak1FZGd6bDRWV2ZwR3VhUEpzZmZNaV84SFd2NVNfMkJJaWJ4QktUcEswVE1TcUQ5bGdMc1ZkcVlLeTFYRms0eVVpTnBlVzBxaHpHOWZ3anlsZ1BUR2RXR2dUMHdsSlpSS0Nyd2RpZjVGdEN0VnZV?oc=5",
+      "source": "Voice of Healthcare",
+      "date": "2026-10-09T08:00:00.000Z",
       "topic": "Approvals&IP",
       "keyword": "Approval",
       "importance": "medium",
       "mood": "positive",
-      "takeaway": "Lupin receives US FDA approval for Phytonadione Injectable Emulsion.",
+      "takeaway": "Lupin gets US FDA approval for Phytonadione injectable, expanding its product portfolio in the US market.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -83,7 +84,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "BEML secured ₹75.58 crore order for military vehicle exports.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -1702,7 +1703,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Unimech Aerospace plans ₹750 crore fundraising via QIP to expand aerospace operations.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -3382,7 +3383,7 @@
       "mood": "neutral",
       "takeaway": "Q1 FY27 earnings call held.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "n4b590119f2a6",
@@ -5968,6 +5969,25 @@
       "enriched": true
     },
     {
+      "id": "nb02d2398a637",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Surya Roshni Q2 FY2026 Earnings: Steady Revenue Growth and EPS of ₹13.13 - Share Repurchase Impact",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYkFTekU1N1NmNHJhU2ROU2JETXo4X0UzazZsM2h5ZmhzSHRENElJd3JJNUZSVXJrQ2xSNUZnRUJDeGhFQnVneWlpdEUweXJwbzY1T3FWa1hHTlZNY2ZQUzNJaVJrMmR3bUhURzhkUVhyY25UWDNldHlxeFQycjliTHMzV0FXWksxQzlwY0pjVkZEU2JVTmQ1XzBiNDZMN3F0SkdGNTljQ0gybUcwNFBwYTljWQ?oc=5",
+      "source": "https://www.siam.in/",
+      "date": "2026-08-30T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Surya Roshni reports Q2 FY26 earnings with steady revenue growth and EPS of ₹13.13, announces share buyback.",
+      "enriched": true
+    },
+    {
       "id": "nfa030c1b594a",
       "ticker": "THEME",
       "company": "Power Equipment",
@@ -6521,25 +6541,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "A-1 Limited wins Rs 387 million supply order from Solar Industries.",
-      "enriched": true
-    },
-    {
-      "id": "n05b8625fc79b",
-      "ticker": "SBCL",
-      "company": "Shivalik Bimetal Controls Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Shivalik Bimetal Controls SBCL Q1FY27 Earnings Call Key Highlights",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRm5pTFNaWnQtRnFvbUo0bEJYam5zQXhWTEUtWXRzeEtzeVNJQjhPaDZ4bndrNVFBUllic2U3LWpvY0l0d0hscGotT0dwZzVUUkVBODMtSHNuYmxxZE9NZ2dBOVpkbEg1UmJ4c3lvRnU5SndoQi1aeWRaTmh3T1ZRN2JUVTNKbC1aQ0JRMS12WUxrUkZmWWMyZWhGaXhuNE4yUUNwZWE5b0NZaXQ2Vy1mZkdJd0szbGNHbzVEYkhPMGhJTlZiamg2em95Zl8?oc=5",
-      "source": "Kalkine India",
-      "date": "2026-08-13T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Shivalik Bimetal Controls held Q1FY27 earnings call discussing quarterly results.",
       "enriched": true
     },
     {
@@ -8548,6 +8549,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Meesho saw 75% order growth during festive sale with AI handling 85% of orders.",
+      "enriched": true
+    },
+    {
+      "id": "n7b6b24b383da",
+      "ticker": "LAXMIDENTL",
+      "company": "Laxmi Dental Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Laxmi Dental Declares Unaudited Q1 FY27 Results; Approves Land Acquisition — StockWatch",
+      "url": "https://www.stockwatch.live/in/news/laxmi-dental-declares-unaudited-q1-fy27-results-approves-land-acquisition-b0868efc-3102-47c8-8978-0d235a8da665",
+      "source": "stockwatch.live",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Laxmi Dental approved land acquisition in Q1 FY27 results announcement.",
       "enriched": true
     }
   ]
