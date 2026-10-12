@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T09:52:53.225Z",
+  "generated_at": "2026-10-12T22:20:35.396Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,216 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "fdf0a4a04b280",
+      "ticker": "CANFINHOME",
+      "company": "Can Fin Homes Limited",
+      "exchange": "NSE",
+      "date": "2026-10-12T22:59:59.000Z",
+      "category": "Investor Presentation",
+      "title": "Can Fin Homes Limited has informed the Exchange about Link of Recording",
+      "url": "https://nsearchives.nseindia.com/corporate/CANFINHOME_12102026225942_Outcome_Of_Q2_FY27_Earnings_Call.pdf"
+    },
+    {
+      "id": "f6260e631ce91",
+      "ticker": "SAILIFE",
+      "company": "Sai Life Sciences Limited",
+      "exchange": "NSE",
+      "date": "2026-10-12T19:26:11.000Z",
+      "category": "ESOP/ESOS/ESPS",
+      "title": "Sai Life Sciences Limited has informed the Exchange regarding Allotment of 54500 Shares.",
+      "url": "https://nsearchives.nseindia.com/corporate/SAILIFE_12102026192546_Stx_Intimation_ESOP_Allotment_Signed.pdf"
+    },
+    {
+      "id": "fdb0f7ee62441",
+      "ticker": "DENTALKART",
+      "company": "Vasa Denticity Limited",
+      "exchange": "NSE",
+      "date": "2026-10-12T19:20:52.000Z",
+      "category": "Quarterly Compliance Report on Corporate governance - within 21 days from the end of the quarter",
+      "title": "Vasa Denticity Limited has informed regarding Submission of the Compliance Report on Corporate Governance for the Q_ FY 20__-__",
+      "url": "https://nsearchives.nseindia.com/corporate/VASADENTICITY_12102026192014_Non_Applicability_CG_Upload.pdf"
+    },
+    {
+      "id": "faaa637ff16ab",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "exchange": "NSE",
+      "date": "2026-10-12T19:07:50.000Z",
+      "category": "Change in Directors",
+      "title": "E2E Networks Limited has informed the Exchange about Resignation of Director/KMP/SMP",
+      "url": "https://nsearchives.nseindia.com/corporate/E2E_ROID_100261_KMP_Doc.zip"
+    },
+    {
+      "id": "f7921fca9fa6c",
+      "ticker": "SHRIAHIMSA",
+      "company": "Shri Ahimsa Naturals Limited",
+      "exchange": "NSE",
+      "date": "2026-10-12T18:58:53.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Shri Ahimsa Naturals Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/AHIMSANATURALS_12102026185808_Certficate_74_5_.pdf"
+    },
+    {
+      "id": "fa7a2c079f5bd",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "exchange": "NSE",
+      "date": "2026-10-12T18:51:40.000Z",
+      "category": "Investor Presentation",
+      "title": "E2E Networks Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/E2E_12102026185127_Signed_Intimation_of_Earning_Call.pdf"
+    },
+    {
+      "id": "faa8d514b3c15",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "exchange": "NSE",
+      "date": "2026-10-12T18:43:39.000Z",
+      "category": "Change in Directors",
+      "title": "E2E Networks Limited has informed the Exchange regarding Resignation of Ms Shrimati Ambastha (DIN: 08393018) as Non- Executive Director of the company w.e.f. October 12, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/E2E_12102026184247_Signed.pdf"
+    },
+    {
+      "id": "fe348a6dad0f3",
+      "ticker": "MOBIKWIK",
+      "company": "One Mobikwik Systems Limited",
+      "exchange": "NSE",
+      "date": "2026-10-12T18:11:41.000Z",
+      "category": "ESOP/ESOS/ESPS",
+      "title": "One Mobikwik Systems Limited has informed the Exchange regarding Allotment of 314767 Shares under MobiKwik Employee Stock Option Plan 2014.",
+      "url": "https://nsearchives.nseindia.com/corporate/MOBIKWIK_12102026181052_Intimation_about_ESOP_allotment.pdf"
+    },
+    {
+      "id": "feebb0b1e4171",
+      "ticker": "GROWW",
+      "company": "Billionbrains Garage Ventures Limited",
+      "exchange": "NSE",
+      "date": "2026-10-12T18:10:20.000Z",
+      "category": "Disclosure",
+      "title": "Billionbrains Garage Ventures Limited has informed the Exchange regarding 'Receipt of requests for reclassification of promoter group category'.",
+      "url": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_12102026181001_Intimation_RL.pdf"
+    },
+    {
+      "id": "f00bb3738edc8",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "exchange": "NSE",
+      "date": "2026-10-12T18:03:13.000Z",
+      "category": "Integrated Filing- Governance",
+      "title": "Non-applicability of Regulation 27(2) as per Regulation 15 of Chapter IV of SEBI (LODR) Regulations, 2015 for the Quarter ended 30th September, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/APSIS2025_12102026180240_Apsis_30092026_NA_of_CG_signed.pdf"
+    },
+    {
+      "id": "fd83b6bff0467",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "exchange": "NSE",
+      "date": "2026-10-12T18:01:44.000Z",
+      "category": "Integrated Filing- Governance",
+      "title": "Investor Grievance Redressal Report as per Regulation 13 (3) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations 2015.",
+      "url": "https://nsearchives.nseindia.com/corporate/APSIS2025_12102026180108_Disclosure_Reg13Investorgrievance_signed.pdf"
+    },
+    {
+      "id": "fbf5ad08d30b6",
+      "ticker": "SENORES",
+      "company": "Senores Pharmaceuticals Limited",
+      "exchange": "NSE",
+      "date": "2026-10-12T17:11:41.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Senores Pharmaceuticals Limited has informed the Exchange regarding Disclosure under Regulation 76 of the SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/SENORES_12102026171132_Reg76A_RSCA_SPL_signed.pdf"
+    },
+    {
+      "id": "f801997b6bf59",
+      "ticker": "SHIPROCKET",
+      "company": "Shiprocket Limited",
+      "exchange": "NSE",
+      "date": "2026-10-12T17:03:42.000Z",
+      "category": "Disclosure",
+      "title": "Shiprocket Limited has informed the Exchange about General Updates",
+      "url": "https://nsearchives.nseindia.com/corporate/SHIPROCKET2011_12102026165626_CIN_Updation_PDF.pdf"
+    },
+    {
+      "id": "f87d5a56d8b53",
+      "ticker": "DENTA",
+      "company": "Denta Water and Infra Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-10-12T16:52:59.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Denta Water and Infra Solutions Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/DENTA_12102026165250_Certificate_pursuant_to_Regulation_74_5_.pdf"
+    },
+    {
+      "id": "fd0914a5524bb",
+      "ticker": "ADROITIND",
+      "company": "Adroit Industries (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-10-12T16:46:08.000Z",
+      "category": "Press Release",
+      "title": "Adroit Industries (India) Limited has informed the Exchange regarding a press release dated October 12, 2026, titled \"Press Release-Q1/FY27\".",
+      "url": "https://nsearchives.nseindia.com/corporate/ADROIT_12102026164546_Press_Release.pdf"
+    },
+    {
+      "id": "f63e60c1277fe",
+      "ticker": "KANOHAR",
+      "company": "Kanohar Electricals Limited",
+      "exchange": "NSE",
+      "date": "2026-10-12T16:44:45.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Kanohar Electricals Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/KANOHARNSE2026_12102026164404_Certificate_under_Regulation74_5_.pdf"
+    },
+    {
+      "id": "f44883e2e9726",
+      "ticker": "TEMPSENS",
+      "company": "Tempsens Instruments (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-10-12T16:37:26.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Tempsens Instruments (India) Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/TEMPSENS_12102026163711_Reg.pdf"
+    },
+    {
+      "id": "f9497eeeb6267",
+      "ticker": "CARTRADE",
+      "company": "Cartrade Tech Limited",
+      "exchange": "NSE",
+      "date": "2026-10-12T16:33:34.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Cartrade Tech Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/CARTRADE_12102026163327_74_5_-_DP.pdf"
+    },
+    {
+      "id": "f89d63aca46a8",
+      "ticker": "BLACKBUCK",
+      "company": "BLACKBUCK LIMITED",
+      "exchange": "NSE",
+      "date": "2026-10-12T15:55:08.000Z",
+      "category": "Board Meeting",
+      "title": "BLACKBUCK LIMITED has informed the Exchange regarding Outcome of Board Meeting held on October 12, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/ZINKA2015_12102026155433_Announcement_under_Regulation_30.pdf"
+    },
+    {
+      "id": "fdf1615423bac",
+      "ticker": "ADROITIND",
+      "company": "Adroit Industries (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-10-12T15:38:52.000Z",
+      "category": "Integrated Filing- Financial",
+      "title": "Outcome and financial results",
+      "url": "https://nsearchives.nseindia.com/corporate/ADROIT_12102026153818_Outcome_of_Board_Meeting.pdf"
+    },
+    {
+      "id": "f5cf3b3713ab8",
+      "ticker": "ADROITIND",
+      "company": "Adroit Industries (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-10-12T15:34:22.000Z",
+      "category": "Board Meeting",
+      "title": "Adroit Industries (India) Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/ADROIT_12102026153253_Outcome_of_Board_Meeting.pdf"
+    },
     {
       "id": "f53c52d1a9b23",
       "ticker": "SURYAROSNI",
@@ -19796,216 +20006,6 @@
       "category": "Disclosure",
       "title": "Meesho Limited has informed the Exchange under Regulation 30 of SEBI (LODR) Regulations, 2015.",
       "url": "https://nsearchives.nseindia.com/corporate/MEESHO_23072026191403_FFIntimation_correction.pdf"
-    },
-    {
-      "id": "fb65497d68e1e",
-      "ticker": "CURRENT",
-      "company": "Current Infraprojects Limited",
-      "exchange": "NSE",
-      "date": "2026-07-23T18:55:46.000Z",
-      "category": "Change in Directors",
-      "title": "Current Infraprojects Limited has informed the Exchange regarding Appointment of Mr. Shailender Singh Naruka as an Additional Director designated as a Wholetime Director of the company w.e.f. July 23, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/CURRENTINFRA_23072026185524_WTD_APPOINTMENT_INTIMATION_FINAL.pdf"
-    },
-    {
-      "id": "f721ea5736f4a",
-      "ticker": "BHARATCOAL",
-      "company": "Bharat Coking Coal Limited",
-      "exchange": "NSE",
-      "date": "2026-07-23T18:36:06.000Z",
-      "category": "Newspaper Publication",
-      "title": "Bharat Coking Coal Limited has informed the Exchange about Copy of Newspaper Publication",
-      "url": "https://nsearchives.nseindia.com/corporate/BCCL_23072026183539_Newspaper_publication_of_Unaudited_Financial_Results_Q1_2026-27.pdf"
-    },
-    {
-      "id": "f2a61522f68ba",
-      "ticker": "CURRENT",
-      "company": "Current Infraprojects Limited",
-      "exchange": "NSE",
-      "date": "2026-07-23T18:12:45.000Z",
-      "category": "Board Meeting",
-      "title": "Current Infraprojects Limited has informed the Exchange regarding Outcome of Board Meeting held on July 23, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/CURRENTINFRA_23072026180456_BM_OUTCOME_FINAL.pdf"
-    },
-    {
-      "id": "f45b9cc69b279",
-      "ticker": "VAML",
-      "company": "Vedanta Aluminium Metal Limited",
-      "exchange": "NSE",
-      "date": "2026-07-23T18:05:11.000Z",
-      "category": "Agreements",
-      "title": "Vedanta Aluminium Metal Limited has informed the Exchange about Agreements",
-      "url": "https://nsearchives.nseindia.com/corporate/VAML_23072026180457_VAML_Disclosure-Reg30-5A-Term_Facility-signed.pdf"
-    },
-    {
-      "id": "f6c9b0623275a",
-      "ticker": "VIVIDEL",
-      "company": "Vivid Electromech Limited",
-      "exchange": "NSE",
-      "date": "2026-07-23T17:35:18.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Vivid Electromech Limited has informed the Exchange about Certificate under Regulation 76 of SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/VIVID_23072026173445_Revised_Intimation_Letter_Reg_76_Certificate.pdf"
-    },
-    {
-      "id": "f5fc500ba8918",
-      "ticker": "STYLAMIND",
-      "company": "Stylam Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-07-23T17:12:23.000Z",
-      "category": "Newspaper Publication",
-      "title": "Stylam Industries Limited has informed the Exchange about Copy of Newspaper Advertisement - Financial Results",
-      "url": "https://nsearchives.nseindia.com/corporate/STYLAMIND_23072026171144_Intimation_Newspaper_Publication.pdf"
-    },
-    {
-      "id": "f19465342d38e",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "exchange": "NSE",
-      "date": "2026-07-23T17:09:30.000Z",
-      "category": "Disclosure",
-      "title": "Meesho Limited has informed the Exchange about Key Performance Indicators (\"KPI\")",
-      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_23072026170911_MLKPI23072026.pdf"
-    },
-    {
-      "id": "feb2ebe0062e9",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "exchange": "NSE",
-      "date": "2026-07-23T17:07:09.000Z",
-      "category": "Press Release",
-      "title": "Meesho Limited has informed the Exchange regarding a press release for the unaudited financial results for the quarter ended June 30, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_23072026170646_MLPressrelease.pdf"
-    },
-    {
-      "id": "f16480ee9f490",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "exchange": "NSE",
-      "date": "2026-07-23T17:05:29.000Z",
-      "category": "Disclosure",
-      "title": "Meesho Limited has informed the Exchange about Shareholders' Letter for Q1 FY 2026-27.",
-      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_23072026170517_MLshareholdersletter23072026.pdf"
-    },
-    {
-      "id": "f168586145034",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "exchange": "NSE",
-      "date": "2026-07-23T17:03:11.000Z",
-      "category": "Amendment to AOA/MOA",
-      "title": "Meesho Limited has informed the Exchange regarding the Amendment to AOA/MOA of the company.",
-      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_23072026170257_MLBMOutcome23072026.pdf"
-    },
-    {
-      "id": "fb4705bb1812e",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "exchange": "NSE",
-      "date": "2026-07-23T17:01:55.000Z",
-      "category": "Disclosure",
-      "title": "Meesho Limited has informed the Exchange Intimation under Regulation 30 of SEBI (LODR) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_23072026170130_MLBMOutcome23072026.pdf"
-    },
-    {
-      "id": "f8952114a25fa",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "exchange": "NSE",
-      "date": "2026-07-23T17:00:07.000Z",
-      "category": "Board Meeting",
-      "title": "Meesho Limited has informed the Exchange regarding Outcome of Board Meeting held on July 23, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_23072026165559_MLBMOutcome23072026.pdf"
-    },
-    {
-      "id": "f50f0b54b5ff6",
-      "ticker": "SONACOMS",
-      "company": "Sona BLW Precision Forgings Limited",
-      "exchange": "NSE",
-      "date": "2026-07-23T16:52:24.000Z",
-      "category": "Press Release (Revised)",
-      "title": "Sona Blw Precision Forgings Limited has informed the Exchange regarding a revised press release dated July 23, 2026, titled \"Press Release on Q1 financial results\".",
-      "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_23072026165213_PressRelease.pdf"
-    },
-    {
-      "id": "f61d367f100b9",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "exchange": "NSE",
-      "date": "2026-07-23T16:51:56.000Z",
-      "category": "Board Meeting",
-      "title": "Meesho Limited has submitted to the Exchange, the Unaudited Financial Results (Standalone and Consolidated) for the quarter ended June 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_23072026165119_MLBMOutcome23072026.pdf"
-    },
-    {
-      "id": "fdf463ae118e6",
-      "ticker": "SONACOMS",
-      "company": "Sona BLW Precision Forgings Limited",
-      "exchange": "NSE",
-      "date": "2026-07-23T16:23:32.000Z",
-      "category": "Press Release",
-      "title": "Sona Blw Precision Forgings Limited has informed the Exchange regarding a press release dated July 23, 2026, titled \"Press Release on Q1 financial results\".",
-      "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_23072026162304_Press_Release.pdf"
-    },
-    {
-      "id": "f927b23eedac5",
-      "ticker": "SONACOMS",
-      "company": "Sona BLW Precision Forgings Limited",
-      "exchange": "NSE",
-      "date": "2026-07-23T16:19:01.000Z",
-      "category": "Board Meeting",
-      "title": "Sona Blw Precision Forgings Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_23072026161643_Outcome.pdf"
-    },
-    {
-      "id": "f5a799ec70276",
-      "ticker": "SONACOMS",
-      "company": "Sona BLW Precision Forgings Limited",
-      "exchange": "NSE",
-      "date": "2026-07-23T16:14:25.000Z",
-      "category": "Investor Presentation",
-      "title": "Sona Blw Precision Forgings Limited has informed the Exchange about Investor Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_23072026161354_Investorpresentation.pdf"
-    },
-    {
-      "id": "f805c1ce4993d",
-      "ticker": "CARTRADE",
-      "company": "Cartrade Tech Limited",
-      "exchange": "NSE",
-      "date": "2026-07-23T15:10:41.000Z",
-      "category": "Disclosure",
-      "title": "Cartrade Tech Limited has informed the Exchange regarding 'Allotment of 3,03,500 equity shares under ESOP 2011, ESOP 2014, ESOP 2015 and ESOP 2021(I) of CarTrade Tech Limited'.",
-      "url": "https://nsearchives.nseindia.com/corporate/CARTRADE_23072026151035_ESOP303500_Intimation_letter_July_26.pdf"
-    },
-    {
-      "id": "fe557f6ae1edf",
-      "ticker": "LENSKART",
-      "company": "Lenskart Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-07-23T14:04:41.000Z",
-      "category": "Disclosure",
-      "title": "Lenskart Solutions Limited has informed the Exchange about the intimation of the 18th Annual General Meeting of the Members of the Company for the financial year 2025-26",
-      "url": "https://nsearchives.nseindia.com/corporate/LENSKART_23072026140151_SE_Intimation_18th_AGM_signed.pdf"
-    },
-    {
-      "id": "f43df8efd1a5d",
-      "ticker": "PVRINOX",
-      "company": "PVR INOX Limited",
-      "exchange": "NSE",
-      "date": "2026-07-23T13:38:12.000Z",
-      "category": "Change in Directors",
-      "title": "PVR INOX Limited has informed the Exchange about Resignation of Director/KMP/SMP",
-      "url": "https://nsearchives.nseindia.com/corporate/PVRINOX_ROID_92668_KMP_Doc.zip"
-    },
-    {
-      "id": "f6d00eb50cf7a",
-      "ticker": "PVRINOX",
-      "company": "PVR INOX Limited",
-      "exchange": "NSE",
-      "date": "2026-07-23T13:13:37.000Z",
-      "category": "Investor Presentation",
-      "title": "PVR INOX Limited has informed the Exchange about Investor Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/PVRINOXLTD_23072026131326_PVRINOXInvestorPresentation23072026.pdf"
     }
   ]
 }
