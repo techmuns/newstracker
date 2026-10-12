@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-10-11T19:11:51.429Z",
+  "generated_at": "2026-10-12T09:53:27.096Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 98,
-    "watchlist": 393,
+    "watchlist": 396,
     "universe": 47,
-    "total": 440
+    "total": 443
   },
   "items": [
+    {
+      "id": "n527f6481e5d5",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Zen Technologies Eyes Major Growth in Defence Robotics and Drones; Ashok Atluri Expects New Defence Order Within 6–12 Months",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNSmh3aEk2X3BPSTFlR1p2Ynh3UmR5MGV5YVhQMWl0VjVyd1B2SHhIZE5DTE9IRllPSE9hcE1LU1ZHRk14Wl8tSk9jYU9ydjFaeEwtVDRwdkdRMW81RHNFdXVXUU9LTG1MVHFkSkJaQ0V5U0hGb08wMklWNDFzX3JKOENIa1d4X3V2eDZaQnBUX2w0a2x2UUduc0QwQU1MOHk3LTk5TDJQT3VSWVJsZE83S3pCVEVKMXhnUFBndVZna185VlZLakx3UmR2eU95T3BKWV9xdV84amVYYzFZRU0yRXFhMGRGQW5UTWY5Sk5RU3hZWmJfcV83WlVyR2pvbXRh?oc=5",
+      "source": "Business Upturn",
+      "date": "2026-10-12T06:07:09.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Zen Technologies expects a new defence order in 6-12 months, focusing on robotics and drones.",
+      "enriched": true
+    },
     {
       "id": "n5e2ca8f0b844",
       "ticker": "GLOBAL",
@@ -45,7 +64,7 @@
       "mood": "positive",
       "takeaway": "DEE Development Engineers' order book expanded to ₹2,531 crore as of September 2026.",
       "enriched": true,
-      "sources_count": 4
+      "sources_count": 5
     },
     {
       "id": "nb6f5ee3b7626",
@@ -84,7 +103,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "BEML secured ₹75.58 crore order for military vehicle exports.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -124,6 +143,25 @@
       "mood": "positive",
       "takeaway": "DEE Development's subsidiary received a Rs 55 crore intent order for windmill towers.",
       "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "n57f293765f76",
+      "ticker": "OMNI",
+      "company": "Omnitech Engineering Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Omnitech Engineering Limited (OMNI.NS) Q2 2026 Earnings: EPS of ₹7.45 and 51.9% Revenue Growth Support a Modest Advance - Earnings Preview",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQU2Y2c0NJQk92OUhXNVk1emRDdFh5TUNtTG9QTDRraER5THJYb0xDYmNwNHVTTkFFQ2JObWxwT2taVmZkSGxnUFFVVGdqYlhmMWhwdTEzVmZzajhySzF1WmFZZmJRUFRTNERIMGhrdWlSZkRXaG9wZzJGNlRMalhISWFPYkd6WGZnMC1LQVlhbC1TYlhqbkE5cHJNa3hCTzdmSTQyOTJSMVFQc1JIdW5HNDJWN0w0TjFZRGtnUjAwblBTNjY0bDh5VmpEQkpqR2h1M1JNXzZpblhmVGVhN2dmZGJXY01sNFhZdFE?oc=5",
+      "source": "https://www.siam.in/",
+      "date": "2026-10-08T03:40:02.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Omnitech Engineering Q2 FY26 shows strong 51.9% revenue growth with EPS of ₹7.45.",
       "enriched": true
     },
     {
@@ -2211,7 +2249,8 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Man Industries added to QatarEnergy's preferred manufacturers list, opening access to major energy projects.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n6a12ef8dccbb",
@@ -6544,6 +6583,25 @@
       "enriched": true
     },
     {
+      "id": "n05b8625fc79b",
+      "ticker": "SBCL",
+      "company": "Shivalik Bimetal Controls Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Shivalik Bimetal Controls SBCL Q1FY27 Earnings Call Key Highlights",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRm5pTFNaWnQtRnFvbUo0bEJYam5zQXhWTEUtWXRzeEtzeVNJQjhPaDZ4bndrNVFBUllic2U3LWpvY0l0d0hscGotT0dwZzVUUkVBODMtSHNuYmxxZE9NZ2dBOVpkbEg1UmJ4c3lvRnU5SndoQi1aeWRaTmh3T1ZRN2JUVTNKbC1aQ0JRMS12WUxrUkZmWWMyZWhGaXhuNE4yUUNwZWE5b0NZaXQ2Vy1mZkdJd0szbGNHbzVEYkhPMGhJTlZiamg2em95Zl8?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-08-13T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Shivalik Bimetal Controls held Q1 FY27 earnings call discussing quarterly results.",
+      "enriched": true
+    },
+    {
       "id": "nda59b11a43cf",
       "ticker": "AURIONPRO",
       "company": "Aurionpro Solutions",
@@ -6737,25 +6795,6 @@
       "enriched": true
     },
     {
-      "id": "n2fd2246d2559",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "DEE Development Engineers Q1 Results: Earnings call audio released",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcFpxcE1UVVRfaU1oTDcxa01pU0F0UWMyM3YxMU9CQnZ3OXlweW9zMm9nNDBzemxMeHFEcWpwb3JEaUZXenVqeEdUMl9HMzREYl9HdE9NQnNLWG5oREU2LVk5NVNkb0hWNzBvLXVmam8tcDBWSmhNV2I1SHZlT2hCN2NKOHNiRDc1cFNJeTJtYjh3S255LU1VdXZudTZ6TlVqY0Jid3lCUFFXVzVEdmgtU0xxZDZLcmgyMTJHeFR5aw?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-08-07T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "DEE Development Engineers released its Q1 earnings call audio.",
-      "enriched": true
-    },
-    {
       "id": "n166bd8374619",
       "ticker": "OMNI",
       "company": "Omnitech Engineering Limited",
@@ -6773,6 +6812,25 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Omnitech Engineering released Q1 FY27 earnings call audio recording.",
+      "enriched": true
+    },
+    {
+      "id": "n2fd2246d2559",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "DEE Development Engineers Q1 Results: Earnings call audio released",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcFpxcE1UVVRfaU1oTDcxa01pU0F0UWMyM3YxMU9CQnZ3OXlweW9zMm9nNDBzemxMeHFEcWpwb3JEaUZXenVqeEdUMl9HMzREYl9HdE9NQnNLWG5oREU2LVk5NVNkb0hWNzBvLXVmam8tcDBWSmhNV2I1SHZlT2hCN2NKOHNiRDc1cFNJeTJtYjh3S255LU1VdXZudTZ6TlVqY0Jid3lCUFFXVzVEdmgtU0xxZDZLcmgyMTJHeFR5aw?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-08-07T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "DEE Development Engineers released its Q1 earnings call audio.",
       "enriched": true
     },
     {
