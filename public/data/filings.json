@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T19:16:13.261Z",
+  "generated_at": "2026-10-12T09:52:53.225Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,116 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f53c52d1a9b23",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "exchange": "NSE",
+      "date": "2026-10-12T15:13:26.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Surya Roshni Limited has informed the Exchange about Certificate under Regulation 74(5) SEBI (Depositories and Participants) Regulations, 2018 for the month of September, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/SURYAROSNI_12102026151256_74_5_Report_September2026.pdf"
+    },
+    {
+      "id": "f3029a700cd6d",
+      "ticker": "LENSKART",
+      "company": "Lenskart Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-10-12T14:46:08.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Lenskart Solutions Limited has informed the Exchange about Certificate under Regulation 76 of SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/LENSKART_12102026144537_Intimation_Reg_76_signed.pdf"
+    },
+    {
+      "id": "fc82c6494b75f",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "exchange": "NSE",
+      "date": "2026-10-12T14:25:04.000Z",
+      "category": "Disclosure",
+      "title": "Goldiam International Limited has informed the Exchange regarding 'Intimation regarding opening of 27th & 28th retail stores for lab-grown diamond jewellery under the brand name ORIGEM .'.",
+      "url": "https://nsearchives.nseindia.com/corporate/GOLDIAM_12102026142425_27th_and_28th_Store_opening_intimation-12-10-26.pdf"
+    },
+    {
+      "id": "fb495913bb22b",
+      "ticker": "MOBIKWIK",
+      "company": "One Mobikwik Systems Limited",
+      "exchange": "NSE",
+      "date": "2026-10-12T13:49:25.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "One Mobikwik Systems Limited has informed the Exchange about Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/MOBIKWIK_12102026134906_Intimation.pdf"
+    },
+    {
+      "id": "f1c3c0f91fca4",
+      "ticker": "MVELECTRO",
+      "company": "MV Electrosystems Limited",
+      "exchange": "NSE",
+      "date": "2026-10-12T13:10:49.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "MV Electrosystems Limited has informed the Exchange about Certificate under Reg 74(5) of SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/MVELECTROSYSTEMS_12102026131038_Covering_with_certificate.pdf"
+    },
+    {
+      "id": "f1880443ab82e",
+      "ticker": "LUMINO",
+      "company": "Lumino Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-10-12T12:31:40.000Z",
+      "category": "Press Release",
+      "title": "Lumino Industries Limited has informed the Exchange regarding a press release dated October 12, 2026, titled \"Press Release for new orders worth Rs. 496 Cr.\".",
+      "url": "https://nsearchives.nseindia.com/corporate/LUMINO123_12102026123127_Intimation_of_Press_Release_for_New_Order.pdf"
+    },
+    {
+      "id": "f3e36673e3090",
+      "ticker": "SBIFUNDS",
+      "company": "SBI Funds Management Limited",
+      "exchange": "NSE",
+      "date": "2026-10-12T11:53:22.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "SBI Funds Management Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/SBIMF2026_12102026115312_Reg_74_5__final_file_signed.pdf"
+    },
+    {
+      "id": "fa3bd4e25e665",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "exchange": "NSE",
+      "date": "2026-10-12T10:22:22.000Z",
+      "category": "Disclosure",
+      "title": "Goldiam International Limited has informed the Exchange regarding 'Intimation Of ESG Rating-Crisil ESG Ratings & Analytics Limited'.",
+      "url": "https://nsearchives.nseindia.com/corporate/GOLDIAM_12102026102211_Intimation_of_ESG_Rating-under_Regulation-12-10-2026.pdf"
+    },
+    {
+      "id": "fb244d2c670b1",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "exchange": "NSE",
+      "date": "2026-10-12T10:19:12.000Z",
+      "category": "Press Release",
+      "title": "Meesho Limited has informed the Exchange regarding a press release dated October 10, 2026, titled \"Meesho s Mega Blockbuster Sale Opens with approx 75% YoY Growth in Day 1 Orders\".",
+      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_12102026101902_PressRelease1010.pdf"
+    },
+    {
+      "id": "f2cd8e3cb23b2",
+      "ticker": "SPUNWEB",
+      "company": "Spunweb Nonwoven Limited",
+      "exchange": "NSE",
+      "date": "2026-10-12T10:08:34.000Z",
+      "category": "Disclosure",
+      "title": "Spunweb Nonwoven Limited has informed the Exchange regarding 'Price Movement'.",
+      "url": "https://nsearchives.nseindia.com/corporate/SPUNWEB_12102026100633_ClarificationOnPriceMovement.pdf"
+    },
+    {
+      "id": "fe0e9592fdd4e",
+      "ticker": "MOLDTKPAC",
+      "company": "Mold-Tek Packaging Limited",
+      "exchange": "NSE",
+      "date": "2026-10-12T09:38:57.000Z",
+      "category": "Allotment of Securities",
+      "title": "Mold-Tek Packaging Limited has informed the Exchange regarding allotment of 33228914 securities pursuant to Bonus issue on October 12, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/MOLDTKPAC_12102026093803_Outcome_MoldTek_Bonus_Allotment.pdf"
+    },
     {
       "id": "f14aab3b511f0",
       "ticker": "DENTALKART",
@@ -19896,116 +20006,6 @@
       "category": "Investor Presentation",
       "title": "PVR INOX Limited has informed the Exchange about Investor Presentation",
       "url": "https://nsearchives.nseindia.com/corporate/PVRINOXLTD_23072026131326_PVRINOXInvestorPresentation23072026.pdf"
-    },
-    {
-      "id": "f966cf4136373",
-      "ticker": "PVRINOX",
-      "company": "PVR INOX Limited",
-      "exchange": "NSE",
-      "date": "2026-07-23T13:13:37.000Z",
-      "category": "Press Release",
-      "title": "PVR INOX Limited has informed the Exchange regarding a press release dated July 23, 2026, titled \"PVR INOX announces results for the Quarter ended 30th Jun 26.\"",
-      "url": "https://nsearchives.nseindia.com/corporate/PVRINOXLTD_23072026131200_PVRINOXPressRelease23072026.pdf"
-    },
-    {
-      "id": "f42952ff9c3c1",
-      "ticker": "STYLAMIND",
-      "company": "Stylam Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-07-23T12:49:41.000Z",
-      "category": "Investor Presentation",
-      "title": "Stylam Industries Limited has informed the Exchange about Investor Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/STYLAMIND_23072026124914_Intimation_Investor_Publication.pdf"
-    },
-    {
-      "id": "f403c64e71afc",
-      "ticker": "PVRINOX",
-      "company": "PVR INOX Limited",
-      "exchange": "NSE",
-      "date": "2026-07-23T12:38:50.000Z",
-      "category": "Change in Directors",
-      "title": "PVR INOX Limited has informed the Exchange regarding Change in Director(s) of the company.",
-      "url": "https://nsearchives.nseindia.com/corporate/PVRINOXLTD_23072026123838_PVRINOXOutcomeofBoardMeeting23072026.pdf"
-    },
-    {
-      "id": "f3ebe80a251af",
-      "ticker": "PVRINOX",
-      "company": "PVR INOX Limited",
-      "exchange": "NSE",
-      "date": "2026-07-23T12:35:44.000Z",
-      "category": "Board Meeting",
-      "title": "PVR INOX Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/PVRINOXLTD_23072026123339_PVRINOXOutcomeofBoardMeeting23072026.pdf"
-    },
-    {
-      "id": "f5e790ee4dafd",
-      "ticker": "RPSGVENT",
-      "company": "RPSG VENTURES LIMITED",
-      "exchange": "NSE",
-      "date": "2026-07-23T11:51:42.000Z",
-      "category": "Disclosure",
-      "title": "PCBL Chemical Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_15072026115254_RPSG.pdf"
-    },
-    {
-      "id": "f53aae6cc0b56",
-      "ticker": "STYLAMIND",
-      "company": "Stylam Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-07-22T22:38:39.000Z",
-      "category": "Disclosure",
-      "title": "Stylam Industries Limited has informed the Exchange regarding 35th Annual General Meeting of The Company is scheduled on Friday, August 28, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/STYLAMIND_22072026223827_Intimation_AGM.pdf"
-    },
-    {
-      "id": "f048eff720215",
-      "ticker": "ADVAIT",
-      "company": "Advait Energy Transitions Limited",
-      "exchange": "NSE",
-      "date": "2026-07-22T21:48:53.000Z",
-      "category": "Board Meeting",
-      "title": "Advait Energy Transitions Limited has informed the Exchange regarding Outcome of Board Meeting held on July 22, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/ADVAITENERGY_22072026214828_Outcome_s.pdf"
-    },
-    {
-      "id": "fcccc00df5c26",
-      "ticker": "SHADOWFAX",
-      "company": "Shadowfax Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-22T20:41:05.000Z",
-      "category": "ESOP/ESOS/ESPS",
-      "title": "Shadowfax Technologies Limited has informed the Exchange regarding Allotment of 1,34,930 Shares of Rs. 10/- each to the eligible employees/ESOP holders",
-      "url": "https://nsearchives.nseindia.com/corporate/9900590024_22072026204015_ESOP_Allotment.pdf"
-    },
-    {
-      "id": "fdfda63d4a3b6",
-      "ticker": "E2E",
-      "company": "E2E Networks Limited",
-      "exchange": "NSE",
-      "date": "2026-07-22T20:03:17.000Z",
-      "category": "Investor Presentation",
-      "title": "E2E Networks Limited has informed the Exchange about Link of Recording",
-      "url": "https://nsearchives.nseindia.com/corporate/E2E_22072026200301_EC_Recording.pdf"
-    },
-    {
-      "id": "ffa20ca18fe4f",
-      "ticker": "RUBICON",
-      "company": "Rubicon Research Limited",
-      "exchange": "NSE",
-      "date": "2026-07-22T20:01:21.000Z",
-      "category": "Disclosure",
-      "title": "Filing of Scheme of Merger of Kia Health Tech Private Limited (Wholly Owned Subsidiary) with Rubicon Research Limited For Disclosure Purposes Only, in terms of the Exemption under Paragraph 4 of SEBI Master Circular No. SEBI/HO/CFD/POD-2/P/CIR/2023/93 dated June 20, 2023",
-      "url": "https://nsearchives.nseindia.com/corporate/9823522970_22072026195714_RRLSEIntimationKIARubicon_Merger22ndJuly_2026.pdf"
-    },
-    {
-      "id": "f4d21cb21afd6",
-      "ticker": "SAREGAMA",
-      "company": "Saregama India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-22T19:34:33.000Z",
-      "category": "Acquisition",
-      "title": "Saregama India Limited has informed the Exchange about Acquisition",
-      "url": "https://nsearchives.nseindia.com/corporate/SAREGAMA_22072026192843_Intimation_SIGNED.pdf"
     }
   ]
 }
