@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T19:40:31.098Z",
+  "generated_at": "2026-10-12T22:13:03.648Z",
   "portfolio": [
     {
       "company": "Monolithisch India Limited",
@@ -32,14 +32,14 @@
       "sector": "Services"
     },
     {
-      "company": "Stylam Industries Limited",
-      "ticker": "STYLAMIND",
-      "sector": "Consumer Durables"
-    },
-    {
       "company": "Acutaas Chemicals Limited",
       "ticker": "ACUTAAS",
       "sector": "Healthcare"
+    },
+    {
+      "company": "Stylam Industries Limited",
+      "ticker": "STYLAMIND",
+      "sector": "Consumer Durables"
     },
     {
       "company": "Xpro India Limited",
@@ -47,14 +47,14 @@
       "sector": "Capital Goods"
     },
     {
-      "company": "KSH International Limited",
-      "ticker": "KSHINTL",
-      "sector": "Capital Goods"
-    },
-    {
       "company": "Cartrade Tech Limited",
       "ticker": "CARTRADE",
       "sector": "Consumer Services"
+    },
+    {
+      "company": "KSH International Limited",
+      "ticker": "KSHINTL",
+      "sector": "Capital Goods"
     },
     {
       "company": "Saregama India Limited",

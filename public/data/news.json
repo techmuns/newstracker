@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-10-12T09:53:27.096Z",
+  "generated_at": "2026-10-12T22:16:27.227Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 98,
-    "watchlist": 396,
-    "universe": 47,
-    "total": 443
+    "portfolio": 100,
+    "watchlist": 400,
+    "universe": 49,
+    "total": 449
   },
   "items": [
+    {
+      "id": "n70098fd326f6",
+      "ticker": "THEME",
+      "company": "Power Equipment",
+      "sector": "Capital Goods",
+      "scope": [
+        "universe"
+      ],
+      "title": "Zetwerk eyes Rs 2,830 crore fresh issue, boasts Rs 12,500 crore order book",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPY0hTaTVDN3BvWHdKQm1pTlNHQ01JNTZicVBNUDA4cC0taFV5clVfajl0c29NMnFKcnVnOVNrWEhoZy1RSVFfRjl1VnJzSTRIRWwyWVJsWGFIaWVxVW50dHdIQjczeFhPLVdMV1ZJbjJfVWZ5NmlINDc1RVIzTXhyY0djcjhqR3d5cndpaFlxUU5UVG9MdDRHUEtucUdtZEZUZ3ZRcWZaWUlrOVJjYU1XNktBTWN6VkFqdG9mZ3BqbHltZkU1c0NZbFVkNkkyVHR0bHd5bFA4REg4VzJOeGFJb0NNV0Iwd1gtY2RRMDJn0gHzAUFVX3lxTE1DekJQWGFoY2dhaXBFWC1GbGZSSUttelRLdTdKMUNtOHByZnhycThtblRUd1d6QWRHREo4YVVVVXJXeVJMUGJTVWIyT0NZR1FZRlpyaFNfSElUdHpPTzNZdTVzajh5eHB2QnFNTkRyN0FDWklHZjBIVmVSQzI3aklrWWJnREE1SHZudml4ckdJV0s2UWlkTWJ5V0ZMS2daWk1IUmRWY21JTzdLTzJjeG9xNDZCd1hzLXBjVjlLM3hWTFFtZUlkUkNrX0lEOXlPYVpMYTY4VmhaaGx3QmlMYWprdTczdURiek9sbVEwUncwM3NkWQ?oc=5",
+      "source": "The Times of India",
+      "date": "2026-10-12T18:35:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Zetwerk plans Rs 2,830 crore fundraise and holds Rs 12,500 crore order book.",
+      "enriched": true
+    },
     {
       "id": "n527f6481e5d5",
       "ticker": "ZENTEC",
@@ -44,6 +63,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Gujarat Fluorochemicals plans to expand refrigerant production capacity in 2026.",
+      "enriched": true
+    },
+    {
+      "id": "ncbad7e0f40a3",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
+      "scope": [
+        "universe"
+      ],
+      "title": "Aurobindo Pharma gets USFDA approval to manufacture kidney drug",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTEhpaGNWTUE3OGNPMlhFYmVFeEwzeTFOZURsYWxMLVpIR0UxMUpRUjU2RlhQajRUcmQ3ZHQxNTlrRjNHZTlobmdaM1VXRGVCc3BLcWpKRFRQRi13VlhhNmxHdWp6U2ZBbDlLNjVITGRoY3ktNEs5QnNULXhBUjFXZnpCNy02Uk50b3dxVEFFbmgycjVWZDZsS0FGV1pXTWtMY240dkdUYw?oc=5",
+      "source": "eHealth Magazine",
+      "date": "2026-10-10T04:59:44.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Aurobindo Pharma receives US FDA approval to manufacture kidney drug.",
       "enriched": true
     },
     {
@@ -1529,6 +1567,26 @@
       "importance": "medium",
       "mood": "negative",
       "takeaway": "Over half of Vedanta Aluminium shares are now pledged as collateral.",
+      "enriched": true
+    },
+    {
+      "id": "nf0ca5ac2108d",
+      "ticker": "KSHINTL",
+      "company": "KSH International Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "KSH International Q2 2026 Earnings: Revenue Climbs 60.84% YoY to ₹2,903.83 Crore, EPS at ₹18.37 - Long-Term Guidance",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZFhEMEJQSjRjVUloTUxCMlg1YnBHRE5vQnpsRmYwbEwtR3gxNUpHX0x1Y1ZtcVREb21NTldGQW9qVXQtR2tzaEo2SGJmYmgzRUZBeFl1R19Fc1BkTVBiaktYS3EtalFvdmE4dXJsOC16LXpPR2pLSjUydjlnT2pqMEdESXRhYnZtT05SMXJVNUswMi1neUNtaWVzT3E0SWM1d19Md0FIcE81eE5nai0ya3oyZ0ZGd0NIVWNLZTR4dXNhcUNFeU40?oc=5",
+      "source": "https://www.siam.in/",
+      "date": "2026-09-20T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "KSH International Q2 revenue up 60.84% year-on-year to Rs 2,903.83 crore.",
       "enriched": true
     },
     {
@@ -7418,6 +7476,25 @@
       "enriched": true
     },
     {
+      "id": "nabf8b0e904c2",
+      "ticker": "THEME",
+      "company": "Specialty Chemicals",
+      "sector": "Chemicals",
+      "scope": [
+        "universe"
+      ],
+      "title": "Fineotex Chemical Q1 FY27 Earnings Release: Posts Robust Growth with Revenue at Rs 386.72 Crore",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNThFMlFSTXZQY2Nvd3V5bjRwTkRyTjdRLUpYWF95ZDBrTTdDRGRKcU5jRkRmT25qT1ZFR25lTkFieXRtX1FWb0JtYXBfQ3FyMlhFLW1XbGFtSDI0amt2MW90MVFLaEh6cExDX0FHWTBVSlhZTE9FR1NLdkY5LUZRTjJRempLbzF4VkhxQ0Eyak1kSHBIVWJFQUFMdVNxZTdNN2Z1UmVIblFDTklObzdmV1hZeVVpcnBESjhxMnlxNFBGYkg5SkIza2puNmhidUVVbXUw?oc=5",
+      "source": "https://www.indiagazette.com/",
+      "date": "2026-07-24T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Fineotex Chemical reported Q1 FY27 revenue of Rs 386.72 crore, showing robust growth.",
+      "enriched": true
+    },
+    {
       "id": "n4436df7be080",
       "ticker": "SURYAROSNI",
       "company": "Surya Roshni Limited",
@@ -7454,25 +7531,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Sterlite Technologies posted record Q1 FY27 results with strong performance.",
-      "enriched": true
-    },
-    {
-      "id": "nabf8b0e904c2",
-      "ticker": "THEME",
-      "company": "Specialty Chemicals",
-      "sector": "Chemicals",
-      "scope": [
-        "universe"
-      ],
-      "title": "Fineotex Chemical Q1 FY27 Earnings Release: Posts Robust Growth with Revenue at Rs 386.72 Crore",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNThFMlFSTXZQY2Nvd3V5bjRwTkRyTjdRLUpYWF95ZDBrTTdDRGRKcU5jRkRmT25qT1ZFR25lTkFieXRtX1FWb0JtYXBfQ3FyMlhFLW1XbGFtSDI0amt2MW90MVFLaEh6cExDX0FHWTBVSlhZTE9FR1NLdkY5LUZRTjJRempLbzF4VkhxQ0Eyak1kSHBIVWJFQUFMdVNxZTdNN2Z1UmVIblFDTklObzdmV1hZeVVpcnBESjhxMnlxNFBGYkg5SkIza2puNmhidUVVbXUw?oc=5",
-      "source": "https://www.indiagazette.com/",
-      "date": "2026-07-24T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Fineotex Chemical reported Q1 FY27 revenue of Rs 386.72 crore, showing robust growth.",
       "enriched": true
     },
     {
@@ -8337,6 +8395,26 @@
       "enriched": true
     },
     {
+      "id": "neb8f69647f10",
+      "ticker": "YASHHV",
+      "company": "Yash Highvoltage Ltd",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Yash Highvoltage Subsidiary Signs US Representation Agreement for Market Expansion | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/industrial-goodsservices/Yash-Highvoltage-Subsidiary-Signs-US-Representation-Agreement-for-Market-Expansion/6accba0cb2eb76fd08c18bd6",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Partnership",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Yash Highvoltage subsidiary signs US representation agreement to expand market presence.",
+      "enriched": true
+    },
+    {
       "id": "n9c50dd204e22",
       "ticker": "SENORES",
       "company": "Senores Pharmaceuticals Limited",
@@ -8610,6 +8688,25 @@
       "enriched": true
     },
     {
+      "id": "n20b02a7c0219",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho Starts Mega Sale With 75% YoY Day 1 Order Growth",
+      "url": "https://www.sahi.com/news/meesho-starts-mega-sale-with-75-yoy-day-1-order-growth",
+      "source": "sahi.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Meesho's mega sale saw 75% year-on-year growth in first-day orders.",
+      "enriched": true
+    },
+    {
       "id": "n7b6b24b383da",
       "ticker": "LAXMIDENTL",
       "company": "Laxmi Dental Limited",
@@ -8626,6 +8723,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Laxmi Dental approved land acquisition in Q1 FY27 results announcement.",
+      "enriched": true
+    },
+    {
+      "id": "nfea782e8e66b",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "E2E Networks appoints Abhishek Shindadkar as Head, Founder's Office to lead capital strategy for its next phase of growth and GPU capacity expansion - Technuter",
+      "url": "https://technuter.com/who-in-charge/e2e-networks-appoints-abhishek-shindadkar-as-head-founders-office-to-lead-capital-strategy-for-its-next-phase-of-growth-and-gpu-capacity-expansion.html",
+      "source": "technuter.com",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Capacity Expansion",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "E2E Networks appoints Abhishek Shindadkar to lead capital strategy and GPU capacity expansion.",
       "enriched": true
     }
   ]
