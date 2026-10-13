@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-12T22:16:27.227Z",
+  "generated_at": "2026-10-13T09:55:18.470Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 100,
-    "watchlist": 400,
+    "watchlist": 401,
     "universe": 49,
-    "total": 449
+    "total": 450
   },
   "items": [
     {
@@ -25,6 +25,25 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Zetwerk plans Rs 2,830 crore fundraise and holds Rs 12,500 crore order book.",
+      "enriched": true
+    },
+    {
+      "id": "n9d693a73d19f",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "E2E Networks schedules Q2FY27 earnings call for Oct 16",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPekx5eGJQQ085NEpTS0NDcTZ5MnBIaDhEZHpTLVNGNklZVmxneG1SWXRZTlNfamhwR2ZIQzB4bVdLc00xM2NzUjlTQ1pUekx4Z2t6TExuVjVnOU5QUjVWcjZ5NERkUHFSQk9nVmpaYzJWTjFlRkUzZHpTNVdpSGpwdUFuV0RFdVZURGNqOGdHRUJhQ1R0WXltbzlJZTdxX0wtSFg5TVNEN2pOZkU?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-10-12T15:57:33.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "E2E Networks will discuss Q2 results on Oct 16.",
       "enriched": true
     },
     {
@@ -82,6 +101,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Aurobindo Pharma receives US FDA approval to manufacture kidney drug.",
+      "enriched": true
+    },
+    {
+      "id": "n3b74c578ff37",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Aurionpro Solutions Q2 FY27 Earnings Call Date and Details",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObW96MTdncVVxNTE0VXVsT3U0eE9Id0ZvODdfYWZMR1QzZXkyUUUtdk5CYmtMcVBVQ2tsalVCTFY1U3RpbjJhUV9UemwwQW9IVGhiWmpoQUdRMmF0bDllcUtoRXpQai1ESE5XNlpKM1RfYkEzb1F1dEVXUzI2OVhjSk9LamVZRmc3UnNXWDhORnhrYmN5OUFnd3JFQWxtNUo2UFpEMnV2cDhwektZcUkwX3ZsdDZoMmJmUHN4OA?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-10-09T17:58:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Aurionpro Solutions announces Q2 earnings call date.",
       "enriched": true
     },
     {
@@ -2109,7 +2147,7 @@
       "mood": "positive",
       "takeaway": "Solar Industries plans to acquire Omnia for ₹12,951 crore.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "n5f124abb49d1",
@@ -4040,7 +4078,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Zen Technologies secured ₹295 crore order from Defence Ministry for simulators.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -5002,6 +5040,25 @@
       "enriched": true
     },
     {
+      "id": "n71e888649cae",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Aurionpro Solutions releases unaudited financial results for quarter ended June 30, 2026",
+      "url": "https://tele.net.in/press-release/aurionpro-solutions-releases-unaudited-financial-results-for-quarter-ended-june-30-2026-12214367",
+      "source": "tele.net.in",
+      "date": "2026-09-03T20:34:02.502Z",
+      "topic": "Money",
+      "keyword": "Partnership",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Aurionpro Solutions released unaudited financial results for quarter ended June 30, 2026.",
+      "enriched": true
+    },
+    {
       "id": "n558d19bfaaab",
       "ticker": "AURIONPRO",
       "company": "Aurionpro Solutions Limited",
@@ -5039,25 +5096,6 @@
       "mood": "positive",
       "takeaway": "Aurionpro won ₹100 crore order to build AI data centre infrastructure.",
       "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n71e888649cae",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Aurionpro Solutions releases unaudited financial results for quarter ended June 30, 2026",
-      "url": "https://tele.net.in/press-release/aurionpro-solutions-releases-unaudited-financial-results-for-quarter-ended-june-30-2026-12214367",
-      "source": "tele.net.in",
-      "date": "2026-09-03T20:34:02.502Z",
-      "topic": "Money",
-      "keyword": "Partnership",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Aurionpro Solutions released unaudited financial results for quarter ended June 30, 2026.",
       "enriched": true
     },
     {
@@ -6123,25 +6161,6 @@
       "enriched": true
     },
     {
-      "id": "n9e3bded7e0f0",
-      "ticker": "ZENTEC",
-      "company": "Zen Technologies Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Zen Technologies (ZENTEC) Q2 2026 Earnings: Revenue Decline Offsets Solid EPS of ₹21.52 - Earnings Decline Risk",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOWxHNFQ3RUU0aElEOWowT3NTNW50Si1LZW5mTWl1SWNPTnBxeWZ5T3dBYl9mRzAyZmVWWFV0OWFxWmNOUXVIeFd5bGlFOUZNS2dZVVkwVHprRUdDVUtTV3BSUWFtUXoyV2VWb0dmYVRNU0RERTRzeTJzOFdPYUdrTFRYMi11UkJIVWwwMzBnSXZyTDVyd0RLYUZxVW53aTJBeEpBMEJvV1ktcnBwLVJ6RVI3SFZDS0VIRmhidHkxODFRaXlv?oc=5",
-      "source": "siam.in",
-      "date": "2026-08-28T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "negative",
-      "takeaway": "Zen Technologies Q2 revenue declined despite earnings per share of ₹21.52.",
-      "enriched": true
-    },
-    {
       "id": "n477ca64ecd7e",
       "ticker": "E2E",
       "company": "E2E Networks Limited",
@@ -6158,6 +6177,25 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "E2E Networks Q2 revenue grew 50% to ₹246 crore but posted a loss per share.",
+      "enriched": true
+    },
+    {
+      "id": "n9e3bded7e0f0",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Zen Technologies (ZENTEC) Q2 2026 Earnings: Revenue Decline Offsets Solid EPS of ₹21.52 - Earnings Decline Risk",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOWxHNFQ3RUU0aElEOWowT3NTNW50Si1LZW5mTWl1SWNPTnBxeWZ5T3dBYl9mRzAyZmVWWFV0OWFxWmNOUXVIeFd5bGlFOUZNS2dZVVkwVHprRUdDVUtTV3BSUWFtUXoyV2VWb0dmYVRNU0RERTRzeTJzOFdPYUdrTFRYMi11UkJIVWwwMzBnSXZyTDVyd0RLYUZxVW53aTJBeEpBMEJvV1ktcnBwLVJ6RVI3SFZDS0VIRmhidHkxODFRaXlv?oc=5",
+      "source": "siam.in",
+      "date": "2026-08-28T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "negative",
+      "takeaway": "Zen Technologies Q2 revenue declined despite earnings per share of ₹21.52.",
       "enriched": true
     },
     {
@@ -7457,6 +7495,25 @@
       "enriched": true
     },
     {
+      "id": "n1e1fffd69b25",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Zen Technologies Secures Rs 1,775 mn Defence Order",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZWtFcmVGcTZ3X096elNscERkQUpxYUFWOEpoaHNOUl9GY3BGTGNMZXV2emxmYlU4VjI1WGswSDNQSXVpRUZ5Sm8tMGVsT3F3eDQxbzhyQ0t1dzNOMzRHb0ZmR3hJSnRYb1JvYU1kaFctMUNzc3RtckduNDFBbHk4dk5pU2ZSQlIzUWExSUZxWklsSXd5SWkybW1VYnVYb0JnU0ppbDIwaHNnY0l4MVlKb0NRdlUyYUti?oc=5",
+      "source": "Construction World India",
+      "date": "2026-07-24T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Zen Technologies won a defence order worth Rs 1,775 million.",
+      "enriched": true
+    },
+    {
       "id": "n996916ced754",
       "ticker": "THEME",
       "company": "Specialty Chemicals",
@@ -8142,81 +8199,22 @@
       "enriched": true
     },
     {
-      "id": "n755b1236d85a",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions Limited",
+      "id": "nb4b709e9738c",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
       "sector": "Information Technology",
       "scope": [
         "watchlist"
       ],
-      "title": "AURIONPRO Q2 2026 Earnings: Robust Revenue Growth Driven by Strong Demand in Digital Solutions - Margin Guidance",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcWc5VmI2YWNSN0lGakVBOGJTUnNuNlBfTVpoLW5CY05wSHJfWnFNa0dFb2V0RXQxNGJlUm13Y3hkdk1SVWlUaGRRcHQ1Z3RzSnUtU0wtWW55alFSRWJtM0lTd1VFT3M1RVpobzFGMWhqWWFNWUV0M18zZFhpTWRuc05aT2pfVHh1VnAyRG1RTk1fQ29NZW9fZ0lvTjh0MUVBM1NFeGlWdVJoTUNVNXhxNDNRX3o2aGhReVFDNERiYzhOU3JTRklROVFITmVyaHk3?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-05T07:00:00.000Z",
+      "title": "E2E Networks shareholders approve fund raise and borrowing powers",
+      "url": "https://scanx.trade/stock-market-news/companies/e2e-networks-shareholders-approve-fund-raise-borrowing-powers/52135121",
+      "source": "scanx.trade",
+      "date": "",
       "topic": "Money",
-      "keyword": "Earnings",
+      "keyword": "Rights Issue",
       "importance": "medium",
       "mood": "positive",
-      "takeaway": "Aurionpro Solutions Q2 shows strong revenue growth driven by digital solutions demand.",
-      "enriched": true
-    },
-    {
-      "id": "n55a863034424",
-      "ticker": "SENORES",
-      "company": "Senores Pharmaceuticals Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "SENORES.NS Q2 2026 Earnings: Strong Revenue Growth of 58.85% Drives Positive Investor Sentiment - Free Cash Flow Trends",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYS1mZFdlOEJWVld4dU1GN2ZFdjRyTHFkR2YwNW1OQ3NBdDVzS1ZtcDJraG84ZlFzbzVsTS1OTkhReHRseGQwZzFZOGNLei03bHJ6anROdy1UUkl1aHJXNUdzRFUxUG9XUUhFRjJBekUwMnI4WWFvemJ3b2FsT1RRLS1rTDZDSTc2MjUwYlFfcXdHWjBhb1lsSVRWNG5ZcmpES2VfVWVyanJpSVRNajJfZ21MSEdNREQwN1h3aDBQbHU4SVdXMkNSZFRwX2VlejQ?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-05T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Senores Pharmaceuticals Q2 revenue surged 58.85% year-on-year.",
-      "enriched": true
-    },
-    {
-      "id": "nfcf8d83412d0",
-      "ticker": "INDOFARM",
-      "company": "Indo Farm Equipment Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Indo Farm Equipment Mar 2026 Earnings: Modest Profitability Amidst Steady Operations - Gross Profit Margin",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcmswRVBvTS1NNzRkeUlwY1Bya1JTVGtqWVJNWDJZUWwxYWlKLUVGM2pKVk16ME9mUkFzcmJQMVU2TUZ4dmpYU2pHZnFPbVNneTBEQU1fY0taaGFiMWlob1FXLVYwVGEyY3lsR2N4RkdKUUlueFd1STZqWG5scTZtSk1jVW5hY0dlYnA3ckduVnZmWnZxTnJHMUVNRlVrT1BKeTJNcnpTN2d5T1Iya0RwMlJ3RzdrX1lVZkRqYnl4WXQzUm8?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-05T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Indo Farm Equipment reported March 2026 earnings with modest profitability and steady operations.",
-      "enriched": true
-    },
-    {
-      "id": "n636440f5016e",
-      "ticker": "HARIOMPIPE",
-      "company": "Hariom Pipe Industries Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "HARIOMPIPE Q2 2026 Earnings: Robust Revenue Growth of 22.84% YoY Drives Performance",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaVNIcVNxMjlPY2w3Z1BCZHY0UGJYY0ZFV2oxVjhhWkN3Y0xGeXAwNGxJQkthNUNMUkd1dnI2RVJoT2tyN3BVb2tvSkxURG42U1Y2WlBtOVNxYkt2UnZEMnBMeHVld2V4ZGpLeDJ3Y0RvR3BOazFVbGEwQndyUDJRMFRIYnFlZGR2N3Z0VHNHSjRnenBQV2FzZzlVMUMzMmtQU0hFOWd1QnE5bGpaYnk2S0gzOGFYSzRrMDREMTQ0VQ?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-05T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Hariom Pipe Industries Q2 2026 revenue grows 22.84% year-on-year.",
-      "sources_count": 2,
+      "takeaway": "E2E Networks shareholders approve fundraising and increased borrowing limits.",
       "enriched": true
     },
     {
@@ -8277,25 +8275,6 @@
       "mood": "neutral",
       "takeaway": "RPSG Group considering selling 15-20% stake in IPL team Lucknow Super Giants.",
       "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "nb4b709e9738c",
-      "ticker": "E2E",
-      "company": "E2E Networks Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "E2E Networks shareholders approve fund raise and borrowing powers",
-      "url": "https://scanx.trade/stock-market-news/companies/e2e-networks-shareholders-approve-fund-raise-borrowing-powers/52135121",
-      "source": "scanx.trade",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Rights Issue",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "E2E Networks shareholders approve fundraising and increased borrowing limits.",
       "enriched": true
     },
     {
@@ -8473,6 +8452,26 @@
       "enriched": true
     },
     {
+      "id": "n4e1ec96216d3",
+      "ticker": "SHADOWFAX",
+      "company": "Shadowfax Technologies Limited",
+      "sector": "Services",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Qualcomm exits Shadowfax with Rs 157 Cr stake sale",
+      "url": "https://entrackr.com/news/qualcomm-exits-shadowfax-with-rs-157-cr-stake-sale-12670748",
+      "source": "entrackr.com",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Stake sale",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Qualcomm sold its entire stake in Shadowfax for Rs 157 crore.",
+      "enriched": true
+    },
+    {
       "id": "n8f0ee78c5421",
       "ticker": "MEESHO",
       "company": "Meesho Limited",
@@ -8569,6 +8568,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Epigral raised ₹333 crore through QIP to fund growth.",
+      "enriched": true
+    },
+    {
+      "id": "n707a202a0768",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "E2E Networks director resigns; L&T proposes new nominee",
+      "url": "https://scanx.trade/stock-market-news/companies/e2e-networks-director-resigns-l-t-proposes-new-nominee/53367679",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "E2E Networks director resigned; L&T proposed a new nominee to replace them.",
       "enriched": true
     },
     {
@@ -8688,22 +8706,23 @@
       "enriched": true
     },
     {
-      "id": "n20b02a7c0219",
+      "id": "n55aa2a09b38c",
       "ticker": "MEESHO",
       "company": "Meesho Limited",
       "sector": "Consumer Services",
       "scope": [
         "watchlist"
       ],
-      "title": "Meesho Starts Mega Sale With 75% YoY Day 1 Order Growth",
-      "url": "https://www.sahi.com/news/meesho-starts-mega-sale-with-75-yoy-day-1-order-growth",
-      "source": "sahi.com",
+      "title": "Meesho’s Mega Blockbuster sale opens with nearly 75% order growth on day 1 - CNBC TV18",
+      "url": "https://www.cnbctv18.com/business/meesho-mega-blockbuster-sale-opens-with-nearly-75-pc-order-growth-on-day-1-20009071.htm",
+      "source": "cnbctv18.com",
       "date": "",
       "topic": "Orders",
       "keyword": "Order",
       "importance": "medium",
       "mood": "positive",
-      "takeaway": "Meesho's mega sale saw 75% year-on-year growth in first-day orders.",
+      "takeaway": "Meesho's sale event saw 75% order growth on first day.",
+      "sources_count": 2,
       "enriched": true
     },
     {
