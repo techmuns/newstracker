@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T09:57:20.514Z",
+  "generated_at": "2026-10-13T20:27:12.340Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,136 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f675970f34c72",
+      "ticker": "SPECTRAA",
+      "company": "SpectraA Technology Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-10-13T21:28:57.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "SpectraA Technology Solutions Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/SPECTRAA_13102026212842_spectraa_74-5.pdf"
+    },
+    {
+      "id": "f2bbe5e0149d3",
+      "ticker": "KPITTECH",
+      "company": "KPIT Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-10-13T21:20:01.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "KPIT Technologies Limited has informed the Exchange about the Certificate under Regulation 74(5) of the SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/KPITTECH_13102026211938_Reg745Sept302026signed.pdf"
+    },
+    {
+      "id": "f760f60c93f75",
+      "ticker": "KPITTECH",
+      "company": "KPIT Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-10-13T21:09:13.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "KPIT Technologies Limited has informed the Exchange about Reconciliation of Share Capital Audit for the quarter ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/KPITTECH_13102026210844_CoveringletterSept26Reg76_signed.pdf"
+    },
+    {
+      "id": "fc0f68921cf13",
+      "ticker": "SBIFUNDS",
+      "company": "SBI Funds Management Limited",
+      "exchange": "NSE",
+      "date": "2026-10-13T20:26:02.000Z",
+      "category": "Disclosure",
+      "title": "SBI Funds Management Limited has informed the Exchange regarding 'The list of Key Managerial Personnels authorized for the purpose of determining materiality of an event or information and for making disclosures to the Stock Exchanges with effect from October 13, 2026:'.",
+      "url": "https://nsearchives.nseindia.com/corporate/SBIMF2026_13102026202542_outcomeoftheboardmeeting_final.pdf"
+    },
+    {
+      "id": "ff78091ed62d3",
+      "ticker": "SBIFUNDS",
+      "company": "SBI Funds Management Limited",
+      "exchange": "NSE",
+      "date": "2026-10-13T20:23:29.000Z",
+      "category": "Change in Directors",
+      "title": "SBI Funds Management Limited has informed the Exchange regarding Appointment of Mr R. S. Srinivas Jain as Joint Chief Executive Officer and Key Managerial Personnel of the company w.e.f. October 13, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/SBIMF2026_13102026202316_outcomeoftheboardmeeting_final.pdf"
+    },
+    {
+      "id": "f218239f59503",
+      "ticker": "SBIFUNDS",
+      "company": "SBI Funds Management Limited",
+      "exchange": "NSE",
+      "date": "2026-10-13T20:19:29.000Z",
+      "category": "Board Meeting",
+      "title": "SBI Funds Management Limited has informed the Exchange regarding Outcome of Board Meeting held on October 13, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/SBIMF2026_13102026201902_outcomeoftheboardmeeting_final.pdf"
+    },
+    {
+      "id": "f8b3969fd14e2",
+      "ticker": "BHARATCOAL",
+      "company": "Bharat Coking Coal Limited",
+      "exchange": "NSE",
+      "date": "2026-10-13T20:12:07.000Z",
+      "category": "Board Meeting",
+      "title": "Bharat Coking Coal Limited has informed the Exchange regarding Outcome of Board Meeting held on October 13, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/BCCL_13102026201144_rationalisationof_price__of_coal_signed.pdf"
+    },
+    {
+      "id": "f69185239e7e6",
+      "ticker": "SPUNWEB",
+      "company": "Spunweb Nonwoven Limited",
+      "exchange": "NSE",
+      "date": "2026-10-13T18:01:09.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Spunweb Nonwoven Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/SPUNWEB_13102026180046_RTACertificate.pdf"
+    },
+    {
+      "id": "f6dab06a5faaa",
+      "ticker": "DHOOTTRANS",
+      "company": "Dhoot Transmission Limited",
+      "exchange": "NSE",
+      "date": "2026-10-13T17:56:56.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Dhoot Transmission Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/DTL_13102026175636_SE_intimation_Certificate_74_5_.pdf"
+    },
+    {
+      "id": "fed1783d8ad8b",
+      "ticker": "SPUNWEB",
+      "company": "Spunweb Nonwoven Limited",
+      "exchange": "NSE",
+      "date": "2026-10-13T17:55:42.000Z",
+      "category": "Structural Digital Database",
+      "title": "SDD Compliance Certificate for the Quarter Ended on September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/SPUNWEB_13102026175522_SDDComplianceCertificate.pdf"
+    },
+    {
+      "id": "f6750506017fc",
+      "ticker": "EPIGRAL",
+      "company": "Epigral Limited",
+      "exchange": "NSE",
+      "date": "2026-10-13T17:53:40.000Z",
+      "category": "Investor Presentation",
+      "title": "Epigral Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/EPIGRAL_13102026175240_Epigral_INTIMATION.pdf"
+    },
+    {
+      "id": "f88d858f97b58",
+      "ticker": "BLACKBUCK",
+      "company": "BLACKBUCK LIMITED",
+      "exchange": "NSE",
+      "date": "2026-10-13T17:51:27.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "BLACKBUCK LIMITED has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/ZINKA2015_13102026175106_Announcement_under_Regulation_74_5_.pdf"
+    },
+    {
+      "id": "f178239530a72",
+      "ticker": "MONOLITH",
+      "company": "Monolithisch India Limited",
+      "exchange": "NSE",
+      "date": "2026-10-13T17:45:07.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Monolithisch India Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/MONOLITHISCH_13102026174457_COMPLIANCE_CERTIFICATE_UNDER_SEC_74_30092026.pdf"
+    },
     {
       "id": "f8384bde84f39",
       "ticker": "STYLAMIND",
@@ -3596,6 +3726,16 @@
       "category": "ESOP/ESOS/ESPS",
       "title": "Shadowfax Technologies Limited has informed the Exchange regarding Allotment of 55,110 Shares of Rs. 10/- each to the eligible employees/ESOP holders.",
       "url": "https://nsearchives.nseindia.com/corporate/9900590024_25092026183153_ESOP_Allotment.pdf"
+    },
+    {
+      "id": "feeea0de1d3e9",
+      "ticker": "CURRENT",
+      "company": "Current Infraprojects Limited",
+      "exchange": "NSE",
+      "date": "2026-09-25T18:16:33.000Z",
+      "category": "Investor Presentation",
+      "title": "Current Infraprojects Limited has informed the Exchange about Outcome of Investors Meeting",
+      "url": "https://nsearchives.nseindia.com/corporate/CURRENTINFRA_25092026180717_Investor_Meet_Outcome_25092026.pdf"
     },
     {
       "id": "f69de077d655c",
@@ -19866,146 +20006,6 @@
       "category": "Trading Window",
       "title": "Vedanta Aluminium Metal Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
       "url": "https://nsearchives.nseindia.com/corporate/VAML_24072026181554_VAMLPriorIntimationofBoardMeeting30July2026signed.pdf"
-    },
-    {
-      "id": "f5ae000396b6f",
-      "ticker": "NORTHARC",
-      "company": "Northern Arc Capital Limited",
-      "exchange": "NSE",
-      "date": "2026-07-24T18:10:54.000Z",
-      "category": "Disclosure",
-      "title": "Northern Arc Capital Limited has informed the Exchange about General Updates - Assignment of ESG Ratings by ICRA ESG Ratings Limited",
-      "url": "https://nsearchives.nseindia.com/corporate/NACL2020_24072026181047_SE_Intimation_-_ESG_Ratings_SD.pdf"
-    },
-    {
-      "id": "f12bdff281a12",
-      "ticker": "SETL",
-      "company": "Standard Engineering Technology Limited",
-      "exchange": "NSE",
-      "date": "2026-07-24T18:08:08.000Z",
-      "category": "Disclosure",
-      "title": "Standard Engineering Technology Limited has informed the Exchange about the updates on Acquisition of GL HAKKO Co., Ltd.",
-      "url": "https://nsearchives.nseindia.com/corporate/SGLTPL_24072026180757_SETL_Regulation_30.pdf"
-    },
-    {
-      "id": "ffa0cee66f807",
-      "ticker": "STYLAMIND",
-      "company": "Stylam Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-07-24T18:02:42.000Z",
-      "category": "Investor Presentation",
-      "title": "Stylam Industries Limited has informed the Exchange about Link of Recording",
-      "url": "https://nsearchives.nseindia.com/corporate/STYLAMIND_24072026180231_Investor_Meet_Outcome.pdf"
-    },
-    {
-      "id": "fc721fe00d1dd",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "exchange": "NSE",
-      "date": "2026-07-24T17:38:14.000Z",
-      "category": "Disclosure",
-      "title": "DEE Development Engineers Limited has informed the Exchange about Disclosure under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, in relation to the Listing approval for 5976096 equity shares allotted on a preferential basis",
-      "url": "https://nsearchives.nseindia.com/corporate/DDEL_24072026173009_NSEBSESIGNED.pdf"
-    },
-    {
-      "id": "fbb67c3c2a4bc",
-      "ticker": "CANFINHOME",
-      "company": "Can Fin Homes Limited",
-      "exchange": "NSE",
-      "date": "2026-07-24T17:13:21.000Z",
-      "category": "Investor Presentation",
-      "title": "Can Fin Homes Limited has informed the Exchange about Transcript",
-      "url": "https://nsearchives.nseindia.com/corporate/CANFINHOME_24072026171228_Earnings_Call_Transcript.pdf"
-    },
-    {
-      "id": "fc942951f57d0",
-      "ticker": "VAML",
-      "company": "Vedanta Aluminium Metal Limited",
-      "exchange": "NSE",
-      "date": "2026-07-24T16:32:48.000Z",
-      "category": "Disclosure",
-      "title": "Vedanta Resources Ltd has submitted to the Exchange a copy of Disclosure under Regulation 31 of the SEBI ( SAST) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_22072026174745_VAML.pdf"
-    },
-    {
-      "id": "f939479a4a27b",
-      "ticker": "SAREGAMA",
-      "company": "Saregama India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-24T15:39:58.000Z",
-      "category": "Disclosure",
-      "title": "Saregama India Limited has informed the Exchange about Corporate Presentation.",
-      "url": "https://nsearchives.nseindia.com/corporate/SAREGAMA_24072026153947_Disclosure_final_signed.pdf"
-    },
-    {
-      "id": "f93412941cfcd",
-      "ticker": "STLTECH",
-      "company": "Sterlite Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-24T15:11:02.000Z",
-      "category": "Statement of deviation(s) or variation(s) under Reg. 32",
-      "title": "Sterlite Technologies Limited has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32",
-      "url": "https://nsearchives.nseindia.com/corporate/STLTECH_24072026151044_SEIntimation_StatementofDeviation_June2026_signed.pdf"
-    },
-    {
-      "id": "f0597e7a2c49b",
-      "ticker": "STLTECH",
-      "company": "Sterlite Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-24T15:08:27.000Z",
-      "category": "Monitoring Agency Report",
-      "title": "Pursuant to Regulation 32(6) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, please find attached the report received from CARE Ratings Limited, a Monitoring Agency appointed towards utilization of proceeds of Preferential Issue for the quarter ended June 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/STLTECH_24072026150726_SEintimationMonitoringagencyreport_signed.pdf"
-    },
-    {
-      "id": "f3ed755dcf650",
-      "ticker": "STLTECH",
-      "company": "Sterlite Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-24T14:45:38.000Z",
-      "category": "Board Meeting",
-      "title": "STLTECH: Sterlite Technologies Limited has submitted to the Exchange, the Unaudited Standalone and Consolidated Financial Results for the quarter ended June 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/STLTECH_24072026144505_NSE_Results_Outcome-signed.pdf"
-    },
-    {
-      "id": "f44966b6b94a2",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "exchange": "NSE",
-      "date": "2026-07-24T14:38:29.000Z",
-      "category": "Receipt of Order",
-      "title": "Apsis Aerocom Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
-      "url": "https://nsearchives.nseindia.com/corporate/APSIS2025_24072026143747_Dislcosure_under_Reg30_Work_order_24072026_signed.pdf"
-    },
-    {
-      "id": "f83a8b97db328",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-24T13:23:31.000Z",
-      "category": "Press Release",
-      "title": "Sapphire Foods India Limited has informed the Exchange regarding press release dated 24th July 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/SAPPHIRE_24072026132318_SapphireFoodsInvestorPresentation.pdf"
-    },
-    {
-      "id": "f75769b9aa41f",
-      "ticker": "LENSKART",
-      "company": "Lenskart Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-07-24T13:22:27.000Z",
-      "category": "Newspaper Publication",
-      "title": "Lenskart Solutions Limited has informed the Exchange about the copies of Newspaper Advertisements regarding the 18th Annual General Meeting of the Members of the Company",
-      "url": "https://nsearchives.nseindia.com/corporate/LENSKART_24072026131929_SEintimationPreDispatchNewspaperAdv.pdf"
-    },
-    {
-      "id": "f64500056ef81",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-24T13:18:06.000Z",
-      "category": "Board Meeting",
-      "title": "Sapphire Foods India Limited has submitted to the Exchange, the financial results for the period ended 30th June 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/SAPPHIRE_24072026131707_OutcomeofBM.pdf"
     }
   ]
 }
