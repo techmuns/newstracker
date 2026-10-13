@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-13T09:55:18.470Z",
+  "generated_at": "2026-10-13T20:22:55.240Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 100,
-    "watchlist": 401,
+    "watchlist": 402,
     "universe": 49,
-    "total": 450
+    "total": 451
   },
   "items": [
     {
@@ -276,7 +276,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Aurionpro wins ₹150 crore data centre order from a global hyperscaler client.",
-      "sources_count": 7,
+      "sources_count": 6,
       "enriched": true
     },
     {
@@ -8430,6 +8430,25 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Northern Arc to raise ₹5,000 crore via NCD issue, approved at AGM scheduled for Aug 18, 2026.",
+      "enriched": true
+    },
+    {
+      "id": "n0ee15e728469",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries India Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Solar Defence Delivers 450 Nagastra-1R Loitering Munitions to Indian Army - idrw.org",
+      "url": "https://idrw.org/solar-defence-delivers-450-nagastra-1r-loitering-munitions-to-indian-army/",
+      "source": "idrw.org",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Solar Defence delivered 450 Nagastra-1R loitering munitions to Indian Army.",
       "enriched": true
     },
     {

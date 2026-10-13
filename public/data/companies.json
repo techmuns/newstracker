@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T22:13:03.648Z",
+  "generated_at": "2026-10-13T20:19:41.149Z",
   "portfolio": [
     {
       "company": "Monolithisch India Limited",
@@ -15,11 +15,6 @@
       "company": "Vivid Electromech Limited",
       "ticker": "VIVIDEL",
       "sector": "Capital Goods"
-    },
-    {
-      "company": "Sterlite Technologies Limited",
-      "ticker": "STLTECH",
-      "sector": "Telecommunication"
     },
     {
       "company": "Menon Bearings Limited",
@@ -42,19 +37,24 @@
       "sector": "Consumer Durables"
     },
     {
+      "company": "Sterlite Technologies Limited",
+      "ticker": "STLTECH",
+      "sector": "Telecommunication"
+    },
+    {
       "company": "Xpro India Limited",
       "ticker": "XPROINDIA",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "KSH International Limited",
+      "ticker": "KSHINTL",
       "sector": "Capital Goods"
     },
     {
       "company": "Cartrade Tech Limited",
       "ticker": "CARTRADE",
       "sector": "Consumer Services"
-    },
-    {
-      "company": "KSH International Limited",
-      "ticker": "KSHINTL",
-      "sector": "Capital Goods"
     },
     {
       "company": "Saregama India Limited",
