@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T22:20:35.396Z",
+  "generated_at": "2026-10-13T09:57:20.514Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,146 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f8384bde84f39",
+      "ticker": "STYLAMIND",
+      "company": "Stylam Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-10-13T15:07:33.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Stylam Industries Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/STYLAMIND_13102026150721_Intimations_74_5_.pdf"
+    },
+    {
+      "id": "f1a6c34d7d6fb",
+      "ticker": "BHARATCOAL",
+      "company": "Bharat Coking Coal Limited",
+      "exchange": "NSE",
+      "date": "2026-10-13T14:51:41.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Bharat Coking Coal Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/BCCL_13102026144952_Regulation_74_5__Certificate.pdf"
+    },
+    {
+      "id": "f2f33135f91ff",
+      "ticker": "CANFINHOME",
+      "company": "Can Fin Homes Limited",
+      "exchange": "NSE",
+      "date": "2026-10-13T14:36:59.000Z",
+      "category": "Credit Rating",
+      "title": "Can Fin Homes Limited has informed the Exchange about Credit Rating",
+      "url": "https://nsearchives.nseindia.com/corporate/CANFINHOME_13102026143630_SE_Intimation_Credit_rating_13_10_2026.pdf"
+    },
+    {
+      "id": "f950ecbac6656",
+      "ticker": "CMLL",
+      "company": "Caliber Mining and Logistics Limited",
+      "exchange": "NSE",
+      "date": "2026-10-13T14:07:10.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Caliber Mining and Logistics Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/CMLL_13102026140655_Certificate_under_Reg_74_5_of_SEBI_DP_Regulations_2018.pdf"
+    },
+    {
+      "id": "f5def6dc84a07",
+      "ticker": "SHIPROCKET",
+      "company": "Shiprocket Limited",
+      "exchange": "NSE",
+      "date": "2026-10-13T13:48:19.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Shiprocket Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/SHIPROCKET2011_13102026134559_RTA_Certificate_Reg_74_5__Pdf.pdf"
+    },
+    {
+      "id": "fe4854007f90f",
+      "ticker": "YASHO",
+      "company": "Yasho Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-10-13T13:06:12.000Z",
+      "category": "Shareholders meeting",
+      "title": "Yasho Industries Limited has submitted the Exchange a copy Srutinizers report of Postal Ballot. Further, the company has informed the Exchange regarding voting results.",
+      "url": "https://nsearchives.nseindia.com/corporate/8291904474_13102026130602_covering.pdf"
+    },
+    {
+      "id": "f6c6dfb06c65a",
+      "ticker": "ADROITIND",
+      "company": "Adroit Industries (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-10-13T12:27:01.000Z",
+      "category": "Investor Presentation",
+      "title": "Adroit Industries (India) Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/ADROIT_13102026122528_Investor_Presentation.pdf"
+    },
+    {
+      "id": "f222ca06a55f0",
+      "ticker": "SENORES",
+      "company": "Senores Pharmaceuticals Limited",
+      "exchange": "NSE",
+      "date": "2026-10-13T12:26:53.000Z",
+      "category": "Change in Directors",
+      "title": "Senores Pharmaceuticals Limited has informed the Exchange regarding Re-appointment of Mr. Chetan Bipinchandra Shah as the Whole Time Director of the Company w.e.f. November 10, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/SENORES_13102026122643_Outcomeofboardmeetingsigned.pdf"
+    },
+    {
+      "id": "f55b431488141",
+      "ticker": "SENORES",
+      "company": "Senores Pharmaceuticals Limited",
+      "exchange": "NSE",
+      "date": "2026-10-13T12:26:53.000Z",
+      "category": "Change in Directors",
+      "title": "Senores Pharmaceuticals Limited has informed the Exchange regarding Re-appointment of Mr. Swapnil Jatinbhai Shah as the Managing Director of the company w.e.f. October 15, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/SENORES_13102026122451_Outcomeofboardmeetingsigned.pdf"
+    },
+    {
+      "id": "ff3fc53ad4f92",
+      "ticker": "SENORES",
+      "company": "Senores Pharmaceuticals Limited",
+      "exchange": "NSE",
+      "date": "2026-10-13T12:20:24.000Z",
+      "category": "Board Meeting",
+      "title": "Senores Pharmaceuticals Limited has informed the Exchange that the Board of Directors of the Company at their Meeting held today i.e., Tuesday, October 13, 2026, approved the following:1. Re-Appointment of Mr. Swapnil Jatinbhai Shah (DIN: 05259821) as the Managing Director of the Company.2. Re-Appointment of Mr. Chetan Bipinchandra Shah (DIN: 10381971) as the Whole Time Director of the Company.",
+      "url": "https://nsearchives.nseindia.com/corporate/SENORES_13102026122012_Outcomeofboardmeetingsigned.pdf"
+    },
+    {
+      "id": "f12cef8e85d17",
+      "ticker": "ADROITIND",
+      "company": "Adroit Industries (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-10-13T12:13:30.000Z",
+      "category": "Newspaper Publication",
+      "title": "Adroit Industries (India) Limited has informed the Exchange about Copy of Newspaper Publication",
+      "url": "https://nsearchives.nseindia.com/corporate/ADROIT_13102026121320_Newspaper_Advertisement.pdf"
+    },
+    {
+      "id": "f978e8d24300a",
+      "ticker": "GANESHBE",
+      "company": "Ganesh Benzoplast Limited",
+      "exchange": "NSE",
+      "date": "2026-10-13T12:08:47.000Z",
+      "category": "Investor Presentation",
+      "title": "Ganesh Benzoplast Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/GANESHBE_13102026120833_CONCALL_TRANSCRIPT_07102026.pdf"
+    },
+    {
+      "id": "f7cb46b377ff0",
+      "ticker": "FAZE3Q",
+      "company": "Faze Three Limited",
+      "exchange": "NSE",
+      "date": "2026-10-13T12:00:27.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Faze Three Limited has informed the Exchange about Certificate under Regulation 74 (5) of SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/FAZETHREE_13102026115950_submission.pdf"
+    },
+    {
+      "id": "ff17f995e711d",
+      "ticker": "SCODATUBES",
+      "company": "Scoda Tubes Limited",
+      "exchange": "NSE",
+      "date": "2026-10-13T11:48:17.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Scoda Tubes Limited has informed the Exchange about Certificate under regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/SCODA_13102026114812_Covering.pdf"
+    },
     {
       "id": "fdf0a4a04b280",
       "ticker": "CANFINHOME",
@@ -216,6 +356,16 @@
       "category": "Board Meeting",
       "title": "Adroit Industries (India) Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
       "url": "https://nsearchives.nseindia.com/corporate/ADROIT_12102026153253_Outcome_of_Board_Meeting.pdf"
+    },
+    {
+      "id": "f6f98d50881dc",
+      "ticker": "VIVIDEL",
+      "company": "Vivid Electromech Limited",
+      "exchange": "NSE",
+      "date": "2026-10-12T15:29:20.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Vivid Electromech Limited has informed the Exchange about Certificate under Regulation 76 of SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/VIVID_12102026152859_Intimation_of_Reg_76_of_SEBI_DP.pdf"
     },
     {
       "id": "f53c52d1a9b23",
@@ -5398,6 +5548,16 @@
       "url": "https://nsearchives.nseindia.com/corporate/SUNSHINE_17092026112050_newspaperadvertisement17092026.pdf"
     },
     {
+      "id": "f14586d7b49a1",
+      "ticker": "SONACOMS",
+      "company": "Sona BLW Precision Forgings Limited",
+      "exchange": "NSE",
+      "date": "2026-09-17T09:29:35.000Z",
+      "category": "Investor Presentation",
+      "title": "Sona Blw Precision Forgings Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_17092026092907_IP.pdf"
+    },
+    {
       "id": "f8bf0b027404a",
       "ticker": "SGMART",
       "company": "SG Mart Limited",
@@ -5966,6 +6126,16 @@
       "category": "Corrigendum",
       "title": "Meesho Limited has informed the Exchange regarding Corrigendum to Notice of Annual General Meeting to be held on September 18, 2026",
       "url": "https://nsearchives.nseindia.com/corporate/MEESHO_11092026205109_SE_Covering_Letter_V1__1__RB.pdf"
+    },
+    {
+      "id": "f7c66ca6e34f9",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "exchange": "NSE",
+      "date": "2026-09-11T20:50:02.000Z",
+      "category": "Amendment to AOA/MOA",
+      "title": "Meesho Limited has informed the Exchange regarding the Amendment to AOA/MOA of the company.",
+      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_11092026204924_SE_Covering_Letter_V1__1__RB.pdf"
     },
     {
       "id": "f42c8236847be",
@@ -19836,176 +20006,6 @@
       "category": "Board Meeting",
       "title": "Sapphire Foods India Limited has submitted to the Exchange, the financial results for the period ended 30th June 2026.",
       "url": "https://nsearchives.nseindia.com/corporate/SAPPHIRE_24072026131707_OutcomeofBM.pdf"
-    },
-    {
-      "id": "f423e6fd198a1",
-      "ticker": "ACUTAAS",
-      "company": "Acutaas Chemicals Limited",
-      "exchange": "NSE",
-      "date": "2026-07-24T13:06:47.000Z",
-      "category": "Investor Presentation",
-      "title": "Acutaas Chemicals Limited has informed the Exchange about Investor Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/AMIORG_24072026130627_PresentationcoveringSWsigned.pdf"
-    },
-    {
-      "id": "f95573e167dbe",
-      "ticker": "ACUTAAS",
-      "company": "Acutaas Chemicals Limited",
-      "exchange": "NSE",
-      "date": "2026-07-24T13:00:49.000Z",
-      "category": "Press Release",
-      "title": "Acutaas Chemicals Limited has informed the Exchange regarding a press release dated July 24, 2026, titled \"Q1 FY27 Results\".",
-      "url": "https://nsearchives.nseindia.com/corporate/AMIORG_24072026130025_PressRelease2407signed.pdf"
-    },
-    {
-      "id": "ff07f60a6ea1a",
-      "ticker": "PDSL",
-      "company": "PDS Limited",
-      "exchange": "NSE",
-      "date": "2026-07-24T12:34:06.000Z",
-      "category": "Sale or disposal",
-      "title": "PDS Limited has informed the Exchange about Sale or disposal",
-      "url": "https://nsearchives.nseindia.com/corporate/PDSL_24072026123329_Ltr_DesignCEOUSA_24072026.pdf"
-    },
-    {
-      "id": "fa13f4d15bcfd",
-      "ticker": "ACUTAAS",
-      "company": "Acutaas Chemicals Limited",
-      "exchange": "NSE",
-      "date": "2026-07-24T12:32:43.000Z",
-      "category": "Board Meeting",
-      "title": "Acutaas Chemicals Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/AMIORG_24072026123226_FRsw2407.pdf"
-    },
-    {
-      "id": "f894db4372908",
-      "ticker": "STLTECH",
-      "company": "Sterlite Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-24T12:11:55.000Z",
-      "category": "ESOP/ESOS/ESPS",
-      "title": "Sterlite Technologies Limited has informed the Exchange regarding Grant of 1794800 Options.",
-      "url": "https://nsearchives.nseindia.com/corporate/STLTECH_24072026120923_ESOP_grant_intimation_24July2026_Final_signed.pdf"
-    },
-    {
-      "id": "fd4aa848b2bd6",
-      "ticker": "HILINFRA",
-      "company": "Highway Infrastructure Limited",
-      "exchange": "NSE",
-      "date": "2026-07-24T10:48:14.000Z",
-      "category": "Press Release",
-      "title": "Highway Infrastructure Limited has informed the Exchange regarding a press release dated July 24, 2026, titled \" Highway Infrastructure Limited Secures Rs. 28.69 Crores Toll Operations Contract from NHAI. \".",
-      "url": "https://nsearchives.nseindia.com/corporate/HIGHWAY123_24072026104800_HIL_PR_Kohinjipatti_24072026.pdf"
-    },
-    {
-      "id": "f76587e0f448e",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "exchange": "NSE",
-      "date": "2026-07-23T22:16:03.000Z",
-      "category": "Investor Presentation",
-      "title": "Meesho Limited has informed the Exchange about Link of Recording",
-      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_23072026221534_Earningscallaudiolink23072026.pdf"
-    },
-    {
-      "id": "f6fe40cfa5bc8",
-      "ticker": "CURRENT",
-      "company": "Current Infraprojects Limited",
-      "exchange": "NSE",
-      "date": "2026-07-23T21:59:13.000Z",
-      "category": "Investor Presentation",
-      "title": "Current Infraprojects Limited has informed the Exchange about Outcome of Investors Meeting",
-      "url": "https://nsearchives.nseindia.com/corporate/CURRENTINFRA_23072026215755_Investor_Meet_Outcome_final.pdf"
-    },
-    {
-      "id": "f6458452b2261",
-      "ticker": "SONACOMS",
-      "company": "Sona BLW Precision Forgings Limited",
-      "exchange": "NSE",
-      "date": "2026-07-23T21:48:44.000Z",
-      "category": "Investor Presentation",
-      "title": "Sona Blw Precision Forgings Limited has informed the Exchange about Link of Recording",
-      "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_23072026214803_Intimation.pdf"
-    },
-    {
-      "id": "fac30d32e99ab",
-      "ticker": "DEVYANI",
-      "company": "Devyani International Limited",
-      "exchange": "NSE",
-      "date": "2026-07-23T20:37:06.000Z",
-      "category": "Shareholders meeting",
-      "title": "Devyani International Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on August 14, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/DEVYANI_23072026203408_DIL202526DSC.pdf"
-    },
-    {
-      "id": "fa6655b6bb151",
-      "ticker": "CURRENT",
-      "company": "Current Infraprojects Limited",
-      "exchange": "NSE",
-      "date": "2026-07-23T20:02:03.000Z",
-      "category": "Change in Directors",
-      "title": "Current Infraprojects Limited has informed the Exchange regarding Appointment of Narnoli & Associates as the Internal Auditor of the Company for the financial years 2026-27",
-      "url": "https://nsearchives.nseindia.com/corporate/CURRENTINFRA_23072026200123_INTIMATION_OF_INTERNAL_AUDITOR.pdf"
-    },
-    {
-      "id": "f94d1fff21502",
-      "ticker": "CURRENT",
-      "company": "Current Infraprojects Limited",
-      "exchange": "NSE",
-      "date": "2026-07-23T19:52:01.000Z",
-      "category": "Change in Directors",
-      "title": "Current Infraprojects Limited has informed the Exchange regarding Appointment of Maheshwari Neetu & Associates, as Secretarial Auditor of the company for the financial years 2026-27 to 2030-31 subject to the approval of the Members at the ensuing General Meeting.",
-      "url": "https://nsearchives.nseindia.com/corporate/CURRENTINFRA_23072026194621_INTIMATION_OF_SECRETARIAL_AUDITOR_FINAL.pdf"
-    },
-    {
-      "id": "f7e8c7da882b7",
-      "ticker": "HARIOMPIPE",
-      "company": "Hariom Pipe Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-07-23T19:50:21.000Z",
-      "category": "Credit Rating",
-      "title": "Hariom Pipe Industries Limited has informed the Exchange about Credit Rating- Revision",
-      "url": "https://nsearchives.nseindia.com/corporate/hariompipes_23072026194905_Revised_Credit_Rating_Signed.pdf"
-    },
-    {
-      "id": "f9d569bfa5ff0",
-      "ticker": "CURRENT",
-      "company": "Current Infraprojects Limited",
-      "exchange": "NSE",
-      "date": "2026-07-23T19:42:55.000Z",
-      "category": "Change in Auditors",
-      "title": "Current Infraprojects Limited has informed the Exchange regarding Change in Auditors of the company.",
-      "url": "https://nsearchives.nseindia.com/corporate/CURRENTINFRA_23072026193900_INTIMATION_OF_SECRETARIAL_AUDITOR_FINAL.pdf"
-    },
-    {
-      "id": "fd25b9b9776e1",
-      "ticker": "CURRENT",
-      "company": "Current Infraprojects Limited",
-      "exchange": "NSE",
-      "date": "2026-07-23T19:27:00.000Z",
-      "category": "Change in Directors",
-      "title": "Current Infraprojects Limited has informed the Exchange regarding Appointment of Mr. Chetan Dadhich as an Additional Director designated as Whole-time Director of the company w.e.f. July 23, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/CURRENTINFRA_23072026192409_INTIMATION_OF_CEO_FINAL_01.pdf"
-    },
-    {
-      "id": "f9f8d394b01aa",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "exchange": "NSE",
-      "date": "2026-07-23T19:21:36.000Z",
-      "category": "Monitoring Agency Report",
-      "title": "Monitoring Agency Report for Quarter ended June 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_23072026192125_FMLMonitoryagencyreport.pdf"
-    },
-    {
-      "id": "ff78b8cabc14f",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "exchange": "NSE",
-      "date": "2026-07-23T19:14:18.000Z",
-      "category": "Disclosure",
-      "title": "Meesho Limited has informed the Exchange under Regulation 30 of SEBI (LODR) Regulations, 2015.",
-      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_23072026191403_FFIntimation_correction.pdf"
     }
   ]
 }
