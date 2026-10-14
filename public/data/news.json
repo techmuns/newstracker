@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-10-14T08:03:35.605Z",
+  "generated_at": "2026-10-14T18:52:50.693Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 100,
-    "watchlist": 398,
+    "portfolio": 101,
+    "watchlist": 402,
     "universe": 50,
-    "total": 448
+    "total": 452
   },
   "items": [
+    {
+      "id": "nafec2e4b24e0",
+      "ticker": "APTUS",
+      "company": "Aptus Value Housing Finance India Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Aptus Value Housing Finance sets Nov 5 date for Q2FY27 earnings call",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZmgxN0RnN2oydUQ2X2RZSVZUX0tDUTFUYWJPc2tqUE1ndkZyLWthWXE3QzU3eF9GSEtVdDlfSU1WRTYyN29mTHR2QVotVGJxOUZyM2ctd0Y2czQ2REdjNm9FMVhUYjdvWUFiS216ZUpHdWRVSkNRbjJmZmlaOWVGTzlzdHZ1WWhQUXJ4V01zUG9WcFFrc2NGb1YtYUFpRng2YzMwQkxEajJ5TzZsVEhYbWM2cTA1YjNKVEN0WUJB?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-10-14T06:31:10.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Aptus Value Housing Finance scheduled earnings call for November 5 to discuss Q2 results.",
+      "enriched": true
+    },
     {
       "id": "n1bfacc157622",
       "ticker": "THEME",
@@ -295,7 +314,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Aurionpro wins ₹150 crore data centre order from a global hyperscaler client.",
-      "sources_count": 6,
+      "sources_count": 7,
       "enriched": true
     },
     {
@@ -1856,7 +1875,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Unimech Aerospace plans ₹750 crore fundraising via QIP to expand aerospace operations.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -7142,6 +7161,45 @@
       "enriched": true
     },
     {
+      "id": "n55ac07b65c25",
+      "ticker": "UNIMECH",
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Unimech Aerospace NSE:UNIMECH Q1 FY27 Earnings Call Update",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeE9jcDB2S2lTbXNIUFdYcGQydG9zR01vaXp0dGI1YkwtektLVDI3SWRLc2toczRCWDVIRzB0dU1KQzRZamF5VVhDTU03M2JURXN4TE82OWdqbV85bTdEWnJKdHJNbU8wV0ZXWXFadWVEX3J3QU9rdGtQSGl5d29EdHJPUjlDUWplb3R5UzFYdTN5WnpvTFpLdkVKRkxMdUh1RHQwZ3NBUGs4M2lLS2dyXzBDc29fTko3?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-08-04T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Unimech Aerospace held Q1 FY27 earnings call to discuss quarterly results.",
+      "enriched": true
+    },
+    {
+      "id": "n8dc332b3a441",
+      "ticker": "SHADOWFAX",
+      "company": "Shadowfax Technologies Limited",
+      "sector": "Services",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Earnings Beat: Shadowfax Technologies Limited Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQb3J4LUM4VlpKelJHOGxTZWtpWnpNQjU5U01qSzljZ0MzWDJ3NElrMUZ1Qzk1M1NVN3M2WjFDazNQWF9EVTFsYXduclJwSkhZcUphZVNXdldQNXhDbUQyVUNydXBwdWg0a184ODlJMHR1ZmlIMWlXVUVIUGlhSThLb0gyMTVveGZRQnhYWC1OWmttSUk3Z2oxaGlnWG56dVZfblc5eFgwYmZwZngyTTcwX3FDVkhwSkNQRllRbzlKbmxSOGRTRENmbWEzaHRvWElJb0RGSXhkaDlMS0hYNFZKUGM2dnNWbjNTbmVPRdIB8gFBVV95cUxQbktzTEg1VHBpUjhEampVMXg4RlpGS1RNZ0JjSjk0cXNOb1JwREp6VnJCenBRSGxjb3puLWs3VzJwMHRPRlpFZ1ZCdUxfQ0N6d0hBekc2a1AwMTF5bFc5SUxNYldWSEVaZVJmalhOUmY2WVRHMmZDZ0NLMU84eDd3QUY2YmFEZnlONnZCWUpaejlmZGlEVDNmS0J4NXBSN0t5eUV0RDFTZEtNc1hIXzR4SUF1SG1NX1Y3amwtd3VQZjBBa2tudFB6R01pS21XVEx5Mm1nVDdmcVRsS1RTS2ZtWFZrMUJOazFkVzdGc0V4Qi1zQQ?oc=5",
+      "source": "Simply Wall Street",
+      "date": "2026-08-04T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Shadowfax beat analyst earnings forecasts, prompting analysts to update their financial models.",
+      "enriched": true
+    },
+    {
       "id": "n4395d75c2024",
       "ticker": "MTARTECH",
       "company": "Mtar Technologies Limited",
@@ -8004,6 +8062,26 @@
       "enriched": true
     },
     {
+      "id": "n779800e7b3be",
+      "ticker": "APTUS",
+      "company": "Aptus Value Housing Finance India Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Aptus Value Housing Finance Mar 2026 Earnings: Stable EPS of ₹3.52 Amid Steady Housing Demand - Earnings Acceleration Picks",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxON1I5WXYtOHhLQ2FTUnBoQzAxbTNHTDFmR1F2aV8tWTBveGRWOFhIWnVtbzlrNDhNX3JyM1Y1T2lrdGhiSGkwUUw4T0FCNXhLeDh6Z3E5aHJRSGRwWmIzdWxucV81R2FGd1ZRMUFzZ2RLVkVRTEhkWnROemFIQUZrT0xhVjU3MU5FMjJld3JqSUZwdHhPSmhVQmE0ai1IYkFrQURIMk54SjkyMkhhbHVmNWwxcnZIVWdLYlhwVU1jVEtZeEdEdm9JSlFTR3M?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-09T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Aptus Value Housing Finance reported March 2026 quarter with stable EPS of ₹3.52.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
       "id": "n3458a1281cb5",
       "ticker": "MEDIASSIST",
       "company": "Medi Assist Healthcare Services Limited",
@@ -8059,26 +8137,6 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Unimech Aerospace reported stable Q2 FY2026 earnings with marginal revenue decline.",
-      "enriched": true
-    },
-    {
-      "id": "n779800e7b3be",
-      "ticker": "APTUS",
-      "company": "Aptus Value Housing Finance India Limited",
-      "sector": "Financial Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Aptus Value Housing Finance Mar 2026 Earnings: Stable EPS of ₹3.52 Amid Steady Housing Demand - Earnings Acceleration Picks",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxON1I5WXYtOHhLQ2FTUnBoQzAxbTNHTDFmR1F2aV8tWTBveGRWOFhIWnVtbzlrNDhNX3JyM1Y1T2lrdGhiSGkwUUw4T0FCNXhLeDh6Z3E5aHJRSGRwWmIzdWxucV81R2FGd1ZRMUFzZ2RLVkVRTEhkWnROemFIQUZrT0xhVjU3MU5FMjJld3JqSUZwdHhPSmhVQmE0ai1IYkFrQURIMk54SjkyMkhhbHVmNWwxcnZIVWdLYlhwVU1jVEtZeEdEdm9JSlFTR3M?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-09T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Aptus Value Housing Finance reported March 2026 quarter with stable EPS of ₹3.52.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -8236,7 +8294,8 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Kanohar Electricals reports 140% profit jump with strong order inflow.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n2f230a0ea5ee",
@@ -8529,6 +8588,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Epigral raised ₹333 crore through QIP to fund growth.",
+      "enriched": true
+    },
+    {
+      "id": "n002827641072",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho Q1 FY27: Revenue Up 48%, Net Loss Narrows to Rs 133 Crore | Kalkine India",
+      "url": "https://www.kalkine.co.in/article/growth/meesho-nse-meesho-revenue-jumps-48-and-losses-halve-as-the-marketplace-heads-into-its-biggest-festive-sale",
+      "source": "kalkine.co.in",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Meesho Q1 revenue grew 48% while losses narrowed to Rs 133 crore, showing improved financial performance.",
       "enriched": true
     },
     {

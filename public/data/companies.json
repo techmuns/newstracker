@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T20:19:41.149Z",
+  "generated_at": "2026-10-14T18:49:46.563Z",
   "portfolio": [
     {
       "company": "Monolithisch India Limited",
@@ -27,14 +27,14 @@
       "sector": "Services"
     },
     {
-      "company": "Acutaas Chemicals Limited",
-      "ticker": "ACUTAAS",
-      "sector": "Healthcare"
-    },
-    {
       "company": "Stylam Industries Limited",
       "ticker": "STYLAMIND",
       "sector": "Consumer Durables"
+    },
+    {
+      "company": "Acutaas Chemicals Limited",
+      "ticker": "ACUTAAS",
+      "sector": "Healthcare"
     },
     {
       "company": "Sterlite Technologies Limited",
