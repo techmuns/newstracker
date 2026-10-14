@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T20:27:12.340Z",
+  "generated_at": "2026-10-14T08:10:02.470Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,76 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f4d61882d7851",
+      "ticker": "ORIENTCABL",
+      "company": "Orient Cables (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-10-14T13:19:28.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Orient Cables (India) Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/ORIENTCABLES_14102026131839_Certificate_under_Reg74_5__Signed.pdf"
+    },
+    {
+      "id": "fb7fa81f6f1ef",
+      "ticker": "GROWW",
+      "company": "Billionbrains Garage Ventures Limited",
+      "exchange": "NSE",
+      "date": "2026-10-14T13:10:02.000Z",
+      "category": "Disclosure",
+      "title": "Billionbrains Garage Ventures Limited has informed the Exchange regarding 'The KPI for the quarter ended September 30, 2026 is attached herewith'.",
+      "url": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_14102026130940_IntimationKPI_Signed.pdf"
+    },
+    {
+      "id": "f3e0646b18867",
+      "ticker": "GROWW",
+      "company": "Billionbrains Garage Ventures Limited",
+      "exchange": "NSE",
+      "date": "2026-10-14T13:05:28.000Z",
+      "category": "Investor Presentation",
+      "title": "Billionbrains Garage Ventures Limited has informed the Exchange about Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_14102026130454_ShareholderLetter_Final.pdf"
+    },
+    {
+      "id": "f3ad4a00b7bc9",
+      "ticker": "GROWW",
+      "company": "Billionbrains Garage Ventures Limited",
+      "exchange": "NSE",
+      "date": "2026-10-14T12:50:29.000Z",
+      "category": "Statement of deviation(s) or variation(s) under Reg. 32",
+      "title": "Billionbrains Garage Ventures Limited has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32",
+      "url": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_14102026125016_outcomefinalsigned.pdf"
+    },
+    {
+      "id": "f73f5d69aa7c4",
+      "ticker": "GROWW",
+      "company": "Billionbrains Garage Ventures Limited",
+      "exchange": "NSE",
+      "date": "2026-10-14T12:48:45.000Z",
+      "category": "Disclosure",
+      "title": "Billionbrains Garage Ventures Limited has informed the Exchange regarding ' Outcome of the Board Meeting related to reclassification is attached herewith'.",
+      "url": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_14102026124830_outcomefinalsigned.pdf"
+    },
+    {
+      "id": "f4d9b69436e0b",
+      "ticker": "GROWW",
+      "company": "Billionbrains Garage Ventures Limited",
+      "exchange": "NSE",
+      "date": "2026-10-14T12:46:34.000Z",
+      "category": "Board Meeting",
+      "title": "Billionbrains Garage Ventures Limited has submitted to the Exchange, the outcome of the Board Meeting for the quarter and half year ended September 30, 2026 is attached herewith.",
+      "url": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_14102026124408_outcomefinalsigned.pdf"
+    },
+    {
+      "id": "f0d644fb4c497",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-10-14T10:55:09.000Z",
+      "category": "Press Release",
+      "title": "Aurionpro Solutions Limited has informed the Exchange regarding a press release dated October 14, 2026, titled \"Matkahuolto selects Aurionpro to advance seamless, sustainable public transport payments across Finland.\".",
+      "url": "https://nsearchives.nseindia.com/corporate/AURIONPRO_14102026105455_ASL_Press_Release_Final_sd.pdf"
+    },
     {
       "id": "f675970f34c72",
       "ticker": "SPECTRAA",
@@ -5826,6 +5896,16 @@
       "category": "Acquisition",
       "title": "Triveni Engineering & Industries Limited has informed the Exchange about Scheme of Arrangement - Reports from Audit Committee and Independent Directors of the Company",
       "url": "https://nsearchives.nseindia.com/corporate/TRIVENI_16092026132125_AC_AND_ID_REPORTS_16_9_2026.pdf"
+    },
+    {
+      "id": "f7354a71477af",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "exchange": "NSE",
+      "date": "2026-09-16T12:26:34.000Z",
+      "category": "Receipt of Order",
+      "title": "Apsis Aerocom Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
+      "url": "https://nsearchives.nseindia.com/corporate/APSIS2025_16092026122424_Dislcosure_under_Reg30_Work_order_15092026.pdf"
     },
     {
       "id": "f2282b63ab1df",
@@ -19926,86 +20006,6 @@
       "category": "Change in Directors",
       "title": "Onesource Specialty Pharma Limited has informed the Exchange about change in Management of the Company",
       "url": "https://nsearchives.nseindia.com/corporate/ONESOURCECDMO_24072026195108_SMP_Changes_intimationsigned.pdf"
-    },
-    {
-      "id": "fab3ecbaf2ee8",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-24T19:39:39.000Z",
-      "category": "Investor Presentation",
-      "title": "Sapphire Foods India Limited has informed the Exchange about Link of Recording",
-      "url": "https://nsearchives.nseindia.com/corporate/SAPPHIRE_24072026193922_SapphireFoodsAudioRecordingQ1FY27ConferenceCall.pdf"
-    },
-    {
-      "id": "f071e4b589fd2",
-      "ticker": "ONESOURCE",
-      "company": "Onesource Specialty Pharma Limited",
-      "exchange": "NSE",
-      "date": "2026-07-24T19:03:38.000Z",
-      "category": "Board Meeting",
-      "title": "Onesource Specialty Pharma Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/ONESOURCECDMO_24072026190301_OS_Unaudited_FS_June_30_2026_upload.pdf"
-    },
-    {
-      "id": "fdf94c86cd405",
-      "ticker": "KPITTECH",
-      "company": "KPIT Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-24T18:46:03.000Z",
-      "category": "Investor Presentation",
-      "title": "KPIT Technologies Limited has informed the Exchange about Schedule of meet",
-      "url": "https://nsearchives.nseindia.com/corporate/KPITTECH_24072026184502_Cov_Let_KPIT_Earnings_Call_Intimation.pdf"
-    },
-    {
-      "id": "ff898dfd6fae4",
-      "ticker": "PVRINOX",
-      "company": "PVR INOX Limited",
-      "exchange": "NSE",
-      "date": "2026-07-24T18:44:10.000Z",
-      "category": "Investor Presentation",
-      "title": "PVR INOX Limited has submitted to the Exchange link to the audio recording of the conference call with analysts and investors held on Friday, July 24, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/PVRINOXLTD_24072026184359_PVRINOXConferenceCallAudioLink24072026.pdf"
-    },
-    {
-      "id": "f72252d28cef7",
-      "ticker": "VENUSREM",
-      "company": "Venus Remedies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-24T18:29:35.000Z",
-      "category": "Shareholders meeting",
-      "title": "Venus Remedies Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on August 20, 2026, Annual report 2025-26 is also enclosed herewith.",
-      "url": "https://nsearchives.nseindia.com/corporate/VENUSREM_24072026182805_VRL_AGM_Notice_AR_2026_Exchange.pdf"
-    },
-    {
-      "id": "f911c5fb1bf9d",
-      "ticker": "BLACKBUCK",
-      "company": "BLACKBUCK LIMITED",
-      "exchange": "NSE",
-      "date": "2026-07-24T18:26:49.000Z",
-      "category": "ESOP/ESOS/ESPS",
-      "title": "BLACKBUCK LIMITED has informed the Exchange regarding of 11476 Options.",
-      "url": "https://nsearchives.nseindia.com/corporate/ZINKA2015_24072026182632_Intimation_ESOP_Allotment.pdf"
-    },
-    {
-      "id": "f0f5379b6567e",
-      "ticker": "ACUTAAS",
-      "company": "Acutaas Chemicals Limited",
-      "exchange": "NSE",
-      "date": "2026-07-24T18:23:39.000Z",
-      "category": "Investor Presentation",
-      "title": "Acutaas Chemicals Limited has informed the Exchange about Link of Recording",
-      "url": "https://nsearchives.nseindia.com/corporate/AMIORG_24072026182328_Recordingsigned.pdf"
-    },
-    {
-      "id": "f719d44128408",
-      "ticker": "VAML",
-      "company": "Vedanta Aluminium Metal Limited",
-      "exchange": "NSE",
-      "date": "2026-07-24T18:16:10.000Z",
-      "category": "Trading Window",
-      "title": "Vedanta Aluminium Metal Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/VAML_24072026181554_VAMLPriorIntimationofBoardMeeting30July2026signed.pdf"
     }
   ]
 }
