@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-10-13T20:22:55.240Z",
+  "generated_at": "2026-10-14T08:03:35.605Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 100,
-    "watchlist": 402,
-    "universe": 49,
-    "total": 451
+    "watchlist": 398,
+    "universe": 50,
+    "total": 448
   },
   "items": [
+    {
+      "id": "n1bfacc157622",
+      "ticker": "THEME",
+      "company": "Power Equipment",
+      "sector": "Capital Goods",
+      "scope": [
+        "universe"
+      ],
+      "title": "Transformers & Rectifiers Order Book Reaches ₹7,237 Crore, Up 32% YoY",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYnljOW91THY1d2N5MFduVjlOaFRYcXdSdGFueEhLRThBYXFKOXoya1VpRDI5YTBuV2E5bWVzQWltbG1kQ0ttTkFCZ19xM3pXMTdJZ0JNRTdQU3lVdjJkX25fd19Ia0UwbVhhazBHZ1loNk5pR2Jqa3czZjdONlhjTElOREpFRUY5a0RjYUlxU2JoYTA5?oc=5",
+      "source": "Sahi",
+      "date": "2026-10-14T03:46:04.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Transformers & Rectifiers order book grew 32% year-on-year to ₹7,237 crore.",
+      "enriched": true
+    },
     {
       "id": "n70098fd326f6",
       "ticker": "THEME",
@@ -140,7 +159,7 @@
       "mood": "positive",
       "takeaway": "DEE Development Engineers' order book expanded to ₹2,531 crore as of September 2026.",
       "enriched": true,
-      "sources_count": 5
+      "sources_count": 4
     },
     {
       "id": "nb6f5ee3b7626",
@@ -179,7 +198,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "BEML secured ₹75.58 crore order for military vehicle exports.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -7224,6 +7243,26 @@
       "enriched": true
     },
     {
+      "id": "nca2925673d8f",
+      "ticker": "SENORES",
+      "company": "Senores Pharmaceuticals Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Results: Senores Pharmaceuticals Limited Beat Earnings Expectations And Analysts Now Have New Forecasts",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORld2b0gzNUFENi1qS0RhTzREWWRoLTV6WEg5UWhYR25VbjhQRXZDQmg1Y0N2ZjJSX3d1NVdQRE1rUnNCeG53NmY4NzhSeWxkSU9sYUNUaGw5TEpZckRYVkJnX3RLcGM2SHVoelFFQkRBbEtuc29HWVZNd1dzMFNFY3JzdzRoRTM2Qk9meHRJVC1wQ3Q1SkNmWXVBMmhTWnJlZm96azdyajZ0NWZFNkxDUGhIcmZYZGRXZWpqU2drUW9YZ0RLUGhSTkFWVTlBN2dVamRRUDJuNmdvd1hlSUxBN0kyXzFQNzQ0d1JOMW0xeE45NklyTGRV0gH8AUFVX3lxTE9XMUJKdmxCZy0yRjQtWkZjY3phYng1QkdTNHVnVmdFZ1hzVkFJZHh4bzdseGVkXzRsZ2dTdVh6Wk1yUEc0aFVHNkVQTllOU0RqU09lWGhmbGwzbE03QzJsb3J6ZjVEWWRyOU03MjBRdS1CNmM4cGg5dGEwQUc4NWktVGt6TktwLXppWVJvLXpMZlN2YXZWV1gxNWVBd1I4amdTV3hHc0VydXZTVjVYUG9WRHdqZWc5V2lMOEZjMFVHUUNoMERVc3VSb2NwWlY5SC1fSkVzMTltczFwdUlmZ3l6em52UF8wbVFjVVNQT3BGcEhYTkJtVmVjOEliMQ?oc=5",
+      "source": "Simply Wall Street",
+      "date": "2026-07-30T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Senores Pharmaceuticals reported earnings that exceeded analyst expectations.",
+      "enriched": true
+    },
+    {
       "id": "nb34aecb54ea5",
       "ticker": "MTARTECH",
       "company": "Mtar Technologies Limited",
@@ -8099,103 +8138,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Defence Acquisition Council approved capital acquisition proposals worth $5.5 billion.",
-      "enriched": true
-    },
-    {
-      "id": "n69686c4caa55",
-      "ticker": "SETL",
-      "company": "Standard Engineering Technology Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Standard Engineering Technology Limited Mar 2026 Earnings: Modest Profit as Revenue Holds Steady - Tangible Book Value",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPR096SDk5WEVlMEF1MHJKLVlldjU3V05DOXRwXzdYUlNQZjEzUGtXQUtjUnUxcjV1V2V5aXpwMEJzOUNhWXczUWxOUUhhaHBvcDZrQlcyV0ZnZ0dnSjc2cnBuSjRZQnVQelhoSVh4ZmFxa2htRHlOWWRRLThSdDIyMXFGeVVkaGZqY05XcmxsN3VVdEQ5RnJYV0o5amYteTVINGdDXzN3Z2xGTWx6ck5jTklSQzYwdkdiSi1tS1JYTlhpOUljbzEzelBnRTl1VEVqYVhz?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-06T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Standard Engineering Technology reported modest profit with steady revenue in March 2026 quarter.",
-      "enriched": true
-    },
-    {
-      "id": "n0b99952debf3",
-      "ticker": "UNIMECH",
-      "company": "Unimech Aerospace and Manufacturing Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "UNIMECH.NS Q2 2026 Earnings: Revenue Declines Marginally While EPS Holds Steady at ₹12.42 - Earnings Analysis",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR2Zwb1hVME9qNkFUcVJhSnhvSDdzeDg5clozdG1pWjZtdEl1YzR6NzREZmFxeGQydGF2S3BLb0NNdVRFRDE1TFZKRjZ0Ym9xb1IySkZmT0s4eWRpMEF5ZDlvc2FiTGtkVEtfRmlQZ2t4VENBMmRRenhiMnVsRzBhdS1RdnJUZlJOM0NkUG94eUVSUFh5bFlQek9aSUM2Yl95UkVKYXdoTDhsR0ZLcEtkVDN5THRGWTRHdzJIZTZ6X3J1WlNLa0E?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-06T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Unimech Q2 revenue dipped slightly but earnings per share held steady at ₹12.42.",
-      "enriched": true
-    },
-    {
-      "id": "n631ed37792f2",
-      "ticker": "JYOTICNC",
-      "company": "Jyoti CNC Automation Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "JYOTICNC Q2 2026 Earnings: Strong Revenue Growth of 15.15% YoY Amid Operational Efficiency - Upward Estimate Revision",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ1pzWTFQQUsyTXJsejF2cUpUUURRb3BocmRLRDVjcHBjTVhPYnhGUkREdnNLajhJYTVEQ2RNTHNWTXVmQ1lwd1ZHVXVQS3JucEEzd0MwNE05THd6bGtyNXAtQkk3TUxiX2ZBZVFTd3dWVldrRE9nMldSQWo5WVlNd0p5VDlHQWE3S0dEX3NibWlhYmFIQmMyUnM0UVpabjNLRkEzdS01TFhDV0ZtMGl2SGFyamx1cVVJOTJ4aTVqcjN6TnVNZXlUdw?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-06T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Jyoti CNC Automation delivers strong Q2 with 15% revenue growth year-on-year and improved efficiency.",
-      "enriched": true
-    },
-    {
-      "id": "n7efaeb616c58",
-      "ticker": "BALUFORGE",
-      "company": "Balu Forge Industries Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "BALUFORGE Q2 FY2026 Earnings: Strong Revenue Growth of 19.89% YoY, EPS at ₹23.9 - Post-Earnings Reaction",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY3YzMGItMHk4bGVpWmlGQXo1LUVRUHVvRzlTSkVsM2RNRVFhQVJ5eEM0THlINC1WLWZLbllQLU96M0RFV1hYaldqbWFaaUZYeFF5ZmF2RF85R0NaZjQ3QlhFYm9CenRlbTd5TjRDeHQ2cWdYeDNFN3NfUzhGVnhzY3hIckU1LVdONFJQVjRnUlc1dTJUYzZTczQwVjFtU2pwLWN3WjkwMjBvQVpXSms2T3cyb19KUQ?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-06T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Balu Forge Industries reports robust Q2 with 20% revenue growth and EPS of ₹23.9.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n1e02f059d3eb",
-      "ticker": "EPIGRAL",
-      "company": "Epigral Limited",
-      "sector": "Chemicals",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "EPIGRAL Mar 2026 Earnings: Resilient Performance Amid Market Headwinds - Retail Earnings Report",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdUxudWJpRFRfeFBFWVFZT1cwRVV1TVFDTE55dHRpNGo2U3Y5SmVIQ19BRWRnVmh2M19uVHZyLU9sWFBzLS14U1YxVEp6N21MS3c4anJ0MVRKM3JJR3BqbHFla2ZHaTZ2MmgxYVNoUFUyckU4b1FfS2xEcExRSVlyb2FOQTBOMDh0R0xkTlZOLUJsVTN5VjZENVd4cXpueWJ5ODRzSS00Smh5RUhxRDJtNg?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-06T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Epigral reported March 2026 earnings showing resilient performance amid market challenges.",
       "enriched": true
     },
     {
