@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T18:49:46.563Z",
+  "generated_at": "2026-10-15T18:35:29.190Z",
   "portfolio": [
     {
       "company": "Monolithisch India Limited",
@@ -37,18 +37,8 @@
       "sector": "Healthcare"
     },
     {
-      "company": "Sterlite Technologies Limited",
-      "ticker": "STLTECH",
-      "sector": "Telecommunication"
-    },
-    {
       "company": "Xpro India Limited",
       "ticker": "XPROINDIA",
-      "sector": "Capital Goods"
-    },
-    {
-      "company": "KSH International Limited",
-      "ticker": "KSHINTL",
       "sector": "Capital Goods"
     },
     {
@@ -57,9 +47,19 @@
       "sector": "Consumer Services"
     },
     {
+      "company": "KSH International Limited",
+      "ticker": "KSHINTL",
+      "sector": "Capital Goods"
+    },
+    {
       "company": "Saregama India Limited",
       "ticker": "SAREGAMA",
       "sector": "Media Entertainment & Publication"
+    },
+    {
+      "company": "Sterlite Technologies Limited",
+      "ticker": "STLTECH",
+      "sector": "Telecommunication"
     },
     {
       "company": "Sudeep Pharma Limited",
