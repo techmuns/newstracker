@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T07:50:04.923Z",
+  "generated_at": "2026-10-15T18:53:09.834Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,106 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "ff0a8636a0092",
+      "ticker": "MIDWESTLTD",
+      "company": "Midwest Limited",
+      "exchange": "NSE",
+      "date": "2026-10-15T19:19:02.000Z",
+      "category": "Board Meeting",
+      "title": "Midwest Limited has informed the Exchange regarding Outcome of Board Meeting held on October 15, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/MIDWEST_15102026191833_Outcome_of_BM.pdf"
+    },
+    {
+      "id": "f59ec0266c333",
+      "ticker": "EPIGRAL",
+      "company": "Epigral Limited",
+      "exchange": "NSE",
+      "date": "2026-10-15T18:26:02.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Epigral Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended 30.09.2026",
+      "url": "https://nsearchives.nseindia.com/corporate/MFL_15102026182529_EPLReg74300926.pdf"
+    },
+    {
+      "id": "fd410b8233516",
+      "ticker": "DYNAMATECH",
+      "company": "Dynamatic Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-10-15T17:58:57.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Dynamatic Technologies Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/DYNAMATICH_15102026175718_DTLCertificateunderRegulation74_5_30092026.pdf"
+    },
+    {
+      "id": "f6fcd0481ba79",
+      "ticker": "SONATSOFTW",
+      "company": "Sonata Software Limited",
+      "exchange": "NSE",
+      "date": "2026-10-15T17:56:24.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Sonata Software Limited has informed the Exchange about Certificate under Reg 74(5) of SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended 30th September, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/SONATSOFTW_15102026175609_sefiling745.pdf"
+    },
+    {
+      "id": "f6cecddadbf9b",
+      "ticker": "DYNAMATECH",
+      "company": "Dynamatic Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-10-15T17:37:47.000Z",
+      "category": "Credit Rating",
+      "title": "Dynamatic Technologies Limited has informed the Exchange about Credit Rating",
+      "url": "https://nsearchives.nseindia.com/corporate/DYNAMATICH_15102026173733_IntiamtionCredit_Rating15102026.pdf"
+    },
+    {
+      "id": "f148ad3a58e19",
+      "ticker": "GMMPFAUDLR",
+      "company": "GMM Pfaudler Limited",
+      "exchange": "NSE",
+      "date": "2026-10-15T17:25:29.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "GMM Pfaudler Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_15102026172430_Reg74_5_.pdf"
+    },
+    {
+      "id": "f311e36365d92",
+      "ticker": "MOLDTKPAC",
+      "company": "Mold-Tek Packaging Limited",
+      "exchange": "NSE",
+      "date": "2026-10-15T16:50:15.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Mold-Tek Packaging Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/MOLDTKPAC_15102026165007_MTPL-74_5__SEIntimation.pdf"
+    },
+    {
+      "id": "f9d2a256898e9",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "exchange": "NSE",
+      "date": "2026-10-15T16:48:03.000Z",
+      "category": "Change in Directors",
+      "title": "Meesho Limited has informed the Exchange about Resignation of Director/KMP/SMP",
+      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_ROID_100539_KMP_Doc.zip"
+    },
+    {
+      "id": "f2444a65835e8",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "exchange": "NSE",
+      "date": "2026-10-15T16:26:00.000Z",
+      "category": "Change in Directors",
+      "title": "Meesho Limited has informed the Exchange regarding Resignation of Mr Surojit Chatterjee as Non- Executive Independent Director of the company w.e.f. October 16, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_15102026161506_ML_Intimation_Resignation_-_SC.pdf"
+    },
+    {
+      "id": "f79a5e62bcc3b",
+      "ticker": "GROWW",
+      "company": "Billionbrains Garage Ventures Limited",
+      "exchange": "NSE",
+      "date": "2026-10-15T15:08:48.000Z",
+      "category": "Newspaper Publication",
+      "title": "Billionbrains Garage Ventures Limited has informed the Exchange about Copy of Newspaper Publication for the unaudited financials results for the quarter and half year ended September 30, 2026 attached herewith.",
+      "url": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_15102026150829_NP_Intimation.pdf"
+    },
     {
       "id": "ff4b3e15ca38c",
       "ticker": "SBCL",
@@ -5996,6 +6096,16 @@
       "category": "Shareholders meeting",
       "title": "Sai Life Sciences Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 17, 2026",
       "url": "https://nsearchives.nseindia.com/corporate/SAILIFE_17092026125920_Stx_Intimation_Outcome_Proceedings_Signed.pdf"
+    },
+    {
+      "id": "f01b761dac021",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-09-17T11:28:28.000Z",
+      "category": "Disclosure",
+      "title": "Zen Technologies Limited has informed the Exchange about General Updates",
+      "url": "https://nsearchives.nseindia.com/corporate/ZENTEC_17092026112658_500_Shares_Signed.pdf"
     },
     {
       "id": "fae4a3664be33",
@@ -19896,116 +20006,6 @@
       "category": "Press Release",
       "title": "Mold-Tek Packaging Limited has informed the Exchange regarding a press release dated July 27, 2026, titled \"Press Release\".",
       "url": "https://nsearchives.nseindia.com/corporate/MOLDTKPAC_27072026142446_SE_Intimation.pdf"
-    },
-    {
-      "id": "f3c082323e97f",
-      "ticker": "EPIGRAL",
-      "company": "Epigral Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T14:16:47.000Z",
-      "category": "Investor Presentation",
-      "title": "Epigral Limited has informed the Exchange about Investor Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/MFL_27072026141641_EpigralEarnPrest30062026.pdf"
-    },
-    {
-      "id": "faee4995d2e40",
-      "ticker": "EPIGRAL",
-      "company": "Epigral Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T14:15:55.000Z",
-      "category": "Press Release",
-      "title": "Epigral Limited has informed the Exchange regarding a press release dated July 27, 2026, titled \"Press Release on Un-Audited Financial Results Q1 FY27\".",
-      "url": "https://nsearchives.nseindia.com/corporate/MFL_27072026141547_EpigralPressRe30062026.pdf"
-    },
-    {
-      "id": "f537289628eaf",
-      "ticker": "EPIGRAL",
-      "company": "Epigral Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T14:05:21.000Z",
-      "category": "Adoption of new line(s) of business",
-      "title": "Epigral Limited has informed the Exchange about Adoption of new line(s) of business",
-      "url": "https://nsearchives.nseindia.com/corporate/MFL_27072026140512_AnnouncementExpansion.pdf"
-    },
-    {
-      "id": "f3a945850c148",
-      "ticker": "MOLDTKPAC",
-      "company": "Mold-Tek Packaging Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T14:04:31.000Z",
-      "category": "Board Meeting",
-      "title": "Mold-Tek Packaging Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/MOLDTKPAC_27072026140337_Final_Results.pdf"
-    },
-    {
-      "id": "ff52815a83b02",
-      "ticker": "EPIGRAL",
-      "company": "Epigral Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T14:00:25.000Z",
-      "category": "Board Meeting",
-      "title": "Epigral Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/MFL_27072026140016_RESULT27072026.pdf"
-    },
-    {
-      "id": "fe8db4cfd0b38",
-      "ticker": "VENUSREM",
-      "company": "Venus Remedies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T12:08:06.000Z",
-      "category": "Newspaper Publication",
-      "title": "Venus Remedies Limited has informed the Exchange about Copy of Newspaper Publication of 37th AGM Notice.",
-      "url": "https://nsearchives.nseindia.com/corporate/VENUSREM_27072026120728_AGM_Newspaper_notice_Post2026.pdf"
-    },
-    {
-      "id": "fce4e5d7394a5",
-      "ticker": "SUDEEPPHRM",
-      "company": "Sudeep Pharma Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T12:06:25.000Z",
-      "category": "Investor Presentation",
-      "title": "Sudeep Pharma Limited has informed the Exchange about Schedule of meet",
-      "url": "https://nsearchives.nseindia.com/corporate/SUDEEPPHARMALIMITED_27072026120615_Intimation_for_Earnings_Call.pdf"
-    },
-    {
-      "id": "fb63ed4011ab5",
-      "ticker": "MASFIN",
-      "company": "MAS Financial Services Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T11:14:03.000Z",
-      "category": "Allotment of Securities",
-      "title": "MAS Financial Services Limited has informed the Exchange regarding allotment of 150000 securities pursuant to Non Convertible Securities at its meeting held on July 27, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/MASFIN_27072026111258_Final.pdf"
-    },
-    {
-      "id": "ff1e5d51334d9",
-      "ticker": "ZENTEC",
-      "company": "Zen Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-26T23:54:08.000Z",
-      "category": "Investor Presentation",
-      "title": "Zen Technologies Limited has informed the Exchange about Investor Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/ZENTEC_26072026235400_IPCLSigned26072026.pdf"
-    },
-    {
-      "id": "f8280c0621df2",
-      "ticker": "ZENTEC",
-      "company": "Zen Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-26T23:19:39.000Z",
-      "category": "Press Release",
-      "title": "Zen Technologies Limited has informed the Exchange regarding a press release dated July 26, 2026, titled \"Zen Technologies, India s leading anti-drone technology and defense training solutions provider announced its financial results for Q1FY27\".",
-      "url": "https://nsearchives.nseindia.com/corporate/ZENTEC_26072026231932_PR26072026Signed.pdf"
-    },
-    {
-      "id": "f2064f4c219af",
-      "ticker": "ONESOURCE",
-      "company": "Onesource Specialty Pharma Limited",
-      "exchange": "NSE",
-      "date": "2026-07-26T23:09:55.000Z",
-      "category": "Newspaper Publication",
-      "title": "Onesource Specialty Pharma Limited has informed the Exchange about Copy of Newspaper Publication",
-      "url": "https://nsearchives.nseindia.com/corporate/ONESOURCECDMO_26072026230930_OS_Intimation_Newspaper_advertisement_f.pdf"
     }
   ]
 }
