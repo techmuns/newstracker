@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T19:01:22.982Z",
+  "generated_at": "2026-10-15T07:50:04.923Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,16 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "ff4b3e15ca38c",
+      "ticker": "SBCL",
+      "company": "Shivalik Bimetal Controls Limited",
+      "exchange": "NSE",
+      "date": "2026-10-15T11:02:37.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Shivalik Bimetal Controls Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/SBCL_15102026110215_74_5__Sd__1_.pdf"
+    },
     {
       "id": "f3590c5dc95d1",
       "ticker": "HILINFRA",
@@ -3028,6 +3038,16 @@
       "url": "https://nsearchives.nseindia.com/corporate/DIXON_29092026173545_Scrutinizer_Report_Cover_Page29092026.pdf"
     },
     {
+      "id": "fc5d51f882149",
+      "ticker": "CMLL",
+      "company": "Caliber Mining and Logistics Limited",
+      "exchange": "NSE",
+      "date": "2026-09-29T17:23:12.000Z",
+      "category": "Trading Window",
+      "title": "Caliber Mining and Logistics Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/CMLL_29092026172256_Intimation_Closure_of_trading_window.pdf"
+    },
+    {
       "id": "ff1bc0e4076d2",
       "ticker": "QUALIANCE",
       "company": "Qualiance International Limited",
@@ -3996,6 +4016,16 @@
       "category": "Shareholders meeting",
       "title": "Denta Water and Infra Solutions Limited has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on September 24, 2026. Further, the company has informed the Exchange regarding voting results.",
       "url": "https://nsearchives.nseindia.com/corporate/DENTA_25092026211612_Scrutinizer_report.pdf"
+    },
+    {
+      "id": "f84812c6e934a",
+      "ticker": "ONESOURCE",
+      "company": "Onesource Specialty Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-09-25T19:26:01.000Z",
+      "category": "Disclosure",
+      "title": "Onesource Specialty Pharma Limited has informed the Exchange regarding 'Allotment of ESOPs'.",
+      "url": "https://nsearchives.nseindia.com/corporate/ONESOURCECDMO_25092026192552_OS_ESOP.pdf"
     },
     {
       "id": "f4b6e847626f8",
@@ -19976,36 +20006,6 @@
       "category": "Newspaper Publication",
       "title": "Onesource Specialty Pharma Limited has informed the Exchange about Copy of Newspaper Publication",
       "url": "https://nsearchives.nseindia.com/corporate/ONESOURCECDMO_26072026230930_OS_Intimation_Newspaper_advertisement_f.pdf"
-    },
-    {
-      "id": "fb5e60e1009d8",
-      "ticker": "ZENTEC",
-      "company": "Zen Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-26T12:17:09.000Z",
-      "category": "Disclosure",
-      "title": "Zen Technologies Limited has informed the Exchange about General Updates",
-      "url": "https://nsearchives.nseindia.com/corporate/ZENTEC_26072026121657_SEPressRelease_26072026_Signed.pdf"
-    },
-    {
-      "id": "ffb32f7a23275",
-      "ticker": "MONOLITH",
-      "company": "Monolithisch India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-25T20:19:30.000Z",
-      "category": "Investor Presentation",
-      "title": "Monolithisch India Limited has informed the Exchange about Investor Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/MONOLITHISCH_25072026201915_MIL_Investors_PPT_for_Q1_2027.pdf"
-    },
-    {
-      "id": "f592bd36f000c",
-      "ticker": "MONOLITH",
-      "company": "Monolithisch India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-25T19:49:48.000Z",
-      "category": "Press Release",
-      "title": "Monolithisch India Limited has informed the Exchange regarding a press release dated July 25, 2026, titled \"Press Release on the financial results of Monolithisch India Limited Company forthe quarter ended June 30 2026\".",
-      "url": "https://nsearchives.nseindia.com/corporate/MONOLITHISCH_25072026194940_Press_Release_25072026.pdf"
     }
   ]
 }
