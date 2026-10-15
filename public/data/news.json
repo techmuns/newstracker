@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-14T18:52:50.693Z",
+  "generated_at": "2026-10-15T07:44:53.239Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 101,
-    "watchlist": 402,
-    "universe": 50,
+    "watchlist": 403,
+    "universe": 49,
     "total": 452
   },
   "items": [
@@ -178,7 +178,7 @@
       "mood": "positive",
       "takeaway": "DEE Development Engineers' order book expanded to ₹2,531 crore as of September 2026.",
       "enriched": true,
-      "sources_count": 4
+      "sources_count": 5
     },
     {
       "id": "nb6f5ee3b7626",
@@ -8180,25 +8180,6 @@
       "enriched": true
     },
     {
-      "id": "n186043d3beaa",
-      "ticker": "MACRO",
-      "company": "India Defence Exports",
-      "sector": "Capital Goods",
-      "scope": [
-        "universe"
-      ],
-      "title": "Indian Defence Acquisition Council Approves Capital Acquisition Proposals Worth $5.5 Billion",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeEV0SHdjS01DX2lGQjVleHJRNmxNWkFRbU1QMUc3MTZaQlpCMzhXQnNKNzA5QUZkbzc3X200ZTZBX1p5SktYc0tMbVFmTlFoY2c2V2tzcjVuNkg3Y01FWV9BbnJLZTRabEdScFFBV0J0OUtZMWFrOHQyR21Zd0gtQWVtX0JFSjBtc2xQb0Z3T3hvTXN1WE9XR0gwbVNuQl9XR3hJWjZmclQ5WllsRjZPbmo1eUNVeHpkc0d4TnpxbTFIMVdwVXpZazRpTXM?oc=5",
-      "source": "Overt Defense -",
-      "date": "2026-07-07T07:00:00.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Acquisition",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Defence Acquisition Council approved capital acquisition proposals worth $5.5 billion.",
-      "enriched": true
-    },
-    {
       "id": "nb4b709e9738c",
       "ticker": "E2E",
       "company": "E2E Networks Limited",
@@ -8527,6 +8508,25 @@
       "importance": "medium",
       "mood": "negative",
       "takeaway": "Austere Systems received SEBI warning for delayed disclosure of NCLAT order.",
+      "enriched": true
+    },
+    {
+      "id": "ncc4b557b4f51",
+      "ticker": "HARIOMPIPE",
+      "company": "Hariom Pipe Industries Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Hariom Pipe Industries commissions solar plants with 10 MW capacity in Maharashtra · Business Upturn",
+      "url": "https://businessupturn.com/business/hariom-pipe-industries-commissions-solar-plants-with-10-mw-capacity-in-maharashtra/",
+      "source": "businessupturn.com",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Commissioning",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Hariom Pipe commissioned 10 MW solar plants in Maharashtra, expanding renewable energy capacity.",
       "enriched": true
     },
     {
