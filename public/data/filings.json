@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T18:53:09.834Z",
+  "generated_at": "2026-10-16T07:43:31.570Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,46 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f80e7c961073a",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "exchange": "NSE",
+      "date": "2026-10-16T11:41:07.000Z",
+      "category": "Agreements",
+      "title": "DEE Development Engineers Limited has informed the Exchange about Framework Agreement for Supply of pipping solutions to the Nuclear Power Sector.",
+      "url": "https://nsearchives.nseindia.com/corporate/DDEL_16102026113922_NSEBSE_Reg30_Nuclear.pdf"
+    },
+    {
+      "id": "f5eff5f78e7bb",
+      "ticker": "SETL",
+      "company": "Standard Engineering Technology Limited",
+      "exchange": "NSE",
+      "date": "2026-10-16T10:51:32.000Z",
+      "category": "Allotment of Securities",
+      "title": "Standard Engineering Technology Limited has informed the Exchange regarding allotment of 2439750 securities pursuant to Preferential Issue at its meeting held on October 16, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/SGLTPL_16102026105120_02_Reg30_Outcome_of_Board_Meeting_Allotment.pdf"
+    },
+    {
+      "id": "f1fca03be66b4",
+      "ticker": "SETL",
+      "company": "Standard Engineering Technology Limited",
+      "exchange": "NSE",
+      "date": "2026-10-16T10:32:15.000Z",
+      "category": "Board Meeting",
+      "title": "Standard Engineering Technology Limited has informed the Exchange regarding Outcome of Board Meeting held on October 16, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/SGLTPL_16102026103126_02_Reg30_Outcome_of_Board_Meeting_Allotment.pdf"
+    },
+    {
+      "id": "fbf575e1f6383",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "exchange": "NSE",
+      "date": "2026-10-16T10:20:49.000Z",
+      "category": "Disclosure",
+      "title": "E2E Networks Limited has informed the Exchange regarding ' Onboarding of Strategic Advisor-Anandamoy Roychowdhary '.",
+      "url": "https://nsearchives.nseindia.com/corporate/E2E_16102026101905_AnandmoyroyStx.pdf"
+    },
     {
       "id": "ff0a8636a0092",
       "ticker": "MIDWESTLTD",
@@ -4966,6 +5006,16 @@
       "category": "Shareholders meeting",
       "title": "DEE Development Engineers Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 23, 2026",
       "url": "https://nsearchives.nseindia.com/corporate/DDEL_23092026153834_NSEBSE_Proceedings.pdf"
+    },
+    {
+      "id": "f61da9b11e388",
+      "ticker": "SUDEEPPHRM",
+      "company": "Sudeep Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-09-23T15:12:34.000Z",
+      "category": "Investor Presentation",
+      "title": "Sudeep Pharma Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/SUDEEPPHARMALIMITED_23092026151220_Intimation_for_Investor_Meet.pdf"
     },
     {
       "id": "fe611cd997c2d",
@@ -19956,56 +20006,6 @@
       "category": "Change in Directors",
       "title": "Senores Pharmaceuticals Limited has informed the Exchange regarding Appointment of Ms Anjali Shah as Assistant Vice President- Finance categorized as SMP of the company w.e.f. July 27, 2026",
       "url": "https://nsearchives.nseindia.com/corporate/SENORES_27072026153435_Outcomeofboardmeetingsigned.pdf"
-    },
-    {
-      "id": "faa72f16bcc80",
-      "ticker": "SENORES",
-      "company": "Senores Pharmaceuticals Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T15:17:51.000Z",
-      "category": "Board Meeting",
-      "title": "Senores Pharmaceuticals Limited has informed the Exchange regarding Outcome of Board Meeting held on July 27, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/SENORES_27072026151739_Outcomeofboardmeetingsigned.pdf"
-    },
-    {
-      "id": "f0a566c70e3ce",
-      "ticker": "SENORES",
-      "company": "Senores Pharmaceuticals Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T15:16:32.000Z",
-      "category": "Board Meeting",
-      "title": "Senores Pharmaceuticals Limited has submitted to the Exchange outcome of Board Meeting dated July 27, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/SENORES_27072026151513_Outcomeofboardmeetingsigned.pdf"
-    },
-    {
-      "id": "fa29bb6151f20",
-      "ticker": "HILINFRA",
-      "company": "Highway Infrastructure Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T15:16:05.000Z",
-      "category": "Credit Rating",
-      "title": "Highway Infrastructure Limited has informed the Exchange about Credit Rating",
-      "url": "https://nsearchives.nseindia.com/corporate/HIGHWAY123_27072026151554_HIL_infocreditrating_27072026.pdf"
-    },
-    {
-      "id": "fe909851a793d",
-      "ticker": "MOLDTKPAC",
-      "company": "Mold-Tek Packaging Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T14:37:45.000Z",
-      "category": "Investor Presentation",
-      "title": "Mold-Tek Packaging Limited has informed the Exchange about Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/MOLDTKPAC_27072026143702_IP_SE_Intimation.pdf"
-    },
-    {
-      "id": "fb0e4a2b9c066",
-      "ticker": "MOLDTKPAC",
-      "company": "Mold-Tek Packaging Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T14:24:58.000Z",
-      "category": "Press Release",
-      "title": "Mold-Tek Packaging Limited has informed the Exchange regarding a press release dated July 27, 2026, titled \"Press Release\".",
-      "url": "https://nsearchives.nseindia.com/corporate/MOLDTKPAC_27072026142446_SE_Intimation.pdf"
     }
   ]
 }
