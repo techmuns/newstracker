@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T07:43:31.570Z",
+  "generated_at": "2026-10-16T18:29:47.336Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,306 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f27646e65ce53",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "exchange": "NSE",
+      "date": "2026-10-16T22:28:41.000Z",
+      "category": "Disclosure",
+      "title": "E2E Networks Limited has informed the Exchange under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015 Board comments on fine levied by the Exchange for non-compliance with Regulation 29 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.",
+      "url": "https://nsearchives.nseindia.com/corporate/E2E_16102026222707_Signed_Intimation.pdf"
+    },
+    {
+      "id": "f2d348c15c8e9",
+      "ticker": "URBANCO",
+      "company": "Urban Company Limited",
+      "exchange": "NSE",
+      "date": "2026-10-16T20:23:12.000Z",
+      "category": "Investor Presentation",
+      "title": "Urban Company Limited has informed the Exchange about Audio recording of the Earnings Call in relation to the financial results of the Company for the quarter and half year ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_16102026202248_UC_Audiorecording_16102026.pdf"
+    },
+    {
+      "id": "f15f6235d003a",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "exchange": "NSE",
+      "date": "2026-10-16T19:56:11.000Z",
+      "category": "Investor Presentation",
+      "title": "E2E Networks Limited has informed the Exchange about Link of Recording",
+      "url": "https://nsearchives.nseindia.com/corporate/E2E_16102026195347_SESignedRecordingweblink.pdf"
+    },
+    {
+      "id": "f6e0076683a27",
+      "ticker": "URBANCO",
+      "company": "Urban Company Limited",
+      "exchange": "NSE",
+      "date": "2026-10-16T19:17:34.000Z",
+      "category": "Shareholders meeting",
+      "title": "Urban Company Limited has informed the Exchange regarding Notice of Postal Ballot dated October 16, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_16102026191608_Urban_Company_Postal_Ballot__Notice__16102026.pdf"
+    },
+    {
+      "id": "f11a19c80fe89",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "exchange": "NSE",
+      "date": "2026-10-16T18:20:18.000Z",
+      "category": "Monitoring Agency Report",
+      "title": "Submission of Monitoring Agency Reports for the quarter ended September 30, 2026 by E2E Networks Limited",
+      "url": "https://nsearchives.nseindia.com/corporate/E2E_16102026181632_Signed_Monitoring_Agency_Report_16102026.pdf"
+    },
+    {
+      "id": "fad5667130387",
+      "ticker": "CURRENT",
+      "company": "Current Infraprojects Limited",
+      "exchange": "NSE",
+      "date": "2026-10-16T18:01:11.000Z",
+      "category": "Disclosure",
+      "title": "Current Infraprojects Limited has informed the Exchange regarding 'non-applicability of filing quarterly Compliance Report on Corporate Governance under Regulation 27(2) of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015'.",
+      "url": "https://nsearchives.nseindia.com/corporate/CURRENTINFRA_16102026175903_NON_APPLICABILITY_27_2_.pdf"
+    },
+    {
+      "id": "f5db3b6ade7ea",
+      "ticker": "SKYGOLD",
+      "company": "SKY GOLD AND DIAMONDS LIMITED",
+      "exchange": "NSE",
+      "date": "2026-10-16T17:47:59.000Z",
+      "category": "Change in Directors",
+      "title": "Pursuant to the provisions of Regulation 30 of SEBI (LODR) Regulations, 2015, we would like to inform you that the Board of directors at its meeting held today i.e., on Friday, 16th October, 2026 has considered and approved the cessation of Ms. Aasna Shah as Internal Auditor w.e.f. 16th October 2026 and appointted M/s Doshi Jain & Co., Chartered Accountant as the Internal Auditor of the Company w.e.f. 16th October, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/SKYGOLD_16102026174745_OutcomeBM.pdf"
+    },
+    {
+      "id": "f2f9f70b5655e",
+      "ticker": "CURRENT",
+      "company": "Current Infraprojects Limited",
+      "exchange": "NSE",
+      "date": "2026-10-16T17:42:49.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Current Infraprojects Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/CURRENTINFRA_16102026174101_Certificate_under_Regulation_74_5__final.pdf"
+    },
+    {
+      "id": "f3e2123eb2d55",
+      "ticker": "SBIFUNDS",
+      "company": "SBI Funds Management Limited",
+      "exchange": "NSE",
+      "date": "2026-10-16T17:41:28.000Z",
+      "category": "Disclosure",
+      "title": "SBI Funds Management Limited has informed the Exchange about Intimation of request received for Re-classification of entity classified as Promoter Group under Regulation 31A of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/SBIMF2026_16102026174103_SE_ReclassificationOfPromoter_signed.pdf"
+    },
+    {
+      "id": "f05e8d71b7b30",
+      "ticker": "SKYGOLD",
+      "company": "SKY GOLD AND DIAMONDS LIMITED",
+      "exchange": "NSE",
+      "date": "2026-10-16T17:36:10.000Z",
+      "category": "Board Meeting",
+      "title": "Pursuant to Regulation 30 and other applicable regulations of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that the Board of Directors ( Board ) of the Company has, at its meeting held today, i.e., Friday, 16th October 2026, inter alia considered and approved: a) Cessation of Ms. Aasna Shah as Internal Auditor of the Company effective from 16th October, 2026. b) Appointment of M/s Doshi Jain & Co., Chartered Accountants as the Internal Auditor of the Company with effect from 16th October, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/SKYGOLD_16102026173548_OutcomeBM.pdf"
+    },
+    {
+      "id": "fa8597a60b150",
+      "ticker": "DEVYANI",
+      "company": "Devyani International Limited",
+      "exchange": "NSE",
+      "date": "2026-10-16T17:14:31.000Z",
+      "category": "Disclosure",
+      "title": "Devyani International Limited has informed the Exchange about the intimation of ESG Rating",
+      "url": "https://nsearchives.nseindia.com/corporate/DEVYANI_16102026171256_SE_Intimation_-_NSE_ESG_Rating_DSC.pdf"
+    },
+    {
+      "id": "fc4a2aa1e12e2",
+      "ticker": "GROWW",
+      "company": "Billionbrains Garage Ventures Limited",
+      "exchange": "NSE",
+      "date": "2026-10-16T16:59:38.000Z",
+      "category": "Investor Presentation",
+      "title": "Billionbrains Garage Ventures Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_16102026165927_EC_Trans_SD.pdf"
+    },
+    {
+      "id": "f9748770cdc41",
+      "ticker": "BALUFORGE",
+      "company": "Balu Forge Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-10-16T16:33:53.000Z",
+      "category": "Disclosure",
+      "title": "Balu Forge Industries Limited has informed the Exchange about General Updates",
+      "url": "https://nsearchives.nseindia.com/corporate/BALUFORGE_16102026163204_SE_Intimation.pdf"
+    },
+    {
+      "id": "fd90ee720ec63",
+      "ticker": "URBANCO",
+      "company": "Urban Company Limited",
+      "exchange": "NSE",
+      "date": "2026-10-16T16:28:12.000Z",
+      "category": "Monitoring Agency Report",
+      "title": "Monitoring Agency Report for the quarter ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_16102026162801_Urban_Company_MAR_16102026.pdf"
+    },
+    {
+      "id": "f6a8bb77ce497",
+      "ticker": "ADROITIND",
+      "company": "Adroit Industries (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-10-16T16:20:09.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Adroit Industries (India) Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018 for the Quarter ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/ADROIT_16102026161927_Intimation_under_Regulation_74_5_.pdf"
+    },
+    {
+      "id": "f8a61f97c562d",
+      "ticker": "URBANCO",
+      "company": "Urban Company Limited",
+      "exchange": "NSE",
+      "date": "2026-10-16T16:16:41.000Z",
+      "category": "Board Meeting",
+      "title": "Urban Company Limited has informed the Exchange regarding Outcome of Board Meeting held on October 16, 2026 - Approval for Financial Results (Standalone and Consolidated) of the Company for the Quarter and half year ended September 30, 2026 and fund raising",
+      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_16102026161537_Urban_Company_BM_Outcome_16102026.pdf"
+    },
+    {
+      "id": "f033d2b76aae1",
+      "ticker": "URBANCO",
+      "company": "Urban Company Limited",
+      "exchange": "NSE",
+      "date": "2026-10-16T16:11:31.000Z",
+      "category": "Press Release",
+      "title": "Urban Company Limited has informed the Exchange regarding a Media release dated October 16, 2026, titled \"Media release on the financial results (standalone and consolidated) of the Company for the quarter and half year ended September 30, 2026\".",
+      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_16102026161112_Urban_Company_Q2_FY27_results_Media_release.pdf"
+    },
+    {
+      "id": "fd84b4b107616",
+      "ticker": "URBANCO",
+      "company": "Urban Company Limited",
+      "exchange": "NSE",
+      "date": "2026-10-16T16:07:15.000Z",
+      "category": "Disclosure",
+      "title": "Urban Company Limited has informed the Exchange about Shareholders Letter & Report dated October 16, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_16102026160706_Urban_Company_Shareholders_Letter_Q2_FY27.pdf"
+    },
+    {
+      "id": "fb2caf5bb9740",
+      "ticker": "URBANCO",
+      "company": "Urban Company Limited",
+      "exchange": "NSE",
+      "date": "2026-10-16T16:03:09.000Z",
+      "category": "Board Meeting",
+      "title": "Urban Company Limited has submitted to the Exchange, Approval for Financial Results (Standalone and Consolidated) of the Company for the Quarter and half year ended September 30, 2026 and fund raising",
+      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_16102026160108_Urban_Company_BM_Outcome_16102026.pdf"
+    },
+    {
+      "id": "f5d8fd025c372",
+      "ticker": "SHADOWFAX",
+      "company": "Shadowfax Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-10-16T15:59:27.000Z",
+      "category": "ESOP/ESOS/ESPS",
+      "title": "Shadowfax Technologies Limited has informed the Exchange regarding allotment of 49,098 Shares of Rs. 10/- each to the eligible employees/ESOP holders.",
+      "url": "https://nsearchives.nseindia.com/corporate/9900590024_16102026155837_Intimation.pdf"
+    },
+    {
+      "id": "f8433e2fc6ec6",
+      "ticker": "SENORES",
+      "company": "Senores Pharmaceuticals Limited",
+      "exchange": "NSE",
+      "date": "2026-10-16T15:56:23.000Z",
+      "category": "Shareholders meeting",
+      "title": "Senores Pharmaceuticals Limited has informed the Exchange regarding Notice of Postal Ballot",
+      "url": "https://nsearchives.nseindia.com/corporate/SENORES_16102026155613_Intimationregardingpostalballotnotice.pdf"
+    },
+    {
+      "id": "f115c45d0563d",
+      "ticker": "LENSKART",
+      "company": "Lenskart Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-10-16T15:35:26.000Z",
+      "category": "Action(s) taken or orders passed",
+      "title": "Lenskart Solutions Limited has informed the Exchange about receipt of order from the Office of the Principal Commissioner of Custom",
+      "url": "https://nsearchives.nseindia.com/corporate/LENSKART_16102026153510_Reg30_Intimation_Demand_Order_Customs.pdf"
+    },
+    {
+      "id": "fa096c8c3f9e4",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "exchange": "NSE",
+      "date": "2026-10-16T15:14:03.000Z",
+      "category": "Investor Presentation",
+      "title": "E2E Networks Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/E2E_16102026151325_Signed_E2E_Networks_IP_Q2_FY27_Final.pdf"
+    },
+    {
+      "id": "f671fbfa943da",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "exchange": "NSE",
+      "date": "2026-10-16T15:08:54.000Z",
+      "category": "Press Release",
+      "title": "E2E Networks Limited has informed the Exchange regarding a press release dated October 16, 2026, titled \"E2E Networks Reports Q2 FY 27 Results: Revenue 5.1x YoY to &#8377;2,238 Mn; EBITDA Margin Expands to 76.6%; PAT &#8377;727 Mn \".",
+      "url": "https://nsearchives.nseindia.com/corporate/E2E_16102026150410_SignedPressRelease16102026.pdf"
+    },
+    {
+      "id": "fb09b1b6e6f7c",
+      "ticker": "VENUSREM",
+      "company": "Venus Remedies Limited",
+      "exchange": "NSE",
+      "date": "2026-10-16T14:58:23.000Z",
+      "category": "Disclosure",
+      "title": "Venus Remedies Limited has informed the Exchange regarding 'Venus Remedies Secures Five Marketing Authorisations Across Four Key International Markets'.",
+      "url": "https://nsearchives.nseindia.com/corporate/VENUSREM_16102026145750_MA_news_VRL_Oct_2026.pdf"
+    },
+    {
+      "id": "f7c736ee9bef5",
+      "ticker": "SHADOWFAX",
+      "company": "Shadowfax Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-10-16T14:45:01.000Z",
+      "category": "Disclosure",
+      "title": "Shadowfax Technologies Limited has informed the Exchange regarding intimation on incorporation of Wholly Owned Subsidiary Company",
+      "url": "https://nsearchives.nseindia.com/corporate/9900590024_16102026144440_Intimation.pdf"
+    },
+    {
+      "id": "fc6019d2ef525",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "exchange": "NSE",
+      "date": "2026-10-16T14:35:42.000Z",
+      "category": "Investor Presentation",
+      "title": "Sapphire Foods India Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/SAPPHIRE_16102026143529_Sapphire_SE_Disclosure_Earnings_Call_Q2FY27.pdf"
+    },
+    {
+      "id": "ffd1a6d7d3d2b",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "exchange": "NSE",
+      "date": "2026-10-16T14:06:20.000Z",
+      "category": "Change in Directors",
+      "title": "E2E Networks Limited has informed the Exchange regarding Appointment of Mr. Krishnan Mahesh as Non- Executive Director of the company w.e.f. October 16, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/E2E_16102026140239_Final_Outcome_of_Board_Meeting.pdf"
+    },
+    {
+      "id": "f29d506f7dcf7",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "exchange": "NSE",
+      "date": "2026-10-16T13:58:25.000Z",
+      "category": "Board Meeting",
+      "title": "E2E Networks Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/E2E_16102026134952_Final_Outcome_of_Board_Meeting.pdf"
+    },
+    {
+      "id": "f109cdc986c31",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "exchange": "NSE",
+      "date": "2026-10-16T13:58:25.000Z",
+      "category": "Board Meeting",
+      "title": "E2E Networks Limited has informed the Exchange regarding Outcome of Board Meeting held on October 16, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/E2E_16102026135018_Final_Outcome_of_Board_Meeting.pdf"
+    },
     {
       "id": "f80e7c961073a",
       "ticker": "DEEDEV",
@@ -19706,306 +20006,6 @@
       "category": "Investor Presentation",
       "title": "Epigral Limited has informed the Exchange about Link of Recording",
       "url": "https://nsearchives.nseindia.com/corporate/MFL_27072026222512_EPLAudioRecQ1.pdf"
-    },
-    {
-      "id": "f794b103f2ae4",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T22:08:32.000Z",
-      "category": "ESOP/ESOS/ESPS",
-      "title": "Meesho Limited has informed the Exchange regarding Allotment of 1186589 Shares.",
-      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_27072026220749_MLIntimationAllotmentofESOPs27July2026.pdf"
-    },
-    {
-      "id": "f75f1f3dd689f",
-      "ticker": "ZENTEC",
-      "company": "Zen Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T22:07:03.000Z",
-      "category": "Investor Presentation",
-      "title": "Zen Technologies Limited has informed the Exchange about Link of Recording",
-      "url": "https://nsearchives.nseindia.com/corporate/ZENTEC_27072026220329_CL_Signed.pdf"
-    },
-    {
-      "id": "f4247876f8d2e",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T21:53:20.000Z",
-      "category": "Press Release",
-      "title": "Aurionpro Solutions Limited has informed the Exchange regarding a press release dated July 27, 2026, titled \"Press release relating to announcement of Unaudited Financial Results of the Company for the quarter ended 30th June, 2026.\".",
-      "url": "https://nsearchives.nseindia.com/corporate/AURIONPRO_27072026215300_ASL_Press_Release_Q1_FY_27.pdf"
-    },
-    {
-      "id": "fb683d92caa46",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T21:26:07.000Z",
-      "category": "Board Meeting",
-      "title": "Aurionpro Solutions Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/AURIONPRO_27072026212331_Outcome_of_Board_Meeting_Q1_June_26.pdf"
-    },
-    {
-      "id": "f39132098b955",
-      "ticker": "VIVIDEL",
-      "company": "Vivid Electromech Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T20:53:33.000Z",
-      "category": "Record Date",
-      "title": "Vivid Electromech Limited has informed the Exchange that Record date for the purpose of 36th Annual General Meeting is 18-Aug-2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/VIVID_27072026205243_Intimation_of_Book_Closure_and_Voting.pdf"
-    },
-    {
-      "id": "f598e7f6abb1d",
-      "ticker": "VIVIDEL",
-      "company": "Vivid Electromech Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T20:26:35.000Z",
-      "category": "Change in Company Secretary/Compliance Officer",
-      "title": "Vivid Electromech Limited has informed the Exchange about Change in Company Secretary/Compliance Officer",
-      "url": "https://nsearchives.nseindia.com/corporate/VIVID_27072026202615_Change_in_CS_and_CFO.pdf"
-    },
-    {
-      "id": "f641d7a79d497",
-      "ticker": "VIVIDEL",
-      "company": "Vivid Electromech Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T20:26:35.000Z",
-      "category": "Change in Directors",
-      "title": "Vivid Electromech Limited has informed the Exchange about change in Chief Financial Officer",
-      "url": "https://nsearchives.nseindia.com/corporate/VIVID_27072026202455_Change_in_CS_and_CFO.pdf"
-    },
-    {
-      "id": "fda8f5c7da96e",
-      "ticker": "NORTHARC",
-      "company": "Northern Arc Capital Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T20:15:41.000Z",
-      "category": "Investor Presentation",
-      "title": "Northern Arc Capital Limited has informed the Exchange about Link of Recording",
-      "url": "https://nsearchives.nseindia.com/corporate/NACL2020_27072026201532_NACL_AV_Recordings_Q1_FY26-27_SD.pdf"
-    },
-    {
-      "id": "f2ce409f0c437",
-      "ticker": "EMAPARTNER",
-      "company": "EMA Partners India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T20:10:18.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "EMA Partners India Limited has informed the Exchange about Certificate under Regulation 76 of SEBI (Depositories and Participants) Regulations, 2018, please find attachedherewith the Reconciliation of Share Capital Audit Report of the Company issued by a Practicing Company Secretary for the quarter ended June 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/EMAIN_27072026201005_Reg_76_covering_and_certificate_sd.pdf"
-    },
-    {
-      "id": "f450c5f23fd70",
-      "ticker": "EMAPARTNER",
-      "company": "EMA Partners India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T20:05:59.000Z",
-      "category": "Disclosure",
-      "title": "EMA Partners India Limited has informed the Exchange about Scrutinizer Report and Voting Results of Postal Ballot.",
-      "url": "https://nsearchives.nseindia.com/corporate/EMAIN_27072026200550_Intimation_scrutinizer_report.pdf"
-    },
-    {
-      "id": "fcc5960b007bc",
-      "ticker": "EMAPARTNER",
-      "company": "EMA Partners India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T20:02:46.000Z",
-      "category": "Shareholders meeting",
-      "title": "EMA Partners India Limited has submitted the Exchange a copy Srutinizers report of Postal Ballot. Further, the company has informed the Exchange regarding voting results.",
-      "url": "https://nsearchives.nseindia.com/corporate/EMAIN_27072026200227_Intimation_scrutinizer_report.pdf"
-    },
-    {
-      "id": "f8323b50ad90c",
-      "ticker": "SENORES",
-      "company": "Senores Pharmaceuticals Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T19:20:23.000Z",
-      "category": "Investor Presentation",
-      "title": "Senores Pharmaceuticals Limited has informed the Exchange regarding Audio recording of Earnings Conference Call for the quarter ended June 30, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/SENORES_27072026191821_OutcomeofInvestorCall_signed.pdf"
-    },
-    {
-      "id": "fd38aa43d5626",
-      "ticker": "ONESOURCE",
-      "company": "Onesource Specialty Pharma Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T19:04:52.000Z",
-      "category": "Change in Directors",
-      "title": "Onesource Specialty Pharma Limited has informed the Exchange about change in Management",
-      "url": "https://nsearchives.nseindia.com/corporate/ONESOURCECDMO_27072026190234_OS_Intimation_SMP_changes_270726.pdf"
-    },
-    {
-      "id": "f81c53b7aea71",
-      "ticker": "MOLDTKPAC",
-      "company": "Mold-Tek Packaging Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T19:03:00.000Z",
-      "category": "Investor Presentation",
-      "title": "Mold-Tek Packaging Limited has informed the Exchange about Link of Recording",
-      "url": "https://nsearchives.nseindia.com/corporate/MOLDTKPAC_27072026190249_Audio_Recording.pdf"
-    },
-    {
-      "id": "fe0ada02a882b",
-      "ticker": "SGMART",
-      "company": "SG Mart Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T18:37:47.000Z",
-      "category": "Commencement of commercial production/operations",
-      "title": "SG Mart Limited has informed the Exchange about Commencement of Commercial Production at Jaipur Unit",
-      "url": "https://nsearchives.nseindia.com/corporate/SGMART_27072026183647_Commencement_of_unit.pdf"
-    },
-    {
-      "id": "ff2a270ae4c4e",
-      "ticker": "E2E",
-      "company": "E2E Networks Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T18:18:24.000Z",
-      "category": "Disclosure",
-      "title": "E2E Networks Limited has informed the Exchange about General Updates in relation to proceedings before the Hon ble Delhi High Court regarding stamp duty matter",
-      "url": "https://nsearchives.nseindia.com/corporate/E2E_27072026181726_IntimationofCourtOrder.pdf"
-    },
-    {
-      "id": "fdf27c60f88e9",
-      "ticker": "VIVIDEL",
-      "company": "Vivid Electromech Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T17:52:35.000Z",
-      "category": "Board Meeting",
-      "title": "Vivid Electromech Limited has informed the Exchange regarding Outcome of Board Meeting held on July 27, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/VIVID_27072026175032_Outcome.pdf"
-    },
-    {
-      "id": "f0e85b14ec7dd",
-      "ticker": "SENORES",
-      "company": "Senores Pharmaceuticals Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T17:49:13.000Z",
-      "category": "Statement of deviation(s) or variation(s) under Reg. 32",
-      "title": "Senores Pharmaceuticals Limited has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32",
-      "url": "https://nsearchives.nseindia.com/corporate/SENORES_27072026174855_IntimationforstatementofdeviationWarrants_signed.pdf"
-    },
-    {
-      "id": "fbdaad1221b2f",
-      "ticker": "NORTHARC",
-      "company": "Northern Arc Capital Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T17:39:20.000Z",
-      "category": "Statement of deviation(s) or variation(s) under Reg. 32",
-      "title": "Northern Arc Capital Limited has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32",
-      "url": "https://nsearchives.nseindia.com/corporate/NACL2020_27072026173911_SOD_June2026.pdf"
-    },
-    {
-      "id": "ffabbf908c3f2",
-      "ticker": "NORTHARC",
-      "company": "Northern Arc Capital Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T17:31:18.000Z",
-      "category": "Investor Presentation",
-      "title": "Northern Arc Capital Limited has informed the Exchange about Investor Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/NACL2020_27072026173109_Invst_Presn_Q1_SD.pdf"
-    },
-    {
-      "id": "ffb5b32e2fa85",
-      "ticker": "HARIOMPIPE",
-      "company": "Hariom Pipe Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T17:30:43.000Z",
-      "category": "Allotment of Securities",
-      "title": "Hariom Pipe Industries Limited has informed the Exchange regarding allotment of 1500000 Convertible Warrants on Preferential Issue by way of resolution passed through circulation on July 27, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/hariompipes_27072026173015_SE_Intimation_Regulation_30_Allotment_of_Warrant.pdf"
-    },
-    {
-      "id": "f26f3f4676460",
-      "ticker": "SENORES",
-      "company": "Senores Pharmaceuticals Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T17:28:19.000Z",
-      "category": "Monitoring Agency Report",
-      "title": "Senores Pharmaceuticals Limited has informed Exchange regarding Monitoring Agency Report for quarter ended June 30, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/SENORES_27072026172812_IntimationforMonitoringAgencyReport_signed.pdf"
-    },
-    {
-      "id": "f08ab1403fb3b",
-      "ticker": "STYLAMIND",
-      "company": "Stylam Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T17:24:50.000Z",
-      "category": "Investor Presentation",
-      "title": "Stylam Industries Limited has informed the Exchange about Transcript",
-      "url": "https://nsearchives.nseindia.com/corporate/STYLAMIND_27072026172435_Investor_Meet_Transcript.pdf"
-    },
-    {
-      "id": "fb050e3547036",
-      "ticker": "NORTHARC",
-      "company": "Northern Arc Capital Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T17:24:00.000Z",
-      "category": "Investor Presentation",
-      "title": "Northern Arc Capital Limited has informed the Exchange about Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/NACL2020_27072026172349_NACL_Invpresentation_Q1_FY27_SD.pdf"
-    },
-    {
-      "id": "f995b9bdc0d3d",
-      "ticker": "MONOLITH",
-      "company": "Monolithisch India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T17:22:38.000Z",
-      "category": "Investor Presentation",
-      "title": "Monolithisch India Limited has informed the Exchange about Link of Recording",
-      "url": "https://nsearchives.nseindia.com/corporate/MONOLITHISCH_27072026172052_investor_call_covering_audio_recording_27072026.pdf"
-    },
-    {
-      "id": "f8e677548b874",
-      "ticker": "VAML",
-      "company": "Vedanta Aluminium Metal Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T17:14:47.000Z",
-      "category": "Record Date",
-      "title": "Vedanta Aluminium Metal Limited has informed the Exchange that Record date for the purpose of Dividend is 05-Aug-2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/VAML_27072026171335_VAML-_Prior_Intimation_of_Board_Meeting_-_Dividend_signed.pdf"
-    },
-    {
-      "id": "f4a601346a308",
-      "ticker": "NORTHARC",
-      "company": "Northern Arc Capital Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T16:36:51.000Z",
-      "category": "Board Meeting",
-      "title": "Northern Arc Capital Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/NACL2020_27072026163530_NAC_June_2025-26_SD.pdf"
-    },
-    {
-      "id": "f3f1f0a89e470",
-      "ticker": "SENORES",
-      "company": "Senores Pharmaceuticals Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T15:52:53.000Z",
-      "category": "Investor Presentation",
-      "title": "Senores Pharmaceuticals Limited has informed the Exchange about Investor Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/SENORES_27072026155228_Intimationofinvestorpresentationsigned.pdf"
-    },
-    {
-      "id": "f14587fb38b28",
-      "ticker": "SENORES",
-      "company": "Senores Pharmaceuticals Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T15:44:43.000Z",
-      "category": "Press Release",
-      "title": "Senores Pharmaceuticals Limited has informed the Exchange regarding a Media Release dated July 27, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/SENORES_27072026154417_Reg_30_mediarelease_signed.pdf"
-    },
-    {
-      "id": "f1df2d572d0b3",
-      "ticker": "SENORES",
-      "company": "Senores Pharmaceuticals Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T15:35:14.000Z",
-      "category": "Change in Directors",
-      "title": "Senores Pharmaceuticals Limited has informed the Exchange regarding Appointment of Ms Anjali Shah as Assistant Vice President- Finance categorized as SMP of the company w.e.f. July 27, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/SENORES_27072026153435_Outcomeofboardmeetingsigned.pdf"
     }
   ]
 }
