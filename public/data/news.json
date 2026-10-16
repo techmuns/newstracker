@@ -1,32 +1,13 @@
 {
-  "generated_at": "2026-10-15T18:48:41.841Z",
+  "generated_at": "2026-10-16T07:41:52.204Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 100,
-    "watchlist": 405,
-    "universe": 49,
+    "watchlist": 404,
+    "universe": 50,
     "total": 454
   },
   "items": [
-    {
-      "id": "nffc8b1f5f62f",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Meesho announces resignation of Non-Executive Independent Director",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMkRUUEpaeS1xOTA5QXhpRjFMWVg1UXJXLVkxOXZLWmhWcDg0ZVg3YVBJTjY4RzBob2MzNFVVajFZZmh1QUNQbXEzeldFQVI4YXpEUENtOUNCMmU3cVU5Nmt2WFVqNlptUVFZMlkwYi1xSmgydXRxbWdMRkZfNzIyaUlwaFVoM0tXY3gtYURHNDhIYll4cGZNV3FzcUQxMDJxTzg4REI1dzhUYms?oc=5",
-      "source": "Business Upturn",
-      "date": "2026-10-15T11:04:24.000Z",
-      "topic": "Trouble",
-      "keyword": "Resignation",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Meesho's independent director resigned from the board.",
-      "enriched": true
-    },
     {
       "id": "n2684a22b1107",
       "ticker": "DEEDEV",
@@ -44,6 +25,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "DEE Development Engineers won an international order worth Rs 46 crore.",
+      "enriched": true
+    },
+    {
+      "id": "ne5556ef6074f",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
+      "scope": [
+        "universe"
+      ],
+      "title": "Dr. Reddy's Laboratories Reports USFDA Pre-Approval Inspection At FTO-9 Facility",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQTliVkxLUGg3RS01bjZLTVFPcVZTYVZrZEdlcF9uTXVsNzlIWTJJczh5WThJQ2xfeWlNWm0yQlBjalBjbzJBSUVjMEsxWkVxTjlRLXVWRXoyVE01RWhOY2hWWExWM2F3bnNqeDg4RlhJWkZvanp4VXhlOWdsZFdTVTYxQnd0bFV3Y2s3T2FUREh1RXEtN1BnQ0MxZUw5a0h4azNEZ0V6YXM?oc=5",
+      "source": "Sahi",
+      "date": "2026-10-15T01:07:32.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Dr. Reddy's FTO-9 facility cleared USFDA pre-approval inspection.",
       "enriched": true
     },
     {
@@ -8180,25 +8180,6 @@
       "sources_count": 2
     },
     {
-      "id": "n897e219516dd",
-      "ticker": "LGEINDIA",
-      "company": "LG Electronics India Limited",
-      "sector": "Consumer Durables",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "LGEINDIA Q2 2026 Earnings: Steady Revenue Growth and EPS Performance Amidst Competitive Landscape",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ2ZYb1k1LURmNjNSSEZTeWljSzNDNlJvdy1WUkJBdm5LTi1veTY3SExwRXdKMENwa0RoTEt3U2ZJS0VzM25KVDVVbVFJbVdoemJrY1ZxblpBRFU3WHVmZkkzdGVmbUVSampRZlRsYkkwd252RS0ydE55S19hUHVONzUwd0Q5RDdnZmExdVhGQWVjam16MkU1ak1veldSZGJ0bUtzc0lnYWZZTUdDenhfNnM0cWJkc3ZJR19hTTlhMXdlWV9oSnpjMGlZaV9wOVdFdkFIMDNB?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-08T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "LG Electronics India posts steady Q2 revenue growth and earnings performance.",
-      "enriched": true
-    },
-    {
       "id": "nb4b709e9738c",
       "ticker": "E2E",
       "company": "E2E Networks Limited",
@@ -8645,6 +8626,26 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "E2E Networks director resigned; L&T proposed a new nominee to replace them.",
+      "enriched": true
+    },
+    {
+      "id": "n2908a72e385f",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho announces resignation of Non-Executive Independent Director · Business Upturn",
+      "url": "https://businessupturn.com/business/meesho-announces-resignation-of-non-executive-independent-director/",
+      "source": "businessupturn.com",
+      "date": "",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Meesho's non-executive independent director resigned.",
+      "sources_count": 2,
       "enriched": true
     },
     {
