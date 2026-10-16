@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T18:35:29.190Z",
+  "generated_at": "2026-10-16T18:17:54.922Z",
   "portfolio": [
     {
       "company": "Monolithisch India Limited",
@@ -55,11 +55,6 @@
       "company": "Saregama India Limited",
       "ticker": "SAREGAMA",
       "sector": "Media Entertainment & Publication"
-    },
-    {
-      "company": "Sterlite Technologies Limited",
-      "ticker": "STLTECH",
-      "sector": "Telecommunication"
     },
     {
       "company": "Sudeep Pharma Limited",
@@ -482,6 +477,11 @@
       "company": "Spunweb Nonwoven Limited",
       "ticker": "SPUNWEB",
       "sector": "Textiles"
+    },
+    {
+      "company": "Sterlite Technologies Limited",
+      "ticker": "STLTECH",
+      "sector": "Telecommunication"
     },
     {
       "company": "Sunshine Pictures Limited",

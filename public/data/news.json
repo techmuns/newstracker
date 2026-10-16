@@ -1,13 +1,111 @@
 {
-  "generated_at": "2026-10-16T07:41:52.204Z",
+  "generated_at": "2026-10-16T18:31:15.321Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 100,
-    "watchlist": 404,
+    "portfolio": 101,
+    "watchlist": 409,
     "universe": 50,
-    "total": 454
+    "total": 459
   },
   "items": [
+    {
+      "id": "nfa9c86a81b79",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Earnings call transcript: E2E Networks posts surging Q2 2026 results on AI demand",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd2JyUUNpQ2VtSXhOSmJVbThSempzNUx4eF9pZ1ZsaDRqRlBZVTFRZ1g5dFdIUU1nUFRMQUZuYjZhMTRLWmZTOUpoOEJjU09nQ09VcnAxYlB5X0pPY0htMDNPdkZkSFV6MC1CRjBjOG84NDlzOGhXeldLWWZOVVk2cDNwenlWT25fQnk5THlfYy1TeFlRaElBMVIwc2dsNzFFNndvcnNHTmdKdGtEWUQyWEZJMmtDX0kzVmU0TWJsUGdwdXlFUno4aTd3aXVFREVGVXFPajhFdTQ?oc=5",
+      "source": "Investing.com India",
+      "date": "2026-10-16T11:43:24.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "E2E Networks reported strong Q2 results driven by AI demand growth.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "n09492340cb08",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "E2E Networks (NSE:E2E) Earnings Recovery and AI Cloud Business",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSEFrNWt3eGNNNFhaX0wzMzRBRFZ2d056YlJFVGdISkxDbnMtTW8xZVhOLThjM0huSnAwOXpCTF9UTzl5bFYtVHpoQXp0NXppQzh3OWs2S0ZKWnJfd0YwSjdhcnJBaW00ODhVUHBzU1hXOHFkaVdGbThMTm1HU09QSGw5TFE0ZWNtS1ZWQVNtSXBSZUYyZV9VdTBxa2psTEo4eU9RWm0waml2aVdORTBndk9PR2RoaGJGOG45eF9xb24xbWpaaThVWXFBTU01QQ?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-10-16T11:06:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "E2E Networks shows earnings recovery with AI cloud business expansion.",
+      "enriched": true
+    },
+    {
+      "id": "n8fc290eb70c1",
+      "ticker": "SENORES",
+      "company": "Senores Pharmaceuticals Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Senores Pharmaceuticals seeks approval for MD and WTD re-appointments",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTjRGVG0taE5pUXY0bGRHS0NRWGstZzhnSkVla2ZvNnFSSjJYUVpnSHNYY2ktMTNyMUpaV0RRczBvLUg2N1pHZlJLMzNTVTU1WlMyZGRtaTJ2aklmX2twUm5qZTFvMndOM0VLdW5raVVxSFl3bFpZbW1zS0hjZHFaNmpBbFBZbXJWX3Nsdm53cjBnMS0wTTU2Z191SWxVYk9kLU1LWm13ejNLUlQ2Y3dVVEw1Q0puSHlCN3c?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-10-16T10:41:37.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Senores Pharma seeks shareholder approval to reappoint managing and whole-time directors.",
+      "enriched": true
+    },
+    {
+      "id": "ne58169dbd36d",
+      "ticker": "SETL",
+      "company": "Standard Engineering Technology Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Standard Engineering Technology Allots 24.39 Lakh Equity Shares via Preferential Issue to Raise ₹71.48 Crore",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94clRoMEphYUVFajA4b054Rm1BUUtwLWQtTVNaMkp5S2QwSHY3MUtMc0NsQ3h5SUMwX09XSXlqYW1yOFFFWmdmX04yRHRia2pwVjk4d2F3bklfRFdxdG5V?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-10-16T09:50:57.000Z",
+      "topic": "Money",
+      "keyword": "Preferential Issue",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Standard Engineering raised ₹71.48 crore by issuing 24.39 lakh shares via preferential allotment.",
+      "enriched": true
+    },
+    {
+      "id": "n8fe35cbcfac0",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho announces resignation of Non-Executive Independent Director",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQVo2NkRSNW9XaC1EME94YXRUY3Z2bkJyR19Cd0lnYU1CVDRkbmljTXZXRTd4OVh0a1ZNanE0emxtbFBmdHFNR0dSRXYxakoxWjJ4SjdBb2JwakxtVktwSFJnb2JwNUF5VkQ4NVpZUlpWb0haT0t3VUhYYWt2SzdlV05CN2x3Q3huQmFiRDhrNERiNnFUMnc4bERrbFcyNFFCcGZoakdn?oc=5",
+      "source": "Business Upturn",
+      "date": "2026-10-15T11:10:57.000Z",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Meesho's non-executive independent director has resigned from the board.",
+      "sources_count": 2,
+      "enriched": true
+    },
     {
       "id": "n2684a22b1107",
       "ticker": "DEEDEV",
@@ -1893,7 +1991,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Unimech Aerospace plans ₹750 crore fundraising via QIP to expand aerospace operations.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -4389,25 +4487,6 @@
       "enriched": true
     },
     {
-      "id": "n34962ffcf466",
-      "ticker": "SETL",
-      "company": "Standard Engineering Technology Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Standard Engineering Technology completes 33.55% acquisition in GScale Energy",
-      "url": "https://scanx.trade/stock-market-news/companies/standard-engineering-technology-completes-33-55-acquisition-in-gscale-energy/46979968",
-      "source": "scanx.trade",
-      "date": "2026-09-03T20:34:32.504Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Standard Engineering Technology acquired 33.55% stake in GScale Energy.",
-      "enriched": true
-    },
-    {
       "id": "n25cdaf986be3",
       "ticker": "SETL",
       "company": "Standard Engineering Technology Limited",
@@ -4443,6 +4522,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Standard Engineering Technology board to consider preferential share issue on July 11.",
+      "enriched": true
+    },
+    {
+      "id": "n34962ffcf466",
+      "ticker": "SETL",
+      "company": "Standard Engineering Technology Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Standard Engineering Technology completes 33.55% acquisition in GScale Energy",
+      "url": "https://scanx.trade/stock-market-news/companies/standard-engineering-technology-completes-33-55-acquisition-in-gscale-energy/46979968",
+      "source": "scanx.trade",
+      "date": "2026-09-03T20:34:32.504Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Standard Engineering Technology acquired 33.55% stake in GScale Energy.",
       "enriched": true
     },
     {
@@ -4881,7 +4979,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Secured export order for lab-grown diamond jewellery.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -7123,6 +7221,25 @@
       "enriched": true
     },
     {
+      "id": "nbd159790d8c6",
+      "ticker": "SETL",
+      "company": "Standard Engineering Technology Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Standard Engineering Technology (NSE:SETL) Updates Preferential Issue Details for Proposed GScale Energy Acquisition",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNLTljeUZZWWlEaUdNWjU1TTcxX1ExV3VPekhwaGNSamFGd0EydzhWeEE2dDluU0xjZERhN2tteTVBTGlmTUJtMkVBQW1zZGd0UEFBT081MXFzZ0tWc3NXc3BWYmpXRkJxTmpIVjFYVTZFbFpKMTdLT1JiYTc0RURtUGhJdjR5LXdVQ0ROR0NhVUt3RFgtYUxuREpvXzdBRk9pN2l2ZTF6bmtMWVg4ZV95YnI3em1Ta2FRTjBlR1FQUDNXMVJUSWdyNzhkZUJzbjNPZlJRMGtmZ2VqaVMxc0liTllCMFE0ZDdXaWIySWFUQVA?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-08-04T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Preferential Issue",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Standard Engineering plans preferential share issue to fund acquisition of GScale Energy.",
+      "enriched": true
+    },
+    {
       "id": "nf1f382827cbc",
       "ticker": "THEME",
       "company": "Pharma Approvals",
@@ -7158,25 +7275,6 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Standard Engineering Technology clarifies funding details for GScale acquisition in EGM corrigendum.",
-      "enriched": true
-    },
-    {
-      "id": "nbd159790d8c6",
-      "ticker": "SETL",
-      "company": "Standard Engineering Technology Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Standard Engineering Technology (NSE:SETL) Updates Preferential Issue Details for Proposed GScale Energy Acquisition",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNLTljeUZZWWlEaUdNWjU1TTcxX1ExV3VPekhwaGNSamFGd0EydzhWeEE2dDluU0xjZERhN2tteTVBTGlmTUJtMkVBQW1zZGd0UEFBT081MXFzZ0tWc3NXc3BWYmpXRkJxTmpIVjFYVTZFbFpKMTdLT1JiYTc0RURtUGhJdjR5LXdVQ0ROR0NhVUt3RFgtYUxuREpvXzdBRk9pN2l2ZTF6bmtMWVg4ZV95YnI3em1Ta2FRTjBlR1FQUDNXMVJUSWdyNzhkZUJzbjNPZlJRMGtmZ2VqaVMxc0liTllCMFE0ZDdXaWIySWFUQVA?oc=5",
-      "source": "Kalkine India",
-      "date": "2026-08-04T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Preferential Issue",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Standard Engineering plans preferential share issue to fund acquisition of GScale Energy.",
       "enriched": true
     },
     {
@@ -8298,6 +8396,25 @@
       "enriched": true
     },
     {
+      "id": "n3035e0c478e8",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Goldiam International QIP funds deployed in investments amid retail expansion delays | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/consumer-products/Goldiam-International-QIP-funds-deployed-in-investments-amid-retail-expansion-delays/6a76af6010bce1fd2045bda5",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "QIP",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "QIP funds deployed in investments while retail expansion faces delays",
+      "enriched": true
+    },
+    {
       "id": "nbe72ed039feb",
       "ticker": "VAML",
       "company": "Vedanta Aluminium Metal Limited",
@@ -8626,26 +8743,6 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "E2E Networks director resigned; L&T proposed a new nominee to replace them.",
-      "enriched": true
-    },
-    {
-      "id": "n2908a72e385f",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Meesho announces resignation of Non-Executive Independent Director · Business Upturn",
-      "url": "https://businessupturn.com/business/meesho-announces-resignation-of-non-executive-independent-director/",
-      "source": "businessupturn.com",
-      "date": "",
-      "topic": "Trouble",
-      "keyword": "Resignation",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Meesho's non-executive independent director resigned.",
-      "sources_count": 2,
       "enriched": true
     },
     {
