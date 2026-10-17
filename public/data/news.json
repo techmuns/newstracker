@@ -1,13 +1,73 @@
 {
-  "generated_at": "2026-10-17T07:12:36.281Z",
+  "generated_at": "2026-10-17T17:33:00.994Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 101,
-    "watchlist": 407,
-    "universe": 50,
-    "total": 457
+    "portfolio": 103,
+    "watchlist": 412,
+    "universe": 51,
+    "total": 463
   },
   "items": [
+    {
+      "id": "n148ee571aa2a",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Sapphire Foods to host Q2FY27 earnings call on Oct 22 at 4 pm",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVHVpeWp1R1ZoWkIxM25heTJ6OWZFeTltQUNnQy1Ea240RkZlWkVrUzVsNmhmMW9nbmtzamE1NjFZSUdGeThzdXZVUm1pUkVQZ0RLUWJGN3lxWTBWNF9sTHZubWlqYklVQkhrWldLNVBtMV91aUNmY19KNUhOOG82RXpVOHplNVNNWUU5Sk5nMG4xLTNpTjhNYmZFbG1iSG1zc2s3dWxyZWFDbkd3VlE?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-10-17T15:49:14.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Sapphire Foods scheduled earnings call for Q2FY27 results on October 22.",
+      "enriched": true
+    },
+    {
+      "id": "n93286c533983",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
+      "scope": [
+        "universe"
+      ],
+      "title": "Alembic Pharma secures USFDA approval for ear infection suspension",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdmo3amtwdDZYdXNSaFNEa0o3NHlSRkpjNHcyaFBVTExWamZXUFdoUm1Jd0VzZXFpX0VvOVFOTzU4TGFySE11Qm45NjA3OEVpYlpaM2dRMTItY2Y0TlpXbXhOeGtyYkR6WUVLZmx4THJScHdRN09mdUlhTmM2RDZqV2NKMEZTcW5oTFNuS010b1RxTzRGemtTRnZyb1JGVC1RUmJuU2tOZ2JrR1p2eXFj0gG-AUFVX3lxTE1mN1prYzZFb0wtZHZKdnJTOEVfdFJENmxoNmFQcEc4Ym92Q1NMSFJkWVI1ZU10QkUzUXBtRmpWWW9oaExHU3RjbDhwcERNNHJ3dnRDN0VHZzJ1REEtaWtsaWtvdFBZbHhqcUV2U3VkbmZvSUlmcUZNM0I0NFlteDFKUDRvVVpaUjR2UDFaU1d2RUpnZVFBYlc0Z0JsaFdKbTRYUlVRMU80QnhiR0VNVlppVDBVQmdjQW8ycEdGYkE?oc=5",
+      "source": "Indian Pharma Post",
+      "date": "2026-10-17T15:06:50.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Alembic Pharma received US FDA approval for ear infection suspension product.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n16b4f642c4c2",
+      "ticker": "ACUTAAS",
+      "company": "Acutaas Chemicals Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Acutaas Chemicals Limited: Completes 100% Acquisition of Enchem Ami Organics",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRUFVYVJGYmlTRXdXRE52N09aWWl6bWdvRGU0TExidDcxRVVSR0pXNjBMMi1WR090U0ZrdlhXSWFNTUpMLTRsT0xjYm92UnlTX1F3dU50NGFHTHh1YWluUTZzc3dGNWwxQ3Q0Q3IxRXlyS2hhQUdqZF8xSmV6Q0F4UUhuVUJZelRXeTJZOFd4Q19KSlV3b2tLTVo2YlcyZnBRWUE?oc=5",
+      "source": "InvestyWise",
+      "date": "2026-10-17T11:05:51.000Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Acutaas Chemicals completed 100% acquisition of Enchem Ami Organics.",
+      "sources_count": 4,
+      "enriched": true
+    },
     {
       "id": "nfa9c86a81b79",
       "ticker": "E2E",
@@ -1466,26 +1526,6 @@
       "takeaway": "Landmark Cars partners with OLX India to create leading pre-owned car platform.",
       "enriched": true,
       "sources_count": 2
-    },
-    {
-      "id": "n344069495d96",
-      "ticker": "ACUTAAS",
-      "company": "Acutaas Chemicals Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Acutaas Chemicals approves acquisition of step-down subsidiary Enchem Ami Organics",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORWVLSFhyVy1XclJaTW9wUmtOTF84WGZkclJHbmtIdW5oUXNJS2J2V2xqUjNnVmEzRDJJRko2Y1UzaVVuYnFOUlRyYTFzNFB1dTlvMXp0U3BTRS1rUV9pWXotZG5FX2xZVnI0eHRaWDhlLVZwaThPXzdCNW0tT2ZEMFp1b0FrRFVsNnZSVzVCTTd4MWZEUm9ERnJ5bTJNaGRIYlhYcmRGOE1ub1c0THBORGt4d2h6SnlBWUhFeVdSUDg?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-09-24T14:42:23.000Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Acutaas Chemicals approved acquisition of its step-down subsidiary Enchem Ami Organics.",
-      "enriched": true
     },
     {
       "id": "n1442c2cb2d53",
@@ -7221,25 +7261,6 @@
       "enriched": true
     },
     {
-      "id": "nbd159790d8c6",
-      "ticker": "SETL",
-      "company": "Standard Engineering Technology Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Standard Engineering Technology (NSE:SETL) Updates Preferential Issue Details for Proposed GScale Energy Acquisition",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNLTljeUZZWWlEaUdNWjU1TTcxX1ExV3VPekhwaGNSamFGd0EydzhWeEE2dDluU0xjZERhN2tteTVBTGlmTUJtMkVBQW1zZGd0UEFBT081MXFzZ0tWc3NXc3BWYmpXRkJxTmpIVjFYVTZFbFpKMTdLT1JiYTc0RURtUGhJdjR5LXdVQ0ROR0NhVUt3RFgtYUxuREpvXzdBRk9pN2l2ZTF6bmtMWVg4ZV95YnI3em1Ta2FRTjBlR1FQUDNXMVJUSWdyNzhkZUJzbjNPZlJRMGtmZ2VqaVMxc0liTllCMFE0ZDdXaWIySWFUQVA?oc=5",
-      "source": "Kalkine India",
-      "date": "2026-08-04T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Preferential Issue",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Standard Engineering plans preferential share issue to fund acquisition of GScale Energy.",
-      "enriched": true
-    },
-    {
       "id": "nf1f382827cbc",
       "ticker": "THEME",
       "company": "Pharma Approvals",
@@ -7256,6 +7277,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Cipla receives US FDA approval for InvaGen's New York manufacturing facility.",
+      "enriched": true
+    },
+    {
+      "id": "nbd159790d8c6",
+      "ticker": "SETL",
+      "company": "Standard Engineering Technology Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Standard Engineering Technology (NSE:SETL) Updates Preferential Issue Details for Proposed GScale Energy Acquisition",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNLTljeUZZWWlEaUdNWjU1TTcxX1ExV3VPekhwaGNSamFGd0EydzhWeEE2dDluU0xjZERhN2tteTVBTGlmTUJtMkVBQW1zZGd0UEFBT081MXFzZ0tWc3NXc3BWYmpXRkJxTmpIVjFYVTZFbFpKMTdLT1JiYTc0RURtUGhJdjR5LXdVQ0ROR0NhVUt3RFgtYUxuREpvXzdBRk9pN2l2ZTF6bmtMWVg4ZV95YnI3em1Ta2FRTjBlR1FQUDNXMVJUSWdyNzhkZUJzbjNPZlJRMGtmZ2VqaVMxc0liTllCMFE0ZDdXaWIySWFUQVA?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-08-04T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Preferential Issue",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Standard Engineering plans preferential share issue to fund acquisition of GScale Energy.",
       "enriched": true
     },
     {
@@ -8121,26 +8161,6 @@
       "enriched": true
     },
     {
-      "id": "n946f4c4b964a",
-      "ticker": "LAXMIDENTL",
-      "company": "Laxmi Dental Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Laxmi Dental Q2 2026 Earnings: Revenue Growth of 14.77% Drives ₹5.26 EPS Amid Steady Demand - Upward Estimate Revision",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcldLTUhjTUJwNnlVVjlvRWdCMUQ3TkQ2SzNSeVZjNzIybUFRODVaTWh4YmZ6YXhBNUQ5UlRIYXN5TVhZakVuUDZrVGdjM0pYc3BPRExyLUpTd0hGY3dZWjY0ZjJiZlVoa0Viek5qTHNBOWxiRV9zUHhKYzNzbUtSMkFsMk94dWJpY0VtMGFERWtOeVBuQjZGMk9yU21kdk9vN0tkbkFuTnNEdzFnaWVnNEhRclNJSHd4VnlCQ01XbE5NcHRQZUQ0?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-10T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Laxmi Dental Q2 revenue grew 14.77% with earnings of ₹5.26 per share.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "ne5194cd64220",
       "ticker": "SAPPHIRE",
       "company": "Sapphire Foods India Limited",
@@ -8157,6 +8177,26 @@
       "importance": "medium",
       "mood": "negative",
       "takeaway": "Sapphire Foods reported Q2 2026 revenue growth of 8.37% but posted a net loss of ₹0.99 per share.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n946f4c4b964a",
+      "ticker": "LAXMIDENTL",
+      "company": "Laxmi Dental Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Laxmi Dental Q2 2026 Earnings: Revenue Growth of 14.77% Drives ₹5.26 EPS Amid Steady Demand - Upward Estimate Revision",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcldLTUhjTUJwNnlVVjlvRWdCMUQ3TkQ2SzNSeVZjNzIybUFRODVaTWh4YmZ6YXhBNUQ5UlRIYXN5TVhZakVuUDZrVGdjM0pYc3BPRExyLUpTd0hGY3dZWjY0ZjJiZlVoa0Viek5qTHNBOWxiRV9zUHhKYzNzbUtSMkFsMk94dWJpY0VtMGFERWtOeVBuQjZGMk9yU21kdk9vN0tkbkFuTnNEdzFnaWVnNEhRclNJSHd4VnlCQ01XbE5NcHRQZUQ0?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-10T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Laxmi Dental Q2 revenue grew 14.77% with earnings of ₹5.26 per share.",
       "sources_count": 2,
       "enriched": true
     },
@@ -8510,6 +8550,26 @@
       "enriched": true
     },
     {
+      "id": "n4af3a5985740",
+      "ticker": "YASHHV",
+      "company": "Yash Highvoltage Ltd",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Yash Highvoltage to host earnings call on October 21 for H1FY27 results",
+      "url": "https://scanx.trade/stock-market-news/companies/yash-highvoltage-host-earnings-call-october-21-h1fy27-results/53619997",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Yash Highvoltage scheduled earnings call for H1FY27 results on October 21.",
+      "enriched": true
+    },
+    {
       "id": "n4e1ec96216d3",
       "ticker": "SHADOWFAX",
       "company": "Shadowfax Technologies Limited",
@@ -8546,6 +8606,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Meesho approves up to ₹50 crore investment in its Kirana Club arm.",
+      "enriched": true
+    },
+    {
+      "id": "nf88492058e10",
+      "ticker": "SBCL",
+      "company": "Shivalik Bimetal Controls Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Shivalik Bimetal Controls Q1 Results: Earnings call scheduled for Aug 7",
+      "url": "https://scanx.trade/stock-market-news/companies/shivalik-bimetal-controls-q1-results-earnings-call-scheduled-for-aug-7/47415566",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Shivalik Bimetal Controls scheduled Q1 earnings call for August 7.",
       "enriched": true
     },
     {
@@ -8897,6 +8976,45 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "E2E Networks appoints Abhishek Shindadkar to lead capital strategy and GPU capacity expansion.",
+      "enriched": true
+    },
+    {
+      "id": "nfdb6344bee6c",
+      "ticker": "XPROINDIA",
+      "company": "Xpro India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "INmune Bio Inc. and Quantum Computing Inc. Partner to Apply Quantum Optimization and AI to Advance Alzheimer's Drug Research and Explore New Applications for XPro ™",
+      "url": "https://www.prnewswire.com/news-releases/inmune-bio-inc-and-quantum-computing-inc-partner-to-apply-quantum-optimization-and-ai-to-advance-alzheimers-drug-research-and-explore-new-applications-for-xpro--302908471.html",
+      "source": "prnewswire.com",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Trial",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "INmune Bio partners with Quantum Computing Inc. to advance Alzheimer's drug research using AI and quantum optimization.",
+      "enriched": true
+    },
+    {
+      "id": "ncf0e2f353a08",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Zen Technologies to acquire majority stake in Cogknit Semantics for Rs. 135.15 crore · Business Upturn",
+      "url": "https://businessupturn.com/business/zen-technologies-to-acquire-majority-stake-in-cogknit-semantics-for-rs-135-15-crore/",
+      "source": "businessupturn.com",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Zen Technologies acquiring majority stake in Cogknit Semantics for Rs. 135 crore.",
       "enriched": true
     }
   ]
