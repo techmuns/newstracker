@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T18:29:47.336Z",
+  "generated_at": "2026-10-17T07:26:04.987Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,36 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "fae006d6f3c75",
+      "ticker": "URBANCO",
+      "company": "Urban Company Limited",
+      "exchange": "NSE",
+      "date": "2026-10-17T12:12:33.000Z",
+      "category": "Newspaper Publication",
+      "title": "Urban Company Limited has informed the Exchange about Copy of Newspaper Publication for Confirmation of Dispatch of Postal Ballot Notice",
+      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_17102026121214_Urban_Company_PB_newspaperpublication_17102026.pdf"
+    },
+    {
+      "id": "f7b6c5d129bd3",
+      "ticker": "URBANCO",
+      "company": "Urban Company Limited",
+      "exchange": "NSE",
+      "date": "2026-10-17T12:07:38.000Z",
+      "category": "Newspaper Publication",
+      "title": "Urban Company Limited has informed the Exchange about Copy of Newspaper Publication for the unaudited standalone and consolidated financial results of theCompany for the quarter and half year ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_17102026120721_Urban_Company_FR_newspaperpublication_17102026.pdf"
+    },
+    {
+      "id": "fec068dceb37d",
+      "ticker": "SENORES",
+      "company": "Senores Pharmaceuticals Limited",
+      "exchange": "NSE",
+      "date": "2026-10-17T10:54:40.000Z",
+      "category": "Newspaper Publication",
+      "title": "Senores Pharmaceuticals Limited has informed the Exchange about Copy of Newspaper Publication",
+      "url": "https://nsearchives.nseindia.com/corporate/SENORES_17102026105415_Intimation_for_Newspaper_Publication.pdf"
+    },
     {
       "id": "f27646e65ce53",
       "ticker": "E2E",
@@ -3046,6 +3076,16 @@
       "category": "Trading Window",
       "title": "Urban Company Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
       "url": "https://nsearchives.nseindia.com/corporate/URBANCO_30092026163951_Tradingwindowclosure30092026.pdf"
+    },
+    {
+      "id": "f5eadc252d9cf",
+      "ticker": "MONOLITH",
+      "company": "Monolithisch India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-30T16:38:41.000Z",
+      "category": "Investor Presentation",
+      "title": "Monolithisch India Limited has informed the Exchange about Link of Recording",
+      "url": "https://nsearchives.nseindia.com/corporate/MONOLITHISCH_30092026163658_investor_call_covering_audio_recording_30092026.pdf"
     },
     {
       "id": "f39f22fec5ead",
@@ -19966,46 +20006,6 @@
       "category": "Press Release",
       "title": "Highway Infrastructure Limited has informed the Exchange regarding a press release dated July 28, 2026, titled \"Highway Infrastructure Limited Receives IVR BBB+/Stable Credit Rating from Infomerics\".",
       "url": "https://nsearchives.nseindia.com/corporate/HIGHWAY123_28072026103406_HIL_Pressrelease_Infomericsrating.pdf"
-    },
-    {
-      "id": "f04a568118f4c",
-      "ticker": "VIVIDEL",
-      "company": "Vivid Electromech Limited",
-      "exchange": "NSE",
-      "date": "2026-07-28T10:05:51.000Z",
-      "category": "Change in Directors",
-      "title": "Vivid Electromech Limited has informed the Exchange about Resignation of Director/KMP/SMP",
-      "url": "https://nsearchives.nseindia.com/corporate/VIVIDEL_ROID_93209_KMP_Doc.zip"
-    },
-    {
-      "id": "f329d77a6ffef",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T23:07:19.000Z",
-      "category": "ESOP/ESOS/ESPS",
-      "title": "Meesho Limited has informed the Exchange regarding Grant of 20562 Options.",
-      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_27072026230036_MLIntimationGrantofESOP27July2026.pdf"
-    },
-    {
-      "id": "f2ff303ae0f07",
-      "ticker": "URBANCO",
-      "company": "Urban Company Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T23:07:18.000Z",
-      "category": "Investor Presentation",
-      "title": "Urban Company Limited has informed the Exchange about Schedule of Earnings Call to be held on Friday, July 31, 2026 to discuss the financial results of the Company for the quarter ended June 30, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_27072026230435_UC_BM_Earnings_Call_Intimation_Q1FY27.pdf"
-    },
-    {
-      "id": "f309eb42e31e1",
-      "ticker": "EPIGRAL",
-      "company": "Epigral Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T22:25:33.000Z",
-      "category": "Investor Presentation",
-      "title": "Epigral Limited has informed the Exchange about Link of Recording",
-      "url": "https://nsearchives.nseindia.com/corporate/MFL_27072026222512_EPLAudioRecQ1.pdf"
     }
   ]
 }
