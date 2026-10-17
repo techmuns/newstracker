@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-16T18:31:15.321Z",
+  "generated_at": "2026-10-17T07:12:36.281Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 101,
-    "watchlist": 409,
+    "watchlist": 407,
     "universe": 50,
-    "total": 459
+    "total": 457
   },
   "items": [
     {
@@ -314,7 +314,7 @@
       "mood": "positive",
       "takeaway": "DEE Development Engineers' order book expanded to ₹2,531 crore as of September 2026.",
       "enriched": true,
-      "sources_count": 4
+      "sources_count": 5
     },
     {
       "id": "nb6f5ee3b7626",
@@ -7473,7 +7473,8 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Vedanta Iron & Steel schedules Q1FY27 earnings call for July 30.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "ne819434ed261",
@@ -8179,105 +8180,6 @@
       "enriched": true
     },
     {
-      "id": "n779800e7b3be",
-      "ticker": "APTUS",
-      "company": "Aptus Value Housing Finance India Limited",
-      "sector": "Financial Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Aptus Value Housing Finance Mar 2026 Earnings: Stable EPS of ₹3.52 Amid Steady Housing Demand - Earnings Acceleration Picks",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxON1I5WXYtOHhLQ2FTUnBoQzAxbTNHTDFmR1F2aV8tWTBveGRWOFhIWnVtbzlrNDhNX3JyM1Y1T2lrdGhiSGkwUUw4T0FCNXhLeDh6Z3E5aHJRSGRwWmIzdWxucV81R2FGd1ZRMUFzZ2RLVkVRTEhkWnROemFIQUZrT0xhVjU3MU5FMjJld3JqSUZwdHhPSmhVQmE0ai1IYkFrQURIMk54SjkyMkhhbHVmNWwxcnZIVWdLYlhwVU1jVEtZeEdEdm9JSlFTR3M?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-09T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Aptus Value Housing Finance reported March 2026 quarter with stable EPS of ₹3.52.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n3458a1281cb5",
-      "ticker": "MEDIASSIST",
-      "company": "Medi Assist Healthcare Services Limited",
-      "sector": "Financial Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "MEDIASSIST.NS Q2 2026 Earnings: Robust Revenue Growth of 25.1% and EPS of ₹12.14 Highlight Strong Operational Performance - New Analyst Coverage",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWXNOWWtrLXpHdERldnNTSUZFLVpwaFRGYy1BS3psaTVzLWFRY1dIcHZUSlc3Z0tNbWVaQmxkMHBza3hSTFlCa1BWc0NBdEdqSkNSMUZWYmpiR2lZRWxXcTNxM0FhaU1GSk40YVVEM29PdlJiUmVLbll0RlpKMHU4ZWlKQVR2bG4tMVhmWjlyUU5DWURCeTRqeDJHMXp0N3dwTGxlbkc0Z3ZXRV9ocFd2UHlENV9IS3NPelVlTlh1RVgyTUp6WEFhbnkybTRaTWltWGN6OGJkWnY3WDkwMkdUN0VFQUN1ZUhhWWg5Vk1n?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-09T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Medi Assist Q2 revenue jumped 25.1% with earnings of ₹12.14 per share.",
-      "enriched": true,
-      "sources_count": 2
-    },
-    {
-      "id": "n57f45389d510",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "DEE Development Engineers Strengthens Growth Platform with ₹300 Crore Capital Raise; Order Book Remains Strong at ₹2,428 Crore",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNQ3hCRHZTaHB5Q1laTTFLWm9sRTZQeDRWbnYxeXNVYmFLZHcwWC1TcTVLcGVaRnBlZWJyMVhkUHZlNDZHYkI5RHZTYkdRRGU4d05jVUV0bTVFXzZ1NmVCcjV4eHIxMzV2N3plaF9tbmV4V3NmZjl0R0k2YjY2aEp3ZU5PU25nbFA1aWlSUmYzd2o0Vk9FTmpUNEZXZkZGMzI3OUlGTl9VSXhveXFiWUJPYUw3dmZwclUzSGk2Mm05UklHY0pQelZCdkVBRjZyczNZajJMWkdUT0FjbXRTMFRLbWFDTGFoSlRlNnRGRGpUcUxYRS1VZ0EtUnZEMjFLZFJwaXc?oc=5",
-      "source": "India Education Diary",
-      "date": "2026-07-09T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "DEE Development Engineers raised ₹300 crore with strong order book of ₹2,428 crore.",
-      "enriched": true
-    },
-    {
-      "id": "n61da6444d22d",
-      "ticker": "UNIMECH",
-      "company": "Unimech Aerospace and Manufacturing Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "UNIMECH Q2 2026 Earnings: Stable Earnings Amid Marginal Revenue Decline - EPS Revision Trend",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeE05TlR1NjlWYU9zdk5jQ0x6MkRDOEFaZlV2X1YyVFJMY3k5Mnl2bk5hdDNkUS1leFZ2emZXdXI5YkRJNFRyVVlJaFI1Nl8zWVl5Y0NnUF82ZzFWRnEtaXFONFdJY0FfeWc5TUw5OFdLZkZ5dWhZRk5LbE1mbFdrcG9URXozMXhnWlBYaXp4QklqaEwyeUNIZ0FDUUtvb3I2c3VGVE9zMWFiUUtMR2d0b0Nn?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-09T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Unimech Aerospace reported stable Q2 FY2026 earnings with marginal revenue decline.",
-      "enriched": true
-    },
-    {
-      "id": "n382e4e66c126",
-      "ticker": "SHADOWFAX",
-      "company": "Shadowfax Technologies Limited",
-      "sector": "Services",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "SHADOWFAX.NS Q4 FY26 Earnings: Profitability Breaks Through as Revenue Crosses ₹1,200 Crore - Earnings Whisper Number",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeENBVWd5c3BGZXBxV1V3cC1PZXVMSFJDRkFwNnUxdWs3VXRVc29DdGljaHQzRjZFRU5YUXh1azZTcTFDZ3VkVDM1VVZhYUd3NW5kUUJKYjNQa1lRY1RMdkc4Q3d4WDloWkl5M1BGMW0xZmZPSDRzUGdJd0pDM1FoWXVPTWZTd3ZVTUhtWVBjSGR3cTZFWEFyc1BBN3haNWE0Q19pRmhjVjlJaDB6bDc5d0x5eEQtQURUZkxZeHdjXzFoOGdiTkE0TA?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-09T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Shadowfax turns profitable in Q4 FY26 with revenue crossing ₹1,200 crore for the first time.",
-      "enriched": true,
-      "sources_count": 2
-    },
-    {
       "id": "nb4b709e9738c",
       "ticker": "E2E",
       "company": "E2E Networks Limited",
@@ -8294,6 +8196,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "E2E Networks shareholders approve fundraising and increased borrowing limits.",
+      "enriched": true
+    },
+    {
+      "id": "n06e8586d4d9a",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "E2E Networks releases audio recording of Q2FY27 earnings call",
+      "url": "https://scanx.trade/stock-market-news/companies/e2e-networks-q2fy27-results-revenue-surges-411-yoy-2-238-mn/53690088",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Resignation",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "E2E Networks published audio of its Q2FY27 earnings call.",
       "enriched": true
     },
     {
@@ -8354,6 +8275,25 @@
       "mood": "neutral",
       "takeaway": "RPSG Group considering selling 15-20% stake in IPL team Lucknow Super Giants.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nfebd6e112c2d",
+      "ticker": "CMLL",
+      "company": "Caliber Mining and Logistics Limited",
+      "sector": "Oil Gas & Consumable Fuels",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Caliber Mining and Logistics Ltd Q1 FY27 Earnings Call Summary",
+      "url": "https://www.investorstack.in/earnings-calls/cmll",
+      "source": "investorstack.in",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Caliber Mining released Q1 FY27 earnings call summary.",
       "enriched": true
     },
     {
@@ -8644,6 +8584,26 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Hariom Pipe commissioned 10 MW solar plants in Maharashtra, expanding renewable energy capacity.",
+      "enriched": true
+    },
+    {
+      "id": "n2159cea33ea0",
+      "ticker": "ACUTAAS",
+      "company": "Acutaas Chemicals Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Acutaas Chemicals posts 70% profit surge in Q1 FY27 on pharma demand",
+      "url": "https://scanx.trade/stock-market-news/companies/acutaas-chemicals-q1-results-net-profit-up-70-to-74-9-crore/46794570",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Capacity Expansion",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Acutaas Chemicals profit jumped 70% in Q1 FY27 driven by pharma demand.",
       "enriched": true
     },
     {
