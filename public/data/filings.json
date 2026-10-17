@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T07:26:04.987Z",
+  "generated_at": "2026-10-17T17:37:07.967Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,86 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f4a80eafde02b",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-10-17T19:54:56.000Z",
+      "category": "Acquisition",
+      "title": "Zen Technologies Limited has informed the Exchange about Acquisition",
+      "url": "https://nsearchives.nseindia.com/corporate/ZENTEC_17102026195446_Cogknit_Reg30_Board_Outcome_17Oct2026__Clean_.pdf"
+    },
+    {
+      "id": "fceb7964e88f4",
+      "ticker": "URBANCO",
+      "company": "Urban Company Limited",
+      "exchange": "NSE",
+      "date": "2026-10-17T19:30:27.000Z",
+      "category": "Investor Presentation",
+      "title": "Urban Company Limited has informed the Exchange about Transcript of the earnings call, conducted on October 16, 2026, in relation to the financial results of the Company for the quarter and half year ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_17102026193006_Urban_Company_Transcript_16102026.pdf"
+    },
+    {
+      "id": "f3cea13ec026f",
+      "ticker": "BALUFORGE",
+      "company": "Balu Forge Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-10-17T16:54:23.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Balu Forge Industries Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/BALUFORGE_17102026164625_SE_Intimation.pdf"
+    },
+    {
+      "id": "ff42dc20f1a2f",
+      "ticker": "SPUNWEB",
+      "company": "Spunweb Nonwoven Limited",
+      "exchange": "NSE",
+      "date": "2026-10-17T16:47:17.000Z",
+      "category": "Quarterly Compliance Report on Corporate governance - within 21 days from the end of the quarter",
+      "title": "Spunweb Nonwoven Limited has informed regarding Submission of the Compliance Report on Corporate Governance for the Quarter ended on September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/SPUNWEB_17102026164631_NonApplicabilityofCG.pdf"
+    },
+    {
+      "id": "f4a2d42f616e4",
+      "ticker": "JYOTICNC",
+      "company": "Jyoti CNC Automation Limited",
+      "exchange": "NSE",
+      "date": "2026-10-17T16:41:34.000Z",
+      "category": "Credit Rating",
+      "title": "Jyoti CNC Automation Limited has informed the Exchange about Credit Rating- New",
+      "url": "https://nsearchives.nseindia.com/corporate/JYOTICNC_NSE_17102026164123_BSEnseAssignmentCreditRatings17102026.pdf"
+    },
+    {
+      "id": "fff7cdb58ca32",
+      "ticker": "CANFINHOME",
+      "company": "Can Fin Homes Limited",
+      "exchange": "NSE",
+      "date": "2026-10-17T16:08:08.000Z",
+      "category": "Investor Presentation",
+      "title": "Can Fin Homes Limited has informed the Exchange about Transcript of Q2 FY 2026-27 of Earnings call held on 12th October 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/CANFINHOME_17102026160628_Earnings_Call_Transcript.pdf"
+    },
+    {
+      "id": "f5351f22f5444",
+      "ticker": "SHRIAHIMSA",
+      "company": "Shri Ahimsa Naturals Limited",
+      "exchange": "NSE",
+      "date": "2026-10-17T13:22:26.000Z",
+      "category": "Allotment of Securities",
+      "title": "Shri Ahimsa Naturals Limited has informed the Exchange regarding allotment of 7,10,400 securities pursuant to conversion of warrants issued on preferential basis vide resolution passed by Circulation on October 17, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/AHIMSANATURALS_17102026132216_Outcome.pdf"
+    },
+    {
+      "id": "fc95f48c141dc",
+      "ticker": "SHRIAHIMSA",
+      "company": "Shri Ahimsa Naturals Limited",
+      "exchange": "NSE",
+      "date": "2026-10-17T13:16:52.000Z",
+      "category": "Disclosure",
+      "title": "Shri Ahimsa Naturals Limited has informed regarding Allotment of 7,10,400 Equity Shares pursuant to conversion of warrants issued on preferential basis.",
+      "url": "https://nsearchives.nseindia.com/corporate/AHIMSANATURALS_17102026131404_Outcome.pdf"
+    },
     {
       "id": "fae006d6f3c75",
       "ticker": "URBANCO",
@@ -19926,86 +20006,6 @@
       "category": "Record Date",
       "title": "The Board of Directors at their meeting held today inter-alia considered and approved the payment of 2nd interim dividend of Rs. 0.50 (Fifty Paisa only) per Equity Share for the Financial Year 2026 on the total issued, subscribed and paid-up 338,24,64,894 Equity Shares of the nominal value of Rs. 2/- (Rupees Two only) each.Pursuant to the provisions of Regulation 42 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, fixed Saturday, August 1, 2026 as the \"Record Date\" for the purpose of determining entitlement of Equity Shareholders for receipt of 2nd interim dividend. The 2nd interim dividend will be paid on and from Tuesday, August 4, 2026 to those shareholders whose name appears in the Register of Members of the Company or in the list of beneficial owners maintained by the Depositories as on Saturday, August 1, 2026.",
       "url": "https://nsearchives.nseindia.com/corporate/VBL_28072026122639_Outcome28Jul.pdf"
-    },
-    {
-      "id": "f8e063dbf2a5b",
-      "ticker": "VBL",
-      "company": "Varun Beverages Limited",
-      "exchange": "NSE",
-      "date": "2026-07-28T12:22:16.000Z",
-      "category": "Press Release",
-      "title": "Varun Beverages Limited has informed the Exchange regarding a press release dated July 28, 2026, titled \"Press Release\".",
-      "url": "https://nsearchives.nseindia.com/corporate/VBL_28072026122203_Pressrelease.pdf"
-    },
-    {
-      "id": "f727f678b4887",
-      "ticker": "SGMART",
-      "company": "SG Mart Limited",
-      "exchange": "NSE",
-      "date": "2026-07-28T12:20:59.000Z",
-      "category": "Newspaper Publication",
-      "title": "SG Mart Limited has informed the Exchange about Copy of Newspaper Publication regarding transfer of Equity Shares of the Company to IEPF Demat Account",
-      "url": "https://nsearchives.nseindia.com/corporate/SGMART_28072026122026_Newspaper_publication_of_Notice_IEPF.pdf"
-    },
-    {
-      "id": "f9ac696b7dbc3",
-      "ticker": "VBL",
-      "company": "Varun Beverages Limited",
-      "exchange": "NSE",
-      "date": "2026-07-28T12:17:38.000Z",
-      "category": "Investor Presentation",
-      "title": "Varun Beverages Limited has informed the Exchange about Investor Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/VBL_28072026121655_Presentation.pdf"
-    },
-    {
-      "id": "feeda3f4e99ca",
-      "ticker": "VBL",
-      "company": "Varun Beverages Limited",
-      "exchange": "NSE",
-      "date": "2026-07-28T12:12:22.000Z",
-      "category": "Board Meeting",
-      "title": "The Board of Directors at their meeting held today inter-alia considered and approved the following:(i) The Unaudited Financial Results of the Company (Standalone and Consolidated) for the Quarter and Half Year ended June 30, 2026 (Copy of the same along-with Limited Review Report issued by M/s. O P Bagla & Co. LLP and M/s. J C Bhalla & Co., Chartered Accountants, Joint Statutory Auditors of the Company, with unmodified opinion are attached and the same are being uploaded on website of the Company).(ii) The payment of 2nd interim dividend of &#8377;0.50 (Fifty Paisa only) per Equity Share for the Financial Year 2026 on the total issued, subscribed and paid-up 338,24,64,894 Equity Shares of the nominal value of &#8377;2/- (Rupees Two only) each.(iii) Pursuant to the provisions of Regulation 42 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, fixed Saturday, August 1, 2026 as the Record Date for the purpose of determining entitlement of Equity Shareholders for receipt of 2nd interim dividend. The 2nd interim dividend will be paid on and from Tuesday, August 4, 2026 to those shareholders whose name appears in the Register of Members of the Company or in the list of beneficial owners maintained by the Depositories as on Saturday, August 1, 2026. Further, please note that our Company is following 1st January to 31st December as its financial year in terms of Section 2(41) of the Companies Act, 2013 as approved by Company Law Board.",
-      "url": "https://nsearchives.nseindia.com/corporate/VBL_28072026121000_outcome.pdf"
-    },
-    {
-      "id": "fcd01470e5e92",
-      "ticker": "SCODATUBES",
-      "company": "Scoda Tubes Limited",
-      "exchange": "NSE",
-      "date": "2026-07-28T11:58:17.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Scoda Tubes Limited has informed the Exchange about Certificate under regulation 76 of SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/SCODA_28072026115808_Covering.pdf"
-    },
-    {
-      "id": "f21508a7e425d",
-      "ticker": "E2E",
-      "company": "E2E Networks Limited",
-      "exchange": "NSE",
-      "date": "2026-07-28T11:35:30.000Z",
-      "category": "Investor Presentation",
-      "title": "E2E Networks Limited has informed the Exchange about Transcript",
-      "url": "https://nsearchives.nseindia.com/corporate/E2E_28072026113518_EC_Transcript22072026.pdf"
-    },
-    {
-      "id": "f058c76b63f35",
-      "ticker": "SENORES",
-      "company": "Senores Pharmaceuticals Limited",
-      "exchange": "NSE",
-      "date": "2026-07-28T10:38:06.000Z",
-      "category": "Newspaper Publication",
-      "title": "Senores Pharmaceuticals Limited has informed the Exchange regarding Newspaper Publication Extracts of Unaudited Financial Results of the Company for quarter ended June 30, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/SENORES_28072026103751_IntimationforNewspaperPublicationsigned.pdf"
-    },
-    {
-      "id": "fb91e7ce088fa",
-      "ticker": "HILINFRA",
-      "company": "Highway Infrastructure Limited",
-      "exchange": "NSE",
-      "date": "2026-07-28T10:34:20.000Z",
-      "category": "Press Release",
-      "title": "Highway Infrastructure Limited has informed the Exchange regarding a press release dated July 28, 2026, titled \"Highway Infrastructure Limited Receives IVR BBB+/Stable Credit Rating from Infomerics\".",
-      "url": "https://nsearchives.nseindia.com/corporate/HIGHWAY123_28072026103406_HIL_Pressrelease_Infomericsrating.pdf"
     }
   ]
 }
