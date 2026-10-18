@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-18T07:27:10.051Z",
+  "generated_at": "2026-10-18T17:41:34.284Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 104,
-    "watchlist": 413,
+    "watchlist": 414,
     "universe": 51,
-    "total": 464
+    "total": 465
   },
   "items": [
     {
@@ -4330,7 +4330,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Zen Technologies secured ₹295 crore order from Defence Ministry for simulators.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -9013,6 +9013,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Zen Technologies acquiring majority stake in Cogknit Semantics for Rs. 135 crore.",
+      "enriched": true
+    },
+    {
+      "id": "n40713f113464",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Zen Technologies sees exports reaching 40% of business mix, says CMD Ashok Atluri - CNBC TV18",
+      "url": "https://www.cnbctv18.com/business/companies/zen-technologies-drone-exports-revenue-target-order-book-hyderabad-alpha-article-20009718.htm/amp",
+      "source": "cnbctv18.com",
+      "date": "",
+      "topic": "Other",
+      "keyword": "Acquisition",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Zen Technologies expects exports to grow to 40% of revenue mix.",
       "enriched": true
     },
     {
