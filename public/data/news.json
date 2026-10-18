@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-17T17:33:00.994Z",
+  "generated_at": "2026-10-18T07:27:10.051Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 103,
-    "watchlist": 412,
+    "portfolio": 104,
+    "watchlist": 413,
     "universe": 51,
-    "total": 463
+    "total": 464
   },
   "items": [
     {
@@ -65,7 +65,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Acutaas Chemicals completed 100% acquisition of Enchem Ami Organics.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -2074,6 +2074,25 @@
       "enriched": true
     },
     {
+      "id": "nd9b313ad39c4",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries India Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Solar Industries (NSE:SOLARINDS): What Does the Omnia Holdings Acquisition Mean for Investors?",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTERHa1lJbEdHNExQeFBRbHBXQm05dE5ZRVE1eU5vVW5CQmRRdGxRczc2ZGpkSTdLZGZSZVhRSHRlS1VHcWgxNHJaSEkyOEpoNEtXd1pPSkFWN2tIMEktY1diQlBlOXlkbVM2R2xlZWxWdE1Zb3EtbXYwUUFoYXFuQUhCOW1DOE54WjE4d1M4dlE5Tm9jR0t4NGhDcWR3TlBNZDhaRTFkX3hOUTNnRGt6alM1c3ljd2R5a1Q3cU9kLVF6OFQxVTNCOTJlOWgzVko0UmxJ?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-09-17T10:23:00.000Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Solar Industries acquired Omnia Holdings, expanding its business footprint.",
+      "enriched": true
+    },
+    {
       "id": "nd0ea6e9e5e5f",
       "ticker": "SONATSOFTW",
       "company": "Sonata Software Limited",
@@ -3170,6 +3189,25 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "TPG-backed Newquest sold Rs 200 crore stake in Shadowfax to Oxbow in a block deal.",
+      "enriched": true
+    },
+    {
+      "id": "n71ce55d5691f",
+      "ticker": "KANOHAR",
+      "company": "Kanohar Electricals Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Kanohar Electricals IPO: A High-Margin Transformer Maker With a 2.8x Revenue Order Book Taps the Markets - Should You Subscribe?",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPLThESHpRVVAteWNzZEg0ZmItMDJhUmpzdWFUQXhmd1BVUGZYQlJxWTI2eGE0TTg4VmY5cmhNTDZQMno1V0hPRjRXNEVoQm5vWF9kSHAxbkE4OUdMTUhQMVRPUXV6LS1BUUw3UFZVN3RCVDVMQWdzOU9UQXpLSC1lWmVIRWVNRW1RN1RZVFloTE5EZk5mT0FiT0xwRlFRU091WW9VeG1IblhjUEtvX25vVlF2SHJKVGlRX1oyTXRRMkUtejI3N2hPNFE0Q3hGXzNldjZFN1dMemtKbVBHekFhSk95a0hNd2NYSm5EUkVvWnE5YTVFdnJPNnJmaS1heExxM0E?oc=5",
+      "source": "Dalal Street Investment Journal",
+      "date": "2026-09-08T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Kanohar Electricals has an order book 2.8 times its revenue and is launching an IPO.",
       "enriched": true
     },
     {
@@ -6987,7 +7025,7 @@
       "mood": "positive",
       "takeaway": "Chemical company bagged Rs. 39 crore order from Solar Industries.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "n3d0f5c3c8418",
@@ -8161,65 +8199,6 @@
       "enriched": true
     },
     {
-      "id": "ne5194cd64220",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "SAPPHIRE.NS Q2 2026 Earnings: Revenue Growth of 8.37% Amid Net Loss of ₹0.99 Per Share - Trough Earnings Signal",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa2ZZV0xMMnI3ZEMwS3dHSkRqSTBmeERsRXpIcTVmMnBlWFZaeEVsMXB1emFYdEdQSzFZUVVKNXZJTU1uRnUzZGhmNlF6Q3l0M1hZYVkyeU42WHRKT0dRRVozUFM4MF9qYXNZd01TVEh5VS1ZeVRxUXhWVmQzWTJPSzBtVDNMTzNKcHhkcXdlZXl3Wk1HYTFKNlJ4T3ZMcTR3Yzhxd3VBa25mLVdFNlFaLVJUaFRFSU1MYkdQeTVOZw?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-10T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "negative",
-      "takeaway": "Sapphire Foods reported Q2 2026 revenue growth of 8.37% but posted a net loss of ₹0.99 per share.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n946f4c4b964a",
-      "ticker": "LAXMIDENTL",
-      "company": "Laxmi Dental Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Laxmi Dental Q2 2026 Earnings: Revenue Growth of 14.77% Drives ₹5.26 EPS Amid Steady Demand - Upward Estimate Revision",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcldLTUhjTUJwNnlVVjlvRWdCMUQ3TkQ2SzNSeVZjNzIybUFRODVaTWh4YmZ6YXhBNUQ5UlRIYXN5TVhZakVuUDZrVGdjM0pYc3BPRExyLUpTd0hGY3dZWjY0ZjJiZlVoa0Viek5qTHNBOWxiRV9zUHhKYzNzbUtSMkFsMk94dWJpY0VtMGFERWtOeVBuQjZGMk9yU21kdk9vN0tkbkFuTnNEdzFnaWVnNEhRclNJSHd4VnlCQ01XbE5NcHRQZUQ0?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-10T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Laxmi Dental Q2 revenue grew 14.77% with earnings of ₹5.26 per share.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n74e69575a12c",
-      "ticker": "SOLARINDS",
-      "company": "Solar Industries India Limited",
-      "sector": "Chemicals",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Solar Industries Q2 2026 Earnings: Robust Revenue Growth of 30% Driven by Strong Demand Across Segments - Capex Guidance",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcnpvSkQ3NXBhRHRSbmIxVnpWRktBeUJwX3piaEl4b2Q1YldwVzhldjhzQ3RxYTdzLVlJZVVjMTJTcmRfVG5BSGNRTk1DR0RBMFBnQkFOc3Nyc01LM2tvaUZKMjFtOUtpZnZtYVhNODhVV01ER2VySUZWNmFNeTBmbzJ0UUVaVlV3MXI2MmFXcFlpTnNGZC1tb3JzMTBqS2s5WUs1N0tXWnhsNk5rVmR5YmtzZXZkRUJKaG9nTVVLbm1MNHRhRHNRVERmRWdVX1hwRUlVVFNKWm5UV1E?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-10T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Solar Industries reports strong Q2 revenue growth of 30% driven by demand across all business segments.",
-      "enriched": true
-    },
-    {
       "id": "nb4b709e9738c",
       "ticker": "E2E",
       "company": "E2E Networks Limited",
@@ -8412,6 +8391,25 @@
       "mood": "neutral",
       "takeaway": "Shareholders approved employee stock option plan and auditor appointment via postal ballot.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nbd8e8743fd56",
+      "ticker": "UNIMECH",
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Unimech Aerospace shareholders pass QIP and loan resolutions at 10th AGM",
+      "url": "https://scanx.trade/stock-market-news/companies/unimech-aerospace-approves-qip-related-party-loans-10th-agm/49461802",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Money",
+      "keyword": "QIP",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Shareholders approved QIP and loan resolutions at AGM, enabling fundraising and debt options.",
       "enriched": true
     },
     {
@@ -9015,6 +9013,26 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Zen Technologies acquiring majority stake in Cogknit Semantics for Rs. 135 crore.",
+      "enriched": true
+    },
+    {
+      "id": "n3b5e3394bc06",
+      "ticker": "VIVIDEL",
+      "company": "Vivid Electromech Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Zeon Lifesciences Secures US FDA Approval, Strengthening Export Readiness for the U.S. Market - The Cine Buzz",
+      "url": "https://www.thecinebuzz.in/brand-post/zeon-lifesciences-secures-us-fda-approval-strengthening-export-readiness-for-the-us-market",
+      "source": "thecinebuzz.in",
+      "date": "",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Zeon Lifesciences received US FDA approval, enabling exports to the American market.",
       "enriched": true
     }
   ]
