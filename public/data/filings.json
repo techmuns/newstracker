@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T17:37:07.967Z",
+  "generated_at": "2026-10-18T07:34:29.890Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,16 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f285aaea99d2f",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-10-18T11:20:44.000Z",
+      "category": "Press Release",
+      "title": "Zen Technologies Limited has informed the Exchange regarding a press release dated October 18, 2026, titled \"Zen Technologies to acquire majority stake in Cogknit Semantics, an indigenous developer of Battlefield Management Systems.\".",
+      "url": "https://nsearchives.nseindia.com/corporate/ZENTEC_18102026112012_PressRelease18102026.pdf"
+    },
     {
       "id": "f4a80eafde02b",
       "ticker": "ZENTEC",
@@ -166,6 +176,16 @@
       "category": "Monitoring Agency Report",
       "title": "Submission of Monitoring Agency Reports for the quarter ended September 30, 2026 by E2E Networks Limited",
       "url": "https://nsearchives.nseindia.com/corporate/E2E_16102026181632_Signed_Monitoring_Agency_Report_16102026.pdf"
+    },
+    {
+      "id": "f9ffec03c64b7",
+      "ticker": "SCODATUBES",
+      "company": "Scoda Tubes Limited",
+      "exchange": "NSE",
+      "date": "2026-10-16T18:10:54.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Scoda Tubes Limited has informed the Exchange about Certificate under regulation 76 of SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/SCODA_16102026181048_Covering.pdf"
     },
     {
       "id": "fad5667130387",
@@ -19986,26 +20006,6 @@
       "category": "Investor Presentation",
       "title": "Aurionpro Solutions Limited has informed the Exchange about Investor Presentation",
       "url": "https://nsearchives.nseindia.com/corporate/AURIONPRO_28072026154935_Investor_Presentation_July_2026_sd.pdf"
-    },
-    {
-      "id": "fa803386da078",
-      "ticker": "SHADOWFAX",
-      "company": "Shadowfax Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-28T13:35:27.000Z",
-      "category": "Investor Presentation",
-      "title": "Shadowfax Technologies Limited has informed the Exchange about Schedule of meet-Intimation of Earnings Call in respect of financial results for the quarter ended June 30, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/9900590024_28072026133332_IntimationBoard_MeetingandEarningscallJuly312026.pdf"
-    },
-    {
-      "id": "fdbb306f0c69e",
-      "ticker": "VBL",
-      "company": "Varun Beverages Limited",
-      "exchange": "NSE",
-      "date": "2026-07-28T12:30:10.000Z",
-      "category": "Record Date",
-      "title": "The Board of Directors at their meeting held today inter-alia considered and approved the payment of 2nd interim dividend of Rs. 0.50 (Fifty Paisa only) per Equity Share for the Financial Year 2026 on the total issued, subscribed and paid-up 338,24,64,894 Equity Shares of the nominal value of Rs. 2/- (Rupees Two only) each.Pursuant to the provisions of Regulation 42 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, fixed Saturday, August 1, 2026 as the \"Record Date\" for the purpose of determining entitlement of Equity Shareholders for receipt of 2nd interim dividend. The 2nd interim dividend will be paid on and from Tuesday, August 4, 2026 to those shareholders whose name appears in the Register of Members of the Company or in the list of beneficial owners maintained by the Depositories as on Saturday, August 1, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/VBL_28072026122639_Outcome28Jul.pdf"
     }
   ]
 }
