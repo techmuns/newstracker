@@ -1,51 +1,110 @@
 {
-  "generated_at": "2026-10-19T08:16:24.833Z",
+  "generated_at": "2026-10-19T20:10:28.088Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 103,
-    "watchlist": 413,
-    "universe": 50,
+    "watchlist": 414,
+    "universe": 49,
     "total": 463
   },
   "items": [
     {
-      "id": "n440c8934844b",
-      "ticker": "VAML",
-      "company": "Vedanta Aluminium Metal Limited",
-      "sector": "Metals & Mining",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Power Mech Projects Secures ₹327.35 Crore Order From Vedanta",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY1JaazBoUTFKblhVTVFmdGtERWRuU2I3SF9IZC1jTDdGdjhaa0dWeTFtYXhKcjN4c1NFRHpuQTg0YW1qRThSdDQzdF94NWlMby1sNXhONWVuSy1SQnVBTGpMcTJyaDB6c1dyemJIRW1WVkpsSXpmclJQNlZKT3BKd0Q1YllBMkFPM3pyTHV3?oc=5",
-      "source": "Sahi",
-      "date": "2026-10-19T07:28:23.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Power Mech Projects wins ₹327 crore order from Vedanta Aluminium.",
-      "sources_count": 3,
-      "enriched": true
-    },
-    {
-      "id": "n767bc92879db",
+      "id": "n589ee39d471f",
       "ticker": "ZENTEC",
       "company": "Zen Technologies Limited",
       "sector": "Capital Goods",
       "scope": [
         "watchlist"
       ],
-      "title": "Zen Technologies ZENTEC Fire Incident at UTS Subsidiary",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmkxUkdpWmdZRklTWkg2VGZNb1lmZ3k5R0RQeDdXTVRTSlZ3UkdSSWk5b3JldFQ3NVo3aGVYZFpGbTF4ZjNjVkdyUzgxZDlLSnBleU9hMHJNaFFBbm9OWDZyMjRnZk5xbGxWSUNZb0d3WkhvbGVvMnZpQ3lFSTFsU1VlVF9TRzRyd3RsbHN1aklmdG5iWExGY2RVUmU0c09GVmVYUFR2UlljeHU1VDd2R1J6TjQ4TVdENGZmNEFTN3hBQlRpLUc0LQ?oc=5",
+      "title": "Zen Technologies Cogknit Acquisition and Defence AI Systems Explained",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYjhRMTVUNXJnSlhid2JRU0haWEZBTnhvenJDOG1leUxNLThYZUpkQmlFOE5qb2w0UlF3SzlYOUludnBKVE1veW13OHVvLTVxWHdubzlXTlRKbGJGeEp2eWtGX3V0QzRuek8yREFlSXJBVS0yYmdKLU1lSXE3MTNyRVV1aFlnVDFJYXVfS24wcFVWSERoX0t0V0Z4d1hOUHlpWVhDVWY1V2EtU3ctSVg3alRJS2FGSl9IeExZYnNoUkxRUE5kTzEwNlYwbVdEVUhsNGhsWVFqcw?oc=5",
       "source": "Kalkine India",
-      "date": "2026-10-19T03:45:00.000Z",
+      "date": "2026-10-19T13:04:00.000Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Zen Technologies acquired Cogknit, focusing on defence AI systems.",
+      "enriched": true
+    },
+    {
+      "id": "n42c33559443a",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
+      "scope": [
+        "universe"
+      ],
+      "title": "Alembic Pharma receives USFDA approval for generic ear infection drug",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOajlpRXNnRlE0QXl1dURjZWdrdGd3U3NKLTJhb2wwWlcwVklDU3kzU3Iwc1hFTm44aDhCUVViZmVBUDctcjB0R0w4TUk1UmJKcU0wYW1VbkZXY2wyYXNWdmNEWDdzYmN3aWswWThTajZNeG1zNHViM21ZUUd3Y3o5SnVFNWYtcU5xRGpJVmpXZkJVMXQ5S2JIeFc2M0hXb182SHBNa1lXQjU5UGIxNXIwNW9kc0VIQkpZel9BR0piZUVfRkVBeHphN2RLVVVMVkt3V2FITFVpVnl4Z9IB2gFBVV95cUxOajlpRXNnRlE0QXl1dURjZWdrdGd3U3NKLTJhb2wwWlcwVklDU3kzU3Iwc1hFTm44aDhCUVViZmVBUDctcjB0R0w4TUk1UmJKcU0wYW1VbkZXY2wyYXNWdmNEWDdzYmN3aWswWThTajZNeG1zNHViM21ZUUd3Y3o5SnVFNWYtcU5xRGpJVmpXZkJVMXQ5S2JIeFc2M0hXb182SHBNa1lXQjU5UGIxNXIwNW9kc0VIQkpZel9BR0piZUVfRkVBeHphN2RLVVVMVkt3V2FITFVpVnl4Zw?oc=5",
+      "source": "Business Standard",
+      "date": "2026-10-19T10:13:46.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Alembic Pharma got US FDA approval for generic ear infection drug.",
+      "sources_count": 4,
+      "enriched": true
+    },
+    {
+      "id": "n2260d897edee",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Zen Technologies Subsidiary Unistring Tech Solutions Reports Fire Incident at Hyderabad Unit; Impact Expected to Be Minimal",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVWR2dGxPYTRiQlplWTJqNTZiQTA2b21uUnRUdXFCek9rblZuREJTcVhfN2ZPWV9iMUxwZmNpamhNU05Kd2NibjhsNllNdDloeF95M1JQMVd0bG85Rmwwbko5aUpnXzNKb1hEbTNQOWVmV2R0TDV2cmlDVTZMRXpNb0lueVFiSHl5SHRucG84alBxT2lXUUk5TnZlb0hPV09FcmdoMGtwbjdQUDMxOVJaMk9jMlZla0FoX3VXQw?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-10-19T08:24:11.000Z",
       "topic": "Trouble",
       "keyword": "Fire",
-      "importance": "medium",
+      "importance": "low",
       "mood": "negative",
-      "takeaway": "Fire incident reported at Zen Technologies' UTS subsidiary facility.",
+      "takeaway": "Fire at Zen Technologies subsidiary Unistring's Hyderabad unit; minimal impact expected.",
       "sources_count": 4,
+      "enriched": true
+    },
+    {
+      "id": "n42a07762cb74",
+      "ticker": "VAML",
+      "company": "Vedanta Aluminium Metal Limited",
+      "sector": "Metals & Mining",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Power Mech Projects Wins ₹327 Crore Vedanta Order",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPODVzVVZGR2lscV9yOGUwTm5PazRHR01Ga3BPVGFzT3lBNV9waUNBc0c0UjRUeU1yUW9RZ1dyMVJjbzd0Ti1SU2RhaVJSYWE0elF3TDFCRlQzVkduN1JsMzN0WmlsbzMzbkprdVJieFFTdk5PNWZVZm4ySW1BMXJzbTdsd01wandTaEFSNFFTSlBvNnQ3U0xRcTJaazRvV0NE?oc=5",
+      "source": "InvestyWise",
+      "date": "2026-10-19T08:19:53.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Power Mech Projects won ₹327 crore order from Vedanta.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "na4d0a5182b40",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Zen Technologies: Subsidiary Fire Causes ₹4 Crore Estimated Loss",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd3BFMVhBQ2phczhoYVVVaGtoZE02NlNEZkc2cnZZZ0lyY0JoeGo1NGxTRXQ4M25uSEp1VW9aUC1NMU1qSEhsMC0tMkltR3hKX2Y3aElIemVQRVV2VzBDNUpOOU1FM2k1RTA2dGxxLTBqVnJhRzJ4UjZhdTVjMUFlSldQM0w5ZmcwNmhvdklxSEZ3clNvR3Vr?oc=5",
+      "source": "InvestyWise",
+      "date": "2026-10-19T06:34:43.000Z",
+      "topic": "Trouble",
+      "keyword": "Fire",
+      "importance": "low",
+      "mood": "negative",
+      "takeaway": "Fire at Zen Technologies subsidiary caused estimated ₹4 crore loss.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -394,7 +453,7 @@
       "mood": "positive",
       "takeaway": "DEE Development Engineers' order book expanded to ₹2,531 crore as of September 2026.",
       "enriched": true,
-      "sources_count": 5
+      "sources_count": 4
     },
     {
       "id": "nb6f5ee3b7626",
@@ -570,25 +629,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Standard Engineering gets exchange approval to raise funds through preferential share issue.",
-      "enriched": true
-    },
-    {
-      "id": "nbab38d0405ce",
-      "ticker": "THEME",
-      "company": "Pharma Approvals",
-      "sector": "Healthcare",
-      "scope": [
-        "universe"
-      ],
-      "title": "Alembic Pharmaceuticals wins final USFDA approval for key oncology drug; details inside",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOEJpRVplMjFEUGlNSlFrQXU0Sm1iWkhkR0E2ZUR3cGh1TmVENVp4UzJFcjQyekdGWlg2T2xtdnc0cU9QMU5mZTFuaUY0aDFxUlY0WU1EWVp0X3RpeWJGSWt2OTNFM09CRkhqaTdOcHRxYmJZT29xYlZBY2tzTHg1aDRKZVRBeEhpMmppUWpsczR0Tm5hUUtwQWh1R0w4Q1hpc2VpUUNEdGlLUmtqaEYxTmtEdHJPQmZxNHN3?oc=5",
-      "source": "Alice Blue",
-      "date": "2026-10-03T10:23:45.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Alembic Pharmaceuticals receives final US FDA approval for oncology drug.",
       "enriched": true
     },
     {
@@ -2246,25 +2286,6 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Senores Pharma board approved IPO fund utilization, now awaits shareholder approval.",
-      "enriched": true
-    },
-    {
-      "id": "na63851aadcd1",
-      "ticker": "THEME",
-      "company": "Pharma Approvals",
-      "sector": "Healthcare",
-      "scope": [
-        "universe"
-      ],
-      "title": "Alembic Pharma receives USFDA approval for anti-bacterial drug",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN1E1NXdVLU8zWHg1am9PM3c5dHFaUU9ncF82RE15Y0tjUjNOQ0NXOFFxRHZraTVZY2VvbzAxSVJyeUNGNk5CMDlVdTJjUG1lUHJyVjBPa3VzQzE2RGtubHNQX0MwQ2FfMkU2bjFMX0FsaFpoUkNXRXh1RXI2bmEwTkNqdTM5N3ZPLUpYcmV4bHktd0FEa0FYaW5IZXQzdHJWbzJ1dmNR?oc=5",
-      "source": "ehealth.eletsonline.com",
-      "date": "2026-09-16T10:02:45.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Alembic Pharma receives US FDA approval for anti-bacterial drug.",
       "enriched": true
     },
     {
@@ -5669,7 +5690,7 @@
       "mood": "positive",
       "takeaway": "Sterlite Technologies approved ₹3,000 crore capex to expand manufacturing capacity.",
       "enriched": true,
-      "sources_count": 2
+      "sources_count": 4
     },
     {
       "id": "nc97e3730943a",
@@ -7298,25 +7319,6 @@
       "enriched": true
     },
     {
-      "id": "nbd159790d8c6",
-      "ticker": "SETL",
-      "company": "Standard Engineering Technology Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Standard Engineering Technology (NSE:SETL) Updates Preferential Issue Details for Proposed GScale Energy Acquisition",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNLTljeUZZWWlEaUdNWjU1TTcxX1ExV3VPekhwaGNSamFGd0EydzhWeEE2dDluU0xjZERhN2tteTVBTGlmTUJtMkVBQW1zZGd0UEFBT081MXFzZ0tWc3NXc3BWYmpXRkJxTmpIVjFYVTZFbFpKMTdLT1JiYTc0RURtUGhJdjR5LXdVQ0ROR0NhVUt3RFgtYUxuREpvXzdBRk9pN2l2ZTF6bmtMWVg4ZV95YnI3em1Ta2FRTjBlR1FQUDNXMVJUSWdyNzhkZUJzbjNPZlJRMGtmZ2VqaVMxc0liTllCMFE0ZDdXaWIySWFUQVA?oc=5",
-      "source": "Kalkine India",
-      "date": "2026-08-04T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Preferential Issue",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Standard Engineering plans preferential share issue to fund acquisition of GScale Energy.",
-      "enriched": true
-    },
-    {
       "id": "nf1f382827cbc",
       "ticker": "THEME",
       "company": "Pharma Approvals",
@@ -7333,6 +7335,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Cipla receives US FDA approval for InvaGen's New York manufacturing facility.",
+      "enriched": true
+    },
+    {
+      "id": "nbd159790d8c6",
+      "ticker": "SETL",
+      "company": "Standard Engineering Technology Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Standard Engineering Technology (NSE:SETL) Updates Preferential Issue Details for Proposed GScale Energy Acquisition",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNLTljeUZZWWlEaUdNWjU1TTcxX1ExV3VPekhwaGNSamFGd0EydzhWeEE2dDluU0xjZERhN2tteTVBTGlmTUJtMkVBQW1zZGd0UEFBT081MXFzZ0tWc3NXc3BWYmpXRkJxTmpIVjFYVTZFbFpKMTdLT1JiYTc0RURtUGhJdjR5LXdVQ0ROR0NhVUt3RFgtYUxuREpvXzdBRk9pN2l2ZTF6bmtMWVg4ZV95YnI3em1Ta2FRTjBlR1FQUDNXMVJUSWdyNzhkZUJzbjNPZlJRMGtmZ2VqaVMxc0liTllCMFE0ZDdXaWIySWFUQVA?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-08-04T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Preferential Issue",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Standard Engineering plans preferential share issue to fund acquisition of GScale Energy.",
       "enriched": true
     },
     {
@@ -8099,6 +8120,25 @@
       "enriched": true
     },
     {
+      "id": "ncf0e2f353a08",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Zen Technologies to acquire majority stake in Cogknit Semantics for Rs. 135.15 crore · Business Upturn",
+      "url": "https://businessupturn.com/business/zen-technologies-to-acquire-majority-stake-in-cogknit-semantics-for-rs-135-15-crore/",
+      "source": "businessupturn.com",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Zen Technologies acquiring majority stake in Cogknit Semantics for Rs. 135 crore.",
+      "enriched": true
+    },
+    {
       "id": "n646df83d9109",
       "ticker": "VAML",
       "company": "Vedanta Aluminium Metal Limited",
@@ -8545,26 +8585,6 @@
       "enriched": true
     },
     {
-      "id": "nf3356601ce50",
-      "ticker": "STLTECH",
-      "company": "Sterlite Technologies Limited",
-      "sector": "Telecommunication",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Sterlite Technologies Limited (NSE: STLTECH) Hits Upper Circuit on ₹3,000 Crore Capex Plan and AI Growth Outlook | Kalkine India",
-      "url": "https://www.kalkine.co.in/article/technology/sterlite-technologies-limited-nse-stltech-hits-upper-circuit-on-3000-crore-capex-plan-and-ai-growth-outlook",
-      "source": "kalkine.co.in",
-      "date": "",
-      "topic": "Growth",
-      "keyword": "Capacity Expansion",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Sterlite Technologies announces ₹3,000 crore capex plan focused on AI growth opportunities.",
-      "sources_count": 3,
-      "enriched": true
-    },
-    {
       "id": "n1778b21af061",
       "ticker": "AUSTERE",
       "company": "Austere Systems Ltd",
@@ -8952,25 +8972,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "INmune Bio partners with Quantum Computing Inc. to advance Alzheimer's drug research using AI and quantum optimization.",
-      "enriched": true
-    },
-    {
-      "id": "ncf0e2f353a08",
-      "ticker": "ZENTEC",
-      "company": "Zen Technologies Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Zen Technologies to acquire majority stake in Cogknit Semantics for Rs. 135.15 crore · Business Upturn",
-      "url": "https://businessupturn.com/business/zen-technologies-to-acquire-majority-stake-in-cogknit-semantics-for-rs-135-15-crore/",
-      "source": "businessupturn.com",
-      "date": "",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Zen Technologies acquiring majority stake in Cogknit Semantics for Rs. 135 crore.",
       "enriched": true
     },
     {

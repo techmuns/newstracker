@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T18:17:54.922Z",
+  "generated_at": "2026-10-19T20:07:34.302Z",
   "portfolio": [
     {
       "company": "Monolithisch India Limited",
@@ -27,14 +27,14 @@
       "sector": "Services"
     },
     {
-      "company": "Stylam Industries Limited",
-      "ticker": "STYLAMIND",
-      "sector": "Consumer Durables"
-    },
-    {
       "company": "Acutaas Chemicals Limited",
       "ticker": "ACUTAAS",
       "sector": "Healthcare"
+    },
+    {
+      "company": "Stylam Industries Limited",
+      "ticker": "STYLAMIND",
+      "sector": "Consumer Durables"
     },
     {
       "company": "Xpro India Limited",
@@ -62,9 +62,9 @@
       "sector": "Chemicals"
     },
     {
-      "company": "Orient Cables (India) Limited",
-      "ticker": "ORIENTCABL",
-      "sector": "Telecommunication"
+      "company": "Shanti Inorganics Limited",
+      "ticker": "SHANTIINOR",
+      "sector": "Chemicals"
     },
     {
       "company": "TANFAC Industries Ltd",
@@ -367,6 +367,11 @@
       "company": "Onesource Specialty Pharma Limited",
       "ticker": "ONESOURCE",
       "sector": "Healthcare"
+    },
+    {
+      "company": "Orient Cables (India) Limited",
+      "ticker": "ORIENTCABL",
+      "sector": "Telecommunication"
     },
     {
       "company": "PDS Limited",
