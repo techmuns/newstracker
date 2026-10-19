@@ -1,13 +1,53 @@
 {
-  "generated_at": "2026-10-18T17:41:34.284Z",
+  "generated_at": "2026-10-19T08:16:24.833Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 104,
-    "watchlist": 414,
-    "universe": 51,
-    "total": 465
+    "portfolio": 103,
+    "watchlist": 413,
+    "universe": 50,
+    "total": 463
   },
   "items": [
+    {
+      "id": "n440c8934844b",
+      "ticker": "VAML",
+      "company": "Vedanta Aluminium Metal Limited",
+      "sector": "Metals & Mining",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Power Mech Projects Secures ₹327.35 Crore Order From Vedanta",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY1JaazBoUTFKblhVTVFmdGtERWRuU2I3SF9IZC1jTDdGdjhaa0dWeTFtYXhKcjN4c1NFRHpuQTg0YW1qRThSdDQzdF94NWlMby1sNXhONWVuSy1SQnVBTGpMcTJyaDB6c1dyemJIRW1WVkpsSXpmclJQNlZKT3BKd0Q1YllBMkFPM3pyTHV3?oc=5",
+      "source": "Sahi",
+      "date": "2026-10-19T07:28:23.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Power Mech Projects wins ₹327 crore order from Vedanta Aluminium.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "n767bc92879db",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Zen Technologies ZENTEC Fire Incident at UTS Subsidiary",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmkxUkdpWmdZRklTWkg2VGZNb1lmZ3k5R0RQeDdXTVRTSlZ3UkdSSWk5b3JldFQ3NVo3aGVYZFpGbTF4ZjNjVkdyUzgxZDlLSnBleU9hMHJNaFFBbm9OWDZyMjRnZk5xbGxWSUNZb0d3WkhvbGVvMnZpQ3lFSTFsU1VlVF9TRzRyd3RsbHN1aklmdG5iWExGY2RVUmU0c09GVmVYUFR2UlljeHU1VDd2R1J6TjQ4TVdENGZmNEFTN3hBQlRpLUc0LQ?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-10-19T03:45:00.000Z",
+      "topic": "Trouble",
+      "keyword": "Fire",
+      "importance": "medium",
+      "mood": "negative",
+      "takeaway": "Fire incident reported at Zen Technologies' UTS subsidiary facility.",
+      "sources_count": 4,
+      "enriched": true
+    },
     {
       "id": "n148ee571aa2a",
       "ticker": "SAPPHIRE",
@@ -25,26 +65,6 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Sapphire Foods scheduled earnings call for Q2FY27 results on October 22.",
-      "enriched": true
-    },
-    {
-      "id": "n93286c533983",
-      "ticker": "THEME",
-      "company": "Pharma Approvals",
-      "sector": "Healthcare",
-      "scope": [
-        "universe"
-      ],
-      "title": "Alembic Pharma secures USFDA approval for ear infection suspension",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdmo3amtwdDZYdXNSaFNEa0o3NHlSRkpjNHcyaFBVTExWamZXUFdoUm1Jd0VzZXFpX0VvOVFOTzU4TGFySE11Qm45NjA3OEVpYlpaM2dRMTItY2Y0TlpXbXhOeGtyYkR6WUVLZmx4THJScHdRN09mdUlhTmM2RDZqV2NKMEZTcW5oTFNuS010b1RxTzRGemtTRnZyb1JGVC1RUmJuU2tOZ2JrR1p2eXFj0gG-AUFVX3lxTE1mN1prYzZFb0wtZHZKdnJTOEVfdFJENmxoNmFQcEc4Ym92Q1NMSFJkWVI1ZU10QkUzUXBtRmpWWW9oaExHU3RjbDhwcERNNHJ3dnRDN0VHZzJ1REEtaWtsaWtvdFBZbHhqcUV2U3VkbmZvSUlmcUZNM0I0NFlteDFKUDRvVVpaUjR2UDFaU1d2RUpnZVFBYlc0Z0JsaFdKbTRYUlVRMU80QnhiR0VNVlppVDBVQmdjQW8ycEdGYkE?oc=5",
-      "source": "Indian Pharma Post",
-      "date": "2026-10-17T15:06:50.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Alembic Pharma received US FDA approval for ear infection suspension product.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -2798,27 +2818,6 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "SJVN's CMD additional charge extended by six months.",
-      "enriched": true
-    },
-    {
-      "id": "nee4e811c2470",
-      "ticker": "STLTECH",
-      "company": "Sterlite Technologies Limited",
-      "sector": "Telecommunication",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Sterlite Technologies: Approves ₹3,000 Crore Capex for Capacity Expansion | InvestyWise",
-      "url": "https://www.investywise.com/sterlite-technologies-limited-capacity-expansion-approved/",
-      "source": "investywise.com",
-      "date": "2026-09-11T07:27:29.365Z",
-      "topic": "Growth",
-      "keyword": "Capacity Expansion",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Sterlite Technologies approved ₹3,000 crore capex for capacity expansion.",
-      "sources_count": 3,
       "enriched": true
     },
     {
@@ -7299,25 +7298,6 @@
       "enriched": true
     },
     {
-      "id": "nf1f382827cbc",
-      "ticker": "THEME",
-      "company": "Pharma Approvals",
-      "sector": "Healthcare",
-      "scope": [
-        "universe"
-      ],
-      "title": "Cipla Receives USFDA Approval Confirmation for InvaGen's New York Manufacturing Facility",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaHJ4QU1wWWF6S3RxQnNIY3hBRnBwWUNKZWRCQzJkazRGaHBUS0JTaDRPRWpWSGVGLXE1NU8wb2hmN0V6RmlQeEFmTDZpaS1iNVJpZzRoV1lhSnh6cThqVFlKVkVvYTdaTXRkQUxEZXFpUjBVbGgzTlVmZ0d5MVJ4WmRQblkxWXFRaXlaUXgweTllWFFydlhRQnhxZ1ZqWmk3MGIwbjNibGN6dFZpM2hQSzYzX2Y3LWhkd2xNeS1UWlZEdkdGWWc?oc=5",
-      "source": "sahi.com",
-      "date": "2026-08-04T07:00:00.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Cipla receives US FDA approval for InvaGen's New York manufacturing facility.",
-      "enriched": true
-    },
-    {
       "id": "nbd159790d8c6",
       "ticker": "SETL",
       "company": "Standard Engineering Technology Limited",
@@ -7334,6 +7314,25 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Standard Engineering plans preferential share issue to fund acquisition of GScale Energy.",
+      "enriched": true
+    },
+    {
+      "id": "nf1f382827cbc",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
+      "scope": [
+        "universe"
+      ],
+      "title": "Cipla Receives USFDA Approval Confirmation for InvaGen's New York Manufacturing Facility",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaHJ4QU1wWWF6S3RxQnNIY3hBRnBwWUNKZWRCQzJkazRGaHBUS0JTaDRPRWpWSGVGLXE1NU8wb2hmN0V6RmlQeEFmTDZpaS1iNVJpZzRoV1lhSnh6cThqVFlKVkVvYTdaTXRkQUxEZXFpUjBVbGgzTlVmZ0d5MVJ4WmRQblkxWXFRaXlaUXgweTllWFFydlhRQnhxZ1ZqWmk3MGIwbjNibGN6dFZpM2hQSzYzX2Y3LWhkd2xNeS1UWlZEdkdGWWc?oc=5",
+      "source": "sahi.com",
+      "date": "2026-08-04T07:00:00.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Cipla receives US FDA approval for InvaGen's New York manufacturing facility.",
       "enriched": true
     },
     {
@@ -8100,102 +8099,22 @@
       "enriched": true
     },
     {
-      "id": "n9a9292390ab4",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions Limited",
-      "sector": "Information Technology",
+      "id": "n646df83d9109",
+      "ticker": "VAML",
+      "company": "Vedanta Aluminium Metal Limited",
+      "sector": "Metals & Mining",
       "scope": [
         "watchlist"
       ],
-      "title": "AURIONPRO Q2 2026 Earnings: Strong Revenue Growth of 20.3% YoY, EPS at ₹37.87 - Downward Estimate Revision",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcldtMm1sV0YzRzdGRDZ6VmI2MGsxLVFWTjNpZERBeUtGMnVTZzlYRzI3Sm5qVlAyaDlwT3VWRW1CNlZZOFBuS1M3OS1NVmRjRHJ0OVZsVW5EZ3psdF81RzNITjZlUVpUaDBiRS1GTFp1b1RBMnJFUzhPNzNuQndlM2x4M25RazA2VGNUTENQbVhnY3dSTFJYWVhaS1FNV0FaeHdpU3BLSnNpZ25ma0o3UE9DRQ?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-11T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Aurionpro Q2 revenue grew 20.3% year-on-year with earnings of ₹37.87 per share.",
-      "enriched": true,
-      "sources_count": 2
-    },
-    {
-      "id": "n9788241ff7a2",
-      "ticker": "UNIMECH",
-      "company": "Unimech Aerospace and Manufacturing Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "UNIMECH.NS Q2 2026 Earnings: Revenue Dip Amid Margin Pressures - Final Results",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORUZIY3VyUWVfdGRpTlF6TmVhUHZwTk1uaGJ2ZDBOdUE3Q1lxcUZwenZZdkg1ejVqeURJOTY1dkxhMXNlYlVlM3NXYVlYeWdZZThXN0d3THV5WFlZM2RyZjQwLUFScUZoQlFGc290TUkzNWNlZ1VVcGEyMEhMRFZUdDJMbVphSGdDS2pDZjc2R2FPQkFfNUhzVWVpeFR1RTQ1V0gwMg?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-11T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "negative",
-      "takeaway": "Unimech Aerospace reported Q2 FY2026 results with revenue decline and margin pressures.",
-      "enriched": true
-    },
-    {
-      "id": "n42bec2016ad9",
-      "ticker": "SURYAROSNI",
-      "company": "Surya Roshni Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "SURYAROSNI.NS Q2 2026 Earnings: Modest Revenue Growth Amid Stable Margins - Earnings Miss Alert",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0ZhemVwNUEwSTBzOTVFNUtJdGxTVGZhVnAtN2lVS05ENDJENHZHMjlfT29zZlhSZ3RPd29GUGlORGFNWnJGdEJ4Sm9LM2xqSnJwd1dOOEowNGdqRUFJeDNIQ2hHeUVwcThVdDRiQzVBMGk2MGtSZDNPWUd1WnBvWTZFRnZDUzZINk40c3JMOVlxYnJHT2g0SU03d0pFYndDdHd6eGZ5eV9tRzNBV3VrS2E1VQ?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-11T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Surya Roshni Q2 showed modest revenue growth with stable margins but missed estimates.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n028b0769b644",
-      "ticker": "SURYAROSNI",
-      "company": "Surya Roshni Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Surya Roshni Ltd secures export order",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VdXA1ZGtZaVlrYXk5QV9GbXd0cnEyTWdhcXVPanRRR2NPSEtSY2F0VjZkVXdGb2ctMFk2TzBtTXBHY0NtYTZVZ3dSNkhaX0s1aFlnUVJWV21TdmozWDI0?oc=5",
-      "source": "EquityBulls",
-      "date": "2026-07-11T07:00:00.000Z",
+      "title": "S&S Power Switchgears wins Rs 1 crore work order from Sterling & Wilson for Maharashtra project",
+      "url": "https://scanx.trade/stock-market-news/companies/s-s-power-switchgears-wins-rs-1-crore-work-order-sterling-wilson/53007278",
+      "source": "scanx.trade",
+      "date": "",
       "topic": "Orders",
       "keyword": "Order",
-      "importance": "medium",
+      "importance": "low",
       "mood": "positive",
-      "takeaway": "Surya Roshni secured an export order.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "nfce9b774f8fd",
-      "ticker": "VIVIDELECT",
-      "company": "vivid electromech",
-      "sector": "",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Vivid Electromech Limited Strengthens Data Centre Footprint with ₹30.13 Cr Order from STT Global Data Centres India",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQdmszb2JaUkFYZmtDQUgzakZLdGNONWFWdlZZV01CS2p2VjhqS2VOdkpBMUUtVjBDSms3XzUwb21scFM3MXpWbWRLLTBXVG56ZEhpeVZKQlJKLUhwX2JlQ2VfTlNtVWxXeDgycDFVUDVudlM3SnlpcEZXSnpRTDVDVE96cF8zYW1oVnl2QV9WM3lSSUkzdlFfWjVQZFJnUkY4ekVSV2JkOFNWSnlhaEk1MU1XYWtJdmw5aEo5RXNtUHpRc0RRazNhd3ZMVGpoS1I5V09qcTQwN3o2RVhZT2VmeU5vS0RyWW81UXpoT1I3VVBGRDVTY3NuNHl0YXVkcHhM0gGGAkFVX3lxTFBnZE9JQ2pyT1FKY1otNEZnYnZuc1BJaUg0RGhXYmZvM1BmcXlCd2dPVzV2cWtHN1lWa0NJUHNYbTJnRHluMHV2bklwUFhVYzhfM1VXZS1yTnhGTjIwRjlSWndpZWljWV9XVUFkaUJkZ3hGdy1CWjVDLWJldDlhVWQwbkJmMlRNblZhNElkRUdabnlLVHg5bkhuUWM1WVFXT2I5NFRCZzlDY0VDS3h0N004RVVnY25vNWVybTdVcmNiRHkyeXFHWEZJT2FzYnF6cUxLcHhVYXRIU2lfNnVvTm5IZU9jZjB4WlR1UXA3RXMzMWxTNGR5M09EWDBWWUVZME83UndGeWc?oc=5",
-      "source": "ThePrint",
-      "date": "2026-07-11T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Vivid Electromech wins ₹30 crore order from STT Global Data Centres India.",
-      "sources_count": 2,
+      "takeaway": "S&S Power Switchgears secured Rs 1 crore order from Sterling & Wilson for Maharashtra project.",
       "enriched": true
     },
     {
@@ -8626,6 +8545,26 @@
       "enriched": true
     },
     {
+      "id": "nf3356601ce50",
+      "ticker": "STLTECH",
+      "company": "Sterlite Technologies Limited",
+      "sector": "Telecommunication",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Sterlite Technologies Limited (NSE: STLTECH) Hits Upper Circuit on ₹3,000 Crore Capex Plan and AI Growth Outlook | Kalkine India",
+      "url": "https://www.kalkine.co.in/article/technology/sterlite-technologies-limited-nse-stltech-hits-upper-circuit-on-3000-crore-capex-plan-and-ai-growth-outlook",
+      "source": "kalkine.co.in",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Capacity Expansion",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Sterlite Technologies announces ₹3,000 crore capex plan focused on AI growth opportunities.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
       "id": "n1778b21af061",
       "ticker": "AUSTERE",
       "company": "Austere Systems Ltd",
@@ -8661,6 +8600,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Hariom Pipe commissioned 10 MW solar plants in Maharashtra, expanding renewable energy capacity.",
+      "enriched": true
+    },
+    {
+      "id": "n2792a8e47f1e",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Goldiam International wins ₹50 crore export order from USA clients",
+      "url": "https://scanx.trade/stock-market-news/companies/goldiam-international-wins-rs-50-crore-order-international-usa-clients/48579008",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Goldiam International secured a ₹50 crore export order from USA clients.",
       "enriched": true
     },
     {
@@ -8783,6 +8741,25 @@
       "enriched": true
     },
     {
+      "id": "n8afd7962658c",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "E2E Networks pays ₹10,000 fine to exchanges for compliance delay",
+      "url": "https://scanx.trade/stock-market-news/companies/e2e-networks-pays-10-000-fine-exchanges-compliance-delay/53716906",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "low",
+      "mood": "negative",
+      "takeaway": "E2E Networks fined ₹10,000 by exchanges for compliance delay.",
+      "enriched": true
+    },
+    {
       "id": "n6447fda8b916",
       "ticker": "ESDS",
       "company": "ESDS Software Solution Limited",
@@ -8820,25 +8797,6 @@
       "mood": "neutral",
       "takeaway": "Vasa Denticity's Q1 margins recovered in latest earnings call.",
       "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n646df83d9109",
-      "ticker": "VAML",
-      "company": "Vedanta Aluminium Metal Limited",
-      "sector": "Metals & Mining",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "S&S Power Switchgears wins Rs 1 crore work order from Sterling & Wilson for Maharashtra project",
-      "url": "https://scanx.trade/stock-market-news/companies/s-s-power-switchgears-wins-rs-1-crore-work-order-sterling-wilson/53007278",
-      "source": "scanx.trade",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "S&S Power Switchgears secured Rs 1 crore order from Sterling & Wilson for Maharashtra project.",
       "enriched": true
     },
     {
