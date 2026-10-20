@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-20T07:56:27.001Z",
+  "generated_at": "2026-10-20T18:42:42.694Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 99,
-    "watchlist": 409,
+    "watchlist": 411,
     "universe": 49,
-    "total": 458
+    "total": 460
   },
   "items": [
     {
@@ -44,7 +44,27 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Alembic Pharma got US FDA approval for generic ear infection drug.",
-      "sources_count": 2,
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "n2260d897edee",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Zen Technologies Subsidiary Unistring Tech Solutions Reports Fire Incident at Hyderabad Unit; Impact Expected to Be Minimal",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVWR2dGxPYTRiQlplWTJqNTZiQTA2b21uUnRUdXFCek9rblZuREJTcVhfN2ZPWV9iMUxwZmNpamhNU05Kd2NibjhsNllNdDloeF95M1JQMVd0bG85Rmwwbko5aUpnXzNKb1hEbTNQOWVmV2R0TDV2cmlDVTZMRXpNb0lueVFiSHl5SHRucG84alBxT2lXUUk5TnZlb0hPV09FcmdoMGtwbjdQUDMxOVJaMk9jMlZla0FoX3VXQw?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-10-19T08:24:11.000Z",
+      "topic": "Trouble",
+      "keyword": "Fire",
+      "importance": "medium",
+      "mood": "negative",
+      "takeaway": "Fire at Zen Technologies' subsidiary Unistring Tech Solutions' Hyderabad unit; minimal impact expected.",
+      "sources_count": 5,
       "enriched": true
     },
     {
@@ -68,23 +88,22 @@
       "enriched": true
     },
     {
-      "id": "n517bbb69f7ed",
+      "id": "na4d0a5182b40",
       "ticker": "ZENTEC",
       "company": "Zen Technologies Limited",
       "sector": "Capital Goods",
       "scope": [
         "watchlist"
       ],
-      "title": "Zen Technologies reports fire at Hyderabad subsidiary's production facility; estimates Rs 4 crore loss, confirms insurance coverage",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNY19DOUx6d3dBTExTTWhCQ3hZQWh5VldYM0FSVHZtTEQ1a1lzOTJJRW54MHVZUlpmMWpTaE5xWE9jaWdVaS1yRHdtU0RSbkNIRVl4elBGT1hrYVVvbThUR0hVb3FJRTgwczVicjBYMERmTG1RX1doLWMzY3N3a1doems4dHpmU0dpTktMUkI1dXF4YWY0eUlvX0FrVkZGT2pNTzN5di1IQ0dOV2pBb1ZmdE9NVFpWaG1nMmxxZ0N0UzNjOTdGZS1zWlMtXzRIUTlodkVmX2FrZzk0R2JDU1BaeHdTVXpTNkljWTEtWHNyUUJBbEUwc3V6TkdTVTDSAYICQVVfeXFMT3VEc0laT2UtZW1GWGR4NmRPaE40NlpUR2J6b2VOR3JZUjlSRUdOOHlPRWdtWWpJUGpfdDdOU3dTaG5LaTM4ZDhtdTJYT0l1Sm1CeklhSENJNm9adEx0RF9DTmdLaUNlaDlxQ2wtZXZFbjcxMjRPT2sxSWlIRHBHNG5FdW9vN0JHSlFYdm1ORlJ5QzNDc2pZQ24zSWVQY1NGR1hDejgxMEllZGJyRlJPSXUwR3lsWlBYanc0MWMyc2xGNDdZRlFRMEtIbk1FYXNLZ0ZESWVsbWFHclJwVXRVaUQ2ejduZW9PbFlhSFN5THpENGhkaXEtTHl6SHRIeWlpNHBB?oc=5",
-      "source": "ET Now",
-      "date": "2026-10-19T03:53:08.000Z",
+      "title": "Zen Technologies: Subsidiary Fire Causes ₹4 Crore Estimated Loss",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd3BFMVhBQ2phczhoYVVVaGtoZE02NlNEZkc2cnZZZ0lyY0JoeGo1NGxTRXQ4M25uSEp1VW9aUC1NMU1qSEhsMC0tMkltR3hKX2Y3aElIemVQRVV2VzBDNUpOOU1FM2k1RTA2dGxxLTBqVnJhRzJ4UjZhdTVjMUFlSldQM0w5ZmcwNmhvdklxSEZ3clNvR3Vr?oc=5",
+      "source": "InvestyWise",
+      "date": "2026-10-19T06:34:43.000Z",
       "topic": "Trouble",
       "keyword": "Fire",
       "importance": "medium",
       "mood": "negative",
-      "takeaway": "Fire at Zen Technologies Hyderabad facility causes ₹4 crore loss, insured.",
-      "sources_count": 2,
+      "takeaway": "Fire at Zen Technologies subsidiary causes estimated loss of ₹4 crore.",
       "enriched": true
     },
     {
@@ -8538,6 +8557,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Goldiam International secured a ₹50 crore export order from USA clients.",
+      "enriched": true
+    },
+    {
+      "id": "n1f12f334e3e6",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "E2E Networks ₹1,000 Crore Sovereign AI GPU Contract Explained | Kalkine India",
+      "url": "https://www.kalkine.co.in/article/technology/e2e-networks-1000-crore-sovereign-ai-deal-what-it-means-for-indias-gpu-cloud-race",
+      "source": "kalkine.co.in",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Capex",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "E2E Networks secured a ₹1,000 crore contract for Sovereign AI GPU services.",
       "enriched": true
     },
     {
