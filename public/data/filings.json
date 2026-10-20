@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T20:18:23.846Z",
+  "generated_at": "2026-10-20T08:08:00.367Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,26 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f40d932d7c066",
+      "ticker": "PDSL",
+      "company": "PDS Limited",
+      "exchange": "NSE",
+      "date": "2026-10-20T12:15:11.000Z",
+      "category": "ESOP/ESOS/ESPS",
+      "title": "PDS Limited has informed the Exchange regarding Allotment of 18750 Shares.",
+      "url": "https://nsearchives.nseindia.com/corporate/PDSL_20102026121428_Ltr_AllotofESOP_20102026_Sd.pdf"
+    },
+    {
+      "id": "fc3bee24e5578",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "exchange": "NSE",
+      "date": "2026-10-20T11:29:22.000Z",
+      "category": "ESOP/ESOS/ESPS",
+      "title": "Meesho Limited has informed the Exchange regarding Allotment of 344262 Shares.",
+      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_20102026112800_MLIntimationAllotmentofESOPs20102026.pdf"
+    },
     {
       "id": "f58fbf9ab3fdb",
       "ticker": "TRIVENI",
@@ -19986,26 +20006,6 @@
       "category": "Investor Presentation",
       "title": "Sterlite Technologies Limited has informed the Exchange about Transcript of earning call held on July 24, 2026.",
       "url": "https://nsearchives.nseindia.com/corporate/STLTECH_28072026190327_SEintimationEarningscalltranscript_July2026.pdf"
-    },
-    {
-      "id": "fde2ea24ceedb",
-      "ticker": "ACUTAAS",
-      "company": "Acutaas Chemicals Limited",
-      "exchange": "NSE",
-      "date": "2026-07-28T18:24:31.000Z",
-      "category": "Investor Presentation",
-      "title": "Acutaas Chemicals Limited has informed the Exchange about Transcript",
-      "url": "https://nsearchives.nseindia.com/corporate/AMIORG_28072026182421_TranscriptSWmergedsigned.pdf"
-    },
-    {
-      "id": "f42bde0fa59a0",
-      "ticker": "GMMPFAUDLR",
-      "company": "GMM Pfaudler Limited",
-      "exchange": "NSE",
-      "date": "2026-07-28T17:37:12.000Z",
-      "category": "Investor Presentation",
-      "title": "Earnings Call Intimation on financial results for the first quarter ended June 30, 2026, to be held on August 6, 2026, at 12:00 noon (IST).",
-      "url": "https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_28072026173616_Earnings_Call_Q1_FY27_Intimation.pdf"
     }
   ]
 }
