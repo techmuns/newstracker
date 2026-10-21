@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-20T18:42:42.694Z",
+  "generated_at": "2026-10-21T08:06:51.991Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 99,
-    "watchlist": 411,
+    "watchlist": 412,
     "universe": 49,
-    "total": 460
+    "total": 461
   },
   "items": [
     {
@@ -143,7 +143,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Acutaas Chemicals completed 100% acquisition of Enchem Ami Organics.",
-      "sources_count": 3,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -2602,6 +2602,26 @@
       "sources_count": 2
     },
     {
+      "id": "n2489bb93c41b",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries India Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Solar Group announces proposed acquisition of South Africa's Omnia Holdings Limited for ₹12,951 Crores",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU08yb0FDUjB2UDdVdjEzRE9nZXRvX2htcVRFTzVaall2Rk9DMXNvbDk3TmhPSExITGh5TmFYX0ZyVzJsbWxKSmQ0R2M1M000MGhVUEpUUmlWeVdkdnpnU01waGFGNmFHSXFsYXF3eHNhUV9CeE5HR1pjNzNyWTZSVGFlLU9pSmZ5bENfVWRXZGpSZFB0ZEk5QjFuUHdfQ3hFOG9kRWdlSUNZeEpUMzVZMTVBMlJGM2NwamRxcw?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-09-14T07:00:00.000Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Solar Group to acquire South Africa's Omnia Holdings for ₹12,951 crores in major overseas expansion.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
       "id": "n6a12ef8dccbb",
       "ticker": "NORTHARC",
       "company": "Northern Arc Capital Limited",
@@ -4118,26 +4138,6 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Motilal Oswal Mutual Fund acquired stake in Sterlite Technologies.",
-      "enriched": true
-    },
-    {
-      "id": "naba23ac8546d",
-      "ticker": "SOLARINDS",
-      "company": "Solar Industries India Limited",
-      "sector": "Chemicals",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Solar Industries India Clarifies on South Africa Acquisition Reports",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVGJ4SU1zRklXdUFSMXZQS0VXcUxPX2lpR0hOaXFoWU5Obnkyc1dfNXJHNmZsSE5VbVNhVzItaUw1SURoWEVCMXpPaXZsdllnWHdPcUt0dTd0UHA3eGxNTjh2elRPaGVJeXliWXVzMmJFZ3FPWlRxemhZa05IZEVrRF93VkRXaDhjRlVHMm9Ka2pEWm9CYUdDRUFvbXlkWVN4N1JsRmtKa1pYQ0JFNVZJSlJEY1Zua28zYkVVZ0tvX3hEOWRrZDhpd29B?oc=5",
-      "source": "Kalkine India",
-      "date": "2026-09-04T07:00:00.000Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Solar Industries clarified reports about a potential acquisition in South Africa.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -5689,7 +5689,7 @@
       "mood": "positive",
       "takeaway": "Sterlite Technologies approved ₹3,000 crore capex to expand manufacturing capacity.",
       "enriched": true,
-      "sources_count": 4
+      "sources_count": 2
     },
     {
       "id": "nc97e3730943a",
@@ -8500,6 +8500,25 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Shivalik Bimetal Controls scheduled Q1 earnings call for August 7.",
+      "enriched": true
+    },
+    {
+      "id": "nf3356601ce50",
+      "ticker": "STLTECH",
+      "company": "Sterlite Technologies Limited",
+      "sector": "Telecommunication",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Sterlite Technologies Limited (NSE: STLTECH) Hits Upper Circuit on ₹3,000 Crore Capex Plan and AI Growth Outlook | Kalkine India",
+      "url": "https://www.kalkine.co.in/article/technology/sterlite-technologies-limited-nse-stltech-hits-upper-circuit-on-3000-crore-capex-plan-and-ai-growth-outlook",
+      "source": "kalkine.co.in",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Capacity Expansion",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Sterlite Technologies announces ₹3,000 crore capex plan focused on AI growth opportunities.",
       "enriched": true
     },
     {
