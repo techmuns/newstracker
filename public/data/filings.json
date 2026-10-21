@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T08:05:52.395Z",
+  "generated_at": "2026-10-21T19:15:44.350Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,156 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f46946348cda5",
+      "ticker": "OMNI",
+      "company": "Omnitech Engineering Limited",
+      "exchange": "NSE",
+      "date": "2026-10-21T22:09:59.000Z",
+      "category": "Press Release",
+      "title": "Omnitech Engineering Limited has informed the Exchange regarding a press release dated October 21, 2026, titled \"Omnitech Engineering Strengthens Aerospace & Defence Manufacturing Portfolio with New Commercial Orders\".",
+      "url": "https://nsearchives.nseindia.com/corporate/OMNITECHENG_21102026220933_Press_Release_Defence.pdf"
+    },
+    {
+      "id": "f5ebdcfee47b4",
+      "ticker": "OMNI",
+      "company": "Omnitech Engineering Limited",
+      "exchange": "NSE",
+      "date": "2026-10-21T22:02:50.000Z",
+      "category": "Press Release",
+      "title": "Omnitech Engineering Limited has informed the Exchange regarding a press release dated October 21, 2026, titled \"Omnitech Engineering Expands into Data Centre InfrastructureValue Chain; Commences Receiving Commercial OrdersFollowing Successful First Article Approval\".",
+      "url": "https://nsearchives.nseindia.com/corporate/OMNITECHENG_21102026220101_Press_Release_Data_Centre.pdf"
+    },
+    {
+      "id": "f8de317c7a02a",
+      "ticker": "URBANCO",
+      "company": "Urban Company Limited",
+      "exchange": "NSE",
+      "date": "2026-10-21T21:05:45.000Z",
+      "category": "Investor Presentation",
+      "title": "Urban Company Limited has informed the Exchange about Schedule of Analyst/ Investor Meeting to be held on October 26, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_21102026210408_Investor_Meeting_SE_Intimation_21102026.pdf"
+    },
+    {
+      "id": "fa735391de79e",
+      "ticker": "LAXMIDENTL",
+      "company": "Laxmi Dental Limited",
+      "exchange": "NSE",
+      "date": "2026-10-21T20:05:01.000Z",
+      "category": "Effect(s) on listed entity due to changed regulatory framework applicable",
+      "title": "Laxmi Dental Limited has informed the Exchange about Effect(s) on listed entity due to changed regulatory framework applicable",
+      "url": "https://nsearchives.nseindia.com/corporate/LAXMI_21102026200432_Intimation_of_Tariff_Refund.pdf"
+    },
+    {
+      "id": "f2004d7c453fc",
+      "ticker": "SBIFUNDS",
+      "company": "SBI Funds Management Limited",
+      "exchange": "NSE",
+      "date": "2026-10-21T19:24:26.000Z",
+      "category": "Disclosure",
+      "title": "SBI Funds Management Limited has informed the Exchange regarding ' Intimation of request received for Re-classification of entity classified as Promoter Group under Regulation 31A of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 '.",
+      "url": "https://nsearchives.nseindia.com/corporate/SBIMF2026_21102026192301_SE_ReclassificationOfPromoter.pdf"
+    },
+    {
+      "id": "fea540baea80f",
+      "ticker": "ONESOURCE",
+      "company": "Onesource Specialty Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-10-21T19:08:12.000Z",
+      "category": "Investor Presentation",
+      "title": "Onesource Specialty Pharma Limited has informed the Exchange about Schedule of the Earnings call dated October 27, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/ONESOURCECDMO_21102026190624_Earnings_Call.pdf"
+    },
+    {
+      "id": "f8889f35ede81",
+      "ticker": "DIXON",
+      "company": "Dixon Technologies (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-10-21T18:41:55.000Z",
+      "category": "Disclosure",
+      "title": "Dixon Technologies (India) Limited has informed the Exchange regarding 'Giving of guarantees or indemnity or becoming a surety for any third party'.",
+      "url": "https://nsearchives.nseindia.com/corporate/DIXON_21102026184143_Regulation30GuaranteeQuanta21102026.pdf"
+    },
+    {
+      "id": "f628590aee6b4",
+      "ticker": "PVRINOX",
+      "company": "PVR INOX Limited",
+      "exchange": "NSE",
+      "date": "2026-10-21T17:35:48.000Z",
+      "category": "Investor Presentation",
+      "title": "PVR INOX Limited has informed the Exchange that post announcement of Financial Results for the Second Quarter & half year ended 30th September, 2026 our Company s officials will be participating in conference call for analysts and investors, on Wednesday, 28th October, 2026 at 04:00 P.M. (IST).",
+      "url": "https://nsearchives.nseindia.com/corporate/PVRINOXLTD_21102026173451_PVRINOXCONCALLINTIMATION21102026.pdf"
+    },
+    {
+      "id": "f26899934bcb5",
+      "ticker": "KPITTECH",
+      "company": "KPIT Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-10-21T17:31:30.000Z",
+      "category": "Investor Presentation",
+      "title": "KPIT Technologies Limited has informed the Exchange about Post Earnings Conference Call of the Company is scheduled on Wednesday, October 28, 2026, at 17:30 Hrs. (IST). The details of the said call are enclosed",
+      "url": "https://nsearchives.nseindia.com/corporate/KPITTECH_21102026173055_KPIT_Earnings_Call_Intimation_Signed.pdf"
+    },
+    {
+      "id": "f69df35b019ec",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "exchange": "NSE",
+      "date": "2026-10-21T16:25:25.000Z",
+      "category": "Investor Presentation",
+      "title": "E2E Networks Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/E2E_21102026162502_E2E_Trans_Final.pdf"
+    },
+    {
+      "id": "fe89be810d80e",
+      "ticker": "HTEL",
+      "company": "Hy-Tech Engineers Limited",
+      "exchange": "NSE",
+      "date": "2026-10-21T15:57:33.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Hy-Tech Engineers Limited has informed the Exchange about Reconciliation of Share Capital Audit Report - Regulation 76 of SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended 30th September 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/HYTECH_21102026155722_Recon_Share_cap_audit_report.pdf"
+    },
+    {
+      "id": "f373b4167f752",
+      "ticker": "ADVAIT",
+      "company": "Advait Energy Transitions Limited",
+      "exchange": "NSE",
+      "date": "2026-10-21T15:46:42.000Z",
+      "category": "Disclosure",
+      "title": "Advait Energy Transitions Limited has informed the Exchange about Grant of Electricity Distribution Licence by HERC to Consortium in which the Company is a Member",
+      "url": "https://nsearchives.nseindia.com/corporate/ADVAITENERGY_21102026154500_AETL_SEintimation_s.pdf"
+    },
+    {
+      "id": "f1bba5483345c",
+      "ticker": "KSHINTL",
+      "company": "KSH International Limited",
+      "exchange": "NSE",
+      "date": "2026-10-21T15:25:07.000Z",
+      "category": "Investor Presentation",
+      "title": "KSH International Limited has informed the Exchange regarding Earnings Conference Call to discuss unaudited financial results for the quarter and six months period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/INTERNATIONAL_21102026152413_KSH_Intimation_of_Earnings_Call_signed.pdf"
+    },
+    {
+      "id": "ffc70154ae223",
+      "ticker": "HILINFRA",
+      "company": "Highway Infrastructure Limited",
+      "exchange": "NSE",
+      "date": "2026-10-21T14:37:10.000Z",
+      "category": "Shareholders meeting",
+      "title": "Highway Infrastructure Limited has informed the Exchange regarding Notice of Extraordinary General Meeting to be held on November 13, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/HIGHWAY123_21102026143652_HIL_EGM_Notice_21102026.pdf"
+    },
+    {
+      "id": "f6ae33cecc9ff",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "exchange": "NSE",
+      "date": "2026-10-21T13:40:27.000Z",
+      "category": "Disclosure",
+      "title": "Goldiam International Limited has informed the Exchange regarding 'Intimation regarding relocation of ORIGEM Retail Store to a Larger Premises at Phoenix Marketcity, Bengaluru.'.",
+      "url": "https://nsearchives.nseindia.com/corporate/GOLDIAM_21102026134014_Seventh_store_relocation_Opening_Update_intimation-21-10-26.pdf"
+    },
     {
       "id": "fe76afd2e518f",
       "ticker": "SGMART",
@@ -19856,156 +20006,6 @@
       "category": "Board Meeting",
       "title": "KPIT Technologies Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
       "url": "https://nsearchives.nseindia.com/corporate/KPITTECH_29072026131719_NSE_Results2.pdf"
-    },
-    {
-      "id": "f8b692a99a0d7",
-      "ticker": "DEVYANI",
-      "company": "Devyani International Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T13:10:10.000Z",
-      "category": "Allotment of Securities",
-      "title": "Devyani International Limited has informed the Exchange about Options to purchase securities",
-      "url": "https://nsearchives.nseindia.com/corporate/DEVYANI_29072026130954_ESOP_grant_29072026_sd.pdf"
-    },
-    {
-      "id": "fc181bede5283",
-      "ticker": "DEVYANI",
-      "company": "Devyani International Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T13:02:03.000Z",
-      "category": "Press Release",
-      "title": "Devyani International Limited has informed the Exchange regarding a press release dated July 29, 2026, titled \"Press Release\".",
-      "url": "https://nsearchives.nseindia.com/corporate/DEVYANI_29072026130146_Press_Release30062026_sd.pdf"
-    },
-    {
-      "id": "fcbfcfdbd6478",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T12:59:26.000Z",
-      "category": "Newspaper Publication",
-      "title": "Aurionpro Solutions Limited has informed the Exchange about Copy of Newspaper Publication",
-      "url": "https://nsearchives.nseindia.com/corporate/AURIONPRO_29072026125837_ASL_Financial_Results_30_June_2026_29072026_SD.pdf"
-    },
-    {
-      "id": "fe93df9198f35",
-      "ticker": "DEVYANI",
-      "company": "Devyani International Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T12:53:46.000Z",
-      "category": "Investor Presentation",
-      "title": "Devyani International Limited has informed the Exchange about Investor Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/DEVYANI_29072026125319_FY26_27_Q1_Investor_Presentation_sd.pdf"
-    },
-    {
-      "id": "f77ac90bf2889",
-      "ticker": "MONOLITH",
-      "company": "Monolithisch India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T12:40:46.000Z",
-      "category": "Investor Presentation",
-      "title": "Monolithisch India Limited has informed the Exchange about Transcript",
-      "url": "https://nsearchives.nseindia.com/corporate/MONOLITHISCH_29072026124030_MONOLITH_INVERSTORCALL_TRANSCRIPT_27072026.pdf"
-    },
-    {
-      "id": "fb8ba1365769f",
-      "ticker": "DEVYANI",
-      "company": "Devyani International Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T11:55:16.000Z",
-      "category": "Board Meeting",
-      "title": "Devyani International Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/DEVYANI_29072026115245_OutcomeResults30062026.pdf"
-    },
-    {
-      "id": "f9fcda721cdc6",
-      "ticker": "CARTRADE",
-      "company": "Cartrade Tech Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T11:09:04.000Z",
-      "category": "Change in Auditors",
-      "title": "Cartrade Tech Limited has informed the Exchange regarding Change in Auditors of the company.",
-      "url": "https://nsearchives.nseindia.com/corporate/CARTRADE_29072026110856_Reg_30_Intimation_-_Appointment_of_Internal_Auditors.pdf"
-    },
-    {
-      "id": "f623481d2ebfa",
-      "ticker": "CARTRADE",
-      "company": "Cartrade Tech Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T11:05:23.000Z",
-      "category": "Investor Presentation",
-      "title": "Cartrade Tech Limited has informed the Exchange about Investor Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/CARTRADE_29072026110514_Investor_Presentation-_updated.pdf"
-    },
-    {
-      "id": "f3af71938baaf",
-      "ticker": "CARTRADE",
-      "company": "Cartrade Tech Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T11:04:12.000Z",
-      "category": "Press Release",
-      "title": "Cartrade Tech Limited has informed the Exchange regarding a press release dated July 29, 2026, titled \"CarTrade Tech Records All-Time High Income of &#8377;230 Crore; EBITDA Surges 45% OLX India Income zooms 29%; EBITDA Jumps 76% \".",
-      "url": "https://nsearchives.nseindia.com/corporate/CARTRADE_29072026110353_Press_Release-_updated.pdf"
-    },
-    {
-      "id": "f4b90d84ea3e2",
-      "ticker": "CARTRADE",
-      "company": "Cartrade Tech Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T11:02:15.000Z",
-      "category": "Board Meeting",
-      "title": "Cartrade Tech Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/CARTRADE_29072026110121_Outcome_of_BM-_updated.pdf"
-    },
-    {
-      "id": "f626977b067b5",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T10:28:33.000Z",
-      "category": "Disclosure",
-      "title": "DEE Development Engineers Limited has informed the Exchange about Disclosure under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, in relation to the Trading approval for 5976096 equity shares allotted on a preferential basis",
-      "url": "https://nsearchives.nseindia.com/corporate/DDEL_29072026102803_NSEBSE_TRADING_APPROVAL.pdf"
-    },
-    {
-      "id": "ff1d57649e00b",
-      "ticker": "VIVIDEL",
-      "company": "Vivid Electromech Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T09:26:14.000Z",
-      "category": "Disclosure",
-      "title": "Vivid Electromech Limited has informed the Exchange about General Updates",
-      "url": "https://nsearchives.nseindia.com/corporate/VIVID_29072026092605_Intimation_of_Press_Release.pdf"
-    },
-    {
-      "id": "fd06567e22c6c",
-      "ticker": "CARTRADE",
-      "company": "Cartrade Tech Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T08:09:53.000Z",
-      "category": "Press Release",
-      "title": "Cartrade Tech Limited has informed the Exchange regarding a press release dated July 29, 2026, titled \"CarTrade Tech and Spinny Partner to Transform Used Car Buying and Selling\".",
-      "url": "https://nsearchives.nseindia.com/corporate/CARTRADE_29072026080944_CarTrade_-_Spinny_Revised_PR.pdf"
-    },
-    {
-      "id": "f801c48cf1be2",
-      "ticker": "URBANCO",
-      "company": "Urban Company Limited",
-      "exchange": "NSE",
-      "date": "2026-07-28T22:05:25.000Z",
-      "category": "ESOP/ESOS/ESPS",
-      "title": "Urban Company Limited has informed the Exchange regarding Grant of 56,66,350 stock options under the Employee Stock Option Scheme, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_28072026220458_UC_Grant_of_Stock_Options_28072026.pdf"
-    },
-    {
-      "id": "f5e9d687e1699",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "exchange": "NSE",
-      "date": "2026-07-28T21:08:11.000Z",
-      "category": "Investor Presentation",
-      "title": "Meesho Limited has informed the Exchange about Transcript of the Company''s Earnings Conference Call for Q1 FY27 held on July 23, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_28072026210631_ML_outcome_of_the_transcript_28072026.pdf"
     }
   ]
 }
