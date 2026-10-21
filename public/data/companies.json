@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T20:07:34.302Z",
+  "generated_at": "2026-10-21T18:56:25.029Z",
   "portfolio": [
     {
       "company": "Monolithisch India Limited",
@@ -17,14 +17,14 @@
       "sector": "Capital Goods"
     },
     {
-      "company": "Menon Bearings Limited",
-      "ticker": "MENONBE",
-      "sector": "Automobile and Auto Components"
-    },
-    {
       "company": "Shadowfax Technologies Limited",
       "ticker": "SHADOWFAX",
       "sector": "Services"
+    },
+    {
+      "company": "Menon Bearings Limited",
+      "ticker": "MENONBE",
+      "sector": "Automobile and Auto Components"
     },
     {
       "company": "Acutaas Chemicals Limited",
@@ -45,11 +45,6 @@
       "company": "Cartrade Tech Limited",
       "ticker": "CARTRADE",
       "sector": "Consumer Services"
-    },
-    {
-      "company": "KSH International Limited",
-      "ticker": "KSHINTL",
-      "sector": "Capital Goods"
     },
     {
       "company": "Saregama India Limited",
@@ -292,6 +287,11 @@
       "company": "KPIT Technologies Limited",
       "ticker": "KPITTECH",
       "sector": "Information Technology"
+    },
+    {
+      "company": "KSH International Limited",
+      "ticker": "KSHINTL",
+      "sector": "Capital Goods"
     },
     {
       "company": "Laxmi Dental Limited",
