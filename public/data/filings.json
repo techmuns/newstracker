@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:50:19.415Z",
+  "generated_at": "2026-10-21T08:05:52.395Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,26 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "fe76afd2e518f",
+      "ticker": "SGMART",
+      "company": "SG Mart Limited",
+      "exchange": "NSE",
+      "date": "2026-10-21T12:35:48.000Z",
+      "category": "Investor Presentation",
+      "title": "SG Mart Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/SGMART_21102026123231_SGMLCONCALLINTIMATION27102026.pdf"
+    },
+    {
+      "id": "f136c6598e81d",
+      "ticker": "EPIGRAL",
+      "company": "Epigral Limited",
+      "exchange": "NSE",
+      "date": "2026-10-21T10:07:43.000Z",
+      "category": "Investor Presentation",
+      "title": "Epigral Limited has informed the Exchange about Investor / Analyst Plant Visit on Thursday, 22.10.2026",
+      "url": "https://nsearchives.nseindia.com/corporate/MFL_21102026100708_PlantVisit22102026.pdf"
+    },
     {
       "id": "f40d932d7c066",
       "ticker": "PDSL",
@@ -19986,26 +20006,6 @@
       "category": "Investor Presentation",
       "title": "Meesho Limited has informed the Exchange about Transcript of the Company''s Earnings Conference Call for Q1 FY27 held on July 23, 2026.",
       "url": "https://nsearchives.nseindia.com/corporate/MEESHO_28072026210631_ML_outcome_of_the_transcript_28072026.pdf"
-    },
-    {
-      "id": "fc7dc8443d9f2",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-07-28T19:17:59.000Z",
-      "category": "Investor Presentation",
-      "title": "Aurionpro Solutions Limited has informed the Exchange about Link of Recording",
-      "url": "https://nsearchives.nseindia.com/corporate/AURIONPRO_28072026191648_ASL_Earnings_Call_Recording_280726_sd.pdf"
-    },
-    {
-      "id": "f63b224495d42",
-      "ticker": "STLTECH",
-      "company": "Sterlite Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-28T19:04:24.000Z",
-      "category": "Investor Presentation",
-      "title": "Sterlite Technologies Limited has informed the Exchange about Transcript of earning call held on July 24, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/STLTECH_28072026190327_SEintimationEarningscalltranscript_July2026.pdf"
     }
   ]
 }
