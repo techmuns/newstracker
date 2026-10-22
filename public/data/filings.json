@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T19:15:44.350Z",
+  "generated_at": "2026-10-22T08:05:08.762Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,46 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "fb484c97f147b",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "exchange": "NSE",
+      "date": "2026-10-22T13:15:53.000Z",
+      "category": "Press Release",
+      "title": "Sapphire Foods India Limited has informed the Exchange regarding a press release.",
+      "url": "https://nsearchives.nseindia.com/corporate/SAPPHIRE_22102026131443_Sapphire_Foods_Investor_Presentation.pdf"
+    },
+    {
+      "id": "f8b3fc156d699",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "exchange": "NSE",
+      "date": "2026-10-22T13:09:10.000Z",
+      "category": "Board Meeting",
+      "title": "Sapphire Foods India Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/SAPPHIRE_22102026130845_OutcomeofBM.pdf"
+    },
+    {
+      "id": "fd3efa6340d9b",
+      "ticker": "CMLL",
+      "company": "Caliber Mining and Logistics Limited",
+      "exchange": "NSE",
+      "date": "2026-10-22T13:04:08.000Z",
+      "category": "Alteration/revision(s)",
+      "title": "Caliber Mining and Logistics Limited has informed the Exchange about Alteration/revision(s) in the mechanism for payment on account of diesel price variation under Mining Service Contracts with subsidiaries of Coal India Limited",
+      "url": "https://nsearchives.nseindia.com/corporate/CMLL_22102026130346_Intimation_Amendment_to_Contract_signed.pdf"
+    },
+    {
+      "id": "f2e9048284cd1",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-10-22T12:25:15.000Z",
+      "category": "Press Release",
+      "title": "Aurionpro Solutions Limited has informed the Exchange regarding a press release dated October 22, 2026, titled \"Aurionpro and Mastercard partner to bring contactless payments to public transportation in North America.\".",
+      "url": "https://nsearchives.nseindia.com/corporate/AURIONPRO_22102026122440_ASL_Press_Release_Mastercard_sd.pdf"
+    },
     {
       "id": "f46946348cda5",
       "ticker": "OMNI",
@@ -2998,6 +3038,16 @@
       "url": "https://nsearchives.nseindia.com/corporate/JYOTICNC_NSE_02102026170834_BSEnseJCALVotingResultScrutinizerReport02102026.pdf"
     },
     {
+      "id": "f67489cf4f09a",
+      "ticker": "MONOLITH",
+      "company": "Monolithisch India Limited",
+      "exchange": "NSE",
+      "date": "2026-10-02T14:19:59.000Z",
+      "category": "Investor Presentation",
+      "title": "Monolithisch India Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/MONOLITHISCH_02102026141852_Investor_call_transcript_30092026.pdf"
+    },
+    {
       "id": "fe40ad2f2bf68",
       "ticker": "GANESHBE",
       "company": "Ganesh Benzoplast Limited",
@@ -5506,6 +5556,16 @@
       "category": "Price movement",
       "title": "Significant movement in price has been observed in INDO-MIM Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the market place so that the interest of the investors is safeguarded, had written to the company. INDO-MIM Limited has submitted their response.",
       "url": "https://nsearchives.nseindia.com/corporate/INDOMIM_24092026103911_INDO_MIM_-_Clarification_on_Price_Movement_-_24-09-2026.pdf"
+    },
+    {
+      "id": "f0956c1f48522",
+      "ticker": "CARTRADE",
+      "company": "Cartrade Tech Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T09:48:03.000Z",
+      "category": "Investor Presentation",
+      "title": "Cartrade Tech Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/CARTRADE_24092026094755_Investor_Presentation-_updated.pdf"
     },
     {
       "id": "ff6f6810a2aab",
@@ -8496,6 +8556,16 @@
       "category": "Dividend",
       "title": "Balu Forge Industries Limited has informed the Exchange that Board of Directors at its meeting held on September 07, 2026, recommended Final Dividend of Rs. 0.15 per equity share.",
       "url": "https://nsearchives.nseindia.com/corporate/BALUFORGE_07092026111332_Outcome.pdf"
+    },
+    {
+      "id": "f4c6148c4b19a",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T11:08:50.000Z",
+      "category": "Newspaper Publication",
+      "title": "Aurionpro Solutions Limited has informed the Exchange about Copy of Newspaper Publication",
+      "url": "https://nsearchives.nseindia.com/corporate/AURIONPRO_07092026110831_ASL_Newspaper_Publication_07092026_SD.pdf"
     },
     {
       "id": "f2e12022e8c2a",
@@ -19936,76 +20006,6 @@
       "category": "Change in Directors",
       "title": "MAS Financial Services Limited has informed the Exchange about change in Management",
       "url": "https://nsearchives.nseindia.com/corporate/MASFIN_29072026142614_OutcomeFINAL.pdf"
-    },
-    {
-      "id": "f1efb2c75346d",
-      "ticker": "MASFIN",
-      "company": "MAS Financial Services Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T14:21:30.000Z",
-      "category": "Board Meeting",
-      "title": "MAS Financial Services Limited has informed the Exchange regarding Outcome of Board Meeting held on July 29, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/MASFIN_29072026142107_OutcomeFINAL.pdf"
-    },
-    {
-      "id": "fe3fe7b1b4513",
-      "ticker": "BLACKBUCK",
-      "company": "BLACKBUCK LIMITED",
-      "exchange": "NSE",
-      "date": "2026-07-29T14:18:31.000Z",
-      "category": "Board Meeting",
-      "title": "BLACKBUCK LIMITED has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/ZINKA2015_29072026141212_Board_Meeting_Outcome.pdf"
-    },
-    {
-      "id": "f54884a5fad37",
-      "ticker": "MASFIN",
-      "company": "MAS Financial Services Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T14:17:09.000Z",
-      "category": "Board Meeting",
-      "title": "MAS Financial Services Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/MASFIN_29072026141606_OutcomeFINAL.pdf"
-    },
-    {
-      "id": "f698491c284d4",
-      "ticker": "KPITTECH",
-      "company": "KPIT Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T13:53:18.000Z",
-      "category": "Record Date",
-      "title": "KPIT Technologies Limited has informed the Exchange that Record date for the purpose of Dividend is 12-Aug-2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/KPITTECH_29072026134917_BM_Outcome_Signed.pdf"
-    },
-    {
-      "id": "f52b9a72fb2cb",
-      "ticker": "KPITTECH",
-      "company": "KPIT Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T13:46:45.000Z",
-      "category": "Disclosure",
-      "title": "KPIT Technologies Limited has informed the Exchange about authorization to determine materiality of an event or information and make disclosures to the Stock Exchange(s) with effect from July 29, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/KPITTECH_29072026134628_KMP_Material_Events_Reg_30_5__Signed.pdf"
-    },
-    {
-      "id": "feb85665b208c",
-      "ticker": "KPITTECH",
-      "company": "KPIT Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T13:33:28.000Z",
-      "category": "Investor Presentation",
-      "title": "KPIT Technologies Limited has informed the Exchange about Investor Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/KPITTECH_29072026133311_Investor_Presentation_June_2026_signed.pdf"
-    },
-    {
-      "id": "f7193bf1c70fe",
-      "ticker": "KPITTECH",
-      "company": "KPIT Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T13:18:25.000Z",
-      "category": "Board Meeting",
-      "title": "KPIT Technologies Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/KPITTECH_29072026131719_NSE_Results2.pdf"
     }
   ]
 }
