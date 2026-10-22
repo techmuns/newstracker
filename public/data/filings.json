@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T08:05:08.762Z",
+  "generated_at": "2026-10-22T18:56:42.523Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,66 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "fa8d4ecb4b358",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "exchange": "NSE",
+      "date": "2026-10-22T20:39:39.000Z",
+      "category": "Investor Presentation",
+      "title": "Sapphire Foods India Limited has informed the Exchange about Link of Recording",
+      "url": "https://nsearchives.nseindia.com/corporate/SAPPHIRE_22102026203751_Sapphire_Foods_Audio_Recording_Q2_FY27_Conference_Call.pdf"
+    },
+    {
+      "id": "f30dbfdb41916",
+      "ticker": "STLTECH",
+      "company": "Sterlite Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-10-22T16:09:24.000Z",
+      "category": "ESOP/ESOS/ESPS",
+      "title": "Sterlite Technologies Limited has informed the Exchange regarding Grant of 82158 Options.",
+      "url": "https://nsearchives.nseindia.com/corporate/STLTECH_22102026160615_ESOP_grant_intimation_22Oct2026_UPDATED_signed.pdf"
+    },
+    {
+      "id": "f1d91a9d2c49b",
+      "ticker": "LENSKART",
+      "company": "Lenskart Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-10-22T15:30:27.000Z",
+      "category": "Investor Presentation",
+      "title": "Lenskart Solutions Limited has informed the Exchange about schedule of Earnings Call for the quarter and half year ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/LENSKART_22102026152954_Reg29_-_Earning_Call_-_SE_Intimation_signed.pdf"
+    },
+    {
+      "id": "f8e2131803c35",
+      "ticker": "LGEINDIA",
+      "company": "LG Electronics India Limited",
+      "exchange": "NSE",
+      "date": "2026-10-22T15:12:54.000Z",
+      "category": "Press Release",
+      "title": "LG Electronics India Limited has informed the Exchange regarding a press release dated October 22, 2026, titled \"LG Electronics India Limited earns Great Place to Work® certification third year-in-a-row\".",
+      "url": "https://nsearchives.nseindia.com/corporate/LGEINDIA_22102026151012_Press_Release_dated_22nd_October_2026.pdf"
+    },
+    {
+      "id": "f74890a71980c",
+      "ticker": "KSHINTL",
+      "company": "KSH International Limited",
+      "exchange": "NSE",
+      "date": "2026-10-22T14:14:37.000Z",
+      "category": "Disclosure",
+      "title": "KSH International Limited has informed the Exchange regarding 'Receipt of Manufacturer approval from Power Grid Corporation of India Limited'.",
+      "url": "https://nsearchives.nseindia.com/corporate/INTERNATIONAL_22102026140922_KSH_IntimationofrecieptofManufacturerapproval22102026.pdf"
+    },
+    {
+      "id": "fe0eccdfd6248",
+      "ticker": "ADROITIND",
+      "company": "Adroit Industries (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-10-22T13:38:55.000Z",
+      "category": "Investor Presentation",
+      "title": "Adroit Industries (India) Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/ADROIT_22102026133758_Intimation_of_Investor_Meet.pdf"
+    },
     {
       "id": "fb484c97f147b",
       "ticker": "SAPPHIRE",
@@ -19946,66 +20006,6 @@
       "category": "Shareholders meeting",
       "title": "Can Fin Homes Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on July 29, 2026",
       "url": "https://nsearchives.nseindia.com/corporate/CANFINHOME_29072026162749_39_AGM_Proceedings_2026.pdf"
-    },
-    {
-      "id": "f34919b3751d7",
-      "ticker": "KPITTECH",
-      "company": "KPIT Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T15:59:49.000Z",
-      "category": "Change in Directors",
-      "title": "KPIT Technologies Limited has informed the Exchange about changes in Directors and Senior Management of the Company.",
-      "url": "https://nsearchives.nseindia.com/corporate/KPITTECH_29072026155933_BM_Outcome_Signed.pdf"
-    },
-    {
-      "id": "f4c11a665069c",
-      "ticker": "EPIGRAL",
-      "company": "Epigral Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T15:58:57.000Z",
-      "category": "Newspaper Publication",
-      "title": "Epigral Limited has informed the Exchange about Copy of Newspaper Publication - Un-Audited Financial Results for the First Quarter ended 30.06.2026",
-      "url": "https://nsearchives.nseindia.com/corporate/MFL_29072026155847_EpigralNewsAdv30062026.pdf"
-    },
-    {
-      "id": "f2f3077b85128",
-      "ticker": "MASFIN",
-      "company": "MAS Financial Services Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T14:45:58.000Z",
-      "category": "Press Release",
-      "title": "MAS Financial Services Limited has informed the Exchange regarding a press release dated July 29, 2026, titled \"Press Release dated 29.07.2026\".",
-      "url": "https://nsearchives.nseindia.com/corporate/MASFIN_29072026144551_Press_Release_Final.pdf"
-    },
-    {
-      "id": "f30afcbc57e14",
-      "ticker": "MASFIN",
-      "company": "MAS Financial Services Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T14:42:26.000Z",
-      "category": "Disclosure",
-      "title": "AGM to be held on September 2, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/MASFIN_29072026144212_OutcomeFINAL_compressed.pdf"
-    },
-    {
-      "id": "f20f4335f1047",
-      "ticker": "BLACKBUCK",
-      "company": "BLACKBUCK LIMITED",
-      "exchange": "NSE",
-      "date": "2026-07-29T14:38:52.000Z",
-      "category": "Investor Presentation",
-      "title": "BLACKBUCK LIMITED has informed the Exchange about Investor Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/ZINKA2015_29072026143749_Announcement_Investor_Meet_Presentation.pdf"
-    },
-    {
-      "id": "fa6a8d9e2ba31",
-      "ticker": "MASFIN",
-      "company": "MAS Financial Services Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T14:26:22.000Z",
-      "category": "Change in Directors",
-      "title": "MAS Financial Services Limited has informed the Exchange about change in Management",
-      "url": "https://nsearchives.nseindia.com/corporate/MASFIN_29072026142614_OutcomeFINAL.pdf"
     }
   ]
 }
