@@ -1,13 +1,150 @@
 {
-  "generated_at": "2026-10-22T08:21:41.301Z",
+  "generated_at": "2026-10-22T18:47:57.707Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 98,
-    "watchlist": 415,
-    "universe": 49,
-    "total": 464
+    "portfolio": 99,
+    "watchlist": 424,
+    "universe": 50,
+    "total": 474
   },
   "items": [
+    {
+      "id": "nfda3305d7b21",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Earnings call transcript: Sapphire Foods posts strong Q2 2026 growth By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaWpSOVdSNXNtYVBBWmwwdGpBU09RNXhqQ1FQS1FmQngxWTZPTVIxMTU1TGh6RDY0SUhLQmZDcm9YeVN3dzN0TDZKcllQdmIxT3g5UWZtdDR1MXRvVTlyUDV4OXVvdTdmVXVmRUY5U0dsRWZ2enJRWVZObmc4dDR0QlNPZnNJY3NIZ3ItRzRDWGh0c2hIX3lwalYtM3AxNFV1UEZKbUVnQkh3VWYzMERrZXNCZ1pKdzFxZkVGQmc2ckZLaFdVRmg4?oc=5",
+      "source": "Investing.com India",
+      "date": "2026-10-22T11:29:20.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Sapphire Foods reported strong Q2 2026 results showing growth in its restaurant business.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "naecde454e9e8",
+      "ticker": "KSHINTL",
+      "company": "KSH International Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "KSH International Limited Secures Major Approval from Power Grid Corporation of India Limited for 765 kV Class Conductors",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYTJlSC1KODEzeW9JZ2RmWE8yR1RyM0VCRWVJd3gwQURIOUdmTjc2eUtvTEgzOTNRbEs3bkNCVTFYbF9WYk9ONG9iZHg0QThNWW1FNHphRy0zelp0NHBVMFVPeUlMQW9JVktDSHY3YlMwUEY5dWZWQ21jVXBfdGh5TXZoWHZtSmFudlJBT2xDcTR2SHZnYktSZklyVVpybFNOLXctREhaOGFtVzMzbVlnc3pmTHFOTmVOS3NZ?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-10-22T11:13:10.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "KSH International received Power Grid approval to supply 765 kV conductors, opening major transmission market.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nea16f56539c6",
+      "ticker": "THEME",
+      "company": "Specialty Chemicals",
+      "sector": "Chemicals",
+      "scope": [
+        "universe"
+      ],
+      "title": "Himadri Speciality Chemicals plans Rs 1,613-cr capacity expansion across key businesses",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPNU9nX1N4STJ5OFRoWk1vZzV1RUtwelZjMWdlQUpEYlhBY19WN0xwekpSSDhHSWZoc1lqUm93WGFOcFU1OGZTQTJ1eHJOZl9TM29kQU9ObmNBYTN3d2VQOWdaSTRsTWVrb0d2TkhaWWc3cV9jbl9aVl81VjBORWZoZVlPcWItNE9NTnI0Qmd2OTdHY2tzbjk0V2QtT3dIQzJvZVFzTlg5Y0xwX2FKQkNTZThST2FvWmJZQnBOcC1FOXFxTEk0blVzN0tnbThfd3BYS1dFNktsOXF6OWVQVTNrM2R2X0hEWWtxZnFHWENLeTF1Q0VPU0JweGJ2bXNXT2QwOW1BUHFJY1RFRDJIdTNtatIBlgJBVV95cUxNOWhCTjIxMXJ6bzFRdUxIWnUyRjdTQzZPVzJmTG5ienUweXBRTkQtaFFxa0F4R2g3d2R6Vm43b2UwbFVRa054NHBQV255SzE4amJrN0JULWhKRVdEWXo1bC1PM0tTTENEVjhGTS1QaE94UnNEZW9udTNOUXVtSXZnS0NfVno1NmhkekNqQVJrR0UyZGhLUDk5QXZvVW5qOEtjS1liRF94eW9TSGpJWDVJWVNQWG5YdjFyMnB4R3ZPNUdSaGxONEJFYmRvUm93ZkZKRzlLMGtLZnhEeExBRzBTcFRGVVNHREhCSUxuRWtiVkk3UmplbHU0eWVFeFZ3UnotMGRZMHRJMFhEbTJudkQ5a2huWnZTdw?oc=5",
+      "source": "The Economic Times",
+      "date": "2026-10-22T10:15:16.000Z",
+      "topic": "Growth",
+      "keyword": "Capacity Expansion",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Himadri Speciality Chemicals plans Rs 1,613 crore capacity expansion across its key business segments.",
+      "enriched": true
+    },
+    {
+      "id": "n24accdecff48",
+      "ticker": "KSHINTL",
+      "company": "KSH International Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "KSH International gets PGCIL approval for 765 kV transformer components",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOXFPTEVldEdWUG9lWHJTVWx6TnY5OE16eVBwd3lHZkt5TUZWREoyVVBwU0FOWXllLS1fNm1wRWlMbDlVRE9peElJeVVrNV9tRS1feGhiZHJJN0lDOUVwcjNjTXM2NXpsd2N2Zl9McnVUZ3VMUWllX3VGd2JrNFp0Q2Fob2xmeFJRTW02dFlSUlF4WkRJUGZUUXoyMGptRkZWSDRMNGwwMFQ2YlhMTlFROTRLN05jTmp3bThOUmVjRk1WSzQ?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-10-22T09:27:42.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "KSH International got PGCIL approval for 765 kV transformer components for power transmission projects.",
+      "enriched": true
+    },
+    {
+      "id": "n7f6821323e3b",
+      "ticker": "KSHINTL",
+      "company": "KSH International Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "KSH International Secures PGCIL Approval for High-Voltage Power Transmission Conductors",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPU1dmRlFodlNlVm40NnA1aF9UOWcwNmdUUTctQklnbVhyN0lYMDFEYWdoQlc0V0VKM3ZKcXhiNnBFUkJBX3dYMzloU0FiV29hbmNpdVYyOWZFTG9hYmFoUkJJNHBoZVQ4QXRVVGZpOW9sWU5FRWlMV2Q5ZGwybTgwM0paZnlvWU9zWFd3WmZxQV83QmVnRHR1SXFwb0NrOVg4aXVpUjJ4VDg3Y0I4RGdNSXZoWmhPQTQzSklocXRkTnVGQjlIVTNiVGpYS0RLZWkzb3ZuVG5xcGRUUnJPak5kalZpei11ZEFVWHFoV1l1Y0RKbXlaYWhXSFQ1dnVPZGhnRlotM2IwZXV1VTAxZGNia2xYQjdiUQ?oc=5",
+      "source": "Whalesbook",
+      "date": "2026-10-22T08:47:50.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "KSH International secured PGCIL approval for high-voltage power transmission conductors supply.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nff9b8f9981b0",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Aurionpro Solutions Mastercard Transit Partnership North America",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNnZfU2VSOFB6NzQ5YTRTMkQ1dzZSS3FtWkRJVTNLZDFfRUF0dmlwa2VyLUpJd3NjRVZ1Sy1QU1R6Um1kVFVHMjRXTDJfYzJJS1hzUFhtMFJFa0hSRTMwcDdTTkFFNFRiZnc5UzdUSVVzWmVhcUVkUGFMQkVydXFlb2EwcTJvZm5DdWZkUS1nelV4V2FXdkpHUUE0MEVpN3plYlIyLWwyUUludzhhTkxtVnZXYUdMNWxtRU9uby1Hd3g?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-10-22T06:55:00.000Z",
+      "topic": "Deals",
+      "keyword": "Partnership",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Aurionpro Solutions partnered with Mastercard for transit payment solutions in North America.",
+      "enriched": true
+    },
+    {
+      "id": "n5864a98a5bb5",
+      "ticker": "MENONBE",
+      "company": "Menon Bearings Limited",
+      "sector": "Automobile and Auto Components",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Menon Bearings MENONBE Q2 H1 FY27 Earnings Concall",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnBpX1l2eDk2VVRDT3gwaE0yQnNXdE1sQ3RsSlJHYXVjakFGYV9NVFI1SkR3SzlZS1NvV2RyaVNERWtmZTA4VE5PeVZIYzRUR0xVckdGYTBWeWJ2TGZMRkdMR25nS090RHF5R1Mwek9xeVh2NFFHa2M1NjhnWFJNVThNVjJXMU93U2JVLXpJUlhUbXF2UFN5aVE5cnhoWG1jTld1QXV0WHN6MngtS1pCVlBNbXN0d0VyT0ZTRg?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-10-22T04:46:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Menon Bearings held earnings call to discuss Q2 and H1 FY27 financial performance.",
+      "enriched": true
+    },
     {
       "id": "n589ee39d471f",
       "ticker": "ZENTEC",
@@ -44,7 +181,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Alembic Pharma got US FDA approval for generic ear infection drug.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -64,7 +201,7 @@
       "importance": "medium",
       "mood": "negative",
       "takeaway": "Fire at Zen Technologies' subsidiary Unistring Tech Solutions' Hyderabad unit; minimal impact expected.",
-      "sources_count": 5,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -607,7 +744,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Aurionpro wins ₹150 crore data centre order from a global hyperscaler client.",
-      "sources_count": 7,
+      "sources_count": 6,
       "enriched": true
     },
     {
@@ -4752,7 +4889,8 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Sapphire Foods India reported Q1 FY27 earnings with total income up 14.4% year-on-year.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n1c4c7eec1877",
@@ -7825,25 +7963,6 @@
       "enriched": true
     },
     {
-      "id": "n1e1fffd69b25",
-      "ticker": "ZENTEC",
-      "company": "Zen Technologies Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Zen Technologies Secures Rs 1,775 mn Defence Order",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZWtFcmVGcTZ3X096elNscERkQUpxYUFWOEpoaHNOUl9GY3BGTGNMZXV2emxmYlU4VjI1WGswSDNQSXVpRUZ5Sm8tMGVsT3F3eDQxbzhyQ0t1dzNOMzRHb0ZmR3hJSnRYb1JvYU1kaFctMUNzc3RtckduNDFBbHk4dk5pU2ZSQlIzUWExSUZxWklsSXd5SWkybW1VYnVYb0JnU0ppbDIwaHNnY0l4MVlKb0NRdlUyYUti?oc=5",
-      "source": "Construction World India",
-      "date": "2026-07-24T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Zen Technologies won a defence order worth Rs 1,775 million.",
-      "enriched": true
-    },
-    {
       "id": "n996916ced754",
       "ticker": "THEME",
       "company": "Specialty Chemicals",
@@ -7860,6 +7979,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Pon Pure Chemicals is expanding capacity and focusing on innovation in specialty chemicals.",
+      "enriched": true
+    },
+    {
+      "id": "n1e1fffd69b25",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Zen Technologies Secures Rs 1,775 mn Defence Order",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZWtFcmVGcTZ3X096elNscERkQUpxYUFWOEpoaHNOUl9GY3BGTGNMZXV2emxmYlU4VjI1WGswSDNQSXVpRUZ5Sm8tMGVsT3F3eDQxbzhyQ0t1dzNOMzRHb0ZmR3hJSnRYb1JvYU1kaFctMUNzc3RtckduNDFBbHk4dk5pU2ZSQlIzUWExSUZxWklsSXd5SWkybW1VYnVYb0JnU0ppbDIwaHNnY0l4MVlKb0NRdlUyYUti?oc=5",
+      "source": "Construction World India",
+      "date": "2026-07-24T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Zen Technologies won a defence order worth Rs 1,775 million.",
       "enriched": true
     },
     {
@@ -8037,6 +8175,26 @@
       "enriched": true
     },
     {
+      "id": "nd0b931225822",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Sapphire Foods Q2 Results: Merger ke kharche ne diya jhatka, company gayi loss mein | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/consumer-products/Sapphire-Foods-Reports-Q2-Loss-of-Rs-15-Million-Amid-Merger-Process/6ad9be9ab2eb76fd08c82fe8",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Merger",
+      "importance": "medium",
+      "mood": "negative",
+      "takeaway": "Sapphire Foods reported a loss in Q2 due to merger-related expenses.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
       "id": "ncf0e2f353a08",
       "ticker": "ZENTEC",
       "company": "Zen Technologies Limited",
@@ -8091,26 +8249,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Power Mech secured a ₹320 crore order from Vedanta Aluminium.",
-      "enriched": true
-    },
-    {
-      "id": "nd0b931225822",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Sapphire Foods Q2 Results: Merger ke kharche ne diya jhatka, company gayi loss mein | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/Hinglish/consumer-products/Sapphire-Foods-Reports-Q2-Loss-of-Rs-15-Million-Amid-Merger-Process/6ad9be9ab2eb76fd08c82fe8",
-      "source": "whalesbook.com",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Merger",
-      "importance": "medium",
-      "mood": "negative",
-      "takeaway": "Sapphire Foods reported a loss in Q2 due to merger-related expenses.",
-      "sources_count": 3,
       "enriched": true
     },
     {
@@ -8363,6 +8501,44 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Virtuoso Optoelectronics board to meet regarding share issue.",
+      "enriched": true
+    },
+    {
+      "id": "n7c5795799dcb",
+      "ticker": "SHIPROCKET",
+      "company": "Shiprocket Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Shiprocket Enters Food Delivery With fastrr Direct Ordering",
+      "url": "https://startuptalky.com/news/shiprocket-expands-into-food-delivery/",
+      "source": "startuptalky.com",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Partnership",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Shiprocket enters food delivery market with new direct ordering platform for restaurants.",
+      "enriched": true
+    },
+    {
+      "id": "n34bf0aab1ffe",
+      "ticker": "SHIPROCKET",
+      "company": "Shiprocket Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Shiprocket Launches Direct-Ordering Tool For Restaurants | Whalesbook",
+      "url": "https://www.whalesbook.com/news/English/technology/Shiprocket-Launches-Direct-Ordering-Tool-For-Restaurants/6ad9997579a16deaeaf9aca7",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Shiprocket launches direct-ordering tool for restaurants, expanding into food delivery.",
       "enriched": true
     },
     {
@@ -9024,6 +9200,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Omnitech Engineering enters data centre supply chain and secures defence orders.",
+      "enriched": true
+    },
+    {
+      "id": "n5e95aaf3d8ed",
+      "ticker": "OMNI",
+      "company": "Omnitech Engineering Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Omnitech Engineering Expands into Data Centre Infrastructure Value Chain | EquityBulls",
+      "url": "https://www.equitybulls.com/news/377420/omnitech-engineering-expands-into-data-centre-infrastructure-value-chain",
+      "source": "equitybulls.com",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Omnitech Engineering enters data centre infrastructure business, expanding its service offerings.",
       "enriched": true
     }
   ]

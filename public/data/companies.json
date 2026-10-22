@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T18:56:25.029Z",
+  "generated_at": "2026-10-22T18:44:50.978Z",
   "portfolio": [
     {
       "company": "Monolithisch India Limited",
@@ -12,9 +12,9 @@
       "sector": "Healthcare"
     },
     {
-      "company": "Vivid Electromech Limited",
-      "ticker": "VIVIDEL",
-      "sector": "Capital Goods"
+      "company": "Menon Bearings Limited",
+      "ticker": "MENONBE",
+      "sector": "Automobile and Auto Components"
     },
     {
       "company": "Shadowfax Technologies Limited",
@@ -22,14 +22,14 @@
       "sector": "Services"
     },
     {
-      "company": "Menon Bearings Limited",
-      "ticker": "MENONBE",
-      "sector": "Automobile and Auto Components"
-    },
-    {
       "company": "Acutaas Chemicals Limited",
       "ticker": "ACUTAAS",
       "sector": "Healthcare"
+    },
+    {
+      "company": "Vivid Electromech Limited",
+      "ticker": "VIVIDEL",
+      "sector": "Capital Goods"
     },
     {
       "company": "Stylam Industries Limited",
