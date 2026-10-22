@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-21T18:59:25.600Z",
+  "generated_at": "2026-10-22T08:21:41.301Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 99,
-    "watchlist": 414,
+    "portfolio": 98,
+    "watchlist": 415,
     "universe": 49,
-    "total": 463
+    "total": 464
   },
   "items": [
     {
@@ -375,6 +375,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Zen Technologies expects a new defence order in 6-12 months, focusing on robotics and drones.",
+      "enriched": true
+    },
+    {
+      "id": "nbb04c9eb1b19",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Goldiam International Q2 2026 Earnings: Revenue Climbs 25% YoY to ₹976.86 Crore as EPS Tops ₹11 - Upward Estimate Revision",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYVpUelE0X1R2NGhLMTBDTWc4cVBnSno2cTYzVHIwRzhmbHh6UDg2THlKUlZyS0lXZUliaEQ1YlNmSkRnRlJId0dURW55ZFMtdU5VbmpNd053eUdGUFpzSF9TTGtZTG1tQ3dGMXMzeXVNUzkyamxELXNUYWVrTXZ0UndXbWFQdDF5bXlFcGhzdmIxOGdEczVFRVNRVktvcHJLUURvbWx6cUxEWmNtVHlqU2IzaTc2MFpybkJ1TlptMWhicUNsdWdHdEhrcTRtdw?oc=5",
+      "source": "https://www.siam.in/",
+      "date": "2026-10-11T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Goldiam International Q2 revenue grew 25% to ₹977 crore with earnings per share exceeding ₹11.",
       "enriched": true
     },
     {
@@ -8018,26 +8037,6 @@
       "enriched": true
     },
     {
-      "id": "n4d48f5ae9840",
-      "ticker": "SHADOWFAX",
-      "company": "Shadowfax Technologies Limited",
-      "sector": "Services",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Shadowfax denies knowledge of Flipkart's reported Rs 700 crore stake sale plan",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNk80NDRCa2Q4MVAweTJuOGVHOEpSN3dYWk9IS0ZkQ1U0LURvU29RaWNIZTBtNjB0bHdITVMtYVBHTVNjYjhFNXJJRDlKb3FSVGd3UnAwQnEyQ2ZsZ2VzY3IzbGhOaXAwQUNDMUYwVHFDZDhKaWZiOUhoRC1iZm9UQ3Y1WW1wdm1RbzF1UURlNEZXblhFMnRHei1ubW1jWFFyQktZcDJaLVIzMEkyWDVyNmZZT0J0MGxxM3lub29qRlNSN2gyM01ieUVlaDVwSEhvODhrM0QtS1lkaHhnZlRZYmRpbGkwN3M?oc=5",
-      "source": "Business Upturn",
-      "date": "2026-07-14T07:00:00.000Z",
-      "topic": "Deals",
-      "keyword": "Stake sale",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Shadowfax denies reports of Flipkart planning Rs 700 crore stake sale.",
-      "enriched": true
-    },
-    {
       "id": "ncf0e2f353a08",
       "ticker": "ZENTEC",
       "company": "Zen Technologies Limited",
@@ -8092,6 +8091,26 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Power Mech secured a ₹320 crore order from Vedanta Aluminium.",
+      "enriched": true
+    },
+    {
+      "id": "nd0b931225822",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Sapphire Foods Q2 Results: Merger ke kharche ne diya jhatka, company gayi loss mein | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/consumer-products/Sapphire-Foods-Reports-Q2-Loss-of-Rs-15-Million-Amid-Merger-Process/6ad9be9ab2eb76fd08c82fe8",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Merger",
+      "importance": "medium",
+      "mood": "negative",
+      "takeaway": "Sapphire Foods reported a loss in Q2 due to merger-related expenses.",
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -8150,6 +8169,25 @@
       "mood": "positive",
       "takeaway": "Standard Engineering gets exchange approval to raise Rs 71 crore through preferential share issue.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n3035e0c478e8",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Goldiam International QIP funds deployed in investments amid retail expansion delays | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/consumer-products/Goldiam-International-QIP-funds-deployed-in-investments-amid-retail-expansion-delays/6a76af6010bce1fd2045bda5",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "QIP",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "QIP funds deployed in investments while retail expansion faces delays",
       "enriched": true
     },
     {
@@ -8248,25 +8286,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Sonata Software expands Microsoft partnership focusing on enterprise AI and agentic technology.",
-      "enriched": true
-    },
-    {
-      "id": "n3035e0c478e8",
-      "ticker": "GOLDIAM",
-      "company": "Goldiam International Limited",
-      "sector": "Consumer Durables",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Goldiam International QIP funds deployed in investments amid retail expansion delays | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/English/consumer-products/Goldiam-International-QIP-funds-deployed-in-investments-amid-retail-expansion-delays/6a76af6010bce1fd2045bda5",
-      "source": "whalesbook.com",
-      "date": "",
-      "topic": "Money",
-      "keyword": "QIP",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "QIP funds deployed in investments while retail expansion faces delays",
       "enriched": true
     },
     {
