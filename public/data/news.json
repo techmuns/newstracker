@@ -1,13 +1,33 @@
 {
-  "generated_at": "2026-10-22T18:47:57.707Z",
+  "generated_at": "2026-10-23T07:56:08.935Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 99,
-    "watchlist": 424,
+    "watchlist": 425,
     "universe": 50,
-    "total": 474
+    "total": 475
   },
   "items": [
+    {
+      "id": "n3f12d02cd119",
+      "ticker": "STLTECH",
+      "company": "Sterlite Technologies Limited",
+      "sector": "Telecommunication",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Sterlite Technologies: Monitoring Report Confirms QIP Fund Utilization",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTGtjX21EeWtJOXVCMGRtYWx3b2VIcVozMWtRd2xlUEg0U0RIVjE2bEpjWWI0eUtJQlJNWE1aa1B3S00xLU9xS1FlSXpuOXVJaTU4dHdEOWltOVpkeExfLUZJbDhsckNHX2tmTEYwUnNlYVdGRFl6MzZDZDhsbjBFOXBQNFV6dk12dEwxMjFOa1A1MU8wS3VHcWdWempHUHRDalE?oc=5",
+      "source": "InvestyWise",
+      "date": "2026-10-23T07:41:42.000Z",
+      "topic": "Money",
+      "keyword": "QIP",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Monitoring report confirms Sterlite Technologies used QIP funds as planned.",
+      "sources_count": 2,
+      "enriched": true
+    },
     {
       "id": "nfda3305d7b21",
       "ticker": "SAPPHIRE",
@@ -65,7 +85,8 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Himadri Speciality Chemicals plans Rs 1,613 crore capacity expansion across its key business segments.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 3
     },
     {
       "id": "n24accdecff48",
@@ -241,7 +262,8 @@
       "importance": "medium",
       "mood": "negative",
       "takeaway": "Fire at Zen Technologies subsidiary causes estimated loss of ₹4 crore.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n148ee571aa2a",
@@ -280,7 +302,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Acutaas Chemicals completed 100% acquisition of Enchem Ami Organics.",
-      "sources_count": 3,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -456,6 +478,26 @@
       "mood": "positive",
       "takeaway": "Transformers & Rectifiers order book grew 32% year-on-year to ₹7,237 crore.",
       "enriched": true
+    },
+    {
+      "id": "n7ed327ca9d0e",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Aurionpro strengthens data centre growth momentum with Rs 1.5 billion follow-on order from global hyperscaler",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQXByQVR2Y0k3Vk03a09rdHZBX05lTWVRaHNwRjVxZU1uU3owTmFtNUxVSnZFUjVuVks4aF9wbjZWdnBZbnBfeERpeGVjQzVpYVhnejZvb0ZkbzVrdWh1VlBRRDVCZS1XdUNaa2lMOF9zOXZuYUNKODNkYVVYNkdsdVlOSGdKUXp2OGRGSGRodkZYRVpTTUZPR1QzcDJzbWlHQWpXUFBKN21qbmcxS25ZVnNrb1VVbWRERTdpeXJOQW9RUnFuUlRvYlIxdHdLLW1lMGZBWk4yVl94dkhlQ2FsVUZlakM1QQ?oc=5",
+      "source": "tele.net.in",
+      "date": "2026-10-13T13:28:19.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Aurionpro wins Rs 150 crore follow-on data centre order from global hyperscaler.",
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n70098fd326f6",
@@ -725,26 +767,6 @@
       "importance": "medium",
       "mood": "negative",
       "takeaway": "Zen Technologies Q2 revenue fell 29% year-on-year, EPS at Rs 21.52.",
-      "enriched": true
-    },
-    {
-      "id": "ncfbe863cede6",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Aurionpro Bags ₹150 Crore Data Centre Order From Global Hyperscaler",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM0F0Rkt6MnFsOU5nbWl6SUJNUnEtdGpxZVRLWUh5eEFoUFBJWVFBRmlLR2lyZlBZZGVPV2c0ZHR3c0tfQVN3N0FINzJ5RGNVWi1VdUdlMXJNb2tFWW9lMmxSX0VDSDJScDE5OUtMOGhXNXI1Uk9YOXE1WHBxc0NPQXdsTTJsMHZqNktaUHN2aVlWS1ZRbl9Ed1lQQmpnRDFOcGQycEM4NDVIczjSAbABQVVfeXFMUGNxcnl5Z0RUY0MtdVVZeEtqQTRKb01maktNTzc1SXppN1k4c1BDT0FubHFJLTZWRVc1Q1ZPcHBSc29JM1NhWXJwdHRyZzBXZmdRWkYtS1FzMm0wWlhUd3lFZUlwLUFRdldWY25WN2d5a04ySTVTNUtSVTU3SW1GeXU0Q01oeWZ4ZU5UdFNzR3N4RWl5Z255WldOcmpBcExUc1lrY3JIdWNHVEZvUDZySHA?oc=5",
-      "source": "freepressjournal.in",
-      "date": "2026-10-05T04:35:01.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Aurionpro wins ₹150 crore data centre order from a global hyperscaler client.",
-      "sources_count": 6,
       "enriched": true
     },
     {
@@ -1055,6 +1077,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "STL Networks received order from RailTel, stock hit upper circuit.",
+      "enriched": true
+    },
+    {
+      "id": "n9b0208ddb745",
+      "ticker": "KANOHAR",
+      "company": "Kanohar Electricals Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Kanohar Electricals Bags Major Transformer Manufacturing Order Worth Over Rs 250 Crore from Central CPSU",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZjRQQUtsVVdvbEh1NzJxRTJpaHpkUWdWdTNKNDBoTDBJUDBPN2FpZXh6Uk5nSWxFNzlRektHV1YzV09abXQ4Rm5fRUtQdWJYZlJVa0ZtZndCUU80UjNxdFlUYnBBT1BnQk9pRWlCRW8wbzZQUFcxclRZMDlLY3BfeFJFT1lQeGhwVTJuR2w3UTlfeHZ1WmtpLXJJN3N5RE5PSDRtUE11V1ZfWVJMLW1mVnhfRmlpUWpGejNaYw?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-09-30T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Kanohar Electricals secures transformer order worth over Rs 250 crore from central CPSU.",
       "enriched": true
     },
     {
@@ -5468,25 +5509,6 @@
       "enriched": true
     },
     {
-      "id": "n71e888649cae",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Aurionpro Solutions releases unaudited financial results for quarter ended June 30, 2026",
-      "url": "https://tele.net.in/press-release/aurionpro-solutions-releases-unaudited-financial-results-for-quarter-ended-june-30-2026-12214367",
-      "source": "tele.net.in",
-      "date": "2026-09-03T20:34:02.502Z",
-      "topic": "Money",
-      "keyword": "Partnership",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Aurionpro Solutions released unaudited financial results for quarter ended June 30, 2026.",
-      "enriched": true
-    },
-    {
       "id": "n558d19bfaaab",
       "ticker": "AURIONPRO",
       "company": "Aurionpro Solutions Limited",
@@ -5524,6 +5546,25 @@
       "mood": "positive",
       "takeaway": "Aurionpro won ₹100 crore order to build AI data centre infrastructure.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n71e888649cae",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Aurionpro Solutions releases unaudited financial results for quarter ended June 30, 2026",
+      "url": "https://tele.net.in/press-release/aurionpro-solutions-releases-unaudited-financial-results-for-quarter-ended-june-30-2026-12214367",
+      "source": "tele.net.in",
+      "date": "2026-09-03T20:34:02.502Z",
+      "topic": "Money",
+      "keyword": "Partnership",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Aurionpro Solutions released unaudited financial results for quarter ended June 30, 2026.",
       "enriched": true
     },
     {
@@ -7963,6 +8004,26 @@
       "enriched": true
     },
     {
+      "id": "nd2b1dc88f133",
+      "ticker": "STLTECH",
+      "company": "Sterlite Technologies Limited",
+      "sector": "Telecommunication",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Earnings call transcript: Sterlite Technologies posts record q1 2027 results",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObkxQdWhrNHlZSHJUOW03cE5iX0NIVDdjUGVIQjZRWFlDcWlyend6OUdsZGdFZ0xEOVB6Zml3T2lndWpRdTJ4S1NOZzJSVV9iS1BBSFVqMjRpTDhOM2Y1d1ZzYjNmd3ZTcW43bE52Z3ZQemRhdDNrUzZQZjRtcEppX0RrM3VHVmx6YVdacFBTSXJyZzZpYWlITUJwMjNaa0JrSzZBdTZRWnJ0OGFZSll2aEZvcm9PUjR5RzQxb08zQ3Z4ZGdGeVBZbWtuYw?oc=5",
+      "source": "Investing.com",
+      "date": "2026-07-24T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Sterlite Technologies posted record Q1 FY27 results with strong performance.",
+      "enriched": true
+    },
+    {
       "id": "n996916ced754",
       "ticker": "THEME",
       "company": "Specialty Chemicals",
@@ -8036,26 +8097,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Surya Roshni secured ₹68.11 crore order for OCTG supply.",
-      "enriched": true
-    },
-    {
-      "id": "nd2b1dc88f133",
-      "ticker": "STLTECH",
-      "company": "Sterlite Technologies Limited",
-      "sector": "Telecommunication",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Earnings call transcript: Sterlite Technologies posts record q1 2027 results",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObkxQdWhrNHlZSHJUOW03cE5iX0NIVDdjUGVIQjZRWFlDcWlyend6OUdsZGdFZ0xEOVB6Zml3T2lndWpRdTJ4S1NOZzJSVV9iS1BBSFVqMjRpTDhOM2Y1d1ZzYjNmd3ZTcW43bE52Z3ZQemRhdDNrUzZQZjRtcEppX0RrM3VHVmx6YVdacFBTSXJyZzZpYWlITUJwMjNaa0JrSzZBdTZRWnJ0OGFZSll2aEZvcm9PUjR5RzQxb08zQ3Z4ZGdGeVBZbWtuYw?oc=5",
-      "source": "Investing.com",
-      "date": "2026-07-24T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Sterlite Technologies posted record Q1 FY27 results with strong performance.",
       "enriched": true
     },
     {
@@ -8153,25 +8194,6 @@
       "importance": "high",
       "mood": "negative",
       "takeaway": "AGC faces class action lawsuit over PFOA discharge and shut down UK fluorochemical production.",
-      "enriched": true
-    },
-    {
-      "id": "nbe0bfb433587",
-      "ticker": "MTARTECH",
-      "company": "Mtar Technologies Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "MTAR Technologies merger hearing set for September 4",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY3pmUGtNbHJ2eXE1UXltLWdkTF84MHJOVTZNVXQtNlJwN2p3eWJkekJDNzk2WkdkdkU5SU1rZnVERTV4dE9JVVlBX3NoLXFVYXVXb1FjT2F0WVFVWUdIQ19ETC0tcWstMXV5dUVIMlZSR2lMczhpQnAzQmFqdkpPWlVvcDJ3ZC12bHhmWHViUXNDZWl1N2wzUUxfOXNodG9uRXV0cDk3RGtpMlkxOWc?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-07-15T07:00:00.000Z",
-      "topic": "Deals",
-      "keyword": "Merger",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "MTAR Technologies merger hearing scheduled for September 4.",
       "enriched": true
     },
     {
