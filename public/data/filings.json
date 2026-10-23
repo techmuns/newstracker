@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T08:01:26.779Z",
+  "generated_at": "2026-10-23T18:49:04.342Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,126 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "fbc1a321aa84e",
+      "ticker": "SHADOWFAX",
+      "company": "Shadowfax Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-10-23T21:11:59.000Z",
+      "category": "Investor Presentation",
+      "title": "Shadowfax Technologies Limited has informed the Exchange about Schedule of meet-Intimation of Earnings Call in respect of financial results for the quarter and half year ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/9900590024_23102026211138_Intimation.pdf"
+    },
+    {
+      "id": "ff9965573d6d6",
+      "ticker": "SBIFUNDS",
+      "company": "SBI Funds Management Limited",
+      "exchange": "NSE",
+      "date": "2026-10-23T21:01:15.000Z",
+      "category": "Investor Presentation",
+      "title": "SBI Funds Management Limited has informed the Exchange about Link of recordings",
+      "url": "https://nsearchives.nseindia.com/corporate/SBIMF2026_23102026210034_SE_EarningsCall_Audio.pdf"
+    },
+    {
+      "id": "f763b06b3bcc1",
+      "ticker": "URBANCO",
+      "company": "Urban Company Limited",
+      "exchange": "NSE",
+      "date": "2026-10-23T20:35:40.000Z",
+      "category": "Investor Presentation",
+      "title": "Urban Company Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_23102026203516_UC_Investor_Analyst_Presentation_23102026.pdf"
+    },
+    {
+      "id": "ff8026f249c26",
+      "ticker": "STLTECH",
+      "company": "Sterlite Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-10-23T19:47:11.000Z",
+      "category": "Investor Presentation",
+      "title": "Sterlite Technologies Limited has informed the Exchange about Link of Recording",
+      "url": "https://nsearchives.nseindia.com/corporate/STLTECH_23102026194653_Q2FY27Earningscalloutcome-signed.pdf"
+    },
+    {
+      "id": "f7ae41ae3114a",
+      "ticker": "VIVIDEL",
+      "company": "Vivid Electromech Limited",
+      "exchange": "NSE",
+      "date": "2026-10-23T18:26:41.000Z",
+      "category": "Board Meeting",
+      "title": "Vivid Electromech Limited has submitted to the Exchange, the unaudited financial results for the half year ended on September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/VIVID_23102026182420_Intimation_of_Unaudited_Results_30-09-2026.pdf"
+    },
+    {
+      "id": "fcc8f66a72263",
+      "ticker": "SBIFUNDS",
+      "company": "SBI Funds Management Limited",
+      "exchange": "NSE",
+      "date": "2026-10-23T18:03:24.000Z",
+      "category": "Disclosure",
+      "title": "SBI Funds Management Limited has informed the Exchange regarding 'outcome of the Board meeting regarding approving the request received from State Bank of India and Amundi Asset Management, Promoter of Company seeking removal / reclassification of promoter group entities i.e., Indian Digital Payment Intelligence Corporation and AIXIGO TR YAZILIM LIMITED SIRKETI respectively. '.",
+      "url": "https://nsearchives.nseindia.com/corporate/SBIMF2026_23102026180301_BoardOutcome_FY27Q2_signed.pdf"
+    },
+    {
+      "id": "f4898fd2ec094",
+      "ticker": "SBIFUNDS",
+      "company": "SBI Funds Management Limited",
+      "exchange": "NSE",
+      "date": "2026-10-23T17:53:33.000Z",
+      "category": "Press Release",
+      "title": "SBI Funds Management Limited has informed the Exchange regarding a press release dated October 23, 2026, titled \"SBI FUNDS MANAGEMENT ANNOUNCES FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026\".",
+      "url": "https://nsearchives.nseindia.com/corporate/SBIMF2026_23102026175318_SE_PressReleaseandPPT_signed.pdf"
+    },
+    {
+      "id": "f3e32b82796c8",
+      "ticker": "SBIFUNDS",
+      "company": "SBI Funds Management Limited",
+      "exchange": "NSE",
+      "date": "2026-10-23T17:37:57.000Z",
+      "category": "Board Meeting",
+      "title": "SBI Funds Management Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/SBIMF2026_23102026173506_BoardOutcome_FY27Q2_signed.pdf"
+    },
+    {
+      "id": "f08b090b52f9b",
+      "ticker": "VIVIDEL",
+      "company": "Vivid Electromech Limited",
+      "exchange": "NSE",
+      "date": "2026-10-23T15:35:58.000Z",
+      "category": "Disclosure",
+      "title": "Vivid Electromech Limited has informed the Exchange about the Appointment of Stellar IR Advisors Private Limited as the Investor Relations Agency",
+      "url": "https://nsearchives.nseindia.com/corporate/VIVID_23102026153531_Intimation_Letter.pdf"
+    },
+    {
+      "id": "f743409c11efa",
+      "ticker": "AVANTEL",
+      "company": "Avantel Limited",
+      "exchange": "NSE",
+      "date": "2026-10-23T15:30:22.000Z",
+      "category": "Shareholders meeting",
+      "title": "Avantel Limited has submitted the Exchange a copy Srutinizers report of Postal Ballot",
+      "url": "https://nsearchives.nseindia.com/corporate/AVANTEL_23102026152948_PBScrutinizerReport23102026.pdf"
+    },
+    {
+      "id": "f03462c688ecd",
+      "ticker": "AVANTEL",
+      "company": "Avantel Limited",
+      "exchange": "NSE",
+      "date": "2026-10-23T15:24:57.000Z",
+      "category": "Shareholders meeting",
+      "title": "Avantel Limited has informed the Exchange regarding voting results of Postal Ballot",
+      "url": "https://nsearchives.nseindia.com/corporate/AVANTEL_23102026152130_PBOutcome23102026.pdf"
+    },
+    {
+      "id": "f534e3466f867",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "exchange": "NSE",
+      "date": "2026-10-23T14:45:46.000Z",
+      "category": "Newspaper Publication",
+      "title": "Sapphire Foods India Limited has informed the Exchange about Copy of Newspaper Publication",
+      "url": "https://nsearchives.nseindia.com/corporate/SAPPHIRE_23102026144507_SapphireSEDisclosureNewspaperAdvertisement.pdf"
+    },
     {
       "id": "f5c4fb387fb6d",
       "ticker": "STLTECH",
@@ -19886,126 +20006,6 @@
       "category": "Shareholders meeting",
       "title": "Can Fin Homes Limited has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on July 29, 2026. Further, the company has informed the Exchange regarding voting results.",
       "url": "https://nsearchives.nseindia.com/corporate/CANFINHOME_29072026183739_SE_39_AGM_Voting_Results_and_Scrutinizers_Report.pdf"
-    },
-    {
-      "id": "f84f4ba17ccf3",
-      "ticker": "NORTHARC",
-      "company": "Northern Arc Capital Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T18:35:59.000Z",
-      "category": "Monitoring Agency Report",
-      "title": "Monitoring Agency Report on the utilisation of proceeds raised through issuance of equity shares pursuant to Regulation 32(6) of Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 and Regulations 41(4) of the SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018.",
-      "url": "https://nsearchives.nseindia.com/corporate/NACL2020_29072026183552_MA_Report_SEFiling_sd.pdf"
-    },
-    {
-      "id": "f1281dd98ff42",
-      "ticker": "KSHINTL",
-      "company": "KSH International Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T18:31:33.000Z",
-      "category": "Investor Presentation",
-      "title": "KSH International Limited has informed the Exchange about Earnings Conference Call to discuss unaudited financial results for the quarter ended June 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/INTERNATIONAL_29072026183037_KSHIntimationofEarningsCallSigned29072026.pdf"
-    },
-    {
-      "id": "f2af26401f978",
-      "ticker": "TRIVENI",
-      "company": "Triveni Engineering & Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T18:26:41.000Z",
-      "category": "Change in Directors",
-      "title": "Triveni Engineering & Industries Limited has informed the Exchange regarding Change in Director(s) of the company.",
-      "url": "https://nsearchives.nseindia.com/corporate/TRIVENI_29072026182629_TEIL_RESULT_JUNE2026.pdf"
-    },
-    {
-      "id": "f539ecc9352a1",
-      "ticker": "BLACKBUCK",
-      "company": "BLACKBUCK LIMITED",
-      "exchange": "NSE",
-      "date": "2026-07-29T18:25:43.000Z",
-      "category": "Statement of deviation(s) or variation(s) under Reg. 32",
-      "title": "BLACKBUCK LIMITED has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32",
-      "url": "https://nsearchives.nseindia.com/corporate/ZINKA2015_29072026182517_Announcement_Statement_of_D_V.pdf"
-    },
-    {
-      "id": "f3786166642e2",
-      "ticker": "BLACKBUCK",
-      "company": "BLACKBUCK LIMITED",
-      "exchange": "NSE",
-      "date": "2026-07-29T18:21:05.000Z",
-      "category": "Monitoring Agency Report",
-      "title": "Monitoring Agency Report",
-      "url": "https://nsearchives.nseindia.com/corporate/ZINKA2015_29072026181831_Announcement_MA_Report.pdf"
-    },
-    {
-      "id": "f6ba4c6b5605c",
-      "ticker": "BLACKBUCK",
-      "company": "BLACKBUCK LIMITED",
-      "exchange": "NSE",
-      "date": "2026-07-29T18:11:54.000Z",
-      "category": "Disclosure",
-      "title": "BLACKBUCK LIMITED has informed the Exchange about grant of Stock Options equivalent to 50308 equity shares under BlackBuck Limited Employee Stock Option Scheme 2016",
-      "url": "https://nsearchives.nseindia.com/corporate/ZINKA2015_29072026181141_Intimation_ESOP_grant.pdf"
-    },
-    {
-      "id": "f0f1cf17560e3",
-      "ticker": "TRIVENI",
-      "company": "Triveni Engineering & Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T18:11:10.000Z",
-      "category": "Change in Directors",
-      "title": "Triveni Engineering & Industries Limited has informed the Exchange regarding appointment of Mr Vivek Viswanathan (DIN: 00141053) as an Additional Director designated as Whole-time Director and Key Managerial Personnel of the Company for a period of five years with effect from August 1, 2026 and payment of remuneration to him, based on the recommendation of the Nomination and Remuneration Committee, and shall be subject to approval of the shareholders at the ensuing AGM of the Company.",
-      "url": "https://nsearchives.nseindia.com/corporate/TRIVENI_29072026181051_TEIL_RESULT_JUNE2026.pdf"
-    },
-    {
-      "id": "fb3aa0229c6fe",
-      "ticker": "TRIVENI",
-      "company": "Triveni Engineering & Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T17:54:40.000Z",
-      "category": "Board Meeting",
-      "title": "Triveni Engineering & Industries Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/TRIVENI_29072026175304_TEIL_RESULT_JUNE2026.pdf"
-    },
-    {
-      "id": "f008ad4f2b7fc",
-      "ticker": "MASFIN",
-      "company": "MAS Financial Services Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T17:54:26.000Z",
-      "category": "Record Date",
-      "title": "MAS Financial Services Limited has informed the Exchange that Record date for the purpose of Dividend & Meeting is 26-Aug-2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/MASFIN_29072026175228_Book_Closure_Final.pdf"
-    },
-    {
-      "id": "fc3b0760f8d37",
-      "ticker": "SAREGAMA",
-      "company": "Saregama India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T17:26:36.000Z",
-      "category": "Investor Presentation",
-      "title": "Saregama India Limited has informed the Exchange about Schedule of meet",
-      "url": "https://nsearchives.nseindia.com/corporate/SAREGAMA_29072026172558_SignedIntimationFinal.pdf"
-    },
-    {
-      "id": "f92046ffda0c7",
-      "ticker": "CANFINHOME",
-      "company": "Can Fin Homes Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T17:18:59.000Z",
-      "category": "Change in Directors",
-      "title": "Can Fin Homes Limited has informed the Exchange regarding Cessation of Mrs Shubhalakshmi Aamod Panse as Non- Executive Independent Director of the company w.e.f. July 29, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/CANFINHOME_29072026171846_39_AGM_Change_in_directorate_Cessation_Panse_Madam.pdf"
-    },
-    {
-      "id": "f01fa96cc6b5d",
-      "ticker": "UNIMECH",
-      "company": "Unimech Aerospace and Manufacturing Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T17:18:37.000Z",
-      "category": "Investor Presentation",
-      "title": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Schedule of meet",
-      "url": "https://nsearchives.nseindia.com/corporate/UNIMECH_29072026171829_Eanings_Call_Intimation.pdf"
     }
   ]
 }
