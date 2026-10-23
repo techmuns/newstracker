@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T18:56:42.523Z",
+  "generated_at": "2026-10-23T08:01:26.779Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,46 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f5c4fb387fb6d",
+      "ticker": "STLTECH",
+      "company": "Sterlite Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-10-23T13:15:36.000Z",
+      "category": "Monitoring Agency Report",
+      "title": "Monitoring Agency Report for the quarter ended September 30, 2026 for QIP.",
+      "url": "https://nsearchives.nseindia.com/corporate/STLTECH_23102026131525_SEintimation_MAQIP_signed.pdf"
+    },
+    {
+      "id": "fe965c03d8ad5",
+      "ticker": "STLTECH",
+      "company": "Sterlite Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-10-23T13:14:08.000Z",
+      "category": "Monitoring Agency Report",
+      "title": "Monitoring Agency Report for the Quarter ended September 30, 2026 for Preferential Issue",
+      "url": "https://nsearchives.nseindia.com/corporate/STLTECH_23102026131346_SEintimation_MAPrefissue_signed.pdf"
+    },
+    {
+      "id": "f77dcc1120620",
+      "ticker": "STLTECH",
+      "company": "Sterlite Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-10-23T12:53:24.000Z",
+      "category": "Board Meeting",
+      "title": "Sterlite Technologies Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/STLTECH_23102026125243_SEintimation23Ocotber2026NSE_signed.pdf"
+    },
+    {
+      "id": "f365f7e7324c4",
+      "ticker": "HTEL",
+      "company": "Hy-Tech Engineers Limited",
+      "exchange": "NSE",
+      "date": "2026-10-23T12:40:42.000Z",
+      "category": "Disclosure",
+      "title": "Hy-Tech Engineers Limited has informed the Exchange regarding 'Receipt of Eligibility Certificate for claiming government subsidy towards a manufacturing plant in Shirwal, Maharashtra'.",
+      "url": "https://nsearchives.nseindia.com/corporate/HYTECH_23102026124001_Shirwal_Subsidy.pdf"
+    },
     {
       "id": "fa8d4ecb4b358",
       "ticker": "SAPPHIRE",
@@ -19966,46 +20006,6 @@
       "category": "Investor Presentation",
       "title": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Schedule of meet",
       "url": "https://nsearchives.nseindia.com/corporate/UNIMECH_29072026171829_Eanings_Call_Intimation.pdf"
-    },
-    {
-      "id": "f7570bab25ede",
-      "ticker": "TRIVENI",
-      "company": "Triveni Engineering & Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T17:12:40.000Z",
-      "category": "Disclosure",
-      "title": "Material update in connection with the Composite Scheme of Arrangement amongst Triveni Engineering & Industries Ltd. (TEIL) and Sir Shadi Lal Enterprises Limited (SSEL) and Triveni Power Transmission Ltd (TPTL) and their respective shareholders under Sections 230 to 232 and other applicable provisions of the Companies Act, 2013 ( Scheme )",
-      "url": "https://nsearchives.nseindia.com/corporate/TRIVENI_29072026171231_TPTL_Disclosure_28_07_2026.pdf"
-    },
-    {
-      "id": "fda7e7547ea8b",
-      "ticker": "MTARTECH",
-      "company": "Mtar Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T16:49:54.000Z",
-      "category": "Board Meeting",
-      "title": "Mtar Technologies Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/MTARTECH_29072026164820_Outcome_sw.pdf"
-    },
-    {
-      "id": "f4d7075200f40",
-      "ticker": "DEVYANI",
-      "company": "Devyani International Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T16:41:34.000Z",
-      "category": "Investor Presentation",
-      "title": "Devyani International Limited has informed the Exchange about Link of Recording",
-      "url": "https://nsearchives.nseindia.com/corporate/DEVYANI_29072026164102_SE_Audio_call_intimation_29072026_sd.pdf"
-    },
-    {
-      "id": "f699f94f91f80",
-      "ticker": "CANFINHOME",
-      "company": "Can Fin Homes Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T16:28:16.000Z",
-      "category": "Shareholders meeting",
-      "title": "Can Fin Homes Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on July 29, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/CANFINHOME_29072026162749_39_AGM_Proceedings_2026.pdf"
     }
   ]
 }
