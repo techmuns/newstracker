@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-24T07:47:23.725Z",
+  "generated_at": "2026-10-24T17:35:33.061Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 98,
-    "watchlist": 431,
+    "watchlist": 432,
     "universe": 50,
-    "total": 481
+    "total": 482
   },
   "items": [
     {
@@ -68,22 +68,22 @@
       "enriched": true
     },
     {
-      "id": "nfda3305d7b21",
+      "id": "nc8b5cae129d9",
       "ticker": "SAPPHIRE",
       "company": "Sapphire Foods India Limited",
       "sector": "Consumer Services",
       "scope": [
         "watchlist"
       ],
-      "title": "Earnings call transcript: Sapphire Foods posts strong Q2 2026 growth By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaWpSOVdSNXNtYVBBWmwwdGpBU09RNXhqQ1FQS1FmQngxWTZPTVIxMTU1TGh6RDY0SUhLQmZDcm9YeVN3dzN0TDZKcllQdmIxT3g5UWZtdDR1MXRvVTlyUDV4OXVvdTdmVXVmRUY5U0dsRWZ2enJRWVZObmc4dDR0QlNPZnNJY3NIZ3ItRzRDWGh0c2hIX3lwalYtM3AxNFV1UEZKbUVnQkh3VWYzMERrZXNCZ1pKdzFxZkVGQmc2ckZLaFdVRmg4?oc=5",
-      "source": "Investing.com India",
-      "date": "2026-10-22T11:29:20.000Z",
+      "title": "Earnings call transcript: Sapphire Foods posts strong Q2 2026 growth",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNEZYWU1rQ3UwUnVFVXlpMDNBWEpIS0JsYl9OVkQ5cWZCWHJSMTN3bGphTWlWbUE0TzRXeXphOWxUTEpJbHNYSXY1WEtBWUtBSExsbDBIeUZxQzY5OWN6MjJRZzhoUDZsd3FMZEpCSzNYMjVMdUI1U3VhSGxadG50VlZUOFlRc1RHOV9Jc0Z3Qi1LdlpOWjRPNVlJR0M5WTA0ZnZ0SWU0Nmp2N3V1S3NRSWN1Q283YWR5bzUzZXBleUM?oc=5",
+      "source": "Investing.com",
+      "date": "2026-10-22T11:31:19.000Z",
       "topic": "Money",
       "keyword": "Earnings",
       "importance": "medium",
       "mood": "positive",
-      "takeaway": "Sapphire Foods reported strong Q2 2026 results showing growth in its restaurant business.",
+      "takeaway": "Sapphire Foods reported strong Q2 2026 growth in earnings call.",
       "sources_count": 2,
       "enriched": true
     },
@@ -5200,7 +5200,8 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Man Industries received QatarEnergy approval for LSAW pipes and pipeline products.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 3
     },
     {
       "id": "nbdaf38422c23",
@@ -7130,25 +7131,6 @@
       "enriched": true
     },
     {
-      "id": "ndc0a1cab0de7",
-      "ticker": "MANINDS",
-      "company": "Man Industries (India) Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Man Industries Receives QatarEnergy Approval As Preferred Manufacturer For LSAW Pipes",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaDdIX0NhTW1sYkYwM3dkdmZnTDJlS2JTLU1RakpmUEZXdU8wWlZkN2ZFLVUxTV94ZXUzaG5KcVFSNkpjdjVDVGpJbUNUUVpyRm1ZdFh6cDluYndlTjU3ZHlaLU1fNi1ZMEZWeXJhWGlwbGVuN3Z5ZFI1djktNzdSdUZvSEJQbmJlVXNfMGdXYmZkOTRQeUEzUWlwSDlSNVlGRjZ1dEZaSDlITExHZDZjUHJ3Z0ltR1lFRVBOUVY1SVUzZw?oc=5",
-      "source": "Sahi",
-      "date": "2026-08-14T07:00:00.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Man Industries received QatarEnergy approval as preferred manufacturer for LSAW pipes.",
-      "enriched": true
-    },
-    {
       "id": "nf785a719bea8",
       "ticker": "MANINDS",
       "company": "Man Industries (India) Limited",
@@ -8405,7 +8387,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Standard Engineering gets exchange approval to raise Rs 71 crore through preferential share issue.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -8794,6 +8776,25 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Qualcomm sold its entire stake in Shadowfax for Rs 157 crore.",
+      "enriched": true
+    },
+    {
+      "id": "n984c28c6a60a",
+      "ticker": "SBCL",
+      "company": "Shivalik Bimetal Controls Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Company Updates | Legal Suvidha",
+      "url": "https://legalsuvidha.com/latest-updates/company-updates-070826",
+      "source": "legalsuvidha.com",
+      "date": "",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "medium",
+      "mood": "negative",
+      "takeaway": "Company executive resigned from Shivalik Bimetal Controls.",
       "enriched": true
     },
     {
@@ -9356,6 +9357,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Omnitech Engineering enters data centre infrastructure business, expanding its service offerings.",
+      "enriched": true
+    },
+    {
+      "id": "n38be056e201e",
+      "ticker": "JYOTICNC",
+      "company": "Jyoti CNC Automation Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Jyoti Structures wins ₹690 crore Gujarat transmission line order - CNBC TV18",
+      "url": "https://www.cnbctv18.com/energy/jyoti-structures-wins-%e2%82%b9690-crore-gujarat-transmission-line-order-20018131.htm",
+      "source": "cnbctv18.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Jyoti Structures secured a ₹690 crore order for transmission line work in Gujarat.",
       "enriched": true
     }
   ]
