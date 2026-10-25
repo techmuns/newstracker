@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T08:02:20.861Z",
+  "generated_at": "2026-10-25T17:57:09.842Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,36 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f7f0bafa3f53d",
+      "ticker": "MONOLITH",
+      "company": "Monolithisch India Limited",
+      "exchange": "NSE",
+      "date": "2026-10-25T21:30:23.000Z",
+      "category": "Investor Presentation",
+      "title": "Monolithisch India Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/MONOLITHISCH_25102026212959_25102026_MIL_INVESTOR_PRESENTATIONV_Q2_H1_FY27.pdf"
+    },
+    {
+      "id": "f6a9769c2bd50",
+      "ticker": "BHARATCOAL",
+      "company": "Bharat Coking Coal Limited",
+      "exchange": "NSE",
+      "date": "2026-10-25T14:34:30.000Z",
+      "category": "Disclosure",
+      "title": "Bharat Coking Coal Limited has informed the Exchange regarding 'Presentation made by Company on the Quarterly Financial Results for the 2nd Quarter and Half -Year ended 30th Sep 2026'.",
+      "url": "https://nsearchives.nseindia.com/corporate/BCCL_25102026143413_FInancials_PPT_Signed.pdf"
+    },
+    {
+      "id": "fe1d03dae4c39",
+      "ticker": "BHARATCOAL",
+      "company": "Bharat Coking Coal Limited",
+      "exchange": "NSE",
+      "date": "2026-10-25T14:19:42.000Z",
+      "category": "Board Meeting",
+      "title": "Bharat Coking Coal Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/BCCL_25102026141312_Financial_statement_half_yearly.pdf"
+    },
     {
       "id": "fdd148845a2b5",
       "ticker": "MONOLITH",
@@ -19976,36 +20006,6 @@
       "category": "Disclosure",
       "title": "Rubicon Research Limited has informed the Exchange regarding 'Communication on tax deduction at source on Dividend '.",
       "url": "https://nsearchives.nseindia.com/corporate/9823522970_29072026194946_SEIntimationonTDS_Communication.pdf"
-    },
-    {
-      "id": "f73f3c353f9b3",
-      "ticker": "BLACKBUCK",
-      "company": "BLACKBUCK LIMITED",
-      "exchange": "NSE",
-      "date": "2026-07-29T19:10:06.000Z",
-      "category": "Investor Presentation",
-      "title": "BLACKBUCK LIMITED has informed the Exchange about Link of Recording",
-      "url": "https://nsearchives.nseindia.com/corporate/ZINKA2015_29072026190919_Analyst__Investor_Meet__Outcome_Audio.pdf"
-    },
-    {
-      "id": "f66d05b718fab",
-      "ticker": "FLYSBS",
-      "company": "FlySBS Aviation Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T18:56:30.000Z",
-      "category": "Quarterly Compliance Report on Corporate governance - within 21 days from the end of the quarter",
-      "title": "FlySBS Aviation Limited has informed regarding Submission of the Compliance Report on Corporate Governance for the Q_ FY 20__-__",
-      "url": "https://nsearchives.nseindia.com/corporate/FLYSBS_29072026185602_FlySBS-_Non-_Applicablity_of_CG_report.pdf"
-    },
-    {
-      "id": "f77f4c9e79238",
-      "ticker": "MTARTECH",
-      "company": "Mtar Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T18:55:18.000Z",
-      "category": "Press Release",
-      "title": "Mtar Technologies Limited has informed the Exchange regarding a press release dated July 29, 2026, titled \"Press Release for Un-audited Financial Results\".",
-      "url": "https://nsearchives.nseindia.com/corporate/MTARTECH_29072026185508_Press_release_sw.pdf"
     }
   ]
 }
