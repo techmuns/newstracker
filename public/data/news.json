@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T07:49:46.906Z",
+  "generated_at": "2026-10-25T17:49:39.024Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 98,
@@ -25,7 +25,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Sterlite Technologies reported record Q2 2026 results.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -163,7 +163,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "KSH International secured PGCIL approval for high-voltage power transmission conductors supply.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -8425,7 +8425,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Standard Engineering gets exchange approval to raise Rs 71 crore through preferential share issue.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
