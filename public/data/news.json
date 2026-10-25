@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-24T17:35:33.061Z",
+  "generated_at": "2026-10-25T07:49:46.906Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 98,
-    "watchlist": 432,
-    "universe": 50,
-    "total": 482
+    "watchlist": 436,
+    "universe": 49,
+    "total": 485
   },
   "items": [
     {
@@ -163,7 +163,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "KSH International secured PGCIL approval for high-voltage power transmission conductors supply.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -6247,6 +6247,25 @@
       "enriched": true
     },
     {
+      "id": "ndbdf3d750d68",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Goldiam International QIP Fund Revision: Key Details",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORTg0T1V3YWlMc3V3OVJOZkc3U05YQWVuUnVQQzNhZUR4Q3kxOHdMM2pyVUxJSFBZNEtPRFZVVTZndzhGb0dPLW5wd18tbE5vcWZlb0Q5NUtILWJ6RW01OF9uQ1JTdnItbjRpTEEzUE01aS04V0xUeU9OTTgzMkZrRndxdGhXRUZWZmlRaDdsM0Fldk9hMkhpaERsdFFveTluRHZqeGxnRWJCVXllOFFSQzBWNFNTR3Jvc0tJcElQaERLalU2?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-09-02T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "QIP",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Goldiam International revises QIP fund details.",
+      "enriched": true
+    },
+    {
       "id": "n06e28b0c58b6",
       "ticker": "VOEPL",
       "company": "Virtuoso Optoelectronics Limited",
@@ -7147,6 +7166,25 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Man Industries received approval from QatarEnergy for its PML project, expected to complete by 2026.",
+      "enriched": true
+    },
+    {
+      "id": "ndc0a1cab0de7",
+      "ticker": "MANINDS",
+      "company": "Man Industries (India) Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Man Industries Receives QatarEnergy Approval As Preferred Manufacturer For LSAW Pipes",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaDdIX0NhTW1sYkYwM3dkdmZnTDJlS2JTLU1RakpmUEZXdU8wWlZkN2ZFLVUxTV94ZXUzaG5KcVFSNkpjdjVDVGpJbUNUUVpyRm1ZdFh6cDluYndlTjU3ZHlaLU1fNi1ZMEZWeXJhWGlwbGVuN3Z5ZFI1djktNzdSdUZvSEJQbmJlVXNfMGdXYmZkOTRQeUEzUWlwSDlSNVlGRjZ1dEZaSDlITExHZDZjUHJ3Z0ltR1lFRVBOUVY1SVUzZw?oc=5",
+      "source": "Sahi",
+      "date": "2026-08-14T07:00:00.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Man Industries approved by QatarEnergy as preferred manufacturer for large-diameter welded pipes.",
       "enriched": true
     },
     {
@@ -8218,25 +8256,6 @@
       "enriched": true
     },
     {
-      "id": "n48595a740b34",
-      "ticker": "GLOBAL",
-      "company": "PFAS Regulation",
-      "sector": "Chemicals",
-      "scope": [
-        "universe"
-      ],
-      "title": "AGC faces class action lawsuit over cumulative discharge of 49 tons of PFOA, shuts down UK fluorochemical production capacity",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCVVhFaG1laUNHM1dlZUV1bVJIV3d5ZU5DRU1TTnJvcVo2SjFNMDJkZjdEZGswQXNUc001OFQyMERtb3RRZkFuZVJIcXd0cV9j?oc=5",
-      "source": "ChemNet News",
-      "date": "2026-07-17T07:00:00.000Z",
-      "topic": "Trouble",
-      "keyword": "Lawsuit",
-      "importance": "high",
-      "mood": "negative",
-      "takeaway": "AGC faces class action lawsuit over PFOA discharge and shut down UK fluorochemical production.",
-      "enriched": true
-    },
-    {
       "id": "nf9bbbe4296f5",
       "ticker": "STLTECH",
       "company": "Sterlite Technologies Limited",
@@ -8273,6 +8292,25 @@
       "mood": "negative",
       "takeaway": "Sapphire Foods reported a loss in Q2 due to merger-related expenses.",
       "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "n11631ae41073",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Sapphire Foods India Ltd (BOM:543397) (Q2 2027) Earnings Call Highlights: Record Revenue Growth ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sapphire-foods-india-ltd-bom-090202360.html",
+      "source": "finance.yahoo.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Sapphire Foods reports record revenue growth in Q2 FY27 earnings call.",
       "enriched": true
     },
     {
@@ -8387,7 +8425,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Standard Engineering gets exchange approval to raise Rs 71 crore through preferential share issue.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -8466,7 +8504,8 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Caliber Mining released Q1 FY27 earnings call summary.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n767517fe13ca",
@@ -8928,6 +8967,25 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "E2E Networks secured a ₹1,000 crore contract for Sovereign AI GPU services.",
+      "enriched": true
+    },
+    {
+      "id": "n78698326eae7",
+      "ticker": "BALUFORGE",
+      "company": "Balu Forge Industries Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Balu Forge seeks shareholder nod for USD 60 million FCCB issuance",
+      "url": "https://scanx.trade/stock-market-news/companies/balu-forge-seeks-shareholder-nod-usd-60-million-fccb-issuance/48165970",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Capex",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Balu Forge seeks shareholder approval to raise $60 million through foreign currency convertible bonds.",
       "enriched": true
     },
     {
