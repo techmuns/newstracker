@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T08:14:23.997Z",
+  "generated_at": "2026-10-26T20:15:15.397Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,126 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f3e067f15fc02",
+      "ticker": "GULFOILLUB",
+      "company": "Gulf Oil Lubricants India Limited",
+      "exchange": "NSE",
+      "date": "2026-10-26T22:52:13.000Z",
+      "category": "Investor Presentation",
+      "title": "We hereby inform you that a Physical Meet is scheduled to be held with the InstitutionalInvestors/Analyst Groups on Thursday, October 29, 2026 in Mumbai.",
+      "url": "https://nsearchives.nseindia.com/corporate/GULFOILLUB_26102026225127_Meeting29102026.pdf"
+    },
+    {
+      "id": "f95ea503be733",
+      "ticker": "VIVIDEL",
+      "company": "Vivid Electromech Limited",
+      "exchange": "NSE",
+      "date": "2026-10-26T21:31:47.000Z",
+      "category": "Investor Presentation",
+      "title": "Vivid Electromech Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/VIVID_26102026213135_Intimation_Letter_for_Investor_Presentation_30-09-2026.pdf"
+    },
+    {
+      "id": "f38b9b761ca69",
+      "ticker": "GULFOILLUB",
+      "company": "Gulf Oil Lubricants India Limited",
+      "exchange": "NSE",
+      "date": "2026-10-26T21:22:50.000Z",
+      "category": "Investor Presentation",
+      "title": "We hereby inform you that an Earnings Conference Call is scheduled to be held on Friday, October 30, 2026 in connection with the Unaudited Financial Results (Standalone and Consolidated) of the Company for the second quarter and half year ended September 30, 2026 and on business operations of the Company. For details, please refer the attached letter.",
+      "url": "https://nsearchives.nseindia.com/corporate/GULFOILLUB_26102026211954_REVISEDInvestor_earningsConcallMeeting30102026.pdf"
+    },
+    {
+      "id": "f18d001c441c6",
+      "ticker": "VENUSREM",
+      "company": "Venus Remedies Limited",
+      "exchange": "NSE",
+      "date": "2026-10-26T18:39:37.000Z",
+      "category": "Board Meeting",
+      "title": "Venus Remedies Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/VENUSREM_26102026183826_UFR_VRL_Sep2026.pdf"
+    },
+    {
+      "id": "fc65592d36792",
+      "ticker": "QUALIANCE",
+      "company": "Qualiance International Limited",
+      "exchange": "NSE",
+      "date": "2026-10-26T18:16:09.000Z",
+      "category": "Investor Presentation",
+      "title": "Qualiance International Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/QUALIANCE_26102026181436_Earnings_Call_Intimation_02112026.pdf"
+    },
+    {
+      "id": "ff1aca42dcda4",
+      "ticker": "CONCORDBIO",
+      "company": "Concord Biotech Limited",
+      "exchange": "NSE",
+      "date": "2026-10-26T18:08:39.000Z",
+      "category": "Shareholders meeting",
+      "title": "Concord Biotech Limited has submitted the Exchange a copy Srutinizers report of Postal Ballot. Further, the company has informed the Exchange regarding voting results.",
+      "url": "https://nsearchives.nseindia.com/corporate/CONCORD_26102026180820_ResultsPB23092026.pdf"
+    },
+    {
+      "id": "f203fa55ba477",
+      "ticker": "SONACOMS",
+      "company": "Sona BLW Precision Forgings Limited",
+      "exchange": "NSE",
+      "date": "2026-10-26T17:27:02.000Z",
+      "category": "Press Release",
+      "title": "Sona Blw Precision Forgings Limited has informed the Exchange regarding a press release dated October 26, 2026, titled \"Press Release for Q2 financial results\".",
+      "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_26102026172559_Press_release.pdf"
+    },
+    {
+      "id": "fa4f7abb1c841",
+      "ticker": "SONACOMS",
+      "company": "Sona BLW Precision Forgings Limited",
+      "exchange": "NSE",
+      "date": "2026-10-26T17:06:13.000Z",
+      "category": "Board Meeting",
+      "title": "Sona Blw Precision Forgings Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_26102026170351_All_1.pdf"
+    },
+    {
+      "id": "f7110ffb98cf4",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "exchange": "NSE",
+      "date": "2026-10-26T16:55:30.000Z",
+      "category": "Press Release",
+      "title": "E2E Networks Limited has informed the Exchange regarding a press release dated October 26, 2026, titled \"E2E Networks plans 5.4 MW NVIDIA Blackwell expansion of India s AI Factory\".",
+      "url": "https://nsearchives.nseindia.com/corporate/E2E_26102026165101_Press_Release_26102026.pdf"
+    },
+    {
+      "id": "fa282a2752695",
+      "ticker": "AVANTEL",
+      "company": "Avantel Limited",
+      "exchange": "NSE",
+      "date": "2026-10-26T15:10:02.000Z",
+      "category": "Change in Directors",
+      "title": "Avantel Limited has informed the Exchange regarding Appointment of Mr Nimmagadda Sreenivasa Rao as Executive Director of the company w.e.f. October 26, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/AVANTEL_26102026150929_Reg30Intimation26102026.pdf"
+    },
+    {
+      "id": "fba2d1b6c891f",
+      "ticker": "AVANTEL",
+      "company": "Avantel Limited",
+      "exchange": "NSE",
+      "date": "2026-10-26T14:46:32.000Z",
+      "category": "Board Meeting",
+      "title": "Avantel Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/AVANTEL_26102026144452_Outcome26102026.pdf"
+    },
+    {
+      "id": "f2e8f40312a29",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "exchange": "NSE",
+      "date": "2026-10-26T14:19:55.000Z",
+      "category": "Capacity addition",
+      "title": "E2E Networks Limited has informed the Exchange about Capacity addition",
+      "url": "https://nsearchives.nseindia.com/corporate/E2E_26102026141943_Capacity_Addition__1_.pdf"
+    },
     {
       "id": "f2016498c6857",
       "ticker": "BHARATCOAL",
@@ -19886,126 +20006,6 @@
       "category": "Dividend",
       "title": "Vedanta Aluminium Metal Limited has informed the Exchange that Board of Directors at its meeting held on July 30, 2026, declared Interim Dividend of Rs. 8 per equity share.",
       "url": "https://nsearchives.nseindia.com/corporate/VAML_30072026143706_2VAMLSEIntimationOutcomeofBMJuly302026OtherApprovalssigned.pdf"
-    },
-    {
-      "id": "f43a4fef9af18",
-      "ticker": "VAML",
-      "company": "Vedanta Aluminium Metal Limited",
-      "exchange": "NSE",
-      "date": "2026-07-30T14:25:49.000Z",
-      "category": "Board Meeting",
-      "title": "Vedanta Aluminium Metal Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/VAML_30072026142521_1VAMLSEIntimationOutcomeofBMJuly302026FSsigned.pdf"
-    },
-    {
-      "id": "fc5d9382d3d41",
-      "ticker": "SONACOMS",
-      "company": "Sona BLW Precision Forgings Limited",
-      "exchange": "NSE",
-      "date": "2026-07-30T14:22:42.000Z",
-      "category": "Investor Presentation",
-      "title": "Sona Blw Precision Forgings Limited has informed the Exchange about Transcript",
-      "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_30072026142213_Transcript.pdf"
-    },
-    {
-      "id": "fb1c0ba0d3b64",
-      "ticker": "MOLDTKPAC",
-      "company": "Mold-Tek Packaging Limited",
-      "exchange": "NSE",
-      "date": "2026-07-30T14:07:21.000Z",
-      "category": "Investor Presentation",
-      "title": "Mold-Tek Packaging Limited has informed the Exchange about Transcript",
-      "url": "https://nsearchives.nseindia.com/corporate/MOLDTKPAC_30072026140711_SE_Intimation_Transcript.pdf"
-    },
-    {
-      "id": "f4c18b7569868",
-      "ticker": "GROWW",
-      "company": "Billionbrains Garage Ventures Limited",
-      "exchange": "NSE",
-      "date": "2026-07-30T11:59:25.000Z",
-      "category": "Shareholders meeting",
-      "title": "Billionbrains Garage Ventures Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on August 24, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_30072026115630_NoticeARSEIntimationsigned.pdf"
-    },
-    {
-      "id": "f0915c92080f0",
-      "ticker": "GROWW",
-      "company": "Billionbrains Garage Ventures Limited",
-      "exchange": "NSE",
-      "date": "2026-07-30T11:52:43.000Z",
-      "category": "Newspaper Publication",
-      "title": "Billionbrains Garage Ventures Limited has informed the Exchange about Newspaper Publication of Public Notice regarding 8th Annual General Meeting ( AGM ) of the Company to be held through Video Conferencing ( VC )/ Other Audio Visual Means ( OAVM ) before dispatch of Notice of the AGM.",
-      "url": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_30072026115230_Newspaperintimationbeforesigned.pdf"
-    },
-    {
-      "id": "ff0533a86c499",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-07-30T11:31:53.000Z",
-      "category": "Press Release",
-      "title": "Aurionpro Solutions Limited has informed the Exchange regarding a press release dated July 30, 2026, titled \"Aurionpro secures additional MMRDA order, further expanding engagement for Automated Fare Collection Solution deployment on Mumbai Metro Line 5.\".",
-      "url": "https://nsearchives.nseindia.com/corporate/AURIONPRO_30072026113109_ASL_MMRDA_Press_Release_30072026_SD.pdf"
-    },
-    {
-      "id": "f7310b82b0621",
-      "ticker": "LGEINDIA",
-      "company": "LG Electronics India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-30T11:20:29.000Z",
-      "category": "Action(s) taken or orders passed",
-      "title": "LG Electronics India Limited has informed the Exchange about Action(s) taken or orders passed",
-      "url": "https://nsearchives.nseindia.com/corporate/LGEINDIA_30072026111911_Intimation_under_Regulation_30_dated_July_30_2026.pdf"
-    },
-    {
-      "id": "f5b3b55511f08",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "exchange": "NSE",
-      "date": "2026-07-30T10:57:51.000Z",
-      "category": "Investor Presentation",
-      "title": "DEE Development Engineers Limited has informed the Exchange about updated Link of Recording",
-      "url": "https://nsearchives.nseindia.com/corporate/DDEL_30072026105234_NSE_BSE_Earning_call.pdf"
-    },
-    {
-      "id": "fb06c4acebbed",
-      "ticker": "YASHO",
-      "company": "Yasho Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-07-30T09:56:54.000Z",
-      "category": "Credit Rating",
-      "title": "Yasho Industries Limited has informed the Exchange about Credit Rating",
-      "url": "https://nsearchives.nseindia.com/corporate/8291904474_30072026095631_Covering_Letter_Credit_Rating_-_Crisil.pdf"
-    },
-    {
-      "id": "f74e5b6690852",
-      "ticker": "MTARTECH",
-      "company": "Mtar Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-30T00:13:57.000Z",
-      "category": "Investor Presentation",
-      "title": "Mtar Technologies Limited has informed the Exchange about Investor Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/MTARTECH_30072026001348_MTAR_Presentation_Q1FY27_final.pdf"
-    },
-    {
-      "id": "fe918f8c60b51",
-      "ticker": "KPITTECH",
-      "company": "KPIT Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T22:41:07.000Z",
-      "category": "Investor Presentation",
-      "title": "KPIT Technologies Limited has informed the Exchange about Audit Link of Post earnings Conference Call Q1 FY2026-27",
-      "url": "https://nsearchives.nseindia.com/corporate/MeghanaPhadnis_29072026223940_Earnings_call_Audio_Recording_Link_signed.pdf"
-    },
-    {
-      "id": "ffd36f5784ddb",
-      "ticker": "LGEINDIA",
-      "company": "LG Electronics India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T22:20:51.000Z",
-      "category": "Disclosure",
-      "title": "LG Electronics India Limited has informed the Exchange about Business Responsibility and Sustainability Report",
-      "url": "https://nsearchives.nseindia.com/corporate/LGEINDIA_29072026221732_LGBRSR.pdf"
     }
   ]
 }
