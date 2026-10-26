@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T18:44:50.978Z",
+  "generated_at": "2026-10-26T20:05:51.911Z",
   "portfolio": [
     {
       "company": "Monolithisch India Limited",
@@ -27,18 +27,13 @@
       "sector": "Healthcare"
     },
     {
-      "company": "Vivid Electromech Limited",
-      "ticker": "VIVIDEL",
-      "sector": "Capital Goods"
-    },
-    {
       "company": "Stylam Industries Limited",
       "ticker": "STYLAMIND",
       "sector": "Consumer Durables"
     },
     {
-      "company": "Xpro India Limited",
-      "ticker": "XPROINDIA",
+      "company": "Vivid Electromech Limited",
+      "ticker": "VIVIDEL",
       "sector": "Capital Goods"
     },
     {
@@ -47,9 +42,19 @@
       "sector": "Consumer Services"
     },
     {
+      "company": "Xpro India Limited",
+      "ticker": "XPROINDIA",
+      "sector": "Capital Goods"
+    },
+    {
       "company": "Saregama India Limited",
       "ticker": "SAREGAMA",
       "sector": "Media Entertainment & Publication"
+    },
+    {
+      "company": "Onesource Specialty Pharma Limited",
+      "ticker": "ONESOURCE",
+      "sector": "Healthcare"
     },
     {
       "company": "Sudeep Pharma Limited",
@@ -57,9 +62,9 @@
       "sector": "Chemicals"
     },
     {
-      "company": "Shanti Inorganics Limited",
-      "ticker": "SHANTIINOR",
-      "sector": "Chemicals"
+      "company": "Tonbo Imaging India Limited",
+      "ticker": "TONBO",
+      "sector": "Capital Goods"
     },
     {
       "company": "TANFAC Industries Ltd",
@@ -364,11 +369,6 @@
       "sector": "Capital Goods"
     },
     {
-      "company": "Onesource Specialty Pharma Limited",
-      "ticker": "ONESOURCE",
-      "sector": "Healthcare"
-    },
-    {
       "company": "Orient Cables (India) Limited",
       "ticker": "ORIENTCABL",
       "sector": "Telecommunication"
@@ -442,6 +442,11 @@
       "company": "Shaily Engineering Plastics Limited",
       "ticker": "SHAILY",
       "sector": "Consumer Durables"
+    },
+    {
+      "company": "Shanti Inorganics Limited",
+      "ticker": "SHANTIINOR",
+      "sector": "Chemicals"
     },
     {
       "company": "Shiprocket Limited",
@@ -552,6 +557,11 @@
       "company": "Zen Technologies Limited",
       "ticker": "ZENTEC",
       "sector": "Capital Goods"
+    },
+    {
+      "company": "Onesource Specialty Pharma Limited",
+      "ticker": "ONESOURCE",
+      "sector": "Healthcare"
     },
     {
       "company": "BLACKBUCK LIMITED",
