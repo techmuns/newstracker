@@ -1,13 +1,34 @@
 {
-  "generated_at": "2026-10-25T17:49:39.024Z",
+  "generated_at": "2026-10-26T08:07:27.716Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 98,
-    "watchlist": 436,
+    "portfolio": 100,
+    "watchlist": 440,
     "universe": 49,
-    "total": 485
+    "total": 489
   },
   "items": [
+    {
+      "id": "n662289c5cabd",
+      "ticker": "SUDEEPPHRM",
+      "company": "Sudeep Pharma Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Sudeep Pharma gets FDA approval for new 51,200 MT capacity plant in Gujarat",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONFZjeFdvVEFNbUhEenFyUE9RM2puODh4TEpwMzQtR0ZzcDZSOFpQYlR2ZmtiX3ZiVUowUEQ5NFhRMGxOZktvaTU2c3l2aFIyY3BBenlFUEVaN2YxUW4walZzZTF6QmNKRFNHcjgtMzhmR0dMbzd4RnpKNHhZQlEwbldhalpTRzRTMjFuU0VheGlsNHZubEdUQXpVamJuVXJfNHQ2cU5BUmp0bXA3VTMwV3VCSXRfclBjbHdBX1FwSnpRelE?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-10-26T07:13:21.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Sudeep Pharma received FDA approval for a new 51,200 MT capacity plant in Gujarat.",
+      "sources_count": 4,
+      "enriched": true
+    },
     {
       "id": "n51273f832a88",
       "ticker": "STLTECH",
@@ -25,7 +46,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Sterlite Technologies reported record Q2 2026 results.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -163,7 +184,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "KSH International secured PGCIL approval for high-voltage power transmission conductors supply.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -497,7 +518,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Aurionpro won a ₹150 crore order for a Navi Mumbai data centre project.",
-      "sources_count": 5,
+      "sources_count": 6,
       "enriched": true
     },
     {
@@ -748,7 +769,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "BEML secured ₹75.58 crore order for military vehicle exports.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -8236,26 +8257,6 @@
       "enriched": true
     },
     {
-      "id": "n3a645ae5ddb8",
-      "ticker": "E2E",
-      "company": "E2E Networks Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "E2E Networks Mar 2026 Earnings: Revenue Surges to ₹95.64 Crore, EPS at ₹0.31 - Estimate Dispersion",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWnJtZ1kteUdfU2lLLVFSZTY4NWJPNWpRdzBpalJBUG5QUWhOOXhJTU9xOEVmWm5wdDJfWDVpSmR5R2lhY0ZUQWR1eVNocUpreTczNHB6TDV1WGc1Y2kzRWlXY3AtTkc4QTZKMDY5S1VxeDNhSElKbTJ6TjZkSUJ1NEx5Rm1ES1Jic0d4TVJYTXhHcjJFVkRHSktpNUZYeTdmZGZzZDBOX3JJOTlYeDBIaGdaRQ?oc=5",
-      "source": "siam.in",
-      "date": "2026-07-18T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "E2E Networks Q4 revenue jumped to ₹95.64 crore with earnings of ₹0.31 per share.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "nf9bbbe4296f5",
       "ticker": "STLTECH",
       "company": "Sterlite Technologies Limited",
@@ -8272,6 +8273,25 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Record revenue and margins driven by AI boom in Q2 FY27.",
+      "enriched": true
+    },
+    {
+      "id": "n79bdab1bfb22",
+      "ticker": "STLTECH",
+      "company": "Sterlite Technologies Limited",
+      "sector": "Telecommunication",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Sterlite Technologies Ltd (BOM:532374) (Q2 2027) Earnings Call Highlights: Record Revenue, 4. ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sterlite-technologies-ltd-bom-532374-210410869.html",
+      "source": "finance.yahoo.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Sterlite Technologies reported record revenue in Q2 2027 earnings call.",
       "enriched": true
     },
     {
@@ -8311,6 +8331,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Sapphire Foods reports record revenue growth in Q2 FY27 earnings call.",
+      "enriched": true
+    },
+    {
+      "id": "n36d8cc5bab82",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Sapphire Foods Q2 Results: KFC ki toofani growth aur sales mein **20%** ka uchhal | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/consumer-products/Sapphire-Foods-Q2-Restaurant-Sales-Rise-20percent-KFC-Growth-Stays-Strong/6adefb32c6c6dccbb906d59e",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Merger",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Sapphire Foods Q2 shows strong KFC growth with 20% sales increase.",
       "enriched": true
     },
     {
@@ -8798,6 +8837,26 @@
       "enriched": true
     },
     {
+      "id": "nbeb10fc18c56",
+      "ticker": "YASHHV",
+      "company": "Yash Highvoltage Ltd",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Yash Highvoltage ke Q1 mein dhamaka! Profit **157%** uchhal kar hua **₹36 Crore** | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/industrial-goodsservices/Yash-Highvoltage-Q1-FY27-Net-Profit-Surges-157percent-to-INR-36-Crore/6adef6ebc6c6dccbb906ce75",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Yash Highvoltage Q1 profit jumped 157% to ₹36 crore.",
+      "enriched": true
+    },
+    {
       "id": "n4e1ec96216d3",
       "ticker": "SHADOWFAX",
       "company": "Shadowfax Technologies Limited",
@@ -9143,6 +9202,25 @@
       "importance": "low",
       "mood": "negative",
       "takeaway": "E2E Networks fined ₹10,000 by exchanges for compliance delay.",
+      "enriched": true
+    },
+    {
+      "id": "n5ddccf077292",
+      "ticker": "SETL",
+      "company": "Standard Engineering Technology Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T Tech Services bags five-year Nokia contract to support R&D in India | Company News - Business Standard",
+      "url": "https://www.business-standard.com/amp/companies/news/ltts-nokia-five-year-engineering-rd-deal-india-126102600362_1.html",
+      "source": "business-standard.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Partnership",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "L&T Tech Services won a five-year contract from Nokia to support R&D operations in India.",
       "enriched": true
     },
     {
