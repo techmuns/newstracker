@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T17:57:09.842Z",
+  "generated_at": "2026-10-26T08:14:23.997Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,46 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f2016498c6857",
+      "ticker": "BHARATCOAL",
+      "company": "Bharat Coking Coal Limited",
+      "exchange": "NSE",
+      "date": "2026-10-26T13:04:59.000Z",
+      "category": "Newspaper Publication",
+      "title": "Bharat Coking Coal Limited has informed the Exchange about Copy of Newspaper Publication",
+      "url": "https://nsearchives.nseindia.com/corporate/BCCL_26102026130421_Newspaper_Publication_BCCL_2nd_Quarter_signed.pdf"
+    },
+    {
+      "id": "f56969fa2292c",
+      "ticker": "SUDEEPPHRM",
+      "company": "Sudeep Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-10-26T12:34:44.000Z",
+      "category": "Press Release",
+      "title": "Sudeep Pharma Limited has informed the Exchange regarding a press release dated October 26, 2026, titled \"Press Release - FDA approval for the new pharma greenfield manufacturing facility at 179 Nandesari, Gujarat, \".",
+      "url": "https://nsearchives.nseindia.com/corporate/SUDEEPPHARMALIMITED_26102026123432_Intimation.pdf"
+    },
+    {
+      "id": "f115bf862adbb",
+      "ticker": "STYLAMIND",
+      "company": "Stylam Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-10-26T11:30:19.000Z",
+      "category": "Disclosure",
+      "title": "Stylam Industries Limited has informed the Exchange about Update on board meeting.",
+      "url": "https://nsearchives.nseindia.com/corporate/STYLAMIND_26102026112958_Update_on_Board_Meeting.pdf"
+    },
+    {
+      "id": "f14cc91a8ee10",
+      "ticker": "UNIMECH",
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "exchange": "NSE",
+      "date": "2026-10-26T07:13:11.000Z",
+      "category": "Disclosure",
+      "title": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about execution of Long-Term Agreement with Honeywell Aerospace US LLC",
+      "url": "https://nsearchives.nseindia.com/corporate/UNIMECH_26102026071241_Unimech_Exchange_Disclosure_-_Honeywell_LTA_Clean__1_.pdf"
+    },
     {
       "id": "f7f0bafa3f53d",
       "ticker": "MONOLITH",
@@ -19966,46 +20006,6 @@
       "category": "Disclosure",
       "title": "LG Electronics India Limited has informed the Exchange about Business Responsibility and Sustainability Report",
       "url": "https://nsearchives.nseindia.com/corporate/LGEINDIA_29072026221732_LGBRSR.pdf"
-    },
-    {
-      "id": "ffef6d792362f",
-      "ticker": "MASFIN",
-      "company": "MAS Financial Services Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T22:02:46.000Z",
-      "category": "Investor Presentation",
-      "title": "MAS Financial Services Limited has informed the Exchange about Investor Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/MASFIN_29072026220145_Investor_Presentation.pdf"
-    },
-    {
-      "id": "faf029b97e518",
-      "ticker": "LGEINDIA",
-      "company": "LG Electronics India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T21:39:17.000Z",
-      "category": "Shareholders meeting",
-      "title": "LG Electronics India Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on August 21, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/LGEINDIA_29072026213758_Notice_of_29th_AGM.pdf"
-    },
-    {
-      "id": "fc9c575baeff2",
-      "ticker": "TRIVENI",
-      "company": "Triveni Engineering & Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T20:05:26.000Z",
-      "category": "Investor Presentation",
-      "title": "Triveni Engineering & Industries Limited has informed the Exchange about Investor Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/TRIVENI_29072026200518_TEIL_IB_JUNE26.pdf"
-    },
-    {
-      "id": "f1f651ff044a2",
-      "ticker": "RUBICON",
-      "company": "Rubicon Research Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T19:53:27.000Z",
-      "category": "Disclosure",
-      "title": "Rubicon Research Limited has informed the Exchange regarding 'Communication on tax deduction at source on Dividend '.",
-      "url": "https://nsearchives.nseindia.com/corporate/9823522970_29072026194946_SEIntimationonTDS_Communication.pdf"
     }
   ]
 }
