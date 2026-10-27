@@ -1,13 +1,33 @@
 {
-  "generated_at": "2026-10-26T20:19:08.293Z",
+  "generated_at": "2026-10-27T08:51:12.513Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 102,
-    "watchlist": 444,
+    "portfolio": 104,
+    "watchlist": 449,
     "universe": 49,
-    "total": 493
+    "total": 498
   },
   "items": [
+    {
+      "id": "nfd1f6bc2257a",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "E2E Networks (NSE:E2E) Proposes About 5.4 MW GPU Capacity Expansion",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZml0aVZ5bXdxS2ZKMUFLZWNlNlZRQm83cHFYN1RiUkN3THVtc2FDQkxOZG9EbnIxWWI5V05Gc2ZEZmwxVEk4amtKMUZjMlZxQmhoZTFneUkyQ2FGX1dTeDlBSTJISWZRNXhhYzJuUVlVNUFNcmgwR2VJcnppTndUMzRTT2ZmY3JOOGl5MmF5Q3ZrUmVmQ1ViLXdkWDZRNFJIWkI4RW0xc0xBUjR4bXpGZVpWZVIwU3JOLWNRWA?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-10-26T14:11:00.000Z",
+      "topic": "Growth",
+      "keyword": "Capacity Expansion",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "E2E Networks plans to expand GPU capacity by about 5.4 MW.",
+      "sources_count": 3,
+      "enriched": true
+    },
     {
       "id": "nd7614de91c88",
       "ticker": "SUDEEPPHRM",
@@ -30,23 +50,22 @@
       "enriched": true
     },
     {
-      "id": "n7eb6f3acc933",
+      "id": "nbf5660dd5ccd",
       "ticker": "E2E",
       "company": "E2E Networks Limited",
       "sector": "Information Technology",
       "scope": [
         "watchlist"
       ],
-      "title": "E2E Networks plans approximately 5.4 MW capacity expansion",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0FhaEVrQWVXWDB5UEdsYmk3ZFVrU1NMa2g0WmRXNTF3VmlYalk4cmxZU0pTRmNFV016amt5ejdfc25XX25xdzJzc0RRelVTMXFhRGJ4OFhoa1BtSThaR0VqaDY0cEpLOUdyVUJtT3pfU3hZSHcyQkRsY19vRklqLWFEc0lFLTdlRzVrZ1NFdS1RX2xQODdaZzkySQ?oc=5",
-      "source": "Business Upturn",
-      "date": "2026-10-26T08:59:29.000Z",
+      "title": "E2E Networks (NSE:E2E): What Is Behind Its 59% AI Factory Capacity Expansion Plan?",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbkdzUE9PMEFmYlU1ZzRVRWtMSUR2QnNYeGU1bkdMb3hrd1ppSko4ZnJaUHFfelhicHV1SFVWenMwR0hmcHp2cnZTVzhjWlYzT1M4MUQ1WEM5WGlDQV9RdktDZm9BYkIyVmFNRUtfVVhGNXRIVkFucFZVLWZxWkNGbHdKLUlVZ2NBcmhoUS14djducUE1LXlVSXhwUTRMZTZnM0NrOE9ObVZQZ0dlMGxnNzlpenN5VmRqaDN6cWdCVWZxdw?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-10-26T11:25:00.000Z",
       "topic": "Growth",
       "keyword": "Capacity Expansion",
       "importance": "medium",
       "mood": "positive",
-      "takeaway": "E2E Networks plans to expand capacity by approximately 5.4 MW for its AI infrastructure.",
-      "sources_count": 2,
+      "takeaway": "E2E Networks expanding AI Factory capacity by 59%.",
       "enriched": true
     },
     {
@@ -323,7 +342,7 @@
       "importance": "medium",
       "mood": "negative",
       "takeaway": "Fire at Zen Technologies' subsidiary Unistring Tech Solutions' Hyderabad unit; minimal impact expected.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -343,28 +362,28 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Power Mech Projects won ₹327 crore order from Vedanta.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
-      "id": "na4d0a5182b40",
+      "id": "n517bbb69f7ed",
       "ticker": "ZENTEC",
       "company": "Zen Technologies Limited",
       "sector": "Capital Goods",
       "scope": [
         "watchlist"
       ],
-      "title": "Zen Technologies: Subsidiary Fire Causes ₹4 Crore Estimated Loss",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd3BFMVhBQ2phczhoYVVVaGtoZE02NlNEZkc2cnZZZ0lyY0JoeGo1NGxTRXQ4M25uSEp1VW9aUC1NMU1qSEhsMC0tMkltR3hKX2Y3aElIemVQRVV2VzBDNUpOOU1FM2k1RTA2dGxxLTBqVnJhRzJ4UjZhdTVjMUFlSldQM0w5ZmcwNmhvdklxSEZ3clNvR3Vr?oc=5",
-      "source": "InvestyWise",
-      "date": "2026-10-19T06:34:43.000Z",
+      "title": "Zen Technologies reports fire at Hyderabad subsidiary's production facility; estimates Rs 4 crore loss, confirms insurance coverage",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNY19DOUx6d3dBTExTTWhCQ3hZQWh5VldYM0FSVHZtTEQ1a1lzOTJJRW54MHVZUlpmMWpTaE5xWE9jaWdVaS1yRHdtU0RSbkNIRVl4elBGT1hrYVVvbThUR0hVb3FJRTgwczVicjBYMERmTG1RX1doLWMzY3N3a1doems4dHpmU0dpTktMUkI1dXF4YWY0eUlvX0FrVkZGT2pNTzN5di1IQ0dOV2pBb1ZmdE9NVFpWaG1nMmxxZ0N0UzNjOTdGZS1zWlMtXzRIUTlodkVmX2FrZzk0R2JDU1BaeHdTVXpTNkljWTEtWHNyUUJBbEUwc3V6TkdTVTDSAYICQVVfeXFMT3VEc0laT2UtZW1GWGR4NmRPaE40NlpUR2J6b2VOR3JZUjlSRUdOOHlPRWdtWWpJUGpfdDdOU3dTaG5LaTM4ZDhtdTJYT0l1Sm1CeklhSENJNm9adEx0RF9DTmdLaUNlaDlxQ2wtZXZFbjcxMjRPT2sxSWlIRHBHNG5FdW9vN0JHSlFYdm1ORlJ5QzNDc2pZQ24zSWVQY1NGR1hDejgxMEllZGJyRlJPSXUwR3lsWlBYanc0MWMyc2xGNDdZRlFRMEtIbk1FYXNLZ0ZESWVsbWFHclJwVXRVaUQ2ejduZW9PbFlhSFN5THpENGhkaXEtTHl6SHRIeWlpNHBB?oc=5",
+      "source": "ET Now",
+      "date": "2026-10-19T03:53:08.000Z",
       "topic": "Trouble",
       "keyword": "Fire",
       "importance": "medium",
       "mood": "negative",
-      "takeaway": "Fire at Zen Technologies subsidiary causes estimated loss of ₹4 crore.",
-      "enriched": true,
-      "sources_count": 2
+      "takeaway": "Fire at Zen Technologies' Hyderabad facility causes Rs 4 crore loss, insured.",
+      "sources_count": 3,
+      "enriched": true
     },
     {
       "id": "n148ee571aa2a",
@@ -8704,6 +8723,26 @@
       "enriched": true
     },
     {
+      "id": "n74faee196dfb",
+      "ticker": "ACUTAAS",
+      "company": "Acutaas Chemicals Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Acutaas Chemicals Q2 Profit Rises to Rs 123 Crore; Subsidiary Facility Opens | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/chemicals/Acutaas-Chemicals-Q2-Profit-Rises-to-Rs-123-Crore-Subsidiary-Facility-Opens/6ae05016c6c6dccbb907f8b5",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Acutaas Chemicals Q2 profit rose to Rs 123 crore; subsidiary facility opened.",
+      "enriched": true
+    },
+    {
       "id": "nbe72ed039feb",
       "ticker": "VAML",
       "company": "Vedanta Aluminium Metal Limited",
@@ -8778,6 +8817,25 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Virtuoso Optoelectronics board to meet regarding share issue.",
+      "enriched": true
+    },
+    {
+      "id": "nf13614bd5322",
+      "ticker": "PERMAGN",
+      "company": "Permanent Magnets Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Q2 2027 Permanent Magnets Ltd Earnings Call Transcript",
+      "url": "https://www.gurufocus.com/news/9143474/q2-2027-permanent-magnets-ltd-earnings-call-transcript",
+      "source": "gurufocus.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Permanent Magnets released Q2 2027 earnings call transcript.",
       "enriched": true
     },
     {
@@ -9049,6 +9107,25 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Sterlite Technologies announces ₹3,000 crore capex plan focused on AI growth opportunities.",
+      "enriched": true
+    },
+    {
+      "id": "nef98c0d630ca",
+      "ticker": "STLTECH",
+      "company": "Sterlite Technologies Limited",
+      "sector": "Telecommunication",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "The Sterlite Electric-Adani Electricity Mumbai Ltd partnership: How it is strengthening Mumbai’s power backbone - Your Gateway to Power Transmission & Distribution",
+      "url": "https://www.tndindia.com/the-sterlite-electric-adani-electricity-mumbai-ltd-partnership-how-it-is-strengthening-mumbais-power-backbone/",
+      "source": "tndindia.com",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Partnership",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Sterlite Electric partners with Adani Electricity to strengthen Mumbai's power infrastructure.",
       "enriched": true
     },
     {
@@ -9592,6 +9669,26 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Jyoti Structures secured a ₹690 crore order for transmission line work in Gujarat.",
+      "enriched": true
+    },
+    {
+      "id": "n3691aa3568c3",
+      "ticker": "YASHHV",
+      "company": "Yash Highvoltage Ltd",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Yash Highvoltage eyes Rs 1,000 crore bushing capacity by FY31 | Power Peak Digest",
+      "url": "https://powerpeakdigest.com/yash-highvoltage-rs-1000-crore-bushing-fy31/",
+      "source": "powerpeakdigest.com",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Yash Highvoltage targets Rs 1,000 crore bushing production capacity by FY31.",
       "enriched": true
     }
   ]
