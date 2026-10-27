@@ -1,13 +1,73 @@
 {
-  "generated_at": "2026-10-27T08:51:12.513Z",
+  "generated_at": "2026-10-27T19:39:10.898Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 104,
-    "watchlist": 449,
-    "universe": 49,
-    "total": 498
+    "watchlist": 453,
+    "universe": 51,
+    "total": 504
   },
   "items": [
+    {
+      "id": "nef47a05b09de",
+      "ticker": "UNIMECH",
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Unimech Aerospace: Reports IPO Fund Use Variation Post-Shareholder Approval",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc2JjNHpYUEVEWkJQYXJRYXV4dGE0a3AtYWpxTlByUjVTRzJPY2FLdmczWWx2Z3JDR3RRTEFsY3ZUOHo4dWpRRlZFOUNWUjcyRlR2X25HSXA1QkRpd2xzVVdCVDkxTnY5Y0l0UU9kRzlWZlRZLVUzTDZYUDlKdmt2R0lGeFhqN21uNkNfSkd3?oc=5",
+      "source": "InvestyWise",
+      "date": "2026-10-27T17:12:39.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Unimech Aerospace reports variation in IPO fund usage after getting shareholder approval.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "na07610803ff3",
+      "ticker": "MEDIASSIST",
+      "company": "Medi Assist Healthcare Services Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Medi Assist Healthcare Services to Consider Q2 Results and Share Buyback",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUWlGb1VfNTB2LTVjR1dVNEVOM2FQdk54U3JjQm0zY3o3RV82ZTRTSHY1OGFqa2NNemRqd0ViSy1ncEJCS2I1YWNIY0RlN2tWU1k0cExhR3hVcUxwN0hwdlE3RmdqTVB4Qzc5Y2ZVclp6WEw5bEkzSVdlcGhpeFBydVN1SlpvRnZreFdXLVJKaHUybWxMbU9RRnJYV1lkMXJFbzZFc0RoYjZBNVZZMjRQUk56cW5vSFo4RDAzU2Ryazc2NEVWS3M0bjRLaWZKT2JtQnp3TWtBaWtFaFd0bE14My0xa00ydEFU?oc=5",
+      "source": "Whalesbook",
+      "date": "2026-10-27T14:39:38.000Z",
+      "topic": "Money",
+      "keyword": "Buyback",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Medi Assist Healthcare to discuss Q2 results and consider share buyback proposal.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nfe44f379a831",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
+      "scope": [
+        "universe"
+      ],
+      "title": "Alembic Pharmaceuticals receives USFDA final approval for Valganciclovir for oral solution",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdGtfMGJQbm5STEt4SzhNaEpZOU8xV1I4b2ppaWxjc3NPMzJMa0szeWV1YWJoSEdtTTZ5Vl9XOHUtNFhjcENSaXl0M1FhOUxaaVBXUDNpVWpVcmhncE1xUnFSY3g2V01yYkRINDEwVkVMMVBoaGlmVEpMN1MzdlFwMjdUaHdZWnpuclJVdk1jdHBsdTJhWnA0VWdjM0s4WlBSSUUxd28taGNaS21ETlRmN0kyNHdITjZfREp1SEZQTUV3R2tJa1E?oc=5",
+      "source": "Business Upturn",
+      "date": "2026-10-27T12:31:36.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Alembic Pharmaceuticals gets US FDA final approval for Valganciclovir oral solution.",
+      "sources_count": 2,
+      "enriched": true
+    },
     {
       "id": "nfd1f6bc2257a",
       "ticker": "E2E",
@@ -47,6 +107,25 @@
       "mood": "positive",
       "takeaway": "Sudeep Pharma received FDA approval to start operations at its new manufacturing facility in Gujarat.",
       "sources_count": 5,
+      "enriched": true
+    },
+    {
+      "id": "n4d8fca70be7a",
+      "ticker": "THEME",
+      "company": "Power Equipment",
+      "sector": "Capital Goods",
+      "scope": [
+        "universe"
+      ],
+      "title": "Indo Tech Transformers (INDOTECH): Renewable Order Backs Higher-Voltage Push",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbTlSVVE0VVZrbEhhRXcxNjFmaEJOc2ZVM21mbEpPOE9BNVpKY2xqMG5RWlNQWmw1UEktd21TTDB5bXIyWXl5eHJIaHZqT1ZBbGMyQlQtOFdQSldjMkdGeXRlTFdKLUFNVXZUclRxdEVvUG42c25JT040WGJuM0xHY2pNNE1lQmdsSktjQld4V3JDVXJ6ZkwtYUxocTNueVNJbGFwaXhtcU1qTnhEX3Zha3NwaS0xN1RTTm5YV0ktLUNEWjY0ZEpBcjJra3RHc1B1akpFNXV2dGU?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-10-26T11:32:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Indo Tech Transformers wins renewable energy order supporting higher-voltage product expansion.",
       "enriched": true
     },
     {
@@ -206,7 +285,7 @@
       "mood": "positive",
       "takeaway": "Himadri Speciality Chemicals plans Rs 1,613 crore capacity expansion across its key business segments.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "n24accdecff48",
@@ -362,7 +441,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Power Mech Projects won ₹327 crore order from Vedanta.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -579,25 +658,6 @@
       "mood": "positive",
       "takeaway": "Aurionpro won a ₹150 crore order for a Navi Mumbai data centre project.",
       "sources_count": 6,
-      "enriched": true
-    },
-    {
-      "id": "nafec2e4b24e0",
-      "ticker": "APTUS",
-      "company": "Aptus Value Housing Finance India Limited",
-      "sector": "Financial Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Aptus Value Housing Finance sets Nov 5 date for Q2FY27 earnings call",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZmgxN0RnN2oydUQ2X2RZSVZUX0tDUTFUYWJPc2tqUE1ndkZyLWthWXE3QzU3eF9GSEtVdDlfSU1WRTYyN29mTHR2QVotVGJxOUZyM2ctd0Y2czQ2REdjNm9FMVhUYjdvWUFiS216ZUpHdWRVSkNRbjJmZmlaOWVGTzlzdHZ1WWhQUXJ4V01zUG9WcFFrc2NGb1YtYUFpRng2YzMwQkxEajJ5TzZsVEhYbWM2cTA1YjNKVEN0WUJB?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-10-14T06:31:10.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Aptus Value Housing Finance scheduled earnings call for November 5 to discuss Q2 results.",
       "enriched": true
     },
     {
@@ -8372,7 +8432,8 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "E2E Networks announces expansion of Nvidia GPU capacity for AI cloud services.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "nf9bbbe4296f5",
@@ -8622,6 +8683,25 @@
       "mood": "positive",
       "takeaway": "Unimech invested Rs 39 crore in Saudi joint venture for oil and gas components.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n9d68a938c156",
+      "ticker": "UNIMECH",
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Unimech Aerospace: Approves Acquisition of Hobel Bellows for Restructuring | InvestyWise",
+      "url": "https://www.investywise.com/unimech-aerospace-and-manufacturing-limited-board-meeting-outcome-restructuring/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Company approved acquisition of Hobel Bellows for business restructuring",
       "enriched": true
     },
     {
@@ -8955,6 +9035,25 @@
       "enriched": true
     },
     {
+      "id": "nab54c968facf",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries India Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Vikram Solar Secures Major 289.87 MWp Order for Grid-Scale Solar in Rajasthan from NLC India Limited - Business News Week",
+      "url": "https://businessnewsweek.in/business/vikram-solar-secures-major-289-87-mwp-order-for-grid-scale-solar-in-rajasthan-from-nlc-india-limited/",
+      "source": "businessnewsweek.in",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Vikram Solar won a 289.87 MWp solar project order in Rajasthan from NLC India.",
+      "enriched": true
+    },
+    {
       "id": "n9e76a74fbf05",
       "ticker": "VAML",
       "company": "Vedanta Aluminium Metal Limited",
@@ -9145,6 +9244,26 @@
       "importance": "medium",
       "mood": "negative",
       "takeaway": "Austere Systems received SEBI warning for delayed disclosure of NCLAT order.",
+      "enriched": true
+    },
+    {
+      "id": "nd33eeadca400",
+      "ticker": "UNIMECH",
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Unimech Aerospace Q2 Revenue Doubles to Rs 123 Cr; Expands in Saudi | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/industrial-goodsservices/Unimech-Aerospace-Q2-Revenue-Doubles-to-Rs-123-Cr-Expands-in-Saudi/6ae0d0a7c6c6dccbb908eeff",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Revenue doubled to Rs 123 crore in Q2; company expanding operations into Saudi Arabia",
+      "sources_count": 2,
       "enriched": true
     },
     {
