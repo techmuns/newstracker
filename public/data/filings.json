@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T20:15:15.397Z",
+  "generated_at": "2026-10-27T08:41:57.469Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,166 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f906de1b07456",
+      "ticker": "SKYGOLD",
+      "company": "SKY GOLD AND DIAMONDS LIMITED",
+      "exchange": "NSE",
+      "date": "2026-10-27T13:59:57.000Z",
+      "category": "Shareholders meeting",
+      "title": "Please find enclosed the notice of 1st Extra-Ordinary General Meeting for FY 2026-27 scheduled to be held on Wednesday, 18th November, 2026 at 11:00 AM (IST) through video conferencing (VC) / Other Audio- Visual Means (OAVM)",
+      "url": "https://nsearchives.nseindia.com/corporate/SKYGOLD_27102026135946_NoticeofEOGM.pdf"
+    },
+    {
+      "id": "f19af9d049e8e",
+      "ticker": "SKYGOLD",
+      "company": "SKY GOLD AND DIAMONDS LIMITED",
+      "exchange": "NSE",
+      "date": "2026-10-27T13:50:31.000Z",
+      "category": "Disclosure",
+      "title": "We wish to inform you that the Nomination and Remuneration Committee as its meeting held today i.e., on Tuesday, 27th October, 2026 has considered and approved the grant of 3,480 stock option to the eglibile employee of the Company under the SKY GOLD - ESOP 2024.",
+      "url": "https://nsearchives.nseindia.com/corporate/SKYGOLD_27102026135022_OutcomeNRC.pdf"
+    },
+    {
+      "id": "f5745816354ef",
+      "ticker": "CMLL",
+      "company": "Caliber Mining and Logistics Limited",
+      "exchange": "NSE",
+      "date": "2026-10-27T13:47:04.000Z",
+      "category": "Board Meeting",
+      "title": "Caliber Mining and Logistics Limited has informed the Exchange regarding Outcome of Board Meeting held on October 27, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/CMLL_27102026134457_Outcome_of_Board_Meeting_27_10_2026.pdf"
+    },
+    {
+      "id": "fbcc7d01da4ff",
+      "ticker": "SKYGOLD",
+      "company": "SKY GOLD AND DIAMONDS LIMITED",
+      "exchange": "NSE",
+      "date": "2026-10-27T13:29:43.000Z",
+      "category": "Integrated Filing- Financial",
+      "title": "The Audit Committee and the Board of Directors have approved Unaudited Standalone and Consolidated Financial Results for the quarter and half-year ended 30th September 2026 and the Limited Review Report thereon.",
+      "url": "https://nsearchives.nseindia.com/corporate/SKYGOLD_27102026132928_Outcome27102026.pdf"
+    },
+    {
+      "id": "f2aaf4214c5b8",
+      "ticker": "SKYGOLD",
+      "company": "SKY GOLD AND DIAMONDS LIMITED",
+      "exchange": "NSE",
+      "date": "2026-10-27T13:08:28.000Z",
+      "category": "Board Meeting",
+      "title": "We wish to inform you that the Board of Directors of the Company ( Board ) in its meeting held today, i.e. Tuesday, 27th October 2026 has inter alia considered and approved the following:01. Raising of funds not exceeding Rs. 1,800 crores by way of issuance of equity shares ( QIP )02. Unaudited Standalone and Consolidated Financial Results for the quarter and half-year ended 30th September 2026 and the Limited Review Report thereon issued by the Statutory Auditor.03. Approved convening of the EOGM of the Company on Wednesday, 18th November 2026 at 11.00 A.M. 04. Considered and Approved the Notice of EOGM of the Company to be held on Wednesday, 18th November 2026.05. Appointed Mr. Shivang Goyal, Practicing Company Scrutinizer for conducting the e-voting process.",
+      "url": "https://nsearchives.nseindia.com/corporate/SKYGOLD_27102026130654_Outcome27102026.pdf"
+    },
+    {
+      "id": "f6f1bebc53388",
+      "ticker": "SAREGAMA",
+      "company": "Saregama India Limited",
+      "exchange": "NSE",
+      "date": "2026-10-27T13:05:10.000Z",
+      "category": "Investor Presentation",
+      "title": "Saregama India Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/SAREGAMA_27102026130459_Intimation.pdf"
+    },
+    {
+      "id": "fc23629366d50",
+      "ticker": "ACUTAAS",
+      "company": "Acutaas Chemicals Limited",
+      "exchange": "NSE",
+      "date": "2026-10-27T13:01:10.000Z",
+      "category": "Investor Presentation",
+      "title": "Acutaas Chemicals Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/AMIORG_27102026130054_PresentationSignedFinal.pdf"
+    },
+    {
+      "id": "fbfc852de972c",
+      "ticker": "ACUTAAS",
+      "company": "Acutaas Chemicals Limited",
+      "exchange": "NSE",
+      "date": "2026-10-27T12:56:59.000Z",
+      "category": "Press Release",
+      "title": "Acutaas Chemicals Limited has informed the Exchange regarding a press release dated October 27, 2026, titled \"Q2 & H1 FY27 Results\".",
+      "url": "https://nsearchives.nseindia.com/corporate/AMIORG_27102026125648_PressrealeaseSigned.pdf"
+    },
+    {
+      "id": "f91c6d5f59f30",
+      "ticker": "ACUTAAS",
+      "company": "Acutaas Chemicals Limited",
+      "exchange": "NSE",
+      "date": "2026-10-27T12:50:09.000Z",
+      "category": "Board Meeting",
+      "title": "Acutaas Chemicals Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/AMIORG_27102026124848_FRuploadsw.pdf"
+    },
+    {
+      "id": "f72314501f825",
+      "ticker": "WOCKPHARMA",
+      "company": "Wockhardt Limited",
+      "exchange": "NSE",
+      "date": "2026-10-27T12:37:57.000Z",
+      "category": "ESOP/ESOS/ESPS",
+      "title": "We wish to inform you that the Share Allotment Committee of the Board of Directors of the Company has allotted 20,000 equity shares of face value of Rs.5/- each on 27th October, 2026, pursuant to exercise of stock options under Employee Stock Options Scheme - 2011 of the Company.",
+      "url": "https://nsearchives.nseindia.com/corporate/WOCKPHARMA_27102026123738_WLintimationESOP271026Sd_final.pdf"
+    },
+    {
+      "id": "ff064983b04be",
+      "ticker": "VBL",
+      "company": "Varun Beverages Limited",
+      "exchange": "NSE",
+      "date": "2026-10-27T11:04:56.000Z",
+      "category": "Investor Presentation",
+      "title": "Pursuant to the provisions of Regulation 30(6) read with Part A of Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that the Company will host a conference call with Investors and Analysts on Friday, October 30, 2026 at 2:00 P.M. (IST). Details of the conference call with Investors and Analysts are enclosed",
+      "url": "https://nsearchives.nseindia.com/corporate/VBL_27102026110413_InvestorCall.pdf"
+    },
+    {
+      "id": "fabebea832311",
+      "ticker": "ONESOURCE",
+      "company": "Onesource Specialty Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-10-27T10:42:31.000Z",
+      "category": "Press Release",
+      "title": "Onesource Specialty Pharma Limited has informed the Exchange regarding a press release dated October 27, 2026, titled \"OneSource Announces Strong Q2FY27 ResultsRevenue up 37% YoY and EBITDA up 53% YoY\".",
+      "url": "https://nsearchives.nseindia.com/corporate/ONESOURCECDMO_27102026104146_OS_PR_IR.pdf"
+    },
+    {
+      "id": "f8ee94e8be958",
+      "ticker": "ONESOURCE",
+      "company": "Onesource Specialty Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-10-27T10:24:58.000Z",
+      "category": "Disclosure",
+      "title": "Onesource Specialty Pharma Limited has informed the Exchange regarding 'Allotment of 360 Equity Shares of INR. 1/- each, under ONESOURCE ESOP 2021'.",
+      "url": "https://nsearchives.nseindia.com/corporate/ONESOURCECDMO_27102026102445_OS_ESOP.pdf"
+    },
+    {
+      "id": "fb4a193253cb2",
+      "ticker": "ONESOURCE",
+      "company": "Onesource Specialty Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-10-27T10:15:51.000Z",
+      "category": "Change in Directors",
+      "title": "Onesource Specialty Pharma Limited has informed the Exchange regarding Change in Director(s) of the company.",
+      "url": "https://nsearchives.nseindia.com/corporate/ONESOURCECDMO_27102026101511_OS_Claudio_Intimation.pdf"
+    },
+    {
+      "id": "f109fabd10f20",
+      "ticker": "ONESOURCE",
+      "company": "Onesource Specialty Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-10-27T10:07:54.000Z",
+      "category": "Board Meeting",
+      "title": "Onesource Specialty Pharma Limited has submitted to the Exchange, the unaudited financial results (Standalone and Consolidated) for the quarter and half year ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/ONESOURCECDMO_27102026100700_OS_Intimation_Outcome_of_BM_27Oct2026_s.pdf"
+    },
+    {
+      "id": "f5d1830232e16",
+      "ticker": "SONACOMS",
+      "company": "Sona BLW Precision Forgings Limited",
+      "exchange": "NSE",
+      "date": "2026-10-27T07:23:15.000Z",
+      "category": "Investor Presentation",
+      "title": "Sona Blw Precision Forgings Limited has informed the Exchange about Link of Recording",
+      "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_27102026072251_Intimation.pdf"
+    },
     {
       "id": "f3e067f15fc02",
       "ticker": "GULFOILLUB",
@@ -326,6 +486,36 @@
       "category": "Board Meeting",
       "title": "SBI Funds Management Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
       "url": "https://nsearchives.nseindia.com/corporate/SBIMF2026_23102026173506_BoardOutcome_FY27Q2_signed.pdf"
+    },
+    {
+      "id": "fa2fe37a472ef",
+      "ticker": "TONBO",
+      "company": "Tonbo Imaging India Limited",
+      "exchange": "NSE",
+      "date": "2026-10-23T16:48:33.000Z",
+      "category": "Disclosure",
+      "title": "Intimation under Regulation 8(2) of the Securities and Exchange Board of India (Prohibition of Insider Trading) Regulations, 2015.",
+      "url": "https://nsearchives.nseindia.com/corporate/TONBO_23102026164821_Regulation_8_2__Executed.pdf"
+    },
+    {
+      "id": "fa63469a9a322",
+      "ticker": "TONBO",
+      "company": "Tonbo Imaging India Limited",
+      "exchange": "NSE",
+      "date": "2026-10-23T16:42:18.000Z",
+      "category": "Disclosure",
+      "title": "Disclosure under Regulation 30(5) of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/TONBO_23102026164204_Regulation_30_5__Executed.pdf"
+    },
+    {
+      "id": "ff5063f4af56a",
+      "ticker": "TONBO",
+      "company": "Tonbo Imaging India Limited",
+      "exchange": "NSE",
+      "date": "2026-10-23T16:30:01.000Z",
+      "category": "Trading Window",
+      "title": "Tonbo Imaging India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/TONBO_23102026162940_Closure_of_Trading_Window_Executed.pdf"
     },
     {
       "id": "f08b090b52f9b",
@@ -19816,196 +20006,6 @@
       "category": "Investor Presentation",
       "title": "Epigral Limited has informed the Exchange about One-on-One Meeting with Investor / Analyst on Monday, 3rd August, 2026.",
       "url": "https://nsearchives.nseindia.com/corporate/MFL_30072026193635_InvestorMeet.pdf"
-    },
-    {
-      "id": "f682b7d759a34",
-      "ticker": "EPIGRAL",
-      "company": "Epigral Limited",
-      "exchange": "NSE",
-      "date": "2026-07-30T19:31:17.000Z",
-      "category": "Investor Presentation",
-      "title": "Epigral Limited has informed the Exchange about Transcript",
-      "url": "https://nsearchives.nseindia.com/corporate/MFL_30072026193102_EPLTranscriptQ1.pdf"
-    },
-    {
-      "id": "f9f6a102e6068",
-      "ticker": "LENSKART",
-      "company": "Lenskart Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-07-30T19:24:17.000Z",
-      "category": "Disclosure",
-      "title": "Lenskart Solutions Limited has informed the Exchange about the update w.r.t. incorporation of Joint Venture Company \"Lenskart Metalframes Private Limited\"",
-      "url": "https://nsearchives.nseindia.com/corporate/LENSKART_30072026192341_Intimation_-_Update_on_JV_Incorporation_30072026.pdf"
-    },
-    {
-      "id": "fea770b8da92f",
-      "ticker": "HARIOMPIPE",
-      "company": "Hariom Pipe Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-07-30T19:13:38.000Z",
-      "category": "Disclosure",
-      "title": "Hariom Pipe Industries Limited has informed the Exchange about General Updates - Receipt of Project Commissioning Certificate and Declaration of Commercial Operation Date.",
-      "url": "https://nsearchives.nseindia.com/corporate/hariompipes_30072026191121_SE_Intimation_of_HPEPL_Project_Commissioning_Certificate.pdf"
-    },
-    {
-      "id": "fb8d141ee7ec6",
-      "ticker": "MASFIN",
-      "company": "MAS Financial Services Limited",
-      "exchange": "NSE",
-      "date": "2026-07-30T19:01:36.000Z",
-      "category": "Investor Presentation",
-      "title": "MAS Financial Services Limited has informed the Exchange about Link of Recording",
-      "url": "https://nsearchives.nseindia.com/corporate/MASFIN_30072026190017_MFSLSECEQ2026_67_Audio__Video_Recording_of_Investor_call.pdf"
-    },
-    {
-      "id": "fed79c2ff46e4",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-30T18:54:15.000Z",
-      "category": "Investor Presentation",
-      "title": "Sapphire Foods India Limited has informed the Exchange about Transcript",
-      "url": "https://nsearchives.nseindia.com/corporate/SAPPHIRE_30072026185403_SapphireFoodsEarningsCallTranscript30072026.pdf"
-    },
-    {
-      "id": "fd838429918d1",
-      "ticker": "KPITTECH",
-      "company": "KPIT Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-30T18:23:14.000Z",
-      "category": "Newspaper Publication",
-      "title": "KPIT Technologies Limited has informed the Exchange about Copy of Newspaper Publication of consolidated financial statements for quarter ended June 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/KPITTECH_30072026182250_newspaper_Publication_signed.pdf"
-    },
-    {
-      "id": "f4ea0da64d101",
-      "ticker": "MTARTECH",
-      "company": "Mtar Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-30T17:50:53.000Z",
-      "category": "Investor Presentation",
-      "title": "Mtar Technologies Limited has informed the Exchange about Link of Recording",
-      "url": "https://nsearchives.nseindia.com/corporate/MTARTECH_30072026175032_Audiorecording_sw.pdf"
-    },
-    {
-      "id": "f08faf7bb59cd",
-      "ticker": "MTARTECH",
-      "company": "Mtar Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-30T17:49:35.000Z",
-      "category": "Newspaper Publication",
-      "title": "Mtar Technologies Limited has informed the Exchange about Copy of Newspaper Publication",
-      "url": "https://nsearchives.nseindia.com/corporate/MTARTECH_30072026174927_NP_sw.pdf"
-    },
-    {
-      "id": "fadc50263a088",
-      "ticker": "MASFIN",
-      "company": "MAS Financial Services Limited",
-      "exchange": "NSE",
-      "date": "2026-07-30T17:40:36.000Z",
-      "category": "Newspaper Publication",
-      "title": "MAS Financial Services Limited has informed the Exchange about Copy of Newspaper Publication for Financial Results for the quarter ended June 30, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/MASFIN_30072026174013_FINAL.pdf"
-    },
-    {
-      "id": "f1a10f899612f",
-      "ticker": "PVRINOX",
-      "company": "PVR INOX Limited",
-      "exchange": "NSE",
-      "date": "2026-07-30T17:33:37.000Z",
-      "category": "Investor Presentation",
-      "title": "PVR INOX Limited has submitted to the Stock Exchange Transcript of the Earnings Conference Call for analysts and investors held on Friday, 24th July, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/PVRINOXLTD_30072026173213_PVRINOXEarningsCallTranscript30072026.pdf"
-    },
-    {
-      "id": "f09e00d1afe78",
-      "ticker": "INDOMIM",
-      "company": "INDO-MIM Limited",
-      "exchange": "NSE",
-      "date": "2026-07-30T17:29:48.000Z",
-      "category": "Trading Window",
-      "title": "INDO-MIM Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/INDOMIM_30072026172933_INDOMIM_CTW.pdf"
-    },
-    {
-      "id": "f6061de0f28ab",
-      "ticker": "GROWW",
-      "company": "Billionbrains Garage Ventures Limited",
-      "exchange": "NSE",
-      "date": "2026-07-30T17:25:50.000Z",
-      "category": "Credit Rating",
-      "title": "Billionbrains Garage Ventures Limited has informed the Exchange about Credit Rating",
-      "url": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_30072026172535_IntimationReg30creditratingCARESigned.pdf"
-    },
-    {
-      "id": "fbfc899f86c4d",
-      "ticker": "PVRINOX",
-      "company": "PVR INOX Limited",
-      "exchange": "NSE",
-      "date": "2026-07-30T17:23:32.000Z",
-      "category": "Disclosure",
-      "title": "PVR INOX Limited has informed the Exchange about opening of 3-screen Multiplex at Mall 11, Jabalpur, Madhya Pradesh.",
-      "url": "https://nsearchives.nseindia.com/corporate/PVRINOXLTD_30072026172047_PVRINOXScreenOpeningJabalpur.pdf"
-    },
-    {
-      "id": "fbb981b9a101d",
-      "ticker": "TRIVENI",
-      "company": "Triveni Engineering & Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-07-30T16:15:06.000Z",
-      "category": "Investor Presentation",
-      "title": "Triveni Engineering & Industries Limited has informed the Exchange about Link of Recording",
-      "url": "https://nsearchives.nseindia.com/corporate/TRIVENI_30072026161451_TEIL_CONCALL_RECORDING_June2026.pdf"
-    },
-    {
-      "id": "f487671504f04",
-      "ticker": "VAML",
-      "company": "Vedanta Aluminium Metal Limited",
-      "exchange": "NSE",
-      "date": "2026-07-30T14:46:21.000Z",
-      "category": "Acquisition",
-      "title": "The Board of Directors of VAML have approved the execution of definitive agreements with Serentica Renewable India 9 Private Limited for integration of a Battery Energy Storage System( BESS )",
-      "url": "https://nsearchives.nseindia.com/corporate/VAML_30072026144613_4VAMLSEIntimationOutcomeofBMJuly302026Serenticasigned.pdf"
-    },
-    {
-      "id": "f6ddb3278ef5a",
-      "ticker": "VAML",
-      "company": "Vedanta Aluminium Metal Limited",
-      "exchange": "NSE",
-      "date": "2026-07-30T14:42:27.000Z",
-      "category": "Press Release",
-      "title": "Vedanta Aluminium Metal Limited has informed the Exchange regarding a press release dated July 30, 2026, titled \"Vedanta Aluminium delivers strong debut: Profit zooms 205% to &#8377;6,597 Cr, EBITDA jumps 134% to &#8377;10,499 Cr YoY\".",
-      "url": "https://nsearchives.nseindia.com/corporate/VAML_30072026144216_3VAMLSEIntimationOutcomeofBMJuly302026PressReleaseandIRPPT.pdf"
-    },
-    {
-      "id": "f424ae86f21d9",
-      "ticker": "VAML",
-      "company": "Vedanta Aluminium Metal Limited",
-      "exchange": "NSE",
-      "date": "2026-07-30T14:42:26.000Z",
-      "category": "Investor Presentation",
-      "title": "Vedanta Aluminium Metal Limited has informed the Exchange about Investor Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/VAML_30072026144039_3VAMLSEIntimationOutcomeofBMJuly302026PressReleaseandIRPPT.pdf"
-    },
-    {
-      "id": "f63d0e6508797",
-      "ticker": "VAML",
-      "company": "Vedanta Aluminium Metal Limited",
-      "exchange": "NSE",
-      "date": "2026-07-30T14:38:34.000Z",
-      "category": "Allotment of Securities",
-      "title": "On the recommendation of the Nomination & Remuneration Committee, the Board of Directors have considered and approved the formulation, adoption and implementation of Vedanta Aluminium Metal Limited - Employee Stock Option Plan 2026 ( VAML ESOP 2026 ) and Vedanta Aluminium Metal Limited Employee Share Purchase Plan 2026 ( VAML ESPP 2026 )",
-      "url": "https://nsearchives.nseindia.com/corporate/VAML_30072026143819_2VAMLSEIntimationOutcomeofBMJuly302026OtherApprovalssigned.pdf"
-    },
-    {
-      "id": "fb45ab5d69f3a",
-      "ticker": "VAML",
-      "company": "Vedanta Aluminium Metal Limited",
-      "exchange": "NSE",
-      "date": "2026-07-30T14:37:17.000Z",
-      "category": "Dividend",
-      "title": "Vedanta Aluminium Metal Limited has informed the Exchange that Board of Directors at its meeting held on July 30, 2026, declared Interim Dividend of Rs. 8 per equity share.",
-      "url": "https://nsearchives.nseindia.com/corporate/VAML_30072026143706_2VAMLSEIntimationOutcomeofBMJuly302026OtherApprovalssigned.pdf"
     }
   ]
 }
