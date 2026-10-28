@@ -1,13 +1,33 @@
 {
-  "generated_at": "2026-10-27T19:39:10.898Z",
+  "generated_at": "2026-10-28T09:10:14.042Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 104,
-    "watchlist": 453,
+    "portfolio": 106,
+    "watchlist": 454,
     "universe": 51,
-    "total": 504
+    "total": 505
   },
   "items": [
+    {
+      "id": "nebfd5a82461c",
+      "ticker": "UNIMECH",
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Unimech Aerospace: Approves Acquisition of Hobel Bellows, Promotes Senior Manager",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkN1UUFMVUJlVGU4TkJfUDVIQWRSVFNwR09VcW5QYnFRUW9zeEtnMWl6Y0xJN19ZUjV0UFhOYTRZVjdzSjF2cGJGRmdDUnZENVE0N0haaS1kWEx3X1NaZjUxckQzcFlfV0k1UWZQZ1J0ckZwLU1KY09KNkJHZzBoNVA4eVhfalVjVmpvZ2c1N2Jlc3F4OUpqNXM4UnV6VExGemlsUkxDcUR0YlFoSDdtY1FR?oc=5",
+      "source": "InvestyWise",
+      "date": "2026-10-27T18:27:26.000Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Unimech Aerospace acquires Hobel Bellows, expanding its manufacturing capabilities.",
+      "sources_count": 3,
+      "enriched": true
+    },
     {
       "id": "nef47a05b09de",
       "ticker": "UNIMECH",
@@ -26,6 +46,25 @@
       "mood": "neutral",
       "takeaway": "Unimech Aerospace reports variation in IPO fund usage after getting shareholder approval.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n9b8ef5a923ea",
+      "ticker": "UNIMECH",
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Unimech Aerospace: Q2 & H1 FY27 Earnings Show 98% Revenue Growth",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVDE4UXRGN2VFS2gxc1FvZ2dtLTE4R3Fac2xKeHlVUl9NQ1Z5WWRWRmJnTkFDeWdQWVdJZVd3RVVSdzhvcjdRd0Y4clJ4cG5jNVhkUS1nYXA3bTdXQnk2M1FXNkozZ1JpR1ZmYlFYaGYyUmxLTndkZnBWOGltUmp2MnpuLUl2d0tLVTN1d0RHUnZCZU1SOEVoT0NaaHJCekRwU3liOGZSaE5feTB6QXc?oc=5",
+      "source": "InvestyWise",
+      "date": "2026-10-27T16:52:20.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Unimech Aerospace reports strong Q2 and H1 FY27 results with 98% revenue growth.",
       "enriched": true
     },
     {
@@ -49,23 +88,43 @@
       "enriched": true
     },
     {
-      "id": "nfe44f379a831",
+      "id": "nec781dc88482",
       "ticker": "THEME",
       "company": "Pharma Approvals",
       "sector": "Healthcare",
       "scope": [
         "universe"
       ],
-      "title": "Alembic Pharmaceuticals receives USFDA final approval for Valganciclovir for oral solution",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdGtfMGJQbm5STEt4SzhNaEpZOU8xV1I4b2ppaWxjc3NPMzJMa0szeWV1YWJoSEdtTTZ5Vl9XOHUtNFhjcENSaXl0M1FhOUxaaVBXUDNpVWpVcmhncE1xUnFSY3g2V01yYkRINDEwVkVMMVBoaGlmVEpMN1MzdlFwMjdUaHdZWnpuclJVdk1jdHBsdTJhWnA0VWdjM0s4WlBSSUUxd28taGNaS21ETlRmN0kyNHdITjZfREp1SEZQTUV3R2tJa1E?oc=5",
-      "source": "Business Upturn",
-      "date": "2026-10-27T12:31:36.000Z",
+      "title": "Alembic Pharmaceuticals secures USFDA final approval for Valganciclovir oral solution",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVFdBbXMxSU5pbUNMcFhJSmhscjVLVE5pbVIwOTZBX0VMR21DN1R1U2Vkb3lLcFowS1YyRXFubUV6cXE0ZmhHdFMwWkNTZU5nSXlWSXhfdEJ3TG16b1hZb2RGX2VKSWx5NUY0ZXZpQXNxM0d6SWlleW5JVWM1Y25LdmxzUTBUVF96R3hLOUJJMEJPNU1JMlFoeUtNa1RBTkNIM1lKNHpFRkxhOExlQUctQThEUUY3YW9lQmVTa2o0ZDFiZ3I5TDcyUl9GZEtZeFNs0gHXAUFVX3lxTE9DWlRGYWVWUnVHYXRTTGNLdkZVTWVJZjNZdEViM1NlQjZlOTBkanc5M0RBNTFiNVZWak9HUGY2VHZlN3pOSUxmYkFwci13U2xxZ3NxN0kyT3NSWl9xbGtZZUY4anhZWld4MjlKbmd2Mkg5TlVBVlZZUTlyR3hVNHlCaWlRY1JBLTlHMnduc09SX2xBd25kdUhWVEZPaVliX0IySHFrc3JiV0RDbFZtT3NacTJweUFqRDFaVEJHMDZvcXAzRXN6Q1FNbURWRmNlSHJlREZNVVpJ?oc=5",
+      "source": "Indian Pharma Post",
+      "date": "2026-10-27T12:39:07.000Z",
       "topic": "Approvals&IP",
       "keyword": "Approval",
       "importance": "medium",
       "mood": "positive",
-      "takeaway": "Alembic Pharmaceuticals gets US FDA final approval for Valganciclovir oral solution.",
-      "sources_count": 2,
+      "takeaway": "Alembic Pharmaceuticals receives US FDA final approval for Valganciclovir oral solution.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "n45bf41f406ea",
+      "ticker": "ACUTAAS",
+      "company": "Acutaas Chemicals Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Earnings call transcript: Acutaas Chemicals Q2 2026 revenue beat lifts stock 13% By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYWg5SlpOMkZJS3Viai1mX3lFTFcxdFJvWHVjZkZEN1djZG45aGstQTlVeXBWYjZFeXZmTjM0SG0zdjBPeDBiUDR5V1lJYTE3cWM4SUZtZGo5bzBIT0Zsdzh1OGtOdUdLWWdyNzN4SVExbEdJUC05UUV2b1Izb3QzVzlmYjNVczU2Y0xfMm1zby1LVFRPVHlRQ01JWFVacnJCY1FyS1NTcEtBWTRlN2JlNnBjWWM3SDc1TUlyQXllaW1udkVMY0h4bUFLNTJwdG4yb3c5bi1R?oc=5",
+      "source": "Investing.com India",
+      "date": "2026-10-27T12:02:55.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Acutaas Chemicals Q2 2026 revenue exceeds expectations, driving 13% stock gain.",
       "enriched": true
     },
     {
@@ -285,7 +344,7 @@
       "mood": "positive",
       "takeaway": "Himadri Speciality Chemicals plans Rs 1,613 crore capacity expansion across its key business segments.",
       "enriched": true,
-      "sources_count": 2
+      "sources_count": 3
     },
     {
       "id": "n24accdecff48",
@@ -5908,6 +5967,26 @@
       "enriched": true
     },
     {
+      "id": "nf660c2c4774a",
+      "ticker": "ACUTAAS",
+      "company": "Acutaas Chemicals Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Acutaas Chemicals: CDMO Momentum Drives 59% Revenue Growth",
+      "url": "https://www.moneylife.in/article/acutaas-chemicals-cdmo-momentum-drives-59-percentage-revenue-growth/81267.html",
+      "source": "moneylife.in",
+      "date": "2026-09-03T20:33:40.298Z",
+      "topic": "Money",
+      "keyword": "Trial",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Acutaas Chemicals revenue grew 59% driven by CDMO business momentum.",
+      "enriched": true
+    },
+    {
       "id": "n2e6e043d676e",
       "ticker": "ACUTAAS",
       "company": "Acutaas Chemicals Limited",
@@ -6025,26 +6104,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Acutaas approved for ₹256.47 crore under electronics scheme for electrolyte additives.",
-      "enriched": true
-    },
-    {
-      "id": "nf660c2c4774a",
-      "ticker": "ACUTAAS",
-      "company": "Acutaas Chemicals Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Acutaas Chemicals: CDMO Momentum Drives 59% Revenue Growth",
-      "url": "https://www.moneylife.in/article/acutaas-chemicals-cdmo-momentum-drives-59-percentage-revenue-growth/81267.html",
-      "source": "moneylife.in",
-      "date": "2026-09-03T20:33:40.298Z",
-      "topic": "Money",
-      "keyword": "Trial",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Acutaas Chemicals revenue grew 59% driven by CDMO business momentum.",
       "enriched": true
     },
     {
@@ -7330,25 +7389,6 @@
       "enriched": true
     },
     {
-      "id": "ndc0a1cab0de7",
-      "ticker": "MANINDS",
-      "company": "Man Industries (India) Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Man Industries Receives QatarEnergy Approval As Preferred Manufacturer For LSAW Pipes",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaDdIX0NhTW1sYkYwM3dkdmZnTDJlS2JTLU1RakpmUEZXdU8wWlZkN2ZFLVUxTV94ZXUzaG5KcVFSNkpjdjVDVGpJbUNUUVpyRm1ZdFh6cDluYndlTjU3ZHlaLU1fNi1ZMEZWeXJhWGlwbGVuN3Z5ZFI1djktNzdSdUZvSEJQbmJlVXNfMGdXYmZkOTRQeUEzUWlwSDlSNVlGRjZ1dEZaSDlITExHZDZjUHJ3Z0ltR1lFRVBOUVY1SVUzZw?oc=5",
-      "source": "Sahi",
-      "date": "2026-08-14T07:00:00.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Man Industries approved by QatarEnergy as preferred manufacturer for large-diameter welded pipes.",
-      "enriched": true
-    },
-    {
       "id": "n4f90dbc23511",
       "ticker": "SOLARINDS",
       "company": "Solar Industries India Limited",
@@ -7755,6 +7795,25 @@
       "enriched": true
     },
     {
+      "id": "n55ac07b65c25",
+      "ticker": "UNIMECH",
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Unimech Aerospace NSE:UNIMECH Q1 FY27 Earnings Call Update",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeE9jcDB2S2lTbXNIUFdYcGQydG9zR01vaXp0dGI1YkwtektLVDI3SWRLc2toczRCWDVIRzB0dU1KQzRZamF5VVhDTU03M2JURXN4TE82OWdqbV85bTdEWnJKdHJNbU8wV0ZXWXFadWVEX3J3QU9rdGtQSGl5d29EdHJPUjlDUWplb3R5UzFYdTN5WnpvTFpLdkVKRkxMdUh1RHQwZ3NBUGs4M2lLS2dyXzBDc29fTko3?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-08-04T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Unimech Aerospace held Q1 FY27 earnings call to discuss quarterly results.",
+      "enriched": true
+    },
+    {
       "id": "nf1f382827cbc",
       "ticker": "THEME",
       "company": "Pharma Approvals",
@@ -7809,25 +7868,6 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Standard Engineering Technology clarifies funding details for GScale acquisition in EGM corrigendum.",
-      "enriched": true
-    },
-    {
-      "id": "n55ac07b65c25",
-      "ticker": "UNIMECH",
-      "company": "Unimech Aerospace and Manufacturing Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Unimech Aerospace NSE:UNIMECH Q1 FY27 Earnings Call Update",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeE9jcDB2S2lTbXNIUFdYcGQydG9zR01vaXp0dGI1YkwtektLVDI3SWRLc2toczRCWDVIRzB0dU1KQzRZamF5VVhDTU03M2JURXN4TE82OWdqbV85bTdEWnJKdHJNbU8wV0ZXWXFadWVEX3J3QU9rdGtQSGl5d29EdHJPUjlDUWplb3R5UzFYdTN5WnpvTFpLdkVKRkxMdUh1RHQwZ3NBUGs4M2lLS2dyXzBDc29fTko3?oc=5",
-      "source": "Kalkine India",
-      "date": "2026-08-04T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Unimech Aerospace held Q1 FY27 earnings call to discuss quarterly results.",
       "enriched": true
     },
     {
@@ -8224,25 +8264,6 @@
       "enriched": true
     },
     {
-      "id": "n498445216cf3",
-      "ticker": "ZENTEC",
-      "company": "Zen Technologies Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Zen Technologies Clears Q1 FY27 Results, Extends QIP Deployment Timeline",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUUJZazNDUC1TenRfaEJ1Ym92cEFXRzkwWE9DVzA2Uks3TlRJSlczdlo0Z2VqdGJmdkZDeUpMYlV3dldwd2xZVm1NZUViOW1kZGlsbE9qTXpma3NzaXVZTWpGWHJLaDRpZldDOHVoUTNCYjdBUWdaMWRKU0ZhVHhZWnhNbWJ1MjlleXRBUHFxaXR1YWlFYkRjSU80OEJOOW1NRzBnRnozdUhMdTFUbVB0WlBzWGxVUEFTZldaYnhpNEw1T29BcU1sNUo0ZGVORWNkcUJDTGZkeDFhTEtPZDk0WmF1TzQwMWc?oc=5",
-      "source": "The Globe and Mail",
-      "date": "2026-07-26T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "QIP",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Zen Technologies extends timeline for deploying funds raised through QIP.",
-      "enriched": true
-    },
-    {
       "id": "nf87412125d4f",
       "ticker": "ACUTAAS",
       "company": "Acutaas Chemicals Limited",
@@ -8260,6 +8281,25 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Acutaas Chemicals released quarterly results with earnings call recording available.",
+      "enriched": true
+    },
+    {
+      "id": "n498445216cf3",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Zen Technologies Clears Q1 FY27 Results, Extends QIP Deployment Timeline",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUUJZazNDUC1TenRfaEJ1Ym92cEFXRzkwWE9DVzA2Uks3TlRJSlczdlo0Z2VqdGJmdkZDeUpMYlV3dldwd2xZVm1NZUViOW1kZGlsbE9qTXpma3NzaXVZTWpGWHJLaDRpZldDOHVoUTNCYjdBUWdaMWRKU0ZhVHhZWnhNbWJ1MjlleXRBUHFxaXR1YWlFYkRjSU80OEJOOW1NRzBnRnozdUhMdTFUbVB0WlBzWGxVUEFTZldaYnhpNEw1T29BcU1sNUo0ZGVORWNkcUJDTGZkeDFhTEtPZDk0WmF1TzQwMWc?oc=5",
+      "source": "The Globe and Mail",
+      "date": "2026-07-26T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "QIP",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Zen Technologies extends timeline for deploying funds raised through QIP.",
       "enriched": true
     },
     {
@@ -8377,23 +8417,62 @@
       "enriched": true
     },
     {
-      "id": "n3226170b0895",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "sector": "Consumer Services",
+      "id": "n694b9674d431",
+      "ticker": "UNIMECH",
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "sector": "Capital Goods",
       "scope": [
         "watchlist"
       ],
-      "title": "JSA Advises Meesho On Acquisition Of Kirana Club",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd1pBa0g2NmtoUHNQNzMtU1FyelhHRHZ6YmVKYXplekU0VGY5Qk00RGFTZ1lZY1g3UlpCVGFOWFpVdTNvM2d0R1l2dGNrS0phSkVTcnFxaWVRcUtTZ3p1S1IwWXNVYVlKWk1uT01GdHpfaHNwX2gyZmVxQ0ZTdGhPcUNCYmtZZDNiaHZmeTR30gGTAUFVX3lxTE5ucmNnTUdpMlEydzVHNm82Y1RaTzJYcXBSa05sa0xDVjFKUjJveWZjU291SnU3enc3ZnZoSUVGbEZQbFpqMnhIcDEtYTk0VVN0aUlrY2tQNHFiS3J3VTJEemE5dHJhU0ZlZlY2NFpjOXVvTFV6ZGxLcGdPYmp5SXhjbzNwc01zME9MVGp1OGhsQlhaQQ?oc=5",
-      "source": "LawBeat",
-      "date": "2026-07-20T07:00:00.000Z",
+      "title": "Unimech invests ₹39 crore in Saudi JV for oil and gas components - CNBC TV18",
+      "url": "https://www.cnbctv18.com/market/unimech-invests-rs39-crore-in-saudi-jv-for-oil-and-gas-components-20003279.htm",
+      "source": "cnbctv18.com",
+      "date": "",
       "topic": "Deals",
-      "keyword": "Acquisition",
+      "keyword": "Joint Venture",
       "importance": "medium",
       "mood": "positive",
-      "takeaway": "Meesho acquires Kirana Club to expand its supply chain and distribution capabilities.",
+      "takeaway": "Unimech invested Rs 39 crore in Saudi joint venture for oil and gas components.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nbd8e8743fd56",
+      "ticker": "UNIMECH",
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Unimech Aerospace shareholders pass QIP and loan resolutions at 10th AGM",
+      "url": "https://scanx.trade/stock-market-news/companies/unimech-aerospace-approves-qip-related-party-loans-10th-agm/49461802",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Money",
+      "keyword": "QIP",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Shareholders approved QIP and loan resolutions at AGM, enabling fundraising and debt options.",
+      "enriched": true
+    },
+    {
+      "id": "n2159cea33ea0",
+      "ticker": "ACUTAAS",
+      "company": "Acutaas Chemicals Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Acutaas Chemicals posts 70% profit surge in Q1 FY27 on pharma demand",
+      "url": "https://scanx.trade/stock-market-news/companies/acutaas-chemicals-q1-results-net-profit-up-70-to-74-9-crore/46794570",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Capacity Expansion",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Acutaas Chemicals profit jumped 70% in Q1 FY27 driven by pharma demand.",
       "enriched": true
     },
     {
@@ -8666,45 +8745,6 @@
       "enriched": true
     },
     {
-      "id": "n694b9674d431",
-      "ticker": "UNIMECH",
-      "company": "Unimech Aerospace and Manufacturing Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Unimech invests ₹39 crore in Saudi JV for oil and gas components - CNBC TV18",
-      "url": "https://www.cnbctv18.com/market/unimech-invests-rs39-crore-in-saudi-jv-for-oil-and-gas-components-20003279.htm",
-      "source": "cnbctv18.com",
-      "date": "",
-      "topic": "Deals",
-      "keyword": "Joint Venture",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Unimech invested Rs 39 crore in Saudi joint venture for oil and gas components.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n9d68a938c156",
-      "ticker": "UNIMECH",
-      "company": "Unimech Aerospace and Manufacturing Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Unimech Aerospace: Approves Acquisition of Hobel Bellows for Restructuring | InvestyWise",
-      "url": "https://www.investywise.com/unimech-aerospace-and-manufacturing-limited-board-meeting-outcome-restructuring/",
-      "source": "investywise.com",
-      "date": "",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Company approved acquisition of Hobel Bellows for business restructuring",
-      "enriched": true
-    },
-    {
       "id": "ncde0e5c3323e",
       "ticker": "RPSGVENT",
       "company": "RPSG VENTURES LIMITED",
@@ -8843,22 +8883,23 @@
       "enriched": true
     },
     {
-      "id": "nbd8e8743fd56",
-      "ticker": "UNIMECH",
-      "company": "Unimech Aerospace and Manufacturing Limited",
-      "sector": "Capital Goods",
+      "id": "n89a15afb03f2",
+      "ticker": "CARTRADE",
+      "company": "Cartrade Tech Limited",
+      "sector": "Consumer Services",
       "scope": [
+        "portfolio",
         "watchlist"
       ],
-      "title": "Unimech Aerospace shareholders pass QIP and loan resolutions at 10th AGM",
-      "url": "https://scanx.trade/stock-market-news/companies/unimech-aerospace-approves-qip-related-party-loans-10th-agm/49461802",
-      "source": "scanx.trade",
+      "title": "CarTrade Tech: Approves Q2 FY27 Unaudited Financial Results | InvestyWise",
+      "url": "https://www.investywise.com/cartrade-tech-board-approves-unaudited-financial-results",
+      "source": "investywise.com",
       "date": "",
       "topic": "Money",
-      "keyword": "QIP",
+      "keyword": "Approval",
       "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Shareholders approved QIP and loan resolutions at AGM, enabling fundraising and debt options.",
+      "mood": "neutral",
+      "takeaway": "CarTrade Tech approved its Q2 FY27 unaudited financial results.",
       "enriched": true
     },
     {
@@ -9340,26 +9381,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Balu Forge seeks shareholder approval to raise $60 million through foreign currency convertible bonds.",
-      "enriched": true
-    },
-    {
-      "id": "n2159cea33ea0",
-      "ticker": "ACUTAAS",
-      "company": "Acutaas Chemicals Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Acutaas Chemicals posts 70% profit surge in Q1 FY27 on pharma demand",
-      "url": "https://scanx.trade/stock-market-news/companies/acutaas-chemicals-q1-results-net-profit-up-70-to-74-9-crore/46794570",
-      "source": "scanx.trade",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Capacity Expansion",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Acutaas Chemicals profit jumped 70% in Q1 FY27 driven by pharma demand.",
       "enriched": true
     },
     {
