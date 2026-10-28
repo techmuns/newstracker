@@ -1,13 +1,90 @@
 {
-  "generated_at": "2026-10-28T09:10:14.042Z",
+  "generated_at": "2026-10-28T20:05:39.881Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 106,
-    "watchlist": 454,
-    "universe": 51,
-    "total": 505
+    "portfolio": 107,
+    "watchlist": 464,
+    "universe": 52,
+    "total": 516
   },
   "items": [
+    {
+      "id": "ndb234a1dc67f",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Earnings call transcript: Meesho Q2 2026 margin gains lift outlook By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU2d5QWRFYXduQ2EtdXpHbW1RUUM5VTJ1UkJ0Slh5UTFBZWhBRk9pQnZNRDJ3MDJUQVlSMDVpeU1SM1lOY2xNYlAyVG9SOWRRNmRFd3dHLVJQcXotbDViOUhMVXptUEZpQllBbzY2Ylo1YXVkcGtFdm13c1FEWFFVdUktR3g0NHFkNU5Bb01pRnlVR201QWpWcnVhNElqWi1VQ2owQ2tYa3NXN2RMYXpJazM5cU1FaWlJbk5qd09SQkxPeXZ3?oc=5",
+      "source": "Investing.com India",
+      "date": "2026-10-28T15:30:55.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Meesho reported improved profit margins in Q2, strengthening its financial outlook.",
+      "enriched": true
+    },
+    {
+      "id": "nd292e42ffcc4",
+      "ticker": "CARTRADE",
+      "company": "Cartrade Tech Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "CarTrade Tech Q2 FY27 Earnings Call Outcome | NSE:CARTRADE",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS1FUMWNyaXJOSVBqa201ODJWel9TUmlxZTlJb3FwUFNGaXY4ZnBJY2V0QndqXzlNVnNEMnZtNXZqbEU3Z3NPUjZYSUdrcmMxczFuQ3hCbEFlQUZZQzVLd0FYV1ctTWN0OEhQRDFJUXh4dXRKcENhY0VHcUd5Mk5NdjlhbFE3VjREb3RmYVRKTlNVVUZ1UVdmVzJqNHRweFNsNlF6YVFnRXpmU01wTk5RY1F1WGJLYVk?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-10-28T13:03:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "CarTrade Tech held its Q2 FY27 earnings call discussing quarterly performance.",
+      "enriched": true
+    },
+    {
+      "id": "n56281daf3dce",
+      "ticker": "VAML",
+      "company": "Vedanta Aluminium Metal Limited",
+      "sector": "Metals & Mining",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Earnings call transcript: Vedanta Aluminium posts record Q2 2026 on higher output",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcjFKM0FsN1lQMW5Ea29pRnZlT0s1QW1iVU1vNUUtOXdPRkpUVGVna2NhR1prZk96dFU0NV83ODVQTDQ5cUFySXdLUEROaDllSjBzbERYbUNkdjhJZFpuMkg0NS1VMF9aZDhBakVKc2tyYUpKNkNYUHl2RmtPNGRMU21ReTlJRUNzSlZCQXZWR2hpUVlzZ1lDOFE3d0xiWUh2T1Z1aEVCamVuLUE1enNBUHlVdFdOd2V2RWhENUU4elJfc1Bwd0c2cVZYQ1hkYjZtdVFoeWhDNTY?oc=5",
+      "source": "Investing.com India",
+      "date": "2026-10-28T12:57:56.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Vedanta Aluminium achieved record Q2 results driven by higher production output.",
+      "enriched": true
+    },
+    {
+      "id": "n81bccd24d6cb",
+      "ticker": "UNIMECH",
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Unimech Aerospace (NSE:UNIMECH) Q2 FY27 Results, Order Book and Capacity Update",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQXh0WFZNT3Q4WHQxLVBPOWFaemdaeVU4UEpiYy1iZXFRRGUtdjhkRmY2WkpCLUpkalZDaVlXZnpLY0VKaVZxTUwyZnVyZ2VESjBIREdvV2RrNHFYZU9UYVRBQ0FaaWEybG5SN1NKal90X0ZuT3FDd2lpZkUzbHZFeXJZa29xcjRSY3B6eElIcnRNeTZQYWw0eUsxTzJkQUVnN2NzZGJqMGxBRDhfd3dyZDczX2l6bEVhaHRubWFpaDNLQVJlSUQ4c05KNlVWeHRrbGhyYjhDeTEyOE11?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-10-28T11:36:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Unimech Aerospace reported Q2 results with updates on order book and production capacity.",
+      "enriched": true
+    },
     {
       "id": "nebfd5a82461c",
       "ticker": "UNIMECH",
@@ -25,7 +102,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Unimech Aerospace acquires Hobel Bellows, expanding its manufacturing capabilities.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -104,7 +181,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Alembic Pharmaceuticals receives US FDA final approval for Valganciclovir oral solution.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -7217,6 +7294,25 @@
       "enriched": true
     },
     {
+      "id": "n547462ede3a7",
+      "ticker": "THEME",
+      "company": "Electronics / PLI",
+      "sector": "Consumer Durables",
+      "scope": [
+        "universe"
+      ],
+      "title": "Dixon Tech sees margins improving, plans ₹800-1,000 crore annual capex",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbzFJTXBjUFJIcEdMNlF5bjhXazdsaVFxQm4tb2FzR0tJRkdhclZCUGRtMUNuVHRkMmdULU5rVU9HTUZBRlFyd3lmOFF2RlRqRzhCb0ZOZ242cHBqNUdlQTI4blM0Q3VEVzd3MUhwSHZwOE1yUy1ka3NDR2FLZzhQSElTQ2dRQjVMWnpKQjhHUF9WOVhNbEg4cWJURG9LMXp2WVJ2Ui15OUNtTzREOHfSAbMBQVVfeXFMUHAxbnpMNVdET0l0QmpoZWNuS1gwVVRUSmROMW1XZjZsWF9WcXA5OEJOZmdhSDBTeGo5ZmZiNkplNmtaUHJhcm5aQnpjN0loalUxVExLa3ZTNjFXTVhmWEk0eFRLU2p1UTlSck9IWXRIbVZKTnRQWjI3Z2xYUXFHMi1MSkluSFNfaHRHMXpRWlIteWZ1RjhDTUlrcXlDeF85aTRuWUtUWXVyYzF6ajdGVGpFVW8?oc=5",
+      "source": "CNBC TV18",
+      "date": "2026-08-18T07:00:00.000Z",
+      "topic": "Growth",
+      "keyword": "Capex",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Dixon Tech plans annual capex of ₹800-1,000 crore with improving margins.",
+      "enriched": true
+    },
+    {
       "id": "nf70808249e04",
       "ticker": "JYOTICNC",
       "company": "Jyoti CNC Automation Limited",
@@ -8011,45 +8107,6 @@
       "enriched": true
     },
     {
-      "id": "nca2925673d8f",
-      "ticker": "SENORES",
-      "company": "Senores Pharmaceuticals Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Results: Senores Pharmaceuticals Limited Beat Earnings Expectations And Analysts Now Have New Forecasts",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORld2b0gzNUFENi1qS0RhTzREWWRoLTV6WEg5UWhYR25VbjhQRXZDQmg1Y0N2ZjJSX3d1NVdQRE1rUnNCeG53NmY4NzhSeWxkSU9sYUNUaGw5TEpZckRYVkJnX3RLcGM2SHVoelFFQkRBbEtuc29HWVZNd1dzMFNFY3JzdzRoRTM2Qk9meHRJVC1wQ3Q1SkNmWXVBMmhTWnJlZm96azdyajZ0NWZFNkxDUGhIcmZYZGRXZWpqU2drUW9YZ0RLUGhSTkFWVTlBN2dVamRRUDJuNmdvd1hlSUxBN0kyXzFQNzQ0d1JOMW0xeE45NklyTGRV0gH8AUFVX3lxTE9XMUJKdmxCZy0yRjQtWkZjY3phYng1QkdTNHVnVmdFZ1hzVkFJZHh4bzdseGVkXzRsZ2dTdVh6Wk1yUEc0aFVHNkVQTllOU0RqU09lWGhmbGwzbE03QzJsb3J6ZjVEWWRyOU03MjBRdS1CNmM4cGg5dGEwQUc4NWktVGt6TktwLXppWVJvLXpMZlN2YXZWV1gxNWVBd1I4amdTV3hHc0VydXZTVjVYUG9WRHdqZWc5V2lMOEZjMFVHUUNoMERVc3VSb2NwWlY5SC1fSkVzMTltczFwdUlmZ3l6em52UF8wbVFjVVNQT3BGcEhYTkJtVmVjOEliMQ?oc=5",
-      "source": "Simply Wall Street",
-      "date": "2026-07-30T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Senores Pharmaceuticals reported earnings that exceeded analyst expectations.",
-      "enriched": true
-    },
-    {
-      "id": "nb34aecb54ea5",
-      "ticker": "MTARTECH",
-      "company": "Mtar Technologies Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "MTAR Tech Q1 Net Profit Rises to ₹50.5 Crore; Order Value Reaches ₹3,100.09 Crore",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTVdKeFBieF90dWVYdktKZnp1b1N1a3M0ZEpZZUk4MXczbTA4bFVHZkhqY21YT0VwNzBScWdDZ2tJRC1wTWRGQnprUmxKZGZGM3c3QU9hZTkzd3BGTk04VmN1RXRNNmlUbDN4TmJqRGRibEllNzZnMDk2ZndJeFV2V0RZd0lSZFNraF9vUFh5bDBPdjJFOXhwUW80N0hkS2NJZ016cnJmTk5MMGJDdmpEWjQ5SUFHRVdL?oc=5",
-      "source": "Sahi",
-      "date": "2026-07-30T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "MTAR Tech's order book reached ₹3,100 crore with Q1 profit rising to ₹50.5 crore.",
-      "enriched": true
-    },
-    {
       "id": "neac501c4f27e",
       "ticker": "VAML",
       "company": "Vedanta Aluminium Metal Limited",
@@ -8086,6 +8143,45 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Vedanta posts record Q1 profit after demerger completion.",
+      "enriched": true
+    },
+    {
+      "id": "nca2925673d8f",
+      "ticker": "SENORES",
+      "company": "Senores Pharmaceuticals Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Results: Senores Pharmaceuticals Limited Beat Earnings Expectations And Analysts Now Have New Forecasts",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORld2b0gzNUFENi1qS0RhTzREWWRoLTV6WEg5UWhYR25VbjhQRXZDQmg1Y0N2ZjJSX3d1NVdQRE1rUnNCeG53NmY4NzhSeWxkSU9sYUNUaGw5TEpZckRYVkJnX3RLcGM2SHVoelFFQkRBbEtuc29HWVZNd1dzMFNFY3JzdzRoRTM2Qk9meHRJVC1wQ3Q1SkNmWXVBMmhTWnJlZm96azdyajZ0NWZFNkxDUGhIcmZYZGRXZWpqU2drUW9YZ0RLUGhSTkFWVTlBN2dVamRRUDJuNmdvd1hlSUxBN0kyXzFQNzQ0d1JOMW0xeE45NklyTGRV0gH8AUFVX3lxTE9XMUJKdmxCZy0yRjQtWkZjY3phYng1QkdTNHVnVmdFZ1hzVkFJZHh4bzdseGVkXzRsZ2dTdVh6Wk1yUEc0aFVHNkVQTllOU0RqU09lWGhmbGwzbE03QzJsb3J6ZjVEWWRyOU03MjBRdS1CNmM4cGg5dGEwQUc4NWktVGt6TktwLXppWVJvLXpMZlN2YXZWV1gxNWVBd1I4amdTV3hHc0VydXZTVjVYUG9WRHdqZWc5V2lMOEZjMFVHUUNoMERVc3VSb2NwWlY5SC1fSkVzMTltczFwdUlmZ3l6em52UF8wbVFjVVNQT3BGcEhYTkJtVmVjOEliMQ?oc=5",
+      "source": "Simply Wall Street",
+      "date": "2026-07-30T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Senores Pharmaceuticals reported earnings that exceeded analyst expectations.",
+      "enriched": true
+    },
+    {
+      "id": "nb34aecb54ea5",
+      "ticker": "MTARTECH",
+      "company": "Mtar Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "MTAR Tech Q1 Net Profit Rises to ₹50.5 Crore; Order Value Reaches ₹3,100.09 Crore",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTVdKeFBieF90dWVYdktKZnp1b1N1a3M0ZEpZZUk4MXczbTA4bFVHZkhqY21YT0VwNzBScWdDZ2tJRC1wTWRGQnprUmxKZGZGM3c3QU9hZTkzd3BGTk04VmN1RXRNNmlUbDN4TmJqRGRibEllNzZnMDk2ZndJeFV2V0RZd0lSZFNraF9vUFh5bDBPdjJFOXhwUW80N0hkS2NJZ016cnJmTk5MMGJDdmpEWjQ5SUFHRVdL?oc=5",
+      "source": "Sahi",
+      "date": "2026-07-30T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "MTAR Tech's order book reached ₹3,100 crore with Q1 profit rising to ₹50.5 crore.",
       "enriched": true
     },
     {
@@ -8379,6 +8475,25 @@
       "enriched": true
     },
     {
+      "id": "n7cd6bee08e14",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Earnings call transcript: Meesho Q1 2027 growth holds as costs ease",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWHFrOURrWmhjUkR0U29QNlpId01yVVdsMkp0aEpralRnWVZjcVRGVDVJRVlIN3ZWZ0tPckoyM20xYjRSTkQ4a2JQbG9UTVJibS1aWjVmVTNlNG14VEJXUVJHVTUyMmJ0Q1ZrZ2xPMTVRNGxJZEFtRnJUR0VPQW5MaDVNZlhrYlFoNEZnM3pLX1NlajB5S3k0dk1VTmxwV3h3eE9xal93b2tpOTVxYnkzTnpJUW5yY2pqam4yUVE3Zw?oc=5",
+      "source": "Investing.com",
+      "date": "2026-07-23T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Meesho reports Q1 2027 growth with improved cost management and operational efficiency.",
+      "enriched": true
+    },
+    {
       "id": "nd1f11fed534a",
       "ticker": "SAPPHIRE",
       "company": "Sapphire Foods India Limited",
@@ -8398,22 +8513,61 @@
       "enriched": true
     },
     {
-      "id": "n7cd6bee08e14",
+      "id": "n002827641072",
       "ticker": "MEESHO",
       "company": "Meesho Limited",
       "sector": "Consumer Services",
       "scope": [
         "watchlist"
       ],
-      "title": "Earnings call transcript: Meesho Q1 2027 growth holds as costs ease",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWHFrOURrWmhjUkR0U29QNlpId01yVVdsMkp0aEpralRnWVZjcVRGVDVJRVlIN3ZWZ0tPckoyM20xYjRSTkQ4a2JQbG9UTVJibS1aWjVmVTNlNG14VEJXUVJHVTUyMmJ0Q1ZrZ2xPMTVRNGxJZEFtRnJUR0VPQW5MaDVNZlhrYlFoNEZnM3pLX1NlajB5S3k0dk1VTmxwV3h3eE9xal93b2tpOTVxYnkzTnpJUW5yY2pqam4yUVE3Zw?oc=5",
-      "source": "Investing.com",
-      "date": "2026-07-23T07:00:00.000Z",
+      "title": "Meesho Q1 FY27: Revenue Up 48%, Net Loss Narrows to Rs 133 Crore | Kalkine India",
+      "url": "https://www.kalkine.co.in/article/growth/meesho-nse-meesho-revenue-jumps-48-and-losses-halve-as-the-marketplace-heads-into-its-biggest-festive-sale",
+      "source": "kalkine.co.in",
+      "date": "",
       "topic": "Money",
-      "keyword": "Earnings",
+      "keyword": "Acquisition",
       "importance": "medium",
       "mood": "positive",
-      "takeaway": "Meesho reports Q1 2027 growth with improved cost management and operational efficiency.",
+      "takeaway": "Meesho Q1 revenue grew 48% while losses narrowed to Rs 133 crore, showing improved financial performance.",
+      "enriched": true
+    },
+    {
+      "id": "n90b93d291992",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho flags higher festive and tech costs in Q2 as margins improve | Company Business News",
+      "url": "https://www.livemint.com/companies/company-results/meesho-flags-higher-festive-and-tech-costs-in-q2-as-margins-improve-11793199216905.html",
+      "source": "livemint.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Acquisition",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Meesho reported higher festive and tech costs in Q2 while margins improved.",
+      "enriched": true
+    },
+    {
+      "id": "n89a15afb03f2",
+      "ticker": "CARTRADE",
+      "company": "Cartrade Tech Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "CarTrade Tech: Approves Q2 FY27 Unaudited Financial Results | InvestyWise",
+      "url": "https://www.investywise.com/cartrade-tech-board-approves-unaudited-financial-results",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "CarTrade Tech approved its Q2 FY27 unaudited financial results.",
       "enriched": true
     },
     {
@@ -8550,6 +8704,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Sterlite Technologies reported record revenue in Q2 2027 earnings call.",
+      "enriched": true
+    },
+    {
+      "id": "nfbb00a0f3ebb",
+      "ticker": "STLTECH",
+      "company": "Sterlite Technologies Limited",
+      "sector": "Telecommunication",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Sterlite Technologies ka Dhamaka: Record Profit aur Company hui Debt-Free! | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/technology/Sterlite-Technologies-Q2-Profit-Hits-Record-Rs-517-Crore-Debt-Free-Status-Achieved/6ae085e3c6c6dccbb90864d1",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Sterlite Technologies reported record profit and became debt-free.",
       "enriched": true
     },
     {
@@ -8883,26 +9056,6 @@
       "enriched": true
     },
     {
-      "id": "n89a15afb03f2",
-      "ticker": "CARTRADE",
-      "company": "Cartrade Tech Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "CarTrade Tech: Approves Q2 FY27 Unaudited Financial Results | InvestyWise",
-      "url": "https://www.investywise.com/cartrade-tech-board-approves-unaudited-financial-results",
-      "source": "investywise.com",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Approval",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "CarTrade Tech approved its Q2 FY27 unaudited financial results.",
-      "enriched": true
-    },
-    {
       "id": "nf6d5f7df804a",
       "ticker": "VOEPL",
       "company": "Virtuoso Optoelectronics Limited",
@@ -9054,6 +9207,25 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Northern Arc to raise ₹5,000 crore via NCD issue, approved at AGM scheduled for Aug 18, 2026.",
+      "enriched": true
+    },
+    {
+      "id": "n3147f8e5e895",
+      "ticker": "MTARTECH",
+      "company": "Mtar Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "MTAR Technologies shares snap five session losing streak, climb 5% after Q1 results, order update - BusinessToday",
+      "url": "https://www.businesstoday.in/markets/stocks/story/mtar-technologies-shares-snap-five-session-losing-streak-climb-5-after-q1-results-order-update-546219-2026-07-30",
+      "source": "businesstoday.in",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "MTAR Technologies received new orders and reported Q1 results, shares rose 5% after five-day decline.",
       "enriched": true
     },
     {
@@ -9231,6 +9403,25 @@
       "enriched": true
     },
     {
+      "id": "n7c2a2be0d697",
+      "ticker": "DHOOTTRANS",
+      "company": "Dhoot Transmission Limited",
+      "sector": "Automobile and Auto Components",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Birlasoft: Q2 FY27 Revenue Up 6.6% to ₹14,162 Mn, Recommends Dividend | InvestyWise",
+      "url": "https://www.investywise.com/birlasoft-q2-fy27-investor-update/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Birlasoft Q2 revenue rose 6.6% to ₹1,416 crore and recommended a dividend.",
+      "enriched": true
+    },
+    {
       "id": "nf3356601ce50",
       "ticker": "STLTECH",
       "company": "Sterlite Technologies Limited",
@@ -9285,6 +9476,25 @@
       "importance": "medium",
       "mood": "negative",
       "takeaway": "Austere Systems received SEBI warning for delayed disclosure of NCLAT order.",
+      "enriched": true
+    },
+    {
+      "id": "n04e7f78d1c4c",
+      "ticker": "VAML",
+      "company": "Vedanta Aluminium Metal Limited",
+      "sector": "Metals & Mining",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Vedanta Aluminium: Approves 49.65 Million Stock Options Grant | InvestyWise",
+      "url": "https://www.investywise.com/vedanta-aluminium-approves-employee-stock-options/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Other",
+      "keyword": "Approval",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Vedanta Aluminium approves grant of 49.65 million stock options.",
       "enriched": true
     },
     {
@@ -9461,25 +9671,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Epigral raised ₹333 crore through QIP to fund growth.",
-      "enriched": true
-    },
-    {
-      "id": "n002827641072",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Meesho Q1 FY27: Revenue Up 48%, Net Loss Narrows to Rs 133 Crore | Kalkine India",
-      "url": "https://www.kalkine.co.in/article/growth/meesho-nse-meesho-revenue-jumps-48-and-losses-halve-as-the-marketplace-heads-into-its-biggest-festive-sale",
-      "source": "kalkine.co.in",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Meesho Q1 revenue grew 48% while losses narrowed to Rs 133 crore, showing improved financial performance.",
       "enriched": true
     },
     {
@@ -9829,6 +10020,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Yash Highvoltage targets Rs 1,000 crore bushing production capacity by FY31.",
+      "enriched": true
+    },
+    {
+      "id": "n72317e618d8f",
+      "ticker": "DHOOTTRANS",
+      "company": "Dhoot Transmission Limited",
+      "sector": "Automobile and Auto Components",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Dhoot Transmission: NSE, BSE Grant Approval for 2 Crore Equity Share Listing | InvestyWise",
+      "url": "https://www.investywise.com/dhoot-transmission-limited-in-principle-approval-for-share-listing/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "NSE and BSE approved listing of 2 crore equity shares.",
       "enriched": true
     }
   ]

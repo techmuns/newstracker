@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T20:05:51.911Z",
+  "generated_at": "2026-10-28T19:52:15.040Z",
   "portfolio": [
     {
       "company": "Monolithisch India Limited",
@@ -12,9 +12,14 @@
       "sector": "Healthcare"
     },
     {
-      "company": "Menon Bearings Limited",
-      "ticker": "MENONBE",
-      "sector": "Automobile and Auto Components"
+      "company": "Acutaas Chemicals Limited",
+      "ticker": "ACUTAAS",
+      "sector": "Healthcare"
+    },
+    {
+      "company": "Sudeep Pharma Limited",
+      "ticker": "SUDEEPPHRM",
+      "sector": "Chemicals"
     },
     {
       "company": "Shadowfax Technologies Limited",
@@ -22,14 +27,9 @@
       "sector": "Services"
     },
     {
-      "company": "Acutaas Chemicals Limited",
-      "ticker": "ACUTAAS",
-      "sector": "Healthcare"
-    },
-    {
-      "company": "Stylam Industries Limited",
-      "ticker": "STYLAMIND",
-      "sector": "Consumer Durables"
+      "company": "Menon Bearings Limited",
+      "ticker": "MENONBE",
+      "sector": "Automobile and Auto Components"
     },
     {
       "company": "Vivid Electromech Limited",
@@ -37,9 +37,24 @@
       "sector": "Capital Goods"
     },
     {
+      "company": "Stylam Industries Limited",
+      "ticker": "STYLAMIND",
+      "sector": "Consumer Durables"
+    },
+    {
+      "company": "Onesource Specialty Pharma Limited",
+      "ticker": "ONESOURCE",
+      "sector": "Healthcare"
+    },
+    {
       "company": "Cartrade Tech Limited",
       "ticker": "CARTRADE",
       "sector": "Consumer Services"
+    },
+    {
+      "company": "Aptus Value Housing Finance India Limited",
+      "ticker": "APTUS",
+      "sector": "Financial Services"
     },
     {
       "company": "Xpro India Limited",
@@ -52,19 +67,14 @@
       "sector": "Media Entertainment & Publication"
     },
     {
-      "company": "Onesource Specialty Pharma Limited",
-      "ticker": "ONESOURCE",
-      "sector": "Healthcare"
-    },
-    {
-      "company": "Sudeep Pharma Limited",
-      "ticker": "SUDEEPPHRM",
-      "sector": "Chemicals"
-    },
-    {
       "company": "Tonbo Imaging India Limited",
       "ticker": "TONBO",
       "sector": "Capital Goods"
+    },
+    {
+      "company": "Jio Platforms Limited",
+      "ticker": "JPL",
+      "sector": ""
     },
     {
       "company": "TANFAC Industries Ltd",
@@ -97,11 +107,6 @@
       "company": "Apsis Aerocom Limited",
       "ticker": "APSISAERO",
       "sector": "Capital Goods"
-    },
-    {
-      "company": "Aptus Value Housing Finance India Limited",
-      "ticker": "APTUS",
-      "sector": "Financial Services"
     },
     {
       "company": "Aurionpro Solutions Limited",
@@ -557,6 +562,11 @@
       "company": "Zen Technologies Limited",
       "ticker": "ZENTEC",
       "sector": "Capital Goods"
+    },
+    {
+      "company": "Aptus Value Housing Finance India Limited",
+      "ticker": "APTUS",
+      "sector": "Financial Services"
     },
     {
       "company": "Onesource Specialty Pharma Limited",
