@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T19:44:57.041Z",
+  "generated_at": "2026-10-28T09:15:28.156Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,256 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f87210fd00730",
+      "ticker": "PVRINOX",
+      "company": "PVR INOX Limited",
+      "exchange": "NSE",
+      "date": "2026-10-28T14:23:14.000Z",
+      "category": "Investor Presentation",
+      "title": "PVR INOX Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/PVRINOXLTD_28102026142215_pvrinoxinvestorpresenetatin28102026.pdf"
+    },
+    {
+      "id": "f6790c1708193",
+      "ticker": "PVRINOX",
+      "company": "PVR INOX Limited",
+      "exchange": "NSE",
+      "date": "2026-10-28T14:20:36.000Z",
+      "category": "Press Release",
+      "title": "PVR INOX Limited has submitted to the Exchange press release titled PVR INOX announces record results for the Quarter and Half Year ended September 30, 2026 .",
+      "url": "https://nsearchives.nseindia.com/corporate/PVRINOXLTD_28102026142003_PVRINOXPRESSRELEASE28102026.pdf"
+    },
+    {
+      "id": "f2c2652fddece",
+      "ticker": "PVRINOX",
+      "company": "PVR INOX Limited",
+      "exchange": "NSE",
+      "date": "2026-10-28T14:16:19.000Z",
+      "category": "Board Meeting",
+      "title": "PVR INOX Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/PVRINOXLTD_28102026141542_PVRINOXBMOUTCOME28102026.pdf"
+    },
+    {
+      "id": "fd8e2bec8fb0d",
+      "ticker": "VAML",
+      "company": "Vedanta Aluminium Metal Limited",
+      "exchange": "NSE",
+      "date": "2026-10-28T14:14:38.000Z",
+      "category": "Allotment of Securities",
+      "title": "Vedanta Aluminium Metal Limited has informed the Exchange about Options to purchase securities",
+      "url": "https://nsearchives.nseindia.com/corporate/VAML_28102026141429_1VAMLSEIntimationNRCGrants28October2026.pdf"
+    },
+    {
+      "id": "fc143152a6fec",
+      "ticker": "SBIFUNDS",
+      "company": "SBI Funds Management Limited",
+      "exchange": "NSE",
+      "date": "2026-10-28T14:12:42.000Z",
+      "category": "Board Meeting",
+      "title": "SBI Funds Management Limited has informed the Exchange regarding Outcome of Board Meeting held on October 28, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/SBIMF2026_28102026141218_BoardOutcome_jointmeeting_Signed.pdf"
+    },
+    {
+      "id": "f24642c0f588b",
+      "ticker": "SKYGOLD",
+      "company": "SKY GOLD AND DIAMONDS LIMITED",
+      "exchange": "NSE",
+      "date": "2026-10-28T13:55:30.000Z",
+      "category": "Newspaper Publication",
+      "title": "We enclose herewith the Newspaper Advertisement of the Unaudited Standalone and Consolidated Financial Results for the quarter and Half year ended 30th September 2026, published in Business Standard and Mumbai Lakshadeep.",
+      "url": "https://nsearchives.nseindia.com/corporate/SKYGOLD_28102026135510_NewspaperAdvResults.pdf"
+    },
+    {
+      "id": "f89a74fa01916",
+      "ticker": "SKYGOLD",
+      "company": "SKY GOLD AND DIAMONDS LIMITED",
+      "exchange": "NSE",
+      "date": "2026-10-28T13:43:31.000Z",
+      "category": "Newspaper Publication",
+      "title": "We enclose herewith the Newspaper Advertisement regarding Notice of 1st EOGM scheduled to be held on Wednesday, 18th November 2026 at 11:00 AM in Business Standards and Mumbai Lakshadeep.",
+      "url": "https://nsearchives.nseindia.com/corporate/SKYGOLD_28102026134309_NewspaperAdvEOGM.pdf"
+    },
+    {
+      "id": "ff0900bca3560",
+      "ticker": "KPITTECH",
+      "company": "KPIT Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-10-28T13:28:05.000Z",
+      "category": "Acquisition",
+      "title": "KPIT Technologies Limited has informed the Exchange that the Board of Directors of the Company approved the proposal of incorporation of a wholly owned subsidiary of the Company in Vietnam.",
+      "url": "https://nsearchives.nseindia.com/corporate/KPITTECH_28102026132356_1_Outcome.pdf"
+    },
+    {
+      "id": "f3e707908367a",
+      "ticker": "KPITTECH",
+      "company": "KPIT Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-10-28T13:28:05.000Z",
+      "category": "Sale or disposal",
+      "title": "KPIT Technologies Limited has informed the Exchange that the Board of Directors of the Company approved the Strike-off of Somit Solutions Limited, wholly owned step-down subsidiary of the Company.",
+      "url": "https://nsearchives.nseindia.com/corporate/KPITTECH_28102026132555_1_Outcome.pdf"
+    },
+    {
+      "id": "fc8914a53bf1a",
+      "ticker": "KPITTECH",
+      "company": "KPIT Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-10-28T13:28:05.000Z",
+      "category": "Change in Directors",
+      "title": "KPIT Technologies Limited has informed the Exchange regarding Appointment of Independent Director, Mr. Anant Talaulicar - Chairman of the Board, on the Board of KPIT Technologies Inc., material subsidiary of the Company w.e.f. October 28, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/KPITTECH_28102026132119_1_Outcome.pdf"
+    },
+    {
+      "id": "fe1bc8ceadd1e",
+      "ticker": "KPITTECH",
+      "company": "KPIT Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-10-28T13:28:05.000Z",
+      "category": "Giving guarantees/indemnity/ becoming a surety for third party",
+      "title": "KPIT Technologies Limited has informed the Exchange about Issue of Letter of Comfort in favor of KPIT Technologies (UK) Limited, a wholly-owned subsidiary of the Company.",
+      "url": "https://nsearchives.nseindia.com/corporate/KPITTECH_28102026132739_1_Outcome.pdf"
+    },
+    {
+      "id": "fab801fffd459",
+      "ticker": "KPITTECH",
+      "company": "KPIT Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-10-28T13:15:54.000Z",
+      "category": "Investor Presentation",
+      "title": "KPIT Technologies Limited has informed the Exchange about the Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/KPITTECH_28102026131505_Investor_Presentation_Sept_2026_Signed.pdf"
+    },
+    {
+      "id": "f48324d79c13e",
+      "ticker": "KPITTECH",
+      "company": "KPIT Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-10-28T12:57:10.000Z",
+      "category": "Board Meeting",
+      "title": "KPIT Technologies Limited has informed the Exchange regarding Outcome of Board Meeting held on October 28, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/KPITTECH_28102026125528_1_Outcome.pdf"
+    },
+    {
+      "id": "fddbc76743119",
+      "ticker": "YASHO",
+      "company": "Yasho Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-10-28T12:56:37.000Z",
+      "category": "Board Meeting",
+      "title": "Yasho Industries Limited has informed the Exchange regarding Outcome of Board Meeting held on October 28, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/8291904474_28102026125613_Outcome.pdf"
+    },
+    {
+      "id": "f68d452175bbb",
+      "ticker": "YASHO",
+      "company": "Yasho Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-10-28T12:54:12.000Z",
+      "category": "Board Meeting",
+      "title": "Yasho Industries Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/8291904474_28102026125357_Outcome.pdf"
+    },
+    {
+      "id": "f7fb2212cc6ed",
+      "ticker": "KPITTECH",
+      "company": "KPIT Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-10-28T12:52:46.000Z",
+      "category": "Board Meeting",
+      "title": "KPIT Technologies Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/KPITTECH_28102026124748_Outcome_NSE.pdf"
+    },
+    {
+      "id": "fcad62e1effb2",
+      "ticker": "SGMART",
+      "company": "SG Mart Limited",
+      "exchange": "NSE",
+      "date": "2026-10-28T12:32:02.000Z",
+      "category": "Newspaper Publication",
+      "title": "SG Mart Limited has informed the Exchange about Copy of Newspaper Publication of Unaudited Financial Results for the quarter and half year ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/SGMART_28102026123111_Intimation_FR_Newpaper_Publishing_28102026.pdf"
+    },
+    {
+      "id": "f06f14dfb3521",
+      "ticker": "STYLAMIND",
+      "company": "Stylam Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-10-28T12:17:22.000Z",
+      "category": "Board Meeting",
+      "title": "Stylam Industries Limited has informed the Exchange regarding amendments to MOA.",
+      "url": "https://nsearchives.nseindia.com/corporate/STYLAMIND_28102026121648_Outcome.pdf"
+    },
+    {
+      "id": "f890d92ca4317",
+      "ticker": "STYLAMIND",
+      "company": "Stylam Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-10-28T12:14:30.000Z",
+      "category": "Stock split",
+      "title": "Stylam Industries Limited has informed the Exchange that the Board of Directors at its meeting held on October 28, 2026, has considered and approved subdivision of 1 equity shares of Rs. 5 each into 84740300 equity shares of Re. 1 each.",
+      "url": "https://nsearchives.nseindia.com/corporate/STYLAMIND_28102026121349_Outcome.pdf"
+    },
+    {
+      "id": "fcfd76eefbd70",
+      "ticker": "STYLAMIND",
+      "company": "Stylam Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-10-28T11:59:32.000Z",
+      "category": "Board Meeting",
+      "title": "Stylam Industries Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/STYLAMIND_28102026115827_Outcome.pdf"
+    },
+    {
+      "id": "fad74167748e6",
+      "ticker": "CARTRADE",
+      "company": "Cartrade Tech Limited",
+      "exchange": "NSE",
+      "date": "2026-10-28T11:56:09.000Z",
+      "category": "Disclosure",
+      "title": "Cartrade Tech Limited has informed the Exchange regarding 'Allotment of 1,000 equity shares under ESOP 2021(I) of CarTrade Tech Limited'.",
+      "url": "https://nsearchives.nseindia.com/corporate/CARTRADE_28102026115601_ESOP_1000_Intimation_letter_Oct_26.pdf"
+    },
+    {
+      "id": "f635930e512f2",
+      "ticker": "OMNI",
+      "company": "Omnitech Engineering Limited",
+      "exchange": "NSE",
+      "date": "2026-10-28T11:51:30.000Z",
+      "category": "Investor Presentation",
+      "title": "Omnitech Engineering Limited has informed the Exchange about Schedule of meet, post declaration of un-audited Financial Results of the Company for the quarter and half year ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/OMNITECHENG_28102026115047_Intimation_of_Earnings_Call_to_be_held_on_05-11-2026_.pdf"
+    },
+    {
+      "id": "fcef3d0491944",
+      "ticker": "CARTRADE",
+      "company": "Cartrade Tech Limited",
+      "exchange": "NSE",
+      "date": "2026-10-28T11:47:41.000Z",
+      "category": "Press Release",
+      "title": "Cartrade Tech Limited has informed the Exchange regarding a press release dated October 28, 2026, titled \"Press Release on Q2FY27\".",
+      "url": "https://nsearchives.nseindia.com/corporate/CARTRADE_28102026114734_Press_Release.pdf"
+    },
+    {
+      "id": "fb465b749e68b",
+      "ticker": "CARTRADE",
+      "company": "Cartrade Tech Limited",
+      "exchange": "NSE",
+      "date": "2026-10-28T11:45:49.000Z",
+      "category": "Board Meeting",
+      "title": "Cartrade Tech Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/CARTRADE_28102026114445_Outcome_of_BM.pdf"
+    },
+    {
+      "id": "fe6ef9ac67ff5",
+      "ticker": "EPIGRAL",
+      "company": "Epigral Limited",
+      "exchange": "NSE",
+      "date": "2026-10-28T09:42:42.000Z",
+      "category": "Investor Presentation",
+      "title": "Epigral Limited has informed the Exchange about Conference Call on Monday, 2nd November, 2026 to discuss Q2 FY27 Results.",
+      "url": "https://nsearchives.nseindia.com/corporate/MFL_28102026094219_EPLConCallQ2.pdf"
+    },
     {
       "id": "f78f6ff776139",
       "ticker": "UNIMECH",
@@ -8546,6 +8796,16 @@
       "category": "Shareholders meeting",
       "title": "PVR INOX Limited has informed the stock exchange about the proceedings of 31st AGM held on Friday, 11th September, 2026 through VC/OAVM facility. The Meeting started at 11:00 A.M and concluded at 12:11 P.M.",
       "url": "https://nsearchives.nseindia.com/corporate/PVRINOXLTD_11092026132920_PVRINOXAGMProceedings11092026.pdf"
+    },
+    {
+      "id": "f7b0a1c3e4293",
+      "ticker": "BLACKBUCK",
+      "company": "BLACKBUCK LIMITED",
+      "exchange": "NSE",
+      "date": "2026-09-11T12:29:02.000Z",
+      "category": "Disclosure",
+      "title": "BLACKBUCK LIMITED has informed the Exchange about General Updates",
+      "url": "https://nsearchives.nseindia.com/corporate/ZINKA2015_11092026122840_Board_Meeting_Outcome_and_Reg_30.pdf"
     },
     {
       "id": "f9fb6188c3628",
@@ -19746,266 +20006,6 @@
       "category": "Newspaper Publication",
       "title": "Dixon Technologies (India) Limited has informed the Exchange about copy of Newspaper Publication of extract of Un-Audited Standalone and Consolidated Financial Results of Dixon Technologies (India) Limited for the Quarter ended 30th June, 2026",
       "url": "https://nsearchives.nseindia.com/corporate/DIXON_01082026154459_NewspaperAdvertisement01082026.pdf"
-    },
-    {
-      "id": "f7b56c957dcd2",
-      "ticker": "XPROINDIA",
-      "company": "Xpro India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-01T15:40:38.000Z",
-      "category": "Press Release",
-      "title": "Xpro India Limited has informed the Exchange regarding a press release dated August 01, 2026, titled \"Xpro India Limited reports Q1 FY27 Results\".",
-      "url": "https://nsearchives.nseindia.com/corporate/XPROINDIASKD_01082026153918_Press_release_signed.pdf"
-    },
-    {
-      "id": "fac69683fbf85",
-      "ticker": "BHARATCOAL",
-      "company": "Bharat Coking Coal Limited",
-      "exchange": "NSE",
-      "date": "2026-08-01T13:57:55.000Z",
-      "category": "Disclosure",
-      "title": "Bharat Coking Coal Limited has informed the Exchange regarding the provisional monthly production performance of Bharat Coking Coal Limited for the month of July, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/BCCL_01082026135749_Production_Performance_July_2026.pdf"
-    },
-    {
-      "id": "febb5b4da4425",
-      "ticker": "CONCORDBIO",
-      "company": "Concord Biotech Limited",
-      "exchange": "NSE",
-      "date": "2026-08-01T13:51:17.000Z",
-      "category": "Newspaper Publication",
-      "title": "Concord Biotech Limited has informed the Exchange about Copy of Newspaper Publication",
-      "url": "https://nsearchives.nseindia.com/corporate/CONCORD_01082026135108_NewspaperCutouts01082026.pdf"
-    },
-    {
-      "id": "f80fb9bdd8905",
-      "ticker": "APTUS",
-      "company": "Aptus Value Housing Finance India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-01T13:40:49.000Z",
-      "category": "Investor Presentation",
-      "title": "Aptus Value Housing Finance India Limited has informed the Exchange about Link of Recording",
-      "url": "https://nsearchives.nseindia.com/corporate/APTUS_01082026134033_Aptus_Value_Audio_Recording_Earnings_Call_Q1_FY26-27_sd.pdf"
-    },
-    {
-      "id": "f84a92d7aceb2",
-      "ticker": "SONATSOFTW",
-      "company": "Sonata Software Limited",
-      "exchange": "NSE",
-      "date": "2026-08-01T13:18:02.000Z",
-      "category": "Shareholders meeting",
-      "title": "Sonata Software Limited has submitted the Exchange a copy of Scrutinizers report of 31st Annual General Meeting held on July 31, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/SONATSOFTW_01082026131739_scrutinizerreport01082026.pdf"
-    },
-    {
-      "id": "f25ab776b1780",
-      "ticker": "VBL",
-      "company": "Varun Beverages Limited",
-      "exchange": "NSE",
-      "date": "2026-08-01T13:03:36.000Z",
-      "category": "Disclosure",
-      "title": "In continuation to our earlier disclosure dated July 6, 2026 wherein we had informed that VBL Industries (Kenya) Limited ( VBL Kenya ), a wholly-owned subsidiary of our Company entered into an agreement to acquire the value-added dairy Beverages, Juices and Packaged Drinking Water of Devyani Food Industries (Kenya) Limited ( DFIL Kenya ) for a consideration of USD 32 Million and transaction was expected to be completed on or before August 1, 2026, we would like to update that VBL Kenya has today successfully completed the aforesaid acquisition in accordance with the terms of above-mentioned agreement, accordingly the acquisition is effective w.e.f. August 1, 2026. The above information was received today (at 12:44 P.M. IST) by our Company.The detailed disclosure as required under Regulation 30 read with Para B of Part A of Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 and SEBI Master Circular No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026 had already been submitted in our earlier intimation dated July 6, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/VBL_01082026130315_Update_DFILKenya.pdf"
-    },
-    {
-      "id": "f22c89027b752",
-      "ticker": "YASHO",
-      "company": "Yasho Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-08-01T12:38:26.000Z",
-      "category": "Disclosure",
-      "title": "Yasho Industries Limited has informed the Exchange regarding 'Interview with ET NOW'.",
-      "url": "https://nsearchives.nseindia.com/corporate/8291904474_01082026123817_intimation.pdf"
-    },
-    {
-      "id": "f3fc7eb500f81",
-      "ticker": "YASHO",
-      "company": "Yasho Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-08-01T12:32:34.000Z",
-      "category": "Newspaper Publication",
-      "title": "Yasho Industries Limited has informed the Exchange about Copy of Newspaper Publication",
-      "url": "https://nsearchives.nseindia.com/corporate/8291904474_01082026123102_intimation.pdf"
-    },
-    {
-      "id": "f218b60122b3a",
-      "ticker": "URBANCO",
-      "company": "Urban Company Limited",
-      "exchange": "NSE",
-      "date": "2026-08-01T12:10:35.000Z",
-      "category": "Newspaper Publication",
-      "title": "Urban Company Limited has informed the Exchange about Copy of Newspaper Publication on Financial Results for the quarter ended June 30, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_01082026121018_UrbanCompany_Nespaperpublication_01082026.pdf"
-    },
-    {
-      "id": "fb30eb46f0609",
-      "ticker": "ZENTEC",
-      "company": "Zen Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-31T23:10:29.000Z",
-      "category": "Investor Presentation",
-      "title": "Zen Technologies Limited has informed the Exchange about Transcript",
-      "url": "https://nsearchives.nseindia.com/corporate/ZENTEC_31072026231004_Transcripts_Signed.pdf"
-    },
-    {
-      "id": "f22501c102a60",
-      "ticker": "URBANCO",
-      "company": "Urban Company Limited",
-      "exchange": "NSE",
-      "date": "2026-07-31T20:14:20.000Z",
-      "category": "Investor Presentation",
-      "title": "Urban Company Limited has informed the Exchange about Link of the Audio recording for the Earnings Call conducted today July 31, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_31072026201338_Urbancompany_Audiorecording_July312026.pdf"
-    },
-    {
-      "id": "f22e7b6bd2931",
-      "ticker": "URBANCO",
-      "company": "Urban Company Limited",
-      "exchange": "NSE",
-      "date": "2026-07-31T20:08:21.000Z",
-      "category": "Investor Presentation",
-      "title": "Urban Company Limited has informed the Exchange about Schedule of Analysts / Investors Meetings to be held on August 05 2026 and August 11, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_31072026200813_Investor_Meeting_SE_Intimation_31072026.pdf"
-    },
-    {
-      "id": "f6d8d717a798c",
-      "ticker": "PDSL",
-      "company": "PDS Limited",
-      "exchange": "NSE",
-      "date": "2026-07-31T20:03:25.000Z",
-      "category": "Shareholders meeting",
-      "title": "PDS Limited has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on July 31, 2026. Further, the company has informed the Exchange regarding voting results.",
-      "url": "https://nsearchives.nseindia.com/corporate/PDSL_31072026200257_Ltr_VotingResults_31072026_Upload.pdf"
-    },
-    {
-      "id": "fb92eaab3562b",
-      "ticker": "CONCORDBIO",
-      "company": "Concord Biotech Limited",
-      "exchange": "NSE",
-      "date": "2026-07-31T19:55:45.000Z",
-      "category": "Shareholders meeting",
-      "title": "Concord Biotech Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on July 31, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/CONCORD_31072026195531_AGMIntimation31072026.pdf"
-    },
-    {
-      "id": "f9d76dd621e2f",
-      "ticker": "SHADOWFAX",
-      "company": "Shadowfax Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-31T19:42:35.000Z",
-      "category": "Investor Presentation",
-      "title": "Shadowfax Technologies Limited has informed the Exchange about Link of Recording",
-      "url": "https://nsearchives.nseindia.com/corporate/9900590024_31072026194148_Audio_recording_of_earning_call.pdf"
-    },
-    {
-      "id": "f074680f2dcb6",
-      "ticker": "DIXON",
-      "company": "Dixon Technologies (India) Limited",
-      "exchange": "NSE",
-      "date": "2026-07-31T19:22:43.000Z",
-      "category": "Investor Presentation",
-      "title": "Dixon Technologies (India) Limited has informed the Exchange about Link of Recording",
-      "url": "https://nsearchives.nseindia.com/corporate/DIXON_31072026192013_ConferenceCallRecordingIntimation31072026.pdf"
-    },
-    {
-      "id": "f8d73988f38ea",
-      "ticker": "YASHO",
-      "company": "Yasho Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-07-31T18:50:27.000Z",
-      "category": "Investor Presentation",
-      "title": "Yasho Industries Limited has informed the Exchange about Investor Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/8291904474_31072026184640_Investor_Presentation_Q1FY27.pdf"
-    },
-    {
-      "id": "f9b2af16f2532",
-      "ticker": "YASHO",
-      "company": "Yasho Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-07-31T18:50:27.000Z",
-      "category": "Press Release",
-      "title": "Yasho Industries Limited has informed the Exchange regarding a press release dated July 31, 2026, titled \"Press Release Q1FY27\".",
-      "url": "https://nsearchives.nseindia.com/corporate/8291904474_31072026184940_Press_Release_Q1FY27.pdf"
-    },
-    {
-      "id": "f8e57b71986dd",
-      "ticker": "CONCORDBIO",
-      "company": "Concord Biotech Limited",
-      "exchange": "NSE",
-      "date": "2026-07-31T18:18:57.000Z",
-      "category": "Board Meeting",
-      "title": "Concord Biotech Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/CONCORD_31072026181713_Outcome_BM31072026.pdf"
-    },
-    {
-      "id": "fc04c89b55a41",
-      "ticker": "SONATSOFTW",
-      "company": "Sonata Software Limited",
-      "exchange": "NSE",
-      "date": "2026-07-31T18:01:16.000Z",
-      "category": "Shareholders meeting",
-      "title": "Sonata Software Limited has informed the Exchange regarding Proceedings of 31st Annual General Meeting held on July 31, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/SONATSOFTW_31072026175858_agmproceedings31072026.pdf"
-    },
-    {
-      "id": "fe016a50cb0f0",
-      "ticker": "SHADOWFAX",
-      "company": "Shadowfax Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-07-31T17:45:55.000Z",
-      "category": "Change in Directors",
-      "title": "Shadowfax Technologies Limited has informed the Exchange about Resignation of Director/KMP/SMP",
-      "url": "https://nsearchives.nseindia.com/corporate/SHADOWFAX_ROID_93816_KMP_Doc.zip"
-    },
-    {
-      "id": "f1053f25c1d8a",
-      "ticker": "APTUS",
-      "company": "Aptus Value Housing Finance India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-31T17:43:43.000Z",
-      "category": "ESOP/ESOS/ESPS",
-      "title": "Aptus Value Housing Finance India Limited has informed the Exchange regarding Allotment of 25000 Shares.",
-      "url": "https://nsearchives.nseindia.com/corporate/APTUS_31072026174333_SE_Intimation_ESOP_sd.pdf"
-    },
-    {
-      "id": "f83c97f2f9a69",
-      "ticker": "MASFIN",
-      "company": "MAS Financial Services Limited",
-      "exchange": "NSE",
-      "date": "2026-07-31T17:12:45.000Z",
-      "category": "Granting/withdrawal/surrender/cancellation/suspension of key licenses/ regulatory approvals",
-      "title": "MAS Financial Services Limited has informed the Exchange about Granting/withdrawal/surrender/cancellation/suspension of key licenses/ regulatory approvals",
-      "url": "https://nsearchives.nseindia.com/corporate/MASFIN_31072026171225_MFSLSECEQ2026_20_UIDAI.pdf"
-    },
-    {
-      "id": "f31271ad6d415",
-      "ticker": "PDSL",
-      "company": "PDS Limited",
-      "exchange": "NSE",
-      "date": "2026-07-31T16:57:47.000Z",
-      "category": "Shareholders meeting",
-      "title": "PDS Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on July 31, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/PDSL_31072026165719_Ltr_OutcomeofAGM_31072026.pdf"
-    },
-    {
-      "id": "f25bd412af8da",
-      "ticker": "URBANCO",
-      "company": "Urban Company Limited",
-      "exchange": "NSE",
-      "date": "2026-07-31T16:52:25.000Z",
-      "category": "Monitoring Agency Report",
-      "title": "Monitoring Agency Report for the quarter ended June 30, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_31072026165122_Urban_Company_MAR_Q1_FY27.pdf"
-    },
-    {
-      "id": "f3cb6246cf0b5",
-      "ticker": "DENTALKART",
-      "company": "Vasa Denticity Limited",
-      "exchange": "NSE",
-      "date": "2026-07-31T16:38:31.000Z",
-      "category": "Change in Company Secretary/Compliance Officer",
-      "title": "Vasa Denticity Limited has informed the Exchange about Resignation of Company Secretary/Compliance Officer",
-      "url": "https://nsearchives.nseindia.com/corporate/VASADENTICITY_31072026163621_Intimation_Resignation_of_CS_Final.pdf"
     }
   ]
 }
