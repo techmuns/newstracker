@@ -1,13 +1,53 @@
 {
-  "generated_at": "2026-10-28T20:05:39.881Z",
+  "generated_at": "2026-10-29T09:14:36.015Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 107,
-    "watchlist": 464,
-    "universe": 52,
-    "total": 516
+    "portfolio": 110,
+    "watchlist": 469,
+    "universe": 53,
+    "total": 522
   },
   "items": [
+    {
+      "id": "n36dfe70992e3",
+      "ticker": "SENORES",
+      "company": "Senores Pharmaceuticals Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Senores Pharmaceuticals SENORES Subsidiary Capacity Expansion 2027",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRWp4TGF5SVdNU054R0U3eEd2V2FzdFJMbUtIMTBaVVNWdHRHRV9GOTY2VE5ENklZN3FPdU5KTTB0REwxQ2JObkhNLWFCSW5NVEVHSzRPX2V6X1I2cWpkR056eU5PVFJOX1BjdWQxejc0OVIzUVVzODZ2OWN1MmZ1R3hieGtaSzJrZXBPNWJrT3NFdHRJbWI4c0Q1Q0dNU0tIa0t4aVk0YVZEcDJQZ1ZqTzdVd1NSQk9ZYmdCSndFX2NDZ3hXTG1HNnFvS2c?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-10-29T08:27:00.000Z",
+      "topic": "Growth",
+      "keyword": "Capacity Expansion",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Senores Pharmaceuticals' subsidiary is expanding capacity, expected completion by 2027.",
+      "enriched": true
+    },
+    {
+      "id": "ncee98921f51c",
+      "ticker": "SUDEEPPHRM",
+      "company": "Sudeep Pharma Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Earnings call transcript: Sudeep Pharma posts record Q2 2027 revenue, EBITDA By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdlNQM0tta19LX1laVFNCcGJuTEhOd2FzQ09BVzZwRmpQU01McWdKMGRVY1QyRmRXMldzZDZKWDFveTJUbk9BN3BXQ0h0SXN0VThwZlh0T0kyOWROT3VNTlRYQTY5OFNTNXljX0tGNlA0bE9ZV1FWSHNxUmdGX0o0R0tOVnRsRWl1TUNfeTc0NGQ1WWVkcldGRzRCMUlWYXlIT3VDREhqUzJIUS0tWDlhT0xLUzZRNVFSRzROV1A0Z01nU2Z3b2ZsX1JMTFBGWURJ?oc=5",
+      "source": "Investing.com India",
+      "date": "2026-10-29T08:03:45.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Sudeep Pharma reported record revenue and EBITDA in Q2 2027.",
+      "enriched": true
+    },
     {
       "id": "ndb234a1dc67f",
       "ticker": "MEESHO",
@@ -67,6 +107,25 @@
       "enriched": true
     },
     {
+      "id": "n3e7a2e57184c",
+      "ticker": "DHOOTTRANS",
+      "company": "Dhoot Transmission Limited",
+      "sector": "Automobile and Auto Components",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Dhoot Transmission gets in-principle approval for 20.59 lakh ESOP shares",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaVJfcUFvQVluYUtNOWZheU1XM0xac2V5TkZHc3lGbjdTX3RBeUl6X0RxYk93LUZ1dGd3d2dMZHA1OVJ3NkJKOV9uU0pQcm0tWU1wX1ByM3Y2c2MzT3FBb0xWWUpTb25UcjFHMnRZS3hGelpWQ1gwNHRSTXBFXzV1T05RN0w1Yl8xVjByLUUtVWY0WDhmaC1XU3U0OUo5ZlpDLUZxb2dETTg2dTFRbjlpY0xMM1RDMnBLUG5sZENYWQ?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-10-28T12:38:07.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Dhoot Transmission received approval for 20.59 lakh employee stock option shares.",
+      "enriched": true
+    },
+    {
       "id": "n81bccd24d6cb",
       "ticker": "UNIMECH",
       "company": "Unimech Aerospace and Manufacturing Limited",
@@ -83,6 +142,26 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Unimech Aerospace reported Q2 results with updates on order book and production capacity.",
+      "enriched": true
+    },
+    {
+      "id": "nf83ed7419357",
+      "ticker": "JPL",
+      "company": "Jio Platforms Limited",
+      "sector": "",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Jio clocks $15.5 billion revenue, $8 billion earnings this year: Isha Ambani",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNzF3V3ZacmFuNFAybEpkQ2RZUi1nOEhKOE1sZVNGd1dkR3BhVEItTjFjVU9HVkJPQllMQWlqZDBSdXZrUk11TXZxS1FzYmVBcGh5WXB0UzR5d2s4dEN5cG9WTl9uNWFndFNvbldXOWNyVWtFM3BCaTI1a1BVaEM1LVNvbHpSVVlHMDY5NHZqNUZhdGZnQk1fM2RSS2VSVk1uNm50cXlfRG1hZExQcFBvc3FkZjRUZ3pSMWZNSnJ3YUFaRmtNaUtxOUJGeFlOdTVVRHpPaUtUQ0_SAd4BQVVfeXFMUHJMOVhLQ050SWZKQlJrVUVHcFhmX0VwLTVra0tNVXAySUlvc1hCLXlfRDRQV0pRWUFuaFhmVV9HXzVLcTVMbFVId2RheV9GaFBuMUJ5bk5GVGpaTDJwQV9Dc3pyRnNUb2VJWDkwNi1nUjctMmNOR2ZpdlVSbVpOaWEwbVlIY2FhSERXZU1YdFhYR2h6UkJmeXI2ODcyWmN1b0hkaXBIaDA3WHlUaGw1TzNaWlU1akU2SHhUN04zaFV5bHdVclJBZTRuZ2daOF9wMXRob0c3RWFnY1hWTHp3?oc=5",
+      "source": "ET Telecom",
+      "date": "2026-10-28T07:12:53.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Jio Platforms achieved $15.5 billion revenue and $8 billion earnings this year.",
       "enriched": true
     },
     {
@@ -165,6 +244,25 @@
       "enriched": true
     },
     {
+      "id": "naf545cdbe2cf",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
+      "scope": [
+        "universe"
+      ],
+      "title": "Indoco’s AnaCipher receives ANVISA Brazil approval for clinical and bioanalytical facilities",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNG9aSGI3bWxQVzdTQkJoXzdLOVhoYVlqbnUxb09hNjJldTB3OUVqZ3h5dFY0cDhSTzY1c0RBaHpPN04tdV9HOG94RUJxV2JoMjdudzc5NWhuU19CREM2Vk5hb0pDVHVPNm9XWFhvRzN3X205MEplM3VGM1VteUMwWHNSMHpEelVlZ0xMeFJUcXZ2ZEpORWoxZF9wLS1DWW1BMG5OWVZTOGg1RUUzbHJBQ013R3ZvajBleEtUREFXUUhnWXh1REt3dWxsaVNDSnFJb2IyQ0RqTXjSAd8BQVVfeXFMTjlkbHVDRkRUVFVjZWJNcWY5bDQzczNhZE5rNnFyUXJId000MGhHTFVNc3hPVnY0R2RuZWtmN2dFcnBXV0E5UmktdjZ1NmZaU09LQTdfQTF0SVNydzR4Vk95cGNHaTNGamlhTFRVVkNoTjN0YnNwYWItMlVJQTBkcFpCRFd6ek1aRE1lOERxcy1fanBiV0RXTWZDYTc2VjItMkxEUU1LaVEwVFlHdU5Wc1lINE93NTBFT3NZWHFCVlZaaURtQWM0SGg0cDFqUUFyOGNYcUs1TVJQNmo4UXFQNA?oc=5",
+      "source": "Indian Pharma Post",
+      "date": "2026-10-27T12:44:07.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Indoco's AnaCipher received Brazil ANVISA approval for clinical and bioanalytical facilities.",
+      "enriched": true
+    },
+    {
       "id": "nec781dc88482",
       "ticker": "THEME",
       "company": "Pharma Approvals",
@@ -221,7 +319,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "E2E Networks plans to expand GPU capacity by about 5.4 MW.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -1277,7 +1375,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Laxmi Dental released its Q1 2027 earnings call transcript.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -1432,6 +1530,25 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Kanohar Electricals secures transformer order worth over Rs 250 crore from central CPSU.",
+      "enriched": true
+    },
+    {
+      "id": "n66fd4801a6e8",
+      "ticker": "KANOHAR",
+      "company": "Kanohar Electricals Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Big PSU Order Jackpot! Kanohar Electricals Lands Massive 400 kV Transformer Contract",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOFJ3ZkpmTlpQM1NkdjYzOE9BSkIxMko2akJhWjhYOUlPZmtpQkt6R2NWSE1uLVFYY05BQml4aHZtX3FoMnNLZWk1OVFSbjhfN3d6a0hxZkV5QzBfeFBUdFE0NVFGdkx1SldWdEJPbnhmS0lFQzFPM2N3MmZ0UTNac3I4MWk1cjkzUXZBOGNBY0twX2FVVEU3bUVHSDRwMjJaREE0OEg0UksydVRzWDRHeUJ6emFkWGNCeTJ6YmFyX01yV0hX?oc=5",
+      "source": "Dalal Street Investment Journal",
+      "date": "2026-09-30T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Kanohar Electricals won a major contract to supply 400 kV transformers to a PSU.",
       "enriched": true
     },
     {
@@ -8571,6 +8688,25 @@
       "enriched": true
     },
     {
+      "id": "n72317e618d8f",
+      "ticker": "DHOOTTRANS",
+      "company": "Dhoot Transmission Limited",
+      "sector": "Automobile and Auto Components",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Dhoot Transmission: NSE, BSE Grant Approval for 2 Crore Equity Share Listing | InvestyWise",
+      "url": "https://www.investywise.com/dhoot-transmission-limited-in-principle-approval-for-share-listing/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "NSE and BSE approved listing of 2 crore equity shares.",
+      "enriched": true
+    },
+    {
       "id": "n694b9674d431",
       "ticker": "UNIMECH",
       "company": "Unimech Aerospace and Manufacturing Limited",
@@ -10020,25 +10156,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Yash Highvoltage targets Rs 1,000 crore bushing production capacity by FY31.",
-      "enriched": true
-    },
-    {
-      "id": "n72317e618d8f",
-      "ticker": "DHOOTTRANS",
-      "company": "Dhoot Transmission Limited",
-      "sector": "Automobile and Auto Components",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Dhoot Transmission: NSE, BSE Grant Approval for 2 Crore Equity Share Listing | InvestyWise",
-      "url": "https://www.investywise.com/dhoot-transmission-limited-in-principle-approval-for-share-listing/",
-      "source": "investywise.com",
-      "date": "",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "NSE and BSE approved listing of 2 crore equity shares.",
       "enriched": true
     }
   ]
