@@ -1,13 +1,150 @@
 {
-  "generated_at": "2026-10-29T09:14:36.015Z",
+  "generated_at": "2026-10-29T20:02:58.068Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 110,
-    "watchlist": 469,
+    "portfolio": 117,
+    "watchlist": 485,
     "universe": 53,
-    "total": 522
+    "total": 538
   },
   "items": [
+    {
+      "id": "n286b55de719f",
+      "ticker": "MTARTECH",
+      "company": "Mtar Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "MTAR Technologies secures Rs.504 crore order for Kaiga 5 & 6 projects",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNDk3VkxXODJEdWJHVExrbW9sVlNPRHBJai1idTB5YkFKeWxnTnBpZmk0ajhPQTE5aWxNYkEzTEFxN2dwWkZQU2hZTkRXWmlvcEFSTmY1WnVsU1VlWlhVZVZvZ1N5Yzl2a01fR3hCblFXNEJORDRVM3VqeXVPVHVQbWdwSXZJelFGRmloRmVUTnZWWnFIZ0NsU2JvSTFwT09COUpva1VmYw?oc=5",
+      "source": "Business Upturn",
+      "date": "2026-10-29T19:12:49.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "MTAR Technologies wins Rs.504 crore order for Kaiga nuclear power projects 5 & 6.",
+      "enriched": true
+    },
+    {
+      "id": "n33199d282801",
+      "ticker": "TONBO",
+      "company": "Tonbo Imaging India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Tonbo Imaging: Wins Strategic European Export Order for EO/IR Seeker",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc3Z4bG93MGhJa1hfMWtrMUp6MEJaS0hUOWtid1ZqSnNHRVlLek1CYkV5d0xmSmd5WG1GdzZpT3RLRl9HekJSUVpxUm5FVXN5dTUtbFZNWVdPSHdESlY1Y2E2UEZrUzdGVjluQk5EcHBZbThDU29JcXNhaDdaUmY0Z1BWMG40NjdYd0dZQWw5NVVCLVlMT1g2T09qUG8?oc=5",
+      "source": "InvestyWise",
+      "date": "2026-10-29T17:48:17.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Tonbo Imaging secures strategic export order from Europe for seeker systems.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "n2d08a8ea5b90",
+      "ticker": "SHADOWFAX",
+      "company": "Shadowfax Technologies Limited",
+      "sector": "Services",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Earnings call transcript: Shadowfax posts record Q2 2027 revenue, margin gains By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd3ZCd2RRbXRianNhUG5zTmVJUFFQNmpiSVhCYy1Db3A4LUN2RE5uMjVLR0lLcF81b1BXZThqZW5XYWJtVS1jYmtTbmZTVDZLTDVWdnkzb1hkSWZqaDNZbUMtd29VcjZrQ3VUNEI5QjRpNjBXWGZZekRZd2sxQzdWWGhfUEo5MDRZZ1pkVjZjekFtdzNVODJZZVBVMUVPaG51bGp2Z0VTQjZwM1REa0VlSXo2RV9TOWx4R2c2VlJkMllERWVYWnlFdmNLMk9ZTk8ycDJn?oc=5",
+      "source": "Investing.com India",
+      "date": "2026-10-29T12:40:55.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Shadowfax reports record Q2 2027 revenue with improved margins.",
+      "enriched": true
+    },
+    {
+      "id": "n0704b1b38409",
+      "ticker": "MTARTECH",
+      "company": "Mtar Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "MTAR Technologies receives merger order approval for subsidiaries",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWDRDNnNtQTNzeEp6RGNWblEzUWd0dklCZUpFWjltbFFGajRkMVZTamhfVFZYZmJRY0dSNnFPVER5OEF6cDA2SDJtXzM3a3dvVEpLS2k0ZlFQakVDcFVKM3VrZ3Z5ZXdoVUhzaFhPMFUzb0FKZ0lFSGtrZDRzZHBQeTZGSUJ5clVWLXlhRWFCdlNGNUxxZUhtbHgxbWJlWDZLcURESg?oc=5",
+      "source": "Business Upturn",
+      "date": "2026-10-29T12:14:46.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "MTAR Technologies receives NCLT approval for subsidiary merger.",
+      "enriched": true
+    },
+    {
+      "id": "n1c842d8faad6",
+      "ticker": "MTARTECH",
+      "company": "Mtar Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "MTAR Technologies NCLT Merger Order: Subsidiaries Amalgamated",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMFlvRkg4V2tBX1ZQR2V6WlpZMDNvcGFlT2xqOUFyMUg3dXg1cjJVNTRWRHYwUWNjal9TTmprbVZXLV84Rnp5WEJOQmYzcENwMVA4SHFBNEdrRlVoN1dyYjNaREJiYUpqU3dBU1RBdE1FR3dfcEdDSWUzWHFJVXJpV3l4WFJYMThLQmJMMkMxbDFjUk1UQm5jdXhmY3FuNktEYjk1WUo4MzFCY2pkdUN6Q2prcU5Ua042NzNjMEFQVWVoWUtJejRVNEhVckU?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-10-29T11:16:00.000Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "MTAR Technologies completes merger of subsidiaries after NCLT order.",
+      "enriched": true
+    },
+    {
+      "id": "n60152aeb4709",
+      "ticker": "VAML",
+      "company": "Vedanta Aluminium Metal Limited",
+      "sector": "Metals & Mining",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Vedanta Aluminium Profit Doubles in Q2: Can Lower Costs and Debt Reduction Sustain Earnings Growth?",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd2gzV0pzdlNYUm1uRElXYmNnV29YZmxVN284QTRsMWVleUJuUncxb2Fac2VaRFZCQjNtRXpOVkgwazNaU3hkVDFqTVIwMHkwcy1JOXlRbzJwbWtMcGVtckd0UTdNeExFT2dCR1JIU0dwcnV6M2lXdm5JM25EcnY5aEtfY2tYZllWWkJKaU1pWE84WjlDVFZSdlFnREt1ZTNVblh3R3BNRXpsWWRRNVZySTRjbElVTTM0b3NMN3o3cy16V0dVSEM0dEgycWNFSVE0UW5RX3pjemZxV2U5?oc=5",
+      "source": "Trade Brains",
+      "date": "2026-10-29T11:02:42.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Vedanta Aluminium profit doubles in Q2 driven by lower costs and debt reduction.",
+      "enriched": true
+    },
+    {
+      "id": "n37bce2ad47f3",
+      "ticker": "MTARTECH",
+      "company": "Mtar Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "MTAR Technologies Approves Q2 FY27 Results & Merger",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaE5rbHRydEZ5RWg1OUlBNHZBbE5ielN4Vm9SdWRhQmlGUmE4SUdsVFVzVXd5VC1VaHRoOGZXZ0JBZE5zMFJZRzhtUjVPOUUwLUZldkZ0TjJHMEtqcVlTVHU1V241WUFTeFU2amRtV3o3dHlMNE1JZlFFdC1OeUI1RW5Wd1BPSWp6N0lxMmRib0ZyOEMzTEZubUI3M2VCMUU?oc=5",
+      "source": "InvestyWise",
+      "date": "2026-10-29T10:56:50.000Z",
+      "topic": "Money",
+      "keyword": "Merger",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "MTAR Technologies approves Q2 FY27 results and subsidiary merger.",
+      "sources_count": 2,
+      "enriched": true
+    },
     {
       "id": "n36dfe70992e3",
       "ticker": "SENORES",
@@ -65,7 +202,8 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Meesho reported improved profit margins in Q2, strengthening its financial outlook.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "nd292e42ffcc4",
@@ -379,7 +517,8 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "E2E Networks expanding AI Factory capacity by 59%.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n51273f832a88",
@@ -557,7 +696,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "KSH International secured PGCIL approval for high-voltage power transmission conductors supply.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -1123,7 +1262,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "BEML secured ₹75.58 crore order for military vehicle exports.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -1375,7 +1514,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Laxmi Dental released its Q1 2027 earnings call transcript.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -4830,6 +4969,25 @@
       "enriched": true
     },
     {
+      "id": "na73277d35cf6",
+      "ticker": "MTARTECH",
+      "company": "Mtar Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "MTAR Technologies Q2 FY2026 Earnings: EPS at ₹30.57 on 30.2% Revenue Surge to ₹865.40 crore",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUUdWUXRkLUJNczAyUVNRV0dMbWFqUWZDLXEwUXM0a2FaOGpmOXZiUzFBOW92dW5xQWthQ3QyM3QtbzJpUEFqWk5zVlVyS2xWbG9GU0Ezbkd0dE1nbVpWdTZtcEFsOGhZWFBtZWZpbnJDVXY4SlQyS1NSNVBxMUlZcDMxenBXSjFjTmN2VHVCR210aVdxakJEMDdvamNQZ2dPYm9xZ2l4NnFoaEttZmFsMVR2c195TzM0T0ZMeFJNNzhrRmRJOGVv?oc=5",
+      "source": "siam.in",
+      "date": "2026-09-04T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "MTAR Technologies Q2 revenue jumped 30% to ₹865 crore with earnings per share at ₹30.57.",
+      "enriched": true
+    },
+    {
       "id": "nef8008b4d364",
       "ticker": "XPROINDIA",
       "company": "Xpro India Limited",
@@ -4847,25 +5005,6 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Xpro India Q2 2026 earnings show ₹8.31 EPS maintained despite 5.5% revenue drop.",
-      "enriched": true
-    },
-    {
-      "id": "na73277d35cf6",
-      "ticker": "MTARTECH",
-      "company": "Mtar Technologies Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "MTAR Technologies Q2 FY2026 Earnings: EPS at ₹30.57 on 30.2% Revenue Surge to ₹865.40 crore",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUUdWUXRkLUJNczAyUVNRV0dMbWFqUWZDLXEwUXM0a2FaOGpmOXZiUzFBOW92dW5xQWthQ3QyM3QtbzJpUEFqWk5zVlVyS2xWbG9GU0Ezbkd0dE1nbVpWdTZtcEFsOGhZWFBtZWZpbnJDVXY4SlQyS1NSNVBxMUlZcDMxenBXSjFjTmN2VHVCR210aVdxakJEMDdvamNQZ2dPYm9xZ2l4NnFoaEttZmFsMVR2c195TzM0T0ZMeFJNNzhrRmRJOGVv?oc=5",
-      "source": "siam.in",
-      "date": "2026-09-04T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "MTAR Technologies Q2 revenue jumped 30% to ₹865 crore with earnings per share at ₹30.57.",
       "enriched": true
     },
     {
@@ -7161,25 +7300,6 @@
       "sources_count": 2
     },
     {
-      "id": "n572573dcbe30",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Sapphire Foods approves revised merger scheme with Devyani International",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOODQxTDU3QzVvRW1ZLXB4Y3lHdDNOTXJQWHVsQ3N6SXhkRG9KeHdIeTMtQ0xiZG4yQUpGSDlZZDJuZndYYUhyWDhFcnFPQkZfNHJHYTdPa1F2eE41T3VJbTMyQ3BoZDdJS2xwaHBNVVZBQ0lyczh5cTlIQlFoRGlDZVZFd1Mtb25HS0liQW0yb0JzS2pTTUNGUHYxX3VwQnJjSDE3R3dET0dzYnU3N09NU3BDcG1FOFR0UE1paEJoTHJGUQ?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-08-26T07:00:00.000Z",
-      "topic": "Deals",
-      "keyword": "Merger",
-      "importance": "high",
-      "mood": "neutral",
-      "takeaway": "Sapphire Foods approves revised merger scheme with Devyani International.",
-      "enriched": true
-    },
-    {
       "id": "n3c77f5442fbb",
       "ticker": "MTARTECH",
       "company": "Mtar Technologies Limited",
@@ -7196,6 +7316,25 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "MTAR Technologies won a Rs 127 crore order from NPCIL for nuclear reactor components.",
+      "enriched": true
+    },
+    {
+      "id": "n572573dcbe30",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Sapphire Foods approves revised merger scheme with Devyani International",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOODQxTDU3QzVvRW1ZLXB4Y3lHdDNOTXJQWHVsQ3N6SXhkRG9KeHdIeTMtQ0xiZG4yQUpGSDlZZDJuZndYYUhyWDhFcnFPQkZfNHJHYTdPa1F2eE41T3VJbTMyQ3BoZDdJS2xwaHBNVVZBQ0lyczh5cTlIQlFoRGlDZVZFd1Mtb25HS0liQW0yb0JzS2pTTUNGUHYxX3VwQnJjSDE3R3dET0dzYnU3N09NU3BDcG1FOFR0UE1paEJoTHJGUQ?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-08-26T07:00:00.000Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "high",
+      "mood": "neutral",
+      "takeaway": "Sapphire Foods approves revised merger scheme with Devyani International.",
       "enriched": true
     },
     {
@@ -8008,6 +8147,26 @@
       "enriched": true
     },
     {
+      "id": "n8dc332b3a441",
+      "ticker": "SHADOWFAX",
+      "company": "Shadowfax Technologies Limited",
+      "sector": "Services",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Earnings Beat: Shadowfax Technologies Limited Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQb3J4LUM4VlpKelJHOGxTZWtpWnpNQjU5U01qSzljZ0MzWDJ3NElrMUZ1Qzk1M1NVN3M2WjFDazNQWF9EVTFsYXduclJwSkhZcUphZVNXdldQNXhDbUQyVUNydXBwdWg0a184ODlJMHR1ZmlIMWlXVUVIUGlhSThLb0gyMTVveGZRQnhYWC1OWmttSUk3Z2oxaGlnWG56dVZfblc5eFgwYmZwZngyTTcwX3FDVkhwSkNQRllRbzlKbmxSOGRTRENmbWEzaHRvWElJb0RGSXhkaDlMS0hYNFZKUGM2dnNWbjNTbmVPRdIB8gFBVV95cUxQbktzTEg1VHBpUjhEampVMXg4RlpGS1RNZ0JjSjk0cXNOb1JwREp6VnJCenBRSGxjb3puLWs3VzJwMHRPRlpFZ1ZCdUxfQ0N6d0hBekc2a1AwMTF5bFc5SUxNYldWSEVaZVJmalhOUmY2WVRHMmZDZ0NLMU84eDd3QUY2YmFEZnlONnZCWUpaejlmZGlEVDNmS0J4NXBSN0t5eUV0RDFTZEtNc1hIXzR4SUF1SG1NX1Y3amwtd3VQZjBBa2tudFB6R01pS21XVEx5Mm1nVDdmcVRsS1RTS2ZtWFZrMUJOazFkVzdGc0V4Qi1zQQ?oc=5",
+      "source": "Simply Wall Street",
+      "date": "2026-08-04T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Shadowfax beat analyst earnings forecasts, prompting analysts to update their financial models.",
+      "enriched": true
+    },
+    {
       "id": "n55ac07b65c25",
       "ticker": "UNIMECH",
       "company": "Unimech Aerospace and Manufacturing Limited",
@@ -8084,26 +8243,6 @@
       "enriched": true
     },
     {
-      "id": "n8dc332b3a441",
-      "ticker": "SHADOWFAX",
-      "company": "Shadowfax Technologies Limited",
-      "sector": "Services",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Earnings Beat: Shadowfax Technologies Limited Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQb3J4LUM4VlpKelJHOGxTZWtpWnpNQjU5U01qSzljZ0MzWDJ3NElrMUZ1Qzk1M1NVN3M2WjFDazNQWF9EVTFsYXduclJwSkhZcUphZVNXdldQNXhDbUQyVUNydXBwdWg0a184ODlJMHR1ZmlIMWlXVUVIUGlhSThLb0gyMTVveGZRQnhYWC1OWmttSUk3Z2oxaGlnWG56dVZfblc5eFgwYmZwZngyTTcwX3FDVkhwSkNQRllRbzlKbmxSOGRTRENmbWEzaHRvWElJb0RGSXhkaDlMS0hYNFZKUGM2dnNWbjNTbmVPRdIB8gFBVV95cUxQbktzTEg1VHBpUjhEampVMXg4RlpGS1RNZ0JjSjk0cXNOb1JwREp6VnJCenBRSGxjb3puLWs3VzJwMHRPRlpFZ1ZCdUxfQ0N6d0hBekc2a1AwMTF5bFc5SUxNYldWSEVaZVJmalhOUmY2WVRHMmZDZ0NLMU84eDd3QUY2YmFEZnlONnZCWUpaejlmZGlEVDNmS0J4NXBSN0t5eUV0RDFTZEtNc1hIXzR4SUF1SG1NX1Y3amwtd3VQZjBBa2tudFB6R01pS21XVEx5Mm1nVDdmcVRsS1RTS2ZtWFZrMUJOazFkVzdGc0V4Qi1zQQ?oc=5",
-      "source": "Simply Wall Street",
-      "date": "2026-08-04T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Shadowfax beat analyst earnings forecasts, prompting analysts to update their financial models.",
-      "enriched": true
-    },
-    {
       "id": "n4395d75c2024",
       "ticker": "MTARTECH",
       "company": "Mtar Technologies Limited",
@@ -8142,6 +8281,25 @@
       "mood": "positive",
       "takeaway": "Sterlite Technologies wins ₹960 crore order, boosting orderbook significantly.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nc80528387664",
+      "ticker": "MTARTECH",
+      "company": "Mtar Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "MTAR Technologies Secures Major Order Upsize: Total Value Reaches ~₹3,100 Crore ($324.62 Million)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb0dOMzBMTER6YUpZbk9QWkFRV1BJNFhKdmJpNWRBd25ac2FKRmN3NFdpVUwxbkpsMnZQQ0hlRFFza2tOd191Ny1nREVKWTh6STJMSklyN2h5cTVIM2h5MlhoSUtxZm1DeDB5Zmt6Sm1tYWNld00zWU4yaHRubW02ZXJUeV9vbk0zSkszcEJLQjJPT1ByZ1hYMlJPMnNJam1mODVJeXpNcnBVTzhHbFV6Y3FFVm1Jc2FvbmVBbQ?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-07-31T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "MTAR Technologies secured major order upsize bringing total value to ₹3,100 crore.",
       "enriched": true
     },
     {
@@ -8185,25 +8343,6 @@
       "enriched": true
     },
     {
-      "id": "nc80528387664",
-      "ticker": "MTARTECH",
-      "company": "Mtar Technologies Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "MTAR Technologies Secures Major Order Upsize: Total Value Reaches ~₹3,100 Crore ($324.62 Million)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb0dOMzBMTER6YUpZbk9QWkFRV1BJNFhKdmJpNWRBd25ac2FKRmN3NFdpVUwxbkpsMnZQQ0hlRFFza2tOd191Ny1nREVKWTh6STJMSklyN2h5cTVIM2h5MlhoSUtxZm1DeDB5Zmt6Sm1tYWNld00zWU4yaHRubW02ZXJUeV9vbk0zSkszcEJLQjJPT1ByZ1hYMlJPMnNJam1mODVJeXpNcnBVTzhHbFV6Y3FFVm1Jc2FvbmVBbQ?oc=5",
-      "source": "EquityBulls",
-      "date": "2026-07-31T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "MTAR Technologies secured major order upsize bringing total value to ₹3,100 crore.",
-      "enriched": true
-    },
-    {
       "id": "n20df92838085",
       "ticker": "VIVIDEL",
       "company": "Vivid Electromech Limited",
@@ -8221,6 +8360,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Vivid Electromech partners with ABB ArTuK for data center PDUs and metro train electrical panels.",
+      "enriched": true
+    },
+    {
+      "id": "nb34aecb54ea5",
+      "ticker": "MTARTECH",
+      "company": "Mtar Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "MTAR Tech Q1 Net Profit Rises to ₹50.5 Crore; Order Value Reaches ₹3,100.09 Crore",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTVdKeFBieF90dWVYdktKZnp1b1N1a3M0ZEpZZUk4MXczbTA4bFVHZkhqY21YT0VwNzBScWdDZ2tJRC1wTWRGQnprUmxKZGZGM3c3QU9hZTkzd3BGTk04VmN1RXRNNmlUbDN4TmJqRGRibEllNzZnMDk2ZndJeFV2V0RZd0lSZFNraF9vUFh5bDBPdjJFOXhwUW80N0hkS2NJZ016cnJmTk5MMGJDdmpEWjQ5SUFHRVdL?oc=5",
+      "source": "Sahi",
+      "date": "2026-07-30T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "MTAR Tech's order book reached ₹3,100 crore with Q1 profit rising to ₹50.5 crore.",
       "enriched": true
     },
     {
@@ -8263,45 +8421,6 @@
       "enriched": true
     },
     {
-      "id": "nca2925673d8f",
-      "ticker": "SENORES",
-      "company": "Senores Pharmaceuticals Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Results: Senores Pharmaceuticals Limited Beat Earnings Expectations And Analysts Now Have New Forecasts",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORld2b0gzNUFENi1qS0RhTzREWWRoLTV6WEg5UWhYR25VbjhQRXZDQmg1Y0N2ZjJSX3d1NVdQRE1rUnNCeG53NmY4NzhSeWxkSU9sYUNUaGw5TEpZckRYVkJnX3RLcGM2SHVoelFFQkRBbEtuc29HWVZNd1dzMFNFY3JzdzRoRTM2Qk9meHRJVC1wQ3Q1SkNmWXVBMmhTWnJlZm96azdyajZ0NWZFNkxDUGhIcmZYZGRXZWpqU2drUW9YZ0RLUGhSTkFWVTlBN2dVamRRUDJuNmdvd1hlSUxBN0kyXzFQNzQ0d1JOMW0xeE45NklyTGRV0gH8AUFVX3lxTE9XMUJKdmxCZy0yRjQtWkZjY3phYng1QkdTNHVnVmdFZ1hzVkFJZHh4bzdseGVkXzRsZ2dTdVh6Wk1yUEc0aFVHNkVQTllOU0RqU09lWGhmbGwzbE03QzJsb3J6ZjVEWWRyOU03MjBRdS1CNmM4cGg5dGEwQUc4NWktVGt6TktwLXppWVJvLXpMZlN2YXZWV1gxNWVBd1I4amdTV3hHc0VydXZTVjVYUG9WRHdqZWc5V2lMOEZjMFVHUUNoMERVc3VSb2NwWlY5SC1fSkVzMTltczFwdUlmZ3l6em52UF8wbVFjVVNQT3BGcEhYTkJtVmVjOEliMQ?oc=5",
-      "source": "Simply Wall Street",
-      "date": "2026-07-30T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Senores Pharmaceuticals reported earnings that exceeded analyst expectations.",
-      "enriched": true
-    },
-    {
-      "id": "nb34aecb54ea5",
-      "ticker": "MTARTECH",
-      "company": "Mtar Technologies Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "MTAR Tech Q1 Net Profit Rises to ₹50.5 Crore; Order Value Reaches ₹3,100.09 Crore",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTVdKeFBieF90dWVYdktKZnp1b1N1a3M0ZEpZZUk4MXczbTA4bFVHZkhqY21YT0VwNzBScWdDZ2tJRC1wTWRGQnprUmxKZGZGM3c3QU9hZTkzd3BGTk04VmN1RXRNNmlUbDN4TmJqRGRibEllNzZnMDk2ZndJeFV2V0RZd0lSZFNraF9vUFh5bDBPdjJFOXhwUW80N0hkS2NJZ016cnJmTk5MMGJDdmpEWjQ5SUFHRVdL?oc=5",
-      "source": "Sahi",
-      "date": "2026-07-30T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "MTAR Tech's order book reached ₹3,100 crore with Q1 profit rising to ₹50.5 crore.",
-      "enriched": true
-    },
-    {
       "id": "nfbb04506257b",
       "ticker": "MTARTECH",
       "company": "Mtar Technologies Limited",
@@ -8337,6 +8456,26 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "MTAR Technologies uploads Q1 FY27 earnings call audio for investors.",
+      "enriched": true
+    },
+    {
+      "id": "nca2925673d8f",
+      "ticker": "SENORES",
+      "company": "Senores Pharmaceuticals Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Results: Senores Pharmaceuticals Limited Beat Earnings Expectations And Analysts Now Have New Forecasts",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORld2b0gzNUFENi1qS0RhTzREWWRoLTV6WEg5UWhYR25VbjhQRXZDQmg1Y0N2ZjJSX3d1NVdQRE1rUnNCeG53NmY4NzhSeWxkSU9sYUNUaGw5TEpZckRYVkJnX3RLcGM2SHVoelFFQkRBbEtuc29HWVZNd1dzMFNFY3JzdzRoRTM2Qk9meHRJVC1wQ3Q1SkNmWXVBMmhTWnJlZm96azdyajZ0NWZFNkxDUGhIcmZYZGRXZWpqU2drUW9YZ0RLUGhSTkFWVTlBN2dVamRRUDJuNmdvd1hlSUxBN0kyXzFQNzQ0d1JOMW0xeE45NklyTGRV0gH8AUFVX3lxTE9XMUJKdmxCZy0yRjQtWkZjY3phYng1QkdTNHVnVmdFZ1hzVkFJZHh4bzdseGVkXzRsZ2dTdVh6Wk1yUEc0aFVHNkVQTllOU0RqU09lWGhmbGwzbE03QzJsb3J6ZjVEWWRyOU03MjBRdS1CNmM4cGg5dGEwQUc4NWktVGt6TktwLXppWVJvLXpMZlN2YXZWV1gxNWVBd1I4amdTV3hHc0VydXZTVjVYUG9WRHdqZWc5V2lMOEZjMFVHUUNoMERVc3VSb2NwWlY5SC1fSkVzMTltczFwdUlmZ3l6em52UF8wbVFjVVNQT3BGcEhYTkJtVmVjOEliMQ?oc=5",
+      "source": "Simply Wall Street",
+      "date": "2026-07-30T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Senores Pharmaceuticals reported earnings that exceeded analyst expectations.",
       "enriched": true
     },
     {
@@ -8379,25 +8518,6 @@
       "enriched": true
     },
     {
-      "id": "n20b10b303a00",
-      "ticker": "GMMPFAUDLR",
-      "company": "GMM Pfaudler Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "GMM Pfaudler Q1FY27 Results on Aug 5, Earnings Call Scheduled for Aug 6",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM2Q1cHN3WFBuRndSaFNQaVk4XzlZVktTbjBsaXd5dmZYNGU0TXFDZEo4dmh4NjE2V3ltbElkVFVYT2lMd0RVcmFrdFB3SmlXVDc2bVNFa3c5dnQzb1pzOGw1bkdFQmZ0ZlNWV19yZDh0ZjdzTWFEX0tDTk9fdVQtd2JUeGpZN09ZeTFOZ3N0TmNpTlZQTFIxTXMtMnVOdjNDc1A0NUxfY2NpLW9wSWVWVEI3U24yWms?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-07-28T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "GMM Pfaudler to announce Q1FY27 results on Aug 5, earnings call on Aug 6.",
-      "enriched": true
-    },
-    {
       "id": "n5a919f7e38e6",
       "ticker": "SHADOWFAX",
       "company": "Shadowfax Technologies Limited",
@@ -8416,6 +8536,25 @@
       "mood": "positive",
       "takeaway": "Shadowfax Technologies achieved modest profitability in Q4 FY2026 with steady revenue.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n20b10b303a00",
+      "ticker": "GMMPFAUDLR",
+      "company": "GMM Pfaudler Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "GMM Pfaudler Q1FY27 Results on Aug 5, Earnings Call Scheduled for Aug 6",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM2Q1cHN3WFBuRndSaFNQaVk4XzlZVktTbjBsaXd5dmZYNGU0TXFDZEo4dmh4NjE2V3ltbElkVFVYT2lMd0RVcmFrdFB3SmlXVDc2bVNFa3c5dnQzb1pzOGw1bkdFQmZ0ZlNWV19yZDh0ZjdzTWFEX0tDTk9fdVQtd2JUeGpZN09ZeTFOZ3N0TmNpTlZQTFIxTXMtMnVOdjNDc1A0NUxfY2NpLW9wSWVWVEI3U24yWms?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-07-28T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "GMM Pfaudler to announce Q1FY27 results on Aug 5, earnings call on Aug 6.",
       "enriched": true
     },
     {
@@ -8630,6 +8769,105 @@
       "enriched": true
     },
     {
+      "id": "n3147f8e5e895",
+      "ticker": "MTARTECH",
+      "company": "Mtar Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "MTAR Technologies shares snap five session losing streak, climb 5% after Q1 results, order update - BusinessToday",
+      "url": "https://www.businesstoday.in/markets/stocks/story/mtar-technologies-shares-snap-five-session-losing-streak-climb-5-after-q1-results-order-update-546219-2026-07-30",
+      "source": "businesstoday.in",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "MTAR Technologies received new orders and reported Q1 results, shares rose 5% after five-day decline.",
+      "enriched": true
+    },
+    {
+      "id": "nace3c08bb1e7",
+      "ticker": "TONBO",
+      "company": "Tonbo Imaging India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Tonbo Imaging ko mila bada European contract: Potential order value **€13 Million**! | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/aerospace-defense/Tonbo-Imaging-Secures-Strategic-European-Export-Order-With-13-Million-Euro-Potential/6ae386a8c6c6dccbb90bd334",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Tonbo Imaging wins European contract worth €13 million.",
+      "enriched": true
+    },
+    {
+      "id": "n68dc11cc1942",
+      "ticker": "SHADOWFAX",
+      "company": "Shadowfax Technologies Limited",
+      "sector": "Services",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Shadowfax Technologies Share Price in Focus After Q2 FY27 Earnings Results: Total Income Up 57.7% YoY",
+      "url": "https://www.angelone.in/news/stocks/shadowfax-technologies-share-price-in-focus-after-q2-fy27-earnings-results-total-income-up-57-7-yoy",
+      "source": "angelone.in",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Shadowfax Q2 revenue grew 58% year-on-year.",
+      "enriched": true
+    },
+    {
+      "id": "n483de1c17f04",
+      "ticker": "VAML",
+      "company": "Vedanta Aluminium Metal Limited",
+      "sector": "Metals & Mining",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Vedanta Aluminium more than doubles profit; cost cuts in focus to drive earnings - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/vedanta-aluminium-more-than-doubles-profit-cost-cuts-in-focus-to-drive-earnings/articleshow/135294042.cms",
+      "source": "economictimes.indiatimes.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Vedanta Aluminium more than doubled its profit, focusing on cost cuts to boost earnings further.",
+      "enriched": true
+    },
+    {
+      "id": "nff232adb9cad",
+      "ticker": "SENORES",
+      "company": "Senores Pharmaceuticals Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line | eHealth Magazine",
+      "url": "https://ehealth.eletsonline.com/2026/10/senores-pharmaceuticals-43-crore-capacity-expansion-havix-us-apnar-india-prefilled-syringe-line/",
+      "source": "ehealth.eletsonline.com",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Capacity Expansion",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Senores Pharma to invest ₹43 crore in capacity expansion across US and India.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
       "id": "n002827641072",
       "ticker": "MEESHO",
       "company": "Meesho Limited",
@@ -8704,6 +8942,26 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "NSE and BSE approved listing of 2 crore equity shares.",
+      "enriched": true
+    },
+    {
+      "id": "n52c7c95aecbe",
+      "ticker": "JPL",
+      "company": "Jio Platforms Limited",
+      "sector": "",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Jio Platforms share price live: Jio makes big-bang market debut, becomes India's 2nd most valuable company | Moneycontrol News",
+      "url": "https://www.moneycontrol.com/news/business/ipo/jio-share-price-live-jio-platforms-ipo-jpl-stock-price-listing-today-bse-nse-liveblog-14061676.html",
+      "source": "moneycontrol.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Partnership",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Jio Platforms debuts on market, becomes India's second most valuable company.",
       "enriched": true
     },
     {
@@ -9343,25 +9601,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Northern Arc to raise ₹5,000 crore via NCD issue, approved at AGM scheduled for Aug 18, 2026.",
-      "enriched": true
-    },
-    {
-      "id": "n3147f8e5e895",
-      "ticker": "MTARTECH",
-      "company": "Mtar Technologies Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "MTAR Technologies shares snap five session losing streak, climb 5% after Q1 results, order update - BusinessToday",
-      "url": "https://www.businesstoday.in/markets/stocks/story/mtar-technologies-shares-snap-five-session-losing-streak-climb-5-after-q1-results-order-update-546219-2026-07-30",
-      "source": "businesstoday.in",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "MTAR Technologies received new orders and reported Q1 results, shares rose 5% after five-day decline.",
       "enriched": true
     },
     {
@@ -10156,6 +10395,83 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Yash Highvoltage targets Rs 1,000 crore bushing production capacity by FY31.",
+      "enriched": true
+    },
+    {
+      "id": "n2357e42f419e",
+      "ticker": "TONBO",
+      "company": "Tonbo Imaging India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Tonbo Imaging India Shares List at 65% Premium on NSE",
+      "url": "https://groww.in/blog/tonbo-imaging-india-shares-list-at-65-percent-premium-on-nse",
+      "source": "groww.in",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Tonbo Imaging shares listed at 65% premium on NSE, strong market debut.",
+      "enriched": true
+    },
+    {
+      "id": "ne7a9f6f018f3",
+      "ticker": "EPIGRAL",
+      "company": "Epigral Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Epigral Receives Rs 28 Crore Income Tax Demand; Plans Legal Appeal | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/other/Epigral-Receives-Rs-28-Crore-Income-Tax-Demand-Plans-Legal-Appeal/6ae349dfc6c6dccbb90b9c35",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Trouble",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "negative",
+      "takeaway": "Epigral received a Rs 28 crore income tax demand and plans to appeal the order.",
+      "enriched": true
+    },
+    {
+      "id": "n3f66fc7b626d",
+      "ticker": "EPIGRAL",
+      "company": "Epigral Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Epigral Limited: Faces ₹28.11 Crore Tax Demand, Plans Appeal | InvestyWise",
+      "url": "https://www.investywise.com/epigral-limited-receives-income-tax-assessment-order/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Trouble",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "negative",
+      "takeaway": "Epigral faces Rs 28.11 crore tax demand and will challenge it through legal appeal.",
+      "enriched": true
+    },
+    {
+      "id": "ndaf9bc2f424f",
+      "ticker": "EPIGRAL",
+      "company": "Epigral Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Strides Pharma Science Appoints Biren Gabhawala as Independent Director | InvestyWise",
+      "url": "https://www.investywise.com/strides-pharma-science-limited-appoints-independent-director/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Trouble",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Strides Pharma appointed Biren Gabhawala as an independent director to its board.",
       "enriched": true
     }
   ]
