@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T19:58:48.767Z",
+  "generated_at": "2026-10-30T09:17:34.912Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,136 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "fa60493f0c529",
+      "ticker": "HARIOMPIPE",
+      "company": "Hariom Pipe Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-10-30T14:41:30.000Z",
+      "category": "Investor Presentation",
+      "title": "Hariom Pipe Industries Limited has informed the Exchange about Schedule of meet. Register using given link to receive your joining details: https://events.kaptify.in/Hariom-Pipe-Q2-H1FY27-Concall.",
+      "url": "https://nsearchives.nseindia.com/corporate/hariompipes_30102026143043_SE_Intimation_Conference_Call_04112026.pdf"
+    },
+    {
+      "id": "faa50c1df90db",
+      "ticker": "ONESOURCE",
+      "company": "Onesource Specialty Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-10-30T14:10:44.000Z",
+      "category": "Press Release",
+      "title": "Onesource Specialty Pharma Limited has informed the Exchange regarding a press release dated October 30, 2026, titled \"OneSource Receives USFDA EIR with VAI Classification, Marking Completion of Inspection Process at its Sterile Product Division (SPD) Facility in Bengaluru\".",
+      "url": "https://nsearchives.nseindia.com/corporate/ONESOURCECDMO_30102026141033_OS_PR_USFDA_Approval.pdf"
+    },
+    {
+      "id": "facc66091415f",
+      "ticker": "SHADOWFAX",
+      "company": "Shadowfax Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-10-30T13:59:03.000Z",
+      "category": "Newspaper Publication",
+      "title": "Newspaper Publication regarding unaudited financial results for the quarter and half year ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/9900590024_30102026135814_News_paper_publication_of_Financial_Results.pdf"
+    },
+    {
+      "id": "fce06e7db7421",
+      "ticker": "FLYSBS",
+      "company": "FlySBS Aviation Limited",
+      "exchange": "NSE",
+      "date": "2026-10-30T13:17:31.000Z",
+      "category": "Quarterly Compliance Report on Corporate governance - within 21 days from the end of the quarter",
+      "title": "FlySBS Aviation Limited has informed regarding Submission of the Compliance Report on Corporate Governance for the Q_ FY 20__-__",
+      "url": "https://nsearchives.nseindia.com/corporate/FLYSBS_30102026131654_NACG.pdf"
+    },
+    {
+      "id": "f2b0c519a7d6e",
+      "ticker": "LUMINO",
+      "company": "Lumino Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-10-30T13:08:45.000Z",
+      "category": "Disclosure",
+      "title": "Lumino Industries Limited has informed the Exchange regarding 'Intimation regarding change in Corporate Identification Number and Listing Status of the Company'.",
+      "url": "https://nsearchives.nseindia.com/corporate/LUMINO123_30102026130804_change_in_CIN.pdf"
+    },
+    {
+      "id": "fba1ff31944ac",
+      "ticker": "VBL",
+      "company": "Varun Beverages Limited",
+      "exchange": "NSE",
+      "date": "2026-10-30T12:10:32.000Z",
+      "category": "Dividend",
+      "title": "Varun Beverages Limited has informed the Exchange that Board of Directors at its meeting held on October 30, 2026, declared 3rd Interim Dividend of Rs. 0.50 per equity share.",
+      "url": "https://nsearchives.nseindia.com/corporate/VBL_30102026120957_Outcome30102026.pdf"
+    },
+    {
+      "id": "f92d467937ad8",
+      "ticker": "VBL",
+      "company": "Varun Beverages Limited",
+      "exchange": "NSE",
+      "date": "2026-10-30T12:07:36.000Z",
+      "category": "Record Date",
+      "title": "Varun Beverages Limited has informed the Exchange that Record date for the purpose of 3rd Interim Dividend is 05-Nov-2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/VBL_30102026120712_Outcome30102026.pdf"
+    },
+    {
+      "id": "f562516a976b8",
+      "ticker": "VBL",
+      "company": "Varun Beverages Limited",
+      "exchange": "NSE",
+      "date": "2026-10-30T12:04:50.000Z",
+      "category": "Press Release",
+      "title": "Press Release",
+      "url": "https://nsearchives.nseindia.com/corporate/VBL_30102026120438_PressRelease.pdf"
+    },
+    {
+      "id": "f3f641ee12616",
+      "ticker": "SENORES",
+      "company": "Senores Pharmaceuticals Limited",
+      "exchange": "NSE",
+      "date": "2026-10-30T12:04:39.000Z",
+      "category": "Newspaper Publication",
+      "title": "Senores Pharmaceuticals Limited has informed the exchange regarding Newspaper publication extracts of unaudited financial results for the quarter and half year ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/SENORES_30102026120427_Intimationsigned.pdf"
+    },
+    {
+      "id": "faf99a702f3b9",
+      "ticker": "VBL",
+      "company": "Varun Beverages Limited",
+      "exchange": "NSE",
+      "date": "2026-10-30T11:59:52.000Z",
+      "category": "Investor Presentation",
+      "title": "Varun Beverages Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/VBL_30102026115937_Presentation.pdf"
+    },
+    {
+      "id": "f80c0964d0e74",
+      "ticker": "VBL",
+      "company": "Varun Beverages Limited",
+      "exchange": "NSE",
+      "date": "2026-10-30T11:50:01.000Z",
+      "category": "Board Meeting",
+      "title": "Unaudited Financial Results of the Company (Standalone and Consolidated) for the Quarter and Nine Months ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/VBL_30102026114937_Outcome.pdf"
+    },
+    {
+      "id": "fa1b212f6648f",
+      "ticker": "MENONBE",
+      "company": "Menon Bearings Limited",
+      "exchange": "NSE",
+      "date": "2026-10-30T10:33:41.000Z",
+      "category": "Investor Presentation",
+      "title": "Menon Bearings Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/MENONBE_30102026103318_FILINGINVESTORPRESENTATION_SIGNED.pdf"
+    },
+    {
+      "id": "fd5f843b58e7a",
+      "ticker": "MTARTECH",
+      "company": "Mtar Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-10-30T00:30:53.000Z",
+      "category": "Investor Presentation",
+      "title": "Mtar Technologies Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/MTARTECH_30102026003044_MTAR_Presentation_Q2FY27_Final.pdf"
+    },
     {
       "id": "f0e6236fbd2e3",
       "ticker": "TONBO",
@@ -726,6 +856,16 @@
       "category": "Board Meeting",
       "title": "Meesho Limited has submitted to the Exchange, the Unaudited Financial Results (Standalone and Consolidated) for the quarter and half year ended September 30, 2026.",
       "url": "https://nsearchives.nseindia.com/corporate/MEESHO_28102026170508_Final_MLBMOutcome28102026_-_First_half.pdf"
+    },
+    {
+      "id": "fce7c03c0b52c",
+      "ticker": "UNIMECH",
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "exchange": "NSE",
+      "date": "2026-10-28T16:35:04.000Z",
+      "category": "Investor Presentation",
+      "title": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Link of Recording",
+      "url": "https://nsearchives.nseindia.com/corporate/UNIMECH_28102026163455_Earnings_call_Recording_Link.pdf"
     },
     {
       "id": "f0159247c4ebb",
@@ -7226,6 +7366,16 @@
       "category": "Acquisition",
       "title": "Acutaas Chemicals Limited has informed the Exchange about Acquisition",
       "url": "https://nsearchives.nseindia.com/corporate/AMIORG_24092026195234_EnchemAcquisitionIntimationSWSigned.pdf"
+    },
+    {
+      "id": "f9a6b2c45df20",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "exchange": "NSE",
+      "date": "2026-09-24T18:53:00.000Z",
+      "category": "Disclosure",
+      "title": "DEE Development Engineers Limited has informed the Exchange about General Updates",
+      "url": "https://nsearchives.nseindia.com/corporate/DDEL_24092026184901_NSEBSE_Reg_30.pdf"
     },
     {
       "id": "fa5ab30cd93a2",
@@ -19856,156 +20006,6 @@
       "category": "Change in Directors",
       "title": "Zen Technologies Limited has informed the Exchange about change in Management",
       "url": "https://nsearchives.nseindia.com/corporate/ZENTEC_04082026230432_BM_OC.pdf"
-    },
-    {
-      "id": "f1dbbe4a7da96",
-      "ticker": "SBCL",
-      "company": "Shivalik Bimetal Controls Limited",
-      "exchange": "NSE",
-      "date": "2026-08-04T21:52:45.000Z",
-      "category": "Investor Presentation",
-      "title": "Shivalik Bimetal Controls Limited has informed the Exchange about- Intimation of Earnings call Invitation -Q1 FY2027",
-      "url": "https://nsearchives.nseindia.com/corporate/SBCL_04082026215049_NSEBSEupload.pdf"
-    },
-    {
-      "id": "f5a1a68343bcb",
-      "ticker": "SUDEEPPHRM",
-      "company": "Sudeep Pharma Limited",
-      "exchange": "NSE",
-      "date": "2026-08-04T21:36:10.000Z",
-      "category": "Investor Presentation",
-      "title": "Sudeep Pharma Limited has informed the Exchange about Investor Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/SUDEEPPHARMALIMITED_04082026213550_Sudeep_Pharma_-_Q1FY27_IP_Final_Signed.pdf"
-    },
-    {
-      "id": "ff82c11a245fa",
-      "ticker": "GMMPFAUDLR",
-      "company": "GMM Pfaudler Limited",
-      "exchange": "NSE",
-      "date": "2026-08-04T21:32:51.000Z",
-      "category": "Shareholders meeting",
-      "title": "GMM Pfaudler Limited has submitted the Exchange a copy Srutinizers report of 63rd Annual General Meeting held on August 04, 2026. Further, the company has informed the Exchange regarding voting results.",
-      "url": "https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_04082026213240_Scrutinizers_Report_-_Reg_44_final_ocred.pdf"
-    },
-    {
-      "id": "ff6063d1c0a8f",
-      "ticker": "SAILIFE",
-      "company": "Sai Life Sciences Limited",
-      "exchange": "NSE",
-      "date": "2026-08-04T21:13:16.000Z",
-      "category": "Investor Presentation",
-      "title": "Sai Life Sciences Limited has informed the Exchange about Schedule of Analyst/Institutional Investors meet to be held on 13 August 2026 & 14 August 2026 at Singapore",
-      "url": "https://nsearchives.nseindia.com/corporate/SAILIFE_04082026211235_Sai_Meeting_Intimation_13_14_August2026_.pdf"
-    },
-    {
-      "id": "f39664b5523d6",
-      "ticker": "KPITTECH",
-      "company": "KPIT Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-08-04T21:00:12.000Z",
-      "category": "Investor Presentation",
-      "title": "KPIT Technologies Limited has informed the Exchange about Transcript of Post Earnings Conference Call held on July 29, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/KPITTECH_04082026205946_KPIT_Transcript_Cov_let_signed.pdf"
-    },
-    {
-      "id": "f248705b9dc8f",
-      "ticker": "KPITTECH",
-      "company": "KPIT Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-08-04T20:29:20.000Z",
-      "category": "Newspaper Publication",
-      "title": "KPIT Technologies Limited has informed the Exchange about Copy of Newspaper Publication regarding 9th Annual general Meeting to be held through VC/OAVM.",
-      "url": "https://nsearchives.nseindia.com/corporate/KPITTECH_04082026202900_CoverletterNewspaperPre_signed.pdf"
-    },
-    {
-      "id": "facc4c1ddc4e8",
-      "ticker": "CMLL",
-      "company": "Caliber Mining and Logistics Limited",
-      "exchange": "NSE",
-      "date": "2026-08-04T20:03:39.000Z",
-      "category": "Credit Rating",
-      "title": "Caliber Mining and Logistics Limited has informed the Exchange about Credit Rating- Revision",
-      "url": "https://nsearchives.nseindia.com/corporate/CMLL_04082026200330_Intimation.pdf"
-    },
-    {
-      "id": "f252d969cd4f6",
-      "ticker": "VBL",
-      "company": "Varun Beverages Limited",
-      "exchange": "NSE",
-      "date": "2026-08-04T19:59:25.000Z",
-      "category": "Investor Presentation",
-      "title": "Transcript of Investors & Analysts Conference Call.",
-      "url": "https://nsearchives.nseindia.com/corporate/VBL_04082026195906_Transcript.pdf"
-    },
-    {
-      "id": "f0f336c15f777",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "exchange": "NSE",
-      "date": "2026-08-04T19:57:48.000Z",
-      "category": "Disclosure",
-      "title": "Meesho Limited has informed the Exchange intimation under Regulation 30 of SEBI (LODR) Regulations, 2015 - Updates on Acquisition.",
-      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_04082026195712_ML_Further_investment_in_MGPL.pdf"
-    },
-    {
-      "id": "f0ec734004244",
-      "ticker": "STYLAMIND",
-      "company": "Stylam Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-08-04T19:33:27.000Z",
-      "category": "Disclosure",
-      "title": "Stylam Industries Limited has informed the Exchange regarding 'the Annual Report for the Financial Year 2025-26.'.",
-      "url": "https://nsearchives.nseindia.com/corporate/STYLAMIND_04082026193257_Intimation_Annual_Report.pdf"
-    },
-    {
-      "id": "f18773b0b8719",
-      "ticker": "GMMPFAUDLR",
-      "company": "GMM Pfaudler Limited",
-      "exchange": "NSE",
-      "date": "2026-08-04T19:27:42.000Z",
-      "category": "Shareholders meeting",
-      "title": "Please find enclsed the Proceedings of 63rd Annual General Meeting held on August 04, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_04082026192730_GMMPfaudlerproceedings.pdf"
-    },
-    {
-      "id": "f5c0d687daed1",
-      "ticker": "GULFOILLUB",
-      "company": "Gulf Oil Lubricants India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-04T18:52:44.000Z",
-      "category": "Investor Presentation",
-      "title": "The Company has conducted its Earnings Conference Call today viz. Tuesday, August 4, 2026 with several Analysts/ Institutional Investors in connection with the Unaudited Financial Results (Standalone and Consolidated) of the Company for the first quarter ended June 30, 2026. For details, please refer the enclosed letter.",
-      "url": "https://nsearchives.nseindia.com/corporate/GULFOILLUB_04082026185159_Investorcalloutcomeaudio04082026.pdf"
-    },
-    {
-      "id": "fd8ab66721190",
-      "ticker": "VAML",
-      "company": "Vedanta Aluminium Metal Limited",
-      "exchange": "NSE",
-      "date": "2026-08-04T18:39:55.000Z",
-      "category": "Investor Presentation",
-      "title": "Vedanta Aluminium Metal Limited has informed the Exchange about Transcript",
-      "url": "https://nsearchives.nseindia.com/corporate/VAML_04082026183917_VAMLEarningsCallTranscriptAug042026signed.pdf"
-    },
-    {
-      "id": "f34726e8d3bbd",
-      "ticker": "TRIVENI",
-      "company": "Triveni Engineering & Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-08-04T18:39:16.000Z",
-      "category": "Investor Presentation",
-      "title": "Triveni Engineering & Industries Limited has informed the Exchange about Transcript",
-      "url": "https://nsearchives.nseindia.com/corporate/TRIVENI_04082026183905_TEIL_TRANSCRIPT_JUNE26.pdf"
-    },
-    {
-      "id": "f7e2622c6ac34",
-      "ticker": "KSHINTL",
-      "company": "KSH International Limited",
-      "exchange": "NSE",
-      "date": "2026-08-04T18:37:59.000Z",
-      "category": "Investor Presentation",
-      "title": "KSH International Limited has submitted to the Exchange, Schedule of multiple meetings with Analysts and Investors.",
-      "url": "https://nsearchives.nseindia.com/corporate/INTERNATIONAL_04082026183321_KSH_Intimation_of_Investor_Meet_12_and_14_August_signed.pdf"
     }
   ]
 }
