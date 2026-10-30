@@ -1,13 +1,51 @@
 {
-  "generated_at": "2026-10-29T20:02:58.068Z",
+  "generated_at": "2026-10-30T09:09:23.351Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 117,
-    "watchlist": 485,
+    "portfolio": 118,
+    "watchlist": 490,
     "universe": 53,
-    "total": 538
+    "total": 543
   },
   "items": [
+    {
+      "id": "ndaba56909f49",
+      "ticker": "MTARTECH",
+      "company": "Mtar Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "MTAR Technologies Q2 Profit Rises to Rs 59.8 Cr; Order Book Solid",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPdTl1TF9nYmdVTHVVck4taUdmMUV1akxneTl5TVZFMWhWaWlOcGQ0RFNTZExJSEdQYlk1dmdZRzBaN2k1cUQ0R3JkNUdXekpkZC0wMVk3Nm50Yk9JVko1bF9nWlZNRVhPbDRzUmdEZ25DYmtVVU5DSmRRTEVxM2dOakJMSFduYjNkaGoyOXRuZThZVkRGUndyS0x1OHlXclZWYy1YTk8wVnM1NzRBUFI4bTJNTW1NTHI5QUxwb1FNLUZZSG9Gbl9lTUpSYjd6SnUwNU9za2YxaTU5ckpKVVhkSEJZbElER0w3ZzJZa1RvOGQ2STNWNXc?oc=5",
+      "source": "Whalesbook",
+      "date": "2026-10-30T00:56:20.000Z",
+      "topic": "Money",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "MTAR Technologies Q2 profit rose to Rs 59.8 crore with a solid order book.",
+      "enriched": true
+    },
+    {
+      "id": "n32babef47024",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries India Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Solar Industries releases Omnia acquisition call transcript with FY28 outlook",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNblRTTFFQbVY3eGRsS3FhRXFWcU1LVmJrZkx5R21rczNnOXh6a0YyQkpaejQxLVdZZHlKdmFMdy1oNm9KMXhmZGoyWjVibUpuZHF2OHNhRkFKRkxsZmR5eTViY2ZmWjVmVGw3MjNOMWFDcVpwYl9NOEc1Skx2VnFvRzNhQWN0UFBnWVlQanNlSFZObVNNdFNuaTBvblBGTmNSTkZKb3FuYXJseVcyWWhnVGt4QWhGT05LSVFGYw?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-10-30T00:25:26.000Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Solar Industries released transcript of Omnia acquisition call with FY28 outlook.",
+      "enriched": true
+    },
     {
       "id": "n286b55de719f",
       "ticker": "MTARTECH",
@@ -66,7 +104,8 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Shadowfax reports record Q2 2027 revenue with improved margins.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n0704b1b38409",
@@ -143,6 +182,25 @@
       "mood": "neutral",
       "takeaway": "MTAR Technologies approves Q2 FY27 results and subsidiary merger.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nbbf88cf61b61",
+      "ticker": "MTARTECH",
+      "company": "Mtar Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "MTAR Technologies: Q2 FY27 Results & Merger Approved",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORDBhd2huTmY0Tll1SWxMbmk0NmJ5VGVfUkNhNEQxR3REVG1nd25PdnpEdklmQzR4UUdLaG42NXpmQzJ3S0hGRUJTNU1iOVNlbTctcVRSTmpKbzkzLUptVEU0Tm9JZldBMURZRlJSLW5BS2VMUzNvblJ5alJlZ0J5MzhqYnF2dlJKSmI1dUpUdXU5c1Fy?oc=5",
+      "source": "InvestyWise",
+      "date": "2026-10-29T10:51:50.000Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "MTAR Technologies Q2 results announced and merger approved.",
       "enriched": true
     },
     {
@@ -223,7 +281,8 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "CarTrade Tech held its Q2 FY27 earnings call discussing quarterly performance.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n56281daf3dce",
@@ -658,7 +717,7 @@
       "mood": "positive",
       "takeaway": "Himadri Speciality Chemicals plans Rs 1,613 crore capacity expansion across its key business segments.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "n24accdecff48",
@@ -8363,6 +8422,44 @@
       "enriched": true
     },
     {
+      "id": "nfbb04506257b",
+      "ticker": "MTARTECH",
+      "company": "Mtar Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Earnings call transcript: MTAR Technologies posts record Q1 FY 2027 growth",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdnhTWGtuUFo4emZaMUZ4MHJwNnRDV1VTcC1aazJHeW5GcWcwODh3VHFjcUhuS2UyVThac3dDMEpRaEpIRDZBbVI3Qk41QlM5aW5lWXVtZk9ydE1LR19xd1V4bzVoNFJhS01Kb1NyV1VjblVLRFU0OHduMEJUemFXQ1FNbUtieExFM1dqa1cwbkZfZ2k0V2x1XzVlTS1NWGdxem0zVEJsWDdpNzhzenRtWXllSUpPdHJ1QlRkVk9lTFJhdExXQlNv?oc=5",
+      "source": "Investing.com India",
+      "date": "2026-07-30T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "MTAR Technologies reported record growth in Q1 FY27 results.",
+      "enriched": true
+    },
+    {
+      "id": "n9459a68ef868",
+      "ticker": "MTARTECH",
+      "company": "Mtar Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "MTAR Technologies uploads Q1 FY27 earnings call audio for investor review",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaG9lU1h2R3ViVDdVX1ZsWlQ4M3NMVUtsaVNZSWYzWUZrUlQwRWFlTzlCTXJ2SlBRNi1RUmdoSUt6dlVsd1RJMjh1d2hXV21ENjhVbFBYaWFhbEJEM2Rhbm9qbURNMURCNDVqMjNhalNkbFlJUWRqNHZsOUsxQUJWLV9KRHRuSTluTWdEU1RTRFZQMHdpTnItWUVNWGY0V1NvakdOcG9yR2h4TURNZl82ZktmdVhkS0N1a21ubm9Ccw?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-07-30T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "MTAR Technologies uploads Q1 FY27 earnings call audio for investors.",
+      "enriched": true
+    },
+    {
       "id": "nb34aecb54ea5",
       "ticker": "MTARTECH",
       "company": "Mtar Technologies Limited",
@@ -8418,44 +8515,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Vedanta posts record Q1 profit after demerger completion.",
-      "enriched": true
-    },
-    {
-      "id": "nfbb04506257b",
-      "ticker": "MTARTECH",
-      "company": "Mtar Technologies Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Earnings call transcript: MTAR Technologies posts record Q1 FY 2027 growth",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdnhTWGtuUFo4emZaMUZ4MHJwNnRDV1VTcC1aazJHeW5GcWcwODh3VHFjcUhuS2UyVThac3dDMEpRaEpIRDZBbVI3Qk41QlM5aW5lWXVtZk9ydE1LR19xd1V4bzVoNFJhS01Kb1NyV1VjblVLRFU0OHduMEJUemFXQ1FNbUtieExFM1dqa1cwbkZfZ2k0V2x1XzVlTS1NWGdxem0zVEJsWDdpNzhzenRtWXllSUpPdHJ1QlRkVk9lTFJhdExXQlNv?oc=5",
-      "source": "Investing.com India",
-      "date": "2026-07-30T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "MTAR Technologies reported record growth in Q1 FY27 results.",
-      "enriched": true
-    },
-    {
-      "id": "n9459a68ef868",
-      "ticker": "MTARTECH",
-      "company": "Mtar Technologies Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "MTAR Technologies uploads Q1 FY27 earnings call audio for investor review",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaG9lU1h2R3ViVDdVX1ZsWlQ4M3NMVUtsaVNZSWYzWUZrUlQwRWFlTzlCTXJ2SlBRNi1RUmdoSUt6dlVsd1RJMjh1d2hXV21ENjhVbFBYaWFhbEJEM2Rhbm9qbURNMURCNDVqMjNhalNkbFlJUWRqNHZsOUsxQUJWLV9KRHRuSTluTWdEU1RTRFZQMHdpTnItWUVNWGY0V1NvakdOcG9yR2h4TURNZl82ZktmdVhkS0N1a21ubm9Ccw?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-07-30T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "MTAR Technologies uploads Q1 FY27 earnings call audio for investors.",
       "enriched": true
     },
     {
@@ -8844,6 +8903,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Vedanta Aluminium more than doubled its profit, focusing on cost cuts to boost earnings further.",
+      "enriched": true
+    },
+    {
+      "id": "n67094084fe93",
+      "ticker": "VAML",
+      "company": "Vedanta Aluminium Metal Limited",
+      "sector": "Metals & Mining",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Vedanta’s metals and oil businesses post strong Q2, steel and power lag | Company Business News",
+      "url": "https://www.livemint.com/companies/vedantas-metals-and-oil-businesses-post-strong-q2-steel-and-power-lag-11793283371470.html",
+      "source": "livemint.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Vedanta's metals and oil divisions delivered strong Q2 performance while steel and power segments lagged.",
       "enriched": true
     },
     {
@@ -10472,6 +10550,26 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Strides Pharma appointed Biren Gabhawala as an independent director to its board.",
+      "enriched": true
+    },
+    {
+      "id": "nadff2ce042d6",
+      "ticker": "MENONBE",
+      "company": "Menon Bearings Limited",
+      "sector": "Automobile and Auto Components",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Menon Bearings maps Rs 34.5 crore capex and 37% exports | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/menon-bearings-capex-export-roadmap-ppt-cmvuihfm600032hmwm8g7yzis",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Capex",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Menon Bearings plans Rs 34.5 crore capex with 37% of revenue from exports.",
       "enriched": true
     }
   ]
