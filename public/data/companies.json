@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T19:52:15.040Z",
+  "generated_at": "2026-10-30T19:37:36.405Z",
   "portfolio": [
     {
       "company": "Monolithisch India Limited",
@@ -22,14 +22,14 @@
       "sector": "Chemicals"
     },
     {
-      "company": "Shadowfax Technologies Limited",
-      "ticker": "SHADOWFAX",
-      "sector": "Services"
-    },
-    {
       "company": "Menon Bearings Limited",
       "ticker": "MENONBE",
       "sector": "Automobile and Auto Components"
+    },
+    {
+      "company": "Shadowfax Technologies Limited",
+      "ticker": "SHADOWFAX",
+      "sector": "Services"
     },
     {
       "company": "Vivid Electromech Limited",
@@ -37,14 +37,14 @@
       "sector": "Capital Goods"
     },
     {
-      "company": "Stylam Industries Limited",
-      "ticker": "STYLAMIND",
-      "sector": "Consumer Durables"
-    },
-    {
       "company": "Onesource Specialty Pharma Limited",
       "ticker": "ONESOURCE",
       "sector": "Healthcare"
+    },
+    {
+      "company": "Stylam Industries Limited",
+      "ticker": "STYLAMIND",
+      "sector": "Consumer Durables"
     },
     {
       "company": "Cartrade Tech Limited",

@@ -1,13 +1,72 @@
 {
-  "generated_at": "2026-10-30T09:09:23.351Z",
+  "generated_at": "2026-10-30T19:41:15.981Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 118,
-    "watchlist": 490,
-    "universe": 53,
-    "total": 543
+    "portfolio": 121,
+    "watchlist": 497,
+    "universe": 54,
+    "total": 551
   },
   "items": [
+    {
+      "id": "n16645d771cb1",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
+      "scope": [
+        "universe"
+      ],
+      "title": "Sun Pharma Expands ILUMYA's Label with USFDA Approval for Psoriatic Arthritis",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbTRYVndqQV9qMEhMbmFnS1h4SUtFLWVzQWViM2dPek5qZkRKYzU1bUhBLTdtRlEtR3ZUZ3RuaHRWZFU3LXNsMTRhMElWdEU5SEVOdzhlc2dfRG9sS3FjMlF4RHFiMmVLaUc4OFJCSjVBbEtiOHRZWGZrZENkNUlLLWRGSHVrQXNJalZXRFFGandTcVlLQWZySXU3MzhONDFrRzlMaHRheDhWejdKMWhwQ0dRRjhWbjN1bVVnd0xFanRrWDRCUTY3OHdPemxHRnBOU2fSAdIBQVVfeXFMTW00WFZ3akFfajBITG5hZ0tYeElLRS1lc0FlYjNnT3pOamZESmM1NW1IQS03bUZRLUd2VGd0bmh0VmRVNy1zbDE0YTBJVnRFOUhFTnc4ZXNnX0RvbEtxYzJReERxYjJlS2lHODhSQko1QWxLYjh0WVhma2RDZDVJSy1kRkh1a0FzSWpWV0RRRmp3U3FZS0Fmckl1NzM4TjQxa0c5TGh0YXg4Vno3SjFocENHUUY4Vm4zdW1VZ3dMRWp0a1g0QlE2Nzh3T3psR0ZwTlNn?oc=5",
+      "source": "Medical Dialogues",
+      "date": "2026-10-30T16:11:38.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Sun Pharma gets US approval to expand ILUMYA drug label to treat psoriatic arthritis.",
+      "enriched": true
+    },
+    {
+      "id": "n7e36949f21de",
+      "ticker": "MEDIASSIST",
+      "company": "Medi Assist Healthcare Services Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Medi Assist Healthcare Services Announces Rs 49.27 Crore Share Buyback Plan",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOX1dMemRvMjV0Z1JEMmhPS1k2R2xVSS13Z1dmZ1JlZEVsVUR1SjlrRWs1YmJZa1VjX295d195UlFCZWZRTjF4RUoyNndnNV80a3Z1STN5dTRBbFJNRUR3NG5GeUxCem40SHZ0Vmh1TDlzMjBnZUl4Tk1odmlGQk5OM2lqcjBSX0lFZHotdDc4LUVsd2RlVGVtNHB5QmRYRmdiaWI3VUpCRmZtaEJvdHJ5dGNDOWVBU2N1LTlQc1J2WUtRODdzWGFGc3RYODRucEFjNjRYejZDbFgtbkIyVkdHTkV3YmFDd3RFajNj?oc=5",
+      "source": "Whalesbook",
+      "date": "2026-10-30T15:24:27.000Z",
+      "topic": "Money",
+      "keyword": "Buyback",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Medi Assist announces Rs 49.27 crore share buyback plan.",
+      "sources_count": 4,
+      "enriched": true
+    },
+    {
+      "id": "n36203d9c8a9b",
+      "ticker": "JPL",
+      "company": "Jio Platforms Limited",
+      "sector": "",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Ambani's Jio posts about 14% profit rise in first earnings since blockbuster debut",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2RJZzlhbDJyYjh5N01HbHFhNUFLbWU3czVrSjVkZ2ZLR05HRGNUVDNLX2ZCcF8wbkotRzdXTGprYjN6VVU0ZVNwVnF0U3BPUkJZTjNac0wwWEx3SGd5MERFYXA4elBUeDcxUE9VR1RFbW92X0N6aUFRSXZEQlhrYTdqLTlJVWpSNGJiVmlCcU5tN0s0cWRRaW9lUXlJXzA5QzY3OWNYdDdzVDdpQXo3ZldDNHZPZWs?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-30T14:20:35.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Jio Platforms reports 14% profit rise in first earnings after blockbuster debut.",
+      "enriched": true
+    },
     {
       "id": "ndaba56909f49",
       "ticker": "MTARTECH",
@@ -66,27 +125,6 @@
       "enriched": true
     },
     {
-      "id": "n33199d282801",
-      "ticker": "TONBO",
-      "company": "Tonbo Imaging India Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Tonbo Imaging: Wins Strategic European Export Order for EO/IR Seeker",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc3Z4bG93MGhJa1hfMWtrMUp6MEJaS0hUOWtid1ZqSnNHRVlLek1CYkV5d0xmSmd5WG1GdzZpT3RLRl9HekJSUVpxUm5FVXN5dTUtbFZNWVdPSHdESlY1Y2E2UEZrUzdGVjluQk5EcHBZbThDU29JcXNhaDdaUmY0Z1BWMG40NjdYd0dZQWw5NVVCLVlMT1g2T09qUG8?oc=5",
-      "source": "InvestyWise",
-      "date": "2026-10-29T17:48:17.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Tonbo Imaging secures strategic export order from Europe for seeker systems.",
-      "sources_count": 3,
-      "enriched": true
-    },
-    {
       "id": "n2d08a8ea5b90",
       "ticker": "SHADOWFAX",
       "company": "Shadowfax Technologies Limited",
@@ -105,7 +143,7 @@
       "mood": "positive",
       "takeaway": "Shadowfax reports record Q2 2027 revenue with improved margins.",
       "enriched": true,
-      "sources_count": 2
+      "sources_count": 3
     },
     {
       "id": "n0704b1b38409",
@@ -516,7 +554,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "E2E Networks plans to expand GPU capacity by about 5.4 MW.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -580,17 +618,17 @@
       "sources_count": 2
     },
     {
-      "id": "n51273f832a88",
+      "id": "n98746c74d256",
       "ticker": "STLTECH",
       "company": "Sterlite Technologies Limited",
       "sector": "Telecommunication",
       "scope": [
         "watchlist"
       ],
-      "title": "Earnings call transcript: Sterlite Technologies posts record Q2 2026 results By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbWNmZm9DYmc1TkZtMkEwTUlsRy1jYlNSdzhvQ2pUenY2U1BjS1BOOHBOX0VwRDQzVXdSd3ZGN2IydmhBMWxvakJaMVV2blkwOUVHRGlxYTI1RzJzbzlBYkZ5OWFibFgtYzFjZVJtcGdweVFfZjhyUTJ1bkZ2RGJpaG9wOGJXQllWQWZRa0RmNnpSbVpMT2Z5bEJZNEVQWmdmNGNkNXZPcC1Xa25PNXI2WTFkOUJNSDBpWVJVa1B0aFBNMklfZDkwLWVyNGNJcXBJVHc?oc=5",
-      "source": "Investing.com Canada",
-      "date": "2026-10-23T11:38:04.000Z",
+      "title": "Earnings call transcript: Sterlite Technologies posts record Q2 2026 results",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPM0NCZVJKNFk0NUVHVEdPTmJyWHdMV2w4YmVmNkVIMmFTcElLWFFRZVBIcU85czBYb3dadDI3NU1nQjdrLTA4OHRWLTBvOEVWX0JTQkNNWDJKZGctb01QZ3luWmRoYU9ha0pXNnJxV2RPa2UzZ242Nmx6d0N6NFkyTXZkM3JBVmRKWHh1VkdyUWE4WG9CazNycVoycXhnYzVILVlHb0FtREZpcGZhQnRnNXN5QVVOZVBXTnBHeHBkN0FxYkVWRnk0VDZXZw?oc=5",
+      "source": "Investing.com",
+      "date": "2026-10-23T11:56:22.000Z",
       "topic": "Money",
       "keyword": "Earnings",
       "importance": "medium",
@@ -717,7 +755,7 @@
       "mood": "positive",
       "takeaway": "Himadri Speciality Chemicals plans Rs 1,613 crore capacity expansion across its key business segments.",
       "enriched": true,
-      "sources_count": 2
+      "sources_count": 3
     },
     {
       "id": "n24accdecff48",
@@ -775,26 +813,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Aurionpro Solutions partnered with Mastercard for transit payment solutions in North America.",
-      "enriched": true
-    },
-    {
-      "id": "n5864a98a5bb5",
-      "ticker": "MENONBE",
-      "company": "Menon Bearings Limited",
-      "sector": "Automobile and Auto Components",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Menon Bearings MENONBE Q2 H1 FY27 Earnings Concall",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnBpX1l2eDk2VVRDT3gwaE0yQnNXdE1sQ3RsSlJHYXVjakFGYV9NVFI1SkR3SzlZS1NvV2RyaVNERWtmZTA4VE5PeVZIYzRUR0xVckdGYTBWeWJ2TGZMRkdMR25nS090RHF5R1Mwek9xeVh2NFFHa2M1NjhnWFJNVThNVjJXMU93U2JVLXpJUlhUbXF2UFN5aVE5cnhoWG1jTld1QXV0WHN6MngtS1pCVlBNbXN0d0VyT0ZTRg?oc=5",
-      "source": "Kalkine India",
-      "date": "2026-10-22T04:46:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Menon Bearings held earnings call to discuss Q2 and H1 FY27 financial performance.",
       "enriched": true
     },
     {
@@ -3803,7 +3821,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Shaily Engineering Plastics released its Q1 FY2027 earnings call transcript.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -5774,25 +5792,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Clean energy and aerospace sectors driving MTAR's next growth phase.",
-      "enriched": true
-    },
-    {
-      "id": "na3bf21801c9b",
-      "ticker": "MEDIASSIST",
-      "company": "Medi Assist Healthcare Services Limited",
-      "sector": "Financial Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Medi Assist Healthcare Posts Q1 FY27 Profit of ₹27.60 Cr; Declares ₹2 Dividend | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/English/bankingfinance/Medi-Assist-Healthcare-Posts-Q1-FY27-Profit-of-indian-rupee2760-Cr-Declares-indian-rupee2-Dividend/6a76fb6810bce1fd20461775",
-      "source": "whalesbook.com",
-      "date": "2026-09-03T20:34:23.047Z",
-      "topic": "Money",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Medi Assist posts Q1 FY27 profit of Rs 27.60 crore and declares Rs 2 dividend.",
       "enriched": true
     },
     {
@@ -8206,6 +8205,25 @@
       "enriched": true
     },
     {
+      "id": "nf1f382827cbc",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
+      "scope": [
+        "universe"
+      ],
+      "title": "Cipla Receives USFDA Approval Confirmation for InvaGen's New York Manufacturing Facility",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaHJ4QU1wWWF6S3RxQnNIY3hBRnBwWUNKZWRCQzJkazRGaHBUS0JTaDRPRWpWSGVGLXE1NU8wb2hmN0V6RmlQeEFmTDZpaS1iNVJpZzRoV1lhSnh6cThqVFlKVkVvYTdaTXRkQUxEZXFpUjBVbGgzTlVmZ0d5MVJ4WmRQblkxWXFRaXlaUXgweTllWFFydlhRQnhxZ1ZqWmk3MGIwbjNibGN6dFZpM2hQSzYzX2Y3LWhkd2xNeS1UWlZEdkdGWWc?oc=5",
+      "source": "sahi.com",
+      "date": "2026-08-04T07:00:00.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Cipla receives US FDA approval for InvaGen's New York manufacturing facility.",
+      "enriched": true
+    },
+    {
       "id": "n8dc332b3a441",
       "ticker": "SHADOWFAX",
       "company": "Shadowfax Technologies Limited",
@@ -8242,25 +8260,6 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Unimech Aerospace held Q1 FY27 earnings call to discuss quarterly results.",
-      "enriched": true
-    },
-    {
-      "id": "nf1f382827cbc",
-      "ticker": "THEME",
-      "company": "Pharma Approvals",
-      "sector": "Healthcare",
-      "scope": [
-        "universe"
-      ],
-      "title": "Cipla Receives USFDA Approval Confirmation for InvaGen's New York Manufacturing Facility",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaHJ4QU1wWWF6S3RxQnNIY3hBRnBwWUNKZWRCQzJkazRGaHBUS0JTaDRPRWpWSGVGLXE1NU8wb2hmN0V6RmlQeEFmTDZpaS1iNVJpZzRoV1lhSnh6cThqVFlKVkVvYTdaTXRkQUxEZXFpUjBVbGgzTlVmZ0d5MVJ4WmRQblkxWXFRaXlaUXgweTllWFFydlhRQnhxZ1ZqWmk3MGIwbjNibGN6dFZpM2hQSzYzX2Y3LWhkd2xNeS1UWlZEdkdGWWc?oc=5",
-      "source": "sahi.com",
-      "date": "2026-08-04T07:00:00.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Cipla receives US FDA approval for InvaGen's New York manufacturing facility.",
       "enriched": true
     },
     {
@@ -8343,25 +8342,6 @@
       "enriched": true
     },
     {
-      "id": "nc80528387664",
-      "ticker": "MTARTECH",
-      "company": "Mtar Technologies Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "MTAR Technologies Secures Major Order Upsize: Total Value Reaches ~₹3,100 Crore ($324.62 Million)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb0dOMzBMTER6YUpZbk9QWkFRV1BJNFhKdmJpNWRBd25ac2FKRmN3NFdpVUwxbkpsMnZQQ0hlRFFza2tOd191Ny1nREVKWTh6STJMSklyN2h5cTVIM2h5MlhoSUtxZm1DeDB5Zmt6Sm1tYWNld00zWU4yaHRubW02ZXJUeV9vbk0zSkszcEJLQjJPT1ByZ1hYMlJPMnNJam1mODVJeXpNcnBVTzhHbFV6Y3FFVm1Jc2FvbmVBbQ?oc=5",
-      "source": "EquityBulls",
-      "date": "2026-07-31T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "MTAR Technologies secured major order upsize bringing total value to ₹3,100 crore.",
-      "enriched": true
-    },
-    {
       "id": "na2295d35fee7",
       "ticker": "THEME",
       "company": "Pharma Approvals",
@@ -8379,6 +8359,25 @@
       "mood": "positive",
       "takeaway": "Lupin receives U.S. FDA approval and launches Sugammadex Injection.",
       "sources_count": 4,
+      "enriched": true
+    },
+    {
+      "id": "nc80528387664",
+      "ticker": "MTARTECH",
+      "company": "Mtar Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "MTAR Technologies Secures Major Order Upsize: Total Value Reaches ~₹3,100 Crore ($324.62 Million)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb0dOMzBMTER6YUpZbk9QWkFRV1BJNFhKdmJpNWRBd25ac2FKRmN3NFdpVUwxbkpsMnZQQ0hlRFFza2tOd191Ny1nREVKWTh6STJMSklyN2h5cTVIM2h5MlhoSUtxZm1DeDB5Zmt6Sm1tYWNld00zWU4yaHRubW02ZXJUeV9vbk0zSkszcEJLQjJPT1ByZ1hYMlJPMnNJam1mODVJeXpNcnBVTzhHbFV6Y3FFVm1Jc2FvbmVBbQ?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-07-31T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "MTAR Technologies secured major order upsize bringing total value to ₹3,100 crore.",
       "enriched": true
     },
     {
@@ -8828,6 +8827,46 @@
       "enriched": true
     },
     {
+      "id": "nec985e63651b",
+      "ticker": "MEDIASSIST",
+      "company": "Medi Assist Healthcare Services Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Medi Assist Healthcare Services Approves ₹425 Share Buyback | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/medi-assist-share-buyback-approved-cmvuzzp37007y2klzm8yoadal",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Buyback",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Medi Assist approved share buyback at ₹425 per share.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "n52c7c95aecbe",
+      "ticker": "JPL",
+      "company": "Jio Platforms Limited",
+      "sector": "",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Jio Platforms share price live: Jio makes big-bang market debut, becomes India's 2nd most valuable company | Moneycontrol News",
+      "url": "https://www.moneycontrol.com/news/business/ipo/jio-share-price-live-jio-platforms-ipo-jpl-stock-price-listing-today-bse-nse-liveblog-14061676.html",
+      "source": "moneycontrol.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Partnership",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Jio Platforms debuts on market, becomes India's second most valuable company.",
+      "enriched": true
+    },
+    {
       "id": "n3147f8e5e895",
       "ticker": "MTARTECH",
       "company": "Mtar Technologies Limited",
@@ -8844,26 +8883,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "MTAR Technologies received new orders and reported Q1 results, shares rose 5% after five-day decline.",
-      "enriched": true
-    },
-    {
-      "id": "nace3c08bb1e7",
-      "ticker": "TONBO",
-      "company": "Tonbo Imaging India Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Tonbo Imaging ko mila bada European contract: Potential order value **€13 Million**! | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/Hinglish/aerospace-defense/Tonbo-Imaging-Secures-Strategic-European-Export-Order-With-13-Million-Euro-Potential/6ae386a8c6c6dccbb90bd334",
-      "source": "whalesbook.com",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Tonbo Imaging wins European contract worth €13 million.",
       "enriched": true
     },
     {
@@ -8946,6 +8965,26 @@
       "enriched": true
     },
     {
+      "id": "n76dcc7a7725d",
+      "ticker": "SENORES",
+      "company": "Senores Pharmaceuticals Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Senores Pharmaceuticals approves ₹43 crore subsidiary expansion plan",
+      "url": "https://scanx.trade/stock-market-news/companies/senores-pharmaceuticals-plans-43-cr-capacity-expansion-across/54809414",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Senores Pharmaceuticals approved ₹43 crore expansion plan for its subsidiary.",
+      "enriched": true
+    },
+    {
       "id": "n002827641072",
       "ticker": "MEESHO",
       "company": "Meesho Limited",
@@ -9020,26 +9059,6 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "NSE and BSE approved listing of 2 crore equity shares.",
-      "enriched": true
-    },
-    {
-      "id": "n52c7c95aecbe",
-      "ticker": "JPL",
-      "company": "Jio Platforms Limited",
-      "sector": "",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Jio Platforms share price live: Jio makes big-bang market debut, becomes India's 2nd most valuable company | Moneycontrol News",
-      "url": "https://www.moneycontrol.com/news/business/ipo/jio-share-price-live-jio-platforms-ipo-jpl-stock-price-listing-today-bse-nse-liveblog-14061676.html",
-      "source": "moneycontrol.com",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Partnership",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Jio Platforms debuts on market, becomes India's second most valuable company.",
       "enriched": true
     },
     {
@@ -9195,6 +9214,47 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Sterlite Technologies reported record profit and became debt-free.",
+      "enriched": true
+    },
+    {
+      "id": "n1e0a7fc5940f",
+      "ticker": "TONBO",
+      "company": "Tonbo Imaging India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Tonbo Imaging wins strategic export order from Europe for its EO/IR stabilised Seeker | EquityBulls",
+      "url": "https://www.equitybulls.com/news/378201/tonbo-imaging-wins-strategic-export-order-from-europe-for-its-eo-ir-stabilised-s",
+      "source": "equitybulls.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Tonbo Imaging won strategic export order from Europe for stabilised seeker.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nace3c08bb1e7",
+      "ticker": "TONBO",
+      "company": "Tonbo Imaging India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Tonbo Imaging ko mila bada European contract: Potential order value **€13 Million**! | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/aerospace-defense/Tonbo-Imaging-Secures-Strategic-European-Export-Order-With-13-Million-Euro-Potential/6ae386a8c6c6dccbb90bd334",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Tonbo Imaging wins European contract worth €13 million.",
       "enriched": true
     },
     {
@@ -10360,6 +10420,26 @@
       "enriched": true
     },
     {
+      "id": "nc81850c48b82",
+      "ticker": "XPROINDIA",
+      "company": "Xpro India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Stake Sale News: मशहूर निवेशक आशीष कचौलिया ने Xpro India में बेची 0.94% हिस्सेदारी, बेच डाले ₹21.53 करोड़ के 2.22 लाख शेयर - CNBC Awaaz",
+      "url": "https://hindi.cnbctv18.com/share-market/ashish-kacholia-sells-around-1-percent-stake-in-xpro-india-rishi-kajaria-buys-additional-stake-in-swaraj-suiting-199659.htm",
+      "source": "hindi.cnbctv18.com",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Stake sale",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Investor Ashish Kacholia sold 0.94% stake in Xpro India worth ₹21.53 crore.",
+      "enriched": true
+    },
+    {
       "id": "n40713f113464",
       "ticker": "ZENTEC",
       "company": "Zen Technologies Limited",
@@ -10570,6 +10650,83 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Menon Bearings plans Rs 34.5 crore capex with 37% of revenue from exports.",
+      "enriched": true
+    },
+    {
+      "id": "n0d6eb7f695c0",
+      "ticker": "SHADOWFAX",
+      "company": "Shadowfax Technologies Limited",
+      "sector": "Services",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Shadowfax Technologies: IPO Proceeds Used for Capex, Leasing & Marketing in Q2 FY27",
+      "url": "https://www.investywise.com/shadowfax-technologies-monitoring-agency-report-for-ipo-proceeds/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Capex",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Shadowfax used IPO proceeds for capex, leasing, and marketing in Q2 FY27.",
+      "enriched": true
+    },
+    {
+      "id": "n1d30b4c19273",
+      "ticker": "ESDS",
+      "company": "ESDS Software Solution Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "ESDS Software Solution: CTO & CIO Resigns Due to Personal Reasons",
+      "url": "https://www.investywise.com/esds-software-solution-limited-senior-manager-resignation/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "low",
+      "mood": "negative",
+      "takeaway": "CTO and CIO resigned from ESDS Software Solution citing personal reasons.",
+      "enriched": true
+    },
+    {
+      "id": "nd98e1c52995e",
+      "ticker": "ESDS",
+      "company": "ESDS Software Solution Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Shipping Corporation of India: Senior Management Changes Announced | InvestyWise",
+      "url": "https://www.investywise.com/the-shipping-corporation-of-india-ltd-senior-management-change/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Shipping Corporation of India announced senior management changes.",
+      "enriched": true
+    },
+    {
+      "id": "nfa2014ab6be7",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "KFC, Pizza Hut Franchise Operations To Come Under One Roof As Sapphire-Devyani Merger Gets CCI Nod",
+      "url": "https://www.ndtvprofit.com/business/kfc-pizza-hut-franchise-operations-to-come-under-one-roof-as-sapphire-devyani-merger-gets-cci-nod-12259660",
+      "source": "ndtvprofit.com",
+      "date": "",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Sapphire-Devyani merger gets competition regulator approval, consolidating KFC and Pizza Hut franchise operations.",
       "enriched": true
     }
   ]
