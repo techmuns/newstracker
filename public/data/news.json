@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-10-31T08:49:18.019Z",
+  "generated_at": "2026-10-31T18:45:04.507Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 121,
-    "watchlist": 495,
-    "universe": 43,
-    "total": 538
+    "portfolio": 123,
+    "watchlist": 504,
+    "universe": 44,
+    "total": 548
   },
   "items": [
+    {
+      "id": "nc7096ceb2c1a",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Zen Technologies reports no deviation in QIP fund utilization for Q2 2026",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMDI5cFFrYU5MSi1kSHo0RnBkWS1TdXBhcm9ScnFXYnVrQzhVRWp1bkVsWWNRMFlQY2wyRk9xNGdUYjlaWjVhVElHWDFQSERWc0tySG44ZVloVWxvY1VZdEduTDhxVEtmbHhjTXF1TWwyX3ZDLUlmT0F3VTZqdzA3OHJvTlVFdw?oc=5",
+      "source": "InvestyWise",
+      "date": "2026-10-31T16:14:21.000Z",
+      "topic": "Money",
+      "keyword": "QIP",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Zen Technologies confirms QIP funds used as planned in Q2 2026, no deviation reported.",
+      "enriched": true
+    },
     {
       "id": "nb525e6a77b4d",
       "ticker": "ZENTEC",
@@ -25,6 +44,26 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Zen Technologies acquires majority stake in Cogknit Semantics.",
+      "enriched": true
+    },
+    {
+      "id": "ned586d84d291",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
+      "scope": [
+        "universe"
+      ],
+      "title": "Alembic Pharmaceuticals receives USFDA final approval for Venetoclax tablets",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNk5kTGtjMTA3MjRQeUhmUWt2VmhHSDlpT0duOUgxOExwdHBqMkRMWUxBaVVOLWpYRldpaTZJRlhJdDVBN1d2eEhzRTh0WUZzN2EwVVNxRWRhUkdTT3p5RVdQLXA2dWNqWUdKMndRbWc0d2RSZmpQeXB4eS00dENSLW10Q1ZmVWVwMlJxMjF0RWRUZmUwMWtPSXhONlVZdVVPX2xrS3k0QXB0b3dDUlFKZ3FlQnpWTFpaZlJYazdRMWR2WVl30gHLAUFVX3lxTE1NMVBpdjVmS09HOEhybG96cUJsMlNtd2ZWblIzalkxMlFUWUpZcllybEo1bWY1YUlaajNrRThWMEtORGRSX3R3NzZycHY3ZGJ4a0F1Ym1tUlRmYVhHLU0xb1JRWlhtS0dZb3pKb0NURUNENEpVeV9iNGNHc3BNM2QzcXN2dFB2LThoSnp1b3B0TjBIWGZLOVVkRnBFSnFQWTdlNHJLRFFjU1JxTnNvUC1MQWtKRlk0d2VaMjRMTG8wRE5MVEx0MEktc2VB?oc=5",
+      "source": "Indian Pharma Post",
+      "date": "2026-10-31T06:36:41.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Alembic Pharmaceuticals gets US FDA final approval for Venetoclax tablets.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -65,6 +104,46 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Jio Platforms reports 14% profit rise in first earnings after blockbuster debut.",
+      "enriched": true
+    },
+    {
+      "id": "nbaeee8a60c04",
+      "ticker": "MEDIASSIST",
+      "company": "Medi Assist Healthcare Services Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Medi Assist Healthcare MEDIASSIST Buyback Tender Offer 2026",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRlkwM2dOem1TZk92SnJBOTMzeFNwd0RJSFQzLXNETzdaand2Sm1KcTBieEFhUWxVdUxhQWJ0c3ctWldKeXJMa0prSlhhLXlNdXIwa19mRk01bTNzX2ZVcldzNU8tT0tBdmlZTFU1cGliZjZCWXladmNEUnFObExWMEQ2U3dHWHpvb1p5UWRnLS1tQW1qQ05JX0tsdXdlMEdpX2ZUWUhOVnlCakQ1TC1lTHdBUEltcy05Sk9TcDNDckEwMDRJck84aTFrNjY3UHA0NE9r?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-10-30T13:06:00.000Z",
+      "topic": "Money",
+      "keyword": "Buyback",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Medi Assist Healthcare announces buyback tender offer in 2026.",
+      "enriched": true
+    },
+    {
+      "id": "nc99e2b7e9d28",
+      "ticker": "SUDEEPPHRM",
+      "company": "Sudeep Pharma Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Earnings call transcript: Sudeep Pharma posts record Q2 2027 revenue, EBITDA",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxORkdJSXZPdnl3cjI0elhkT1liMWR0U3hhYU5iWk9pVkpuYkZ0R0llakxuUTNqTHFMWkZxZ2s4eXJZVHVZYUc0RkZCZk9HWTdOYkJIUVA4Sk1Wc09fYkN2R2RvUmVCaEtzQ3JQRXM0MURwRUVoZ3A0Q1gwT3h2cmduMUd6NFh3YzI4SXU5YWltZlRMQkpBWmRtVGlzX1FPTkw1NElOdVB0NWpSM2htak8ycmRpR2huYUhwajFYTGJjUUxNTlBEcnU4NGdrMTB6XzVKRjZFQUt6d3p5Z2NpZkFMMWpuUGRRTnR6QWVOZERLSE5tV2NWMWZOUjU1QmNJRmZsZnBBMUZxOTU4YUlKS3ZyQWxyVEE?oc=5",
+      "source": "Investing.com Australia",
+      "date": "2026-10-30T07:10:28.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Sudeep Pharma reports record revenue and EBITDA in Q2 2027.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -515,7 +594,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "E2E Networks plans to expand GPU capacity by about 5.4 MW.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -774,7 +853,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "KSH International secured PGCIL approval for high-voltage power transmission conductors supply.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -892,7 +971,7 @@
       "importance": "medium",
       "mood": "negative",
       "takeaway": "Fire at Zen Technologies' Hyderabad facility causes Rs 4 crore loss, insured.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -3686,7 +3765,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Shaily Engineering Plastics released its Q1 FY2027 earnings call transcript.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -7108,25 +7187,6 @@
       "enriched": true
     },
     {
-      "id": "n477ca64ecd7e",
-      "ticker": "E2E",
-      "company": "E2E Networks Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "E2E Networks Q2 2026 Earnings: Revenue Climbs 49.78% YoY to ₹245.58 crore, but EPS Slips to -₹0.775 - ROE Trend Analysis",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb29RYW5VTXlHOVVZS0IxWjVHZ0Zud2tUY2xERTBLSmV6Z1dfTmtFQ2dfeEdiWmF0REEyWXllSWtqVXp0eEVQTGlUa0pGUmxWb2Y2c3FxcVl3Q01aOG1SaE9vUno2OHN4Y2d1RGtKWFZLNkFiTjVLS1g5MlVXd3NlUVJ0UEV4anJnNDQ5Ty1DZXVOREpxYkdmeVFwT3AzbWxjRFQ2TnVXQV83RUJZLXVxems4b2k3Z0RMU3J2NDVad3hwZTlkSlNWM3JJU3hJY2M?oc=5",
-      "source": "siam.in",
-      "date": "2026-08-28T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "E2E Networks Q2 revenue grew 50% to ₹246 crore but posted a loss per share.",
-      "enriched": true
-    },
-    {
       "id": "n9e3bded7e0f0",
       "ticker": "ZENTEC",
       "company": "Zen Technologies Limited",
@@ -7143,6 +7203,25 @@
       "importance": "medium",
       "mood": "negative",
       "takeaway": "Zen Technologies Q2 revenue declined despite earnings per share of ₹21.52.",
+      "enriched": true
+    },
+    {
+      "id": "n477ca64ecd7e",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "E2E Networks Q2 2026 Earnings: Revenue Climbs 49.78% YoY to ₹245.58 crore, but EPS Slips to -₹0.775 - ROE Trend Analysis",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb29RYW5VTXlHOVVZS0IxWjVHZ0Zud2tUY2xERTBLSmV6Z1dfTmtFQ2dfeEdiWmF0REEyWXllSWtqVXp0eEVQTGlUa0pGUmxWb2Y2c3FxcVl3Q01aOG1SaE9vUno2OHN4Y2d1RGtKWFZLNkFiTjVLS1g5MlVXd3NlUVJ0UEV4anJnNDQ5Ty1DZXVOREpxYkdmeVFwT3AzbWxjRFQ2TnVXQV83RUJZLXVxems4b2k3Z0RMU3J2NDVad3hwZTlkSlNWM3JJU3hJY2M?oc=5",
+      "source": "siam.in",
+      "date": "2026-08-28T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "E2E Networks Q2 revenue grew 50% to ₹246 crore but posted a loss per share.",
       "enriched": true
     },
     {
@@ -8093,25 +8172,6 @@
       "enriched": true
     },
     {
-      "id": "nc80528387664",
-      "ticker": "MTARTECH",
-      "company": "Mtar Technologies Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "MTAR Technologies Secures Major Order Upsize: Total Value Reaches ~₹3,100 Crore ($324.62 Million)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb0dOMzBMTER6YUpZbk9QWkFRV1BJNFhKdmJpNWRBd25ac2FKRmN3NFdpVUwxbkpsMnZQQ0hlRFFza2tOd191Ny1nREVKWTh6STJMSklyN2h5cTVIM2h5MlhoSUtxZm1DeDB5Zmt6Sm1tYWNld00zWU4yaHRubW02ZXJUeV9vbk0zSkszcEJLQjJPT1ByZ1hYMlJPMnNJam1mODVJeXpNcnBVTzhHbFV6Y3FFVm1Jc2FvbmVBbQ?oc=5",
-      "source": "EquityBulls",
-      "date": "2026-07-31T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "MTAR Technologies secured major order upsize bringing total value to ₹3,100 crore.",
-      "enriched": true
-    },
-    {
       "id": "na2295d35fee7",
       "ticker": "THEME",
       "company": "Pharma Approvals",
@@ -8129,6 +8189,25 @@
       "mood": "positive",
       "takeaway": "Lupin receives U.S. FDA approval and launches Sugammadex Injection.",
       "sources_count": 4,
+      "enriched": true
+    },
+    {
+      "id": "nc80528387664",
+      "ticker": "MTARTECH",
+      "company": "Mtar Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "MTAR Technologies Secures Major Order Upsize: Total Value Reaches ~₹3,100 Crore ($324.62 Million)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb0dOMzBMTER6YUpZbk9QWkFRV1BJNFhKdmJpNWRBd25ac2FKRmN3NFdpVUwxbkpsMnZQQ0hlRFFza2tOd191Ny1nREVKWTh6STJMSklyN2h5cTVIM2h5MlhoSUtxZm1DeDB5Zmt6Sm1tYWNld00zWU4yaHRubW02ZXJUeV9vbk0zSkszcEJLQjJPT1ByZ1hYMlJPMnNJam1mODVJeXpNcnBVTzhHbFV6Y3FFVm1Jc2FvbmVBbQ?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-07-31T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "MTAR Technologies secured major order upsize bringing total value to ₹3,100 crore.",
       "enriched": true
     },
     {
@@ -8404,7 +8483,7 @@
       "mood": "positive",
       "takeaway": "Devyani International pursuing merger with Sapphire Foods along with store expansion plans.",
       "enriched": true,
-      "sources_count": 5
+      "sources_count": 4
     },
     {
       "id": "nf1f09cde1bac",
@@ -8426,6 +8505,25 @@
       "enriched": true
     },
     {
+      "id": "n498445216cf3",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Zen Technologies Clears Q1 FY27 Results, Extends QIP Deployment Timeline",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUUJZazNDUC1TenRfaEJ1Ym92cEFXRzkwWE9DVzA2Uks3TlRJSlczdlo0Z2VqdGJmdkZDeUpMYlV3dldwd2xZVm1NZUViOW1kZGlsbE9qTXpma3NzaXVZTWpGWHJLaDRpZldDOHVoUTNCYjdBUWdaMWRKU0ZhVHhZWnhNbWJ1MjlleXRBUHFxaXR1YWlFYkRjSU80OEJOOW1NRzBnRnozdUhMdTFUbVB0WlBzWGxVUEFTZldaYnhpNEw1T29BcU1sNUo0ZGVORWNkcUJDTGZkeDFhTEtPZDk0WmF1TzQwMWc?oc=5",
+      "source": "The Globe and Mail",
+      "date": "2026-07-26T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "QIP",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Zen Technologies extends timeline for deploying funds raised through QIP.",
+      "enriched": true
+    },
+    {
       "id": "nf87412125d4f",
       "ticker": "ACUTAAS",
       "company": "Acutaas Chemicals Limited",
@@ -8443,25 +8541,6 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Acutaas Chemicals released quarterly results with earnings call recording available.",
-      "enriched": true
-    },
-    {
-      "id": "n498445216cf3",
-      "ticker": "ZENTEC",
-      "company": "Zen Technologies Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Zen Technologies Clears Q1 FY27 Results, Extends QIP Deployment Timeline",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUUJZazNDUC1TenRfaEJ1Ym92cEFXRzkwWE9DVzA2Uks3TlRJSlczdlo0Z2VqdGJmdkZDeUpMYlV3dldwd2xZVm1NZUViOW1kZGlsbE9qTXpma3NzaXVZTWpGWHJLaDRpZldDOHVoUTNCYjdBUWdaMWRKU0ZhVHhZWnhNbWJ1MjlleXRBUHFxaXR1YWlFYkRjSU80OEJOOW1NRzBnRnozdUhMdTFUbVB0WlBzWGxVUEFTZldaYnhpNEw1T29BcU1sNUo0ZGVORWNkcUJDTGZkeDFhTEtPZDk0WmF1TzQwMWc?oc=5",
-      "source": "The Globe and Mail",
-      "date": "2026-07-26T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "QIP",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Zen Technologies extends timeline for deploying funds raised through QIP.",
       "enriched": true
     },
     {
@@ -8713,7 +8792,27 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Senores Pharma to invest ₹43 crore in capacity expansion across US and India.",
-      "sources_count": 4,
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "n76dcc7a7725d",
+      "ticker": "SENORES",
+      "company": "Senores Pharmaceuticals Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Senores Pharmaceuticals approves ₹43 crore subsidiary expansion plan",
+      "url": "https://scanx.trade/stock-market-news/companies/senores-pharmaceuticals-plans-43-cr-capacity-expansion-across/54809414",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Senores Pharma approved ₹43 crore expansion plan for its subsidiary.",
       "enriched": true
     },
     {
@@ -9994,7 +10093,7 @@
       "mood": "positive",
       "takeaway": "Sapphire-Devyani merger gets competition regulator approval, consolidating KFC and Pizza Hut franchise operations.",
       "enriched": true,
-      "sources_count": 2
+      "sources_count": 5
     },
     {
       "id": "n5ddccf077292",
@@ -10480,6 +10579,101 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Shipping Corporation of India announced senior management changes.",
+      "enriched": true
+    },
+    {
+      "id": "n89aa2f999243",
+      "ticker": "DHOOTTRANS",
+      "company": "Dhoot Transmission Limited",
+      "sector": "Automobile and Auto Components",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Ganesha Ecosphere shifts polyester fibre line to enhance efficiency | InvestyWise",
+      "url": "https://www.investywise.com/ganesha-ecosphere-limited-production-line-relocation/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Resignation",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Ganesha Ecosphere shifts polyester fibre line to boost operational efficiency.",
+      "enriched": true
+    },
+    {
+      "id": "nf9bdb833766a",
+      "ticker": "DHOOTTRANS",
+      "company": "Dhoot Transmission Limited",
+      "sector": "Automobile and Auto Components",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Nova Iron and Steel expands business scope to include metal trading | InvestyWise",
+      "url": "https://www.investywise.com/nova-iron-steel-ltd-amendment-to-memorandum-of-association-approved/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Resignation",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Nova Iron and Steel expands into metal trading business.",
+      "enriched": true
+    },
+    {
+      "id": "n022f566bfb00",
+      "ticker": "DHOOTTRANS",
+      "company": "Dhoot Transmission Limited",
+      "sector": "Automobile and Auto Components",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Rallis India announces resignation of Chief Audit and Risk Officer | InvestyWise",
+      "url": "https://www.investywise.com/rallis-india-limited-resigns-chief-audit-risk-officer/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Rallis India's Chief Audit and Risk Officer has resigned.",
+      "enriched": true
+    },
+    {
+      "id": "n0838517b19b9",
+      "ticker": "DHOOTTRANS",
+      "company": "Dhoot Transmission Limited",
+      "sector": "Automobile and Auto Components",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Akums Drugs Senior VP R&D resigns | InvestyWise",
+      "url": "https://www.investywise.com/akums-drugs-pharmaceuticals-ltd-senior-management-personnel-resignation/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Akums Drugs Senior VP of R&D has resigned.",
+      "enriched": true
+    },
+    {
+      "id": "nb9f81ade1119",
+      "ticker": "LGEINDIA",
+      "company": "LG Electronics India Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "LG Electronics India ordered to pay differential customs duty | InvestyWise",
+      "url": "https://www.investywise.com/lg-electronics-india-customs-duty-dispute-order-received/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Trouble",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "negative",
+      "takeaway": "LG Electronics India ordered to pay additional customs duty by authorities.",
       "enriched": true
     }
   ]
