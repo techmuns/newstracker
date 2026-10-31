@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T19:48:21.044Z",
+  "generated_at": "2026-10-31T09:03:39.707Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,66 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f127f02835b81",
+      "ticker": "ANAWIL",
+      "company": "Anawil Wire and Engineering Limited",
+      "exchange": "NSE",
+      "date": "2026-10-31T12:33:08.000Z",
+      "category": "Change in Directors",
+      "title": "Anawil Wire and Engineering Limited has informed the Exchange about Resignation of Director/KMP/SMP",
+      "url": "https://nsearchives.nseindia.com/corporate/ANAWIL_ROID_102732_KMP_Doc.zip"
+    },
+    {
+      "id": "fda9856b35b3b",
+      "ticker": "DHOOTTRANS",
+      "company": "Dhoot Transmission Limited",
+      "exchange": "NSE",
+      "date": "2026-10-31T12:26:49.000Z",
+      "category": "ESOP/ESOS/ESPS",
+      "title": "Dhoot Transmission Limited has informed the Exchange regarding Allotment of 63000 Shares.",
+      "url": "https://nsearchives.nseindia.com/corporate/DTL_31102026122558_SEintimationESOPAllotment.pdf"
+    },
+    {
+      "id": "f52f2570530cc",
+      "ticker": "ANAWIL",
+      "company": "Anawil Wire and Engineering Limited",
+      "exchange": "NSE",
+      "date": "2026-10-31T12:12:48.000Z",
+      "category": "Change in Company Secretary/Compliance Officer",
+      "title": "Anawil Wire and Engineering Limited has informed the Exchange about Change in Company Secretary/Compliance Officer",
+      "url": "https://nsearchives.nseindia.com/corporate/ANAWIL_31102026121051_NSE_INTIMATION_FINAL.pdf"
+    },
+    {
+      "id": "fae9b7395eb07",
+      "ticker": "ADROITIND",
+      "company": "Adroit Industries (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-10-31T11:15:52.000Z",
+      "category": "Investor Presentation",
+      "title": "Adroit Industries (India) Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/ADROIT_31102026111540_Transcript.pdf"
+    },
+    {
+      "id": "f7a614342764c",
+      "ticker": "MENONBE",
+      "company": "Menon Bearings Limited",
+      "exchange": "NSE",
+      "date": "2026-10-31T10:08:03.000Z",
+      "category": "Newspaper Publication",
+      "title": "Menon Bearings Limited has informed the Exchange about Copy of Newspaper Publication",
+      "url": "https://nsearchives.nseindia.com/corporate/MENONBE_31102026100749_FILINGNEWSPAPERINTIMATION_SIGNED.pdf"
+    },
+    {
+      "id": "fa48eea2833fc",
+      "ticker": "URBANCO",
+      "company": "Urban Company Limited",
+      "exchange": "NSE",
+      "date": "2026-10-31T09:32:22.000Z",
+      "category": "ESOP/ESOS/ESPS",
+      "title": "Urban Company Limited has informed the Exchange regarding Grant of 534000 stock options under the Employee Stock Option Scheme, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_31102026093123_UC_Grant_of_Stock_Options_31102026.pdf"
+    },
     {
       "id": "f56f484a2dc32",
       "ticker": "TEMPSENS",
@@ -418,6 +478,16 @@
       "url": "https://nsearchives.nseindia.com/corporate/EMAIN_30102026153552_Prior_Intimation_of_Earnings_call.pdf"
     },
     {
+      "id": "f9d1dd1d65b57",
+      "ticker": "AVANTEL",
+      "company": "Avantel Limited",
+      "exchange": "NSE",
+      "date": "2026-10-30T14:52:38.000Z",
+      "category": "Newspaper Publication",
+      "title": "Avantel Limited has informed the Exchange about Copy of Newspaper Publication",
+      "url": "https://nsearchives.nseindia.com/corporate/AVANTEL_30102026145228_NewspaperPublication.pdf"
+    },
+    {
       "id": "fa60493f0c529",
       "ticker": "HARIOMPIPE",
       "company": "Hariom Pipe Industries Limited",
@@ -648,6 +718,16 @@
       "url": "https://nsearchives.nseindia.com/corporate/SENORES_29102026183215_Outcome_of_Investor_Call.pdf"
     },
     {
+      "id": "fabdf1f7ed825",
+      "ticker": "SUDEEPPHRM",
+      "company": "Sudeep Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-10-29T18:24:58.000Z",
+      "category": "Investor Presentation",
+      "title": "Sudeep Pharma Limited has informed the Exchange about Link of Recording",
+      "url": "https://nsearchives.nseindia.com/corporate/SUDEEPPHARMALIMITED_29102026182448_Submission_of_Audio_Call.pdf"
+    },
+    {
       "id": "fec714bb38f42",
       "ticker": "SHAILY",
       "company": "Shaily Engineering Plastics Limited",
@@ -656,6 +736,16 @@
       "category": "Board Meeting",
       "title": "Shaily Engineering Plastics Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
       "url": "https://nsearchives.nseindia.com/corporate/Shailyengineering_29102026181558_OutcomeofBoardMeeting29102026signed.pdf"
+    },
+    {
+      "id": "f6305d7378567",
+      "ticker": "UNIMECH",
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "exchange": "NSE",
+      "date": "2026-10-29T17:57:47.000Z",
+      "category": "Newspaper Publication",
+      "title": "Unimech Aerospace and Manufacturing Limited has informed the Exchange about Copy of Newspaper Publication",
+      "url": "https://nsearchives.nseindia.com/corporate/UNIMECH_29102026175727_Covering_letter_and_Newspaper_advertisement__1_.pdf"
     },
     {
       "id": "f4d81a03103e8",
@@ -766,6 +856,16 @@
       "category": "Receipt of Order",
       "title": "Anawil Wire and Engineering Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
       "url": "https://nsearchives.nseindia.com/corporate/ANAWIL_29102026161648_NSE_INTIMATION.pdf"
+    },
+    {
+      "id": "f02a4bef40618",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "exchange": "NSE",
+      "date": "2026-10-29T16:24:27.000Z",
+      "category": "Investor Presentation",
+      "title": "Surya Roshni Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/SURYAROSNI_29102026162357_Intimation_Earning_Call_29102026.pdf"
     },
     {
       "id": "f2f7988c7656d",
@@ -946,6 +1046,16 @@
       "category": "Newspaper Publication",
       "title": "We enclose herewith the Newspaper cuttings of Business Standard (English), The Economic Times (English) and Maharashtra Times (Marathi) wherein the extract of Unaudited Financial Results (Standalone and Consolidated) of the Company for the second quarter and half year ended September 30, 2026 were published.",
       "url": "https://nsearchives.nseindia.com/corporate/GULFOILLUB_29102026105906_Newspaperfinancials29102026.pdf"
+    },
+    {
+      "id": "ff9762e0ae6e4",
+      "ticker": "SUDEEPPHRM",
+      "company": "Sudeep Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-10-29T10:20:16.000Z",
+      "category": "Newspaper Publication",
+      "title": "Sudeep Pharma Limited has informed the Exchange about Copy of Newspaper Publication",
+      "url": "https://nsearchives.nseindia.com/corporate/SUDEEPPHARMALIMITED_29102026102006_Submission_of_Newspaper_Advertisement.pdf"
     },
     {
       "id": "f8a76f9fc9d44",
@@ -5286,6 +5396,16 @@
       "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
       "title": "KSH International Limited has submitted to the Exchange, Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018.",
       "url": "https://nsearchives.nseindia.com/corporate/INTERNATIONAL_06102026155514_KSH_Intimation_under_Reg-74_5__signed.pdf"
+    },
+    {
+      "id": "f18365db81a40",
+      "ticker": "SAREGAMA",
+      "company": "Saregama India Limited",
+      "exchange": "NSE",
+      "date": "2026-10-06T15:42:33.000Z",
+      "category": "Newspaper Publication",
+      "title": "Saregama India Limited has informed the Exchange about Copy of Newspaper Publication regarding special window for re-lodgement of transfer requests of physical shares",
+      "url": "https://nsearchives.nseindia.com/corporate/SAREGAMA_06102026154150_Cover_Letter.pdf"
     },
     {
       "id": "fe9f91b19e126",
@@ -19886,126 +20006,6 @@
       "category": "Investor Presentation",
       "title": "GMM Pfaudler Limited has informed the Exchange about Link of Recording",
       "url": "https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_06082026160733_GMM_Pfaudler_Q1_FY27_Earnings_Call_Audio.pdf"
-    },
-    {
-      "id": "f2138ecb6b7c1",
-      "ticker": "GMMPFAUDLR",
-      "company": "GMM Pfaudler Limited",
-      "exchange": "NSE",
-      "date": "2026-08-06T15:48:43.000Z",
-      "category": "Newspaper Publication",
-      "title": "Enclosed please find copy of newspaper publication of Unaudited Financial Results for the quarter ended June 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_06082026154801_Newspaper_Advertisement_-_Financials_Q1_FY27.pdf"
-    },
-    {
-      "id": "f8fb69140c7ac",
-      "ticker": "SETL",
-      "company": "Standard Engineering Technology Limited",
-      "exchange": "NSE",
-      "date": "2026-08-06T15:32:19.000Z",
-      "category": "Investor Presentation",
-      "title": "Standard Engineering Technology Limited has informed the Exchange about Investor Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/SGLTPL_06082026153205_Investor_Presentation_06082026.pdf"
-    },
-    {
-      "id": "fb7a2cbd22214",
-      "ticker": "MENONBE",
-      "company": "Menon Bearings Limited",
-      "exchange": "NSE",
-      "date": "2026-08-06T15:21:41.000Z",
-      "category": "Shareholders meeting",
-      "title": "Menon Bearings Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on August 06, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/MENONBE_06082026152043_35th_AGM_Outcome_Signed_1.pdf"
-    },
-    {
-      "id": "f29be3bf6629f",
-      "ticker": "IKS",
-      "company": "Inventurus Knowledge Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-08-06T15:15:52.000Z",
-      "category": "Investor Presentation",
-      "title": "Inventurus Knowledge Solutions Limited has informed the Exchange about Link of Recording",
-      "url": "https://nsearchives.nseindia.com/corporate/IKS2006_06082026151524_20260806Regulation30SubEarningsConferenceCall.pdf"
-    },
-    {
-      "id": "f2395a080420c",
-      "ticker": "APTUS",
-      "company": "Aptus Value Housing Finance India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-06T14:54:13.000Z",
-      "category": "Shareholders meeting",
-      "title": "Aptus Value Housing Finance India Limited has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on August 04, 2026. Further, the company has informed the Exchange regarding voting results.",
-      "url": "https://nsearchives.nseindia.com/corporate/APTUS_06082026145401_Voting_Results_SE_Intimation__sd.pdf"
-    },
-    {
-      "id": "f1790bac77573",
-      "ticker": "SETL",
-      "company": "Standard Engineering Technology Limited",
-      "exchange": "NSE",
-      "date": "2026-08-06T14:22:37.000Z",
-      "category": "Press Release",
-      "title": "Standard Engineering Technology Limited has informed the Exchange regarding a press release dated August 06, 2026, titled \"Press Release\".",
-      "url": "https://nsearchives.nseindia.com/corporate/SGLTPL_06082026142225_Press_release_06082026.pdf"
-    },
-    {
-      "id": "fa4c9192f2dc9",
-      "ticker": "SETL",
-      "company": "Standard Engineering Technology Limited",
-      "exchange": "NSE",
-      "date": "2026-08-06T13:37:34.000Z",
-      "category": "Board Meeting",
-      "title": "Standard Engineering Technology Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/SGLTPL_06082026133723_Board_Meeting_Outcome_06082026.pdf"
-    },
-    {
-      "id": "f4f2bf50bdea9",
-      "ticker": "TENNIND",
-      "company": "Tenneco Clean Air India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-06T12:58:20.000Z",
-      "category": "Investor Presentation",
-      "title": "Tenneco Clean Air India Limited has informed the Exchange about Investor Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/TENNECO_06082026125547_Intimation_IR_Presentation_Final_Signed.pdf"
-    },
-    {
-      "id": "faf99d92e2acc",
-      "ticker": "OMNI",
-      "company": "Omnitech Engineering Limited",
-      "exchange": "NSE",
-      "date": "2026-08-06T12:24:57.000Z",
-      "category": "Newspaper Publication",
-      "title": "OMNI: Omnitech Engineering Limited has informed the Exchange regarding the submission of copies of newspaper publications of the extract of the Standalone and Consolidated Unaudited Financial Results for the quarter ended June 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/OMNITECHENG_06082026122347_Newspaper_publication.pdf"
-    },
-    {
-      "id": "fd6cd36e04c21",
-      "ticker": "IKS",
-      "company": "Inventurus Knowledge Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-08-06T09:17:41.000Z",
-      "category": "Agreements",
-      "title": "Inventurus Knowledge Solutions Limited has informed the Exchange about disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Details of the Stock Purchase Agreement for sale of Series A-1 Preferred Shares held by Inventurus Knowledge Solutions, Inc. in Abridge AI Inc.",
-      "url": "https://nsearchives.nseindia.com/corporate/IKS2006_06082026091624_StockExchDiclosureAbridgeIncsaleofShares_FinalV2.pdf"
-    },
-    {
-      "id": "f0b640c2a996d",
-      "ticker": "IKS",
-      "company": "Inventurus Knowledge Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-08-05T22:56:21.000Z",
-      "category": "Change in Directors",
-      "title": "Inventurus Knowledge Solutions Limited has informed the Exchange regarding Change in Director(s) of the company.",
-      "url": "https://nsearchives.nseindia.com/corporate/IKS2006_05082026225609_04_20260805ChangeInManagement_Signed.pdf"
-    },
-    {
-      "id": "faf7f6ededc43",
-      "ticker": "TENNIND",
-      "company": "Tenneco Clean Air India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-05T22:39:07.000Z",
-      "category": "Press Release",
-      "title": "Tenneco Clean Air India Limited has informed the Exchange regarding a press release dated August 05, 2026, titled \"Tenneco Clean Air India Limited Announces Q1FY2027 Results\".",
-      "url": "https://nsearchives.nseindia.com/corporate/TENNECO_05082026223853_Intimation_Press_Release_Signed.pdf"
     }
   ]
 }
