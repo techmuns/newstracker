@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-10-30T19:41:15.981Z",
+  "generated_at": "2026-10-31T08:49:18.019Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 121,
-    "watchlist": 497,
-    "universe": 54,
-    "total": 551
+    "watchlist": 495,
+    "universe": 43,
+    "total": 538
   },
   "items": [
     {
-      "id": "n16645d771cb1",
-      "ticker": "THEME",
-      "company": "Pharma Approvals",
-      "sector": "Healthcare",
+      "id": "nb525e6a77b4d",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies Limited",
+      "sector": "Capital Goods",
       "scope": [
-        "universe"
+        "watchlist"
       ],
-      "title": "Sun Pharma Expands ILUMYA's Label with USFDA Approval for Psoriatic Arthritis",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbTRYVndqQV9qMEhMbmFnS1h4SUtFLWVzQWViM2dPek5qZkRKYzU1bUhBLTdtRlEtR3ZUZ3RuaHRWZFU3LXNsMTRhMElWdEU5SEVOdzhlc2dfRG9sS3FjMlF4RHFiMmVLaUc4OFJCSjVBbEtiOHRZWGZrZENkNUlLLWRGSHVrQXNJalZXRFFGandTcVlLQWZySXU3MzhONDFrRzlMaHRheDhWejdKMWhwQ0dRRjhWbjN1bVVnd0xFanRrWDRCUTY3OHdPemxHRnBOU2fSAdIBQVVfeXFMTW00WFZ3akFfajBITG5hZ0tYeElLRS1lc0FlYjNnT3pOamZESmM1NW1IQS03bUZRLUd2VGd0bmh0VmRVNy1zbDE0YTBJVnRFOUhFTnc4ZXNnX0RvbEtxYzJReERxYjJlS2lHODhSQko1QWxLYjh0WVhma2RDZDVJSy1kRkh1a0FzSWpWV0RRRmp3U3FZS0Fmckl1NzM4TjQxa0c5TGh0YXg4Vno3SjFocENHUUY4Vm4zdW1VZ3dMRWp0a1g0QlE2Nzh3T3psR0ZwTlNn?oc=5",
-      "source": "Medical Dialogues",
-      "date": "2026-10-30T16:11:38.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "medium",
+      "title": "JSA advises Zen Technologies on majority stake acquisition in Cogknit Semantics",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaThuVG9rX0NLMUVDQWpUZzNmU00zMGR0Vy1sTFY5TzIzV2N2ckV0aWw5VXJjOV9VTDB4VGpuZkVreVk3Wk9UQkdWX0g2QkJ6eEJ2eE5IRDYwU2hBUlk4ZEFLZHFNMEtQQWp1MmJuSUMwUWZRWEJYa1RkZjRVZHh3ckF1NlZYMjlodXU0bWQ5N0NnSnZ3TjN1SzM4Q1FfN0dfcWQxaDZKZzNuLTRuT0MxWkk5YVhnbnZ5QU82bndNeUVlX09lRGdSS1l6Qy12Z05oaEczSdIB1AFBVV95cUxNaThuVG9rX0NLMUVDQWpUZzNmU00zMGR0Vy1sTFY5TzIzV2N2ckV0aWw5VXJjOV9VTDB4VGpuZkVreVk3Wk9UQkdWX0g2QkJ6eEJ2eE5IRDYwU2hBUlk4ZEFLZHFNMEtQQWp1MmJuSUMwUWZRWEJYa1RkZjRVZHh3ckF1NlZYMjlodXU0bWQ5N0NnSnZ3TjN1SzM4Q1FfN0dfcWQxaDZKZzNuLTRuT0MxWkk5YVhnbnZ5QU82bndNeUVlX09lRGdSS1l6Qy12Z05oaEczSQ?oc=5",
+      "source": "Bar and Bench",
+      "date": "2026-10-31T06:43:07.000Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
       "mood": "positive",
-      "takeaway": "Sun Pharma gets US approval to expand ILUMYA drug label to treat psoriatic arthritis.",
+      "takeaway": "Zen Technologies acquires majority stake in Cogknit Semantics.",
       "enriched": true
     },
     {
@@ -44,7 +44,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Medi Assist announces Rs 49.27 crore share buyback plan.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -259,26 +259,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Senores Pharmaceuticals' subsidiary is expanding capacity, expected completion by 2027.",
-      "enriched": true
-    },
-    {
-      "id": "ncee98921f51c",
-      "ticker": "SUDEEPPHRM",
-      "company": "Sudeep Pharma Limited",
-      "sector": "Chemicals",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Earnings call transcript: Sudeep Pharma posts record Q2 2027 revenue, EBITDA By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdlNQM0tta19LX1laVFNCcGJuTEhOd2FzQ09BVzZwRmpQU01McWdKMGRVY1QyRmRXMldzZDZKWDFveTJUbk9BN3BXQ0h0SXN0VThwZlh0T0kyOWROT3VNTlRYQTY5OFNTNXljX0tGNlA0bE9ZV1FWSHNxUmdGX0o0R0tOVnRsRWl1TUNfeTc0NGQ1WWVkcldGRzRCMUlWYXlIT3VDREhqUzJIUS0tWDlhT0xLUzZRNVFSRzROV1A0Z01nU2Z3b2ZsX1JMTFBGWURJ?oc=5",
-      "source": "Investing.com India",
-      "date": "2026-10-29T08:03:45.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Sudeep Pharma reported record revenue and EBITDA in Q2 2027.",
       "enriched": true
     },
     {
@@ -498,26 +478,6 @@
       "enriched": true
     },
     {
-      "id": "nec781dc88482",
-      "ticker": "THEME",
-      "company": "Pharma Approvals",
-      "sector": "Healthcare",
-      "scope": [
-        "universe"
-      ],
-      "title": "Alembic Pharmaceuticals secures USFDA final approval for Valganciclovir oral solution",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVFdBbXMxSU5pbUNMcFhJSmhscjVLVE5pbVIwOTZBX0VMR21DN1R1U2Vkb3lLcFowS1YyRXFubUV6cXE0ZmhHdFMwWkNTZU5nSXlWSXhfdEJ3TG16b1hZb2RGX2VKSWx5NUY0ZXZpQXNxM0d6SWlleW5JVWM1Y25LdmxzUTBUVF96R3hLOUJJMEJPNU1JMlFoeUtNa1RBTkNIM1lKNHpFRkxhOExlQUctQThEUUY3YW9lQmVTa2o0ZDFiZ3I5TDcyUl9GZEtZeFNs0gHXAUFVX3lxTE9DWlRGYWVWUnVHYXRTTGNLdkZVTWVJZjNZdEViM1NlQjZlOTBkanc5M0RBNTFiNVZWak9HUGY2VHZlN3pOSUxmYkFwci13U2xxZ3NxN0kyT3NSWl9xbGtZZUY4anhZWld4MjlKbmd2Mkg5TlVBVlZZUTlyR3hVNHlCaWlRY1JBLTlHMnduc09SX2xBd25kdUhWVEZPaVliX0IySHFrc3JiV0RDbFZtT3NacTJweUFqRDFaVEJHMDZvcXAzRXN6Q1FNbURWRmNlSHJlREZNVVpJ?oc=5",
-      "source": "Indian Pharma Post",
-      "date": "2026-10-27T12:39:07.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Alembic Pharmaceuticals receives US FDA final approval for Valganciclovir oral solution.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "n45bf41f406ea",
       "ticker": "ACUTAAS",
       "company": "Acutaas Chemicals Limited",
@@ -535,7 +495,8 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Acutaas Chemicals Q2 2026 revenue exceeds expectations, driving 13% stock gain.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "nfd1f6bc2257a",
@@ -575,7 +536,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Sudeep Pharma received FDA approval to start operations at its new manufacturing facility in Gujarat.",
-      "sources_count": 5,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -616,6 +577,26 @@
       "takeaway": "E2E Networks expanding AI Factory capacity by 59%.",
       "enriched": true,
       "sources_count": 2
+    },
+    {
+      "id": "n662289c5cabd",
+      "ticker": "SUDEEPPHRM",
+      "company": "Sudeep Pharma Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Sudeep Pharma gets FDA approval for new 51,200 MT capacity plant in Gujarat",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONFZjeFdvVEFNbUhEenFyUE9RM2puODh4TEpwMzQtR0ZzcDZSOFpQYlR2ZmtiX3ZiVUowUEQ5NFhRMGxOZktvaTU2c3l2aFIyY3BBenlFUEVaN2YxUW4walZzZTF6QmNKRFNHcjgtMzhmR0dMbzd4RnpKNHhZQlEwbldhalpTRzRTMjFuU0VheGlsNHZubEdUQXpVamJuVXJfNHQ2cU5BUmp0bXA3VTMwV3VCSXRfclBjbHdBX1FwSnpRelE?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-10-26T07:31:45.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Sudeep Pharma received FDA approval for its new 51,200 MT capacity plant in Gujarat.",
+      "enriched": true
     },
     {
       "id": "n98746c74d256",
@@ -851,7 +832,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Alembic Pharma got US FDA approval for generic ear infection drug.",
-      "sources_count": 2,
+      "sources_count": 14,
       "enriched": true
     },
     {
@@ -1072,25 +1053,6 @@
       "enriched": true
     },
     {
-      "id": "ne5556ef6074f",
-      "ticker": "THEME",
-      "company": "Pharma Approvals",
-      "sector": "Healthcare",
-      "scope": [
-        "universe"
-      ],
-      "title": "Dr. Reddy's Laboratories Reports USFDA Pre-Approval Inspection At FTO-9 Facility",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQTliVkxLUGg3RS01bjZLTVFPcVZTYVZrZEdlcF9uTXVsNzlIWTJJczh5WThJQ2xfeWlNWm0yQlBjalBjbzJBSUVjMEsxWkVxTjlRLXVWRXoyVE01RWhOY2hWWExWM2F3bnNqeDg4RlhJWkZvanp4VXhlOWdsZFdTVTYxQnd0bFV3Y2s3T2FUREh1RXEtN1BnQ0MxZUw5a0h4azNEZ0V6YXM?oc=5",
-      "source": "Sahi",
-      "date": "2026-10-15T01:07:32.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Dr. Reddy's FTO-9 facility cleared USFDA pre-approval inspection.",
-      "enriched": true
-    },
-    {
       "id": "nf260dd676e8e",
       "ticker": "AURIONPRO",
       "company": "Aurionpro Solutions Limited",
@@ -1242,25 +1204,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Gujarat Fluorochemicals plans to expand refrigerant production capacity in 2026.",
-      "enriched": true
-    },
-    {
-      "id": "ncbad7e0f40a3",
-      "ticker": "THEME",
-      "company": "Pharma Approvals",
-      "sector": "Healthcare",
-      "scope": [
-        "universe"
-      ],
-      "title": "Aurobindo Pharma gets USFDA approval to manufacture kidney drug",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTEhpaGNWTUE3OGNPMlhFYmVFeEwzeTFOZURsYWxMLVpIR0UxMUpRUjU2RlhQajRUcmQ3ZHQxNTlrRjNHZTlobmdaM1VXRGVCc3BLcWpKRFRQRi13VlhhNmxHdWp6U2ZBbDlLNjVITGRoY3ktNEs5QnNULXhBUjFXZnpCNy02Uk50b3dxVEFFbmgycjVWZDZsS0FGV1pXTWtMY240dkdUYw?oc=5",
-      "source": "eHealth Magazine",
-      "date": "2026-10-10T04:59:44.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Aurobindo Pharma receives US FDA approval to manufacture kidney drug.",
       "enriched": true
     },
     {
@@ -1420,26 +1363,6 @@
       "enriched": true
     },
     {
-      "id": "n121992f73578",
-      "ticker": "THEME",
-      "company": "Pharma Approvals",
-      "sector": "Healthcare",
-      "scope": [
-        "universe"
-      ],
-      "title": "Aurobindo Pharma shares in focus on final USFDA approval for Perampanel tablets",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTXpFdTg3c3hDMG9wWUhrVzI1RWJHX3dONS1uQllwQ3huVE1yaE9nMjdVcjludnZmTjNGR2w5UWFpVEl1X1BUWEozVlZENU5sZ0x4LWY3eTBQOFg3RjRzV2F1RF9jVFB3elRReHFqYVpucldhdkFTbXhCdnVoQnZkdk85VVk0ak81MzFsTEVYNDFiU2ZXbUJjOFJEWUhyaTZMcldZX0ZZaDI3THpLdGRPVkZhejhQWU52SzNZdVQ3czV4WFBiaGJwSGdlaERyVmxqWjdHVE1JbkFJN0huR0huT21R0gHiAUFVX3lxTFBNekV1ODdzeEMwb3BZSGtXMjVFYkdfd041LW5CWXBDeG5UTXJoT2cyN1VyOW52dmZOM0ZHbDlRYWlUSXVfUFRYSjNWVkQ1TmxnTHgtZjd5MFA4WDdGNHNXYXVEX2NUUHd6VFF4cWphWm5yV2F2QVNteEJ2dWhCdmR2TzlVWTRqTzUzMWxMRVg0MWJTZldtQmM4UkRZSHJpNkxyV1lfRlloMjdMekt0ZE9WRmF6OFBZTnZLM1l1VDdzNXhYUGJoYnBIZ2VoRHJWbGpaN0dUTUluQUk3SG5HSG5PbVE?oc=5",
-      "source": "Moneycontrol.com",
-      "date": "2026-10-05T01:37:12.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Aurobindo Pharma receives final USFDA approval for Perampanel tablets.",
-      "sources_count": 3,
-      "enriched": true
-    },
-    {
       "id": "n18f9d0e46c9a",
       "ticker": "SETL",
       "company": "Standard Engineering Technology Limited",
@@ -1456,25 +1379,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Standard Engineering gets exchange approval to raise funds through preferential share issue.",
-      "enriched": true
-    },
-    {
-      "id": "n72e170534f8b",
-      "ticker": "THEME",
-      "company": "Pharma Approvals",
-      "sector": "Healthcare",
-      "scope": [
-        "universe"
-      ],
-      "title": "USFDA expands Camzyos approval to children with obstructive hypertrophic cardiomyopathy",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdGsxc0w4c1d1REF6Y3NHTWZ4OE1LX1p1VDlXNm5VSDZRbzVXM1UyNGxvRlU0U3VSNVc0SXFVRGJueXdPN3Z4YXVCZ1VGemhHTEFzdGpkbTRMLVJhSUJPeW1KbEk0Z05Sb2lvb3dyYTZ6NkdTbmlLYU9aTmJEU2EzRkVQa3lBZlk2emtjOGNOZ2tZWlBiM0VxVElpc0JwTVRwU1FucmU3dWhpRUo2Qi1DYlMtcEdTNGljbWQ4M0hVQnh0RWY3NWU2RzJ2NNIB2gFBVV95cUxNSURXMFM4eFM4eGswVTNHOFF6TkpNb3dqZHhzNHhsRFZ0d09XNEFpRkhoN3JTcV92UU4zbW56Rk5zRGN6Z0xOWm54Zk9TaTF0cEpXMzF5QnJfRGtob3RiRDZwY2FwMlMwb1Q4Yk9IbnNsZmtvV09HZk1jTUIzMndGWjlsbEtEc0lMLS1LNEpEM2ZVYUxNUkh1M2RLdk9zTnFuZm9lTmYxZjZsWDFMX0htYUk5UmN1eGNQUVdJWVpPbUNTTC1DbjZYLUZoZ2swd2hGRWN2VzJwd1JaUQ?oc=5",
-      "source": "indianpharmapost.com",
-      "date": "2026-10-02T13:45:03.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "USFDA expanded Camzyos approval to include children with obstructive hypertrophic cardiomyopathy.",
       "enriched": true
     },
     {
@@ -1940,25 +1844,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Shaily Engineering approved ₹500 crore fundraise and reported 82% profit increase.",
-      "enriched": true
-    },
-    {
-      "id": "n8be7ad00ff5f",
-      "ticker": "THEME",
-      "company": "Pharma Approvals",
-      "sector": "Healthcare",
-      "scope": [
-        "universe"
-      ],
-      "title": "Lupin Gets Tentative USFDA Approval for Apixaban Oral Suspension",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcE5iM1NBamgtVzY3V2pPRHI4Wnd4aDBZeVZmejc3eWdpY2VWeXVZM3hONGs1UjZWeXN2Y1pXalV4OEpOUHVfaWVmRjhrSEdockVTd1BRVHVESDlPNG5FRWFDSDlWc05ERHV1V1c2UHUzM3otZElWQjlZMElrOW5kTG9PdENnb2E1OGJROXJ4TVFtb2Y2SV92NjZsNnhEVmZFaVlQVGVMdTRITnpDRTQwcVhrbHM3TFFaYzlDcdIBwgFBVV95cUxQTFBaNEVxRldVNExOUXRuSkVqTnBDMll2ZlU2U0cyWV9tZ3JzZ3V6UjFMSWdVa001UDMyUEVNWU9fb0h5d254WEpXcV9LWks4Q3NiVW81STNqcHJWMUVSb2FmVHctLUtKN1NUTmpiaXJ4YjNuSVRKQVI4YXF3VTYxaExzT2dNNUtWVzNiQ0JIR2hRTzlYd0VscVYtRC1reG1RS0dRQ29vT19maVJzQ1lKUzd2MHlIVDJseThRYnJIVDg5UQ?oc=5",
-      "source": "Medical Dialogues",
-      "date": "2026-09-28T12:54:40.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Lupin receives tentative US FDA approval for Apixaban oral suspension.",
       "enriched": true
     },
     {
@@ -3766,26 +3651,6 @@
       "enriched": true
     },
     {
-      "id": "nbd74732977d5",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Sapphire Foods And Devyani International File For CCI Approval For Mega Merger",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWmE3YlRQV0dlOHhxOE9tQ2FkVFc1cnNfdF9Md2hqSTEzM2VnaE1FbnpfeXhXa29CRnJxa1Q1QkFDMExLR1JjUC1sVzQ3VEpVTlFxa2x3NTRfYjlHNU9WclhwREl1N0VBMWRGcnNvZGRwYlFnczhTQldlb0N0eHdQY1g0NDl6dEJlRWI5SjZFRDlTLThZaUpWVS1FbFQ3Nk1CN0ZoOVNSdlBGLXNhMHlxN2Q5VXRCaFhCRjJEQTN0UEpiU0k?oc=5",
-      "source": "Trade Brains",
-      "date": "2026-09-11T05:25:11.000Z",
-      "topic": "Deals",
-      "keyword": "Approval",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Sapphire Foods and Devyani International filed for CCI approval for merger.",
-      "enriched": true,
-      "sources_count": 2
-    },
-    {
       "id": "na78dbee788d2",
       "ticker": "ZENTEC",
       "company": "Zen Technologies Limited",
@@ -3821,7 +3686,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Shaily Engineering Plastics released its Q1 FY2027 earnings call transcript.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -3860,25 +3725,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Pollution board suspended closure order for Hariom Pipe's Perundurai plant.",
-      "enriched": true
-    },
-    {
-      "id": "n1cb33339d5f3",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Devyani International: Files Joint Application for Sapphire Foods India Merger",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVW55akpOVXBOUlZNQlhrZWlOdFVFeklRUFhDMEZzb1dOM2xGM2VQMk5jWnZmOXdEd0E3OXAzMVJMUGM5YWlnUHA2TU9tTWFpS081RTVkbDNqd0pFLVBhb0dWMTU2THI0UnNtcG1zbnZNNDFIVmgyZl9sbjFQR01IMHNCd0FsZw?oc=5",
-      "source": "InvestyWise",
-      "date": "2026-09-10T13:39:04.000Z",
-      "topic": "Deals",
-      "keyword": "Merger",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Devyani International files joint application to merge with Sapphire Foods India.",
       "enriched": true
     },
     {
@@ -4811,25 +4657,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Shaily Engineering proposes ₹3 dividend and seeks shareholder approval to raise ₹500 crore.",
-      "enriched": true
-    },
-    {
-      "id": "nb088577c3862",
-      "ticker": "THEME",
-      "company": "Pharma Approvals",
-      "sector": "Healthcare",
-      "scope": [
-        "universe"
-      ],
-      "title": "Lupin gets USFDA approval for Modafinil tablets to treat excessive sleepiness",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOYU5oLWpEazVVai10TDVYbDRnZjFKREF4RVA5NDI5ZnZFdi1felNpRjJiNEVtb1NQelZrX1dXRGcxZlJfZTRtX3dIdkVFRG9Ua0c0V1hxMXRpbXJyWTZMa0VWanh1LThHODJDZjBRUkZudnBQZE5telNVN2tJRnVVcEFlZjA1M29fa1JQVEJpSXVWb2ZvanRMaTFjajdDOHFVQmdlM003eVFRWlRBbUdWNk9GUjR1c3ZaRlNzcWg0blVjaXo2NE1VMGUzb0NSVERLM0hrTm4yeHluNHNhYko3VFZZV0xGTFBjWExEZzRjSGJOYlZ4bXZPMVNoUTJWLWlNZGFuX0hB0gGLAkFVX3lxTE1xX2pOc0EyWFVpWGpNdlFrcm8tYnhTOS1rYVM4Qk9ZNjVaMEQ4cWxrek43NUVhcVpLYzZMQlFHb3VuWU1hcWQwelA4TnR1RlNkVWlUUlhWd0RIa3dTZFhBMk53azY0cnpGUTdZbVRFc3NYc1h1enk5V0QyQ1kwQWlrUERoUVE5UlR4cHhKZmx2QzREcTdoLUVTV1NSQ1hoRmgzNDllOFFsVk9jR25BeXVCV0lVMGp4YWtQSml3cXJxNFRoeFhtOVc3Z3hRdkJVU2pmNTdVTmQ2RnhxX0JWVHRwTERrSUhvOUk2QkphdDJkMHV2YmNTa1hrVzFIZjQ2RFJvS3RxTmVkQUFvUQ?oc=5",
-      "source": "The Economic Times",
-      "date": "2026-09-04T13:25:01.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Lupin receives US FDA approval for Modafinil tablets to treat excessive sleepiness.",
       "enriched": true
     },
     {
@@ -7166,25 +6993,6 @@
       "enriched": true
     },
     {
-      "id": "nad9835d6442a",
-      "ticker": "THEME",
-      "company": "Pharma Approvals",
-      "sector": "Healthcare",
-      "scope": [
-        "universe"
-      ],
-      "title": "Gilead Wins USFDA Approval for Bixlenvo HIV Combination Treatment",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTlVuZ2g1RG9VeHJtWFFucXRMNkIwTXJqMld4SGpyazh5ZEFiYnBsZlBFQ0ZjZFFEU0pRdFNsQjVVbm5ZUmU3eWU1ZG1ZTmcxVFVBNzdfdWQ0VURRLXp1cmFqalF4bWVKZUVnbnVBQTVzU3lnTmpYX0s4RllRYXE1YXl6aWowNGZuT2lGTW5VOURPcGxLWjltNXE5cldZd3JCMUNZSVRrc01ZN3h3bXRYSXdYcmlpM3Vkc2pjM1NB0gHDAUFVX3lxTFBNM0YyQVdtTkdwb2RQcUVGa2hqdWl5VVZvM2duaWNDaTFOVURYbGhmQjMzcUd3eEctcnhhd3UyY3lNU2tOU1Jfa29PV09jUVRZeVBfNGJsa3hJQ1RvMG9nQmkzM2FyUHVDSVRlWXd1ZkNyUVgtaWVNX3prTG91ZjBNVk1xZWNRRTQxell0SGxYMFdJLW5xOTh4cnRrZE9WUUVRS1dicFVSNG9kSGRBSzF5My0zNExfNjBxeFFSb0ZRNkxUOA?oc=5",
-      "source": "Medical Dialogues",
-      "date": "2026-08-30T09:43:17.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Gilead receives US FDA approval for Bixlenvo, a new HIV combination treatment.",
-      "enriched": true
-    },
-    {
       "id": "n3e1bf2387933",
       "ticker": "KSHINTL",
       "company": "KSH International",
@@ -7377,25 +7185,6 @@
       "enriched": true
     },
     {
-      "id": "n572573dcbe30",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Sapphire Foods approves revised merger scheme with Devyani International",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOODQxTDU3QzVvRW1ZLXB4Y3lHdDNOTXJQWHVsQ3N6SXhkRG9KeHdIeTMtQ0xiZG4yQUpGSDlZZDJuZndYYUhyWDhFcnFPQkZfNHJHYTdPa1F2eE41T3VJbTMyQ3BoZDdJS2xwaHBNVVZBQ0lyczh5cTlIQlFoRGlDZVZFd1Mtb25HS0liQW0yb0JzS2pTTUNGUHYxX3VwQnJjSDE3R3dET0dzYnU3N09NU3BDcG1FOFR0UE1paEJoTHJGUQ?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-08-26T07:00:00.000Z",
-      "topic": "Deals",
-      "keyword": "Merger",
-      "importance": "high",
-      "mood": "neutral",
-      "takeaway": "Sapphire Foods approves revised merger scheme with Devyani International.",
-      "enriched": true
-    },
-    {
       "id": "nb9a71663d0f6",
       "ticker": "MTARTECH",
       "company": "MTAR Technologies",
@@ -7528,25 +7317,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Vipul Organics starts commercial production at Sayakha facility, preparing for capacity expansion.",
-      "enriched": true
-    },
-    {
-      "id": "nb748af5b2751",
-      "ticker": "THEME",
-      "company": "Pharma Approvals",
-      "sector": "Healthcare",
-      "scope": [
-        "universe"
-      ],
-      "title": "Zydus gets USFDA approval for Ascorbic Acid Injection",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTnlSZnBHbDhIZ0JIZnFnSXlYNFJlRjFlaXpGWVVUMldFNzJiVDJHTW9VUXl5VjZiX1dzZFp4VVM4bmNyaU1hR1Y1eEM2U3lZQTNsWnJVcTdFcUlSYS1RczU0VnFYa1ItUEVwWWQ3YWdIeFNQR2R3UGdleWFTZldXMlc5Vk1XNXVHR2I2cXZ5TElnZm9VYjNxUy1FdlFSamhxeWlxTlJn0gGsAUFVX3lxTE1heVN5b3BNS0FsbS1DZGNVTVhlM3BBempHZi1RYnA5RGxjcVJaSlROOHhIWkVYNlA1emlpRXZ3a21EWnZSWDF2OGRiZUdxVHF5bGk2VlY4dWhhSXhHbDd0c3hrbVliaVdkd0RwVklvRDM2ZVlXdHpQdmJOOUh3bi1TZGdTak1qMHVKN0tJNkUzbnpSYkhCS2hsRjJiMEJPWG4ydnVXVURHaVQzQnk?oc=5",
-      "source": "Indian Pharma Post",
-      "date": "2026-08-21T07:00:00.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Zydus received US FDA approval for Ascorbic Acid Injection.",
       "enriched": true
     },
     {
@@ -8205,25 +7975,6 @@
       "enriched": true
     },
     {
-      "id": "nf1f382827cbc",
-      "ticker": "THEME",
-      "company": "Pharma Approvals",
-      "sector": "Healthcare",
-      "scope": [
-        "universe"
-      ],
-      "title": "Cipla Receives USFDA Approval Confirmation for InvaGen's New York Manufacturing Facility",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaHJ4QU1wWWF6S3RxQnNIY3hBRnBwWUNKZWRCQzJkazRGaHBUS0JTaDRPRWpWSGVGLXE1NU8wb2hmN0V6RmlQeEFmTDZpaS1iNVJpZzRoV1lhSnh6cThqVFlKVkVvYTdaTXRkQUxEZXFpUjBVbGgzTlVmZ0d5MVJ4WmRQblkxWXFRaXlaUXgweTllWFFydlhRQnhxZ1ZqWmk3MGIwbjNibGN6dFZpM2hQSzYzX2Y3LWhkd2xNeS1UWlZEdkdGWWc?oc=5",
-      "source": "sahi.com",
-      "date": "2026-08-04T07:00:00.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Cipla receives US FDA approval for InvaGen's New York manufacturing facility.",
-      "enriched": true
-    },
-    {
       "id": "n8dc332b3a441",
       "ticker": "SHADOWFAX",
       "company": "Shadowfax Technologies Limited",
@@ -8342,6 +8093,25 @@
       "enriched": true
     },
     {
+      "id": "nc80528387664",
+      "ticker": "MTARTECH",
+      "company": "Mtar Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "MTAR Technologies Secures Major Order Upsize: Total Value Reaches ~₹3,100 Crore ($324.62 Million)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb0dOMzBMTER6YUpZbk9QWkFRV1BJNFhKdmJpNWRBd25ac2FKRmN3NFdpVUwxbkpsMnZQQ0hlRFFza2tOd191Ny1nREVKWTh6STJMSklyN2h5cTVIM2h5MlhoSUtxZm1DeDB5Zmt6Sm1tYWNld00zWU4yaHRubW02ZXJUeV9vbk0zSkszcEJLQjJPT1ByZ1hYMlJPMnNJam1mODVJeXpNcnBVTzhHbFV6Y3FFVm1Jc2FvbmVBbQ?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-07-31T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "MTAR Technologies secured major order upsize bringing total value to ₹3,100 crore.",
+      "enriched": true
+    },
+    {
       "id": "na2295d35fee7",
       "ticker": "THEME",
       "company": "Pharma Approvals",
@@ -8359,25 +8129,6 @@
       "mood": "positive",
       "takeaway": "Lupin receives U.S. FDA approval and launches Sugammadex Injection.",
       "sources_count": 4,
-      "enriched": true
-    },
-    {
-      "id": "nc80528387664",
-      "ticker": "MTARTECH",
-      "company": "Mtar Technologies Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "MTAR Technologies Secures Major Order Upsize: Total Value Reaches ~₹3,100 Crore ($324.62 Million)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb0dOMzBMTER6YUpZbk9QWkFRV1BJNFhKdmJpNWRBd25ac2FKRmN3NFdpVUwxbkpsMnZQQ0hlRFFza2tOd191Ny1nREVKWTh6STJMSklyN2h5cTVIM2h5MlhoSUtxZm1DeDB5Zmt6Sm1tYWNld00zWU4yaHRubW02ZXJUeV9vbk0zSkszcEJLQjJPT1ByZ1hYMlJPMnNJam1mODVJeXpNcnBVTzhHbFV6Y3FFVm1Jc2FvbmVBbQ?oc=5",
-      "source": "EquityBulls",
-      "date": "2026-07-31T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "MTAR Technologies secured major order upsize bringing total value to ₹3,100 crore.",
       "enriched": true
     },
     {
@@ -8652,7 +8403,8 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Devyani International pursuing merger with Sapphire Foods along with store expansion plans.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 5
     },
     {
       "id": "nf1f09cde1bac",
@@ -8789,41 +8541,22 @@
       "enriched": true
     },
     {
-      "id": "n7cd6bee08e14",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "sector": "Consumer Services",
+      "id": "ncf0e2f353a08",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies Limited",
+      "sector": "Capital Goods",
       "scope": [
         "watchlist"
       ],
-      "title": "Earnings call transcript: Meesho Q1 2027 growth holds as costs ease",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWHFrOURrWmhjUkR0U29QNlpId01yVVdsMkp0aEpralRnWVZjcVRGVDVJRVlIN3ZWZ0tPckoyM20xYjRSTkQ4a2JQbG9UTVJibS1aWjVmVTNlNG14VEJXUVJHVTUyMmJ0Q1ZrZ2xPMTVRNGxJZEFtRnJUR0VPQW5MaDVNZlhrYlFoNEZnM3pLX1NlajB5S3k0dk1VTmxwV3h3eE9xal93b2tpOTVxYnkzTnpJUW5yY2pqam4yUVE3Zw?oc=5",
-      "source": "Investing.com",
-      "date": "2026-07-23T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
+      "title": "Zen Technologies to acquire majority stake in Cogknit Semantics for Rs. 135.15 crore · Business Upturn",
+      "url": "https://businessupturn.com/business/zen-technologies-to-acquire-majority-stake-in-cogknit-semantics-for-rs-135-15-crore/",
+      "source": "businessupturn.com",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Acquisition",
       "importance": "medium",
       "mood": "positive",
-      "takeaway": "Meesho reports Q1 2027 growth with improved cost management and operational efficiency.",
-      "enriched": true
-    },
-    {
-      "id": "nd1f11fed534a",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Devyani International Annual Report FY 2025-26: Revenue at ₹ 56,115 Million, Merger with Sapphire Foods Announced",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQeFR4bXdUdVhvY3JuQnZDd1plU1hObzV5LUNiYU1kb1cxYjJpdTRUcHhScDRBRkhPUWxIeGdXSnJoeFEwNk85RlRZdGFycHhJRFNuYzhCUGFWakVHVDRidkduUkpHMXZfR2ppS2lVVl91OUR4REN3ZG5vWURWWlhoVFVlcDRuZ0JTdW9qRVZ4VDRmazRUVVpfTXZFM214UVBDTzR1RGthWnIxTlNfY1BEX09RM09nbU1YSFFUMEd4MUYwV0NNUlpBcFRuekhKUk5wM01fU0JTanhnVFlOaU5NdkZROG1nLWtyMHd4TUg1aXcwT2JlaVR6NGN3?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-07-23T07:00:00.000Z",
-      "topic": "Deals",
-      "keyword": "Merger",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Devyani International to merge with Sapphire Foods India.",
+      "takeaway": "Zen Technologies acquiring majority stake in Cogknit Semantics for Rs. 135 crore.",
       "enriched": true
     },
     {
@@ -8843,7 +8576,26 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Medi Assist approved share buyback at ₹425 per share.",
-      "sources_count": 3,
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n034d09aec251",
+      "ticker": "MEDIASSIST",
+      "company": "Medi Assist Healthcare Services Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Medi Assist Q2FY27 net profit up 167% to ₹216 crore; buyback approved",
+      "url": "https://scanx.trade/stock-market-news/companies/medi-assist-q2-ebitda-rises-493m-margins-expand-20-41/54912586",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Buyback",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Net profit jumped 167% to ₹216 crore in Q2FY27; board approved a buyback program.",
       "enriched": true
     },
     {
@@ -8961,27 +8713,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Senores Pharma to invest ₹43 crore in capacity expansion across US and India.",
-      "sources_count": 3,
-      "enriched": true
-    },
-    {
-      "id": "n76dcc7a7725d",
-      "ticker": "SENORES",
-      "company": "Senores Pharmaceuticals Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Senores Pharmaceuticals approves ₹43 crore subsidiary expansion plan",
-      "url": "https://scanx.trade/stock-market-news/companies/senores-pharmaceuticals-plans-43-cr-capacity-expansion-across/54809414",
-      "source": "scanx.trade",
-      "date": "",
-      "topic": "Growth",
-      "keyword": "Approval",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Senores Pharmaceuticals approved ₹43 crore expansion plan for its subsidiary.",
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -9313,25 +9045,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Sapphire Foods Q2 shows strong KFC growth with 20% sales increase.",
-      "enriched": true
-    },
-    {
-      "id": "ncf0e2f353a08",
-      "ticker": "ZENTEC",
-      "company": "Zen Technologies Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Zen Technologies to acquire majority stake in Cogknit Semantics for Rs. 135.15 crore · Business Upturn",
-      "url": "https://businessupturn.com/business/zen-technologies-to-acquire-majority-stake-in-cogknit-semantics-for-rs-135-15-crore/",
-      "source": "businessupturn.com",
-      "date": "",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Zen Technologies acquiring majority stake in Cogknit Semantics for Rs. 135 crore.",
       "enriched": true
     },
     {
@@ -9720,6 +9433,26 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Senores Pharma Q1 FY27 shows strong revenue growth but faces margin pressure.",
+      "enriched": true
+    },
+    {
+      "id": "n5e6c078ddc2e",
+      "ticker": "SENORES",
+      "company": "Senores Pharmaceuticals Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Q2 2027 Senores Pharmaceuticals Ltd Earnings Call Transcript",
+      "url": "https://gurufocus.com/news/9160480/q2-2027-senores-pharmaceuticals-ltd-earnings-call-transcript",
+      "source": "gurufocus.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Q2 2027 earnings call transcript released, discussing quarterly financial performance.",
       "enriched": true
     },
     {
@@ -10187,6 +9920,25 @@
       "enriched": true
     },
     {
+      "id": "n8f5d66195230",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "CCI okays AB Renewables' proposal to acquire Solenergi Power for Rs 17,200-cr - CNBC TV18",
+      "url": "https://www.cnbctv18.com/business/cci-okays-ab-renewables-proposal-to-acquire-solenergi-power-for-rs-17200-cr-20023805.htm",
+      "source": "cnbctv18.com",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "CCI approved AB Renewables' acquisition of Solenergi Power for Rs 17,200 crore.",
+      "enriched": true
+    },
+    {
       "id": "n707a202a0768",
       "ticker": "E2E",
       "company": "E2E Networks Limited",
@@ -10223,6 +9975,26 @@
       "mood": "negative",
       "takeaway": "E2E Networks fined ₹10,000 by exchanges for compliance delay.",
       "enriched": true
+    },
+    {
+      "id": "nfa2014ab6be7",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "KFC, Pizza Hut Franchise Operations To Come Under One Roof As Sapphire-Devyani Merger Gets CCI Nod",
+      "url": "https://www.ndtvprofit.com/business/kfc-pizza-hut-franchise-operations-to-come-under-one-roof-as-sapphire-devyani-merger-gets-cci-nod-12259660",
+      "source": "ndtvprofit.com",
+      "date": "",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Sapphire-Devyani merger gets competition regulator approval, consolidating KFC and Pizza Hut franchise operations.",
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n5ddccf077292",
@@ -10708,25 +10480,6 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Shipping Corporation of India announced senior management changes.",
-      "enriched": true
-    },
-    {
-      "id": "nfa2014ab6be7",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "KFC, Pizza Hut Franchise Operations To Come Under One Roof As Sapphire-Devyani Merger Gets CCI Nod",
-      "url": "https://www.ndtvprofit.com/business/kfc-pizza-hut-franchise-operations-to-come-under-one-roof-as-sapphire-devyani-merger-gets-cci-nod-12259660",
-      "source": "ndtvprofit.com",
-      "date": "",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Sapphire-Devyani merger gets competition regulator approval, consolidating KFC and Pizza Hut franchise operations.",
       "enriched": true
     }
   ]
