@@ -1,13 +1,33 @@
 {
-  "generated_at": "2026-11-01T09:40:15.208Z",
+  "generated_at": "2026-11-01T19:09:53.272Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 124,
-    "watchlist": 505,
-    "universe": 42,
-    "total": 547
+    "portfolio": 126,
+    "watchlist": 508,
+    "universe": 43,
+    "total": 551
   },
   "items": [
+    {
+      "id": "ne30c286434f5",
+      "ticker": "SHAILY",
+      "company": "Shaily Engineering Plastics Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Earnings call transcript: Shaily Engineering Plastics beats revenue in Q2 2026 By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTlQzTXdDbzVDQ0dGc0JjZko0Qk9JN2RTYlJvU3VYY1ExQ05sLU42UlAtS0V6SUNycEtOVndGWnhzUW10WlBqdHVDczh5TE1HYUN2WTRHMUlXMzZzcWFkM1QyOEZBM1ktX2FwTVR6SE0yZzhyVlJUR0ZFUWJueTB3d2I0Sm1xenZGNk93TG1GdUg4RTZrb29EZmN4cGRISFo1V2ZRMWxSUHhFUmdabGM1bUF3WGdfeG8wYlp2RHd3Q2xCYjhqTFNDUlpMNUxRMU5yNVhtYw?oc=5",
+      "source": "Investing.com India",
+      "date": "2026-11-01T10:56:50.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Shaily Engineering Plastics exceeded revenue expectations in Q2 FY2026.",
+      "sources_count": 6,
+      "enriched": true
+    },
     {
       "id": "n8098638f0571",
       "ticker": "SAPPHIRE",
@@ -25,7 +45,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "CCI approves Devyani-Sapphire merger and Adani's Rs 3,050 crore IntelliSmart acquisition.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -64,6 +84,26 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "CCI clears Devyani-Sapphire merger, consolidating KFC and Pizza Hut operations in India.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "ned586d84d291",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
+      "scope": [
+        "universe"
+      ],
+      "title": "Alembic Pharmaceuticals receives USFDA final approval for Venetoclax tablets",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNk5kTGtjMTA3MjRQeUhmUWt2VmhHSDlpT0duOUgxOExwdHBqMkRMWUxBaVVOLWpYRldpaTZJRlhJdDVBN1d2eEhzRTh0WUZzN2EwVVNxRWRhUkdTT3p5RVdQLXA2dWNqWUdKMndRbWc0d2RSZmpQeXB4eS00dENSLW10Q1ZmVWVwMlJxMjF0RWRUZmUwMWtPSXhONlVZdVVPX2xrS3k0QXB0b3dDUlFKZ3FlQnpWTFpaZlJYazdRMWR2WVl30gHLAUFVX3lxTE1NMVBpdjVmS09HOEhybG96cUJsMlNtd2ZWblIzalkxMlFUWUpZcllybEo1bWY1YUlaajNrRThWMEtORGRSX3R3NzZycHY3ZGJ4a0F1Ym1tUlRmYVhHLU0xb1JRWlhtS0dZb3pKb0NURUNENEpVeV9iNGNHc3BNM2QzcXN2dFB2LThoSnp1b3B0TjBIWGZLOVVkRnBFSnFQWTdlNHJLRFFjU1JxTnNvUC1MQWtKRlk0d2VaMjRMTG8wRE5MVEx0MEktc2VB?oc=5",
+      "source": "Indian Pharma Post",
+      "date": "2026-10-31T06:48:49.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Alembic Pharmaceuticals gets US FDA final approval for Venetoclax tablets.",
       "sources_count": 2,
       "enriched": true
     },
@@ -108,26 +148,6 @@
       "enriched": true
     },
     {
-      "id": "n7e36949f21de",
-      "ticker": "MEDIASSIST",
-      "company": "Medi Assist Healthcare Services Limited",
-      "sector": "Financial Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Medi Assist Healthcare Services Announces Rs 49.27 Crore Share Buyback Plan",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOX1dMemRvMjV0Z1JEMmhPS1k2R2xVSS13Z1dmZ1JlZEVsVUR1SjlrRWs1YmJZa1VjX295d195UlFCZWZRTjF4RUoyNndnNV80a3Z1STN5dTRBbFJNRUR3NG5GeUxCem40SHZ0Vmh1TDlzMjBnZUl4Tk1odmlGQk5OM2lqcjBSX0lFZHotdDc4LUVsd2RlVGVtNHB5QmRYRmdiaWI3VUpCRmZtaEJvdHJ5dGNDOWVBU2N1LTlQc1J2WUtRODdzWGFGc3RYODRucEFjNjRYejZDbFgtbkIyVkdHTkV3YmFDd3RFajNj?oc=5",
-      "source": "Whalesbook",
-      "date": "2026-10-30T15:24:27.000Z",
-      "topic": "Money",
-      "keyword": "Buyback",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Medi Assist announces Rs 49.27 crore share buyback plan.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "n36203d9c8a9b",
       "ticker": "JPL",
       "company": "Jio Platforms Limited",
@@ -164,6 +184,46 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Medi Assist Healthcare announces buyback tender offer in 2026.",
+      "enriched": true
+    },
+    {
+      "id": "nfaf0c51dafb5",
+      "ticker": "MTARTECH",
+      "company": "Mtar Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "MTAR Technologies Q2 FY27 Earnings Call: Key Takeaways",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQa3lBSlpGX2ZfbDM0Z2t6dDBUNndQcGkyVGNabkt4ZFh6RFowTkR2eUxyQXNPMHhJV2h3VTVtQnJ6elA0eldJRVI0aW00Y0NxbllNeWphQWc2Y09VUEw2UlJURHpic3ZBWGlxRGtEdTQwRDJUZzJEWGRTMXRIODlWWk9xTnlncGJLLUMyOXNPUGxXaWVLRk1NVHVuRkR6cS1SVDhnak9lM19BUTloUWZWT0dHNGdjU05nSk9IQ2ZWeXBHSHlZMmFxMzhn?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-10-30T12:11:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "MTAR Technologies reported Q2 FY27 earnings.",
+      "enriched": true
+    },
+    {
+      "id": "n043ee1c60a52",
+      "ticker": "MENONBE",
+      "company": "Menon Bearings Limited",
+      "sector": "Automobile and Auto Components",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Menon Bearings MENONBE Q2 FY27 Earnings Conference Call",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeEU1cXNyYU5KYmZtSkxWdmE2Szg1ZEUxVl9Lc0VnQ214anlkM2NVZFI1Y21LYVgzN0llUGMtazNVWU1hUU9KR0VRSHZTTUQ5c1RNOXduc1k0eUdOdGRaNDJ0ZFVEMlc3Mnk2SElUMU9FUlFSeVJ5NmxIVF9Cb2lJam5sbEpSX2ZmellvV2RPaWtZTjMzbkxlejgzM0FaQWFnRlNEWlZDUTMyXzBSLUIycVZCSmlnNEQzX2o4T0lpeFcwUQ?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-10-30T11:41:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Menon Bearings held Q2 FY27 earnings conference call.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -3806,26 +3866,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Zen Technologies targets ₹2,500 crore order book despite margin pressure.",
-      "enriched": true
-    },
-    {
-      "id": "n078a78b8716c",
-      "ticker": "SHAILY",
-      "company": "Shaily Engineering Plastics Limited",
-      "sector": "Consumer Durables",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Q1 2027 Shaily Engineering Plastics Ltd Earnings Call Transcript",
-      "url": "https://www.gurufocus.com/news/9026371/q1-2027-shaily-engineering-plastics-ltd-earnings-call-transcript",
-      "source": "gurufocus.com",
-      "date": "2026-09-10T17:54:49.384Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Shaily Engineering Plastics released its Q1 FY2027 earnings call transcript.",
-      "sources_count": 3,
       "enriched": true
     },
     {
@@ -8232,25 +8272,6 @@
       "enriched": true
     },
     {
-      "id": "nc80528387664",
-      "ticker": "MTARTECH",
-      "company": "Mtar Technologies Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "MTAR Technologies Secures Major Order Upsize: Total Value Reaches ~₹3,100 Crore ($324.62 Million)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb0dOMzBMTER6YUpZbk9QWkFRV1BJNFhKdmJpNWRBd25ac2FKRmN3NFdpVUwxbkpsMnZQQ0hlRFFza2tOd191Ny1nREVKWTh6STJMSklyN2h5cTVIM2h5MlhoSUtxZm1DeDB5Zmt6Sm1tYWNld00zWU4yaHRubW02ZXJUeV9vbk0zSkszcEJLQjJPT1ByZ1hYMlJPMnNJam1mODVJeXpNcnBVTzhHbFV6Y3FFVm1Jc2FvbmVBbQ?oc=5",
-      "source": "EquityBulls",
-      "date": "2026-07-31T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "MTAR Technologies secured major order upsize bringing total value to ₹3,100 crore.",
-      "enriched": true
-    },
-    {
       "id": "na2295d35fee7",
       "ticker": "THEME",
       "company": "Pharma Approvals",
@@ -8268,6 +8289,25 @@
       "mood": "positive",
       "takeaway": "Lupin receives U.S. FDA approval and launches Sugammadex Injection.",
       "sources_count": 4,
+      "enriched": true
+    },
+    {
+      "id": "nc80528387664",
+      "ticker": "MTARTECH",
+      "company": "Mtar Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "MTAR Technologies Secures Major Order Upsize: Total Value Reaches ~₹3,100 Crore ($324.62 Million)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb0dOMzBMTER6YUpZbk9QWkFRV1BJNFhKdmJpNWRBd25ac2FKRmN3NFdpVUwxbkpsMnZQQ0hlRFFza2tOd191Ny1nREVKWTh6STJMSklyN2h5cTVIM2h5MlhoSUtxZm1DeDB5Zmt6Sm1tYWNld00zWU4yaHRubW02ZXJUeV9vbk0zSkszcEJLQjJPT1ByZ1hYMlJPMnNJam1mODVJeXpNcnBVTzhHbFV6Y3FFVm1Jc2FvbmVBbQ?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-07-31T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "MTAR Technologies secured major order upsize bringing total value to ₹3,100 crore.",
       "enriched": true
     },
     {
@@ -8642,22 +8682,42 @@
       "enriched": true
     },
     {
-      "id": "nec985e63651b",
+      "id": "n52c7c95aecbe",
+      "ticker": "JPL",
+      "company": "Jio Platforms Limited",
+      "sector": "",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Jio Platforms share price live: Jio makes big-bang market debut, becomes India's 2nd most valuable company | Moneycontrol News",
+      "url": "https://www.moneycontrol.com/news/business/ipo/jio-share-price-live-jio-platforms-ipo-jpl-stock-price-listing-today-bse-nse-liveblog-14061676.html",
+      "source": "moneycontrol.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Partnership",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Jio Platforms debuts on market, becomes India's second most valuable company.",
+      "enriched": true
+    },
+    {
+      "id": "n59f44645469d",
       "ticker": "MEDIASSIST",
       "company": "Medi Assist Healthcare Services Limited",
       "sector": "Financial Services",
       "scope": [
         "watchlist"
       ],
-      "title": "Medi Assist Healthcare Services Approves ₹425 Share Buyback | Market News & Analysis",
-      "url": "https://www.multibagg.ai/market-pulse/articles/medi-assist-share-buyback-approved-cmvuzzp37007y2klzm8yoadal",
+      "title": "Medi Assist sets five-year returns plan and ₹49.3 crore buyback | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/medi-assist-five-year-return-plan-ppt-cmvy2vogh00332gq6fu3qbxwc",
       "source": "multibagg.ai",
       "date": "",
       "topic": "Money",
       "keyword": "Buyback",
       "importance": "medium",
       "mood": "positive",
-      "takeaway": "Medi Assist approved share buyback at ₹425 per share.",
+      "takeaway": "Medi Assist announces Rs 49.3 crore buyback and sets five-year returns plan.",
       "sources_count": 2,
       "enriched": true
     },
@@ -8678,26 +8738,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Net profit jumped 167% to ₹216 crore in Q2FY27; board approved a buyback program.",
-      "enriched": true
-    },
-    {
-      "id": "n52c7c95aecbe",
-      "ticker": "JPL",
-      "company": "Jio Platforms Limited",
-      "sector": "",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Jio Platforms share price live: Jio makes big-bang market debut, becomes India's 2nd most valuable company | Moneycontrol News",
-      "url": "https://www.moneycontrol.com/news/business/ipo/jio-share-price-live-jio-platforms-ipo-jpl-stock-price-listing-today-bse-nse-liveblog-14061676.html",
-      "source": "moneycontrol.com",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Partnership",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Jio Platforms debuts on market, becomes India's second most valuable company.",
       "enriched": true
     },
     {
@@ -8795,7 +8835,27 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Senores Pharma to invest ₹43 crore in capacity expansion across US and India.",
-      "sources_count": 4,
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "n76dcc7a7725d",
+      "ticker": "SENORES",
+      "company": "Senores Pharmaceuticals Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Senores Pharmaceuticals approves ₹43 crore subsidiary expansion plan",
+      "url": "https://scanx.trade/stock-market-news/companies/senores-pharmaceuticals-plans-43-cr-capacity-expansion-across/54809414",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Senores Pharmaceuticals approved ₹43 crore expansion plan for its subsidiary.",
       "enriched": true
     },
     {
@@ -8834,6 +8894,25 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Meesho reported higher festive and tech costs in Q2 while margins improved.",
+      "enriched": true
+    },
+    {
+      "id": "nd96ceac50ff2",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho Q2 FY27: Growth momentum continues as operating losses narrow- Moneycontrol.com",
+      "url": "https://www.moneycontrol.com/news/business/moneycontrol-research/meesho-q2-fy27-growth-momentum-continues-as-operating-losses-narrow-14064103.html",
+      "source": "moneycontrol.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Meesho's Q2 FY27 shows continued growth with narrowing operating losses.",
       "enriched": true
     },
     {
