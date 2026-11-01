@@ -1,13 +1,33 @@
 {
-  "generated_at": "2026-10-31T18:45:04.507Z",
+  "generated_at": "2026-11-01T09:40:15.208Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 123,
-    "watchlist": 504,
-    "universe": 44,
-    "total": 548
+    "portfolio": 124,
+    "watchlist": 505,
+    "universe": 42,
+    "total": 547
   },
   "items": [
+    {
+      "id": "n8098638f0571",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "CCI clears Devyani-Sapphire merger, Adani’s Rs 3,050 crore IntelliSmart deal",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUzNnWC1scDBDUWI4VG9qTGlyc3hSTm9hS2NjSkNZTVVsQTVZU2t0eGtDYUhuTi15aVdWUng4S0tmV2tSTDFOMEJ2dkNINXFEVnhxampGM2h6bUc4RzJLS2Z1QjNZdE9ScEJqa3FlZTV4Q2R6enlVdUxuVmlUeGc2VFRoRWR5R0tCMGRCYzlKQ05HbWJwWmtVQXd2TmpqNzhDdWdlMjAtb0t4YWlGTU1SRHpRZkZ5c2VJMEV4WHdvUEwyQdIByAFBVV95cUxOTk9CVWpkUTRXZmI1cVpzMjh0M05LcmdCbnluUVpCVjhMY0FPV3M3YXF5WERlUEhzSURFREh6MndpT2RpWGplSFItN3FZQTlnMDdyYnBnRUVwMUwyWFV3UC1yN3FJX19VNW1WazVZVGotSkw3UFZhaFNNUHhwMUlreE1XSDFuejhqNDhCTF9xZWxqZ1VTYVh4ODg0RlI0Z2tRWTRlcHZKV2ZsaWJCX2h0dk9zZWdqN3JMZkxXejdfUVpZSmxLRW5uOQ?oc=5",
+      "source": "The Financial Express",
+      "date": "2026-10-31T17:54:35.000Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "CCI approves Devyani-Sapphire merger and Adani's Rs 3,050 crore IntelliSmart acquisition.",
+      "sources_count": 3,
+      "enriched": true
+    },
     {
       "id": "nc7096ceb2c1a",
       "ticker": "ZENTEC",
@@ -25,6 +45,26 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Zen Technologies confirms QIP funds used as planned in Q2 2026, no deviation reported.",
+      "enriched": true
+    },
+    {
+      "id": "n16d161973744",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "CCI approves Devyani International-Sapphire Foods merger: What will the deal mean for KFC and Pizza Hut operations in India?",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOdWUzOEFHcTFHdHAyRGlIWk9nOThCcnJvOGphYVczMFozNThQaWl1VklBMUxTbHR3OEhoeU9jRFE5QS1BZW5nMm54UnhNZEJ5elFUNGZCWDVTdkJSeG1vVmh0enBCTG1Pa21jVmVDakVYeW9RSFpXNTRDX1VhREtJRzQzUjB3QUpXdXhUekpqRE9rSjRSb2JRaEZ2TWRmaENraE5xXzlrNzUyZnlIMDRMLXpTMW8xX0V6bTU3c04wQ2hIaXVGclVNR29wNFZMWmtRYnpLdU8xM3pKOGFtekJTNVdoWU9wOF9HVnVSZ2UzeWdFWV9tcjlKSTduLXZneWtN0gGGAkFVX3lxTE55ZTR1b1ZEUnhzclBPVnJYQV9yeEE2YWFpU3VZQVZ5ZkZTNGZsam1QbTVYTTZjRTlIMlcxX3pxSzRiUnJCTTJGNmJhZlNPZ1lJSzBLU1hwclI4VDhLYzNyYUlqbUtZdndtcGJUM3UzUXg4ZDBOREk2eHc3SU5YamNsYkt0VTJPcDBiRmFUNmVPb25nSjFicUFZOU83N1FJWlJORFhXY3Bvd1pUaTEyd0c0VHNaYk9IeGtZRTZNWTR0cFFXc2dZQ0ZoOWZWNWxtVWI2VFRPcW9zMDVtWDdRLURMaVphYmNScEh1TDNvOG5DYkZlMWJlSDRyNVhaVlhxSE9oWnZIRlE?oc=5",
+      "source": "ET Now",
+      "date": "2026-10-31T12:02:17.000Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "CCI clears Devyani-Sapphire merger, consolidating KFC and Pizza Hut operations in India.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -47,23 +87,24 @@
       "enriched": true
     },
     {
-      "id": "ned586d84d291",
-      "ticker": "THEME",
-      "company": "Pharma Approvals",
-      "sector": "Healthcare",
+      "id": "nb447a479368c",
+      "ticker": "TONBO",
+      "company": "Tonbo Imaging India Limited",
+      "sector": "Capital Goods",
       "scope": [
-        "universe"
+        "portfolio",
+        "watchlist"
       ],
-      "title": "Alembic Pharmaceuticals receives USFDA final approval for Venetoclax tablets",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNk5kTGtjMTA3MjRQeUhmUWt2VmhHSDlpT0duOUgxOExwdHBqMkRMWUxBaVVOLWpYRldpaTZJRlhJdDVBN1d2eEhzRTh0WUZzN2EwVVNxRWRhUkdTT3p5RVdQLXA2dWNqWUdKMndRbWc0d2RSZmpQeXB4eS00dENSLW10Q1ZmVWVwMlJxMjF0RWRUZmUwMWtPSXhONlVZdVVPX2xrS3k0QXB0b3dDUlFKZ3FlQnpWTFpaZlJYazdRMWR2WVl30gHLAUFVX3lxTE1NMVBpdjVmS09HOEhybG96cUJsMlNtd2ZWblIzalkxMlFUWUpZcllybEo1bWY1YUlaajNrRThWMEtORGRSX3R3NzZycHY3ZGJ4a0F1Ym1tUlRmYVhHLU0xb1JRWlhtS0dZb3pKb0NURUNENEpVeV9iNGNHc3BNM2QzcXN2dFB2LThoSnp1b3B0TjBIWGZLOVVkRnBFSnFQWTdlNHJLRFFjU1JxTnNvUC1MQWtKRlk0d2VaMjRMTG8wRE5MVEx0MEktc2VB?oc=5",
-      "source": "Indian Pharma Post",
-      "date": "2026-10-31T06:36:41.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
+      "title": "Tonbo Imaging wins strategic export order from Europe for its EO/IR stabilised Seeker",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQay1HRWI4blVKUUNvaFVkX09YVU5RMmZBWkZKd2pEbmV0VzJSdW0tbTVrZUt4MFZoeHRRb012alN5Nkh6OThtUE03ZFJNbGFuWEdtWFFiSGxxa2RlbkNXMlVNNkJobk1fVGItQkdLY3hpVGtjRGE4c0tqdi04MXJicWxWYk9jaDlfRlVuR3JISHlmT2pXc1ZOTFo0ZV82b2lFWGdLSmZ3bXFmV0hFcmtFYVhUTWI4bXZ3NmRzWA?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-10-30T16:33:21.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
       "importance": "medium",
       "mood": "positive",
-      "takeaway": "Alembic Pharmaceuticals gets US FDA final approval for Venetoclax tablets.",
-      "sources_count": 2,
+      "takeaway": "Tonbo Imaging secures strategic export order from Europe for stabilised seeker systems.",
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -83,7 +124,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Medi Assist announces Rs 49.27 crore share buyback plan.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -222,7 +263,7 @@
       "mood": "positive",
       "takeaway": "Shadowfax reports record Q2 2027 revenue with improved margins.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "n0704b1b38409",
@@ -678,6 +719,25 @@
       "enriched": true
     },
     {
+      "id": "n6a8eb19bddf1",
+      "ticker": "GLOBAL",
+      "company": "Optical Fibre",
+      "sector": "Telecom",
+      "scope": [
+        "universe"
+      ],
+      "title": "Massive Rs 64,000 cr order books: 2 Indian stocks cashing in on AI’s hunger for fibre",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV1NYN3hnRkFNZTAwTENCTEh0b0stQnR4am5yYXJ1VFg3dXBSMWxickl4c1pobEM0NEN2aEt0MEtvNHdfWGQ2QmVlTFJQdjJKUzMyalJoVjc5X2E1WS1yN2JlallYSUNfd0NxU0FGNGhPaVhzR1BlTS15aTFmV2QtaXRzWGZTOUd2SzFnSGpoSXFOTFZDSWZqOEhlZ3FXczZ5MG1IYkFMRnRfa3RsY0trYU56bXc0SmFvdmI5YXIzTVNLZFdIQVFsejhGRlFPcWxGMWUxeEUwM1lwRzd5QTRF0gHmAUFVX3lxTE5FTmNmNWtiSE1mNWVyYkgzMlkzWGJYMjJWTXpJcUxqQWlET29JbjNHMmEwQXJQcVNVX2p3VDdRYkRIWlkydldQT1dVZWJYMVZhTTJDai0xWk1icEVvLTkyQV8xQk50SVZCOFdhbkNWajViZjV2bWlKUFJsR29iWFlsQy1IcFVvcktsai1PYXhRc2pHQTFXMmRtMjdzRVZMZmJZR2h1anNqMlFBMGxQUmdUejQ0cWo4b3FJbkhKaE00Q25KUGpyWThzMmlhSzFXbkJrc1JrZ1BWNmxFYkYxbnJHSHR5ZUpB?oc=5",
+      "source": "The Financial Express",
+      "date": "2026-10-24T23:35:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Two Indian optical fiber companies have combined order books worth Rs 64,000 crore driven by AI demand.",
+      "enriched": true
+    },
+    {
       "id": "n98746c74d256",
       "ticker": "STLTECH",
       "company": "Sterlite Technologies Limited",
@@ -911,7 +971,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Alembic Pharma got US FDA approval for generic ear infection drug.",
-      "sources_count": 14,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -3566,7 +3626,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "GMM Pfaudler held Q1 FY27 earnings call.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -8172,6 +8232,25 @@
       "enriched": true
     },
     {
+      "id": "nc80528387664",
+      "ticker": "MTARTECH",
+      "company": "Mtar Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "MTAR Technologies Secures Major Order Upsize: Total Value Reaches ~₹3,100 Crore ($324.62 Million)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb0dOMzBMTER6YUpZbk9QWkFRV1BJNFhKdmJpNWRBd25ac2FKRmN3NFdpVUwxbkpsMnZQQ0hlRFFza2tOd191Ny1nREVKWTh6STJMSklyN2h5cTVIM2h5MlhoSUtxZm1DeDB5Zmt6Sm1tYWNld00zWU4yaHRubW02ZXJUeV9vbk0zSkszcEJLQjJPT1ByZ1hYMlJPMnNJam1mODVJeXpNcnBVTzhHbFV6Y3FFVm1Jc2FvbmVBbQ?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-07-31T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "MTAR Technologies secured major order upsize bringing total value to ₹3,100 crore.",
+      "enriched": true
+    },
+    {
       "id": "na2295d35fee7",
       "ticker": "THEME",
       "company": "Pharma Approvals",
@@ -8189,25 +8268,6 @@
       "mood": "positive",
       "takeaway": "Lupin receives U.S. FDA approval and launches Sugammadex Injection.",
       "sources_count": 4,
-      "enriched": true
-    },
-    {
-      "id": "nc80528387664",
-      "ticker": "MTARTECH",
-      "company": "Mtar Technologies Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "MTAR Technologies Secures Major Order Upsize: Total Value Reaches ~₹3,100 Crore ($324.62 Million)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb0dOMzBMTER6YUpZbk9QWkFRV1BJNFhKdmJpNWRBd25ac2FKRmN3NFdpVUwxbkpsMnZQQ0hlRFFza2tOd191Ny1nREVKWTh6STJMSklyN2h5cTVIM2h5MlhoSUtxZm1DeDB5Zmt6Sm1tYWNld00zWU4yaHRubW02ZXJUeV9vbk0zSkszcEJLQjJPT1ByZ1hYMlJPMnNJam1mODVJeXpNcnBVTzhHbFV6Y3FFVm1Jc2FvbmVBbQ?oc=5",
-      "source": "EquityBulls",
-      "date": "2026-07-31T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "MTAR Technologies secured major order upsize bringing total value to ₹3,100 crore.",
       "enriched": true
     },
     {
@@ -8466,26 +8526,6 @@
       "enriched": true
     },
     {
-      "id": "ned3e07c2de42",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Devyani International eyes next growth chapter with Sapphire merger, AI push and store expansion",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcGRYMjBESGRmSU5SYjBidmJvSWJtTEVSWjJ4TXpNeW5xNE9HTFFRaEN6QXk0cVdnSjktaE43UnFKX29WQ0Y5UUV1UjBfdS01My1iTEQ1cjNhODJjNGlSMXA2QnRJaWwtU2xiS2Z4OThCV05MRUpJcVFIWUdNeV90UnYxSHY1czNqOXdDNE5HRkJvS3hQM1p5dFBGWkUwQ2RIV1VpcjVnTlJFOVNCbWt1TEZoNGZIaXZnclNwNlVGZS12LTgxZ1JhNw?oc=5",
-      "source": "Indian Television Dot Com",
-      "date": "2026-07-27T07:00:00.000Z",
-      "topic": "Deals",
-      "keyword": "Merger",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Devyani International pursuing merger with Sapphire Foods along with store expansion plans.",
-      "enriched": true,
-      "sources_count": 4
-    },
-    {
       "id": "nf1f09cde1bac",
       "ticker": "E2E",
       "company": "E2E Networks Limited",
@@ -8544,79 +8584,22 @@
       "enriched": true
     },
     {
-      "id": "n996916ced754",
-      "ticker": "THEME",
-      "company": "Specialty Chemicals",
-      "sector": "Chemicals",
-      "scope": [
-        "universe"
-      ],
-      "title": "Scaling specialty chemicals through innovation and capacity expansion: Surya Prakas MP, Executive Director, Pon Pure Chemicals",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNZGRCc3V1WGg2V1J0YmYyNE9NRW1sQm81ZmxNUFdFSnpQVTJNZ1VfUzdETFRFb2FqWVpFMEdPdG0tUFdGLWZUc1pLV21LQXlLNE55ZW5yTHVxdnhXeGNCZ21fbWpBS0w3TlA4cDAzTVczMUFjY3pHRnpUc2ZQYWhzMl8wX1A0TlRXZHMxNkFkWGpoQ21MeWc2N0U4QXA3MU8waWRIcVpwLVltVnlrVlNDRm1fc0ltMk1oclV1d0dfTlB2eFZLS1dGMU1wTE5uNEMySXdxT3JZTnJTVkFYUWd2OG1mTUU3ZUFkdjYxTmZvU0VKR3A3NkVoandGTVlvRFlXdzVZ0gGKAkFVX3lxTE8xQm1TaVZDMFAyMkp6MnMtVngtbzhCT3VsZVBlMlByOC1RNFN0ZEVPUzVFcTBVc2hUTTlwRVFxTG1KUGdGeXVBMkx4dWU3cVQwNFZPRUM2b3pOUHVic2tJd3JKcldpZDhFeFdBbmdlZFVhdHcxVU5Sa2t3dzRBVVA1WWtzQjcyZVJuSDlYdU5WdkV4QVQzNmRudHduYjg2UXNiUVgxVG9NRU9KUmk0dXhiR045dG8tZktnbmdnVVh1Sjd1T24yVU16bXhRLXhCUFEwVmFHNGNrYkx1YXVIODI0cVJDUXhYRzltYWpDbnAtLWlrWjFlTC1tNkhpUUNLMDl3aklaNTlpYzhn?oc=5",
-      "source": "Indian Chemical News",
-      "date": "2026-07-24T07:00:00.000Z",
-      "topic": "Growth",
-      "keyword": "Capacity Expansion",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Pon Pure Chemicals is expanding capacity and focusing on innovation in specialty chemicals.",
-      "enriched": true
-    },
-    {
-      "id": "n1e1fffd69b25",
-      "ticker": "ZENTEC",
-      "company": "Zen Technologies Limited",
-      "sector": "Capital Goods",
+      "id": "n8f5d66195230",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "sector": "Consumer Services",
       "scope": [
         "watchlist"
       ],
-      "title": "Zen Technologies Secures Rs 1,775 mn Defence Order",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZWtFcmVGcTZ3X096elNscERkQUpxYUFWOEpoaHNOUl9GY3BGTGNMZXV2emxmYlU4VjI1WGswSDNQSXVpRUZ5Sm8tMGVsT3F3eDQxbzhyQ0t1dzNOMzRHb0ZmR3hJSnRYb1JvYU1kaFctMUNzc3RtckduNDFBbHk4dk5pU2ZSQlIzUWExSUZxWklsSXd5SWkybW1VYnVYb0JnU0ppbDIwaHNnY0l4MVlKb0NRdlUyYUti?oc=5",
-      "source": "Construction World India",
-      "date": "2026-07-24T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
+      "title": "CCI okays AB Renewables' proposal to acquire Solenergi Power for Rs 17,200-cr - CNBC TV18",
+      "url": "https://www.cnbctv18.com/business/cci-okays-ab-renewables-proposal-to-acquire-solenergi-power-for-rs-17200-cr-20023805.htm",
+      "source": "cnbctv18.com",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Merger",
       "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Zen Technologies won a defence order worth Rs 1,775 million.",
-      "enriched": true
-    },
-    {
-      "id": "nabf8b0e904c2",
-      "ticker": "THEME",
-      "company": "Specialty Chemicals",
-      "sector": "Chemicals",
-      "scope": [
-        "universe"
-      ],
-      "title": "Fineotex Chemical Q1 FY27 Earnings Release: Posts Robust Growth with Revenue at Rs 386.72 Crore",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNThFMlFSTXZQY2Nvd3V5bjRwTkRyTjdRLUpYWF95ZDBrTTdDRGRKcU5jRkRmT25qT1ZFR25lTkFieXRtX1FWb0JtYXBfQ3FyMlhFLW1XbGFtSDI0amt2MW90MVFLaEh6cExDX0FHWTBVSlhZTE9FR1NLdkY5LUZRTjJRempLbzF4VkhxQ0Eyak1kSHBIVWJFQUFMdVNxZTdNN2Z1UmVIblFDTklObzdmV1hZeVVpcnBESjhxMnlxNFBGYkg5SkIza2puNmhidUVVbXUw?oc=5",
-      "source": "https://www.indiagazette.com/",
-      "date": "2026-07-24T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Fineotex Chemical reported Q1 FY27 revenue of Rs 386.72 crore, showing robust growth.",
-      "enriched": true
-    },
-    {
-      "id": "n4436df7be080",
-      "ticker": "SURYAROSNI",
-      "company": "Surya Roshni Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Surya Roshni wins Rs 68.11 crore order from undisclosed client for OCTG supply",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM1Exeld3X1h5WFZWWVJ5MEdSY2FtUlBSU0htbDVCc0xIdk9rMkoycElUNUJ3MzhSMXRKZUk2YWxKRTdxV3N3YzBaby1xaGt5Qmg3S3dHVHl1NjV0V1N4dmtPamdraDNOdXl6MHJEV0xUYnd3WEFMOEJqTUJjNk42by15Qkd1UENEZzdWMVZLLUpsX2RtVl9Lc21iVW90ejZBVVJiNWhiT3hzZFg0SzBLTk1zOEZEeXZHdDh0dldJUFZ0dERTQW9LV2hHQXdIWFlT?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-07-24T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Surya Roshni secured ₹68.11 crore order for OCTG supply.",
+      "mood": "neutral",
+      "takeaway": "CCI approved AB Renewables' acquisition of Solenergi Power for Rs 17,200 crore.",
       "enriched": true
     },
     {
@@ -8636,6 +8619,26 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Zen Technologies acquiring majority stake in Cogknit Semantics for Rs. 135 crore.",
+      "enriched": true
+    },
+    {
+      "id": "nace3c08bb1e7",
+      "ticker": "TONBO",
+      "company": "Tonbo Imaging India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Tonbo Imaging ko mila bada European contract: Potential order value **€13 Million**! | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/aerospace-defense/Tonbo-Imaging-Secures-Strategic-European-Export-Order-With-13-Million-Euro-Potential/6ae386a8c6c6dccbb90bd334",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Tonbo Imaging wins European contract worth €13 million.",
       "enriched": true
     },
     {
@@ -8792,27 +8795,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Senores Pharma to invest ₹43 crore in capacity expansion across US and India.",
-      "sources_count": 3,
-      "enriched": true
-    },
-    {
-      "id": "n76dcc7a7725d",
-      "ticker": "SENORES",
-      "company": "Senores Pharmaceuticals Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Senores Pharmaceuticals approves ₹43 crore subsidiary expansion plan",
-      "url": "https://scanx.trade/stock-market-news/companies/senores-pharmaceuticals-plans-43-cr-capacity-expansion-across/54809414",
-      "source": "scanx.trade",
-      "date": "",
-      "topic": "Growth",
-      "keyword": "Approval",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Senores Pharma approved ₹43 crore expansion plan for its subsidiary.",
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -8952,6 +8935,26 @@
       "enriched": true
     },
     {
+      "id": "nd41d1cf7dee7",
+      "ticker": "ACUTAAS",
+      "company": "Acutaas Chemicals Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Acutaas Chemicals Ltd (BOM:543349) (Q2 2027) Earnings Call Highlights: Revenue Surges 42. ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/acutaas-chemicals-ltd-bom-543349-230235064.html",
+      "source": "finance.yahoo.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Acutaas Chemicals reported 42% revenue growth in Q2.",
+      "enriched": true
+    },
+    {
       "id": "nfea782e8e66b",
       "ticker": "E2E",
       "company": "E2E Networks Limited",
@@ -8989,6 +8992,26 @@
       "takeaway": "E2E Networks announces expansion of Nvidia GPU capacity for AI cloud services.",
       "enriched": true,
       "sources_count": 2
+    },
+    {
+      "id": "n83bf17ae7ad3",
+      "ticker": "SUDEEPPHRM",
+      "company": "Sudeep Pharma Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Sudeep Pharma Receives Gujarat FDA Nod for New 51,200 MT Facility | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/chemicals/Sudeep-Pharma-Receives-Gujarat-FDA-Nod-for-New-51200-MT-Facility/6adefb26c6c6dccbb906d52d",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Sudeep Pharma received Gujarat FDA approval for new 51,200 MT capacity facility.",
+      "enriched": true
     },
     {
       "id": "nf9bbbe4296f5",
@@ -9045,47 +9068,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Sterlite Technologies reported record profit and became debt-free.",
-      "enriched": true
-    },
-    {
-      "id": "n1e0a7fc5940f",
-      "ticker": "TONBO",
-      "company": "Tonbo Imaging India Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Tonbo Imaging wins strategic export order from Europe for its EO/IR stabilised Seeker | EquityBulls",
-      "url": "https://www.equitybulls.com/news/378201/tonbo-imaging-wins-strategic-export-order-from-europe-for-its-eo-ir-stabilised-s",
-      "source": "equitybulls.com",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Tonbo Imaging won strategic export order from Europe for stabilised seeker.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "nace3c08bb1e7",
-      "ticker": "TONBO",
-      "company": "Tonbo Imaging India Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Tonbo Imaging ko mila bada European contract: Potential order value **€13 Million**! | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/Hinglish/aerospace-defense/Tonbo-Imaging-Secures-Strategic-European-Export-Order-With-13-Million-Euro-Potential/6ae386a8c6c6dccbb90bd334",
-      "source": "whalesbook.com",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Tonbo Imaging wins European contract worth €13 million.",
       "enriched": true
     },
     {
@@ -10019,25 +10001,6 @@
       "enriched": true
     },
     {
-      "id": "n8f5d66195230",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "CCI okays AB Renewables' proposal to acquire Solenergi Power for Rs 17,200-cr - CNBC TV18",
-      "url": "https://www.cnbctv18.com/business/cci-okays-ab-renewables-proposal-to-acquire-solenergi-power-for-rs-17200-cr-20023805.htm",
-      "source": "cnbctv18.com",
-      "date": "",
-      "topic": "Deals",
-      "keyword": "Merger",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "CCI approved AB Renewables' acquisition of Solenergi Power for Rs 17,200 crore.",
-      "enriched": true
-    },
-    {
       "id": "n707a202a0768",
       "ticker": "E2E",
       "company": "E2E Networks Limited",
@@ -10674,6 +10637,25 @@
       "importance": "medium",
       "mood": "negative",
       "takeaway": "LG Electronics India ordered to pay additional customs duty by authorities.",
+      "enriched": true
+    },
+    {
+      "id": "nbc6dd5a5ba3c",
+      "ticker": "LGEINDIA",
+      "company": "LG Electronics India Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "LG Electronics India receives customs order for ₹1.06 crore in dues",
+      "url": "https://scanx.trade/stock-market-news/companies/lg-electronics-india-receives-customs-order-1-06-crore-dues/55003684",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Trouble",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "negative",
+      "takeaway": "LG Electronics India receives customs order for Rs 1.06 crore in dues.",
       "enriched": true
     }
   ]
