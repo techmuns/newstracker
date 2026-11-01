@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T18:52:27.439Z",
+  "generated_at": "2026-11-01T09:53:10.824Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,26 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "fee1e9ce5b147",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-11-01T14:20:15.000Z",
+      "category": "Investor Presentation",
+      "title": "Aurionpro Solutions Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/AURIONPRO_01112026142000_ASL_Q2_Investor_Presentation_SD.pdf"
+    },
+    {
+      "id": "f3bfbad7ed864",
+      "ticker": "BHARATCOAL",
+      "company": "Bharat Coking Coal Limited",
+      "exchange": "NSE",
+      "date": "2026-11-01T12:41:52.000Z",
+      "category": "Disclosure",
+      "title": "Bharat Coking Coal Limited has informed the Exchange regarding Provisional Monthly Production Performance for the month of October 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/BCCL_01112026124118_Production_Report_Signed.pdf"
+    },
     {
       "id": "fb7b3ee6268c9",
       "ticker": "DENTA",
@@ -6158,6 +6178,16 @@
       "url": "https://nsearchives.nseindia.com/corporate/HIGHWAY123_01102026160327_HIL_PR_01102026.pdf"
     },
     {
+      "id": "f730d64ad3680",
+      "ticker": "MEDIASSIST",
+      "company": "Medi Assist Healthcare Services Limited",
+      "exchange": "NSE",
+      "date": "2026-10-01T15:44:46.000Z",
+      "category": "Disclosure",
+      "title": "Medi Assist Healthcare Services Limited has informed the Exchange regarding 'Press Release'.",
+      "url": "https://nsearchives.nseindia.com/corporate/MEDIASSIST_01102026154434_PR_NPS.pdf"
+    },
+    {
       "id": "ff10f7d766c5a",
       "ticker": "VOEPL",
       "company": "Virtuoso Optoelectronics Limited",
@@ -7926,6 +7956,16 @@
       "category": "Shareholders meeting",
       "title": "Man Industries (India) Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 25, 2026",
       "url": "https://nsearchives.nseindia.com/corporate/MANINDS_25092026163917_MIIL_Proceedings_of_AGM_25092026.pdf"
+    },
+    {
+      "id": "fb023a1252f61",
+      "ticker": "MVELECTRO",
+      "company": "MV Electrosystems Limited",
+      "exchange": "NSE",
+      "date": "2026-09-25T16:35:35.000Z",
+      "category": "Trading Window",
+      "title": "MV Electrosystems Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/MVELECTROSYSTEMS_25092026163520_Closure_of_trading_window.pdf"
     },
     {
       "id": "f59e936382fdf",
@@ -11386,6 +11426,16 @@
       "category": "Investor Presentation",
       "title": "Urban Company Limited has informed the Exchange about Schedule of Analyst/ Investor Meeting(s) to be held between September 14, 2026 to September 21, 2026",
       "url": "https://nsearchives.nseindia.com/corporate/URBANCO_07092026163223_Investor_Meeting_SE_Intimation_07092026.pdf"
+    },
+    {
+      "id": "fe2b65949f21b",
+      "ticker": "SBCL",
+      "company": "Shivalik Bimetal Controls Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T16:08:44.000Z",
+      "category": "Change in Directors",
+      "title": "Shivalik Bimetal Controls Limited has informed the Exchange about Resignation of Director/KMP/SMP",
+      "url": "https://nsearchives.nseindia.com/corporate/SBCL_ROID_98050_KMP_Doc.zip"
     },
     {
       "id": "f7975ffd7eaec",
@@ -19956,56 +20006,6 @@
       "category": "Investor Presentation",
       "title": "Standard Engineering Technology Limited has informed the Exchange about Link of Recording",
       "url": "https://nsearchives.nseindia.com/corporate/SGLTPL_06082026212340_Investor_meet_Outcome_06082026.pdf"
-    },
-    {
-      "id": "f5fa3848449c0",
-      "ticker": "SONATSOFTW",
-      "company": "Sonata Software Limited",
-      "exchange": "NSE",
-      "date": "2026-08-06T21:20:23.000Z",
-      "category": "Record Date",
-      "title": "Sonata Software Limited has informed the Exchange that Record date for the purpose of Dividend is 14-Aug-2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/SONATSOFTW_06082026211948_bmoutcome06082026.pdf"
-    },
-    {
-      "id": "f637d8427f91c",
-      "ticker": "SONATSOFTW",
-      "company": "Sonata Software Limited",
-      "exchange": "NSE",
-      "date": "2026-08-06T21:04:56.000Z",
-      "category": "ESOP/ESOS/ESPS",
-      "title": "Sonata Software Limited has informed the Exchange regarding Grant of 203333 Options.",
-      "url": "https://nsearchives.nseindia.com/corporate/SONATSOFTW_06082026210428_grantofesops.pdf"
-    },
-    {
-      "id": "fd5622c76a5a0",
-      "ticker": "MTARTECH",
-      "company": "Mtar Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-08-06T20:49:27.000Z",
-      "category": "Investor Presentation",
-      "title": "Mtar Technologies Limited has informed the Exchange about Transcript",
-      "url": "https://nsearchives.nseindia.com/corporate/MTARTECH_06082026204853_Transcript_sw.pdf"
-    },
-    {
-      "id": "f9950953bb3f8",
-      "ticker": "SONATSOFTW",
-      "company": "Sonata Software Limited",
-      "exchange": "NSE",
-      "date": "2026-08-06T20:45:46.000Z",
-      "category": "Board Meeting",
-      "title": "Sonata Software Limited has submitted to the Exchange Outcome of Board Meeting for the quarter ended 30th June, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/SONATSOFTW_06082026204512_bmoutcome06082026.pdf"
-    },
-    {
-      "id": "f2cb5d036556d",
-      "ticker": "TENNIND",
-      "company": "Tenneco Clean Air India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-06T20:32:37.000Z",
-      "category": "Investor Presentation",
-      "title": "Tenneco Clean Air India Limited has informed the Exchange about Link of Recording",
-      "url": "https://nsearchives.nseindia.com/corporate/TENNECO_06082026202808_Investor_Meet_Outcome_Signed.pdf"
     }
   ]
 }
