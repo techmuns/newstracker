@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T09:53:10.824Z",
+  "generated_at": "2026-11-01T19:17:27.793Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,66 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "fa5ae95c5d7bf",
+      "ticker": "MEDIASSIST",
+      "company": "Medi Assist Healthcare Services Limited",
+      "exchange": "NSE",
+      "date": "2026-11-01T23:39:04.000Z",
+      "category": "Press Release",
+      "title": "Medi Assist Healthcare Services Limited has informed the Exchange regarding a press release dated November 01, 2026, titled \"Medi Assist H1 FY27: EBITDA Rises 19.0%; Margins Expand to 20.3% asTechnology Growth and Paramount Integration Drive OperatingLeverage\".",
+      "url": "https://nsearchives.nseindia.com/corporate/MEDIASSIST_01112026233850_MAHSpressrelease300926.pdf"
+    },
+    {
+      "id": "f30d4c111a045",
+      "ticker": "JPL",
+      "company": "Jio Platforms Limited",
+      "exchange": "NSE",
+      "date": "2026-11-01T23:28:52.000Z",
+      "category": "Investor Presentation",
+      "title": "Transcript of the discussion on the Unaudited Financial Results (Consolidated andStandalone) of the Company for the quarter and half year ended September 30, 2026,at the analyst meet held on October 30, 2026 is attached.",
+      "url": "https://nsearchives.nseindia.com/corporate/JPL2026_01112026232841_JPL_SE_11126.pdf"
+    },
+    {
+      "id": "f8a07c1db85f6",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-11-01T18:52:25.000Z",
+      "category": "Investor Presentation",
+      "title": "Zen Technologies Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/ZENTEC_01112026185216_SEIP30092026.pdf"
+    },
+    {
+      "id": "f75db655b30c5",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-11-01T18:49:06.000Z",
+      "category": "Press Release",
+      "title": "Zen Technologies Limited has informed the Exchange regarding a press release dated November 01, 2026, titled \"Zen Technologies, India s leading anti-drone technology and defense training solutions provider announced its financial results for Q2 & H1FY27\".",
+      "url": "https://nsearchives.nseindia.com/corporate/ZENTEC_01112026184856_SEPR30092026.pdf"
+    },
+    {
+      "id": "f54246a3aeaa9",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "exchange": "NSE",
+      "date": "2026-11-01T17:14:23.000Z",
+      "category": "ESOP/ESOS/ESPS",
+      "title": "Meesho Limited has informed the Exchange regarding Grant of 2901 Options.under Meesho Limited - Employee Stock Option Plan 2024",
+      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_01112026171414_MLIntimationGrantofESOP01NOv2026.pdf"
+    },
+    {
+      "id": "fdeb4583febc2",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "exchange": "NSE",
+      "date": "2026-11-01T17:12:12.000Z",
+      "category": "ESOP/ESOS/ESPS",
+      "title": "Meesho Limited has informed the Exchange regarding Allotment of 2143590 Shares pursuant to exercise of ESOP.",
+      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_01112026171205_MLIntimationAllotmentofESOPs01Nov2026.pdf"
+    },
     {
       "id": "fee1e9ce5b147",
       "ticker": "AURIONPRO",
@@ -19946,66 +20006,6 @@
       "category": "Disclosure",
       "title": "Business Responsibility and Sustainability Report for FY 2025-26",
       "url": "https://nsearchives.nseindia.com/corporate/TENNECO_06082026232942_Tenneco_Clean_Air_India_-_BRSR_2025-26_Signed.pdf"
-    },
-    {
-      "id": "fcfaf26e2cdb9",
-      "ticker": "SAILIFE",
-      "company": "Sai Life Sciences Limited",
-      "exchange": "NSE",
-      "date": "2026-08-06T23:23:26.000Z",
-      "category": "Press Release",
-      "title": "Sai Life Sciences Limited has informed the Exchange regarding a press release dated August 06, 2026, titled \"Press release for the Un-audited Financial Results for the quarter ended on 30 June 2026\".",
-      "url": "https://nsearchives.nseindia.com/corporate/SAILIFE_06082026232256_Press_Release.pdf"
-    },
-    {
-      "id": "ff396d18bfd1a",
-      "ticker": "TENNIND",
-      "company": "Tenneco Clean Air India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-06T22:48:03.000Z",
-      "category": "Shareholders meeting",
-      "title": "Tenneco Clean Air India Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on August 28, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/TENNECO_06082026224458_Tenneco_Clean_Air_India_-_Notice_2025-26_Signed.pdf"
-    },
-    {
-      "id": "f5ce767425956",
-      "ticker": "SAILIFE",
-      "company": "Sai Life Sciences Limited",
-      "exchange": "NSE",
-      "date": "2026-08-06T22:40:09.000Z",
-      "category": "Board Meeting",
-      "title": "Sai Life Sciences Limited has submitted to the Exchange, the unaudited financial results (Standalone and Consolidated) for the period ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/SAILIFE_06082026223607_Outcome.pdf"
-    },
-    {
-      "id": "f5d65a9af351c",
-      "ticker": "ZENTEC",
-      "company": "Zen Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-08-06T22:28:22.000Z",
-      "category": "Shareholders meeting",
-      "title": "Zen Technologies Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on August 29, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/ZENTEC_06082026222735_SEIntimation_AGMandAnnual_Report.pdf"
-    },
-    {
-      "id": "f5f5df5bd0c56",
-      "ticker": "SONATSOFTW",
-      "company": "Sonata Software Limited",
-      "exchange": "NSE",
-      "date": "2026-08-06T21:28:04.000Z",
-      "category": "Dividend",
-      "title": "Sonata Software Limited has informed the Exchange that Board of Directors at its meeting held on August 06, 2026, declared Interim Dividend of Rs. 1.25/- per equity share for FY 2026-27.",
-      "url": "https://nsearchives.nseindia.com/corporate/SONATSOFTW_06082026212747_bmoutcome06082026.pdf"
-    },
-    {
-      "id": "f57db216c0b05",
-      "ticker": "SETL",
-      "company": "Standard Engineering Technology Limited",
-      "exchange": "NSE",
-      "date": "2026-08-06T21:23:50.000Z",
-      "category": "Investor Presentation",
-      "title": "Standard Engineering Technology Limited has informed the Exchange about Link of Recording",
-      "url": "https://nsearchives.nseindia.com/corporate/SGLTPL_06082026212340_Investor_meet_Outcome_06082026.pdf"
     }
   ]
 }
