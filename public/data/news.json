@@ -1,13 +1,90 @@
 {
-  "generated_at": "2026-11-01T19:09:53.272Z",
+  "generated_at": "2026-11-02T10:01:55.739Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 126,
-    "watchlist": 508,
-    "universe": 43,
-    "total": 551
+    "watchlist": 510,
+    "universe": 44,
+    "total": 554
   },
   "items": [
+    {
+      "id": "naf4ce9a47f6b",
+      "ticker": "THEME",
+      "company": "Specialty Chemicals",
+      "sector": "Chemicals",
+      "scope": [
+        "universe"
+      ],
+      "title": "Earnings call transcript: Aarti Industries posts mixed Q2 2026 results By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbXI0WlduSmJHeVduUG5nckFIYW84T0ZGZ0NLbndpQ3dFMUdZYnlwRGhSYjdYeFozZVJzNllPTTVjbFNCUk9aTnBVeTFCaFAyazA1LWpnMjZHazI1MVhoSy00bHFTSXZ1WHNZU1RjNDVvd0NVbjRVNnJNYlpZYTZhVXVyQ1g1aDRMT0RvZzRjY3prZmZ0Rl9IS1p3WVlFQ040UWJuU3o0dHRRSDc5LWJNSk5IdHhJb3YzVURFaFFMbHBzR1lVSVBTREN3?oc=5",
+      "source": "Investing.com India",
+      "date": "2026-11-02T09:02:09.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Aarti Industries reported mixed Q2 2026 results in earnings call.",
+      "enriched": true
+    },
+    {
+      "id": "ne160007f1f14",
+      "ticker": "BALUFORGE",
+      "company": "Balu Forge Industries Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Balu Forge begins 152mm shell dispatches; secures 155mm ERFB quality approval",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNW93akF1N0ZCVlowTV9vMWV4NktYYUVwYURPVTVxbTdGd0x2eWVzVHdBRllOclpoZlZraGxpUC1ocnB2NTl0R2tUUkxXbm1MYUV4TmpRbERYRHVKZTRSWEpEaVhjdFpxVHVuMlJEQlVkUHFON1dTamJXUUtZcF9xYU5ZSmo5aUhzZ2ZxTWF2TUFxRURMYjNvN2xpZmRXZzVxa2pBTEFDQkhLcWIwT3BWSEhzYzRWZzNvN0NnSUNpc3M?oc=5",
+      "source": "Trade Brains",
+      "date": "2026-11-02T07:09:47.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Balu Forge started 152mm shell deliveries and got quality approval for 155mm shells.",
+      "enriched": true
+    },
+    {
+      "id": "n2ee0d4a3b351",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Earnings call transcript: Aurionpro posts steady Q2 2026 results as growth outlook brightens By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdFhiUEJCUXZpQlhnenBQZTBiS0x5cUQwNDA2cWFfYmlrTW9IMmhPR1R3dW8tajFDSExMSWRQdnVxRmdwV3F5SVRQMUI5SVl0R3Z5QUhmdFVQd0VuYjZOdTlrYl9sSHNtdG9PR1AwNWRqYkM4YUdZbkY2UkNrRENsS3NPd1NRUjhETFJ6U24teHZUVk11bVM0UE80bFB3bUtXNWJWaUROc1BHUDlqT2Q0bFRKTEEyQlE4YkZGY0xyU2Z2TjdWYjBPdWdtQTU4X1AzdUUzNDc0aUxjRWFjY2tqRUxCcVNodFE?oc=5",
+      "source": "Investing.com India",
+      "date": "2026-11-02T05:31:50.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Aurionpro posted steady Q2 2026 results with brightening growth outlook.",
+      "enriched": true
+    },
+    {
+      "id": "n54d1a17c514c",
+      "ticker": "MEDIASSIST",
+      "company": "Medi Assist Healthcare Services Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Medi Assist Reports 19% EBITDA Growth In H1 FY27, Margins At 20.3%; Board Approves ₹49.3 Crore Share Buyback",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPc1ktdHJoZE9xQUNReTBwcnE1Q3dIYjFkV3FMVEh1UnhzVUh6ZGUxd2RSRV9BbjR6NWNjNGpISWRfeU9qX3NIUnRGOUVNa2lBZzQ2RDd2cjBKV19OblhkaHVST1dSYm5sVFd3b3QxbjJpeEZWbmtnNU9JUHkzbGtkc2h2WEFHc3RuMFV6S1U2V1p0NEVzdkppSHQwNXpOX3NZeHZEQXR6RC1lOUFLd1Z0NHVHd3lpckZPaTF1MjA3anRiOUl1YU1WX1VaUzVCRDBLcEZKQmIwaW5Cd9IB3wFBVV95cUxNQmxoT21TV19kcmNMdDc4QU96Tk8zSnNWaWxuRV95RTRndTd5cFZkSXRydTlfNjJfR3ctWGF1ZmJ5ZHQxOVMtZkV6eXBhQ2VSa3FFUFNFenRQdGQxd2VXcVJRTUhKUG5jVjZNbWczUDBHcmx5dXQ3V25hajVBVjZmN2tBMnYyU3l6ZzlVdDlpODdsY2R6SEJNRGR0RDRpcTJxZHlxbkxHSVlJVnJoNVNwSFE0dWZjNWpaa2ktWkp3RVJiY1JXTUVpRy1ROXAxTEFaeFh4REFxVExqSlQyTDVZ?oc=5",
+      "source": "Free Press Journal",
+      "date": "2026-11-02T04:34:26.000Z",
+      "topic": "Money",
+      "keyword": "Buyback",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Medi Assist board approved ₹49.3 crore buyback; H1 FY27 EBITDA grew 19% with 20.3% margins.",
+      "sources_count": 3,
+      "enriched": true
+    },
     {
       "id": "ne30c286434f5",
       "ticker": "SHAILY",
@@ -25,7 +102,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Shaily Engineering Plastics exceeded revenue expectations in Q2 FY2026.",
-      "sources_count": 6,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -45,7 +122,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "CCI approves Devyani-Sapphire merger and Adani's Rs 3,050 crore IntelliSmart acquisition.",
-      "sources_count": 2,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -65,26 +142,6 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Zen Technologies confirms QIP funds used as planned in Q2 2026, no deviation reported.",
-      "enriched": true
-    },
-    {
-      "id": "n16d161973744",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "CCI approves Devyani International-Sapphire Foods merger: What will the deal mean for KFC and Pizza Hut operations in India?",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOdWUzOEFHcTFHdHAyRGlIWk9nOThCcnJvOGphYVczMFozNThQaWl1VklBMUxTbHR3OEhoeU9jRFE5QS1BZW5nMm54UnhNZEJ5elFUNGZCWDVTdkJSeG1vVmh0enBCTG1Pa21jVmVDakVYeW9RSFpXNTRDX1VhREtJRzQzUjB3QUpXdXhUekpqRE9rSjRSb2JRaEZ2TWRmaENraE5xXzlrNzUyZnlIMDRMLXpTMW8xX0V6bTU3c04wQ2hIaXVGclVNR29wNFZMWmtRYnpLdU8xM3pKOGFtekJTNVdoWU9wOF9HVnVSZ2UzeWdFWV9tcjlKSTduLXZneWtN0gGGAkFVX3lxTE55ZTR1b1ZEUnhzclBPVnJYQV9yeEE2YWFpU3VZQVZ5ZkZTNGZsam1QbTVYTTZjRTlIMlcxX3pxSzRiUnJCTTJGNmJhZlNPZ1lJSzBLU1hwclI4VDhLYzNyYUlqbUtZdndtcGJUM3UzUXg4ZDBOREk2eHc3SU5YamNsYkt0VTJPcDBiRmFUNmVPb25nSjFicUFZOU83N1FJWlJORFhXY3Bvd1pUaTEyd0c0VHNaYk9IeGtZRTZNWTR0cFFXc2dZQ0ZoOWZWNWxtVWI2VFRPcW9zMDVtWDdRLURMaVphYmNScEh1TDNvOG5DYkZlMWJlSDRyNVhaVlhxSE9oWnZIRlE?oc=5",
-      "source": "ET Now",
-      "date": "2026-10-31T12:02:17.000Z",
-      "topic": "Deals",
-      "keyword": "Merger",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "CCI clears Devyani-Sapphire merger, consolidating KFC and Pizza Hut operations in India.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -144,7 +201,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Tonbo Imaging secures strategic export order from Europe for stabilised seeker systems.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -245,6 +302,26 @@
       "mood": "positive",
       "takeaway": "Sudeep Pharma reports record revenue and EBITDA in Q2 2027.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n870ff7dfbfc6",
+      "ticker": "TONBO",
+      "company": "Tonbo Imaging India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Tonbo Imaging Secures EUR 65,000 European Export Order for EO/IR Stabilised Seeker Equipment",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWmNycWV5VWZHMUF5cVdESDljcVAxc0lIMnlmSEpHZWU4OGU4bkhUR1BocUNEZVN5OEh3akhnbkZYV3ZSSjUzZWE5cG1LUGpyLUhMQllqcWt2REFrdVlKQ0VGMmZhendtSG9iT1VRMUlvSjItTUlMTk14dG5DQUo1bHRpY0h5NUJ1SlNpNjlhNDVPRk9lZFZmLWZvbXJGS2JXN0N5bXRYOXBjcnA2YVdST2xhX19zRlRiX1liN0pBdDFfM0dmc2R1U0Fkb2R3ZndTUVZN?oc=5",
+      "source": "Kalkine Media",
+      "date": "2026-10-30T06:43:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Tonbo Imaging secured EUR 65,000 European export order for stabilised seeker equipment.",
       "enriched": true
     },
     {
@@ -499,7 +576,8 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Vedanta Aluminium achieved record Q2 results driven by higher production output.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n3e7a2e57184c",
@@ -616,7 +694,8 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Unimech Aerospace reports strong Q2 and H1 FY27 results with 98% revenue growth.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "na07610803ff3",
@@ -935,7 +1014,7 @@
       "mood": "positive",
       "takeaway": "Himadri Speciality Chemicals plans Rs 1,613 crore capacity expansion across its key business segments.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "n24accdecff48",
@@ -1268,7 +1347,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Aurionpro won a ₹150 crore order for a Navi Mumbai data centre project.",
-      "sources_count": 6,
+      "sources_count": 5,
       "enriched": true
     },
     {
@@ -1694,7 +1773,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Laxmi Dental released its Q1 2027 earnings call transcript.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -6205,6 +6284,25 @@
       "enriched": true
     },
     {
+      "id": "n71e888649cae",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Aurionpro Solutions releases unaudited financial results for quarter ended June 30, 2026",
+      "url": "https://tele.net.in/press-release/aurionpro-solutions-releases-unaudited-financial-results-for-quarter-ended-june-30-2026-12214367",
+      "source": "tele.net.in",
+      "date": "2026-09-03T20:34:02.502Z",
+      "topic": "Money",
+      "keyword": "Partnership",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Aurionpro Solutions released unaudited financial results for quarter ended June 30, 2026.",
+      "enriched": true
+    },
+    {
       "id": "n558d19bfaaab",
       "ticker": "AURIONPRO",
       "company": "Aurionpro Solutions Limited",
@@ -6242,25 +6340,6 @@
       "mood": "positive",
       "takeaway": "Aurionpro won ₹100 crore order to build AI data centre infrastructure.",
       "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n71e888649cae",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Aurionpro Solutions releases unaudited financial results for quarter ended June 30, 2026",
-      "url": "https://tele.net.in/press-release/aurionpro-solutions-releases-unaudited-financial-results-for-quarter-ended-june-30-2026-12214367",
-      "source": "tele.net.in",
-      "date": "2026-09-03T20:34:02.502Z",
-      "topic": "Money",
-      "keyword": "Partnership",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Aurionpro Solutions released unaudited financial results for quarter ended June 30, 2026.",
       "enriched": true
     },
     {
@@ -7767,25 +7846,6 @@
       "enriched": true
     },
     {
-      "id": "n05b8625fc79b",
-      "ticker": "SBCL",
-      "company": "Shivalik Bimetal Controls Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Shivalik Bimetal Controls SBCL Q1FY27 Earnings Call Key Highlights",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRm5pTFNaWnQtRnFvbUo0bEJYam5zQXhWTEUtWXRzeEtzeVNJQjhPaDZ4bndrNVFBUllic2U3LWpvY0l0d0hscGotT0dwZzVUUkVBODMtSHNuYmxxZE9NZ2dBOVpkbEg1UmJ4c3lvRnU5SndoQi1aeWRaTmh3T1ZRN2JUVTNKbC1aQ0JRMS12WUxrUkZmWWMyZWhGaXhuNE4yUUNwZWE5b0NZaXQ2Vy1mZkdJd0szbGNHbzVEYkhPMGhJTlZiamg2em95Zl8?oc=5",
-      "source": "Kalkine India",
-      "date": "2026-08-13T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Shivalik Bimetal Controls held Q1 FY27 earnings call discussing quarterly results.",
-      "enriched": true
-    },
-    {
       "id": "nda59b11a43cf",
       "ticker": "AURIONPRO",
       "company": "Aurionpro Solutions",
@@ -8624,6 +8684,45 @@
       "enriched": true
     },
     {
+      "id": "n034d09aec251",
+      "ticker": "MEDIASSIST",
+      "company": "Medi Assist Healthcare Services Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Medi Assist Q2FY27 net profit up 167% to ₹216 crore; buyback approved",
+      "url": "https://scanx.trade/stock-market-news/companies/medi-assist-q2-ebitda-rises-493m-margins-expand-20-41/54912586",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Buyback",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Net profit jumped 167% to ₹216 crore in Q2FY27; board approved a buyback program.",
+      "enriched": true,
+      "sources_count": 2
+    },
+    {
+      "id": "n8eeca7346d50",
+      "ticker": "SHAILY",
+      "company": "Shaily Engineering Plastics Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Shaily Engineering Plastics Ltd (BOM:501423) (Q2 2027) Earnings Call Highlights: Record Revenue ...",
+      "url": "https://finance.yahoo.com/healthcare/articles/shaily-engineering-plastics-ltd-bom-030652068.html",
+      "source": "finance.yahoo.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Shaily Engineering Plastics reported record revenue in Q2 FY27.",
+      "enriched": true
+    },
+    {
       "id": "n8f5d66195230",
       "ticker": "SAPPHIRE",
       "company": "Sapphire Foods India Limited",
@@ -8699,45 +8798,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Jio Platforms debuts on market, becomes India's second most valuable company.",
-      "enriched": true
-    },
-    {
-      "id": "n59f44645469d",
-      "ticker": "MEDIASSIST",
-      "company": "Medi Assist Healthcare Services Limited",
-      "sector": "Financial Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Medi Assist sets five-year returns plan and ₹49.3 crore buyback | Market News & Analysis",
-      "url": "https://www.multibagg.ai/market-pulse/articles/medi-assist-five-year-return-plan-ppt-cmvy2vogh00332gq6fu3qbxwc",
-      "source": "multibagg.ai",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Buyback",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Medi Assist announces Rs 49.3 crore buyback and sets five-year returns plan.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n034d09aec251",
-      "ticker": "MEDIASSIST",
-      "company": "Medi Assist Healthcare Services Limited",
-      "sector": "Financial Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Medi Assist Q2FY27 net profit up 167% to ₹216 crore; buyback approved",
-      "url": "https://scanx.trade/stock-market-news/companies/medi-assist-q2-ebitda-rises-493m-margins-expand-20-41/54912586",
-      "source": "scanx.trade",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Buyback",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Net profit jumped 167% to ₹216 crore in Q2FY27; board approved a buyback program.",
       "enriched": true
     },
     {
@@ -8839,26 +8899,6 @@
       "enriched": true
     },
     {
-      "id": "n76dcc7a7725d",
-      "ticker": "SENORES",
-      "company": "Senores Pharmaceuticals Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Senores Pharmaceuticals approves ₹43 crore subsidiary expansion plan",
-      "url": "https://scanx.trade/stock-market-news/companies/senores-pharmaceuticals-plans-43-cr-capacity-expansion-across/54809414",
-      "source": "scanx.trade",
-      "date": "",
-      "topic": "Growth",
-      "keyword": "Approval",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Senores Pharmaceuticals approved ₹43 crore expansion plan for its subsidiary.",
-      "enriched": true
-    },
-    {
       "id": "n002827641072",
       "ticker": "MEESHO",
       "company": "Meesho Limited",
@@ -8952,6 +8992,25 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "NSE and BSE approved listing of 2 crore equity shares.",
+      "enriched": true
+    },
+    {
+      "id": "n0b01d13fee62",
+      "ticker": "UNIMECH",
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Unimech sees Rs 855 crore order book reshape revenue mix | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/unimech-order-book-revenue-shift-concall-cmvwm2hfv000p2gmts6u596bd",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Unimech Aerospace has Rs 855 crore order book reshaping its revenue mix.",
       "enriched": true
     },
     {
