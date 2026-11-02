@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T19:17:27.793Z",
+  "generated_at": "2026-11-02T10:06:16.149Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,186 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f8032a32d3e4d",
+      "ticker": "MOLDTKPAC",
+      "company": "Mold-Tek Packaging Limited",
+      "exchange": "NSE",
+      "date": "2026-11-02T14:38:29.000Z",
+      "category": "Investor Presentation",
+      "title": "Mold-Tek Packaging Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/MOLDTKPAC_02112026143821_SEIntimation_Investor_Presentation.pdf"
+    },
+    {
+      "id": "fe69e8ab05149",
+      "ticker": "MOLDTKPAC",
+      "company": "Mold-Tek Packaging Limited",
+      "exchange": "NSE",
+      "date": "2026-11-02T14:24:39.000Z",
+      "category": "Press Release",
+      "title": "Mold-Tek Packaging Limited has informed the Exchange regarding a press release dated November 02, 2026, titled \"Press Release\".",
+      "url": "https://nsearchives.nseindia.com/corporate/MOLDTKPAC_02112026142428_Intimation_PressRelease.pdf"
+    },
+    {
+      "id": "f54726ef741d4",
+      "ticker": "ADVAIT",
+      "company": "Advait Energy Transitions Limited",
+      "exchange": "NSE",
+      "date": "2026-11-02T14:15:12.000Z",
+      "category": "Investor Presentation",
+      "title": "Advait Energy Transitions Limited has informed the Exchange about Link of Recording",
+      "url": "https://nsearchives.nseindia.com/corporate/ADVAITENERGY_02112026141434_SEintimation_Audiorecordings.pdf"
+    },
+    {
+      "id": "f1117eb688c39",
+      "ticker": "EPIGRAL",
+      "company": "Epigral Limited",
+      "exchange": "NSE",
+      "date": "2026-11-02T14:04:33.000Z",
+      "category": "Investor Presentation",
+      "title": "Epigral Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/EPIGRAL_02112026140422_EpigralEarnPrest30092026.pdf"
+    },
+    {
+      "id": "f21bdb5aa85b5",
+      "ticker": "EPIGRAL",
+      "company": "Epigral Limited",
+      "exchange": "NSE",
+      "date": "2026-11-02T14:04:33.000Z",
+      "category": "Press Release",
+      "title": "Epigral Limited has informed the Exchange regarding a press release dated November 02, 2026, titled \"UNAUDITED FINANCIAL RESULTS - Q2 FY27\".",
+      "url": "https://nsearchives.nseindia.com/corporate/EPIGRAL_02112026140336_EpigralPressRe30092026.pdf"
+    },
+    {
+      "id": "f1bd334d4780a",
+      "ticker": "MOLDTKPAC",
+      "company": "Mold-Tek Packaging Limited",
+      "exchange": "NSE",
+      "date": "2026-11-02T13:56:33.000Z",
+      "category": "Board Meeting",
+      "title": "Mold-Tek Packaging Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/MOLDTKPAC_02112026135557_Final_outcome.pdf"
+    },
+    {
+      "id": "f0fafb4784eee",
+      "ticker": "EPIGRAL",
+      "company": "Epigral Limited",
+      "exchange": "NSE",
+      "date": "2026-11-02T13:52:36.000Z",
+      "category": "Board Meeting",
+      "title": "Epigral Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/EPIGRAL_02112026135146_OutcomeBM02112026.pdf"
+    },
+    {
+      "id": "f2ecb9eb07abd",
+      "ticker": "GULFOILLUB",
+      "company": "Gulf Oil Lubricants India Limited",
+      "exchange": "NSE",
+      "date": "2026-11-02T13:46:53.000Z",
+      "category": "Rumour Verification - Regulation 30(11)",
+      "title": "Gulf Oil Lubricants India Limited has informed the Exchange about Rumour Verification - Regulation 30(11)",
+      "url": "https://nsearchives.nseindia.com/corporate/GULFOILLUB_02112026134639_RumourVerifiactionET02112026.pdf"
+    },
+    {
+      "id": "f6178e7c5cc1e",
+      "ticker": "MOBIKWIK",
+      "company": "One Mobikwik Systems Limited",
+      "exchange": "NSE",
+      "date": "2026-11-02T13:38:51.000Z",
+      "category": "Investor Presentation",
+      "title": "One Mobikwik Systems Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/MOBIKWIK_02112026133832_Intimation_Investor_Presentation.pdf"
+    },
+    {
+      "id": "f35ea7e52dfb1",
+      "ticker": "MOBIKWIK",
+      "company": "One Mobikwik Systems Limited",
+      "exchange": "NSE",
+      "date": "2026-11-02T13:26:48.000Z",
+      "category": "Press Release",
+      "title": "One Mobikwik Systems Limited has informed the Exchange regarding a press release dated November 02, 2026, titled \"MobiKwik Posts Highest-Ever PAT & EBITDA in Q2 FY27; PAT reaches INR 11.8 crore, a positive swing of INR 40.4 crore YoY\".",
+      "url": "https://nsearchives.nseindia.com/corporate/MOBIKWIK_02112026132626_Press_Release_02112026.pdf"
+    },
+    {
+      "id": "fb7ffb00092af",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-11-02T13:23:13.000Z",
+      "category": "Newspaper Publication",
+      "title": "Aurionpro Solutions Limited has informed the Exchange about Copy of Newspaper Publication regarding unaudited financial statements for the quarter and half year ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/AURIONPRO_02112026132237_ASL_Newspaper_advt_September2026_sd.pdf"
+    },
+    {
+      "id": "f7ff047f53f21",
+      "ticker": "MOBIKWIK",
+      "company": "One Mobikwik Systems Limited",
+      "exchange": "NSE",
+      "date": "2026-11-02T13:18:39.000Z",
+      "category": "Press Release",
+      "title": "One Mobikwik Systems Limited has informed the Exchange regarding a press release dated November 02, 2026, titled \"MobiKwik Posts Highest-Ever PAT & EBITDA in Q2 FY27; PAT reaches &#8377;11.8 crore, a positive swing of &#8377;40.4 crore YoY\".",
+      "url": "https://nsearchives.nseindia.com/corporate/MOBIKWIK_02112026131823_Press_Release_02112026.pdf"
+    },
+    {
+      "id": "f9293831226eb",
+      "ticker": "MOBIKWIK",
+      "company": "One Mobikwik Systems Limited",
+      "exchange": "NSE",
+      "date": "2026-11-02T13:06:16.000Z",
+      "category": "Board Meeting",
+      "title": "One Mobikwik Systems Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/MOBIKWIK_02112026130451_Outcome_of_Board_Meeting.pdf"
+    },
+    {
+      "id": "fa0a73f6c7257",
+      "ticker": "DEVYANI",
+      "company": "Devyani International Limited",
+      "exchange": "NSE",
+      "date": "2026-11-02T12:25:55.000Z",
+      "category": "Press Release",
+      "title": "Devyani International Limited has informed the Exchange regarding a press release dated November 02, 2026, titled \"Press Release\".",
+      "url": "https://nsearchives.nseindia.com/corporate/DEVYANI_02112026122537_SEIntimation_Press_Release_02112026sd.pdf"
+    },
+    {
+      "id": "f97c47ae7eb8e",
+      "ticker": "DEVYANI",
+      "company": "Devyani International Limited",
+      "exchange": "NSE",
+      "date": "2026-11-02T12:16:49.000Z",
+      "category": "Investor Presentation",
+      "title": "Devyani International Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/DEVYANI_02112026121558_SE_IntimationQ2_Investordeck_Ex_Sd.pdf"
+    },
+    {
+      "id": "f25e6b7102021",
+      "ticker": "DEVYANI",
+      "company": "Devyani International Limited",
+      "exchange": "NSE",
+      "date": "2026-11-02T11:55:49.000Z",
+      "category": "Board Meeting",
+      "title": "Devyani International Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/DEVYANI_02112026115337_Outcome_02112026_Results_sd.pdf"
+    },
+    {
+      "id": "f54f11c37b381",
+      "ticker": "VAML",
+      "company": "Vedanta Aluminium Metal Limited",
+      "exchange": "NSE",
+      "date": "2026-11-02T11:10:16.000Z",
+      "category": "Investor Presentation",
+      "title": "Vedanta Aluminium Metal Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/VAML_02112026111003_7VAMLSEIntimationTranscriptofConferenceCallQ2.pdf"
+    },
+    {
+      "id": "f2a1bfbd02a5f",
+      "ticker": "BALUFORGE",
+      "company": "Balu Forge Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-11-02T08:59:07.000Z",
+      "category": "Press Release",
+      "title": "Balu Forge Industries Limited has informed the Exchange regarding a press release dated November 02, 2026, titled \"Company s Execution ofDefence Order\".",
+      "url": "https://nsearchives.nseindia.com/corporate/BALUFORGE_02112026085611_Submission.pdf"
+    },
     {
       "id": "fa5ae95c5d7bf",
       "ticker": "MEDIASSIST",
@@ -19826,186 +20006,6 @@
       "category": "Investor Presentation",
       "title": "Shivalik Bimetal Controls Limited has informed the Exchange about Presentation",
       "url": "https://nsearchives.nseindia.com/corporate/SBCL_07082026141901_Outcome_Presentation-07082026.pdf"
-    },
-    {
-      "id": "f09d3c641b6c7",
-      "ticker": "URBANCO",
-      "company": "Urban Company Limited",
-      "exchange": "NSE",
-      "date": "2026-08-07T14:15:05.000Z",
-      "category": "Investor Presentation",
-      "title": "Urban Company Limited has informed the Exchange about Schedule of Analysts / Investors Meeting to be held on August 10, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_07082026141442_Investor_Meeting_SE_Intimation_07082026.pdf"
-    },
-    {
-      "id": "ffb303e988f45",
-      "ticker": "TENNIND",
-      "company": "Tenneco Clean Air India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-07T14:09:04.000Z",
-      "category": "Disclosure",
-      "title": "Tenneco Clean Air India Limited has informed the Exchange regarding 'Letter sent to shareholders'.",
-      "url": "https://nsearchives.nseindia.com/corporate/TENNECO_07082026140629_Intimation_Shareholder_Letter_Signed.pdf"
-    },
-    {
-      "id": "fd5bc03b505d0",
-      "ticker": "TENNIND",
-      "company": "Tenneco Clean Air India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-07T14:00:24.000Z",
-      "category": "Newspaper Publication",
-      "title": "Tenneco Clean Air India Limited has informed the Exchange about Copy of Newspaper Publication for Notice and other information on the 8th Annual General Meeting of the Company.",
-      "url": "https://nsearchives.nseindia.com/corporate/TENNECO_07082026135710_AGM_Advertisement_Post_dispatch_Signed.pdf"
-    },
-    {
-      "id": "f154d734c0faf",
-      "ticker": "JYOTICNC",
-      "company": "Jyoti CNC Automation Limited",
-      "exchange": "NSE",
-      "date": "2026-08-07T13:59:43.000Z",
-      "category": "Board Meeting",
-      "title": "Jyoti CNC Automation Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/JYOTICNC_NSE_07082026135835_IntimationoutcomeBoardMeet.pdf"
-    },
-    {
-      "id": "f93db8622f511",
-      "ticker": "BHARATCOAL",
-      "company": "Bharat Coking Coal Limited",
-      "exchange": "NSE",
-      "date": "2026-08-07T13:58:03.000Z",
-      "category": "Disclosure",
-      "title": "Bharat Coking Coal Limited has informed the Exchange regarding '55th AGM Proceedings of Bharat Coking Coal Limited along with Chairman Speech held on 07.08.2026'.",
-      "url": "https://nsearchives.nseindia.com/corporate/BCCL_07082026135746_55thAGMProceedings_of_BCCL_dated_07082026.pdf"
-    },
-    {
-      "id": "f27327d55d246",
-      "ticker": "TENNIND",
-      "company": "Tenneco Clean Air India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-07T13:55:30.000Z",
-      "category": "Newspaper Publication",
-      "title": "Tenneco Clean Air India Limited has informed the Exchange about Copy of Newspaper Publication for the financial results for the quarter ended June 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/TENNECO_07082026134919_FS_Newspaper_Advertisement_Signed.pdf"
-    },
-    {
-      "id": "f0a9620abfd81",
-      "ticker": "SAILIFE",
-      "company": "Sai Life Sciences Limited",
-      "exchange": "NSE",
-      "date": "2026-08-07T13:53:40.000Z",
-      "category": "Investor Presentation",
-      "title": "Sai Life Sciences Limited has informed the Exchange about Investor Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/SAILIFE_07082026135318_Investor_Presentation.pdf"
-    },
-    {
-      "id": "fe9e3c200c79c",
-      "ticker": "SONATSOFTW",
-      "company": "Sonata Software Limited",
-      "exchange": "NSE",
-      "date": "2026-08-07T13:51:27.000Z",
-      "category": "Newspaper Publication",
-      "title": "Sonata Software Limited has informed the Exchange about Copy of Newspaper Publication of unaudited financial results for the quarter ended 30th June, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/SONATSOFTW_07082026135106_newspaperpublicationsefiling.pdf"
-    },
-    {
-      "id": "fe0f3704b1956",
-      "ticker": "SONATSOFTW",
-      "company": "Sonata Software Limited",
-      "exchange": "NSE",
-      "date": "2026-08-07T13:30:55.000Z",
-      "category": "Investor Presentation",
-      "title": "Sonata Software Limited has informed the Exchange about Investor Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/SONATSOFTW_07082026132905_investorpresentationrevisedsefiling.pdf"
-    },
-    {
-      "id": "f8f0f0c09cc97",
-      "ticker": "GOLDIAM",
-      "company": "Goldiam International Limited",
-      "exchange": "NSE",
-      "date": "2026-08-07T13:23:52.000Z",
-      "category": "Disclosure",
-      "title": "Intimation of Investor Presentation 7-8-2026",
-      "url": "https://nsearchives.nseindia.com/corporate/GOLDIAM_07082026132345_Intimation_of_Investor_Presentation-7-8-2026.pdf"
-    },
-    {
-      "id": "f2ce01137fa88",
-      "ticker": "GOLDIAM",
-      "company": "Goldiam International Limited",
-      "exchange": "NSE",
-      "date": "2026-08-07T13:16:01.000Z",
-      "category": "Press Release",
-      "title": "Goldiam International Limited has informed the Exchange regarding a press release dated August 07, 2026, titled \"Press Release in respect of Unaudited Financial Results for the quarter ended June 30, 2026.\".",
-      "url": "https://nsearchives.nseindia.com/corporate/GOLDIAM_07082026131554_Intimation_of_Press_Release-7-8-2026.pdf"
-    },
-    {
-      "id": "fe46420fbf887",
-      "ticker": "GOLDIAM",
-      "company": "Goldiam International Limited",
-      "exchange": "NSE",
-      "date": "2026-08-07T13:13:44.000Z",
-      "category": "Board Meeting",
-      "title": "Goldiam International Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/GOLDIAM_07082026130953_Outcome_of_BM-7-8-26.pdf"
-    },
-    {
-      "id": "fd502715414f7",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "exchange": "NSE",
-      "date": "2026-08-07T12:35:01.000Z",
-      "category": "Investor Presentation",
-      "title": "DEE Development Engineers Limited has informed the Exchange about Link of Recording",
-      "url": "https://nsearchives.nseindia.com/corporate/DDEL_07082026123453_NSEBSE_Earning_call.pdf"
-    },
-    {
-      "id": "f6222dc938ddd",
-      "ticker": "SBCL",
-      "company": "Shivalik Bimetal Controls Limited",
-      "exchange": "NSE",
-      "date": "2026-08-07T11:49:56.000Z",
-      "category": "Newspaper Publication",
-      "title": "Shivalik Bimetal Controls Limited has informed the Exchange about Copy of Newspaper Publication of Unaudited Financial Results for the quarter ended June 30, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/SBCL_07082026114944_Newspaper_Publication.pdf"
-    },
-    {
-      "id": "fc6cca6a98eb5",
-      "ticker": "APTUS",
-      "company": "Aptus Value Housing Finance India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-07T10:51:05.000Z",
-      "category": "Investor Presentation",
-      "title": "Aptus Value Housing Finance India Limited has informed the Exchange about Transcript",
-      "url": "https://nsearchives.nseindia.com/corporate/APTUS_07082026105042_Aptus_Value_Investor_Call_Transcript_Q1FY_27_sd.pdf"
-    },
-    {
-      "id": "f063c2a0bcc78",
-      "ticker": "SONACOMS",
-      "company": "Sona BLW Precision Forgings Limited",
-      "exchange": "NSE",
-      "date": "2026-08-07T10:28:34.000Z",
-      "category": "Disclosure",
-      "title": "Sona Blw Precision Forgings Limited has informed the Exchange about Disclosure under Reg 30 of SEBI (LODR) Regulations",
-      "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_07082026102817_Disclosure.pdf"
-    },
-    {
-      "id": "f3c3e7ad29a40",
-      "ticker": "SAILIFE",
-      "company": "Sai Life Sciences Limited",
-      "exchange": "NSE",
-      "date": "2026-08-06T23:55:12.000Z",
-      "category": "Allotment of Securities",
-      "title": "Sai Life Sciences Limited has informed the Exchange regarding allotment of 18700 securities pursuant to ESOP/ESPS at its meeting held on August 06, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/SAILIFE_06082026235453_Intimation_of_Allotment.pdf"
-    },
-    {
-      "id": "fba08699d7478",
-      "ticker": "TENNIND",
-      "company": "Tenneco Clean Air India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-06T23:29:49.000Z",
-      "category": "Disclosure",
-      "title": "Business Responsibility and Sustainability Report for FY 2025-26",
-      "url": "https://nsearchives.nseindia.com/corporate/TENNECO_06082026232942_Tenneco_Clean_Air_India_-_BRSR_2025-26_Signed.pdf"
     }
   ]
 }
