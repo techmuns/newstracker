@@ -1,13 +1,150 @@
 {
-  "generated_at": "2026-11-02T10:01:55.739Z",
+  "generated_at": "2026-11-02T22:55:26.195Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 126,
-    "watchlist": 510,
-    "universe": 44,
-    "total": 554
+    "portfolio": 128,
+    "watchlist": 522,
+    "universe": 43,
+    "total": 565
   },
   "items": [
+    {
+      "id": "nca8b343700ce",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Zen Technologies (NSE:ZENTEC): What Did It Discuss in Its Q2 FY27 Earnings Call?",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVXZkcVBDYkdPY0pTVlM5Q2dwaldtOVR6ME81d2F6czZfelpuMlhwZ0JkWGU3eUwzOVlNOUhGLVE4XzdZREcyR0hPc3pGazVmdWZ4cWxWR1dWZGpwa2FnaWN6ZzM2SmhXN1pNTjJmOXN0djQ1MFNEemxFb3BPZWdiam1oMWRiRXY4MWZrcV8tQjJZWWxoa0dlNjNTbGhmSklIemFmVUxZUU54d3Jvc3hZQW5RUEp2RXFrcGEyVzlkWEg?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-11-02T17:41:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Zen Technologies held its Q2 FY27 earnings call to discuss quarterly results.",
+      "enriched": true
+    },
+    {
+      "id": "n2b7c0c693af8",
+      "ticker": "ESDS",
+      "company": "ESDS Software Solution Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "ESDS Software hosts investor earnings call and makes recording available",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdHEtaFNCUFJDNUZNUF9tSlppRlJZeFhPczdzSTVjMm9kRDNLekhNT1J6bW5PRGE5eDFnSEc0V2FPYnQwdkZuaEVVM2Q2VTJkZ19jdFRUTmc2THpjeW5vVVZCTzFVNmhSYVNzckpUMG9mNnprTkk5aVpUVWF1eVFXSzNwWVQzY2Z3NUhEOXZjNTJBTE56bEREZw?oc=5",
+      "source": "InvestyWise",
+      "date": "2026-11-02T17:11:03.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "ESDS Software made its earnings call recording available to investors.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nc82a2153a513",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
+      "scope": [
+        "universe"
+      ],
+      "title": "Lupin receives USFDA approval for Amifampridine tablets",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSDZSTlBpVldWQmZYcm1tMWJDSjRhdXJYdldseVN2TUxzaE1XdnltTXQzanZ6Z2ZkZnBvM3NIc25FQ0Z3Y2lhVmpUWFVrZVBJbXE1VVgyWkhxdUxwMnFhYVd6QjhsTkR0TC1wTWhaTVpGaWt4VVpTR2xXa2NmUnVGLXNMbTRpS1BZMWV6TXJNdVlFSEFnME4zd05RRGtTWXRfODlLdEVrQULSAa8BQVVfeXFMTTctOGZNZldNdnV3TWtXSHhpQjdjZHh0cVBrOWswamdmckpUcjU1UkNURUljUGtEMl9Zcl9CdGhTcGF3RFM2Z3cwc3NRU25XMUlpMno3UktaYkpFYzktbl9iVml1bU9yRS1LMmZyRlhnUUpMb0NiN2thTmszTHpUX0txVHVhX3J6YXotMVhjbGtCVGRkbU54R1dwcGJXcHVOZ0Z5aGtlTkMzdmRvWGRfQQ?oc=5",
+      "source": "Indian Pharma Post",
+      "date": "2026-11-02T14:47:11.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Lupin received US FDA approval for Amifampridine tablets.",
+      "sources_count": 4,
+      "enriched": true
+    },
+    {
+      "id": "n8f6554333847",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Zen Technologies Reports Record Q2 Revenue as Order Book Expands",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbXN3N1hwTGVqVmlwblZuWlhMMlh3THh5RDVSMktuVThHX2JJcTJMdWNBMUhwNTJnd0JKMWlKSm9XZjk0cDVzSVpGSmZkOEdzRWZrQmVuTm1Rd05FMlRpeklpMjlDVzN2SlBlYWZEQnJJZVRNQm44cm1mNWxDMlhKeEgwNlFDSnpxQ2EtZUJ5ZXE0QUZUelhDdlZkLU5faXFwcDhGemJRN3JkT1BNLTM2MnlCa3R6WC14aHo3TXdjT3hEbnZLWFFFZ21XWXhFeDBrY2l4cG5MM2FoWV9DS0E?oc=5",
+      "source": "The Globe and Mail",
+      "date": "2026-11-02T13:34:58.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Zen Technologies reported record Q2 revenue with expanding order book.",
+      "enriched": true
+    },
+    {
+      "id": "n0c1c17d6697a",
+      "ticker": "CMLL",
+      "company": "Caliber Mining and Logistics Limited",
+      "sector": "Oil Gas & Consumable Fuels",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Caliber Mining and Logistics announces resignation of Company Secretary",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcFJ3bUxOY2NkVzdGM2h5eXEzelNydVpibTV4b1MxeFVaeGpLUmhBdEtVSC1VVVZIZmFobEg2LTl3QU1fakltNzloUkVBTHd6SThpSDJCakx0M0VESWdvT0FsYVd6N3cxZXZiZE85TlpwbWcyZ1g5NGZQNmpnZGVqRGJ2b1Nmano1YnZSRzNGLV8zd1JrSjJhUTh3?oc=5",
+      "source": "InvestyWise",
+      "date": "2026-11-02T13:30:37.000Z",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Caliber Mining's Company Secretary resigned from the position.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n3c6f00782ab6",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Aurionpro Solutions Q2 FY27 Earnings Call Recording Filed",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSWh1X2JPUG44bzdQRURQdy01bExjM3h4S2FPYXQ0SlV2TU9yZndoYWRuRVJOZDdoR3ZMRlVKdkhOc2JJSWdxUlBPaVRKWVBaWGRuUDdDU00zR2RkLVdiYU5SblQycUhVdjBxZkdiT05SZFdmY29saG9hS1I2Z1p1OHREYk9kaENMRUtfbGpMWkQwZS11Rzh4YzlLOG9VRGtwYlF2ZDNOZGpXVXJxSUI1aWF0YTFoZURsVVduSVg2TnJuYTdiODJZ?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-11-02T11:07:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Aurionpro Solutions filed its Q2 FY27 earnings call recording.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n097cd4c67686",
+      "ticker": "MEDIASSIST",
+      "company": "Medi Assist Healthcare Services Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Medi Assist Healthcare Q2 FY27 Earnings Call Recording Now Available",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR2o5bVRRZ0Q5NEl3RFlUblJjcmFJZjhnNWwxZncxc0pLVzR4UVFPWTdUM2NwdVJWTkV5RE5iVXlDckN0dm9zM1FwX0k0VWt2VXBKUk0zVXBYcjhkbnRJcnpWRjhSR3B2eE9kUm56a3JEa0kxTjl1MTdnVm5WVzc2VFNqWVJ1RDE1UGFzQmxyczdOZGNvMlQyWHpzbVdkVFEycjN2ODFtb3lvZUJodmdzUXNfcXJKYjJWQUtlcEdHT3p0UVVXUl95MUNNczVneEphak0xdXdYMjg?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-11-02T10:06:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Medi Assist Healthcare made Q2 FY27 earnings call recording available.",
+      "enriched": true
+    },
     {
       "id": "naf4ce9a47f6b",
       "ticker": "THEME",
@@ -82,7 +219,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Medi Assist board approved ₹49.3 crore buyback; H1 FY27 EBITDA grew 19% with 20.3% margins.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -102,7 +239,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Shaily Engineering Plastics exceeded revenue expectations in Q2 FY2026.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -142,26 +279,6 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Zen Technologies confirms QIP funds used as planned in Q2 2026, no deviation reported.",
-      "enriched": true
-    },
-    {
-      "id": "ned586d84d291",
-      "ticker": "THEME",
-      "company": "Pharma Approvals",
-      "sector": "Healthcare",
-      "scope": [
-        "universe"
-      ],
-      "title": "Alembic Pharmaceuticals receives USFDA final approval for Venetoclax tablets",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNk5kTGtjMTA3MjRQeUhmUWt2VmhHSDlpT0duOUgxOExwdHBqMkRMWUxBaVVOLWpYRldpaTZJRlhJdDVBN1d2eEhzRTh0WUZzN2EwVVNxRWRhUkdTT3p5RVdQLXA2dWNqWUdKMndRbWc0d2RSZmpQeXB4eS00dENSLW10Q1ZmVWVwMlJxMjF0RWRUZmUwMWtPSXhONlVZdVVPX2xrS3k0QXB0b3dDUlFKZ3FlQnpWTFpaZlJYazdRMWR2WVl30gHLAUFVX3lxTE1NMVBpdjVmS09HOEhybG96cUJsMlNtd2ZWblIzalkxMlFUWUpZcllybEo1bWY1YUlaajNrRThWMEtORGRSX3R3NzZycHY3ZGJ4a0F1Ym1tUlRmYVhHLU0xb1JRWlhtS0dZb3pKb0NURUNENEpVeV9iNGNHc3BNM2QzcXN2dFB2LThoSnp1b3B0TjBIWGZLOVVkRnBFSnFQWTdlNHJLRFFjU1JxTnNvUC1MQWtKRlk0d2VaMjRMTG8wRE5MVEx0MEktc2VB?oc=5",
-      "source": "Indian Pharma Post",
-      "date": "2026-10-31T06:48:49.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Alembic Pharmaceuticals gets US FDA final approval for Venetoclax tablets.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -422,6 +539,26 @@
       "enriched": true
     },
     {
+      "id": "nd8d284b6ea38",
+      "ticker": "NORTHARC",
+      "company": "Northern Arc Capital Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Northern Arc Capital Q2FY27 Earnings Call Scheduled",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONXUyWlNzcjRUNWtZelJUM1phaThNZENrRDFhbEtOSVlYU3lYaWV0YXp5NktVQVNuTFNCNzNQcUpDUktDZjNhcmc3Z3QweGFWU0w4cThia2hBWDQ1a0dPdnJGVDBTcFB3a0lMWXdOZkYyTHV6T3RtNjlFR1ZYSC0xdWQ2amtlYzVxYU93SmpPZmV4NHc3cUNtRHJPTDhuRktFVWI1MEJpVkJKWjM2RlJBQm1acDVWZWNvblFv?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-10-29T11:54:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Northern Arc Capital scheduled its Q2 FY27 earnings call.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
       "id": "n1c842d8faad6",
       "ticker": "MTARTECH",
       "company": "Mtar Technologies Limited",
@@ -577,7 +714,7 @@
       "mood": "positive",
       "takeaway": "Vedanta Aluminium achieved record Q2 results driven by higher production output.",
       "enriched": true,
-      "sources_count": 2
+      "sources_count": 3
     },
     {
       "id": "n3e7a2e57184c",
@@ -1014,7 +1151,7 @@
       "mood": "positive",
       "takeaway": "Himadri Speciality Chemicals plans Rs 1,613 crore capacity expansion across its key business segments.",
       "enriched": true,
-      "sources_count": 2
+      "sources_count": 3
     },
     {
       "id": "n24accdecff48",
@@ -1130,7 +1267,7 @@
       "importance": "medium",
       "mood": "negative",
       "takeaway": "Fire at Zen Technologies' subsidiary Unistring Tech Solutions' Hyderabad unit; minimal impact expected.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -1150,7 +1287,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Power Mech Projects won ₹327 crore order from Vedanta.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -1347,7 +1484,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Aurionpro won a ₹150 crore order for a Navi Mumbai data centre project.",
-      "sources_count": 5,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -1485,25 +1622,6 @@
       "enriched": true
     },
     {
-      "id": "n3b74c578ff37",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Aurionpro Solutions Q2 FY27 Earnings Call Date and Details",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObW96MTdncVVxNTE0VXVsT3U0eE9Id0ZvODdfYWZMR1QzZXkyUUUtdk5CYmtMcVBVQ2tsalVCTFY1U3RpbjJhUV9UemwwQW9IVGhiWmpoQUdRMmF0bDllcUtoRXpQai1ESE5XNlpKM1RfYkEzb1F1dEVXUzI2OVhjSk9LamVZRmc3UnNXWDhORnhrYmN5OUFnd3JFQWxtNUo2UFpEMnV2cDhwektZcUkwX3ZsdDZoMmJmUHN4OA?oc=5",
-      "source": "Kalkine India",
-      "date": "2026-10-09T17:58:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Aurionpro Solutions announces Q2 earnings call date.",
-      "enriched": true
-    },
-    {
       "id": "n14c8be2c1e78",
       "ticker": "DEEDEV",
       "company": "DEE Development Engineers Limited",
@@ -1522,26 +1640,6 @@
       "takeaway": "DEE Development Engineers' order book expanded to ₹2,531 crore as of September 2026.",
       "enriched": true,
       "sources_count": 4
-    },
-    {
-      "id": "nb6f5ee3b7626",
-      "ticker": "THEME",
-      "company": "Pharma Approvals",
-      "sector": "Healthcare",
-      "scope": [
-        "universe"
-      ],
-      "title": "Lupin Receives US FDA Approval for Phytonadione Injectable Emulsion",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOTmpCUER0NXNHSnpIU3BNZ2RrdUZGYkNSUG5DaWhqRU1PcXNQc3FNc0pTRjNGYURxX1M5NTUzaVlTVk0wdVh6MTlGc29qX29sTVExNG5RZ1E4eE9FeS1iTVJGNGdZYjBwZURqclo3YlpCWkJKOVd4UFRySmNFclVJYm5RMG5YdkJBelQ3bTUzQlB2LXhGdWJta3BJb2lsLUJ3c1lRbE1DWHZ1OG1Wak1FZGd6bDRWV2ZwR3VhUEpzZmZNaV84SFd2NVNfMkJJaWJ4QktUcEswVE1TcUQ5bGdMc1ZkcVlLeTFYRms0eVVpTnBlVzBxaHpHOWZ3anlsZ1BUR2RXR2dUMHdsSlpSS0Nyd2RpZjVGdEN0VnZV?oc=5",
-      "source": "Voice of Healthcare",
-      "date": "2026-10-09T08:00:00.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Lupin gets US FDA approval for Phytonadione injectable, expanding its product portfolio in the US market.",
-      "sources_count": 2,
-      "enriched": true
     },
     {
       "id": "n55787a26b571",
@@ -1773,7 +1871,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Laxmi Dental released its Q1 2027 earnings call transcript.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -8840,6 +8938,25 @@
       "enriched": true
     },
     {
+      "id": "n47da37245b6d",
+      "ticker": "NORTHARC",
+      "company": "Northern Arc Capital Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Northern Arc Capital AGM on Aug 18, 2026: ₹5,000 Crore NCD Issue and Key Resolutions on Agenda",
+      "url": "https://scanx.trade/stock-market-news/companies/northern-arc-capital-seeks-approval-for-5-000-crore-ncd-issuance-at-agm/46532451",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Approval",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Northern Arc to raise ₹5,000 crore via NCD issue, approved at AGM scheduled for Aug 18, 2026.",
+      "enriched": true
+    },
+    {
       "id": "n483de1c17f04",
       "ticker": "VAML",
       "company": "Vedanta Aluminium Metal Limited",
@@ -8896,6 +9013,26 @@
       "mood": "positive",
       "takeaway": "Senores Pharma to invest ₹43 crore in capacity expansion across US and India.",
       "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "n76dcc7a7725d",
+      "ticker": "SENORES",
+      "company": "Senores Pharmaceuticals Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Senores Pharmaceuticals approves ₹43 crore subsidiary expansion plan",
+      "url": "https://scanx.trade/stock-market-news/companies/senores-pharmaceuticals-plans-43-cr-capacity-expansion-across/54809414",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Senores Pharma approved ₹43 crore expansion plan for its subsidiary to grow capacity.",
       "enriched": true
     },
     {
@@ -9675,25 +9812,6 @@
       "enriched": true
     },
     {
-      "id": "n47da37245b6d",
-      "ticker": "NORTHARC",
-      "company": "Northern Arc Capital Limited",
-      "sector": "Financial Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Northern Arc Capital AGM on Aug 18, 2026: ₹5,000 Crore NCD Issue and Key Resolutions on Agenda",
-      "url": "https://scanx.trade/stock-market-news/companies/northern-arc-capital-seeks-approval-for-5-000-crore-ncd-issuance-at-agm/46532451",
-      "source": "scanx.trade",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Approval",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Northern Arc to raise ₹5,000 crore via NCD issue, approved at AGM scheduled for Aug 18, 2026.",
-      "enriched": true
-    },
-    {
       "id": "n0ee15e728469",
       "ticker": "SOLARINDS",
       "company": "Solar Industries India Limited",
@@ -9922,6 +10040,64 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Sterlite Electric partners with Adani Electricity to strengthen Mumbai's power infrastructure.",
+      "enriched": true
+    },
+    {
+      "id": "n29ceeac2cbd9",
+      "ticker": "BALUFORGE",
+      "company": "Balu Forge Industries Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Balu Forge Advances Defence Production and Secures New Customers in the US and Europe | Machine Maker - Latest Manufacturing News | Indian Manufacturing News - Latest Manufacturing News | Indian Manufacturing News - Machine Maker",
+      "url": "https://themachinemaker.com/news/balu-forge-advances-defence-production-and-secures-new-customers-in-the-us-and-europe/",
+      "source": "themachinemaker.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Balu Forge secured new customers in the US and Europe for defence production.",
+      "enriched": true
+    },
+    {
+      "id": "n3dd8c4c89672",
+      "ticker": "BALUFORGE",
+      "company": "Balu Forge Industries Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Balu Forge Advances Defence Dispatches, Wins New Orders",
+      "url": "https://hdfcsky.com/news/balu-forge-announces-milestones-new-orders-shares-up-7-6-percent",
+      "source": "hdfcsky.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Balu Forge won new orders and advanced defence dispatches.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nf550d9d61027",
+      "ticker": "BALUFORGE",
+      "company": "Balu Forge Industries Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Balu Forge Scores Major Defence And Aerospace Wins, Targets High Growth | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/aerospace-defense/Balu-Forge-Scores-Major-Defence-And-Aerospace-Wins-Targets-High-Growth/6ae80468c6c6dccbb90e4f2d",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Balu Forge won major orders in defence and aerospace sectors, targeting high growth.",
       "enriched": true
     },
     {
@@ -10174,6 +10350,25 @@
       "importance": "low",
       "mood": "negative",
       "takeaway": "E2E Networks fined ₹10,000 by exchanges for compliance delay.",
+      "enriched": true
+    },
+    {
+      "id": "nc13437e2c478",
+      "ticker": "CMLL",
+      "company": "Caliber Mining and Logistics Limited",
+      "sector": "Oil Gas & Consumable Fuels",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "ACME Solar Holdings Limited commissions 66.68 MW solar capacity | InvestyWise",
+      "url": "https://www.investywise.com/acme-solar-holdings-limited-commissioning-update-for-hybrid-power-project/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Resignation",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "ACME Solar commissioned 66.68 MW of new solar capacity.",
       "enriched": true
     },
     {
@@ -10794,6 +10989,26 @@
       "importance": "low",
       "mood": "negative",
       "takeaway": "LG Electronics India receives customs order for Rs 1.06 crore in dues.",
+      "enriched": true
+    },
+    {
+      "id": "ndf72805f8c0a",
+      "ticker": "MENONBE",
+      "company": "Menon Bearings Limited",
+      "sector": "Automobile and Auto Components",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Menon Bearings pays ₹9,440 NSE fine for shareholding filing delay",
+      "url": "https://scanx.trade/stock-market-news/companies/menon-bearings-pays-9-440-nse-fine-shareholding-filing-delay/55051652",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Trouble",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "negative",
+      "takeaway": "Menon Bearings fined Rs 9,440 by NSE for delayed shareholding disclosure filing.",
       "enriched": true
     }
   ]

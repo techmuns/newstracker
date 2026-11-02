@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T19:06:50.580Z",
+  "generated_at": "2026-11-02T22:52:02.544Z",
   "portfolio": [
     {
       "company": "Monolithisch India Limited",
@@ -17,14 +17,14 @@
       "sector": "Healthcare"
     },
     {
-      "company": "Sudeep Pharma Limited",
-      "ticker": "SUDEEPPHRM",
-      "sector": "Chemicals"
-    },
-    {
       "company": "Menon Bearings Limited",
       "ticker": "MENONBE",
       "sector": "Automobile and Auto Components"
+    },
+    {
+      "company": "Sudeep Pharma Limited",
+      "ticker": "SUDEEPPHRM",
+      "sector": "Chemicals"
     },
     {
       "company": "Shadowfax Technologies Limited",
@@ -32,9 +32,9 @@
       "sector": "Services"
     },
     {
-      "company": "Vivid Electromech Limited",
-      "ticker": "VIVIDEL",
-      "sector": "Capital Goods"
+      "company": "Stylam Industries Limited",
+      "ticker": "STYLAMIND",
+      "sector": "Consumer Durables"
     },
     {
       "company": "Onesource Specialty Pharma Limited",
@@ -42,9 +42,9 @@
       "sector": "Healthcare"
     },
     {
-      "company": "Stylam Industries Limited",
-      "ticker": "STYLAMIND",
-      "sector": "Consumer Durables"
+      "company": "Vivid Electromech Limited",
+      "ticker": "VIVIDEL",
+      "sector": "Capital Goods"
     },
     {
       "company": "Cartrade Tech Limited",
@@ -57,14 +57,14 @@
       "sector": "Financial Services"
     },
     {
-      "company": "Xpro India Limited",
-      "ticker": "XPROINDIA",
-      "sector": "Capital Goods"
-    },
-    {
       "company": "Saregama India Limited",
       "ticker": "SAREGAMA",
       "sector": "Media Entertainment & Publication"
+    },
+    {
+      "company": "Xpro India Limited",
+      "ticker": "XPROINDIA",
+      "sector": "Capital Goods"
     },
     {
       "company": "Tonbo Imaging India Limited",
