@@ -1,13 +1,71 @@
 {
-  "generated_at": "2026-11-02T22:55:26.195Z",
-  "source": "google-news+munshot+valuepickr+claude",
+  "generated_at": "2026-11-03T10:04:09.243Z",
+  "source": "google-news+valuepickr+claude",
   "counts": {
-    "portfolio": 128,
-    "watchlist": 522,
-    "universe": 43,
-    "total": 565
+    "portfolio": 127,
+    "watchlist": 523,
+    "universe": 44,
+    "total": 567
   },
   "items": [
+    {
+      "id": "n405e76f601e3",
+      "ticker": "JYOTICNC",
+      "company": "Jyoti CNC Automation Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Jyoti CNC Automation reports an impressive order inflow exceeding ₹800 crores",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX0czRE9qLWNmZjVuUkJRWHFDQVBONmtJNmxpamloUE43LTRvSGliWFFTSzNZdFRCN2V2TWlibFpBMDZGdFFaTlB1WEp3SnhXaUw2ZEl2NDJRaHFYbDBxZy1KaWNDZ29Kb1FCbGoxYWVVOG1ONWlpWjZ5SlNkZUhaRGVEVFVicEx3aFB3U0JyeGJUVlRPd0ZJM3FqWlRXQWR6Rzl1TGFjS2pYbTFWamVYX2t1OVc1ZzJfZGNJ?oc=5",
+      "source": "Business Upturn",
+      "date": "2026-11-03T06:43:44.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Jyoti CNC Automation secured orders worth over ₹800 crores, significantly boosting its order book.",
+      "enriched": true
+    },
+    {
+      "id": "n22cfaf90fe19",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho invests ₹399.99 crore in payments subsidiary via rights issue",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQelJWN1U0UFBjaTRUMERxZW1ob0NRUDNrTGJCLWNlS3Q3OUMxZ2lWU1VjSEx5OEhxNDI1d0RndUFnX1RaVU1ZRkFFcGRsSWg5d25iYkxhUzJDcWRhQ1NHS0VlWlFjdkVzSmtSRXpaWVJraW1lNDhBMk1PYUJlUzhFRmpQT3hYc2NQakZqby0xckhOcWQ4NFZKSFFRcW5GRW15WWNCbFpOdnV4QWxPbF9oeFkwVQ?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-11-03T02:39:32.000Z",
+      "topic": "Money",
+      "keyword": "Rights Issue",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Meesho invested ₹400 crore in its payments subsidiary through a rights issue to strengthen the unit.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "neee3187a4f5d",
+      "ticker": "GLOBAL",
+      "company": "Optical Fibre",
+      "sector": "Telecom",
+      "scope": [
+        "universe"
+      ],
+      "title": "Corning plans Pune capacity expansion as AI drives optical connectivity demand",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNVFfdGVGTktZOG9fbmZBNlI1RVpzal9nTm1PaUNqX2hvbEVFbWNXRkVLbnNCYlhISXVhTlVWcHhyVV84bEktS3dCN25RUzZfancxaVNZdUpoSlpVTjE3S1lfTG90T3VZdFZYTFNpRWtlZElwekx6RXVCN1ZpZ3lSOW9BNzEzWFFKUEw1U1k3RGdRUXc2X0ZhTkFTMlV6TURHOFA4WUQzRXFRSjlULXEwOVRQRTFDS2N3?oc=5",
+      "source": "Communications Today",
+      "date": "2026-11-03T02:23:10.000Z",
+      "topic": "Growth",
+      "keyword": "Capacity Expansion",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Corning is expanding its Pune facility to meet rising demand for optical connectivity driven by AI.",
+      "enriched": true
+    },
     {
       "id": "nca8b343700ce",
       "ticker": "ZENTEC",
@@ -64,7 +122,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Lupin received US FDA approval for Amifampridine tablets.",
-      "sources_count": 4,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -103,26 +161,6 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Caliber Mining's Company Secretary resigned from the position.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n3c6f00782ab6",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Aurionpro Solutions Q2 FY27 Earnings Call Recording Filed",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSWh1X2JPUG44bzdQRURQdy01bExjM3h4S2FPYXQ0SlV2TU9yZndoYWRuRVJOZDdoR3ZMRlVKdkhOc2JJSWdxUlBPaVRKWVBaWGRuUDdDU00zR2RkLVdiYU5SblQycUhVdjBxZkdiT05SZFdmY29saG9hS1I2Z1p1OHREYk9kaENMRUtfbGpMWkQwZS11Rzh4YzlLOG9VRGtwYlF2ZDNOZGpXVXJxSUI1aWF0YTFoZURsVVduSVg2TnJuYTdiODJZ?oc=5",
-      "source": "Kalkine India",
-      "date": "2026-11-02T11:07:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Aurionpro Solutions filed its Q2 FY27 earnings call recording.",
       "sources_count": 2,
       "enriched": true
     },
@@ -239,7 +277,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Shaily Engineering Plastics exceeded revenue expectations in Q2 FY2026.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -279,6 +317,25 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Zen Technologies confirms QIP funds used as planned in Q2 2026, no deviation reported.",
+      "enriched": true
+    },
+    {
+      "id": "n7ba6f8ea0655",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Aurionpro Solutions Limited plans merger without new shares",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTHItZXFETXdNTUVWenRleEVWVHRkLVBTOVpTV1JuRnpOaWZqZUZFemU5b2gtUHh2ZTczdnk0TWxNODVKeERqNTRVS2l6WThLMHZQcVNwM2twMjlyS3dVSWdIWTBMb1hkNUdCWlZ1VVkwMjRaaExDN3NmV2g4aHdKWk1CY0RvRS0ydTJKS3ZkTHdzdEhacFk1UkttNXI2eEl4Qkl2dEt3RkhwYVpfLVVmUEx5N3NFN3NtbnpWS01MMGN3MTJZamdfMVE2WQ?oc=5",
+      "source": "Multibagg AI",
+      "date": "2026-10-31T15:28:42.000Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Aurionpro Solutions is planning a merger without issuing new shares.",
       "enriched": true
     },
     {
@@ -656,6 +713,27 @@
       "enriched": true
     },
     {
+      "id": "n1cc5c60ccd0a",
+      "ticker": "SENORES",
+      "company": "Senores Pharmaceuticals Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Senores Pharmaceuticals (NSE:SENORES) Announces Rs 43 Crore Capacity Expansion Plans Across Subsidiaries",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQjVhVGF3OUlIRU1JOWJPdXJ1ZnVMdGlmTEluV2NZTTMyWG1BMXN4WUl3azRGQ0JLeXFoS2E0RHA1NkFHQTQ4dTFlTXkwamszV3dGWkdSM3VUYkpGM0RoX3duYUNfekZkRHFhNUJBZ24yMTZVRDVPemlxUHk2N0tucE5qbjBjd01KWXpCU29mWUhHV3N6RmY5bVJPbHpldnZmV1hybjZZVXZ6X0c5enpTX2dBV1F6VWpHTHpBYzJFU09lbEdZQ1lEMDE2S1NTQUg1M2dXeXBpVGJDRG5mQmxqVmpn?oc=5",
+      "source": "Kalkine Media",
+      "date": "2026-10-29T08:27:00.000Z",
+      "topic": "Growth",
+      "keyword": "Capacity Expansion",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Senores Pharmaceuticals announced ₹43 crore capacity expansion across its subsidiaries.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
       "id": "ndb234a1dc67f",
       "ticker": "MEESHO",
       "company": "Meesho Limited",
@@ -714,7 +792,7 @@
       "mood": "positive",
       "takeaway": "Vedanta Aluminium achieved record Q2 results driven by higher production output.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "n3e7a2e57184c",
@@ -1151,7 +1229,7 @@
       "mood": "positive",
       "takeaway": "Himadri Speciality Chemicals plans Rs 1,613 crore capacity expansion across its key business segments.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "n24accdecff48",
@@ -1484,7 +1562,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Aurionpro won a ₹150 crore order for a Navi Mumbai data centre project.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -1642,6 +1720,26 @@
       "sources_count": 4
     },
     {
+      "id": "n3b74c578ff37",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Aurionpro Solutions Q2 FY27 Earnings Call Date and Details",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObW96MTdncVVxNTE0VXVsT3U0eE9Id0ZvODdfYWZMR1QzZXkyUUUtdk5CYmtMcVBVQ2tsalVCTFY1U3RpbjJhUV9UemwwQW9IVGhiWmpoQUdRMmF0bDllcUtoRXpQai1ESE5XNlpKM1RfYkEzb1F1dEVXUzI2OVhjSk9LamVZRmc3UnNXWDhORnhrYmN5OUFnd3JFQWxtNUo2UFpEMnV2cDhwektZcUkwX3ZsdDZoMmJmUHN4OA?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-10-09T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Aurionpro Solutions announces Q2 FY27 earnings call date.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
       "id": "n55787a26b571",
       "ticker": "MACRO",
       "company": "India Defence Exports",
@@ -1658,7 +1756,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "BEML secured ₹75.58 crore order for military vehicle exports.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -1871,7 +1969,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Laxmi Dental released its Q1 2027 earnings call transcript.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -8743,42 +8841,79 @@
       "enriched": true
     },
     {
-      "id": "n498445216cf3",
-      "ticker": "ZENTEC",
-      "company": "Zen Technologies Limited",
+      "id": "n38be056e201e",
+      "ticker": "JYOTICNC",
+      "company": "Jyoti CNC Automation Limited",
       "sector": "Capital Goods",
       "scope": [
         "watchlist"
       ],
-      "title": "Zen Technologies Clears Q1 FY27 Results, Extends QIP Deployment Timeline",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUUJZazNDUC1TenRfaEJ1Ym92cEFXRzkwWE9DVzA2Uks3TlRJSlczdlo0Z2VqdGJmdkZDeUpMYlV3dldwd2xZVm1NZUViOW1kZGlsbE9qTXpma3NzaXVZTWpGWHJLaDRpZldDOHVoUTNCYjdBUWdaMWRKU0ZhVHhZWnhNbWJ1MjlleXRBUHFxaXR1YWlFYkRjSU80OEJOOW1NRzBnRnozdUhMdTFUbVB0WlBzWGxVUEFTZldaYnhpNEw1T29BcU1sNUo0ZGVORWNkcUJDTGZkeDFhTEtPZDk0WmF1TzQwMWc?oc=5",
-      "source": "The Globe and Mail",
-      "date": "2026-07-26T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "QIP",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Zen Technologies extends timeline for deploying funds raised through QIP.",
+      "title": "Jyoti Structures wins ₹690 crore Gujarat transmission line order - CNBC TV18",
+      "url": "https://www.cnbctv18.com/energy/jyoti-structures-wins-%e2%82%b9690-crore-gujarat-transmission-line-order-20018131.htm",
+      "source": "cnbctv18.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Jyoti Structures secured a ₹690 crore order for transmission line work in Gujarat.",
       "enriched": true
     },
     {
-      "id": "nf87412125d4f",
-      "ticker": "ACUTAAS",
-      "company": "Acutaas Chemicals Limited",
-      "sector": "Healthcare",
+      "id": "n002827641072",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
       "scope": [
-        "portfolio",
         "watchlist"
       ],
-      "title": "Acutaas Chemicals Latest Results: Earnings call recording now available",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWDlWN045M205bmtWY2hvY19qWWhOa3ZaYkh0MW5MNmFZVTFQSDB1THlHZXVfaU5mTW94anFtSVU0eTFUMDNtczR1R3hGaFVCUWxOT3pEeklkUE1tZEhGc3pCRlJoWlJnV1QyRlpURl9SZ05IcklKMVVPTjNMSDRfTlVtQ3VITEU1NC1FV2lrYjRkS1QzeVNGU1hhOVVnbDdrOHRub3k4czl5WW14eGhTUTc1TEVyRDdURllRNnY4TmN2ZkYtRUE?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-07-26T07:00:00.000Z",
+      "title": "Meesho Q1 FY27: Revenue Up 48%, Net Loss Narrows to Rs 133 Crore | Kalkine India",
+      "url": "https://www.kalkine.co.in/article/growth/meesho-nse-meesho-revenue-jumps-48-and-losses-halve-as-the-marketplace-heads-into-its-biggest-festive-sale",
+      "source": "kalkine.co.in",
+      "date": "",
       "topic": "Money",
-      "keyword": "Earnings",
+      "keyword": "Acquisition",
       "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Meesho Q1 revenue grew 48% while losses narrowed to Rs 133 crore, showing improved financial performance.",
+      "enriched": true
+    },
+    {
+      "id": "n90b93d291992",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho flags higher festive and tech costs in Q2 as margins improve | Company Business News",
+      "url": "https://www.livemint.com/companies/company-results/meesho-flags-higher-festive-and-tech-costs-in-q2-as-margins-improve-11793199216905.html",
+      "source": "livemint.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Acquisition",
+      "importance": "low",
       "mood": "neutral",
-      "takeaway": "Acutaas Chemicals released quarterly results with earnings call recording available.",
+      "takeaway": "Meesho reported higher festive and tech costs in Q2 while margins improved.",
+      "enriched": true
+    },
+    {
+      "id": "nd96ceac50ff2",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho Q2 FY27: Growth momentum continues as operating losses narrow- Moneycontrol.com",
+      "url": "https://www.moneycontrol.com/news/business/moneycontrol-research/meesho-q2-fy27-growth-momentum-continues-as-operating-losses-narrow-14064103.html",
+      "source": "moneycontrol.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Meesho's Q2 FY27 shows continued growth with narrowing operating losses.",
       "enriched": true
     },
     {
@@ -8995,27 +9130,6 @@
       "enriched": true
     },
     {
-      "id": "nff232adb9cad",
-      "ticker": "SENORES",
-      "company": "Senores Pharmaceuticals Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Senores Pharmaceuticals Plans ₹43 Crore Capacity Expansion Across US and India, Adds Prefilled Syringe Line | eHealth Magazine",
-      "url": "https://ehealth.eletsonline.com/2026/10/senores-pharmaceuticals-43-crore-capacity-expansion-havix-us-apnar-india-prefilled-syringe-line/",
-      "source": "ehealth.eletsonline.com",
-      "date": "",
-      "topic": "Growth",
-      "keyword": "Capacity Expansion",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Senores Pharma to invest ₹43 crore in capacity expansion across US and India.",
-      "sources_count": 3,
-      "enriched": true
-    },
-    {
       "id": "n76dcc7a7725d",
       "ticker": "SENORES",
       "company": "Senores Pharmaceuticals Limited",
@@ -9033,63 +9147,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Senores Pharma approved ₹43 crore expansion plan for its subsidiary to grow capacity.",
-      "enriched": true
-    },
-    {
-      "id": "n002827641072",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Meesho Q1 FY27: Revenue Up 48%, Net Loss Narrows to Rs 133 Crore | Kalkine India",
-      "url": "https://www.kalkine.co.in/article/growth/meesho-nse-meesho-revenue-jumps-48-and-losses-halve-as-the-marketplace-heads-into-its-biggest-festive-sale",
-      "source": "kalkine.co.in",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Meesho Q1 revenue grew 48% while losses narrowed to Rs 133 crore, showing improved financial performance.",
-      "enriched": true
-    },
-    {
-      "id": "n90b93d291992",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Meesho flags higher festive and tech costs in Q2 as margins improve | Company Business News",
-      "url": "https://www.livemint.com/companies/company-results/meesho-flags-higher-festive-and-tech-costs-in-q2-as-margins-improve-11793199216905.html",
-      "source": "livemint.com",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Acquisition",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Meesho reported higher festive and tech costs in Q2 while margins improved.",
-      "enriched": true
-    },
-    {
-      "id": "nd96ceac50ff2",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Meesho Q2 FY27: Growth momentum continues as operating losses narrow- Moneycontrol.com",
-      "url": "https://www.moneycontrol.com/news/business/moneycontrol-research/meesho-q2-fy27-growth-momentum-continues-as-operating-losses-narrow-14064103.html",
-      "source": "moneycontrol.com",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Meesho's Q2 FY27 shows continued growth with narrowing operating losses.",
       "enriched": true
     },
     {
@@ -10353,25 +10410,6 @@
       "enriched": true
     },
     {
-      "id": "nc13437e2c478",
-      "ticker": "CMLL",
-      "company": "Caliber Mining and Logistics Limited",
-      "sector": "Oil Gas & Consumable Fuels",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "ACME Solar Holdings Limited commissions 66.68 MW solar capacity | InvestyWise",
-      "url": "https://www.investywise.com/acme-solar-holdings-limited-commissioning-update-for-hybrid-power-project/",
-      "source": "investywise.com",
-      "date": "",
-      "topic": "Growth",
-      "keyword": "Resignation",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "ACME Solar commissioned 66.68 MW of new solar capacity.",
-      "enriched": true
-    },
-    {
       "id": "nfa2014ab6be7",
       "ticker": "SAPPHIRE",
       "company": "Sapphire Foods India Limited",
@@ -10390,6 +10428,25 @@
       "takeaway": "Sapphire-Devyani merger gets competition regulator approval, consolidating KFC and Pizza Hut franchise operations.",
       "enriched": true,
       "sources_count": 5
+    },
+    {
+      "id": "nc13437e2c478",
+      "ticker": "CMLL",
+      "company": "Caliber Mining and Logistics Limited",
+      "sector": "Oil Gas & Consumable Fuels",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "ACME Solar Holdings Limited commissions 66.68 MW solar capacity | InvestyWise",
+      "url": "https://www.investywise.com/acme-solar-holdings-limited-commissioning-update-for-hybrid-power-project/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Resignation",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "ACME Solar commissioned 66.68 MW of new solar capacity.",
+      "enriched": true
     },
     {
       "id": "n5ddccf077292",
@@ -10681,25 +10738,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Omnitech Engineering enters data centre infrastructure business, expanding its service offerings.",
-      "enriched": true
-    },
-    {
-      "id": "n38be056e201e",
-      "ticker": "JYOTICNC",
-      "company": "Jyoti CNC Automation Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Jyoti Structures wins ₹690 crore Gujarat transmission line order - CNBC TV18",
-      "url": "https://www.cnbctv18.com/energy/jyoti-structures-wins-%e2%82%b9690-crore-gujarat-transmission-line-order-20018131.htm",
-      "source": "cnbctv18.com",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Jyoti Structures secured a ₹690 crore order for transmission line work in Gujarat.",
       "enriched": true
     },
     {
