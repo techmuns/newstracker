@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T22:58:45.071Z",
+  "generated_at": "2026-11-03T10:17:35.811Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,166 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f58c2c6e51b54",
+      "ticker": "SHADOWFAX",
+      "company": "Shadowfax Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-11-03T15:40:33.000Z",
+      "category": "Investor Presentation",
+      "title": "Shadowfax Technologies Limited has informed the Exchange about Transcript of Earnings Conference call for Q2 FY27 held on October 29, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/9900590024_03112026154012_Transcript_of_the_Earnings_call.pdf"
+    },
+    {
+      "id": "f139412e0595c",
+      "ticker": "MENONBE",
+      "company": "Menon Bearings Limited",
+      "exchange": "NSE",
+      "date": "2026-11-03T15:40:18.000Z",
+      "category": "Investor Presentation",
+      "title": "Menon Bearings Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/MENONBE_03112026153958_TRANCESCRIPT.pdf"
+    },
+    {
+      "id": "f43695071f76f",
+      "ticker": "CONCORDBIO",
+      "company": "Concord Biotech Limited",
+      "exchange": "NSE",
+      "date": "2026-11-03T15:36:07.000Z",
+      "category": "Investor Presentation",
+      "title": "Concord Biotech Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/CONCORD_03112026153540_Q2FY27_Earnings_Call_Transcript.pdf"
+    },
+    {
+      "id": "fe198529d39d5",
+      "ticker": "DHOOTTRANS",
+      "company": "Dhoot Transmission Limited",
+      "exchange": "NSE",
+      "date": "2026-11-03T15:06:30.000Z",
+      "category": "Board Meeting",
+      "title": "Dhoot Transmission Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/DTL_03112026150059_Dhoot_BM_Outcome_03112026_signed.pdf"
+    },
+    {
+      "id": "f9d36ee7d0b86",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries India Limited",
+      "exchange": "NSE",
+      "date": "2026-11-03T14:36:58.000Z",
+      "category": "Investor Presentation",
+      "title": "Solar Industries India Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/SOLARINDS_03112026143648_Signed_IP.pdf"
+    },
+    {
+      "id": "f944faa26ab1e",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries India Limited",
+      "exchange": "NSE",
+      "date": "2026-11-03T14:29:43.000Z",
+      "category": "Press Release",
+      "title": "Solar Industries India Limited has informed the Exchange regarding a press release dated November 03, 2026, titled \"Updates on Unaudited Financial Results (Standalone & Consolidated) of the Company for the quarter and half year ended on September 30, 2026.\".",
+      "url": "https://nsearchives.nseindia.com/corporate/SOLARINDS_03112026142931_Press_Release_sdcs.pdf"
+    },
+    {
+      "id": "f27eab8de2035",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries India Limited",
+      "exchange": "NSE",
+      "date": "2026-11-03T14:15:50.000Z",
+      "category": "Integrated Filing- Financial",
+      "title": "Outcome of the Board Meeting dated November 03, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/SOLARINDS_03112026141540_OutcomeBM.pdf"
+    },
+    {
+      "id": "f12d6ca383c56",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries India Limited",
+      "exchange": "NSE",
+      "date": "2026-11-03T14:08:59.000Z",
+      "category": "Board Meeting",
+      "title": "Solar Industries India Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/SOLARINDS_03112026140845_OutcomeBM.pdf"
+    },
+    {
+      "id": "f289b80bc1750",
+      "ticker": "TONBO",
+      "company": "Tonbo Imaging India Limited",
+      "exchange": "NSE",
+      "date": "2026-11-03T13:59:56.000Z",
+      "category": "Investor Presentation",
+      "title": "Intimation for holding an Earnings Conference Call to discuss the un-audited Standalone and Consolidated Financial Results for the quarter and half year ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/TONBO_03112026135818_Earning_Call_Intimation_Q2_FY27_SG.pdf"
+    },
+    {
+      "id": "f0d69af63f5c5",
+      "ticker": "ADVAIT",
+      "company": "Advait Energy Transitions Limited",
+      "exchange": "NSE",
+      "date": "2026-11-03T13:37:23.000Z",
+      "category": "Credit Rating",
+      "title": "Advait Energy Transitions Limited has informed the Exchange about Credit Rating- Revision - Re-affirmed",
+      "url": "https://nsearchives.nseindia.com/corporate/ADVAITENERGY_03112026133711_SEintimation_creditrating_AETL_s.pdf"
+    },
+    {
+      "id": "f1d678e59bad0",
+      "ticker": "ONESOURCE",
+      "company": "Onesource Specialty Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-11-03T13:33:06.000Z",
+      "category": "Investor Presentation",
+      "title": "Onesource Specialty Pharma Limited has given an intimation of Transcript of Earnings call dated October 27, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/ONESOURCECDMO_03112026133250_OS_Transcript.pdf"
+    },
+    {
+      "id": "f1ea41266ce32",
+      "ticker": "JYOTICNC",
+      "company": "Jyoti CNC Automation Limited",
+      "exchange": "NSE",
+      "date": "2026-11-03T13:12:33.000Z",
+      "category": "Investor Presentation",
+      "title": "Jyoti CNC Automation Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/JYOTICNC_NSE_03112026131222_BSEnseJCALSubmissionUpdatedInvestorPresentation03112026.pdf"
+    },
+    {
+      "id": "f2ef41f2022b0",
+      "ticker": "VIVIDEL",
+      "company": "Vivid Electromech Limited",
+      "exchange": "NSE",
+      "date": "2026-11-03T12:52:38.000Z",
+      "category": "Investor Presentation",
+      "title": "Vivid Electromech Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/VIVID_03112026125220_Intimation_of_Transcript_of_Earnings_Call_of_H1_FY_27.pdf"
+    },
+    {
+      "id": "fd4c488e66bb8",
+      "ticker": "ESDS",
+      "company": "ESDS Software Solution Limited",
+      "exchange": "NSE",
+      "date": "2026-11-03T12:35:52.000Z",
+      "category": "Monitoring Agency Report",
+      "title": "Submission of Monitoring Agency Report for quarter ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/ESDS_03112026123538_ESDS_MA_Report_BSE_NSE_Intimation.pdf"
+    },
+    {
+      "id": "f612d3fa69d8d",
+      "ticker": "JYOTICNC",
+      "company": "Jyoti CNC Automation Limited",
+      "exchange": "NSE",
+      "date": "2026-11-03T12:04:51.000Z",
+      "category": "Board Meeting",
+      "title": "Jyoti CNC Automation Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/JYOTICNC_NSE_03112026115810_Outcome_of_BM_03112026.pdf"
+    },
+    {
+      "id": "f15f06364e8c7",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "exchange": "NSE",
+      "date": "2026-11-03T07:23:02.000Z",
+      "category": "Disclosure",
+      "title": "Meesho Limited has informed the Exchange under Regulation 30 of SEBI (LODR) Regulations, 2015 - Updates on Acquisition.",
+      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_03112026072231_MLIntimtionRightissueallotment03Nov2026.pdf"
+    },
     {
       "id": "f651497a5edca",
       "ticker": "ESDS",
@@ -176,6 +336,16 @@
       "category": "Investor Presentation",
       "title": "Acutaas Chemicals Limited has informed the Exchange about Transcript",
       "url": "https://nsearchives.nseindia.com/corporate/AMIORG_02112026180307_TranscriptmergedSigned.pdf"
+    },
+    {
+      "id": "f910e2a96ec2d",
+      "ticker": "MOLDTKPAC",
+      "company": "Mold-Tek Packaging Limited",
+      "exchange": "NSE",
+      "date": "2026-11-02T18:02:05.000Z",
+      "category": "Investor Presentation",
+      "title": "Mold-Tek Packaging Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/MOLDTKPAC_02112026180156_IntimationAnalystMeet.pdf"
     },
     {
       "id": "fa199721f42d5",
@@ -19836,176 +20006,6 @@
       "category": "Shareholders meeting",
       "title": "Menon Bearings Limited has informed the Exchange about Shareholders meeting",
       "url": "https://nsearchives.nseindia.com/corporate/MENONBE_07082026213723_Filing_Scrutinizers_Report.pdf"
-    },
-    {
-      "id": "f20ea2680c8ed",
-      "ticker": "DYNAMATECH",
-      "company": "Dynamatic Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-08-07T21:36:12.000Z",
-      "category": "Record Date",
-      "title": "Dynamatic Technologies Limited has informed the Exchange that Record date for the purpose of Dividend is 14-Aug-2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/DYNAMATICH_07082026213439_BoardMeetingOutcome07082026.pdf"
-    },
-    {
-      "id": "f5b767488c957",
-      "ticker": "DYNAMATECH",
-      "company": "Dynamatic Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-08-07T21:27:49.000Z",
-      "category": "Board Meeting",
-      "title": "Dynamatic Technologies Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/DYNAMATICH_07082026212426_BoardMeetingOutcome07082026.pdf"
-    },
-    {
-      "id": "f483bbee9bb72",
-      "ticker": "SBIFUNDS",
-      "company": "SBI Funds Management Limited",
-      "exchange": "NSE",
-      "date": "2026-08-07T21:22:15.000Z",
-      "category": "Shareholders meeting",
-      "title": "SBI Funds Management Limited has informed the Exchange regarding Notice of Postal Ballot",
-      "url": "https://nsearchives.nseindia.com/corporate/SBIMF2026_07082026212125_Intimation_Postal_Ballot_-_Merged_signed.pdf"
-    },
-    {
-      "id": "fea5a1a093ae2",
-      "ticker": "SBCL",
-      "company": "Shivalik Bimetal Controls Limited",
-      "exchange": "NSE",
-      "date": "2026-08-07T21:17:47.000Z",
-      "category": "Investor Presentation",
-      "title": "Shivalik Bimetal Controls Limited has informed the Exchange about Link of Recording",
-      "url": "https://nsearchives.nseindia.com/corporate/SBCL_07082026211737_Recording.pdf"
-    },
-    {
-      "id": "ff03ae0f4ec8d",
-      "ticker": "SONATSOFTW",
-      "company": "Sonata Software Limited",
-      "exchange": "NSE",
-      "date": "2026-08-07T20:40:41.000Z",
-      "category": "Investor Presentation",
-      "title": "Sonata Software Limited has informed the Exchange about Audio Link of recording for the Earnings call held on 7th August, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/SONATSOFTW_07082026203950_audiorecordingsefiling.pdf"
-    },
-    {
-      "id": "f769a0d533269",
-      "ticker": "IKS",
-      "company": "Inventurus Knowledge Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-08-07T20:30:01.000Z",
-      "category": "Shareholders meeting",
-      "title": "Inventurus Knowledge Solutions Limited has submitted the Exchange a copy Scrutinizers report of Postal Ballot. Further, the company has informed the Exchange regarding voting results.",
-      "url": "https://nsearchives.nseindia.com/corporate/IKS2006_07082026202911_PostalBallot_VotingResults_07August2026_to_be_uploaded.pdf"
-    },
-    {
-      "id": "fa6bc772c5e0e",
-      "ticker": "DENTALKART",
-      "company": "Vasa Denticity Limited",
-      "exchange": "NSE",
-      "date": "2026-08-07T20:25:01.000Z",
-      "category": "Change in Directors",
-      "title": "Vasa Denticity Limited has informed the Exchange about Resignation of Director/KMP/SMP",
-      "url": "https://nsearchives.nseindia.com/corporate/DENTALKART_ROID_95525_KMP_Doc.zip"
-    },
-    {
-      "id": "f0e1e7c5f00d3",
-      "ticker": "DENTALKART",
-      "company": "Vasa Denticity Limited",
-      "exchange": "NSE",
-      "date": "2026-08-07T20:22:04.000Z",
-      "category": "Change in Directors",
-      "title": "Vasa Denticity Limited has informed the Exchange regarding Resignation of Mr Ravi Parmeshwar as Non- Executive Independent Director of the company w.e.f. August 07, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/VASADENTICITY_07082026202153_Intimation_Ravi_Parmeshwar_Final.pdf"
-    },
-    {
-      "id": "fd7fe2a026999",
-      "ticker": "DENTALKART",
-      "company": "Vasa Denticity Limited",
-      "exchange": "NSE",
-      "date": "2026-08-07T20:12:08.000Z",
-      "category": "Change in Directors",
-      "title": "Vasa Denticity Limited has informed the Exchange regarding Appointment of Mr Sandeep Aggarwal as Executive Director of the company w.e.f. August 07, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/VASADENTICITY_07082026201159_Change_in_Management_Sandeep_Aggarwal.pdf"
-    },
-    {
-      "id": "fa1cd7a6ac48b",
-      "ticker": "SONATSOFTW",
-      "company": "Sonata Software Limited",
-      "exchange": "NSE",
-      "date": "2026-08-07T20:11:43.000Z",
-      "category": "Investor Presentation",
-      "title": "Sonata Software Limited has informed the Exchange about Analyst Call / Investor Meet on 12th August, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/SONATSOFTW_07082026201108_AnalystMeet07082026.pdf"
-    },
-    {
-      "id": "fb523397a2300",
-      "ticker": "DENTALKART",
-      "company": "Vasa Denticity Limited",
-      "exchange": "NSE",
-      "date": "2026-08-07T20:08:40.000Z",
-      "category": "Investor Presentation",
-      "title": "Vasa Denticity Limited has informed the Exchange about Schedule of meet",
-      "url": "https://nsearchives.nseindia.com/corporate/VASADENTICITY_07082026200657_Intimation_of_Earning_call.pdf"
-    },
-    {
-      "id": "fdf0653ea3a46",
-      "ticker": "DENTALKART",
-      "company": "Vasa Denticity Limited",
-      "exchange": "NSE",
-      "date": "2026-08-07T20:05:08.000Z",
-      "category": "Board Meeting",
-      "title": "Vasa Denticity Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/VASADENTICITY_07082026200426_Outcome_of_BM_07_Aug_26.pdf"
-    },
-    {
-      "id": "f379e38097b27",
-      "ticker": "PDSL",
-      "company": "PDS Limited",
-      "exchange": "NSE",
-      "date": "2026-08-07T19:46:37.000Z",
-      "category": "Press Release",
-      "title": "PDS Limited has informed the Exchange regarding a press release dated August 07, 2026, titled \"PDS Delivers a Strong Start to FY27 Q1 FY27 Revenue Up 15% YoY, PAT Up 43% YoY.\".",
-      "url": "https://nsearchives.nseindia.com/corporate/PDSL_07082026194600_Ltr_Press_Release_07082026.pdf"
-    },
-    {
-      "id": "f59d68b134e7e",
-      "ticker": "SBIFUNDS",
-      "company": "SBI Funds Management Limited",
-      "exchange": "NSE",
-      "date": "2026-08-07T19:44:08.000Z",
-      "category": "Investor Presentation",
-      "title": "SBI Funds Management Limited has informed the Exchange about Transcript",
-      "url": "https://nsearchives.nseindia.com/corporate/SBIMF2026_07082026194257_transacript_cover_letter_signed.pdf"
-    },
-    {
-      "id": "fb92a2ab8ce1f",
-      "ticker": "PDSL",
-      "company": "PDS Limited",
-      "exchange": "NSE",
-      "date": "2026-08-07T19:43:51.000Z",
-      "category": "Monitoring Agency Report",
-      "title": "PDS Limited has informed the stock exchange regarding Monitoring Agency Report.",
-      "url": "https://nsearchives.nseindia.com/corporate/PDSL_07082026194341_Ltr_MonitoringAgencyReport_07082026.pdf"
-    },
-    {
-      "id": "f7596b664686f",
-      "ticker": "PDSL",
-      "company": "PDS Limited",
-      "exchange": "NSE",
-      "date": "2026-08-07T19:41:12.000Z",
-      "category": "Investor Presentation",
-      "title": "PDS Limited has informed the Exchange about Investor Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/PDSL_07082026194057_Ltr_InvestorPPT_07082026.pdf"
-    },
-    {
-      "id": "f553a85e5909b",
-      "ticker": "PDSL",
-      "company": "PDS Limited",
-      "exchange": "NSE",
-      "date": "2026-08-07T19:32:26.000Z",
-      "category": "Board Meeting",
-      "title": "PDS Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/PDSL_07082026193014_Ltr_BoardMeetingOutcome_07082026.pdf"
     }
   ]
 }
