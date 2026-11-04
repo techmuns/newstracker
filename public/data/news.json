@@ -1,13 +1,70 @@
 {
-  "generated_at": "2026-11-03T20:38:51.096Z",
+  "generated_at": "2026-11-04T10:01:43.358Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 129,
-    "watchlist": 528,
+    "watchlist": 539,
     "universe": 45,
-    "total": 573
+    "total": 584
   },
   "items": [
+    {
+      "id": "ne9a619799f7f",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Zen Technologies files monitoring agency report for QIP proceeds",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWGRkclN1Q0l6ZWRRb1dnanR2V1NaSWhHcldXQlFhd0lEaEZBbjVFWXNiZEhDTnNRMUE2RVpMTlI5RWs4dGVFV2VReWs3ZzFIek12VmlkWlVqSExHN0RQOHpReVhqdEdoWXA2ZkZjd1BFSUt5TmFfUWZJZjZSUmtzMllIYWlTblBjbHR4XzFZYw?oc=5",
+      "source": "InvestyWise",
+      "date": "2026-11-04T07:17:47.000Z",
+      "topic": "Money",
+      "keyword": "QIP",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Zen Technologies filed routine monitoring report on how QIP funds are being used.",
+      "enriched": true
+    },
+    {
+      "id": "n945cb607f058",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Zen Technologies reports on ₹97,950.77 lakh QIP proceeds for September 2026",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUzlkVEV0ZmhHODZnU0VGVjFieTY0YXRTN090S2UtV2FKXzNnOEJWSU5PbEFuSzFTQjU5RVgzb1BON3FYWFpOLVRST1NOenBjWG9CeDVXWktxaFlBamNrVEhtQTJBRzcwek40TDlRQ09uVHNpVzg0LXVtQUJnVmpUUmxqWTZlT29wdW5RVU16dlYzSDRFVUdPbmFnVkNBTTU4d09hMWVjczlzelhTMFVuSHpzRV9zeFVz?oc=5",
+      "source": "Business Upturn",
+      "date": "2026-11-04T07:17:27.000Z",
+      "topic": "Money",
+      "keyword": "QIP",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Zen Technologies reports on deployment of ₹980 crore QIP proceeds for September 2026.",
+      "enriched": true
+    },
+    {
+      "id": "neb13fcfe3fc1",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries India Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Earnings call transcript: Solar Industries India posts strong Q2 2027 growth By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYjFNbkRYal9LTTdIMlAyS2lENGJ2M0ZsNkp2ZFVZNEZsaXNXaVpCdEdWVkRBdEZscHRUOW5Ia3BTdEF5ODh5cTJ4Ynl4bTNHajFSd0c2R0RUNXZPVm9rZTVJWk55Q1NwV0xMSzRZTDRoRGhoVnhJcVJINFlPS1o2dGlkZ3pkQUNyTF9WZEJJaGxfbTBNYmJXT2RxeXJ3QThVWUJ4ZDlrQllNQ2ktb1FfVnpzWDY2RUVObVJZWjYyNXdQMmZCcXVqWkVHNEhNcXowcmc?oc=5",
+      "source": "Investing.com India",
+      "date": "2026-11-04T06:23:53.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Solar Industries India posted strong growth in Q2 2027 results.",
+      "enriched": true
+    },
     {
       "id": "n53e4b5ec0079",
       "ticker": "XPROINDIA",
@@ -83,7 +140,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Medi Assist Healthcare announced a Rs 49.27 crore buyback.",
-      "sources_count": 4,
+      "sources_count": 5,
       "enriched": true
     },
     {
@@ -107,27 +164,6 @@
       "enriched": true
     },
     {
-      "id": "ne6dd084b3258",
-      "ticker": "MENONBE",
-      "company": "Menon Bearings Limited",
-      "sector": "Automobile and Auto Components",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Menon Bearings MENONBE Q2 FY27 Earnings Call Key Highlights",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObjZBaXptTVQ3NXU5YmlZMWlrcy1HOE1oMkgzaUVFNDhCTnZTYXZETTZRN0pVNWFIc05HZThGTjUzbGVtYUZOZ2xUSGt3WDZldC0zcUlreUFqZHRTbVNOMU9xcVNDRWtDTG91TGs2NU45UnV3M1A5OERRdkZGRDFuQXFwWlNYODBHMVd0TGVpOXBzUXU5M19aWG5Dc3ZEMEpGZTZOTEhCd29PaV8waGNkeWdLbTVNQW41M25OTWcteTRKVFk?oc=5",
-      "source": "Kalkine India",
-      "date": "2026-11-03T11:10:04.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Menon Bearings held Q2 FY27 earnings call.",
-      "sources_count": 3,
-      "enriched": true
-    },
-    {
       "id": "n405e76f601e3",
       "ticker": "JYOTICNC",
       "company": "Jyoti CNC Automation Limited",
@@ -144,26 +180,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Jyoti CNC Automation secured orders worth over ₹800 crores, significantly boosting its order book.",
-      "enriched": true
-    },
-    {
-      "id": "n22cfaf90fe19",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Meesho invests ₹399.99 crore in payments subsidiary via rights issue",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQelJWN1U0UFBjaTRUMERxZW1ob0NRUDNrTGJCLWNlS3Q3OUMxZ2lWU1VjSEx5OEhxNDI1d0RndUFnX1RaVU1ZRkFFcGRsSWg5d25iYkxhUzJDcWRhQ1NHS0VlWlFjdkVzSmtSRXpaWVJraW1lNDhBMk1PYUJlUzhFRmpQT3hYc2NQakZqby0xckhOcWQ4NFZKSFFRcW5GRW15WWNCbFpOdnV4QWxPbF9oeFkwVQ?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-11-03T02:39:32.000Z",
-      "topic": "Money",
-      "keyword": "Rights Issue",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Meesho invested ₹400 crore in its payments subsidiary through a rights issue to strengthen the unit.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -205,26 +221,6 @@
       "enriched": true
     },
     {
-      "id": "n2b7c0c693af8",
-      "ticker": "ESDS",
-      "company": "ESDS Software Solution Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "ESDS Software hosts investor earnings call and makes recording available",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdHEtaFNCUFJDNUZNUF9tSlppRlJZeFhPczdzSTVjMm9kRDNLekhNT1J6bW5PRGE5eDFnSEc0V2FPYnQwdkZuaEVVM2Q2VTJkZ19jdFRUTmc2THpjeW5vVVZCTzFVNmhSYVNzckpUMG9mNnprTkk5aVpUVWF1eVFXSzNwWVQzY2Z3NUhEOXZjNTJBTE56bEREZw?oc=5",
-      "source": "InvestyWise",
-      "date": "2026-11-02T17:11:03.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "ESDS Software made its earnings call recording available to investors.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "nc82a2153a513",
       "ticker": "THEME",
       "company": "Pharma Approvals",
@@ -261,46 +257,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Zen Technologies reported record Q2 revenue with expanding order book.",
-      "enriched": true
-    },
-    {
-      "id": "n0c1c17d6697a",
-      "ticker": "CMLL",
-      "company": "Caliber Mining and Logistics Limited",
-      "sector": "Oil Gas & Consumable Fuels",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Caliber Mining and Logistics announces resignation of Company Secretary",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcFJ3bUxOY2NkVzdGM2h5eXEzelNydVpibTV4b1MxeFVaeGpLUmhBdEtVSC1VVVZIZmFobEg2LTl3QU1fakltNzloUkVBTHd6SThpSDJCakx0M0VESWdvT0FsYVd6N3cxZXZiZE85TlpwbWcyZ1g5NGZQNmpnZGVqRGJ2b1Nmano1YnZSRzNGLV8zd1JrSjJhUTh3?oc=5",
-      "source": "InvestyWise",
-      "date": "2026-11-02T13:30:37.000Z",
-      "topic": "Trouble",
-      "keyword": "Resignation",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Caliber Mining's Company Secretary resigned from the position.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n3c6f00782ab6",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Aurionpro Solutions Q2 FY27 Earnings Call Recording Filed",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSWh1X2JPUG44bzdQRURQdy01bExjM3h4S2FPYXQ0SlV2TU9yZndoYWRuRVJOZDdoR3ZMRlVKdkhOc2JJSWdxUlBPaVRKWVBaWGRuUDdDU00zR2RkLVdiYU5SblQycUhVdjBxZkdiT05SZFdmY29saG9hS1I2Z1p1OHREYk9kaENMRUtfbGpMWkQwZS11Rzh4YzlLOG9VRGtwYlF2ZDNOZGpXVXJxSUI1aWF0YTFoZURsVVduSVg2TnJuYTdiODJZ?oc=5",
-      "source": "Kalkine India",
-      "date": "2026-11-02T11:07:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Aurionpro Solutions filed Q2 FY27 earnings call recording.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -417,7 +373,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Shaily Engineering Plastics exceeded revenue expectations in Q2 2026.",
-      "sources_count": 3,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -575,7 +531,28 @@
       "mood": "neutral",
       "takeaway": "MTAR Technologies reported Q2 FY27 earnings.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
+    },
+    {
+      "id": "n043ee1c60a52",
+      "ticker": "MENONBE",
+      "company": "Menon Bearings Limited",
+      "sector": "Automobile and Auto Components",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Menon Bearings (NSE:MENONBE): What Did Management Cover in Q2 FY27 Earnings Call?",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeEU1cXNyYU5KYmZtSkxWdmE2Szg1ZEUxVl9Lc0VnQ214anlkM2NVZFI1Y21LYVgzN0llUGMtazNVWU1hUU9KR0VRSHZTTUQ5c1RNOXduc1k0eUdOdGRaNDJ0ZFVEMlc3Mnk2SElUMU9FUlFSeVJ5NmxIVF9Cb2lJam5sbEpSX2ZmellvV2RPaWtZTjMzbkxlejgzM0FaQWFnRlNEWlZDUTMyXzBSLUIycVZCSmlnNEQzX2o4T0lpeFcwUQ?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-10-30T11:41:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Menon Bearings held Q2 FY27 earnings call discussing quarterly performance.",
+      "sources_count": 3,
+      "enriched": true
     },
     {
       "id": "nc99e2b7e9d28",
@@ -694,7 +671,7 @@
       "mood": "positive",
       "takeaway": "Shadowfax reports record Q2 2027 revenue with improved margins.",
       "enriched": true,
-      "sources_count": 2
+      "sources_count": 3
     },
     {
       "id": "n0704b1b38409",
@@ -794,6 +771,26 @@
       "enriched": true
     },
     {
+      "id": "nd32850141a98",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Goldiam International GOLDIAM Post-Result Earnings Call Nov 2026",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaEdoNU0wN0h4TzN1VlNMU1VqQ1pVVFNaREtyN3ZfZ1RiUnlTQ043SjBXcnJNUEpSRmI5NFlnZ1Nkc3ZlVzVHQmJUQzBvNzA0NUVnLUFHRzJBNk53TnY5bHI2LVNlSmtHelJUbl9jRllSQUtkb3JTcklLa2RkQXJaWTJkMWkxd1R6cVVOVk9xSzk4RTVsZF92Y3FWdjIzS2I4QWFqOG5xUGwtLVozSzZ1QUJoU0NSajlESFFtdnJPUmh6YkVKdGxTNllsbkZpRGFQXzBtdFlqWUdDWGNBUjVtNF9R?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-10-29T10:55:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Goldiam International held post-result earnings call for November 2026 quarter.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
       "id": "nbbf88cf61b61",
       "ticker": "MTARTECH",
       "company": "Mtar Technologies Limited",
@@ -850,7 +847,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Senores Pharmaceuticals announced ₹43 crore capacity expansion across its subsidiaries.",
-      "sources_count": 2,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -1387,7 +1384,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "KSH International secured PGCIL approval for high-voltage power transmission conductors supply.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -1648,25 +1645,6 @@
       "enriched": true
     },
     {
-      "id": "n2684a22b1107",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Dee Development Engineers (NSE:DEEDEV): Has It Won an International Order Worth Rs 46 Crore?",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSG56YWJjQjVGN09NQXhtZUV1dThJbHcxRjNhYUVIc1BPUVBCNklwN0toZDh3aEJIYTYwcktrVmVnSjBIYXlHZVdaMXlHUUdnRWRLZU1rNDVsUElHR1Y2V1FqRS1fOEVscHdIQVhSWGU1cjJ0R0ZVTFA1ZzF1cXJ1MHZLOW5uWlNrb040dUZUdlpaSjB6ODhrbW9yQTZDbUpZNjFxQUVMa0hlQUl6M2FTSWtSblEyZktuVDhSZnJ6SE9tbG1hQ1VuaWVVWjZYWEtE?oc=5",
-      "source": "Kalkine India",
-      "date": "2026-10-15T06:32:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "DEE Development Engineers won an international order worth Rs 46 crore.",
-      "enriched": true
-    },
-    {
       "id": "nf260dd676e8e",
       "ticker": "AURIONPRO",
       "company": "Aurionpro Solutions Limited",
@@ -1683,7 +1661,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Aurionpro won a ₹150 crore order for a Navi Mumbai data centre project.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -2070,7 +2048,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Laxmi Dental released its Q1 2027 earnings call transcript.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -2673,7 +2651,8 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "ESDS Software Q1 FY27 total income up 7.5% year-on-year.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n20ddbb2cb783",
@@ -8124,6 +8103,25 @@
       "enriched": true
     },
     {
+      "id": "ndc0a1cab0de7",
+      "ticker": "MANINDS",
+      "company": "Man Industries (India) Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Man Industries Receives QatarEnergy Approval As Preferred Manufacturer For LSAW Pipes",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaDdIX0NhTW1sYkYwM3dkdmZnTDJlS2JTLU1RakpmUEZXdU8wWlZkN2ZFLVUxTV94ZXUzaG5KcVFSNkpjdjVDVGpJbUNUUVpyRm1ZdFh6cDluYndlTjU3ZHlaLU1fNi1ZMEZWeXJhWGlwbGVuN3Z5ZFI1djktNzdSdUZvSEJQbmJlVXNfMGdXYmZkOTRQeUEzUWlwSDlSNVlGRjZ1dEZaSDlITExHZDZjUHJ3Z0ltR1lFRVBOUVY1SVUzZw?oc=5",
+      "source": "Sahi",
+      "date": "2026-08-14T07:00:00.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Man Industries approved by QatarEnergy as preferred maker for large-diameter welded pipes.",
+      "enriched": true
+    },
+    {
       "id": "n4f90dbc23511",
       "ticker": "SOLARINDS",
       "company": "Solar Industries India Limited",
@@ -8884,42 +8882,60 @@
       "enriched": true
     },
     {
-      "id": "n7ff7b8eb5aa7",
-      "ticker": "ZENTEC",
-      "company": "Zen Technologies Limited",
+      "id": "n8b3bff8769c0",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries India Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Solar Industries India approves Q2 FY27 un-audited results and appoints new auditors | InvestyWise",
+      "url": "https://www.investywise.com/solar-industries-india-limited-board-approves-unaudited-financial-results-and-auditor-appointments/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Approval",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Solar Industries approved Q2 FY27 results and appointed new auditors.",
+      "enriched": true
+    },
+    {
+      "id": "n1b047e76d0ca",
+      "ticker": "JYOTICNC",
+      "company": "Jyoti CNC Automation Limited",
       "sector": "Capital Goods",
       "scope": [
         "watchlist"
       ],
-      "title": "Zen Technologies Strengthens Defence Order Book",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWt5VVJYQ2tvTFpXVEMza0JJdFFzalR6UVhVbTFhVkV5MlRmTXlBQkJNckhmOEdqbUxaQ3pQc2RtZTk0bkdCQzNxQlVQZmVlTzViTzdWQ1k5NlVNamlucmN0UVpXMkJqNkZQUkFDNXZ1NjBXU3VNZXN2NUdtbmZUU0ZHQXFycE1Z?oc=5",
-      "source": "Machine Maker",
-      "date": "2026-07-27T07:31:22.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
+      "title": "Jyoti CNC Automation Share Price in Focus After Q2 FY27 Earnings Results: Total Income Up 16.9% YoY",
+      "url": "https://www.angelone.in/news/stocks/jyoti-cnc-automation-share-price-in-focus-after-q2-fy27-earnings-results-total-income-up-16-9-yoy",
+      "source": "angelone.in",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
       "importance": "medium",
       "mood": "positive",
-      "takeaway": "Zen Technologies adds new orders to its defence order book.",
-      "sources_count": 2,
+      "takeaway": "Jyoti CNC Q2 FY27 total income rose 16.9% year-on-year.",
       "enriched": true
     },
     {
-      "id": "nf1f09cde1bac",
-      "ticker": "E2E",
-      "company": "E2E Networks Limited",
-      "sector": "Information Technology",
+      "id": "n0f5944c23e17",
+      "ticker": "JYOTICNC",
+      "company": "Jyoti CNC Automation Limited",
+      "sector": "Capital Goods",
       "scope": [
         "watchlist"
       ],
-      "title": "Delhi High Court stays E2E Networks stamp duty order on ₹1.25 crore deposit",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaW5mMVp1UlZ6X3hxN09CM0dkbDhoYzZzOFV0VU5nQmJ5UzF0M0RJdmRfemQ4TTNxWklFY0FxQUE0X1FnUDZDbVdVbkFVNWp2OU8wd25fNUVZaTlJb016NDlVY3AweXRkNk5uR19nRVFSMHBLS0xONGg4NGFVbTQ5YWx2eDRLblpRYnY0VW9tWk5HVXh0TjQ1c1A4WUUzYjV2SEFXY1ZpU2gzanROU2c4eXdWMzRWa3BMYUZj?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-07-27T07:00:00.000Z",
-      "topic": "Trouble",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Delhi High Court temporarily halts stamp duty order requiring E2E Networks to deposit ₹1.25 crore.",
+      "title": "Jyoti CNC lifts Q2 standalone EBITDA margin to 27.9% | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/jyoti-cnc-q2-margin-growth-ppt-cmw1kvfov00c831qltw5zt5uu",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Jyoti CNC Q2 standalone EBITDA margin improved to 27.9%.",
       "enriched": true
     },
     {
@@ -8979,63 +8995,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Jyoti Structures secured a ₹690 crore order for transmission line work in Gujarat.",
-      "enriched": true
-    },
-    {
-      "id": "n002827641072",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Meesho Q1 FY27: Revenue Up 48%, Net Loss Narrows to Rs 133 Crore | Kalkine India",
-      "url": "https://www.kalkine.co.in/article/growth/meesho-nse-meesho-revenue-jumps-48-and-losses-halve-as-the-marketplace-heads-into-its-biggest-festive-sale",
-      "source": "kalkine.co.in",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Meesho Q1 revenue grew 48% while losses narrowed to Rs 133 crore, showing improved financial performance.",
-      "enriched": true
-    },
-    {
-      "id": "n90b93d291992",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Meesho flags higher festive and tech costs in Q2 as margins improve | Company Business News",
-      "url": "https://www.livemint.com/companies/company-results/meesho-flags-higher-festive-and-tech-costs-in-q2-as-margins-improve-11793199216905.html",
-      "source": "livemint.com",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Acquisition",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Meesho reported higher festive and tech costs in Q2 while margins improved.",
-      "enriched": true
-    },
-    {
-      "id": "nd96ceac50ff2",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Meesho Q2 FY27: Growth momentum continues as operating losses narrow- Moneycontrol.com",
-      "url": "https://www.moneycontrol.com/news/business/moneycontrol-research/meesho-q2-fy27-growth-momentum-continues-as-operating-losses-narrow-14064103.html",
-      "source": "moneycontrol.com",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Meesho's Q2 FY27 shows continued growth with narrowing operating losses.",
       "enriched": true
     },
     {
@@ -9155,6 +9114,25 @@
       "enriched": true
     },
     {
+      "id": "nd33bbd131147",
+      "ticker": "MTARTECH",
+      "company": "Mtar Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "MTAR Technologies gets NCLT nod to merge two wholly owned subsidiaries - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/mtar-technologies-gets-nclt-nod-to-merge-two-wholly-owned-subsidiaries/articleshow/135318737.cms",
+      "source": "economictimes.indiatimes.com",
+      "date": "",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "MTAR Technologies receives NCLT approval to merge two wholly owned subsidiaries.",
+      "enriched": true
+    },
+    {
       "id": "n47da37245b6d",
       "ticker": "NORTHARC",
       "company": "Northern Arc Capital Limited",
@@ -9171,6 +9149,25 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Northern Arc to raise ₹5,000 crore via NCD issue, approved at AGM scheduled for Aug 18, 2026.",
+      "enriched": true
+    },
+    {
+      "id": "n896b3f8ba40b",
+      "ticker": "NORTHARC",
+      "company": "Northern Arc Capital Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Northern Arc Capital Board Meets To Review Q2 FY27 Results",
+      "url": "https://www.sahi.com/news/northern-arc-capital-board-meets-to-review-q2-fy27-results",
+      "source": "sahi.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Northern Arc Capital board meeting scheduled to review second quarter financial results.",
       "enriched": true
     },
     {
@@ -9212,6 +9209,25 @@
       "enriched": true
     },
     {
+      "id": "n3035e0c478e8",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Goldiam International QIP funds deployed in investments amid retail expansion delays | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/consumer-products/Goldiam-International-QIP-funds-deployed-in-investments-amid-retail-expansion-delays/6a76af6010bce1fd2045bda5",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "QIP",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "QIP funds deployed in investments while retail expansion faces delays",
+      "enriched": true
+    },
+    {
       "id": "n76dcc7a7725d",
       "ticker": "SENORES",
       "company": "Senores Pharmaceuticals Limited",
@@ -9229,6 +9245,83 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Senores Pharma approved ₹43 crore expansion plan for its subsidiary to grow capacity.",
+      "enriched": true
+    },
+    {
+      "id": "nbaef66d14fdc",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho pumps Rs 400 crore into loss-making payments arm as financial services push gathers pace- Moneycontrol.com",
+      "url": "https://www.moneycontrol.com/news/business/meesho-pumps-rs-400-crore-into-loss-making-payments-arm-as-financial-services-push-gathers-pace-14067419.html",
+      "source": "moneycontrol.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Rights Issue",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Meesho invests Rs 400 crore into its payments unit to expand financial services.",
+      "enriched": true,
+      "sources_count": 2
+    },
+    {
+      "id": "n002827641072",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho Q1 FY27: Revenue Up 48%, Net Loss Narrows to Rs 133 Crore | Kalkine India",
+      "url": "https://www.kalkine.co.in/article/growth/meesho-nse-meesho-revenue-jumps-48-and-losses-halve-as-the-marketplace-heads-into-its-biggest-festive-sale",
+      "source": "kalkine.co.in",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Meesho Q1 revenue grew 48% while losses narrowed to Rs 133 crore, showing improved financial performance.",
+      "enriched": true
+    },
+    {
+      "id": "n90b93d291992",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho flags higher festive and tech costs in Q2 as margins improve | Company Business News",
+      "url": "https://www.livemint.com/companies/company-results/meesho-flags-higher-festive-and-tech-costs-in-q2-as-margins-improve-11793199216905.html",
+      "source": "livemint.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Acquisition",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Meesho reported higher festive and tech costs in Q2 while margins improved.",
+      "enriched": true
+    },
+    {
+      "id": "nd96ceac50ff2",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho Q2 FY27: Growth momentum continues as operating losses narrow- Moneycontrol.com",
+      "url": "https://www.moneycontrol.com/news/business/moneycontrol-research/meesho-q2-fy27-growth-momentum-continues-as-operating-losses-narrow-14064103.html",
+      "source": "moneycontrol.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Meesho's Q2 FY27 shows continued growth with narrowing operating losses.",
       "enriched": true
     },
     {
@@ -9287,7 +9380,8 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Unimech Aerospace has Rs 855 crore order book reshaping its revenue mix.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n694b9674d431",
@@ -9639,22 +9733,23 @@
       "enriched": true
     },
     {
-      "id": "n3035e0c478e8",
-      "ticker": "GOLDIAM",
-      "company": "Goldiam International Limited",
-      "sector": "Consumer Durables",
+      "id": "n317e43cfe330",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "sector": "Capital Goods",
       "scope": [
         "watchlist"
       ],
-      "title": "Goldiam International QIP funds deployed in investments amid retail expansion delays | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/English/consumer-products/Goldiam-International-QIP-funds-deployed-in-investments-amid-retail-expansion-delays/6a76af6010bce1fd2045bda5",
-      "source": "whalesbook.com",
+      "title": "DEE Development Engineers bags ₹46 crore contract from US-based EPC firm, ETManufacturing",
+      "url": "https://manufacturing.economictimes.indiatimes.com/amp/news/industry/dee-development-engineers-bags-46-crore-contract-from-us-based-epc-firm/134969903",
+      "source": "manufacturing.economictimes.indiatimes.com",
       "date": "",
-      "topic": "Money",
-      "keyword": "QIP",
+      "topic": "Orders",
+      "keyword": "Order",
       "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "QIP funds deployed in investments while retail expansion faces delays",
+      "mood": "positive",
+      "takeaway": "DEE Development Engineers wins ₹46 crore contract from US-based engineering firm.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -9675,6 +9770,25 @@
       "mood": "neutral",
       "takeaway": "RPSG Group considering selling 15-20% stake in IPL team Lucknow Super Giants.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nf7de43564d5f",
+      "ticker": "LAXMIDENTL",
+      "company": "Laxmi Dental Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Laxmi Dental Q2 Profit Rises to Rs 10.04 Crore on Steady Growth | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/healthcarebiotech/Laxmi-Dental-Q2-Profit-Rises-to-Rs-1004-Crore-on-Steady-Growth/6ae9e8bdc6c6dccbb9113084",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Merger",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Laxmi Dental's quarterly profit rose to Rs 10.04 crore, showing steady growth.",
       "enriched": true
     },
     {
@@ -9967,7 +10081,8 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Solar Defence delivered 450 Nagastra-1R loitering munitions to Indian Army.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "nab54c968facf",
@@ -10163,6 +10278,25 @@
       "enriched": true
     },
     {
+      "id": "n5ae26d874f25",
+      "ticker": "DHOOTTRANS",
+      "company": "Dhoot Transmission Limited",
+      "sector": "Automobile and Auto Components",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Dhoot Transmission Q2 Earnings: வருமானம் அதிரடி உயர்வு, ஆனால் லாபத்தில் ஒரு சின்ன ட்விஸ்ட்! | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Tamil/auto/Dhoot-Transmission-Q2-Consolidated-Revenue-Hits-Rs-18272-Million/6ae9ab45c6c6dccbb9105dda",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Dhoot Transmission Q2 revenue surged but profit had a minor twist.",
+      "enriched": true
+    },
+    {
       "id": "nf3356601ce50",
       "ticker": "STLTECH",
       "company": "Sterlite Technologies Limited",
@@ -10256,6 +10390,25 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Balu Forge won major orders in defence and aerospace sectors, targeting high growth.",
+      "enriched": true
+    },
+    {
+      "id": "ne375cd0d86cf",
+      "ticker": "BALUFORGE",
+      "company": "Balu Forge Industries Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Indian Defence Firm Balu Forge Enters European Armoured Vehicle Supply Chain",
+      "url": "https://defence.newsd.in/industry/indian-defence-firm-balu-forge-enters-european-armoured-vehicle-supply-chain",
+      "source": "defence.newsd.in",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Balu Forge enters European armoured vehicle supply chain, expanding global defense footprint.",
       "enriched": true
     },
     {
@@ -10492,6 +10645,84 @@
       "enriched": true
     },
     {
+      "id": "n89627e8dd3de",
+      "ticker": "EPIGRAL",
+      "company": "Epigral Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Epigral Reports Q2 Consolidated Net Profit Of ₹65.1 Crore Versus ₹51.2 Crore YoY",
+      "url": "https://www.sahi.com/news/epigral-reports-q2-consolidated-net-profit-of-65-1-crore-versus-51-2-crore-yoy",
+      "source": "sahi.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Epigral Q2 profit rose 27% to ₹65.1 crore from ₹51.2 crore year-on-year.",
+      "enriched": true
+    },
+    {
+      "id": "n4d7176e71fac",
+      "ticker": "CMLL",
+      "company": "Caliber Mining and Logistics Limited",
+      "sector": "Oil Gas & Consumable Fuels",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Caliber Mining and Logistics announces resignation of Company Secretary | InvestyWise",
+      "url": "https://www.investywise.com/caliber-mining-and-logistics-ltd-resignation-of-company-secretary/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Caliber Mining's Company Secretary has resigned.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nfa2014ab6be7",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "KFC, Pizza Hut Franchise Operations To Come Under One Roof As Sapphire-Devyani Merger Gets CCI Nod",
+      "url": "https://www.ndtvprofit.com/business/kfc-pizza-hut-franchise-operations-to-come-under-one-roof-as-sapphire-devyani-merger-gets-cci-nod-12259660",
+      "source": "ndtvprofit.com",
+      "date": "",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Sapphire-Devyani merger gets competition regulator approval, consolidating KFC and Pizza Hut franchise operations.",
+      "enriched": true,
+      "sources_count": 5
+    },
+    {
+      "id": "n1039aede9f8b",
+      "ticker": "KANOHAR",
+      "company": "Kanohar Electricals Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Kanohar Electricals reports 112% revenue growth for Q2 FY27 | InvestyWise",
+      "url": "https://www.investywise.com/kanohar-electricals-limited-intimation-of-investor-earnings-presentation/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Kanohar Electricals reports strong 112% revenue growth in second quarter of fiscal year.",
+      "enriched": true
+    },
+    {
       "id": "n707a202a0768",
       "ticker": "E2E",
       "company": "E2E Networks Limited",
@@ -10528,26 +10759,6 @@
       "mood": "negative",
       "takeaway": "E2E Networks fined ₹10,000 by exchanges for compliance delay.",
       "enriched": true
-    },
-    {
-      "id": "nfa2014ab6be7",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "KFC, Pizza Hut Franchise Operations To Come Under One Roof As Sapphire-Devyani Merger Gets CCI Nod",
-      "url": "https://www.ndtvprofit.com/business/kfc-pizza-hut-franchise-operations-to-come-under-one-roof-as-sapphire-devyani-merger-gets-cci-nod-12259660",
-      "source": "ndtvprofit.com",
-      "date": "",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Sapphire-Devyani merger gets competition regulator approval, consolidating KFC and Pizza Hut franchise operations.",
-      "enriched": true,
-      "sources_count": 5
     },
     {
       "id": "nc13437e2c478",
