@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T22:52:02.544Z",
+  "generated_at": "2026-11-04T20:54:09.339Z",
   "portfolio": [
     {
       "company": "Monolithisch India Limited",
@@ -42,14 +42,14 @@
       "sector": "Healthcare"
     },
     {
-      "company": "Vivid Electromech Limited",
-      "ticker": "VIVIDEL",
-      "sector": "Capital Goods"
-    },
-    {
       "company": "Cartrade Tech Limited",
       "ticker": "CARTRADE",
       "sector": "Consumer Services"
+    },
+    {
+      "company": "Vivid Electromech Limited",
+      "ticker": "VIVIDEL",
+      "sector": "Capital Goods"
     },
     {
       "company": "Aptus Value Housing Finance India Limited",
@@ -75,6 +75,11 @@
       "company": "Jio Platforms Limited",
       "ticker": "JPL",
       "sector": "Telecommunication"
+    },
+    {
+      "company": "BLS Polymers Limited",
+      "ticker": "BLSPOLY",
+      "sector": "Chemicals"
     },
     {
       "company": "TANFAC Industries Ltd",

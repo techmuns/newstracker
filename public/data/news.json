@@ -1,13 +1,169 @@
 {
-  "generated_at": "2026-11-04T10:01:43.358Z",
+  "generated_at": "2026-11-04T20:57:44.632Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 129,
-    "watchlist": 539,
-    "universe": 45,
-    "total": 584
+    "portfolio": 137,
+    "watchlist": 562,
+    "universe": 48,
+    "total": 610
   },
   "items": [
+    {
+      "id": "ndb1450b057cb",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
+      "scope": [
+        "universe"
+      ],
+      "title": "Alembic Pharma secures USFDA approval for olopatadine eye drops",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONkF6VGhEX0M3cUx6Rk5Rb1U1aGNlb1NYRkFnVUtYS1pWS05LT0pzYS1YOFVIYnZjVHllQVpXbmpKWFZSRnN3cjUzakV5cHZkZ3hwVUJZVkpPRnl6OERZeU5nNVpjcnBKRmstUEtTRmlFOEo2RVU3NERDWTRxTUV2OEJ2WHl6RUlmMmkwMkJnTU5lUEtlQll1V3hSWW5qSkVmV3Rlb2pGcFBsUzdTemNkQVExSXF3aWc?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-11-04T18:18:08.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Alembic Pharma gets US FDA approval for olopatadine eye drops, expanding its product portfolio.",
+      "enriched": true
+    },
+    {
+      "id": "n36ae9dfd9932",
+      "ticker": "KSHINTL",
+      "company": "KSH International Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "KSH International approves capacity expansion to 72,200 MTs with strong Q2 FY27 results",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVUN3TXR6OEk3bmNEelpCbzJWNkZHUVE5cUZjV2NXZ1RGVjZtel92ek1kblZLajBjUThLYTd0a2xYVTVyNnByb1pTR25HZHFGZEZzWXRWUlRiLTBoTzJiNHZDXzBtVXNIUHA2dzZtMjY5SGtFYWpJekZObWFhTDlpNTJyX1NBSk04WjRBWjBlaEVaZmptY0QxWFMwLU5VUHZra1JTMTgzdHpnWlNudEVDVw?oc=5",
+      "source": "InvestyWise",
+      "date": "2026-11-04T14:16:16.000Z",
+      "topic": "Growth",
+      "keyword": "Capacity Expansion",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "KSH International approves capacity expansion to 72,200 metric tons.",
+      "enriched": true
+    },
+    {
+      "id": "n0d86def71b4b",
+      "ticker": "APTUS",
+      "company": "Aptus Value Housing Finance India Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Earnings call transcript: Aptus Value Housing Finance posts strong Q2 2026 growth By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOTZ1ZEJ4Vk13OVQtTXIxRFBqZzVnLU1uOVc4MG53bU5JUmFkUGhQRkJtdmd5N2lnd3hZSGtiUkhmTlp2VkRXc2Zpa2E0U3U3U1dOWFhmR3VHWF8xa1N5N2RJZ3ZzLTJfTUhqcUxXSmEtZGFiQ0J6UmF6LThzNW5xaElLMHNKVXZ5RGo1ckoxd0RWQmJkU0VlbkFib1RhZmM2bFlvUk41bm81WGF2dS1EZ1BDNzlvTkh3enROSTRMc21vSTdrX3g1VjN0TGp6STVCWV81X0NrVGE?oc=5",
+      "source": "Investing.com India",
+      "date": "2026-11-04T13:06:41.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Aptus Value Housing Finance reports strong Q2 FY26 growth in earnings call.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "ncf80c4ff14d1",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
+      "scope": [
+        "universe"
+      ],
+      "title": "Gland Pharma Secures USFDA Approval for Methylprednisolone Injection with USD 214 Million US Market...",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQY1lvYlR0X0VOTnd3MWtyLS02SDNRcEEtdFJNWFlRNVN5ZnJQbGoyMFJ4MUNqVi00amZrMlpVZnUxeWR1MjdncjdmQjlENTFqMDVhYzJfdjdfLUpvQmJGcVR6emhtcnVMQUg4OUZPTVJrU1N0RTJQYWRrMUxUMUNQVWtaOXZ6YjRTZklHdHNtTFVqUXJ1SWM4eG9DQk55OTZ6a01naWo1bnZ0OThQZlRWVnNnVjFOQkliUE9BZmFzTUhxQUtnYmRWUlFMdlBBVF9LQmVpd01RYjZyZlFvOW9JZXVqOVlJVDFjWTBkVG1RbG5NaWpsMXlTM9IB_gFBVV95cUxQeGUwVmlUUXRyV1ZKOFJoMWh5bkV3c3pCcWxUMDdvWU15Y1laSXg5WlNSZnZzZkNpSjJvZ05mbG5jMXBuTWlYOVI0a2tUbGM1YktWQTNrNVVRdjdyUXpVM0JzdnQzM08za2FZYV9USEVUWENsdDMwWUdnWExsV19WaTBrcmhFVTlLVHhnbU5FNnBxbWVjVEpERkFaMThLdHFvNXM4ZzZ2MVZWcDhMRVBHdElfekF1b2phZWxNbDI4NVRydHIyVndsNzQySHZwOUVFdllMSFJRajllTFlmTnh2NnNlMExrMGZ5b1FPMjBrQnRvV2l1U2NZdWNSTEM5Zw?oc=5",
+      "source": "Medical Dialogues",
+      "date": "2026-11-04T12:54:54.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Gland Pharma gets US FDA approval for methylprednisolone injection targeting $214M market.",
+      "enriched": true
+    },
+    {
+      "id": "n24cbb98f2da1",
+      "ticker": "SBCL",
+      "company": "Shivalik Bimetal Controls Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Earnings call transcript: Shivalik Bimetal posts strong Q2 2026 growth By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQm1nOVZkbGhYTXY3aGc5SGwtMTNrX3dpREZQU25HMjZpZll3aTYzQ1Z5ZkdxN3hnejN6R29vSDBxcFJIRWF5YkNXOVdKZEVRejFldlZ1dDhTQjNqdFNvZHJ5c2tSR055WlMxN0d2dks2Yl9IY1ZVQXowUHpkY0QxUTNWMTV1Y1E4X01mbXVzVHFsU21lRm84MWNCNFFvVjdUck5FU2ZUdHNwU2RteTRwOTEwOTFpWTF5NVNKUjFDQ3lYZUhtVE1YbXdn?oc=5",
+      "source": "Investing.com India",
+      "date": "2026-11-04T11:52:49.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Shivalik Bimetal reports strong Q2 FY26 growth in earnings call.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "necf2fbc75537",
+      "ticker": "UNIMECH",
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Unimech Aerospace’s Revenue Nearly Doubles, but Can Its Order Pipeline Sustain the Growth?",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSHFCSDhDMXV3YUVFd1hYWjR3ZTROeW1JanNydy1yOFVoQlhQZV81UWNHV0ZtTjlwbWZwcktxQlQ0czhKcEZPam5Ld1VBLUR5Ymg2SFNDUk9wVnNrSnQwMzZza0REZU9qMUpOQjBGN21IbjhQZjc5OGhnWkZYdEhaTXdvRm9xbDBfMENDS25iWTY1VzVHQkEwSDFra21pM2RsUWlXU2M2Vk9lMV9DNGtPQ0J2TUhBMmRIWms4aXlEeUhWdXpVM2F1aXVJYlhCZkk?oc=5",
+      "source": "Trade Brains",
+      "date": "2026-11-04T11:20:05.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Unimech Aerospace revenue nearly doubles; focus on order pipeline sustainability.",
+      "enriched": true
+    },
+    {
+      "id": "n757fe26791b1",
+      "ticker": "THEME",
+      "company": "Specialty Chemicals",
+      "sector": "Chemicals",
+      "scope": [
+        "universe"
+      ],
+      "title": "Evonik invests €52 Million in silicone capacity expansion: Opportunities for India’s specialty chemicals..",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNZzFja3I5bWt6ODhXajVTNU8zX0FXWFROcjRUNHQxUFVweFRQUndsVVFqT0owVjFyUVliSHBFT2FIQ3ZsQnB1MGNaY281RWxDVGRzYjFhWmE5ZGlaNUxsTndDVzl1QjZRUHBLV1lXSGtJdWZseWtnTWtGTkpyUURoM0VaVy1xcmdyckRlRmU0ckJCYTdTUmJtdVRncDFSQS0wTV80VFhSekkwblVPUm83UEFsNXVZTV94TXZKV3BqcHpRVURRd3p4Uk1wS3Z6eE5wWGtkQ3JTa2lhSFJ0QU9zbHdTbTZ1Z0Z3YUJDN3gxT29tM3gwQ1NaR19TeXgtVzc4WU1YUmFyLW5UWl9xTUpXcGZMUTA2NHk1b2fSAZ4CQVVfeXFMT1YzaVllVWtHZHgxX3Y5YzR0dkNCRHUzNUJmUk1PT3U1NldMTFpVVHFWOEo0ZnU3d1E1eDVXWWRleDFPY1FIYzAya0ppTVctblVnRGdaWVE5QUoyalJvdi1BdHA3dmxiYnB4enRJOWxSbVFzVHdTa1FrYlFEWVpIMWJKd1l5UVMzRG5XZVlXQWstSUhGQTRYZUVXb2l0VmtQNUJlMnBGUkQycTZ5dEVsSVlUcjRwMTRDRWhVLU1Fdks1VXdEZWJqd0wwbnlCdEZZb1daWlJiT2xlWmF2cjVEbmdKZFdiSjlISFJSeEgxREJQbjliaTE4UE9XcTRqdy0yTkR0VHVfRHdMdjNLdUViRDRGcnNoN3pzRm4tNWdkUQ?oc=5",
+      "source": "Indiatimes",
+      "date": "2026-11-04T11:00:06.000Z",
+      "topic": "Growth",
+      "keyword": "Capacity Expansion",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Evonik invests €52 million in silicone capacity expansion.",
+      "enriched": true
+    },
+    {
+      "id": "n66856d0aac1c",
+      "ticker": "LAXMIDENTL",
+      "company": "Laxmi Dental Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Laxmi Dental Q2FY27 Earnings Call Recording Available",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUVYxc0JZeWw2WWpvRmZpZWJydjhrcER0TzAtbVN2Q3hwZGxOZGFMck90VENrUC1zZ3ZBODRENERnQ2RXY25nd2RSb3dZOEwwNWNOMHJYS3lIYVZSbVdXbm9GTkdETTBNR1p0bVhEdURrY3p6Qm1mRjVnZXZsYVF4Vl9PajBiUEJ1MEtERGExMC1ISl9lYkl2bzl4Z3dLNk9EalRkZ2ZmVDdhbmhoaGJHTlBuX2l6YlB4enc?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-11-04T10:37:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Laxmi Dental Q2 FY27 earnings call recording now available.",
+      "sources_count": 2,
+      "enriched": true
+    },
     {
       "id": "ne9a619799f7f",
       "ticker": "ZENTEC",
@@ -164,6 +320,27 @@
       "enriched": true
     },
     {
+      "id": "ne6dd084b3258",
+      "ticker": "MENONBE",
+      "company": "Menon Bearings Limited",
+      "sector": "Automobile and Auto Components",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Menon Bearings MENONBE Q2 FY27 Earnings Call Key Highlights",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObjZBaXptTVQ3NXU5YmlZMWlrcy1HOE1oMkgzaUVFNDhCTnZTYXZETTZRN0pVNWFIc05HZThGTjUzbGVtYUZOZ2xUSGt3WDZldC0zcUlreUFqZHRTbVNOMU9xcVNDRWtDTG91TGs2NU45UnV3M1A5OERRdkZGRDFuQXFwWlNYODBHMVd0TGVpOXBzUXU5M19aWG5Dc3ZEMEpGZTZOTEhCd29PaV8waGNkeWdLbTVNQW41M25OTWcteTRKVFk?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-11-03T11:10:04.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Menon Bearings Q2 FY27 earnings call highlights released.",
+      "sources_count": 4,
+      "enriched": true
+    },
+    {
       "id": "n405e76f601e3",
       "ticker": "JYOTICNC",
       "company": "Jyoti CNC Automation Limited",
@@ -257,6 +434,26 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Zen Technologies reported record Q2 revenue with expanding order book.",
+      "enriched": true
+    },
+    {
+      "id": "n0c1c17d6697a",
+      "ticker": "CMLL",
+      "company": "Caliber Mining and Logistics Limited",
+      "sector": "Oil Gas & Consumable Fuels",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Caliber Mining and Logistics announces resignation of Company Secretary",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcFJ3bUxOY2NkVzdGM2h5eXEzelNydVpibTV4b1MxeFVaeGpLUmhBdEtVSC1VVVZIZmFobEg2LTl3QU1fakltNzloUkVBTHd6SThpSDJCakx0M0VESWdvT0FsYVd6N3cxZXZiZE85TlpwbWcyZ1g5NGZQNmpnZGVqRGJ2b1Nmano1YnZSRzNGLV8zd1JrSjJhUTh3?oc=5",
+      "source": "InvestyWise",
+      "date": "2026-11-02T13:30:37.000Z",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Company Secretary resigned from Caliber Mining and Logistics.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -531,28 +728,7 @@
       "mood": "neutral",
       "takeaway": "MTAR Technologies reported Q2 FY27 earnings.",
       "enriched": true,
-      "sources_count": 2
-    },
-    {
-      "id": "n043ee1c60a52",
-      "ticker": "MENONBE",
-      "company": "Menon Bearings Limited",
-      "sector": "Automobile and Auto Components",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Menon Bearings (NSE:MENONBE): What Did Management Cover in Q2 FY27 Earnings Call?",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeEU1cXNyYU5KYmZtSkxWdmE2Szg1ZEUxVl9Lc0VnQ214anlkM2NVZFI1Y21LYVgzN0llUGMtazNVWU1hUU9KR0VRSHZTTUQ5c1RNOXduc1k0eUdOdGRaNDJ0ZFVEMlc3Mnk2SElUMU9FUlFSeVJ5NmxIVF9Cb2lJam5sbEpSX2ZmellvV2RPaWtZTjMzbkxlejgzM0FaQWFnRlNEWlZDUTMyXzBSLUIycVZCSmlnNEQzX2o4T0lpeFcwUQ?oc=5",
-      "source": "Kalkine India",
-      "date": "2026-10-30T11:41:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Menon Bearings held Q2 FY27 earnings call discussing quarterly performance.",
-      "sources_count": 3,
-      "enriched": true
+      "sources_count": 3
     },
     {
       "id": "nc99e2b7e9d28",
@@ -653,6 +829,25 @@
       "enriched": true
     },
     {
+      "id": "naf6034c42183",
+      "ticker": "UNIMECH",
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Unimech Acquisition Makes Hobel Bellows Fully Owned",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY2ZFdUNiT0dWR29pdWNtNFAzdVZLeFZOT3liUFA0bkFIN0lEY0xWbkVHVzhYc1Y0bUpVU1ZxM0FudGxvYjJCZndEeDV1cjNsMkFpUm53a1RmUGxfY3pXRmRVTllDQ082WElacHM3TDJ1NXR1amhWSU1INkkybWk3WXIyVWhySUY2bXNuaDlFODdyek1KVTZwX3VnT1h6TzZrTHhLLTVFSVN2dw?oc=5",
+      "source": "Multibagg AI",
+      "date": "2026-10-29T14:43:59.000Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Unimech acquired remaining stake in Hobel Bellows, making it a wholly owned subsidiary.",
+      "enriched": true
+    },
+    {
       "id": "n2d08a8ea5b90",
       "ticker": "SHADOWFAX",
       "company": "Shadowfax Technologies Limited",
@@ -671,7 +866,7 @@
       "mood": "positive",
       "takeaway": "Shadowfax reports record Q2 2027 revenue with improved margins.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "n0704b1b38409",
@@ -771,26 +966,6 @@
       "enriched": true
     },
     {
-      "id": "nd32850141a98",
-      "ticker": "GOLDIAM",
-      "company": "Goldiam International Limited",
-      "sector": "Consumer Durables",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Goldiam International GOLDIAM Post-Result Earnings Call Nov 2026",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaEdoNU0wN0h4TzN1VlNMU1VqQ1pVVFNaREtyN3ZfZ1RiUnlTQ043SjBXcnJNUEpSRmI5NFlnZ1Nkc3ZlVzVHQmJUQzBvNzA0NUVnLUFHRzJBNk53TnY5bHI2LVNlSmtHelJUbl9jRllSQUtkb3JTcklLa2RkQXJaWTJkMWkxd1R6cVVOVk9xSzk4RTVsZF92Y3FWdjIzS2I4QWFqOG5xUGwtLVozSzZ1QUJoU0NSajlESFFtdnJPUmh6YkVKdGxTNllsbkZpRGFQXzBtdFlqWUdDWGNBUjVtNF9R?oc=5",
-      "source": "Kalkine India",
-      "date": "2026-10-29T10:55:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Goldiam International held post-result earnings call for November 2026 quarter.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "nbbf88cf61b61",
       "ticker": "MTARTECH",
       "company": "Mtar Technologies Limited",
@@ -827,7 +1002,8 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Senores Pharmaceuticals' subsidiary is expanding capacity, expected completion by 2027.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n1cc5c60ccd0a",
@@ -1661,7 +1837,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Aurionpro won a ₹150 crore order for a Navi Mumbai data centre project.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -2048,7 +2224,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Laxmi Dental released its Q1 2027 earnings call transcript.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -4141,26 +4317,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "DEE Development Engineers' order book stands at ₹2,435.61 crore.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n611f362dc1ab",
-      "ticker": "APTUS",
-      "company": "Aptus Value Housing Finance India Limited",
-      "sector": "Financial Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Q1 2027 Aptus Value Housing Finance India Ltd Earnings Call Transcript",
-      "url": "https://www.gurufocus.com/news/9000048/q1-2027-aptus-value-housing-finance-india-ltd-earnings-call-transcript",
-      "source": "gurufocus.com",
-      "date": "2026-09-11T07:28:27.150Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Aptus Value Housing Finance releases Q1 2027 earnings call transcript.",
       "sources_count": 2,
       "enriched": true
     },
@@ -6325,7 +6481,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Secured export order for lab-grown diamond jewellery.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -8882,6 +9038,103 @@
       "enriched": true
     },
     {
+      "id": "nef53e55160a0",
+      "ticker": "KSHINTL",
+      "company": "KSH International Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "KSH International Approves Rs 185 Crore Capacity Expansion for Magnet Wires | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/industrial-goodsservices/KSH-International-Approves-Rs-185-Crore-Capacity-Expansion-for-Magnet-Wires/6aeb3e8bc6c6dccbb91346cd",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Capacity Expansion",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "KSH International approved Rs 185 crore capacity expansion for magnet wires production.",
+      "enriched": true
+    },
+    {
+      "id": "n850bffe3e363",
+      "ticker": "APTUS",
+      "company": "Aptus Value Housing Finance India Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Aptus Value Housing Q2FY27 net profit up 18% to ₹267 crore",
+      "url": "https://scanx.trade/stock-market-news/companies/aptus-value-housing-q2-net-profit-up-18-2-67b/55340311",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Aptus Value Housing's quarterly profit grew 18% to ₹267 crore.",
+      "enriched": true
+    },
+    {
+      "id": "nf88492058e10",
+      "ticker": "SBCL",
+      "company": "Shivalik Bimetal Controls Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Shivalik Bimetal Controls Q1 Results: Earnings call scheduled for Aug 7",
+      "url": "https://scanx.trade/stock-market-news/companies/shivalik-bimetal-controls-q1-results-earnings-call-scheduled-for-aug-7/47415566",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Shivalik Bimetal Controls scheduled Q1 earnings call for August 7.",
+      "enriched": true
+    },
+    {
+      "id": "n0b01d13fee62",
+      "ticker": "UNIMECH",
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Unimech sees Rs 855 crore order book reshape revenue mix | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/unimech-order-book-revenue-shift-concall-cmvwm2hfv000p2gmts6u596bd",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Unimech Aerospace has Rs 855 crore order book reshaping its revenue mix.",
+      "enriched": true,
+      "sources_count": 2
+    },
+    {
+      "id": "nf7de43564d5f",
+      "ticker": "LAXMIDENTL",
+      "company": "Laxmi Dental Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Laxmi Dental Q2 Profit Rises to Rs 10.04 Crore on Steady Growth | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/healthcarebiotech/Laxmi-Dental-Q2-Profit-Rises-to-Rs-1004-Crore-on-Steady-Growth/6ae9e8bdc6c6dccbb9113084",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Merger",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Laxmi Dental's quarterly profit rose to Rs 10.04 crore, showing steady growth.",
+      "enriched": true
+    },
+    {
       "id": "n8b3bff8769c0",
       "ticker": "SOLARINDS",
       "company": "Solar Industries India Limited",
@@ -8939,6 +9192,25 @@
       "enriched": true
     },
     {
+      "id": "ne177506eea6e",
+      "ticker": "JYOTICNC",
+      "company": "Jyoti CNC Automation Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Jyoti CNC turnaround delivers Rs 336 crore PAT in FY26 | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/jyoti-cnc-fy26-turnaround-profit-ppt-cmw1guz6f00ac31qlymqwhakv",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Jyoti CNC delivered a turnaround with ₹336 crore profit in FY26.",
+      "enriched": true
+    },
+    {
       "id": "n034d09aec251",
       "ticker": "MEDIASSIST",
       "company": "Medi Assist Healthcare Services Limited",
@@ -8976,6 +9248,26 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Shadowfax Q2 revenue grew 58% year-on-year.",
+      "enriched": true
+    },
+    {
+      "id": "n04e7ea311e8d",
+      "ticker": "MENONBE",
+      "company": "Menon Bearings Limited",
+      "sector": "Automobile and Auto Components",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Menon Bearings targets 23% EBITDA margin next year after Q2 | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/menon-bearings-margin-target-next-year-concall-cmw21qw5n00052gnqu5gbrw0m",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Menon Bearings targets 23% EBITDA margin next year after Q2 results.",
       "enriched": true
     },
     {
@@ -9095,6 +9387,46 @@
       "enriched": true
     },
     {
+      "id": "nf22cf4765b1c",
+      "ticker": "JPL",
+      "company": "Jio Platforms Limited",
+      "sector": "Telecommunication",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "S&P affirms Reliance Industries' 'A-' credit rating, cites Jio listing, stronger earnings - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/sp-affirms-reliance-industries-a-credit-rating-cites-jio-listing-stronger-earnings/articleshow/135530410.cms?from=mdr",
+      "source": "m.economictimes.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "S&P reaffirms Reliance's A- credit rating, citing Jio listing plans and stronger earnings.",
+      "enriched": true
+    },
+    {
+      "id": "n0331bdfa138f",
+      "ticker": "SUDEEPPHRM",
+      "company": "Sudeep Pharma Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Sudeep Pharma reports record quarterly EBITDA despite freight | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/sudeep-pharma-record-ebitda-freight-concall-cmw1xliuy002g2vphq5pzk7b1",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Sudeep Pharma posts record quarterly EBITDA despite freight challenges.",
+      "enriched": true
+    },
+    {
       "id": "n3147f8e5e895",
       "ticker": "MTARTECH",
       "company": "Mtar Technologies Limited",
@@ -9111,6 +9443,26 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "MTAR Technologies received new orders and reported Q1 results, shares rose 5% after five-day decline.",
+      "enriched": true
+    },
+    {
+      "id": "n694b9674d431",
+      "ticker": "UNIMECH",
+      "company": "Unimech Aerospace and Manufacturing Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Unimech invests ₹39 crore in Saudi JV for oil and gas components - CNBC TV18",
+      "url": "https://www.cnbctv18.com/market/unimech-invests-rs39-crore-in-saudi-jv-for-oil-and-gas-components-20003279.htm",
+      "source": "cnbctv18.com",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Joint Venture",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Unimech invested Rs 39 crore in Saudi joint venture for oil and gas components.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -9206,25 +9558,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Vedanta's metals and oil divisions delivered strong Q2 performance while steel and power segments lagged.",
-      "enriched": true
-    },
-    {
-      "id": "n3035e0c478e8",
-      "ticker": "GOLDIAM",
-      "company": "Goldiam International Limited",
-      "sector": "Consumer Durables",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Goldiam International QIP funds deployed in investments amid retail expansion delays | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/English/consumer-products/Goldiam-International-QIP-funds-deployed-in-investments-amid-retail-expansion-delays/6a76af6010bce1fd2045bda5",
-      "source": "whalesbook.com",
-      "date": "",
-      "topic": "Money",
-      "keyword": "QIP",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "QIP funds deployed in investments while retail expansion faces delays",
       "enriched": true
     },
     {
@@ -9361,46 +9694,6 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "NSE and BSE approved listing of 2 crore equity shares.",
-      "enriched": true
-    },
-    {
-      "id": "n0b01d13fee62",
-      "ticker": "UNIMECH",
-      "company": "Unimech Aerospace and Manufacturing Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Unimech sees Rs 855 crore order book reshape revenue mix | Market News & Analysis",
-      "url": "https://www.multibagg.ai/market-pulse/articles/unimech-order-book-revenue-shift-concall-cmvwm2hfv000p2gmts6u596bd",
-      "source": "multibagg.ai",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Unimech Aerospace has Rs 855 crore order book reshaping its revenue mix.",
-      "enriched": true,
-      "sources_count": 2
-    },
-    {
-      "id": "n694b9674d431",
-      "ticker": "UNIMECH",
-      "company": "Unimech Aerospace and Manufacturing Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Unimech invests ₹39 crore in Saudi JV for oil and gas components - CNBC TV18",
-      "url": "https://www.cnbctv18.com/market/unimech-invests-rs39-crore-in-saudi-jv-for-oil-and-gas-components-20003279.htm",
-      "source": "cnbctv18.com",
-      "date": "",
-      "topic": "Deals",
-      "keyword": "Joint Venture",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Unimech invested Rs 39 crore in Saudi joint venture for oil and gas components.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -9733,6 +10026,45 @@
       "enriched": true
     },
     {
+      "id": "n463b35561bb6",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Goldiam International GOLDIAM Post-Result Earnings Call Nov 2026 | Kalkine India",
+      "url": "https://www.kalkine.co.in/article/announcements/goldiam-international-nsegoldiam-what-is-the-post-result-conference-call-scheduled-for-november-2026",
+      "source": "kalkine.co.in",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Goldiam International holds post-result earnings call for November 2024 quarter.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n3035e0c478e8",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Goldiam International QIP funds deployed in investments amid retail expansion delays | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/consumer-products/Goldiam-International-QIP-funds-deployed-in-investments-amid-retail-expansion-delays/6a76af6010bce1fd2045bda5",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "QIP",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "QIP funds deployed in investments while retail expansion faces delays",
+      "enriched": true
+    },
+    {
       "id": "n317e43cfe330",
       "ticker": "DEEDEV",
       "company": "DEE Development Engineers Limited",
@@ -9753,6 +10085,26 @@
       "enriched": true
     },
     {
+      "id": "nc3a355d9d422",
+      "ticker": "OMNI",
+      "company": "Omnitech Engineering Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Omnitech Engineering Limited approves unaudited Q2 FY27 financial results | InvestyWise",
+      "url": "https://www.investywise.com/omnitech-unaudited-financial-results-ipo-proceeds-update/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Omnitech Engineering approved its Q2 FY27 unaudited financial results.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
       "id": "ncde0e5c3323e",
       "ticker": "RPSGVENT",
       "company": "RPSG VENTURES LIMITED",
@@ -9770,25 +10122,6 @@
       "mood": "neutral",
       "takeaway": "RPSG Group considering selling 15-20% stake in IPL team Lucknow Super Giants.",
       "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "nf7de43564d5f",
-      "ticker": "LAXMIDENTL",
-      "company": "Laxmi Dental Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Laxmi Dental Q2 Profit Rises to Rs 10.04 Crore on Steady Growth | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/English/healthcarebiotech/Laxmi-Dental-Q2-Profit-Rises-to-Rs-1004-Crore-on-Steady-Growth/6ae9e8bdc6c6dccbb9113084",
-      "source": "whalesbook.com",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Merger",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Laxmi Dental's quarterly profit rose to Rs 10.04 crore, showing steady growth.",
       "enriched": true
     },
     {
@@ -10065,6 +10398,64 @@
       "enriched": true
     },
     {
+      "id": "n7f10c13cbf88",
+      "ticker": "GMMPFAUDLR",
+      "company": "GMM Pfaudler Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "GMM Pfaudler revises list of key personnel authorized for disclosures | InvestyWise",
+      "url": "https://www.investywise.com/gmm-pfaudler-kmp-disclosure-update/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Trouble",
+      "keyword": "Corporate Governance",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "GMM Pfaudler updated its list of authorized personnel for company disclosures.",
+      "enriched": true
+    },
+    {
+      "id": "nffa6437cf5be",
+      "ticker": "GMMPFAUDLR",
+      "company": "GMM Pfaudler Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "GMM Pfaudler reports Q2 FY27 unaudited financial results and announces CFO change | InvestyWise",
+      "url": "https://www.investywise.com/gmm-pfaudler-limited-board-meeting-outcome-and-cfo-appointment/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Trouble",
+      "keyword": "Approval",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "GMM Pfaudler announces CFO change alongside Q2 FY27 results.",
+      "enriched": true
+    },
+    {
+      "id": "n8514f40c6d38",
+      "ticker": "VIVIDEL",
+      "company": "Vivid Electromech Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Vivid Electromech Limited Says Rs 307 Crore Book Covers Two Quarters | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/vivid-electromech-order-book-visibility-concall-cmw26as60000m2mtklsz8xkvq",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Vivid Electromech has Rs 307 crore order book covering two quarters of work.",
+      "enriched": true
+    },
+    {
       "id": "n0ee15e728469",
       "ticker": "SOLARINDS",
       "company": "Solar Industries India Limited",
@@ -10221,6 +10612,25 @@
       "enriched": true
     },
     {
+      "id": "nc8c5f2952700",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries India Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "SIIL expects to surpass FY27 guidance after 69% Q2 growth | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/siil-fy27-guidance-q2-growth-announcement-cmw1qtt7i000n2go56xpeo2p0",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Solar Industries expects to exceed FY27 targets after 69% Q2 growth.",
+      "enriched": true
+    },
+    {
       "id": "n8f0ee78c5421",
       "ticker": "MEESHO",
       "company": "Meesho Limited",
@@ -10237,25 +10647,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Meesho approves up to ₹50 crore investment in its Kirana Club arm.",
-      "enriched": true
-    },
-    {
-      "id": "nf88492058e10",
-      "ticker": "SBCL",
-      "company": "Shivalik Bimetal Controls Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Shivalik Bimetal Controls Q1 Results: Earnings call scheduled for Aug 7",
-      "url": "https://scanx.trade/stock-market-news/companies/shivalik-bimetal-controls-q1-results-earnings-call-scheduled-for-aug-7/47415566",
-      "source": "scanx.trade",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Shivalik Bimetal Controls scheduled Q1 earnings call for August 7.",
       "enriched": true
     },
     {
@@ -10489,6 +10880,25 @@
       "enriched": true
     },
     {
+      "id": "n868d744d9fa3",
+      "ticker": "TENNIND",
+      "company": "Tenneco Clean Air India Limited",
+      "sector": "Automobile and Auto Components",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Tenneco Clean Air India Limited approves Q2 2026 unaudited financial results | InvestyWise",
+      "url": "https://www.investywise.com/tenneco-clean-air-india-limited-board-approves-financial-results/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Tenneco Clean Air India approved Q2 2026 unaudited financial results.",
+      "enriched": true
+    },
+    {
       "id": "ncc4b557b4f51",
       "ticker": "HARIOMPIPE",
       "company": "Hariom Pipe Industries Limited",
@@ -10664,23 +11074,43 @@
       "enriched": true
     },
     {
-      "id": "n4d7176e71fac",
-      "ticker": "CMLL",
-      "company": "Caliber Mining and Logistics Limited",
-      "sector": "Oil Gas & Consumable Fuels",
+      "id": "n4ea5b5c8c08d",
+      "ticker": "MENONBE",
+      "company": "Menon Bearings Limited",
+      "sector": "Automobile and Auto Components",
       "scope": [
+        "portfolio",
         "watchlist"
       ],
-      "title": "Caliber Mining and Logistics announces resignation of Company Secretary | InvestyWise",
-      "url": "https://www.investywise.com/caliber-mining-and-logistics-ltd-resignation-of-company-secretary/",
-      "source": "investywise.com",
+      "title": "Menon Bearings reduces tractor dependence with new uses | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/menon-bearings-diversifies-beyond-tractors-concall-cmw229ug4000i2gnqwq7u3f8b",
+      "source": "multibagg.ai",
       "date": "",
-      "topic": "Trouble",
-      "keyword": "Resignation",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Caliber Mining's Company Secretary has resigned.",
-      "sources_count": 2,
+      "topic": "Growth",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Menon Bearings diversifying away from tractor segment with new product applications.",
+      "enriched": true
+    },
+    {
+      "id": "nadff2ce042d6",
+      "ticker": "MENONBE",
+      "company": "Menon Bearings Limited",
+      "sector": "Automobile and Auto Components",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Menon Bearings maps Rs 34.5 crore capex and 37% exports | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/menon-bearings-capex-export-roadmap-ppt-cmvuihfm600032hmwm8g7yzis",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Capex",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Menon Bearings plans Rs 34.5 crore capex with 37% of revenue from exports.",
       "enriched": true
     },
     {
@@ -10702,6 +11132,25 @@
       "takeaway": "Sapphire-Devyani merger gets competition regulator approval, consolidating KFC and Pizza Hut franchise operations.",
       "enriched": true,
       "sources_count": 5
+    },
+    {
+      "id": "ndd1352b9776b",
+      "ticker": "GMMPFAUDLR",
+      "company": "GMM Pfaudler Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "GMM Pfaudler discloses revised list of KMPs for materiality checks",
+      "url": "https://scanx.trade/stock-market-news/companies/gmm-pfaudler-discloses-revised-list-kmps-materiality-checks/55347954",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Other",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "GMM Pfaudler updates list of key managerial personnel for materiality checks.",
+      "enriched": true
     },
     {
       "id": "n1039aede9f8b",
@@ -11112,6 +11561,26 @@
       "enriched": true
     },
     {
+      "id": "nf63681b5b088",
+      "ticker": "TONBO",
+      "company": "Tonbo Imaging India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Tonbo Imaging India IPO Day 1: Subscription Status, Timeline & Key Issue Details",
+      "url": "https://groww.in/blog/tonbo-imaging-india-ipo-day-1-subscription-status",
+      "source": "groww.in",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Tonbo Imaging India IPO opens for subscription on Day 1.",
+      "enriched": true
+    },
+    {
       "id": "ne7a9f6f018f3",
       "ticker": "EPIGRAL",
       "company": "Epigral Limited",
@@ -11166,26 +11635,6 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Strides Pharma appointed Biren Gabhawala as an independent director to its board.",
-      "enriched": true
-    },
-    {
-      "id": "nadff2ce042d6",
-      "ticker": "MENONBE",
-      "company": "Menon Bearings Limited",
-      "sector": "Automobile and Auto Components",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Menon Bearings maps Rs 34.5 crore capex and 37% exports | Market News & Analysis",
-      "url": "https://www.multibagg.ai/market-pulse/articles/menon-bearings-capex-export-roadmap-ppt-cmvuihfm600032hmwm8g7yzis",
-      "source": "multibagg.ai",
-      "date": "",
-      "topic": "Growth",
-      "keyword": "Capex",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Menon Bearings plans Rs 34.5 crore capex with 37% of revenue from exports.",
       "enriched": true
     },
     {
@@ -11378,6 +11827,64 @@
       "importance": "low",
       "mood": "negative",
       "takeaway": "Menon Bearings fined Rs 9,440 by NSE for delayed shareholding disclosure filing.",
+      "enriched": true
+    },
+    {
+      "id": "n1211caf021e0",
+      "ticker": "SHANTIINOR",
+      "company": "Shanti Inorganics Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Shanti Gold targets 7,900 kg capacity after Marol commissioning | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/shanti-gold-capacity-product-expansion-ppt-cmw2gits700ak2mtkyxapc56g",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Commissioning",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Shanti Gold commissioned its Marol facility, targeting 7,900 kg production capacity.",
+      "enriched": true
+    },
+    {
+      "id": "nded065ea5cd4",
+      "ticker": "TENNIND",
+      "company": "Tenneco Clean Air India Limited",
+      "sector": "Automobile and Auto Components",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Tenneco Clean Air India Faces Rs 372 Crore Stamp Duty Penalty Order | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/lawcourt/Tenneco-Clean-Air-India-Faces-Rs-372-Crore-Stamp-Duty-Penalty-Order/6aeb0249c6c6dccbb9125455",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Trouble",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "negative",
+      "takeaway": "Tenneco Clean Air India faces Rs 372 crore stamp duty penalty order.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n163615e3f4c3",
+      "ticker": "TENNIND",
+      "company": "Tenneco Clean Air India Limited",
+      "sector": "Automobile and Auto Components",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Tenneco Clean Air India Plans Rs 45 Crore Capacity Expansion | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/auto/Tenneco-Clean-Air-India-Plans-Rs-45-Crore-Capacity-Expansion/6aeb6afdc6c6dccbb9138977",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Capacity Expansion",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Tenneco Clean Air India plans Rs 45 crore capacity expansion.",
       "enriched": true
     }
   ]
