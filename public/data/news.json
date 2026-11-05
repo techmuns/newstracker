@@ -1,13 +1,89 @@
 {
-  "generated_at": "2026-11-04T20:57:44.632Z",
-  "source": "google-news+munshot+valuepickr+claude",
+  "generated_at": "2026-11-05T09:59:05.619Z",
+  "source": "google-news+valuepickr+claude",
   "counts": {
-    "portfolio": 137,
+    "portfolio": 135,
     "watchlist": 562,
-    "universe": 48,
-    "total": 610
+    "universe": 49,
+    "total": 611
   },
   "items": [
+    {
+      "id": "n03cc32829c0e",
+      "ticker": "GMMPFAUDLR",
+      "company": "GMM Pfaudler Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "GMM Pfaudler finalises Rs 88.09 crore acquisition goodwill",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTXh6NnNReWtuWHhnMUZFQ0pQZEtJX25UTThZT1pLSWcxSUN4SWF2d09YTUhLQzkzUjBBdDk2bmxEUjJlNWdLVGpqTDVEbTNUMm1uNkRWb1Vhc1BkYlM0akZWeXRGdHJOVzFta3JsdzNfb20xSW9kaVAyQS1seEtsV3pnWkdSRDlTX01iVDllVjZsa2U5aXpWV0lJWnQyNHFHR1dGeTVPSmFzcnpDeEllNnF3VFY5RFZ6UGFQT3lMa3ZJY3ZHWWZB?oc=5",
+      "source": "Multibagg AI",
+      "date": "2026-11-05T09:16:44.000Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "GMM Pfaudler finalizes goodwill accounting for Rs 88 crore acquisition.",
+      "enriched": true
+    },
+    {
+      "id": "n02a5a8fee485",
+      "ticker": "DHOOTTRANS",
+      "company": "Dhoot Transmission Limited",
+      "sector": "Automobile and Auto Components",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Dhoot Transmission raises FY27 capex to about ₹750 crore",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRjNXcTIzMXdSQkRpRVQyZmlKMzJ1X1dTWkg1MlBpY2VxdmNoLXE0OTlYdGJZZHdyRmtwODhiblJtUW53SmxTN0R2MmZicVBZZmM4RXRyVVlPYU5lcDFrM1FVZFZfcVBxcDBLQWxZOE1JOXdCZ0pNSTNUajg2a0JKbnVJUmh5SlRMTW16bWdJQnJ0VHA1OGlPd3VlQlM2NVRPdDRLSFMyTDI0TXprTmY0dDJRb0RFd00?oc=5",
+      "source": "Multibagg AI",
+      "date": "2026-11-05T08:02:09.000Z",
+      "topic": "Growth",
+      "keyword": "Capex",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Dhoot Transmission increases capital spending plan to Rs 750 crore by FY27.",
+      "enriched": true
+    },
+    {
+      "id": "n79b8e3d19806",
+      "ticker": "TENNIND",
+      "company": "Tenneco Clean Air India Limited",
+      "sector": "Automobile and Auto Components",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Tenneco Clean Air India announces ₹450 million capacity expansion in Western India",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRXp5dG96RW03LWtaOVMwNUJ1eldTdGNMa0o5MzRYUzExaEh2MTRISkJqRGw3WEhaN1k4Z3J3ZDk2Nm1oc2h1ZjBDRTVMSzNDanJzNmhNSjlnNlBUdDA4WjVYSWhacHZtVmhPYnV3M1h3MUJnbTBTVWxTS0tTQnZ0dUxpMlE3elBzTXFhcmQ1amJBbDVjREZtRTBVTlBsZ3hJMWlOanFhNlZuQllTbDBXTkNPN2xtU25FME1PTnhGOWY1QQ?oc=5",
+      "source": "Business Upturn",
+      "date": "2026-11-05T06:15:39.000Z",
+      "topic": "Growth",
+      "keyword": "Capacity Expansion",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Tenneco Clean Air India expands capacity in Western India with Rs 45 crore investment.",
+      "enriched": true
+    },
+    {
+      "id": "nbef6b5edca10",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
+      "scope": [
+        "universe"
+      ],
+      "title": "Alembic Pharmaceuticals Receives USFDA Final Approval For Olopatadine In $20 Million US Market",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVmVOY2tuWWE2ZktiUVhyQTdhRW8taGNORTlIOEJPSzJkLW9faWZiSDEyaG9sdDkyUmlXWU1lcVQ5cUJ4SzVOZk1FMTlUVXVjQ0R3QVF3U0RkdFlFU3I5RXVGUDNuZ1hZcmQtUGZHZUJYSGdIZnFQX3o3VzVZcU4tZkZDNkdFNExxa3BRdThPemZxMDNJWHg1MHI2Z3pqV0RvUTRjRUp6V1A3R2h6Z0M0emJENmZMSGNmTERB?oc=5",
+      "source": "Sahi",
+      "date": "2026-11-05T04:18:06.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Alembic Pharma gets US FDA final approval for Olopatadine in $20 million market.",
+      "enriched": true
+    },
     {
       "id": "ndb1450b057cb",
       "ticker": "THEME",
@@ -320,27 +396,6 @@
       "enriched": true
     },
     {
-      "id": "ne6dd084b3258",
-      "ticker": "MENONBE",
-      "company": "Menon Bearings Limited",
-      "sector": "Automobile and Auto Components",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Menon Bearings MENONBE Q2 FY27 Earnings Call Key Highlights",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObjZBaXptTVQ3NXU5YmlZMWlrcy1HOE1oMkgzaUVFNDhCTnZTYXZETTZRN0pVNWFIc05HZThGTjUzbGVtYUZOZ2xUSGt3WDZldC0zcUlreUFqZHRTbVNOMU9xcVNDRWtDTG91TGs2NU45UnV3M1A5OERRdkZGRDFuQXFwWlNYODBHMVd0TGVpOXBzUXU5M19aWG5Dc3ZEMEpGZTZOTEhCd29PaV8waGNkeWdLbTVNQW41M25OTWcteTRKVFk?oc=5",
-      "source": "Kalkine India",
-      "date": "2026-11-03T11:10:04.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Menon Bearings Q2 FY27 earnings call highlights released.",
-      "sources_count": 4,
-      "enriched": true
-    },
-    {
       "id": "n405e76f601e3",
       "ticker": "JYOTICNC",
       "company": "Jyoti CNC Automation Limited",
@@ -496,6 +551,25 @@
       "sources_count": 2
     },
     {
+      "id": "n22cfaf90fe19",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho invests ₹399.99 crore in payments subsidiary via rights issue",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQelJWN1U0UFBjaTRUMERxZW1ob0NRUDNrTGJCLWNlS3Q3OUMxZ2lWU1VjSEx5OEhxNDI1d0RndUFnX1RaVU1ZRkFFcGRsSWg5d25iYkxhUzJDcWRhQ1NHS0VlWlFjdkVzSmtSRXpaWVJraW1lNDhBMk1PYUJlUzhFRmpQT3hYc2NQakZqby0xckhOcWQ4NFZKSFFRcW5GRW15WWNCbFpOdnV4QWxPbF9oeFkwVQ?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-11-02T08:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Rights Issue",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Meesho invests Rs 400 crore in payments subsidiary through rights issue.",
+      "enriched": true
+    },
+    {
       "id": "ne160007f1f14",
       "ticker": "BALUFORGE",
       "company": "Balu Forge Industries Limited",
@@ -570,7 +644,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Shaily Engineering Plastics exceeded revenue expectations in Q2 2026.",
-      "sources_count": 4,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -590,7 +664,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "CCI approves Devyani-Sapphire merger and Adani's Rs 3,050 crore IntelliSmart acquisition.",
-      "sources_count": 4,
+      "sources_count": 5,
       "enriched": true
     },
     {
@@ -728,7 +802,7 @@
       "mood": "neutral",
       "takeaway": "MTAR Technologies reported Q2 FY27 earnings.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "nc99e2b7e9d28",
@@ -1023,7 +1097,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Senores Pharmaceuticals announced ₹43 crore capacity expansion across its subsidiaries.",
-      "sources_count": 4,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -1085,7 +1159,7 @@
       "mood": "positive",
       "takeaway": "Vedanta Aluminium achieved record Q2 results driven by higher production output.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "n3e7a2e57184c",
@@ -1719,7 +1793,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Acutaas Chemicals completed 100% acquisition of Enchem Ami Organics.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -1837,7 +1911,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Aurionpro won a ₹150 crore order for a Navi Mumbai data centre project.",
-      "sources_count": 3,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -8998,43 +9072,60 @@
       "enriched": true
     },
     {
-      "id": "n5a919f7e38e6",
-      "ticker": "SHADOWFAX",
-      "company": "Shadowfax Technologies Limited",
-      "sector": "Services",
+      "id": "n89aa2f999243",
+      "ticker": "DHOOTTRANS",
+      "company": "Dhoot Transmission Limited",
+      "sector": "Automobile and Auto Components",
       "scope": [
-        "portfolio",
         "watchlist"
       ],
-      "title": "SHADOWFAX Q4 FY2026 Earnings: Modest Profitability Achieved as Revenue Holds Steady - Management Guidance Update",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdjk0RnZDVUh1OVdGTHpPS0FMYzFmMEZsakVxZWRwcHhWTmJEUFFKRkNfcjBPeERiN2xJcVQtRzVNZ0tUVkowQVhfRnI3ZkdkWld4c2lMSXItOEluUi1MZ1BIMzQweXhZV1hiR1JaaVhJN0dzWGhwZzJWeXJmejk4OUEzZGFIUWlrNEk1SV81V21CNG91Z2Z1V05wN3VEaEhnUnFFejJLUDZ5dFZ0UXMtMmVyQ1VJdnk5dFIzWjNnSnl5cnlV?oc=5",
-      "source": "siam.in",
-      "date": "2026-07-28T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
+      "title": "Ganesha Ecosphere shifts polyester fibre line to enhance efficiency | InvestyWise",
+      "url": "https://www.investywise.com/ganesha-ecosphere-limited-production-line-relocation/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Resignation",
+      "importance": "low",
       "mood": "positive",
-      "takeaway": "Shadowfax Technologies achieved modest profitability in Q4 FY2026 with steady revenue.",
-      "sources_count": 2,
+      "takeaway": "Ganesha Ecosphere shifts polyester fibre line to boost operational efficiency.",
       "enriched": true
     },
     {
-      "id": "n20b10b303a00",
-      "ticker": "GMMPFAUDLR",
-      "company": "GMM Pfaudler Limited",
-      "sector": "Capital Goods",
+      "id": "nf9bdb833766a",
+      "ticker": "DHOOTTRANS",
+      "company": "Dhoot Transmission Limited",
+      "sector": "Automobile and Auto Components",
       "scope": [
         "watchlist"
       ],
-      "title": "GMM Pfaudler Q1FY27 Results on Aug 5, Earnings Call Scheduled for Aug 6",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM2Q1cHN3WFBuRndSaFNQaVk4XzlZVktTbjBsaXd5dmZYNGU0TXFDZEo4dmh4NjE2V3ltbElkVFVYT2lMd0RVcmFrdFB3SmlXVDc2bVNFa3c5dnQzb1pzOGw1bkdFQmZ0ZlNWV19yZDh0ZjdzTWFEX0tDTk9fdVQtd2JUeGpZN09ZeTFOZ3N0TmNpTlZQTFIxTXMtMnVOdjNDc1A0NUxfY2NpLW9wSWVWVEI3U24yWms?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-07-28T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
+      "title": "Nova Iron and Steel expands business scope to include metal trading | InvestyWise",
+      "url": "https://www.investywise.com/nova-iron-steel-ltd-amendment-to-memorandum-of-association-approved/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Resignation",
       "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "GMM Pfaudler to announce Q1FY27 results on Aug 5, earnings call on Aug 6.",
+      "mood": "positive",
+      "takeaway": "Nova Iron and Steel expands into metal trading business.",
+      "enriched": true
+    },
+    {
+      "id": "n163615e3f4c3",
+      "ticker": "TENNIND",
+      "company": "Tenneco Clean Air India Limited",
+      "sector": "Automobile and Auto Components",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Tenneco Clean Air India Plans Rs 45 Crore Capacity Expansion | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/auto/Tenneco-Clean-Air-India-Plans-Rs-45-Crore-Capacity-Expansion/6aeb6afdc6c6dccbb9138977",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Capacity Expansion",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Tenneco Clean Air India plans Rs 45 crore capacity expansion.",
       "enriched": true
     },
     {
@@ -9251,26 +9342,6 @@
       "enriched": true
     },
     {
-      "id": "n04e7ea311e8d",
-      "ticker": "MENONBE",
-      "company": "Menon Bearings Limited",
-      "sector": "Automobile and Auto Components",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Menon Bearings targets 23% EBITDA margin next year after Q2 | Market News & Analysis",
-      "url": "https://www.multibagg.ai/market-pulse/articles/menon-bearings-margin-target-next-year-concall-cmw21qw5n00052gnqu5gbrw0m",
-      "source": "multibagg.ai",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Menon Bearings targets 23% EBITDA margin next year after Q2 results.",
-      "enriched": true
-    },
-    {
       "id": "n38be056e201e",
       "ticker": "JYOTICNC",
       "company": "Jyoti CNC Automation Limited",
@@ -9287,6 +9358,83 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Jyoti Structures secured a ₹690 crore order for transmission line work in Gujarat.",
+      "enriched": true
+    },
+    {
+      "id": "nbaef66d14fdc",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho pumps Rs 400 crore into loss-making payments arm as financial services push gathers pace- Moneycontrol.com",
+      "url": "https://www.moneycontrol.com/news/business/meesho-pumps-rs-400-crore-into-loss-making-payments-arm-as-financial-services-push-gathers-pace-14067419.html",
+      "source": "moneycontrol.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Rights Issue",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Meesho invests Rs 400 crore into its payments unit to expand financial services.",
+      "enriched": true,
+      "sources_count": 2
+    },
+    {
+      "id": "n002827641072",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho Q1 FY27: Revenue Up 48%, Net Loss Narrows to Rs 133 Crore | Kalkine India",
+      "url": "https://www.kalkine.co.in/article/growth/meesho-nse-meesho-revenue-jumps-48-and-losses-halve-as-the-marketplace-heads-into-its-biggest-festive-sale",
+      "source": "kalkine.co.in",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Meesho Q1 revenue grew 48% while losses narrowed to Rs 133 crore, showing improved financial performance.",
+      "enriched": true
+    },
+    {
+      "id": "n90b93d291992",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho flags higher festive and tech costs in Q2 as margins improve | Company Business News",
+      "url": "https://www.livemint.com/companies/company-results/meesho-flags-higher-festive-and-tech-costs-in-q2-as-margins-improve-11793199216905.html",
+      "source": "livemint.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Acquisition",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Meesho reported higher festive and tech costs in Q2 while margins improved.",
+      "enriched": true
+    },
+    {
+      "id": "nd96ceac50ff2",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho Q2 FY27: Growth momentum continues as operating losses narrow- Moneycontrol.com",
+      "url": "https://www.moneycontrol.com/news/business/moneycontrol-research/meesho-q2-fy27-growth-momentum-continues-as-operating-losses-narrow-14064103.html",
+      "source": "moneycontrol.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Meesho's Q2 FY27 shows continued growth with narrowing operating losses.",
       "enriched": true
     },
     {
@@ -9578,83 +9726,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Senores Pharma approved ₹43 crore expansion plan for its subsidiary to grow capacity.",
-      "enriched": true
-    },
-    {
-      "id": "nbaef66d14fdc",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Meesho pumps Rs 400 crore into loss-making payments arm as financial services push gathers pace- Moneycontrol.com",
-      "url": "https://www.moneycontrol.com/news/business/meesho-pumps-rs-400-crore-into-loss-making-payments-arm-as-financial-services-push-gathers-pace-14067419.html",
-      "source": "moneycontrol.com",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Rights Issue",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Meesho invests Rs 400 crore into its payments unit to expand financial services.",
-      "enriched": true,
-      "sources_count": 2
-    },
-    {
-      "id": "n002827641072",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Meesho Q1 FY27: Revenue Up 48%, Net Loss Narrows to Rs 133 Crore | Kalkine India",
-      "url": "https://www.kalkine.co.in/article/growth/meesho-nse-meesho-revenue-jumps-48-and-losses-halve-as-the-marketplace-heads-into-its-biggest-festive-sale",
-      "source": "kalkine.co.in",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Meesho Q1 revenue grew 48% while losses narrowed to Rs 133 crore, showing improved financial performance.",
-      "enriched": true
-    },
-    {
-      "id": "n90b93d291992",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Meesho flags higher festive and tech costs in Q2 as margins improve | Company Business News",
-      "url": "https://www.livemint.com/companies/company-results/meesho-flags-higher-festive-and-tech-costs-in-q2-as-margins-improve-11793199216905.html",
-      "source": "livemint.com",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Acquisition",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Meesho reported higher festive and tech costs in Q2 while margins improved.",
-      "enriched": true
-    },
-    {
-      "id": "nd96ceac50ff2",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Meesho Q2 FY27: Growth momentum continues as operating losses narrow- Moneycontrol.com",
-      "url": "https://www.moneycontrol.com/news/business/moneycontrol-research/meesho-q2-fy27-growth-momentum-continues-as-operating-losses-narrow-14064103.html",
-      "source": "moneycontrol.com",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Meesho's Q2 FY27 shows continued growth with narrowing operating losses.",
       "enriched": true
     },
     {
@@ -10022,26 +10093,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Standard Engineering gets exchange approval to raise Rs 71 crore through preferential share issue.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n463b35561bb6",
-      "ticker": "GOLDIAM",
-      "company": "Goldiam International Limited",
-      "sector": "Consumer Durables",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Goldiam International GOLDIAM Post-Result Earnings Call Nov 2026 | Kalkine India",
-      "url": "https://www.kalkine.co.in/article/announcements/goldiam-international-nsegoldiam-what-is-the-post-result-conference-call-scheduled-for-november-2026",
-      "source": "kalkine.co.in",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Goldiam International holds post-result earnings call for November 2024 quarter.",
       "sources_count": 2,
       "enriched": true
     },
@@ -11015,6 +11066,26 @@
       "enriched": true
     },
     {
+      "id": "n04e7ea311e8d",
+      "ticker": "MENONBE",
+      "company": "Menon Bearings Limited",
+      "sector": "Automobile and Auto Components",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Menon Bearings targets 23% EBITDA margin next year after Q2 | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/menon-bearings-margin-target-next-year-concall-cmw21qw5n00052gnqu5gbrw0m",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Menon Bearings targets 23% EBITDA margin next year after Q2 results.",
+      "enriched": true
+    },
+    {
       "id": "na97546bc0b37",
       "ticker": "MONOLITH",
       "company": "Monolithisch India Limited",
@@ -11074,6 +11145,26 @@
       "enriched": true
     },
     {
+      "id": "nfa2014ab6be7",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "KFC, Pizza Hut Franchise Operations To Come Under One Roof As Sapphire-Devyani Merger Gets CCI Nod",
+      "url": "https://www.ndtvprofit.com/business/kfc-pizza-hut-franchise-operations-to-come-under-one-roof-as-sapphire-devyani-merger-gets-cci-nod-12259660",
+      "source": "ndtvprofit.com",
+      "date": "",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Sapphire-Devyani merger gets competition regulator approval, consolidating KFC and Pizza Hut franchise operations.",
+      "enriched": true,
+      "sources_count": 4
+    },
+    {
       "id": "n4ea5b5c8c08d",
       "ticker": "MENONBE",
       "company": "Menon Bearings Limited",
@@ -11112,26 +11203,6 @@
       "mood": "positive",
       "takeaway": "Menon Bearings plans Rs 34.5 crore capex with 37% of revenue from exports.",
       "enriched": true
-    },
-    {
-      "id": "nfa2014ab6be7",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "KFC, Pizza Hut Franchise Operations To Come Under One Roof As Sapphire-Devyani Merger Gets CCI Nod",
-      "url": "https://www.ndtvprofit.com/business/kfc-pizza-hut-franchise-operations-to-come-under-one-roof-as-sapphire-devyani-merger-gets-cci-nod-12259660",
-      "source": "ndtvprofit.com",
-      "date": "",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Sapphire-Devyani merger gets competition regulator approval, consolidating KFC and Pizza Hut franchise operations.",
-      "enriched": true,
-      "sources_count": 5
     },
     {
       "id": "ndd1352b9776b",
@@ -11696,44 +11767,6 @@
       "enriched": true
     },
     {
-      "id": "n89aa2f999243",
-      "ticker": "DHOOTTRANS",
-      "company": "Dhoot Transmission Limited",
-      "sector": "Automobile and Auto Components",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Ganesha Ecosphere shifts polyester fibre line to enhance efficiency | InvestyWise",
-      "url": "https://www.investywise.com/ganesha-ecosphere-limited-production-line-relocation/",
-      "source": "investywise.com",
-      "date": "",
-      "topic": "Growth",
-      "keyword": "Resignation",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Ganesha Ecosphere shifts polyester fibre line to boost operational efficiency.",
-      "enriched": true
-    },
-    {
-      "id": "nf9bdb833766a",
-      "ticker": "DHOOTTRANS",
-      "company": "Dhoot Transmission Limited",
-      "sector": "Automobile and Auto Components",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Nova Iron and Steel expands business scope to include metal trading | InvestyWise",
-      "url": "https://www.investywise.com/nova-iron-steel-ltd-amendment-to-memorandum-of-association-approved/",
-      "source": "investywise.com",
-      "date": "",
-      "topic": "Growth",
-      "keyword": "Resignation",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Nova Iron and Steel expands into metal trading business.",
-      "enriched": true
-    },
-    {
       "id": "n022f566bfb00",
       "ticker": "DHOOTTRANS",
       "company": "Dhoot Transmission Limited",
@@ -11866,25 +11899,6 @@
       "mood": "negative",
       "takeaway": "Tenneco Clean Air India faces Rs 372 crore stamp duty penalty order.",
       "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n163615e3f4c3",
-      "ticker": "TENNIND",
-      "company": "Tenneco Clean Air India Limited",
-      "sector": "Automobile and Auto Components",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Tenneco Clean Air India Plans Rs 45 Crore Capacity Expansion | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/English/auto/Tenneco-Clean-Air-India-Plans-Rs-45-Crore-Capacity-Expansion/6aeb6afdc6c6dccbb9138977",
-      "source": "whalesbook.com",
-      "date": "",
-      "topic": "Growth",
-      "keyword": "Capacity Expansion",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Tenneco Clean Air India plans Rs 45 crore capacity expansion.",
       "enriched": true
     }
   ]
