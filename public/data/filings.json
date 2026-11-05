@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T09:58:57.678Z",
+  "generated_at": "2026-11-05T21:18:55.855Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,506 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f5c42be9e28b7",
+      "ticker": "ADVAIT",
+      "company": "Advait Energy Transitions Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T23:24:40.000Z",
+      "category": "Investor Presentation",
+      "title": "Advait Energy Transitions Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/ADVAITENERGY_05112026232429_AETL_Transcript_SE_s.pdf"
+    },
+    {
+      "id": "f6576124e8a74",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T23:12:47.000Z",
+      "category": "ESOP/ESOS/ESPS",
+      "title": "Zen Technologies Limited has informed the Exchange regarding Exercise of 6375 Options.",
+      "url": "https://nsearchives.nseindia.com/corporate/ZENTEC_05112026231055_SEIntimationEsop_6375_Shares_Signed.pdf"
+    },
+    {
+      "id": "f5b913d274a1b",
+      "ticker": "SAILIFE",
+      "company": "Sai Life Sciences Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T23:05:57.000Z",
+      "category": "ESOP/ESOS/ESPS",
+      "title": "Sai Life Sciences Limited has informed the Exchange regarding Allotment of 108005 Shares.",
+      "url": "https://nsearchives.nseindia.com/corporate/SAILIFE_05112026230549_Stx_Outcome_of_BM_05112026_Signed.pdf"
+    },
+    {
+      "id": "fe40034717da6",
+      "ticker": "SAILIFE",
+      "company": "Sai Life Sciences Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T23:00:03.000Z",
+      "category": "Change in Directors",
+      "title": "Sai Life Sciences Limited has informed the Exchange about change in Management",
+      "url": "https://nsearchives.nseindia.com/corporate/SAILIFE_05112026225952_Stx_Outcome_of_BM_05112026_Signed.pdf"
+    },
+    {
+      "id": "f96a3cc23b742",
+      "ticker": "SAILIFE",
+      "company": "Sai Life Sciences Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T22:57:35.000Z",
+      "category": "Board Meeting",
+      "title": "Sai Life Sciences Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/SAILIFE_05112026225725_Stx_Outcome_of_BM_05112026_Signed.pdf"
+    },
+    {
+      "id": "fd0c6c7d8d769",
+      "ticker": "RUBICON",
+      "company": "Rubicon Research Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T22:25:45.000Z",
+      "category": "Disclosure",
+      "title": "Rubicon Research Limited has informed the Exchange about Audio Recording of the Earnings call held for Q2 ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/9823522970_05112026222514_RRLSEIntimationAudioRecording05Nov2026.pdf"
+    },
+    {
+      "id": "f1248140d8e64",
+      "ticker": "IKS",
+      "company": "Inventurus Knowledge Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T22:24:13.000Z",
+      "category": "Investor Presentation",
+      "title": "Inventurus Knowledge Solutions Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/IKS2006_05112026222358_20261105InvestorPresentationSEupload.pdf"
+    },
+    {
+      "id": "ff7bc085dfc34",
+      "ticker": "IKS",
+      "company": "Inventurus Knowledge Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T22:16:06.000Z",
+      "category": "Press Release",
+      "title": "Inventurus Knowledge Solutions Limited has informed the Exchange regarding a press release dated November 05, 2026, titled \"IKS Health s Q2 FY27 Earnings Reflect Strong Momentum with 104 % Revenue and 62.5% EBITDA YoY Growth.\"",
+      "url": "https://nsearchives.nseindia.com/corporate/IKS2006_05112026221504_20261105PressReleaseSEUpload.pdf"
+    },
+    {
+      "id": "f7ff8f39243ce",
+      "ticker": "IKS",
+      "company": "Inventurus Knowledge Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T21:49:50.000Z",
+      "category": "Board Meeting",
+      "title": "Inventurus Knowledge Solutions Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/IKS2006_05112026214823_Outcome-05112026SEupload.pdf"
+    },
+    {
+      "id": "f9345afe18adb",
+      "ticker": "SHIPROCKET",
+      "company": "Shiprocket Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T21:10:58.000Z",
+      "category": "Investor Presentation",
+      "title": "Shiprocket Limited has informed the Exchange about Audio Recording of Earnings Call with respect to Financial Results for the quarter andhalf year ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/SHIPROCKET2011_05112026210413_Investor_Meet_Audio_Recording.pdf"
+    },
+    {
+      "id": "ffe63e1e558b4",
+      "ticker": "GROWW",
+      "company": "Billionbrains Garage Ventures Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T20:46:58.000Z",
+      "category": "ESOP/ESOS/ESPS",
+      "title": "Billionbrains Garage Ventures Limited has informed the Exchange regarding Grant of 2163086 Options under Billionbrains Garage Ventures Limited Employee Stock Option Scheme 2024.",
+      "url": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_05112026204649_ESOP_Grant.pdf"
+    },
+    {
+      "id": "ff4478b3cab32",
+      "ticker": "SETL",
+      "company": "Standard Engineering Technology Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T20:36:44.000Z",
+      "category": "Investor Presentation",
+      "title": "Standard Engineering Technology Limited has informed the Exchange about",
+      "url": "https://nsearchives.nseindia.com/corporate/SGLTPL_05112026203546_Investor_meet_Outcome_f.pdf"
+    },
+    {
+      "id": "f93919298bcb4",
+      "ticker": "TONBO",
+      "company": "Tonbo Imaging India Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T20:22:49.000Z",
+      "category": "Investor Presentation",
+      "title": "Investor Presentation for Analyst/Investor Meet to be held on November 6, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/TONBO_05112026202237_Investor_Presentation_Executed.pdf"
+    },
+    {
+      "id": "fc424eb88d6e8",
+      "ticker": "SONATSOFTW",
+      "company": "Sonata Software Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T20:19:28.000Z",
+      "category": "Dividend",
+      "title": "Sonata Software Limited has informed the Exchange that the Board at its meeting held today i.e. 5th November, 2026 have declared Second Interim Dividend of Rs. 1.25 per share for FY 2026-27.",
+      "url": "https://nsearchives.nseindia.com/corporate/SONATSOFTW_05112026201849_outcomeofbmsefiling.pdf"
+    },
+    {
+      "id": "fbed9eb12c9db",
+      "ticker": "PDSL",
+      "company": "PDS Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T20:19:10.000Z",
+      "category": "Investor Presentation",
+      "title": "PDS Limited has informed the Exchange about Link of Recording",
+      "url": "https://nsearchives.nseindia.com/corporate/PDSL_05112026201851_Ltr_IntimationofConCallAudio_05112026.pdf"
+    },
+    {
+      "id": "f959db921cd95",
+      "ticker": "TONBO",
+      "company": "Tonbo Imaging India Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T20:17:04.000Z",
+      "category": "Press Release",
+      "title": "Tonbo Imaging India Limited has informed the Exchange regarding a press release dated November 05, 2026 on the Unaudited Financial Results for the quarter and half year ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/TONBO_05112026201648_Press_Release_FR_Exe.pdf"
+    },
+    {
+      "id": "fd13500331182",
+      "ticker": "SONATSOFTW",
+      "company": "Sonata Software Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T20:00:31.000Z",
+      "category": "Record Date",
+      "title": "Sonata Software Limited has informed the Exchange that the Board at its meeting held today i.e. 5th November, 2026 has fixed Wednesday, 11th November, 2026 as record date for the purpose of payment of Second Interim Dividend.",
+      "url": "https://nsearchives.nseindia.com/corporate/SONATSOFTW_05112026195807_outcomeofbmsefiling.pdf"
+    },
+    {
+      "id": "f5760bffe6fad",
+      "ticker": "SONATSOFTW",
+      "company": "Sonata Software Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T19:45:53.000Z",
+      "category": "Board Meeting",
+      "title": "Sonata Software Limited has submitted to the Exchange, the outcome of Board Meeting for the second quarter and half year ended 30th September, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/SONATSOFTW_05112026194500_outcomeofbmsefiling.pdf"
+    },
+    {
+      "id": "f9029aeb21655",
+      "ticker": "RUBICON",
+      "company": "Rubicon Research Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T19:09:02.000Z",
+      "category": "Monitoring Agency Report",
+      "title": "Revised Monitoring Agency Report for the quarter ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/9823522970_05112026190742_RRLSEIntimationMARrevised05Nov2026.pdf"
+    },
+    {
+      "id": "f6f71c390999c",
+      "ticker": "MOBIKWIK",
+      "company": "One Mobikwik Systems Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T19:05:59.000Z",
+      "category": "Investor Presentation",
+      "title": "One Mobikwik Systems Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/MOBIKWIK_05112026190539_Intimation_Transcript_of_the_Earnings_Call.pdf"
+    },
+    {
+      "id": "fea5796176597",
+      "ticker": "SETL",
+      "company": "Standard Engineering Technology Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T18:21:47.000Z",
+      "category": "Monitoring Agency Report",
+      "title": "Monitoring Agency Report for the Quarter and Half Yearly ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/SGLTPL_05112026182138_MA_Report_for_SETL_Q2_FY2026.pdf"
+    },
+    {
+      "id": "fce94519fa9d5",
+      "ticker": "QUALIANCE",
+      "company": "Qualiance International Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T18:13:45.000Z",
+      "category": "Investor Presentation",
+      "title": "Qualiance International Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/QUALIANCE_05112026181315_Coverin_Letter_and_Transcript_-_05-11-2026_-_S.pdf"
+    },
+    {
+      "id": "f678403e23064",
+      "ticker": "ORIENTCABL",
+      "company": "Orient Cables (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T18:10:59.000Z",
+      "category": "Investor Presentation",
+      "title": "Orient Cables (India) Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/ORIENTCABLES_05112026180421_Stx_Ltr_Investor_Meet_Inti_Signed.pdf"
+    },
+    {
+      "id": "f512354fc1712",
+      "ticker": "OMNI",
+      "company": "Omnitech Engineering Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T18:10:34.000Z",
+      "category": "Investor Presentation",
+      "title": "Omnitech Engineering Limited has informed the Exchange about Link of Recording",
+      "url": "https://nsearchives.nseindia.com/corporate/OMNITECHENG_05112026180956_Audio_recording_of_Earnings_Conference_Call.pdf"
+    },
+    {
+      "id": "f2a94545561d5",
+      "ticker": "CONCORDBIO",
+      "company": "Concord Biotech Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T18:10:10.000Z",
+      "category": "Disclosure",
+      "title": "Intimation of allotment of Bonus equity shares",
+      "url": "https://nsearchives.nseindia.com/corporate/CONCORD_05112026180857_Concord_Intimation_of_Allotment.pdf"
+    },
+    {
+      "id": "f77fa87b56793",
+      "ticker": "JUBLCPL",
+      "company": "Jubilant Agri and Consumer Products Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T18:05:22.000Z",
+      "category": "Disclosure",
+      "title": "Jubilant Agri and Consumer Products Limited has informed the Exchange regarding 'Investor Presentation for the Quarter and Half Year ended September 30, 2026'.",
+      "url": "https://nsearchives.nseindia.com/corporate/JACPL_05112026180511_InvestorPresentationSept302026Signed.pdf"
+    },
+    {
+      "id": "f84b28487c03f",
+      "ticker": "TENNIND",
+      "company": "Tenneco Clean Air India Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T18:02:03.000Z",
+      "category": "Investor Presentation",
+      "title": "Tenneco Clean Air India Limited has informed the Exchange about Link of Recording",
+      "url": "https://nsearchives.nseindia.com/corporate/TENNECO_05112026175402_AudioRecordingIntimation_Q2FY27_Signed.pdf"
+    },
+    {
+      "id": "f32fd8e3bc123",
+      "ticker": "JUBLCPL",
+      "company": "Jubilant Agri and Consumer Products Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T17:53:25.000Z",
+      "category": "Board Meeting",
+      "title": "JUBLCPL: Jubilant Agri and Consumer Products Limited has submitted to the Exchange, the Un-audited Standalone and Consolidated Financial Results for the Quarter and Half Year ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/JACPL_05112026175114_JACPL_FR_SEPT302026_Signed.pdf"
+    },
+    {
+      "id": "f40275574a70b",
+      "ticker": "SBCL",
+      "company": "Shivalik Bimetal Controls Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T17:51:16.000Z",
+      "category": "Newspaper Publication",
+      "title": "Shivalik Bimetal Controls Limited has informed the Exchange about Copy of Newspaper Publication of Un-audited Financial Results for the Quarter and Half year ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/SBCL_05112026175048_publication.pdf"
+    },
+    {
+      "id": "f9d6b13c6a3ef",
+      "ticker": "TEMPSENS",
+      "company": "Tempsens Instruments (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T17:19:43.000Z",
+      "category": "Shareholders meeting",
+      "title": "Tempsens Instruments (India) Limited has informed the Exchange regarding Notice of Postal Ballot",
+      "url": "https://nsearchives.nseindia.com/corporate/TEMPSENS_05112026171929_Postal_Ballot.pdf"
+    },
+    {
+      "id": "f3088736784f1",
+      "ticker": "RUBICON",
+      "company": "Rubicon Research Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T17:17:29.000Z",
+      "category": "Monitoring Agency Report",
+      "title": "Monitoring Agency Report for the quarter ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/9823522970_05112026171620_RRLSEIntimationMAR05Nov2026.pdf"
+    },
+    {
+      "id": "f4af2efe338ca",
+      "ticker": "DIXON",
+      "company": "Dixon Technologies (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T17:16:41.000Z",
+      "category": "Allotment of Securities",
+      "title": "Dixon Technologies (India) Limited has informed the Exchange regarding allotment of 37750 securities pursuant to ESOP/ESPS at its meeting held on November 05, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/DIXON_05112026171618_Reg30ESOPAllotmentNov.pdf"
+    },
+    {
+      "id": "f81a4f05855ec",
+      "ticker": "GMMPFAUDLR",
+      "company": "GMM Pfaudler Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T17:05:35.000Z",
+      "category": "Investor Presentation",
+      "title": "GMM Pfaudler Limited has informed the Exchange about Link of Recording",
+      "url": "https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_05112026165700_Earnings_Conference_Call.pdf"
+    },
+    {
+      "id": "f612706fb4e10",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T17:05:33.000Z",
+      "category": "Investor Presentation",
+      "title": "Zen Technologies Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/ZENTEC_05112026170334_SECLTr30092026.pdf"
+    },
+    {
+      "id": "fdb8030f2adc0",
+      "ticker": "EMAPARTNER",
+      "company": "EMA Partners India Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T17:00:20.000Z",
+      "category": "Investor Presentation",
+      "title": "EMA Partners India Limited has informed the Exchange about Link of Recording of Investor call held on November 05, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/EMAIN_05112026170009_Covering__earnings_call_audio.pdf"
+    },
+    {
+      "id": "f540ae0ba316e",
+      "ticker": "GMMPFAUDLR",
+      "company": "GMM Pfaudler Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T16:47:36.000Z",
+      "category": "Newspaper Publication",
+      "title": "GMM Pfaudler Limited has informed the Exchange about Copy of Newspaper Publication of Unaudited Financial Results for the quarter and half year ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_05112026164635_NewspaperPublication_ocred.pdf"
+    },
+    {
+      "id": "fd29b04da2c83",
+      "ticker": "DIXON",
+      "company": "Dixon Technologies (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T16:36:21.000Z",
+      "category": "Investor Presentation",
+      "title": "Dixon Technologies (India) Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/DIXON_05112026163605_EarningCallTranscriptQ2Intimation.pdf"
+    },
+    {
+      "id": "fe6e191bc78cf",
+      "ticker": "SENORES",
+      "company": "Senores Pharmaceuticals Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T16:35:34.000Z",
+      "category": "Investor Presentation",
+      "title": "Senores Pharmaceuticals Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/SENORES_05112026163521_Intimationoftranscriptofcallsigned.pdf"
+    },
+    {
+      "id": "fe3725bc79e4d",
+      "ticker": "LUMINO",
+      "company": "Lumino Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T16:19:31.000Z",
+      "category": "Investor Presentation",
+      "title": "Lumino Industries Limited has informed the Exchange about Link of Recording",
+      "url": "https://nsearchives.nseindia.com/corporate/LUMINO123_05112026161542_Submission_of_Audio_Recording.pdf"
+    },
+    {
+      "id": "f9aadc6d0e9e0",
+      "ticker": "APTUS",
+      "company": "Aptus Value Housing Finance India Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T16:15:04.000Z",
+      "category": "Newspaper Publication",
+      "title": "Aptus Value Housing Finance India Limited has informed the Exchange about Copy of Newspaper Publication",
+      "url": "https://nsearchives.nseindia.com/corporate/APTUS_05112026161454_Aptus_Value_Newspaper_Publication_covering_letter_Q2_2027_sd.pdf"
+    },
+    {
+      "id": "f51ed23c9cb1b",
+      "ticker": "XPROINDIA",
+      "company": "Xpro India Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T16:12:18.000Z",
+      "category": "Newspaper Publication",
+      "title": "Xpro India Limited has informed the Exchange about Copy of Newspaper advertisement for E-mail ID registration.",
+      "url": "https://nsearchives.nseindia.com/corporate/XPROINDIASKD_05112026161152_SE_English_Bengali_signed.pdf"
+    },
+    {
+      "id": "fb41dd29fbd7b",
+      "ticker": "SBIFUNDS",
+      "company": "SBI Funds Management Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T16:08:06.000Z",
+      "category": "Shareholders meeting",
+      "title": "SBI Funds Management Limited has informed the Exchange regarding Notice of Postal Ballot",
+      "url": "https://nsearchives.nseindia.com/corporate/SBIMF2026_05112026160748_Intimation_Postal_Ballot_Signed.pdf"
+    },
+    {
+      "id": "f69a298c87ee7",
+      "ticker": "VENUSREM",
+      "company": "Venus Remedies Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T16:07:15.000Z",
+      "category": "Disclosure",
+      "title": "Venus Remedies Limited has informed the Exchange regarding 'Social Media Communication regarding special window for re-lodgement of transfer requests of physical shares of Venus Remedies Limited'.",
+      "url": "https://nsearchives.nseindia.com/corporate/VENUSREM_05112026160617_social_media_phytransfer_Nov26.pdf"
+    },
+    {
+      "id": "f02febea25117",
+      "ticker": "RUBICON",
+      "company": "Rubicon Research Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T16:06:26.000Z",
+      "category": "Board Meeting",
+      "title": "Rubicon Research Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/9823522970_05112026160314_RRLSEIntimationOutcomeBM05Nov2026.pdf"
+    },
+    {
+      "id": "f9ed3786c8b92",
+      "ticker": "DEVYANI",
+      "company": "Devyani International Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T16:03:56.000Z",
+      "category": "Investor Presentation",
+      "title": "Devyani International Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/DEVYANI_05112026160318_DIL_Transcript_intimation_merged.pdf"
+    },
+    {
+      "id": "f92d43964da05",
+      "ticker": "HARIOMPIPE",
+      "company": "Hariom Pipe Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T16:00:01.000Z",
+      "category": "Newspaper Publication",
+      "title": "Hariom Pipe Industries Limited has informed the Exchange about Copy of Newspaper Publication",
+      "url": "https://nsearchives.nseindia.com/corporate/hariompipes_05112026155630_Newspaper_Advertisement_04-11-2026.pdf"
+    },
+    {
+      "id": "fe476bac53681",
+      "ticker": "HARIOMPIPE",
+      "company": "Hariom Pipe Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T15:51:29.000Z",
+      "category": "Investor Presentation",
+      "title": "Hariom Pipe Industries Limited has informed the Exchange about Link of Recording",
+      "url": "https://nsearchives.nseindia.com/corporate/hariompipes_05112026153703_SE_Outcome_Conference_Call_05112026_Signed.pdf"
+    },
+    {
+      "id": "f2d0c7f616446",
+      "ticker": "SHIPROCKET",
+      "company": "Shiprocket Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T15:46:31.000Z",
+      "category": "Allotment of Securities",
+      "title": "Shiprocket Limited has informed the Exchange about Grant of Stock Options under Shiprocket Employees Stock Option Scheme 2016 (\"ESOP 2016\")",
+      "url": "https://nsearchives.nseindia.com/corporate/SHIPROCKET2011_05112026154240_SE_Intimation_-_ESOP_Grant_-_05112026.pdf"
+    },
+    {
+      "id": "f963bea9977c1",
+      "ticker": "GULFOILLUB",
+      "company": "Gulf Oil Lubricants India Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T15:40:07.000Z",
+      "category": "Investor Presentation",
+      "title": "We enclose herewith the transcript of the Earnings Conference Call held on October 30, 2026 with Investors in connection with the Unaudited Financial Results (Standalone and Consolidated) for the second quarter and half year ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/GULFOILLUB_05112026153944_Transcript05102026.pdf"
+    },
+    {
+      "id": "fbe2115279098",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T15:34:46.000Z",
+      "category": "Investor Presentation",
+      "title": "Aurionpro Solutions Limited has informed the Exchange about Transcript of Earnings call held on November 02, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/AURIONPRO_05112026153420_ASL_Earnings_Call_Transcript_sd.pdf"
+    },
     {
       "id": "f1a36b28fea97",
       "ticker": "PDSL",
@@ -718,6 +1218,16 @@
       "url": "https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_04112026184354_InvestorPresentationrevised.pdf"
     },
     {
+      "id": "fece42c2ab5e4",
+      "ticker": "LGEINDIA",
+      "company": "LG Electronics India Limited",
+      "exchange": "NSE",
+      "date": "2026-11-04T18:33:35.000Z",
+      "category": "Investor Presentation",
+      "title": "LG Electronics India Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/LGEINDIA_04112026183312_Schedule_of_Analyst_Meet_dated_November_2026.pdf"
+    },
+    {
       "id": "fe2890d35a1f6",
       "ticker": "SAREGAMA",
       "company": "Saregama India Limited",
@@ -988,6 +1498,16 @@
       "url": "https://nsearchives.nseindia.com/corporate/SBCL_04112026160746_Final_presenataion.pdf"
     },
     {
+      "id": "fbade91501812",
+      "ticker": "LAXMIDENTL",
+      "company": "Laxmi Dental Limited",
+      "exchange": "NSE",
+      "date": "2026-11-04T16:07:10.000Z",
+      "category": "Investor Presentation",
+      "title": "Laxmi Dental Limited has informed the Exchange about Link of Recording",
+      "url": "https://nsearchives.nseindia.com/corporate/LAXMI_04112026160624_Regulation30Earnings.pdf"
+    },
+    {
       "id": "fdea455db061e",
       "ticker": "VBL",
       "company": "Varun Beverages Limited",
@@ -1026,6 +1546,16 @@
       "category": "Disclosure",
       "title": "Lenskart Solutions Limited has informed the Exchange about Change in registered office of the Company from Plot No. 151, Okhla Industrial Estate, Phase III, New Delhi 110020 to 6 Worldmark, 8th Floor, Gateway District, Delhi Aerocity, New Delhi 110037 , within local limits of Delhi, with effect from November 4, 2026.",
       "url": "https://nsearchives.nseindia.com/corporate/LENSKART_04112026155238_Outcome_Intimation_-_BM_dated_04112026.pdf"
+    },
+    {
+      "id": "f84d2e78165ce",
+      "ticker": "LENSKART",
+      "company": "Lenskart Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-11-04T15:45:06.000Z",
+      "category": "Disclosure",
+      "title": "Lenskart Solutions Limited has informed the Exchange about the allotment of equity shares to the eligible employees, upon exercise of vested options granted under Lenskart Employee Stock Option Plan, 2021",
+      "url": "https://nsearchives.nseindia.com/corporate/LENSKART_04112026154447_Outcome_Intimation_-_BM_dated_04112026.pdf"
     },
     {
       "id": "fcdcd633fe1a9",
@@ -5628,6 +6158,16 @@
       "url": "https://nsearchives.nseindia.com/corporate/URBANCO_21102026210408_Investor_Meeting_SE_Intimation_21102026.pdf"
     },
     {
+      "id": "f16b3bec8f5dd",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "exchange": "NSE",
+      "date": "2026-10-21T20:31:42.000Z",
+      "category": "Investor Presentation",
+      "title": "Meesho Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_21102026203115_MLBMECQ228Oct2026.pdf"
+    },
+    {
       "id": "fa735391de79e",
       "ticker": "LAXMIDENTL",
       "company": "Laxmi Dental Limited",
@@ -7296,6 +7836,16 @@
       "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
       "title": "Virtuoso Optoelectronics Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
       "url": "https://nsearchives.nseindia.com/corporate/VIRTUOSO_11102026104059_Final_Reg_74_.pdf"
+    },
+    {
+      "id": "f2ff8a98f2483",
+      "ticker": "LENSKART",
+      "company": "Lenskart Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-10-11T00:05:28.000Z",
+      "category": "Allotment of Securities",
+      "title": "Lenskart Solutions Limited has informed the Exchange about the grant of stock options pursuant to approval of Nomination and Remuneration Committee",
+      "url": "https://nsearchives.nseindia.com/corporate/LENSKART_11102026000506_Intimation_Grant_of_Options_10102026_signed.pdf"
     },
     {
       "id": "fb15a5455d2e4",
@@ -11346,6 +11896,16 @@
       "category": "Trading Window",
       "title": "LG Electronics India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
       "url": "https://nsearchives.nseindia.com/corporate/LGEINDIA_23092026161508_Closure_of_Trading_Window.pdf"
+    },
+    {
+      "id": "f12f66ef1ea8d",
+      "ticker": "SHADOWFAX",
+      "company": "Shadowfax Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-09-23T16:11:09.000Z",
+      "category": "Investor Presentation",
+      "title": "Shadowfax Technologies Limited has informed the Exchange about Schedule of Investors Conference / Analyst Meet",
+      "url": "https://nsearchives.nseindia.com/corporate/9900590024_23092026161051_Analyst_Meet.pdf"
     },
     {
       "id": "f5b38e082c086",
@@ -19446,566 +20006,6 @@
       "category": "Board Meeting",
       "title": "Rubicon Research Limited has submitted to the Exchange, the financial results for the quarter ended Jun 30, 2026.",
       "url": "https://nsearchives.nseindia.com/corporate/9823522970_14082026165300_RRLSEIntimationOutcomeUFR14Aug2026.pdf"
-    },
-    {
-      "id": "fcb827a9f0451",
-      "ticker": "SONACOMS",
-      "company": "Sona BLW Precision Forgings Limited",
-      "exchange": "NSE",
-      "date": "2026-08-14T16:42:35.000Z",
-      "category": "Disclosure",
-      "title": "Sona Blw Precision Forgings Limited has informed the Exchange regarding 'Allotment of equity shares under ESOP Plan 2023'.",
-      "url": "https://nsearchives.nseindia.com/corporate/SONACOMS_14082026164134_NRC_Outcome.pdf"
-    },
-    {
-      "id": "fdf518af1eac7",
-      "ticker": "BALUFORGE",
-      "company": "Balu Forge Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-08-14T16:28:54.000Z",
-      "category": "Monitoring Agency Report",
-      "title": "Please find enclosed Monitoring Agency Report for the Quarter ended June 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/BALUFORGE_14082026162841_Monitoring.pdf"
-    },
-    {
-      "id": "f2c02d6abe050",
-      "ticker": "BALUFORGE",
-      "company": "Balu Forge Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-08-14T16:24:24.000Z",
-      "category": "Statement of deviation(s) or variation(s) under Reg. 32",
-      "title": "Balu Forge Industries Limited has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32",
-      "url": "https://nsearchives.nseindia.com/corporate/BALUFORGE_14082026162406_Submission.pdf"
-    },
-    {
-      "id": "fff896f048e22",
-      "ticker": "DAMCAPITAL",
-      "company": "Dam Capital Advisors Limited",
-      "exchange": "NSE",
-      "date": "2026-08-14T16:20:30.000Z",
-      "category": "Newspaper Publication",
-      "title": "Dam Capital Advisors Limited has informed the Exchange about Copy of Newspaper Publication",
-      "url": "https://nsearchives.nseindia.com/corporate/DAMCAPITAL_14082026161958_Intimation_of_Newspaper_After_Dispatch_of_Notice_signed.pdf"
-    },
-    {
-      "id": "f525d44a1f2a5",
-      "ticker": "JYOTICNC",
-      "company": "Jyoti CNC Automation Limited",
-      "exchange": "NSE",
-      "date": "2026-08-14T15:42:16.000Z",
-      "category": "Investor Presentation",
-      "title": "Jyoti CNC Automation Limited has informed the Exchange about Transcript",
-      "url": "https://nsearchives.nseindia.com/corporate/JYOTICNC_NSE_14082026154204_BSEnseJCALIntimationTranscriptQ1June2026.pdf"
-    },
-    {
-      "id": "f8bdacf1bb2e6",
-      "ticker": "SAREGAMA",
-      "company": "Saregama India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-14T15:37:55.000Z",
-      "category": "Newspaper Publication",
-      "title": "Saregama India Limited has informed the Exchange about Copy of Newspaper Publication",
-      "url": "https://nsearchives.nseindia.com/corporate/SAREGAMA_14082026153709_Intimation_NP_Pre-dispatch.pdf"
-    },
-    {
-      "id": "fdd2d2ae5f1d4",
-      "ticker": "RPSGVENT",
-      "company": "RPSG VENTURES LIMITED",
-      "exchange": "NSE",
-      "date": "2026-08-14T14:59:38.000Z",
-      "category": "Newspaper Publication",
-      "title": "RPSG VENTURES LIMITED has informed the Exchange about Copy of Newspaper Publication",
-      "url": "https://nsearchives.nseindia.com/corporate/RPSGVENT_14082026145931_SE_NP_14082026_signed.pdf"
-    },
-    {
-      "id": "f192a08950049",
-      "ticker": "FAZE3Q",
-      "company": "Faze Three Limited",
-      "exchange": "NSE",
-      "date": "2026-08-14T14:58:07.000Z",
-      "category": "Newspaper Publication",
-      "title": "Faze Three Limited has informed the Exchange about Copy of Newspaper Publication published today, August 14, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/FAZETHREE_14082026145618_Submission_Final.pdf"
-    },
-    {
-      "id": "fc15c2b87e9ea",
-      "ticker": "BALUFORGE",
-      "company": "Balu Forge Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-08-14T14:55:15.000Z",
-      "category": "Newspaper Publication",
-      "title": "Balu Forge Industries Limited has informed the Exchange about Copy of Newspaper Publication of post-dispatch of Notice of (01/2026-27) Extra-Ordinary General Meeting to shareholders .",
-      "url": "https://nsearchives.nseindia.com/corporate/BALUFORGE_14082026145401_Intimation.pdf"
-    },
-    {
-      "id": "fb302406e1fad",
-      "ticker": "BALUFORGE",
-      "company": "Balu Forge Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-08-14T14:06:55.000Z",
-      "category": "Newspaper Publication",
-      "title": "Balu Forge Industries Limited has informed the Exchange about Copy of Newspaper Publication regarding Un-audited Financial Results for the Quarter ended June 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/BALUFORGE_14082026140648_Submission.pdf"
-    },
-    {
-      "id": "f91f289d84156",
-      "ticker": "LGEINDIA",
-      "company": "LG Electronics India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-14T12:57:34.000Z",
-      "category": "Newspaper Publication",
-      "title": "LG Electronics India Limited has informed the Exchange about Copy of Newspaper Publication",
-      "url": "https://nsearchives.nseindia.com/corporate/LGEINDIA_14082026125005_Newspaper_Publication_of_Unaudited_Financial_Results.pdf"
-    },
-    {
-      "id": "fabb296e4193a",
-      "ticker": "MEDIASSIST",
-      "company": "Medi Assist Healthcare Services Limited",
-      "exchange": "NSE",
-      "date": "2026-08-14T12:32:12.000Z",
-      "category": "Investor Presentation",
-      "title": "Medi Assist Healthcare Services Limited has informed the Exchange about Transcript",
-      "url": "https://nsearchives.nseindia.com/corporate/MEDIASSIST_14082026123153_MAHStranscriptAug2026.pdf"
-    },
-    {
-      "id": "fbd03dd8b35b5",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "exchange": "NSE",
-      "date": "2026-08-14T12:07:51.000Z",
-      "category": "Disclosure",
-      "title": "Apsis Aerocom Limited has informed the Exchange regarding 'Inauguration of Unit-2'.",
-      "url": "https://nsearchives.nseindia.com/corporate/APSIS2025_14082026120639_Intimation_of_opening_of_Unit_2_signed.pdf"
-    },
-    {
-      "id": "fe8136cbb8549",
-      "ticker": "MANINDS",
-      "company": "Man Industries (India) Limited",
-      "exchange": "NSE",
-      "date": "2026-08-14T08:48:08.000Z",
-      "category": "Press Release",
-      "title": "Man Industries (India) Limited has informed the Exchange regarding a press release dated August 14, 2026, titled \"Press Release\".",
-      "url": "https://nsearchives.nseindia.com/corporate/MANINDS_14082026084758_MIIL_Press_Release_14082026.pdf"
-    },
-    {
-      "id": "f1eca4fd9bf7c",
-      "ticker": "LENSKART",
-      "company": "Lenskart Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T22:44:33.000Z",
-      "category": "Investor Presentation",
-      "title": "Lenskart Solutions Limited has informed the Exchange about audio recording of Earnings Call with respect to Financial Results for the quarter ended June 30, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/LENSKART_13082026224121_Reg30_-_Audio_Recording_FR_-_SE_Intimation.pdf"
-    },
-    {
-      "id": "f01c6008515ae",
-      "ticker": "LENSKART",
-      "company": "Lenskart Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T22:44:33.000Z",
-      "category": "Monitoring Agency Report",
-      "title": "LENSKART: Lenskart Solutions Limited has informed the Exchange about the Monitoring Agency Report for the quarter ended June 30, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/LENSKART_13082026224343_Reg30_-_SE_Intimation_MA_Report.pdf"
-    },
-    {
-      "id": "f6203a88e3780",
-      "ticker": "GROWW",
-      "company": "Billionbrains Garage Ventures Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T20:32:54.000Z",
-      "category": "ESOP/ESOS/ESPS",
-      "title": "Billionbrains Garage Ventures Limited has informed the Exchange regarding Grant of 149874 Options under Billionbrains Garage Ventures Limited Employee Stock Option Scheme 2024.",
-      "url": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_13082026203219_ESOP_Grant_SD.pdf"
-    },
-    {
-      "id": "faa133068f512",
-      "ticker": "VAML",
-      "company": "Vedanta Aluminium Metal Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T20:05:36.000Z",
-      "category": "Credit Rating",
-      "title": "Vedanta Aluminium Metal Limited has informed the Exchange about Credit Rating",
-      "url": "https://nsearchives.nseindia.com/corporate/VAML_13082026200523_VAMLSEIntimationIndiaRatingsigned.pdf"
-    },
-    {
-      "id": "f8a8c9fa9e543",
-      "ticker": "CANFINHOME",
-      "company": "Can Fin Homes Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T19:45:10.000Z",
-      "category": "Investor Presentation",
-      "title": "Can Fin Homes Limited has informed the Exchange that the Top Management of the Company participated in the Analyst/ Investor meeting held today i.e., on Thursday, August 13, 2026 at Mumbai. For more details , please refer the attachment.",
-      "url": "https://nsearchives.nseindia.com/corporate/CANFINHOME_13082026194446_Outcome_Of_analyst_meet_.pdf"
-    },
-    {
-      "id": "f221ffd44a16e",
-      "ticker": "SKYGOLD",
-      "company": "SKY GOLD AND DIAMONDS LIMITED",
-      "exchange": "NSE",
-      "date": "2026-08-13T19:26:54.000Z",
-      "category": "Investor Presentation",
-      "title": "Please see the attached Transcript of the Earning Call held on 10th August 2026 on the unaudited standalone and consolidated financial results for the quarter ended 30th June 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/SKYGOLD_13082026192629_Transcript.pdf"
-    },
-    {
-      "id": "f9be7eff4adb2",
-      "ticker": "RUBICON",
-      "company": "Rubicon Research Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T19:16:56.000Z",
-      "category": "Disclosure",
-      "title": "Rubicon Research Limited has informed the Exchange regarding 'Corrigendum to the Integrated Annual Report for the financial year 2025-26 '.",
-      "url": "https://nsearchives.nseindia.com/corporate/9823522970_13082026191047_RRLSEIntimationARrevised.pdf"
-    },
-    {
-      "id": "ff80231524443",
-      "ticker": "SCODATUBES",
-      "company": "Scoda Tubes Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T19:16:12.000Z",
-      "category": "Monitoring Agency Report",
-      "title": "Monitoring Agency Report for the Quarter ended June 30, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/SCODA_13082026191450_Covering_-_MA_report.pdf"
-    },
-    {
-      "id": "f49b525a80723",
-      "ticker": "KPITTECH",
-      "company": "KPIT Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T18:48:24.000Z",
-      "category": "Investor Presentation",
-      "title": "KPIT Technologies Limited has informed the Exchange about Outcome of Investor Conference held on Thursday, August 13, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/KPITTECH_13082026184555_KPIT_Equirus_Confluence_outcome_signed.pdf"
-    },
-    {
-      "id": "f7fa68c078413",
-      "ticker": "IKS",
-      "company": "Inventurus Knowledge Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T18:48:05.000Z",
-      "category": "Investor Presentation",
-      "title": "Inventurus Knowledge Solutions Limited has informed the Exchange about Change in Schedule of Analyst/ Institutional Investor Meet.",
-      "url": "https://nsearchives.nseindia.com/corporate/IKS2006_13082026184751_13082026AnalystCallSigned.pdf"
-    },
-    {
-      "id": "fbba4751f9994",
-      "ticker": "DENTA",
-      "company": "Denta Water and Infra Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T18:47:25.000Z",
-      "category": "Record Date",
-      "title": "Denta Water and Infra Solutions Limited has informed the Exchange that Record date for the purpose of Dividend is 16-Sep-2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/DENTA_13082026184628_Outcome_of_Board_Meeting_13-08-2026.pdf"
-    },
-    {
-      "id": "fc1f91c8c804c",
-      "ticker": "IKS",
-      "company": "Inventurus Knowledge Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T18:44:19.000Z",
-      "category": "Investor Presentation",
-      "title": "Inventurus Knowledge Solutions Limited has informed the Exchange about Schedule of meet - Update.",
-      "url": "https://nsearchives.nseindia.com/corporate/IKS2006_13082026184400_11082026_AnalystCallV2_Signed.pdf"
-    },
-    {
-      "id": "f4c6d9a7d0122",
-      "ticker": "FAZE3Q",
-      "company": "Faze Three Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T18:44:10.000Z",
-      "category": "Disclosure",
-      "title": "Faze Three Limited has informed the Exchange regarding the Business Responsibility and Sustainability Reporting for the Financial Year 2025-26.",
-      "url": "https://nsearchives.nseindia.com/corporate/FAZETHREE_13082026184340_Submission__BRSR.pdf"
-    },
-    {
-      "id": "f98b5e218779a",
-      "ticker": "DENTA",
-      "company": "Denta Water and Infra Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T18:40:30.000Z",
-      "category": "Dividend",
-      "title": "Denta Water and Infra Solutions Limited has informed the Exchange that Board of Directors at its meeting held on August 13, 2026, recommended Final Dividend of Rs. 2.50 per equity share.",
-      "url": "https://nsearchives.nseindia.com/corporate/DENTA_13082026183948_Outcome_of_Board_Meeting_13-08-2026.pdf"
-    },
-    {
-      "id": "f0e954163f6df",
-      "ticker": "FAZE3Q",
-      "company": "Faze Three Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T18:34:50.000Z",
-      "category": "Shareholders meeting",
-      "title": "Faze Three Limited has informed the Exchange regarding Notice of 41st Annual General Meeting of Faze Three Limited scheduled to be held on September 04, 2026 through Video Conferencing",
-      "url": "https://nsearchives.nseindia.com/corporate/FAZETHREE_13082026183226_Submission_AGM_Notice.pdf"
-    },
-    {
-      "id": "fe4382a5c4500",
-      "ticker": "DENTA",
-      "company": "Denta Water and Infra Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T18:32:01.000Z",
-      "category": "Board Meeting",
-      "title": "Denta Water and Infra Solutions Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/DENTA_13082026183023_Outcome_of_Board_Meeting_13-08-2026.pdf"
-    },
-    {
-      "id": "f723d18821ce5",
-      "ticker": "GULFOILLUB",
-      "company": "Gulf Oil Lubricants India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T18:29:25.000Z",
-      "category": "Disclosure",
-      "title": "We enclose herewith the Investor Presentation for the quarter ended June 30, 2026 providing highlights on financial results for the quarter ended June 30, 2026 and business/industry overview.",
-      "url": "https://nsearchives.nseindia.com/corporate/GULFOILLUB_13082026182903_PresentationQ1202627.pdf"
-    },
-    {
-      "id": "f45f0f110190f",
-      "ticker": "GMMPFAUDLR",
-      "company": "GMM Pfaudler Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T18:20:16.000Z",
-      "category": "Investor Presentation",
-      "title": "GMM Pfaudler Limited has informed the Exchange about Transcript",
-      "url": "https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_13082026181806_GMM_Pfaudler_-_Earnings_Call_Transcript_Q1_FY27.pdf"
-    },
-    {
-      "id": "fb347b6af91bc",
-      "ticker": "LGEINDIA",
-      "company": "LG Electronics India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T18:18:59.000Z",
-      "category": "Press Release",
-      "title": "LG Electronics India Limited has informed the Exchange regarding a press release dated August 13, 2026, titled \"LG Electronics Delivers its strongest Quarterly Growth since Listing\".",
-      "url": "https://nsearchives.nseindia.com/corporate/LGEINDIA_13082026181828_Press_Release_dated_August_13_2026.pdf"
-    },
-    {
-      "id": "ffda2f8f56b19",
-      "ticker": "FAZE3Q",
-      "company": "Faze Three Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T18:13:19.000Z",
-      "category": "Disclosure",
-      "title": "Faze Three Limited has informed the Exchange about the letter sent to Shareholders of the Company whose e-mail addresses are not registered with Company/RTA/ DP, pursuant to Regulation 30 and 36(b) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.",
-      "url": "https://nsearchives.nseindia.com/corporate/FAZETHREE_13082026181058_Submission_Letter_to_Shareholder.pdf"
-    },
-    {
-      "id": "f63c1d8a02274",
-      "ticker": "MIDWESTLTD",
-      "company": "Midwest Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T18:08:45.000Z",
-      "category": "Investor Presentation",
-      "title": "Midwest Limited has informed the Exchange about Link of Recording of the Q1 FY27 Earnings Call",
-      "url": "https://nsearchives.nseindia.com/corporate/MIDWEST_13082026180837_Link_of_Audio_Call.pdf"
-    },
-    {
-      "id": "fb192d7aa5321",
-      "ticker": "LGEINDIA",
-      "company": "LG Electronics India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T17:49:55.000Z",
-      "category": "Investor Presentation",
-      "title": "LG Electronics India Limited has informed the Exchange about Investor Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/LGEINDIA_13082026174832_Investorspresentation.pdf"
-    },
-    {
-      "id": "f05696a600773",
-      "ticker": "HILINFRA",
-      "company": "Highway Infrastructure Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T17:42:16.000Z",
-      "category": "Investor Presentation",
-      "title": "Highway Infrastructure Limited has informed the Exchange about Schedule of meet",
-      "url": "https://nsearchives.nseindia.com/corporate/HIGHWAY123_13082026174203_HIL_EarningCall_Invite_13082026.pdf"
-    },
-    {
-      "id": "fcb29a196f25c",
-      "ticker": "LGEINDIA",
-      "company": "LG Electronics India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T17:29:54.000Z",
-      "category": "Board Meeting",
-      "title": "LG Electronics India Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/LGEINDIA_13082026172734_BMoutcome.pdf"
-    },
-    {
-      "id": "f5d9f6403fe21",
-      "ticker": "URBANCO",
-      "company": "Urban Company Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T17:12:24.000Z",
-      "category": "Investor Presentation",
-      "title": "Urban Company Limited has informed the Exchange about Schedule of Analyst/ Investor Meetings to be held between August 17, 2026 to August 19, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_13082026171207_Investor_Meeting_SE_Intimation_13082026.pdf"
-    },
-    {
-      "id": "f3c82da23d872",
-      "ticker": "TRIVENI",
-      "company": "Triveni Engineering & Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T16:45:10.000Z",
-      "category": "Disclosure",
-      "title": "Triveni Engineering & Industries Limited has submitted Business Responsibility and Sustainability Report (FY 2025-26)",
-      "url": "https://nsearchives.nseindia.com/corporate/TRIVENI_13082026164425_TEIL_BRSR_2026.pdf"
-    },
-    {
-      "id": "f8be061512333",
-      "ticker": "TRIVENI",
-      "company": "Triveni Engineering & Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T16:03:58.000Z",
-      "category": "Shareholders meeting",
-      "title": "Triveni Engineering & Industries Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 07, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/TRIVENI_13082026160347_TEIL_AR_NOTICE_2026.pdf"
-    },
-    {
-      "id": "fbcf924c6c243",
-      "ticker": "BALUFORGE",
-      "company": "Balu Forge Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T15:18:59.000Z",
-      "category": "Shareholders meeting",
-      "title": "Balu Forge Industries Limited has informed the Exchange regarding Notice of Extraordinary General Meeting to be held on September 04, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/BALUFORGE_13082026151851_Submission.pdf"
-    },
-    {
-      "id": "f19e0b09a6fb1",
-      "ticker": "MIDWESTLTD",
-      "company": "Midwest Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T15:03:43.000Z",
-      "category": "Investor Presentation",
-      "title": "Midwest Limited has informed the Exchange about Investor Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/MIDWEST_13082026150333_Investor_Presentations.pdf"
-    },
-    {
-      "id": "f96c7b0d40274",
-      "ticker": "VIVIDEL",
-      "company": "Vivid Electromech Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T14:56:27.000Z",
-      "category": "Monitoring Agency Report",
-      "title": "Vivid Electromech Limited has informed the Exchange about Statutory Auditor Certificate and Monitoring Agency Report for the quarter ended June 30, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/VIVID_13082026145613_Intimation_to_NSE_for_utilisation_of_IPO_proceeds.pdf"
-    },
-    {
-      "id": "f2b53e214153b",
-      "ticker": "SOLARINDS",
-      "company": "Solar Industries India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T14:52:51.000Z",
-      "category": "Disclosure",
-      "title": "Solar Industries India Limited has informed the Exchange regarding Presentation on Unaudited Financial Results for the quarter ended on June 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/SOLARINDS_13082026145208_Merged_IPsd.pdf"
-    },
-    {
-      "id": "f788ca2118ad3",
-      "ticker": "VOEPL",
-      "company": "Virtuoso Optoelectronics Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T14:47:53.000Z",
-      "category": "Disclosure",
-      "title": "Virtuoso Optoelectronics Limited has informed the Exchange about allotment of shares and warrants",
-      "url": "https://nsearchives.nseindia.com/corporate/VIRTUOSO_13082026144732_allotment.pdf"
-    },
-    {
-      "id": "f44869d3ddd66",
-      "ticker": "SOLARINDS",
-      "company": "Solar Industries India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T14:44:44.000Z",
-      "category": "Press Release",
-      "title": "Solar Industries India Limited has informed the Exchange regarding a press release dated August 13, 2026, titled \"Updates on the Unaudited Financial Result (Standalone & Consolidated) of the Company for the quarter ended on June 30, 2026.\".",
-      "url": "https://nsearchives.nseindia.com/corporate/SOLARINDS_13082026144305_Press_Release_Q1_sd.pdf"
-    },
-    {
-      "id": "f739bc7bf208f",
-      "ticker": "HARIOMPIPE",
-      "company": "Hariom Pipe Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T14:33:50.000Z",
-      "category": "Newspaper Publication",
-      "title": "Hariom Pipe Industries Limited has informed the Exchange about Copy of Newspaper Publication on Unaudited Financial Results for the quarter ended June 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/hariompipes_13082026143000_Newspaper_Advertisement_12-08-2026.pdf"
-    },
-    {
-      "id": "fb78d8e27c512",
-      "ticker": "SOLARINDS",
-      "company": "Solar Industries India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T14:31:28.000Z",
-      "category": "Integrated Filing- Financial",
-      "title": "The unaudited financial result (standalone & consolidated) of the Company for the quarter ended on June 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/SOLARINDS_13082026143116_SIIL_JUNE1_signed_sdd.pdf"
-    },
-    {
-      "id": "f3e75364383d9",
-      "ticker": "SOLARINDS",
-      "company": "Solar Industries India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T14:26:26.000Z",
-      "category": "Board Meeting",
-      "title": "Solar Industries India Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/SOLARINDS_13082026142549_SIIL_JUNE1_signed_sdd.pdf"
-    },
-    {
-      "id": "f3d403986ff09",
-      "ticker": "DAMCAPITAL",
-      "company": "Dam Capital Advisors Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T13:58:49.000Z",
-      "category": "Disclosure",
-      "title": "Dam Capital Advisors Limited has informed the Exchange regarding 'Business Responsibility and Sustainability Report of the Company for FY 2025-26'.",
-      "url": "https://nsearchives.nseindia.com/corporate/DAMCAPITAL_13082026135836_Intimation_of_BRSR_Signed.pdf"
-    },
-    {
-      "id": "f453fa96b0a02",
-      "ticker": "RPSGVENT",
-      "company": "RPSG VENTURES LIMITED",
-      "exchange": "NSE",
-      "date": "2026-08-13T13:54:54.000Z",
-      "category": "Board Meeting",
-      "title": "RPSG VENTURES LIMITED has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/RPSGVENT_13082026135334_RVL_BMoutcome_13082026_signed.pdf"
-    },
-    {
-      "id": "ff1f7caa776b7",
-      "ticker": "DAMCAPITAL",
-      "company": "Dam Capital Advisors Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T13:48:29.000Z",
-      "category": "Shareholders meeting",
-      "title": "Dam Capital Advisors Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 08, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/DAMCAPITAL_13082026134820_Intimation_of_Notice_of_AGM_Signed.pdf"
-    },
-    {
-      "id": "f465b26fe15c7",
-      "ticker": "SBCL",
-      "company": "Shivalik Bimetal Controls Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T12:45:23.000Z",
-      "category": "Investor Presentation",
-      "title": "Shivalik Bimetal Controls Limited has informed the Exchange about Transcript",
-      "url": "https://nsearchives.nseindia.com/corporate/SBCL_13082026124510_Earning_Call_Transcript_covering.pdf"
-    },
-    {
-      "id": "fdd46fc30802d",
-      "ticker": "FAZE3Q",
-      "company": "Faze Three Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T12:30:06.000Z",
-      "category": "Newspaper Publication",
-      "title": "Faze Three Limited has informed the Exchange about Copy of Newspaper Publication published today, August 13, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/FAZETHREE_13082026122944_Submission.pdf"
-    },
-    {
-      "id": "f5a8b8303853e",
-      "ticker": "LENSKART",
-      "company": "Lenskart Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-08-13T12:25:48.000Z",
-      "category": "Newspaper Publication",
-      "title": "Lenskart Solutions Limited has informed the Exchange about Copy of Newspaper Publication on Financial Results for the quarter ended June 30, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/LENSKART_13082026122503_NewsPaper_Publication_-_SE_Intimation.pdf"
     }
   ]
 }
