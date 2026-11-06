@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T10:17:16.433Z",
+  "generated_at": "2026-11-06T20:41:45.753Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,236 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "fec24dac88231",
+      "ticker": "GANESHBE",
+      "company": "Ganesh Benzoplast Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T23:43:52.000Z",
+      "category": "Credit Rating",
+      "title": "Ganesh Benzoplast Limited has informed the Exchange about Credit Rating",
+      "url": "https://nsearchives.nseindia.com/corporate/GANESHBE_06112026234340_Disclosurecreditrating.pdf"
+    },
+    {
+      "id": "f1dc4d83591e0",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T23:42:50.000Z",
+      "category": "Shareholders meeting",
+      "title": "Meesho Limited has informed the Exchange regarding Notice of Postal Ballot",
+      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_06112026234101_Cover_letter_Postal_Ballot_Notice_06112026.pdf"
+    },
+    {
+      "id": "f2853ea9525a5",
+      "ticker": "DENTA",
+      "company": "Denta Water and Infra Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T23:41:18.000Z",
+      "category": "Press Release (Revised)",
+      "title": "Denta Water and Infra Solutions Limited has informed the Exchange regarding a revised press release dated November 06, 2026, titled \"Denta Water Reports Q2 FY27 Performance; Order Book Stands at &#8377;7,824 Million, with Continued Focus on Execution and Order Book Growth\".",
+      "url": "https://nsearchives.nseindia.com/corporate/DENTA_06112026233924_Denta_Press_Release_Q2_H1_FY27.pdf"
+    },
+    {
+      "id": "f6425fc3fb748",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T23:24:34.000Z",
+      "category": "ESOP/ESOS/ESPS",
+      "title": "Zen Technologies Limited has informed the Exchange regarding Exercise of 350 Options.",
+      "url": "https://nsearchives.nseindia.com/corporate/ZENTEC_06112026232313_SEIntimationEsop_350_Shares_Signed.pdf"
+    },
+    {
+      "id": "f50bf44337fea",
+      "ticker": "LGEINDIA",
+      "company": "LG Electronics India Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T23:07:53.000Z",
+      "category": "Investor Presentation",
+      "title": "LG Electronics India Limited has informed the Exchange about Link of Recording",
+      "url": "https://nsearchives.nseindia.com/corporate/LGEINDIA_06112026230325_Audio_Recording_dated_6th_November_2026.pdf"
+    },
+    {
+      "id": "f170f9a159716",
+      "ticker": "MOBIKWIK",
+      "company": "One Mobikwik Systems Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T21:40:03.000Z",
+      "category": "Disclosure",
+      "title": "One Mobikwik Systems Limited has informed the Exchange about Shareholders Letter for the quarter ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/MOBIKWIK_06112026213933_Shareholders_Letter_06112026.pdf"
+    },
+    {
+      "id": "f063e8e61eb91",
+      "ticker": "ESDS",
+      "company": "ESDS Software Solution Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T21:27:56.000Z",
+      "category": "Shareholders meeting",
+      "title": "ESDS Software Solution Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on November 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/ESDS_06112026212712_ESDS_AGM_Notice_BSE_NSE.pdf"
+    },
+    {
+      "id": "f99ce4eaeb2df",
+      "ticker": "ESDS",
+      "company": "ESDS Software Solution Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T21:22:27.000Z",
+      "category": "Shareholders meeting",
+      "title": "ESDS Software Solution Limited has informed the Exchange regarding Annual General Meeting to be held on Monday, November 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/ESDS_06112026212210_ESDS_Annual_Report_BSE_NSE.pdf"
+    },
+    {
+      "id": "f7b30fe9b3b2d",
+      "ticker": "SONATSOFTW",
+      "company": "Sonata Software Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T20:31:31.000Z",
+      "category": "Investor Presentation",
+      "title": "Sonata Software Limited has informed the Exchange about Audio Link of recording for the Earnings call held on 6th November 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/SONATSOFTW_06112026203048_audiorecordingearningscallq2fy27.pdf"
+    },
+    {
+      "id": "fc8cf4ed89434",
+      "ticker": "DYNAMATECH",
+      "company": "Dynamatic Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T18:41:37.000Z",
+      "category": "Disclosure",
+      "title": "Dynamatic Technologies Limited has informed the Exchange regarding 'Investor Presentation'.",
+      "url": "https://nsearchives.nseindia.com/corporate/DYNAMATICH_06112026184057_EarningPresentationwithCoverLetter06112026.pdf"
+    },
+    {
+      "id": "fa6481c02f495",
+      "ticker": "TONBO",
+      "company": "Tonbo Imaging India Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T18:16:04.000Z",
+      "category": "Investor Presentation",
+      "title": "Audio recording of the Earnings Conference Call held on November 6, 2026 at 9:30 A.M.",
+      "url": "https://nsearchives.nseindia.com/corporate/TONBO_06112026181554_CL_AudioRecording.pdf"
+    },
+    {
+      "id": "fc9c4c2590783",
+      "ticker": "DENTA",
+      "company": "Denta Water and Infra Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T18:00:34.000Z",
+      "category": "Board Meeting",
+      "title": "Denta Water and Infra Solutions Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/DENTA_06112026175804_Outcome_of_Board_Meeting_06-11-2026.pdf"
+    },
+    {
+      "id": "f42dcc8828ef2",
+      "ticker": "MTARTECH",
+      "company": "Mtar Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T17:51:11.000Z",
+      "category": "Investor Presentation",
+      "title": "Mtar Technologies Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/MTARTECH_06112026175100_Transcript_sw.pdf"
+    },
+    {
+      "id": "fdc19dcfd5295",
+      "ticker": "BLSPOLY",
+      "company": "BLS Polymers Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T17:39:48.000Z",
+      "category": "Change in Company Secretary/Compliance Officer",
+      "title": "BLS Polymers Limited has informed the Exchange about Change in Company Secretary/Compliance Officer",
+      "url": "https://nsearchives.nseindia.com/corporate/BLSPOLYMERS_06112026173936_Reg_30_Resignation_of_CS_Change_in_management_Signed__1_.pdf"
+    },
+    {
+      "id": "fed0dbe2ddd30",
+      "ticker": "BLSPOLY",
+      "company": "BLS Polymers Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T17:24:57.000Z",
+      "category": "Change in Directors",
+      "title": "BLS Polymers Limited has informed the Exchange about Resignation of Director/KMP/SMP",
+      "url": "https://nsearchives.nseindia.com/corporate/BLSPOLY_ROID_104133_KMP_Doc.zip"
+    },
+    {
+      "id": "f53a876519f08",
+      "ticker": "SCODATUBES",
+      "company": "Scoda Tubes Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T17:01:29.000Z",
+      "category": "Investor Presentation",
+      "title": "Scoda Tubes Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/SCODA_06112026170120_Intimation_of_investor_call.pdf"
+    },
+    {
+      "id": "f7e8a8eb09615",
+      "ticker": "JYOTICNC",
+      "company": "Jyoti CNC Automation Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T16:41:43.000Z",
+      "category": "Investor Presentation",
+      "title": "Jyoti CNC Automation Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/JYOTICNC_NSE_06112026164133_BSEnseJCALsubmissionTranscriptQ2FY27EarningCall06112026.pdf"
+    },
+    {
+      "id": "f584ee2ae959d",
+      "ticker": "SCODATUBES",
+      "company": "Scoda Tubes Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T16:38:43.000Z",
+      "category": "Investor Presentation",
+      "title": "Scoda Tubes Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/SCODA_06112026163836_Investor_Presentation.pdf"
+    },
+    {
+      "id": "fa5a15eaa9678",
+      "ticker": "SCODATUBES",
+      "company": "Scoda Tubes Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T16:22:01.000Z",
+      "category": "Board Meeting",
+      "title": "Scoda Tubes Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/SCODA_06112026162020_Outcome__06-11-2026.pdf"
+    },
+    {
+      "id": "f84d8757bf640",
+      "ticker": "DYNAMATECH",
+      "company": "Dynamatic Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T16:12:20.000Z",
+      "category": "Record Date",
+      "title": "Dynamatic Technologies Limited has informed the Exchange that Record date for the purpose of Dividend is 13-Nov-2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/DYNAMATICH_06112026161121_BoardMeetingOutcome06112026.pdf"
+    },
+    {
+      "id": "f029640bcbdbc",
+      "ticker": "DYNAMATECH",
+      "company": "Dynamatic Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T16:09:11.000Z",
+      "category": "Board Meeting",
+      "title": "Dynamatic Technologies Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/DYNAMATICH_06112026160736_BoardMeetingOutcome06112026.pdf"
+    },
+    {
+      "id": "ff8c06c469605",
+      "ticker": "IKS",
+      "company": "Inventurus Knowledge Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T16:00:02.000Z",
+      "category": "Investor Presentation",
+      "title": "Inventurus Knowledge Solutions Limited has informed the Exchange about Link of Recording",
+      "url": "https://nsearchives.nseindia.com/corporate/IKS2006_06112026155945_20261106AudioRecordingSEUpload.pdf"
+    },
+    {
+      "id": "f57b35c976f39",
+      "ticker": "SHADOWFAX",
+      "company": "Shadowfax Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T15:54:07.000Z",
+      "category": "ESOP/ESOS/ESPS",
+      "title": "Shadowfax Technologies Limited has informed the Exchange regarding Allotment of 17,61,552 Equity Shares of Rs. 10/- each to the eligible employees/ESOP holders.",
+      "url": "https://nsearchives.nseindia.com/corporate/9900590024_06112026155151_ESOP_Allotment.pdf"
+    },
     {
       "id": "f15c14929054f",
       "ticker": "SAILIFE",
@@ -618,6 +848,16 @@
       "url": "https://nsearchives.nseindia.com/corporate/XPROINDIASKD_05112026161152_SE_English_Bengali_signed.pdf"
     },
     {
+      "id": "fa0a8407f04f1",
+      "ticker": "RUBICON",
+      "company": "Rubicon Research Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T16:09:33.000Z",
+      "category": "Investor Presentation",
+      "title": "Rubicon Research Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/9823522970_05112026160834_RRLSEIntimationEarningsPPT05Nov2026.pdf"
+    },
+    {
       "id": "fb41dd29fbd7b",
       "ticker": "SBIFUNDS",
       "company": "SBI Funds Management Limited",
@@ -986,6 +1226,16 @@
       "category": "Press Release",
       "title": "LG Electronics India Limited has informed the Exchange regarding a press release dated November 05, 2026, titled \"\"LG Electronics India Continues Strong Momentum Delivers Highest Growth Post Listing in Q2 FY27 \".",
       "url": "https://nsearchives.nseindia.com/corporate/LGEINDIA_05112026112137_PressRelease.pdf"
+    },
+    {
+      "id": "f31d2d0da25d6",
+      "ticker": "HARIOMPIPE",
+      "company": "Hariom Pipe Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T10:59:44.000Z",
+      "category": "Investor Presentation",
+      "title": "Hariom Pipe Industries Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/hariompipes_05112026105711_Q2_Investor_Presentation_05112026_Signed.pdf"
     },
     {
       "id": "f7211354ee62a",
@@ -19756,256 +20006,6 @@
       "category": "Receipt of Order",
       "title": "Goldiam International Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
       "url": "https://nsearchives.nseindia.com/corporate/GOLDIAM_18082026113440_Intimation_of_export_order_18-8-26.pdf"
-    },
-    {
-      "id": "f3376e2b989bc",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "exchange": "NSE",
-      "date": "2026-08-18T10:58:23.000Z",
-      "category": "Investor Presentation",
-      "title": "DEE Development Engineers Limited has informed the Exchange about Schedule of meet",
-      "url": "https://nsearchives.nseindia.com/corporate/DDEL_18082026105457_NSEBSE_Analyst_meet.pdf"
-    },
-    {
-      "id": "f8b6c763bf25b",
-      "ticker": "E2E",
-      "company": "E2E Networks Limited",
-      "exchange": "NSE",
-      "date": "2026-08-18T10:11:37.000Z",
-      "category": "Disclosure",
-      "title": "Clarification on News Article",
-      "url": "https://nsearchives.nseindia.com/corporate/E2E_18082026101127_Clarification_on_KEN_Article.pdf"
-    },
-    {
-      "id": "f0020bfe715a8",
-      "ticker": "DENTA",
-      "company": "Denta Water and Infra Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-08-18T09:35:42.000Z",
-      "category": "Press Release",
-      "title": "Denta Water and Infra Solutions Limited has informed the Exchange regarding a press release dated August 18, 2026, titled \"Denta Water to supply 6 tanks from Tungabhadra River for ground waterrecharging and enhancement for its flagship Mukkumpi lift irrigation project\".",
-      "url": "https://nsearchives.nseindia.com/corporate/DENTA_18082026093533_DentaWater_Press_Release_18082026.pdf"
-    },
-    {
-      "id": "f1aa3e5aa5e6d",
-      "ticker": "INDOMIM",
-      "company": "INDO-MIM Limited",
-      "exchange": "NSE",
-      "date": "2026-08-17T22:51:34.000Z",
-      "category": "Change in Auditors",
-      "title": "INDO-MIM Limited has informed the Exchange regarding Change in Auditors of the company.",
-      "url": "https://nsearchives.nseindia.com/corporate/INDOMIM_17082026225125_INDO_MIM_BM_Outcome_17082026.pdf"
-    },
-    {
-      "id": "f192f11a9af5a",
-      "ticker": "INDOMIM",
-      "company": "INDO-MIM Limited",
-      "exchange": "NSE",
-      "date": "2026-08-17T22:50:13.000Z",
-      "category": "Board Meeting",
-      "title": "INDO-MIM Limited has informed the Exchange regarding Outcome of Board Meeting held on August 17, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/INDOMIM_17082026225002_INDO_MIM_BM_Outcome_17082026.pdf"
-    },
-    {
-      "id": "f2b5b611e0b15",
-      "ticker": "INDOMIM",
-      "company": "INDO-MIM Limited",
-      "exchange": "NSE",
-      "date": "2026-08-17T22:48:05.000Z",
-      "category": "Board Meeting",
-      "title": "Un-audited (Standalone and Consolidated) Financial Results for the quarter ended June 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/INDOMIM_17082026224643_INDO_MIM_BM_Outcome_17082026.pdf"
-    },
-    {
-      "id": "f6584e48af15f",
-      "ticker": "JYOTICNC",
-      "company": "Jyoti CNC Automation Limited",
-      "exchange": "NSE",
-      "date": "2026-08-17T22:22:41.000Z",
-      "category": "Disclosure",
-      "title": "Jyoti CNC Automation Limited has informed the Exchange about General Updates",
-      "url": "https://nsearchives.nseindia.com/corporate/JYOTICNC_NSE_17082026222228_BSEnseJCALIntimationECMSApproval17082026.pdf"
-    },
-    {
-      "id": "f4ca951def089",
-      "ticker": "LENSKART",
-      "company": "Lenskart Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-08-17T21:41:10.000Z",
-      "category": "Acquisition",
-      "title": "Lenskart Solutions Limited has informed the Exchange about the incorporation of step-down subsidiary i.e. Wenzhou Framekart Trade Co., Ltd in People's Republic of China",
-      "url": "https://nsearchives.nseindia.com/corporate/LENSKART_17082026214046_Intimation_-_Update_on_Subsidiary_Incorporation_14082026_signed.pdf"
-    },
-    {
-      "id": "faa52d8d229e8",
-      "ticker": "VBL",
-      "company": "Varun Beverages Limited",
-      "exchange": "NSE",
-      "date": "2026-08-17T20:28:40.000Z",
-      "category": "Disclosure",
-      "title": "In continuation to our earlier disclosure dated July 2, 2026 wherein we had informed that the Board of Directors of The Beverage Company Proprietary Limited ( Bevco , a subsidiary of the company) and Twizza Proprietary Limited ( Twizza , a step-down subsidiary of the company) approved the merger of Twizza with its holding company i.e. Bevco, subject to applicable laws in South Africa, we would like to update that the above-mentioned merger of Twizza with Bevco has been completed and consequently, Twizza is ceased to be a step-down subsidiary of the Company. The above information was received today (at 06:59 P.M. IST) by our Company.The detailed disclosure as required under Regulation 30 read with Para A of Part A of Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 and SEBI Master Circular No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026 had already been submitted in our earlier intimation dated July 2, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/VBL_17082026202812_Update_TwizzaMerger.pdf"
-    },
-    {
-      "id": "f7a69c26bcf56",
-      "ticker": "DENTALKART",
-      "company": "Vasa Denticity Limited",
-      "exchange": "NSE",
-      "date": "2026-08-17T20:04:31.000Z",
-      "category": "Investor Presentation",
-      "title": "Vasa Denticity Limited has informed the Exchange about Link of Recording",
-      "url": "https://nsearchives.nseindia.com/corporate/VASADENTICITY_17082026200422_Intimation_of_Audio_Recording.pdf"
-    },
-    {
-      "id": "fce354e6a5bac",
-      "ticker": "SHAILY",
-      "company": "Shaily Engineering Plastics Limited",
-      "exchange": "NSE",
-      "date": "2026-08-17T19:58:27.000Z",
-      "category": "Investor Presentation",
-      "title": "Shaily Engineering Plastics Limited has informed the Exchange about Schedule of meet",
-      "url": "https://nsearchives.nseindia.com/corporate/Shailyengineering_17082026195811_SEPLStockExchangeIntimationPlantVisit210826.pdf"
-    },
-    {
-      "id": "fb319069582d2",
-      "ticker": "DENTALKART",
-      "company": "Vasa Denticity Limited",
-      "exchange": "NSE",
-      "date": "2026-08-17T19:52:51.000Z",
-      "category": "Investor Presentation",
-      "title": "Vasa Denticity Limited has informed the Exchange about Transcript",
-      "url": "https://nsearchives.nseindia.com/corporate/VASADENTICITY_17082026195240_Intimation_of_Transcript_Final.pdf"
-    },
-    {
-      "id": "faf1d3e6fea8f",
-      "ticker": "SHAILY",
-      "company": "Shaily Engineering Plastics Limited",
-      "exchange": "NSE",
-      "date": "2026-08-17T19:37:04.000Z",
-      "category": "Investor Presentation",
-      "title": "Shaily Engineering Plastics Limited has informed the Exchange about Transcript",
-      "url": "https://nsearchives.nseindia.com/corporate/Shailyengineering_17082026193655_Q1FY27_transcipt_CL_signed.pdf"
-    },
-    {
-      "id": "f9a791f9a144b",
-      "ticker": "DHOOTTRANS",
-      "company": "Dhoot Transmission Limited",
-      "exchange": "NSE",
-      "date": "2026-08-17T19:12:10.000Z",
-      "category": "Trading Window",
-      "title": "Dhoot Transmission Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/DTL_17082026191149_DTL_SE_intimation_trading_window_closure.pdf"
-    },
-    {
-      "id": "f9eacb70f4664",
-      "ticker": "AVANTEL",
-      "company": "Avantel Limited",
-      "exchange": "NSE",
-      "date": "2026-08-17T17:05:51.000Z",
-      "category": "Disclosure",
-      "title": "Avantel Limited has informed the Exchange about General Updates",
-      "url": "https://nsearchives.nseindia.com/corporate/AVANTEL_17082026170539_GeneralUpdates.pdf"
-    },
-    {
-      "id": "fb03831217b14",
-      "ticker": "AVANTEL",
-      "company": "Avantel Limited",
-      "exchange": "NSE",
-      "date": "2026-08-17T16:53:15.000Z",
-      "category": "Shareholders meeting",
-      "title": "Avantel Limited has submitted the Exchange a copy Srutinizers report of Postal Ballot. Further, the company has informed the Exchange regarding voting results.",
-      "url": "https://nsearchives.nseindia.com/corporate/AVANTEL_17082026165302_IntimationResults17082026.pdf"
-    },
-    {
-      "id": "f0c3a1ed5d886",
-      "ticker": "AVANTEL",
-      "company": "Avantel Limited",
-      "exchange": "NSE",
-      "date": "2026-08-17T16:51:09.000Z",
-      "category": "Shareholders meeting",
-      "title": "Avantel Limited has informed the Exchange regarding Proceedings of Postal Ballot",
-      "url": "https://nsearchives.nseindia.com/corporate/AVANTEL_17082026164917_IntimationResults17082026.pdf"
-    },
-    {
-      "id": "f4e341ce13087",
-      "ticker": "INDOFARM",
-      "company": "Indo Farm Equipment Limited",
-      "exchange": "NSE",
-      "date": "2026-08-17T16:41:42.000Z",
-      "category": "Investor Presentation",
-      "title": "Indo Farm Equipment Limited has informed the Exchange about Transcript",
-      "url": "https://nsearchives.nseindia.com/corporate/IFEL_17082026164125_Transcript_of_earnings_call.pdf"
-    },
-    {
-      "id": "fb5ce25977fbf",
-      "ticker": "SONATSOFTW",
-      "company": "Sonata Software Limited",
-      "exchange": "NSE",
-      "date": "2026-08-17T16:25:29.000Z",
-      "category": "Press Release",
-      "title": "Sonata Software Limited has informed the Exchange regarding a press release dated August 17, 2026, titled \"Press Release-Sonata Software appoints Hariprasad Rebala as Chief AI Officer\".",
-      "url": "https://nsearchives.nseindia.com/corporate/SONATSOFTW_17082026162430_sefilingpressrelease.pdf"
-    },
-    {
-      "id": "fd11b2005a724",
-      "ticker": "URBANCO",
-      "company": "Urban Company Limited",
-      "exchange": "NSE",
-      "date": "2026-08-17T15:56:43.000Z",
-      "category": "Investor Presentation",
-      "title": "Urban Company Limited has informed the Exchange about Schedule of Analyst/ Investor Meetings to be held between August 18, 2026 to September 02, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_17082026155628_Investor_Meeting_SE_Intimation_17082026.pdf"
-    },
-    {
-      "id": "f5470acf0ced9",
-      "ticker": "VOEPL",
-      "company": "Virtuoso Optoelectronics Limited",
-      "exchange": "NSE",
-      "date": "2026-08-17T15:02:26.000Z",
-      "category": "Investor Presentation",
-      "title": "Virtuoso Optoelectronics Limited has informed the Exchange about Link of Recording",
-      "url": "https://nsearchives.nseindia.com/corporate/VIRTUOSO_17082026150159_Call_Recording_Intimation.pdf"
-    },
-    {
-      "id": "f6f4833b7011d",
-      "ticker": "TRIVENI",
-      "company": "Triveni Engineering & Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-08-17T12:52:06.000Z",
-      "category": "Newspaper Publication",
-      "title": "Triveni Engineering & Industries Limited has informed the Exchange about Copy of Newspaper Publication",
-      "url": "https://nsearchives.nseindia.com/corporate/TRIVENI_17082026125154_TEIL_NEWSPAPER_17_8_2026.pdf"
-    },
-    {
-      "id": "f5437283be3d0",
-      "ticker": "SKYGOLD",
-      "company": "SKY GOLD AND DIAMONDS LIMITED",
-      "exchange": "NSE",
-      "date": "2026-08-17T11:21:32.000Z",
-      "category": "Press Release",
-      "title": "Please find enclosed herewith the Press Release titled Sky Gold & Diamonds Enters MSCI India Domestic Small Cap Index, Marks Key Milestone in Growth Journey for your information and records.",
-      "url": "https://nsearchives.nseindia.com/corporate/SKYGOLD_17082026112118_PressRelease.pdf"
-    },
-    {
-      "id": "fa287c8dfa2a2",
-      "ticker": "VOEPL",
-      "company": "Virtuoso Optoelectronics Limited",
-      "exchange": "NSE",
-      "date": "2026-08-17T11:00:08.000Z",
-      "category": "Investor Presentation",
-      "title": "Virtuoso Optoelectronics Limited has informed the Exchange about Investor Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/VIRTUOSO_17082026105931_Final_Presentation.pdf"
-    },
-    {
-      "id": "fdf1be0dee3c4",
-      "ticker": "BALUFORGE",
-      "company": "Balu Forge Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-08-17T09:01:11.000Z",
-      "category": "Disclosure",
-      "title": "Balu Forge Industries Limited has informed the Exchange about Press Release regarding receipt of multi month contract for 155mm ERFB BB/BT Shells.",
-      "url": "https://nsearchives.nseindia.com/corporate/BALUFORGE_17082026085955_Intimation.pdf"
     }
   ]
 }
