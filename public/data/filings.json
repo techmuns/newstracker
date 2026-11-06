@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T21:18:55.855Z",
+  "generated_at": "2026-11-06T10:17:16.433Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,206 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f15c14929054f",
+      "ticker": "SAILIFE",
+      "company": "Sai Life Sciences Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T15:06:24.000Z",
+      "category": "Investor Presentation",
+      "title": "Sai Life Sciences Limited has informed the Exchange about Link of Recording",
+      "url": "https://nsearchives.nseindia.com/corporate/SAILIFE_06112026150610_Stx_Audio_Recording_06112026_Signed.pdf"
+    },
+    {
+      "id": "f85b51512a8f0",
+      "ticker": "MOBIKWIK",
+      "company": "One Mobikwik Systems Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T14:47:05.000Z",
+      "category": "Press Release",
+      "title": "One Mobikwik Systems Limited has informed the Exchange regarding a press release dated November 06, 2026, titled \"MobiKwik Secures RBI Registration for NBFC, to Commence Operations in 3-6 Months\".",
+      "url": "https://nsearchives.nseindia.com/corporate/MOBIKWIK_06112026144634_Press_Release_06112026.pdf"
+    },
+    {
+      "id": "f53514efd3765",
+      "ticker": "MOBIKWIK",
+      "company": "One Mobikwik Systems Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T14:20:08.000Z",
+      "category": "Granting/withdrawal/surrender/cancellation/suspension of key licenses/ regulatory approvals",
+      "title": "One Mobikwik Systems Limited has informed the Exchange about Certificate of Registration to operate as a Non-Banking Financial Company ( NBFC ) received by MobiKwik Financial Services Private Limited (Wholly Owned Subsidiary of the Company) from the Reserve Bank of India",
+      "url": "https://nsearchives.nseindia.com/corporate/MOBIKWIK_06112026141941_Intimation_about_granting_of_NBFC_License.pdf"
+    },
+    {
+      "id": "ff7449e1fc087",
+      "ticker": "ANAWIL",
+      "company": "Anawil Wire and Engineering Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T13:35:34.000Z",
+      "category": "Board Meeting",
+      "title": "Anawil Wire and Engineering Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/ANAWIL_06112026133339_Outcome_of_the_Board_Meeting_FINAL.pdf"
+    },
+    {
+      "id": "fc67875b4098a",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T13:34:06.000Z",
+      "category": "ESOP/ESOS/ESPS",
+      "title": "DEE Development Engineers Limited has informed the Exchange regarding Grant of 93920 Options.",
+      "url": "https://nsearchives.nseindia.com/corporate/DDEL_06112026133259_Outcome_of_NRC_Meeting.pdf"
+    },
+    {
+      "id": "fa8d27d1b89bb",
+      "ticker": "MOLDTKPAC",
+      "company": "Mold-Tek Packaging Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T13:30:59.000Z",
+      "category": "Investor Presentation",
+      "title": "Mold-Tek Packaging Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/MOLDTKPAC_06112026133049_SE_Intimation_Transcript.pdf"
+    },
+    {
+      "id": "f4eb34a4fd2e8",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T13:30:12.000Z",
+      "category": "ESOP/ESOS/ESPS",
+      "title": "DEE Development Engineers Limited has informed the Exchange regarding Allotment of 119824 Shares.",
+      "url": "https://nsearchives.nseindia.com/corporate/DDEL_06112026132952_Outcome_of_NRC_Meeting.pdf"
+    },
+    {
+      "id": "fffde38296e51",
+      "ticker": "RPSGVENT",
+      "company": "RPSG VENTURES LIMITED",
+      "exchange": "NSE",
+      "date": "2026-11-06T13:29:58.000Z",
+      "category": "Newspaper Publication",
+      "title": "RPSG VENTURES LIMITED has informed the Exchange about Copy of Newspaper Publication",
+      "url": "https://nsearchives.nseindia.com/corporate/RPSGVENT_06112026132937_SE_RVL_Newspaper_Publication_06112026.pdf"
+    },
+    {
+      "id": "f234628f62b89",
+      "ticker": "SHIPROCKET",
+      "company": "Shiprocket Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T13:19:03.000Z",
+      "category": "Newspaper Publication",
+      "title": "Shiprocket Limited has informed the Exchange about Publication of advertisement in Newspapers Financial Express (English) and Jansatta (Hindi)",
+      "url": "https://nsearchives.nseindia.com/corporate/SHIPROCKET2011_06112026130841_Reg_47_Newspaper_Adv.pdf"
+    },
+    {
+      "id": "faff0eac42a03",
+      "ticker": "TENNIND",
+      "company": "Tenneco Clean Air India Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T13:09:28.000Z",
+      "category": "Newspaper Publication",
+      "title": "Tenneco Clean Air India Limited has informed the Exchange about Copy of Newspaper Publication",
+      "url": "https://nsearchives.nseindia.com/corporate/TENNECO_06112026130219_FR_Newspaper_Intimation_Signed.pdf"
+    },
+    {
+      "id": "f5d59698a8b10",
+      "ticker": "VOEPL",
+      "company": "Virtuoso Optoelectronics Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T12:46:28.000Z",
+      "category": "Statement of deviation(s) or variation(s) under Reg. 32",
+      "title": "Virtuoso Optoelectronics Limited has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32",
+      "url": "https://nsearchives.nseindia.com/corporate/VIRTUOSO_06112026124617_Statement_of_Deviation_Final.pdf"
+    },
+    {
+      "id": "f44b2deeb1adc",
+      "ticker": "MEDIASSIST",
+      "company": "Medi Assist Healthcare Services Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T12:45:06.000Z",
+      "category": "Investor Presentation",
+      "title": "Medi Assist Healthcare Services Limited has informed the Exchange about Transcript of Q2 & H1 FY27 Earnings Conference Call",
+      "url": "https://nsearchives.nseindia.com/corporate/MEDIASSIST_06112026124446_MAHSSEintimationTranscript06112026.pdf"
+    },
+    {
+      "id": "fea73089d8392",
+      "ticker": "LGEINDIA",
+      "company": "LG Electronics India Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T12:35:27.000Z",
+      "category": "Newspaper Publication",
+      "title": "LG Electronics India Limited has informed the Exchange about Copy of Newspaper Publication",
+      "url": "https://nsearchives.nseindia.com/corporate/LGEINDIA_06112026122922_Newspaper_Publication_dated_06th_November_2026.pdf"
+    },
+    {
+      "id": "f929e58158053",
+      "ticker": "SONATSOFTW",
+      "company": "Sonata Software Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T12:28:18.000Z",
+      "category": "Investor Presentation",
+      "title": "Sonata Software Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/SONATSOFTW_06112026122802_investorpresentationq2fy27.pdf"
+    },
+    {
+      "id": "f65f897723b12",
+      "ticker": "JUBLCPL",
+      "company": "Jubilant Agri and Consumer Products Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T12:19:01.000Z",
+      "category": "Newspaper Publication",
+      "title": "Jubilant Agri and Consumer Products Limited has informed the Exchange about Copy of Newspaper Publication of Financial Results.",
+      "url": "https://nsearchives.nseindia.com/corporate/JACPL_06112026121616_NewspaperAdvertisemenSigned.pdf"
+    },
+    {
+      "id": "f9a4d4471ca36",
+      "ticker": "RUBICON",
+      "company": "Rubicon Research Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T12:15:19.000Z",
+      "category": "Disclosure",
+      "title": "Rubicon Research Limited has informed the Exchange about Newspaper Publication for Q2 ended September 30, 2026 Financial Results",
+      "url": "https://nsearchives.nseindia.com/corporate/9823522970_06112026121353_RRLSEIntimationNewspaperadvt06Nov2026.pdf"
+    },
+    {
+      "id": "f162e6f86a738",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T12:04:42.000Z",
+      "category": "Disclosure",
+      "title": "DEE Development Engineers Limited has informed the Exchange regarding Outcome of Committee Meeting held on July 08, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/DDEL_06112026120429_NSEBSE_Outcome.pdf"
+    },
+    {
+      "id": "fd40d5a555dca",
+      "ticker": "VOEPL",
+      "company": "Virtuoso Optoelectronics Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T11:50:45.000Z",
+      "category": "Board Meeting",
+      "title": "Virtuoso Optoelectronics Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/VIRTUOSO_06112026114623_Outcome_Final.pdf"
+    },
+    {
+      "id": "f9c996bc55805",
+      "ticker": "SAILIFE",
+      "company": "Sai Life Sciences Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T00:15:15.000Z",
+      "category": "Investor Presentation",
+      "title": "Sai Life Sciences Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/SAILIFE_06112026001507_Stx_Investor_Presentation_05112026_Signed.pdf"
+    },
+    {
+      "id": "f63f805a61536",
+      "ticker": "SAILIFE",
+      "company": "Sai Life Sciences Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T00:12:52.000Z",
+      "category": "Press Release",
+      "title": "Sai Life Sciences Limited has informed the Exchange regarding a press release dated November 05, 2026, titled \"Press Release on Financial Results \".",
+      "url": "https://nsearchives.nseindia.com/corporate/SAILIFE_06112026001244_Stx_Press_Release_05112026_Signed.pdf"
+    },
     {
       "id": "f5c42be9e28b7",
       "ticker": "ADVAIT",
@@ -756,6 +956,16 @@
       "category": "Newspaper Publication",
       "title": "Omnitech Engineering Limited has informed the Exchange regarding submission of Newspaper clippings of Extract of Standalone and Consolidated unaudited Financial Results for the quarter and half year ended September 30, 2026",
       "url": "https://nsearchives.nseindia.com/corporate/OMNITECHENG_05112026113436_NEWSPPAER_AD_Q2_SIGNED.pdf"
+    },
+    {
+      "id": "f65128169e115",
+      "ticker": "LGEINDIA",
+      "company": "LG Electronics India Limited",
+      "exchange": "NSE",
+      "date": "2026-11-05T11:33:23.000Z",
+      "category": "Investor Presentation",
+      "title": "LG Electronics India Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/LGEINDIA_05112026113224_InvestorPresentation.pdf"
     },
     {
       "id": "f9ac71cb089aa",
@@ -9478,6 +9688,16 @@
       "url": "https://nsearchives.nseindia.com/corporate/SAREGAMA_30092026183944_Signed_ESOP_Intimation_VM.pdf"
     },
     {
+      "id": "f0173e86a3aec",
+      "ticker": "VAML",
+      "company": "Vedanta Aluminium Metal Limited",
+      "exchange": "NSE",
+      "date": "2026-09-30T18:11:14.000Z",
+      "category": "Credit Rating",
+      "title": "Vedanta Aluminium Metal Limited has informed the Exchange about Credit Rating",
+      "url": "https://nsearchives.nseindia.com/corporate/VAML_30092026181054_VAMLSEIntimationICRAratingsigned.pdf"
+    },
+    {
       "id": "fea3cef112297",
       "ticker": "GANESHBE",
       "company": "Ganesh Benzoplast Limited",
@@ -11216,6 +11436,16 @@
       "category": "Shareholders meeting",
       "title": "Virtuoso Optoelectronics Limited has submitted the Exchange a copy Srutinizers report of Extraordinary General Meeting held on September 24, 2026. Further, the company has informed the Exchange regarding voting results.",
       "url": "https://nsearchives.nseindia.com/corporate/VIRTUOSO_25092026153249_Voting_result_Final.pdf"
+    },
+    {
+      "id": "fbbfe382a018d",
+      "ticker": "HILINFRA",
+      "company": "Highway Infrastructure Limited",
+      "exchange": "NSE",
+      "date": "2026-09-25T14:40:42.000Z",
+      "category": "Investor Presentation",
+      "title": "Highway Infrastructure Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/HIGHWAY123_25092026144028_HIL_Reg30_Analysts_meet.pdf"
     },
     {
       "id": "fdc3425f0f55d",
@@ -19776,236 +20006,6 @@
       "category": "Disclosure",
       "title": "Balu Forge Industries Limited has informed the Exchange about Press Release regarding receipt of multi month contract for 155mm ERFB BB/BT Shells.",
       "url": "https://nsearchives.nseindia.com/corporate/BALUFORGE_17082026085955_Intimation.pdf"
-    },
-    {
-      "id": "f4fd66c6855cb",
-      "ticker": "STLTECH",
-      "company": "Sterlite Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-08-15T19:05:21.000Z",
-      "category": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
-      "title": "STLTECH: Sterlite Technologies Limited has informed the Exchange about Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company.",
-      "url": "https://nsearchives.nseindia.com/corporate/STLTECH_15082026190509_SE_Intimation_litigation__1__signed.pdf"
-    },
-    {
-      "id": "f2bf385dd8f90",
-      "ticker": "RUBICON",
-      "company": "Rubicon Research Limited",
-      "exchange": "NSE",
-      "date": "2026-08-15T12:11:25.000Z",
-      "category": "Newspaper Publication",
-      "title": "Rubicon Research Limited has informed the Exchange about Copy of Newspaper Publication",
-      "url": "https://nsearchives.nseindia.com/corporate/9823522970_15082026121045_RRLSEIntimationNewspaperadvt15Aug2026.pdf"
-    },
-    {
-      "id": "f56cbc95ad156",
-      "ticker": "SOLARINDS",
-      "company": "Solar Industries India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-15T10:47:30.000Z",
-      "category": "Newspaper Publication",
-      "title": "Solar Industries India Limited has informed the Exchange about Copy of Newspaper Publication for the Unaudited Financial Results for the quarter ended on June 30, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/SOLARINDS_15082026104717_signednewspaper1.pdf"
-    },
-    {
-      "id": "fdbe3751aa0d7",
-      "ticker": "NORTHARC",
-      "company": "Northern Arc Capital Limited",
-      "exchange": "NSE",
-      "date": "2026-08-14T22:10:55.000Z",
-      "category": "Action(s) taken or orders passed",
-      "title": "Northern Arc Capital Limited has informed the Exchange about Action(s) taken or orders passed",
-      "url": "https://nsearchives.nseindia.com/corporate/NACL2020_14082026221042_NACL_Fine_or_penalties_sd.pdf"
-    },
-    {
-      "id": "f97a8f2c5d379",
-      "ticker": "RUBICON",
-      "company": "Rubicon Research Limited",
-      "exchange": "NSE",
-      "date": "2026-08-14T21:58:16.000Z",
-      "category": "Disclosure",
-      "title": "Rubicon Research Limited has informed the Exchange about Audio Recording of Earnings Call",
-      "url": "https://nsearchives.nseindia.com/corporate/9823522970_14082026215718_RRLSEIntimationAudioRecording14Aug2026.pdf"
-    },
-    {
-      "id": "fd0ef98919d94",
-      "ticker": "FLYSBS",
-      "company": "FlySBS Aviation Limited",
-      "exchange": "NSE",
-      "date": "2026-08-14T20:06:40.000Z",
-      "category": "Monitoring Agency Report",
-      "title": "Monitoring Agency Report issued by CARE Ratings Limited, the Monitoring Agency, for the quarter ended June 30, 2026 in respect of Utilization of IPO proceeds of the company.",
-      "url": "https://nsearchives.nseindia.com/corporate/FLYSBS_14082026200626_MARIPOFinal.pdf"
-    },
-    {
-      "id": "f5f104eb847fb",
-      "ticker": "LGEINDIA",
-      "company": "LG Electronics India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-14T19:39:11.000Z",
-      "category": "Investor Presentation",
-      "title": "LG Electronics India Limited has informed the Exchange about Link of Recording",
-      "url": "https://nsearchives.nseindia.com/corporate/LGEINDIA_14082026193613_Audio_Recording.pdf"
-    },
-    {
-      "id": "f2eead7d5a908",
-      "ticker": "DIXON",
-      "company": "Dixon Technologies (India) Limited",
-      "exchange": "NSE",
-      "date": "2026-08-14T18:59:20.000Z",
-      "category": "Giving guarantees/indemnity/ becoming a surety for third party",
-      "title": "Dixon Technologies (India) Limited has informed the Exchange about Giving guarantees/indemnity/ becoming a surety for third party",
-      "url": "https://nsearchives.nseindia.com/corporate/DIXON_14082026185848_CGPEPL14082026.pdf"
-    },
-    {
-      "id": "f5d1078554d99",
-      "ticker": "SKYGOLD",
-      "company": "SKY GOLD AND DIAMONDS LIMITED",
-      "exchange": "NSE",
-      "date": "2026-08-14T18:33:49.000Z",
-      "category": "Investor Presentation",
-      "title": "Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we would like to inform you that the officials of the Company have interacted in the Investor Meeting held today i.e. on Friday, 14th August 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/SKYGOLD_14082026183316_Outcome14082026.pdf"
-    },
-    {
-      "id": "f0222dcf4583d",
-      "ticker": "GMMPFAUDLR",
-      "company": "GMM Pfaudler Limited",
-      "exchange": "NSE",
-      "date": "2026-08-14T18:27:21.000Z",
-      "category": "Disclosure",
-      "title": "Enclosed please find intimation regarding ESG rating by Crisil ESG Ratings & Analytics Limited",
-      "url": "https://nsearchives.nseindia.com/corporate/GMMPFAUDLR_14082026182551_GMM_ESG_Rating_-_Crisil.pdf"
-    },
-    {
-      "id": "f2ec4ccfcecc3",
-      "ticker": "CMLL",
-      "company": "Caliber Mining and Logistics Limited",
-      "exchange": "NSE",
-      "date": "2026-08-14T18:14:51.000Z",
-      "category": "Investor Presentation",
-      "title": "Caliber Mining and Logistics Limited has informed the Exchange about Transcript",
-      "url": "https://nsearchives.nseindia.com/corporate/CMLL_14082026181431_Earnings_Call_Transcript_Q1_FY_2026-27.pdf"
-    },
-    {
-      "id": "faef18a380450",
-      "ticker": "DEVYANI",
-      "company": "Devyani International Limited",
-      "exchange": "NSE",
-      "date": "2026-08-14T18:02:49.000Z",
-      "category": "Shareholders meeting",
-      "title": "Devyani International Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on August 14, 2026. Further, the company has submitted the Exchange a copy of Srutinizers report.",
-      "url": "https://nsearchives.nseindia.com/corporate/DEVYANI_14082026180220_DILAGMOutcome14082026_sd.pdf"
-    },
-    {
-      "id": "faa58814831ee",
-      "ticker": "DENTA",
-      "company": "Denta Water and Infra Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-08-14T17:48:36.000Z",
-      "category": "Press Release",
-      "title": "Denta Water and Infra Solutions Limited has informed the Exchange regarding a press release dated August 14, 2026, titled \"Denta Water reports operating revenue of &#8377; 586.64 million in Q1FY27; Confirmed order book of &#8377; 8,508.96 million\".",
-      "url": "https://nsearchives.nseindia.com/corporate/DENTA_14082026174824_Press_Release_Q1FY27.pdf"
-    },
-    {
-      "id": "fbfd1b4160dc2",
-      "ticker": "PDSL",
-      "company": "PDS Limited",
-      "exchange": "NSE",
-      "date": "2026-08-14T17:48:21.000Z",
-      "category": "Investor Presentation",
-      "title": "PDS Limited has informed the Exchange about Transcript",
-      "url": "https://nsearchives.nseindia.com/corporate/PDSL_14082026174814_Ltr_IntimationofConCallTranscript_14082026.pdf"
-    },
-    {
-      "id": "f87750393a7eb",
-      "ticker": "HILINFRA",
-      "company": "Highway Infrastructure Limited",
-      "exchange": "NSE",
-      "date": "2026-08-14T17:39:08.000Z",
-      "category": "Investor Presentation",
-      "title": "Highway Infrastructure Limited has informed the Exchange about Investor Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/HIGHWAY123_14082026173858_HIL_Presentation_Q1_14082026.pdf"
-    },
-    {
-      "id": "f8e7ff58f18f7",
-      "ticker": "GANESHBE",
-      "company": "Ganesh Benzoplast Limited",
-      "exchange": "NSE",
-      "date": "2026-08-14T17:34:56.000Z",
-      "category": "Disclosure",
-      "title": "Ganesh Benzoplast Limited has informed the Exchange about incorporation of Wholly owned subsidiary in Singapore",
-      "url": "https://nsearchives.nseindia.com/corporate/GANESHBE_14082026173439_Regulation30disclosureforeignsubsidaryinc.pdf"
-    },
-    {
-      "id": "f93b046ae2868",
-      "ticker": "HARIOMPIPE",
-      "company": "Hariom Pipe Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-08-14T17:31:39.000Z",
-      "category": "Investor Presentation",
-      "title": "Hariom Pipe Industries Limited has informed the Exchange about Investor Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/hariompipes_14082026172916_Investor_Presentation.pdf"
-    },
-    {
-      "id": "f4376d095d5d4",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-14T17:27:59.000Z",
-      "category": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
-      "title": "Sapphire Foods India Limited has informed the Exchange about Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
-      "url": "https://nsearchives.nseindia.com/corporate/SAPPHIRE_14082026172751_NSE.pdf"
-    },
-    {
-      "id": "f82f3618a2e7a",
-      "ticker": "KSHINTL",
-      "company": "KSH International Limited",
-      "exchange": "NSE",
-      "date": "2026-08-14T17:23:38.000Z",
-      "category": "Investor Presentation",
-      "title": "KSH International Limited has submitted to the Exchange, Transcript of the Earnings Conference Call held on August 11, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/INTERNATIONAL_14082026171945_KSHINTL_Intimation_of_Transcripts_signed.pdf"
-    },
-    {
-      "id": "f0e1810b0cb34",
-      "ticker": "RUBICON",
-      "company": "Rubicon Research Limited",
-      "exchange": "NSE",
-      "date": "2026-08-14T17:16:41.000Z",
-      "category": "Monitoring Agency Report",
-      "title": "Monitoring Agency Report for the quarter ended June 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/9823522970_14082026171630_SEIntimationMAR30062026.pdf"
-    },
-    {
-      "id": "f5bf245d9cf7a",
-      "ticker": "RUBICON",
-      "company": "Rubicon Research Limited",
-      "exchange": "NSE",
-      "date": "2026-08-14T17:09:00.000Z",
-      "category": "Change in Directors",
-      "title": "Rubicon Research Limited has informed the Exchange about change in Management",
-      "url": "https://nsearchives.nseindia.com/corporate/9823522970_14082026170850_SEIntimationOutcomeVCSM14082026.pdf"
-    },
-    {
-      "id": "f318083744367",
-      "ticker": "RUBICON",
-      "company": "Rubicon Research Limited",
-      "exchange": "NSE",
-      "date": "2026-08-14T17:00:52.000Z",
-      "category": "Investor Presentation",
-      "title": "Rubicon Research Limited has informed the Exchange about Investor Presentation",
-      "url": "https://nsearchives.nseindia.com/corporate/9823522970_14082026170022_RRLSEIntimationEarningsPPT14UG2026.pdf"
-    },
-    {
-      "id": "ffa6885ed7646",
-      "ticker": "RUBICON",
-      "company": "Rubicon Research Limited",
-      "exchange": "NSE",
-      "date": "2026-08-14T16:54:49.000Z",
-      "category": "Board Meeting",
-      "title": "Rubicon Research Limited has submitted to the Exchange, the financial results for the quarter ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/9823522970_14082026165300_RRLSEIntimationOutcomeUFR14Aug2026.pdf"
     }
   ]
 }
