@@ -1,13 +1,70 @@
 {
-  "generated_at": "2026-11-07T09:12:53.515Z",
+  "generated_at": "2026-11-07T19:11:15.340Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 142,
-    "watchlist": 600,
-    "universe": 50,
-    "total": 650
+    "watchlist": 609,
+    "universe": 51,
+    "total": 660
   },
   "items": [
+    {
+      "id": "ndf1edd7efdf6",
+      "ticker": "LAXMIDENTL",
+      "company": "Laxmi Dental Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Laxmi Dental Q2 FY27 Earnings Call: Revenue and EBITDA Highlights",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWVpoZldobjBjelUxN2l5blp3bC1YSzVUUE5mYWRscXhXUlNmNnIwbUE0bDF3bWFLWTZsRmxZVlYtN2NpSS1fTlVma05rdWxXeURuVFhQdGtuT3dibEVkVUVmcE9PM200VEd1MGE5YWRWeTBiTDJsampfYjlIb3VKbVA5MVJwdUduc3RNVHc0eEdGZThDVGZNbGtzWGxRTkwwR0JHbnBObkFSWjlEY0NzVjI4MThaaFE?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-11-07T17:20:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Laxmi Dental reported Q2 FY27 revenue and EBITDA results.",
+      "enriched": true
+    },
+    {
+      "id": "n0c9d21844b87",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Earnings call transcript: Surya Roshni posts record Q2 FY 2027 revenue By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcTJjUWhpUC1wQ015Wlo0V2RndFdHNld4d3FDY0UtUHVOTm8ySFNLTWpnck9tUkNrRUdUS2tBVW5rc3FIdGd4WjYtXzBBNzJLdXFlMjdTX3ZrVTNIakNHc0dQWWpFX3hnRHVNSXh5RVJSSXNJZlhIQ3RxUXVEelB6UkYwaXVYZWMwcm5fa2lUY1N4N0t0LVF6ZG5PSEZXYkZLLTRZNzJQQVRGd24wRTBFU2JqM0xOY3NUMXZGWEJ3VlM2a3dMNjltbzJR?oc=5",
+      "source": "Investing.com India",
+      "date": "2026-11-07T12:10:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Surya Roshni posted record revenue in Q2 FY27.",
+      "enriched": true
+    },
+    {
+      "id": "nb0cba5e81054",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
+      "scope": [
+        "universe"
+      ],
+      "title": "Investigation backlogs an operational challenge for Indian drug production units facing USFDA scrutiny, says report",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOWnVMdmF3R3BsOGp3MDA1bGUzX184Znh3Y2hGZWtWc2JSM25OZTVUVUdwSUJIblZGQzA4U2RlM25NdThzYWYtdWpOWWpNNW50aU0xa3d1QnRfRDBrNFp4X1plLVlfRnV5RkI0aGVEMnVzeXRsRUtUVDBQLXVMLUJDcjR1eGtEek5VZkZCR1gzUWprQk5DZ2FLNWxIQVF1c0t0OVFGSFZlbjh1TUdQTG5TR2JNMEY0RnUwYjZjbEhNd1JRcVE2UWtuUmRnRi1ZUVltWlR1S3ZZUzQ0WkhaallpQkEtaGUwYzN2OU1rdDRQbnhUZ3FpMzhPS25hU1VxVTlXTTk4adIBhAJBVV95cUxOWnVMdmF3R3BsOGp3MDA1bGUzX184Znh3Y2hGZWtWc2JSM25OZTVUVUdwSUJIblZGQzA4U2RlM25NdThzYWYtdWpOWWpNNW50aU0xa3d1QnRfRDBrNFp4X1plLVlfRnV5RkI0aGVEMnVzeXRsRUtUVDBQLXVMLUJDcjR1eGtEek5VZkZCR1gzUWprQk5DZ2FLNWxIQVF1c0t0OVFGSFZlbjh1TUdQTG5TR2JNMEY0RnUwYjZjbEhNd1JRcVE2UWtuUmRnRi1ZUVltWlR1S3ZZUzQ0WkhaallpQkEtaGUwYzN2OU1rdDRQbnhUZ3FpMzhPS25hU1VxVTlXTTk4aQ?oc=5",
+      "source": "Fortune India",
+      "date": "2026-11-07T11:50:22.000Z",
+      "topic": "Trouble",
+      "keyword": "Investigation",
+      "importance": "medium",
+      "mood": "negative",
+      "takeaway": "Investigation backlogs pose operational challenges for Indian drug units under USFDA scrutiny.",
+      "enriched": true
+    },
     {
       "id": "nf9f9d432a27d",
       "ticker": "ESDS",
@@ -45,7 +102,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "MTAR Technologies discussed Q2 FY27 results in earnings call.",
-      "sources_count": 3,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -246,7 +303,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "GMM Pfaudler released Q2 FY27 earnings call audio.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -403,6 +460,25 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "KSH International approves capacity expansion to 72,200 metric tons.",
+      "enriched": true
+    },
+    {
+      "id": "n439609849350",
+      "ticker": "OMNI",
+      "company": "Omnitech Engineering Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Omnitech Engineering Q2FY27 net profit up 32.6%; order book hits ₹31,780 mn",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOakZreFRJVkxEUWI0WkszRXlUQjVGQWJUUHNGcExpTTRnRk5CRGVGUFZ2T25oOTd3SmpRMkhYVnByUV9lMzlCRUVUNDJsNk9VV0N1MUZlY3c2NHRwV3BIVEM0UENSd181ckVCSmotbTRDSk1mNU95cFltWEM5LVk2a1JkQ3EycUJQTS12STd4ZFh3TTdMdm1UcmE4MkJ1SmFuNmNldk9oVHNQUjFUNlhoanA2cWtQMFhxTXc?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-11-04T13:40:23.000Z",
+      "topic": "Money",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Omnitech Engineering Q2 profit rose 32.6%; order book reached Rs 31,780 million.",
       "enriched": true
     },
     {
@@ -829,26 +905,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Zen Technologies reported record Q2 revenue with expanding order book.",
-      "enriched": true
-    },
-    {
-      "id": "n0c1c17d6697a",
-      "ticker": "CMLL",
-      "company": "Caliber Mining and Logistics Limited",
-      "sector": "Oil Gas & Consumable Fuels",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Caliber Mining and Logistics announces resignation of Company Secretary",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcFJ3bUxOY2NkVzdGM2h5eXEzelNydVpibTV4b1MxeFVaeGpLUmhBdEtVSC1VVVZIZmFobEg2LTl3QU1fakltNzloUkVBTHd6SThpSDJCakx0M0VESWdvT0FsYVd6N3cxZXZiZE85TlpwbWcyZ1g5NGZQNmpnZGVqRGJ2b1Nmano1YnZSRzNGLV8zd1JrSjJhUTh3?oc=5",
-      "source": "InvestyWise",
-      "date": "2026-11-02T13:30:37.000Z",
-      "topic": "Trouble",
-      "keyword": "Resignation",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Caliber Mining's Company Secretary has resigned.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -1680,6 +1736,27 @@
       "takeaway": "Acutaas Chemicals Q2 2026 revenue exceeds expectations, driving 13% stock gain.",
       "enriched": true,
       "sources_count": 2
+    },
+    {
+      "id": "ne1b53078f0ca",
+      "ticker": "APTUS",
+      "company": "Aptus Value Housing Finance India Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Aptus Value Housing Finance reschedules Q2FY27 earnings call to Nov 4",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdGlnLURQUEhCaWlQRjB4X3hzOHVQbGhjOG9wcklRTHh0YnlBUTJKRW9LSmZpWVZndTNhaWpsWlN2YlJGcTFCXzNrVlV4cXVGSnUxekJVU0lyMktmQUtLeDJpNkUtZXVyU2Y4ZmYtWjhjLTBWRUFiR184eGdXem5vU2otLXkwSzFKcTBCQkVWQk1VdzNBLUFMaHllTEhmeUgwblhTaGNEV3hNaG45ME8tRWRrcWN1NndjVUFNbFVGaVk?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-10-27T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Aptus Value Housing rescheduled its quarterly earnings call to November 4.",
+      "sources_count": 2,
+      "enriched": true
     },
     {
       "id": "nfd1f6bc2257a",
@@ -9239,23 +9316,22 @@
       "enriched": true
     },
     {
-      "id": "n20df92838085",
-      "ticker": "VIVIDEL",
-      "company": "Vivid Electromech Limited",
-      "sector": "Capital Goods",
+      "id": "nf7de43564d5f",
+      "ticker": "LAXMIDENTL",
+      "company": "Laxmi Dental Limited",
+      "sector": "Healthcare",
       "scope": [
-        "portfolio",
         "watchlist"
       ],
-      "title": "Vivid Electromech Ltd - Data center PDUs and Metro Trains Electrical panels with ABB ArTuK Partnership",
-      "url": "https://forum.valuepickr.com/t/vivid-electromech-ltd-data-center-pdus-and-metro-trains-electrical-panels-with-abb-artuk-partnership/223187",
-      "source": "Valuepickr",
-      "date": "2026-07-30T12:57:08.793Z",
-      "topic": "Deals",
-      "keyword": "Partnership",
+      "title": "Laxmi Dental Q2 Profit Rises to Rs 10.04 Crore on Steady Growth | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/healthcarebiotech/Laxmi-Dental-Q2-Profit-Rises-to-Rs-1004-Crore-on-Steady-Growth/6ae9e8bdc6c6dccbb9113084",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Merger",
       "importance": "medium",
       "mood": "positive",
-      "takeaway": "Vivid Electromech partners with ABB ArTuK for data center PDUs and metro train electrical panels.",
+      "takeaway": "Laxmi Dental's quarterly profit rose to Rs 10.04 crore, showing steady growth.",
       "enriched": true
     },
     {
@@ -9551,6 +9627,25 @@
       "enriched": true
     },
     {
+      "id": "n29dd85336bcf",
+      "ticker": "DHOOTTRANS",
+      "company": "Dhoot Transmission Limited",
+      "sector": "Automobile and Auto Components",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Dhoot Transmission targets local ADAS in a 90% import market | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/dhoot-transmission-local-adas-jv-ppt-cmw34y61w006i2gtaruzk1v3g",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Joint Venture",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Dhoot Transmission targeting local ADAS production in market currently 90% dependent on imports.",
+      "enriched": true
+    },
+    {
       "id": "nef53e55160a0",
       "ticker": "KSHINTL",
       "company": "KSH International Limited",
@@ -9586,6 +9681,26 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "KSH plans Rs 185 crore expansion at Supa to increase capacity to 72,200 MT by Q1 FY29.",
+      "enriched": true
+    },
+    {
+      "id": "nc3a355d9d422",
+      "ticker": "OMNI",
+      "company": "Omnitech Engineering Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Omnitech Engineering Limited approves unaudited Q2 FY27 financial results | InvestyWise",
+      "url": "https://www.investywise.com/omnitech-unaudited-financial-results-ipo-proceeds-update/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Omnitech Engineering approved its Q2 FY27 unaudited financial results.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -9627,6 +9742,25 @@
       "enriched": true
     },
     {
+      "id": "n210efa48d9ef",
+      "ticker": "SBCL",
+      "company": "Shivalik Bimetal Controls Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Shivalik Bimetal Controls proposes bonus issue to triple shares | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/shivalik-bimetal-controls-bonus-issue-announcement-cmw38bbs700282hmnphdivslf",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Shivalik Bimetal Controls proposes bonus issue to triple outstanding shares.",
+      "enriched": true
+    },
+    {
       "id": "n0795731e08f0",
       "ticker": "GMMPFAUDLR",
       "company": "GMM Pfaudler Limited",
@@ -9664,25 +9798,6 @@
       "takeaway": "Unimech Aerospace has Rs 855 crore order book reshaping its revenue mix.",
       "enriched": true,
       "sources_count": 2
-    },
-    {
-      "id": "nf7de43564d5f",
-      "ticker": "LAXMIDENTL",
-      "company": "Laxmi Dental Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Laxmi Dental Q2 Profit Rises to Rs 10.04 Crore on Steady Growth | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/English/healthcarebiotech/Laxmi-Dental-Q2-Profit-Rises-to-Rs-1004-Crore-on-Steady-Growth/6ae9e8bdc6c6dccbb9113084",
-      "source": "whalesbook.com",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Merger",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Laxmi Dental's quarterly profit rose to Rs 10.04 crore, showing steady growth.",
-      "enriched": true
     },
     {
       "id": "n8b3bff8769c0",
@@ -9816,6 +9931,25 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Jyoti CNC reported Q2 FY27 revenue of ₹602 crore.",
+      "enriched": true
+    },
+    {
+      "id": "n25aa9c2ce0f6",
+      "ticker": "JYOTICNC",
+      "company": "Jyoti CNC Automation Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Jyoti CNC Automation Ltd (NSE:JYOTICNC) (Q2 2027) Earnings Call Highlights: Record Machine ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jyoti-cnc-automation-ltd-nse-210633186.html",
+      "source": "finance.yahoo.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Jyoti CNC reported record machine sales in Q2 2027 earnings call.",
       "enriched": true
     },
     {
@@ -10635,26 +10769,6 @@
       "enriched": true
     },
     {
-      "id": "nc3a355d9d422",
-      "ticker": "OMNI",
-      "company": "Omnitech Engineering Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Omnitech Engineering Limited approves unaudited Q2 FY27 financial results | InvestyWise",
-      "url": "https://www.investywise.com/omnitech-unaudited-financial-results-ipo-proceeds-update/",
-      "source": "investywise.com",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Approval",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Omnitech Engineering approved its Q2 FY27 unaudited financial results.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "ncde0e5c3323e",
       "ticker": "RPSGVENT",
       "company": "RPSG VENTURES LIMITED",
@@ -11197,6 +11311,26 @@
       "enriched": true
     },
     {
+      "id": "nde999f0c0fef",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho completes majority stake acquisition in Kirana Club and Retail Pulse Labs - CNBC TV18",
+      "url": "https://www.cnbctv18.com/market/meesho-completes-majority-stake-acquisition-in-kirana-club-and-retail-pulse-labs-20029616.htm",
+      "source": "cnbctv18.com",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Meesho completed majority stake acquisition in Kirana Club and Retail Pulse Labs.",
+      "sources_count": 4,
+      "enriched": true
+    },
+    {
       "id": "n8f0ee78c5421",
       "ticker": "MEESHO",
       "company": "Meesho Limited",
@@ -11213,6 +11347,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Meesho approves up to ₹50 crore investment in its Kirana Club arm.",
+      "enriched": true
+    },
+    {
+      "id": "ne40d9d6028ea",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho Limited acquires 92.74% stake in Kirana Club and subsidiary",
+      "url": "https://www.investywise.com/meesho-limited-completes-acquisition-of-kirana-club-pte-itd/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Meesho acquired 92.74% stake in Kirana Club and its subsidiary.",
       "enriched": true
     },
     {
@@ -11713,6 +11866,26 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Epigral Q2 profit rose 27% to ₹65.1 crore from ₹51.2 crore year-on-year.",
+      "enriched": true
+    },
+    {
+      "id": "n4d7176e71fac",
+      "ticker": "CMLL",
+      "company": "Caliber Mining and Logistics Limited",
+      "sector": "Oil Gas & Consumable Fuels",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Caliber Mining and Logistics announces resignation of Company Secretary | InvestyWise",
+      "url": "https://www.investywise.com/caliber-mining-and-logistics-ltd-resignation-of-company-secretary/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Caliber Mining announced resignation of Company Secretary.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -12664,6 +12837,25 @@
       "importance": "medium",
       "mood": "negative",
       "takeaway": "Thyrocare's Chief Scientific Officer has resigned from the company.",
+      "enriched": true
+    },
+    {
+      "id": "n1e835c5d7f93",
+      "ticker": "LAXMIDENTL",
+      "company": "Laxmi Dental Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Laxmi Dental redirects Rs 48.1 crore to owned facilities | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/laxmi-dental-redirects-ipo-funds-concall-cmw6nxm8p00172fph78lsh8ft",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Laxmi Dental reallocating Rs 48.1 crore to expand its own manufacturing facilities.",
       "enriched": true
     }
   ]
