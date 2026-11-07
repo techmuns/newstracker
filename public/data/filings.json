@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T09:23:41.923Z",
+  "generated_at": "2026-11-07T19:08:20.814Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,86 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "fcc0fbffe3996",
+      "ticker": "EPIGRAL",
+      "company": "Epigral Limited",
+      "exchange": "NSE",
+      "date": "2026-11-07T23:55:35.000Z",
+      "category": "Investor Presentation",
+      "title": "Epigral Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/MFL_07112026235522_EPLTranscriptQ2.pdf"
+    },
+    {
+      "id": "feab6dc1a3865",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "exchange": "NSE",
+      "date": "2026-11-07T19:31:24.000Z",
+      "category": "Disclosure",
+      "title": "Apsis Aerocom Limited has informed the Exchange about General Updates",
+      "url": "https://nsearchives.nseindia.com/corporate/APSIS2025_07112026192925_Outcome_of_Board_meeting_Financialresults.pdf"
+    },
+    {
+      "id": "f2d1010d7cd14",
+      "ticker": "DYNAMATECH",
+      "company": "Dynamatic Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-11-07T18:53:42.000Z",
+      "category": "Investor Presentation",
+      "title": "Dynamatic Technologies Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/DYNAMATICH_07112026185324_InvestorMeetIntimation07112026.pdf"
+    },
+    {
+      "id": "fd2af4318ce1c",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "exchange": "NSE",
+      "date": "2026-11-07T18:00:25.000Z",
+      "category": "Board Meeting",
+      "title": "Apsis Aerocom Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/APSIS2025_07112026175936_Outcome_of_Board_meeting_Financialresults.pdf"
+    },
+    {
+      "id": "ff0c88a8b1301",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "exchange": "NSE",
+      "date": "2026-11-07T17:32:22.000Z",
+      "category": "Disclosure",
+      "title": "Meesho Limited has informed the Exchange under Regulation 30 of SEBI (LODR) Regulations, 2015 - Update on acquisition",
+      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_07112026173212_MLBM_Intimation_under_reg_30_-_KC_acqusition__1_.pdf"
+    },
+    {
+      "id": "f1ca1ea03880b",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "exchange": "NSE",
+      "date": "2026-11-07T17:30:06.000Z",
+      "category": "Newspaper Publication",
+      "title": "Meesho Limited has informed the Exchange about Copy of Newspaper Publication w.r.t Postal Ballot Notice",
+      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_07112026172958_Newspaper_Cover_letter.pdf"
+    },
+    {
+      "id": "f3eb7e2f4f8af",
+      "ticker": "SONATSOFTW",
+      "company": "Sonata Software Limited",
+      "exchange": "NSE",
+      "date": "2026-11-07T17:17:20.000Z",
+      "category": "Newspaper Publication",
+      "title": "Sonata Software Limited has informed the Exchange about Copy of newspaper publication of un-audited financial results for the second quarter and half year ended 30th September, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/SONATSOFTW_07112026171652_sefilingnp.pdf"
+    },
+    {
+      "id": "fc088beefa930",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "exchange": "NSE",
+      "date": "2026-11-07T17:02:30.000Z",
+      "category": "Investor Presentation",
+      "title": "Surya Roshni Limited has informed the Exchange about Link of Recording",
+      "url": "https://nsearchives.nseindia.com/corporate/SURYAROSNI_07112026170216_Q2FY27_Earning_Group_Call_07112026_Signed.pdf"
+    },
     {
       "id": "fc083aaa562ce",
       "ticker": "SURYAROSNI",
@@ -96,6 +176,16 @@
       "category": "Board Meeting",
       "title": "Goldiam International Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
       "url": "https://nsearchives.nseindia.com/corporate/GOLDIAM_07112026125359_Outcome_of_BM-7-11-26.pdf"
+    },
+    {
+      "id": "f45397c444fdc",
+      "ticker": "ANAWIL",
+      "company": "Anawil Wire and Engineering Limited",
+      "exchange": "NSE",
+      "date": "2026-11-07T10:58:59.000Z",
+      "category": "Monitoring Agency Report",
+      "title": "Anawil wire and Engineering Limited has informed the exchange about Monitoring Agency Report quarter ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/ANAWIL_07112026105742_NSE_Intimation.pdf"
     },
     {
       "id": "f4bf79e1e4edb",
@@ -198,6 +288,76 @@
       "url": "https://nsearchives.nseindia.com/corporate/SONATSOFTW_06112026203048_audiorecordingearningscallq2fy27.pdf"
     },
     {
+      "id": "fb3fed83d493d",
+      "ticker": "VIVIDEL",
+      "company": "Vivid Electromech Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T20:25:43.000Z",
+      "category": "Monitoring Agency Report",
+      "title": "Vivid Electromech Limited has informed the Exchange about Statutory Auditor Certificate and Monitoring Agency Report for the quarter ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/VIVID_06112026202533_Intimation_of_SA_Certificate_and_Monitoring_Auditors_Report_30-09-2026.pdf"
+    },
+    {
+      "id": "fb0953a8e6927",
+      "ticker": "SHRIAHIMSA",
+      "company": "Shri Ahimsa Naturals Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T20:19:19.000Z",
+      "category": "Press Release",
+      "title": "Shri Ahimsa Naturals Limited has informed the Exchange regarding a press release dated November 06, 2026, titled \"Embracing into New Horizons, Unlocking Bigger Opportunities\".",
+      "url": "https://nsearchives.nseindia.com/corporate/AHIMSANATURALS_06112026201840_H1FY2027_Press_Release_0611_Signed.pdf"
+    },
+    {
+      "id": "f5fff37ae1b54",
+      "ticker": "SHRIAHIMSA",
+      "company": "Shri Ahimsa Naturals Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T20:06:17.000Z",
+      "category": "Board Meeting",
+      "title": "Shri Ahimsa Naturals Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/AHIMSANATURALS_06112026200057_Outcome_of_Board_Meeting.pdf"
+    },
+    {
+      "id": "f9eac310a08e2",
+      "ticker": "DENTALKART",
+      "company": "Vasa Denticity Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T19:46:45.000Z",
+      "category": "Investor Presentation",
+      "title": "Vasa Denticity Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/VASADENTICITY_06112026194558_investor_meeting_intimation.pdf"
+    },
+    {
+      "id": "f9eb668427bd8",
+      "ticker": "SHANTIINOR",
+      "company": "Shanti Inorganics Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T18:45:48.000Z",
+      "category": "Change in Directors",
+      "title": "Shanti Inorganics Limited has informed the Exchange about change in Management",
+      "url": "https://nsearchives.nseindia.com/corporate/SHANTIIN_06112026184341_OUTCOME_BM_FOR_NSE_S.pdf"
+    },
+    {
+      "id": "fbab6e8b94e28",
+      "ticker": "ANAWIL",
+      "company": "Anawil Wire and Engineering Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T18:45:36.000Z",
+      "category": "Press Release",
+      "title": "Anawil Wire and Engineering Limited has informed the Exchange regarding a press release dated November 06, 2026, titled \"Anawil Wire & Engineering Ltd Strong Revenue Growth Drives Robust EBITDA and PAT Performance in H1FY27.\".",
+      "url": "https://nsearchives.nseindia.com/corporate/ANAWIL_06112026184523_ANAWIL_PRESS_RELEASE_FINAL.pdf"
+    },
+    {
+      "id": "fdac5a7b8d9a5",
+      "ticker": "DENTALKART",
+      "company": "Vasa Denticity Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T18:44:22.000Z",
+      "category": "Change in Directors",
+      "title": "Vasa Denticity Limited has informed the Exchange regarding Appointment of Mr Vikas Agarwal, Reappointment as Chairman & Managing Director of the company w.e.f. November 06, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/VASADENTICITY_06112026184319_Re-Appointment_of_Vikas_Agarwal.pdf"
+    },
+    {
       "id": "fc8cf4ed89434",
       "ticker": "DYNAMATECH",
       "company": "Dynamatic Technologies Limited",
@@ -208,6 +368,56 @@
       "url": "https://nsearchives.nseindia.com/corporate/DYNAMATICH_06112026184057_EarningPresentationwithCoverLetter06112026.pdf"
     },
     {
+      "id": "f211e7227311a",
+      "ticker": "SHANTIINOR",
+      "company": "Shanti Inorganics Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T18:41:14.000Z",
+      "category": "Statement of deviation(s) or variation(s) under Reg. 32",
+      "title": "Shanti Inorganics Limited has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32",
+      "url": "https://nsearchives.nseindia.com/corporate/SHANTIIN_06112026184059_Statement_of_Deviation_or_Variation_for_NSE_s.pdf"
+    },
+    {
+      "id": "f83e3bf5ffde7",
+      "ticker": "SHANTIINOR",
+      "company": "Shanti Inorganics Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T18:39:14.000Z",
+      "category": "Monitoring Agency Report",
+      "title": "Monitoring Report for the quarter ended 30/09/2026",
+      "url": "https://nsearchives.nseindia.com/corporate/SHANTIIN_06112026183707_Monitoring_Agency_Report_for_NSE_s.pdf"
+    },
+    {
+      "id": "f2470fbf3111b",
+      "ticker": "DENTALKART",
+      "company": "Vasa Denticity Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T18:34:23.000Z",
+      "category": "Change in Directors",
+      "title": "Vasa Denticity Limited has informed the Exchange regarding Appointment of Mr Ravi kant Jagetiya, Reappointment as Non- Executive Independent Director of the company w.e.f. November 06, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/VASADENTICITY_06112026183325_Re-Appointment_of_Ravi_Kant_Jagetiya.pdf"
+    },
+    {
+      "id": "fa210bc6ad18e",
+      "ticker": "DENTALKART",
+      "company": "Vasa Denticity Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T18:31:18.000Z",
+      "category": "Change in Directors",
+      "title": "Vasa Denticity Limited has informed the Exchange regarding Appointment of Mr Varun Chugh as Non- Executive Independent Director of the company w.e.f. November 06, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/VASADENTICITY_06112026183002_Re-Appoinment_of_Varun_Chugh.pdf"
+    },
+    {
+      "id": "f4828f9b940fd",
+      "ticker": "DENTALKART",
+      "company": "Vasa Denticity Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T18:16:06.000Z",
+      "category": "Board Meeting",
+      "title": "Vasa Denticity Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/VASADENTICITY_06112026181338_Outcome_of_Board_Meeting_Final.pdf"
+    },
+    {
       "id": "fa6481c02f495",
       "ticker": "TONBO",
       "company": "Tonbo Imaging India Limited",
@@ -216,6 +426,16 @@
       "category": "Investor Presentation",
       "title": "Audio recording of the Earnings Conference Call held on November 6, 2026 at 9:30 A.M.",
       "url": "https://nsearchives.nseindia.com/corporate/TONBO_06112026181554_CL_AudioRecording.pdf"
+    },
+    {
+      "id": "feb9a473cd1e1",
+      "ticker": "SHANTIINOR",
+      "company": "Shanti Inorganics Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T18:09:34.000Z",
+      "category": "Board Meeting",
+      "title": "Shanti Inorganics Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/SHANTIIN_06112026180756_OUTCOME_BM_FOR_NSE_S.pdf"
     },
     {
       "id": "fc9c4c2590783",
@@ -6018,6 +6238,16 @@
       "url": "https://nsearchives.nseindia.com/corporate/SKYGOLD_27102026130654_Outcome27102026.pdf"
     },
     {
+      "id": "fc0873f2f039a",
+      "ticker": "MTARTECH",
+      "company": "Mtar Technologies Limited",
+      "exchange": "NSE",
+      "date": "2026-10-27T13:06:33.000Z",
+      "category": "Investor Presentation",
+      "title": "Mtar Technologies Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/MTARTECH_27102026130623_Intimation.pdf"
+    },
+    {
       "id": "f6f1bebc53388",
       "ticker": "SAREGAMA",
       "company": "Saregama India Limited",
@@ -7756,6 +7986,16 @@
       "category": "Investor Presentation",
       "title": "Kanohar Electricals Limited has informed the Exchange about Transcript",
       "url": "https://nsearchives.nseindia.com/corporate/KANOHARNSE2026_14102026140957_Stock_Exchange_submission-transcript.pdf"
+    },
+    {
+      "id": "fec072b637988",
+      "ticker": "SHAILY",
+      "company": "Shaily Engineering Plastics Limited",
+      "exchange": "NSE",
+      "date": "2026-10-14T14:06:43.000Z",
+      "category": "Newspaper Publication",
+      "title": "Shaily Engineering Plastics Limited has informed the Exchange about Copy of Newspaper Publication",
+      "url": "https://nsearchives.nseindia.com/corporate/Shailyengineering_14102026140620_Intimation_SE_Newspaper_signed.pdf"
     },
     {
       "id": "f4d61882d7851",
@@ -15028,6 +15268,16 @@
       "url": "https://nsearchives.nseindia.com/corporate/FLYSBS_08092026130659_NewspaperPublication.pdf"
     },
     {
+      "id": "f53816c2a1366",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "exchange": "NSE",
+      "date": "2026-09-08T12:56:54.000Z",
+      "category": "Receipt of Order",
+      "title": "Goldiam International Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
+      "url": "https://nsearchives.nseindia.com/corporate/GOLDIAM_08092026125633_Intimation_of_export_order-8-9-26.pdf"
+    },
+    {
       "id": "fd9469039d370",
       "ticker": "SHIPROCKET",
       "company": "Shiprocket Limited",
@@ -19756,256 +20006,6 @@
       "category": "Investor Presentation",
       "title": "Lenskart Solutions Limited has informed the Exchange about Transcript of Earnings Call with respect to Financial Results for the quarter ended June 30, 2026",
       "url": "https://nsearchives.nseindia.com/corporate/LENSKART_19082026210345_Reg30_-_Transcript_-_SE_Intimation.pdf"
-    },
-    {
-      "id": "f6f6d8f476d07",
-      "ticker": "LENSKART",
-      "company": "Lenskart Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-08-19T20:58:54.000Z",
-      "category": "Shareholders meeting",
-      "title": "Lenskart Solutions Limited has informed the Exchange regarding Proceedings of 18th Annual General Meeting held on August 19, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/LENSKART_19082026205802_AGM_Proceedings.pdf"
-    },
-    {
-      "id": "f54903f726f98",
-      "ticker": "SHIPROCKET",
-      "company": "Shiprocket Limited",
-      "exchange": "NSE",
-      "date": "2026-08-19T20:30:51.000Z",
-      "category": "Disclosure",
-      "title": "Shiprocket Limited has informed the Exchange regarding 'Intimation under Regulation 8(2) of the Securities Exchange Board of India (Prohibition of Insider Trading) Regulations, 2015.'",
-      "url": "https://nsearchives.nseindia.com/corporate/SHIPROCKET2011_19082026202634_Intimation_under_Regulation_8_2_.pdf"
-    },
-    {
-      "id": "fcd47da3353ec",
-      "ticker": "EMAPARTNER",
-      "company": "EMA Partners India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-19T20:15:23.000Z",
-      "category": "Change in Directors",
-      "title": "EMA Partners India Limited has informed the Exchange regarding Appointment of Mr M/s V C Shah & Co as the Internal Auditor of the company w.e.f. August 19, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/EMAIN_19082026201517_Outcome_BM.pdf"
-    },
-    {
-      "id": "f49c1b86facfd",
-      "ticker": "EMAPARTNER",
-      "company": "EMA Partners India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-19T20:14:10.000Z",
-      "category": "Change in Directors",
-      "title": "EMA Partners India Limited has informed the Exchange regarding Appointment of M/s AP Sanzgiri & Co as a Statutory Auditor of the company w.e.f. September 29, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/EMAIN_19082026201403_Outcome_BM.pdf"
-    },
-    {
-      "id": "f96372f5da0a0",
-      "ticker": "SHIPROCKET",
-      "company": "Shiprocket Limited",
-      "exchange": "NSE",
-      "date": "2026-08-19T20:13:06.000Z",
-      "category": "Disclosure",
-      "title": "Shiprocket Limited has informed the Exchange regarding 'Intimation under Regulation 30 (5) of the Securities and Exchange Board of India (Listing Obligations and isclosure Requirements Regulations), 2015 ( Listing Regulations )'.",
-      "url": "https://nsearchives.nseindia.com/corporate/SHIPROCKET2011_19082026201230_PTI_Information_Regulation_8_2_.pdf"
-    },
-    {
-      "id": "f694b1cc334a1",
-      "ticker": "EMAPARTNER",
-      "company": "EMA Partners India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-19T20:08:49.000Z",
-      "category": "Acquisition",
-      "title": "EMA Partners India Limited has informed the Exchange about the Approval of scheme of arrangement for the merger of EMA Partners Executive Search Private Limited(Transferor Company No 1), Emagine People Technologies Private Limited (Transferor Company No2) and EMA Decision Dynamics Private Limited (Transferor Company No 3) with the Company viz., EMA Partners India Limited, (Transferee Company).",
-      "url": "https://nsearchives.nseindia.com/corporate/EMAIN_19082026200840_Outcome_BM.pdf"
-    },
-    {
-      "id": "f902f0824f7f1",
-      "ticker": "SHIPROCKET",
-      "company": "Shiprocket Limited",
-      "exchange": "NSE",
-      "date": "2026-08-19T20:08:07.000Z",
-      "category": "Disclosure",
-      "title": "Shiprocket Limited has informed the Exchange regarding 'Intimation under Regulation 6(1) of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements Regulations), 2015.",
-      "url": "https://nsearchives.nseindia.com/corporate/SHIPROCKET2011_19082026200751_Appointment_of_Company_Secretary_and_Compliance_Officer.pdf"
-    },
-    {
-      "id": "fff8c9157083b",
-      "ticker": "EMAPARTNER",
-      "company": "EMA Partners India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-19T20:07:07.000Z",
-      "category": "Board Meeting",
-      "title": "EMA Partners India Limited has informed the Exchange regarding Approval of scheme of arrangement for the merger of EMA Partners Executive Search Private Limited(Transferor Company No 1), Emagine People Technologies Private Limited (Transferor Company No2) and EMA Decision Dynamics Private Limited (Transferor Company No 3) with the Company viz., EMA Partners India Limited, (Transferee Company) in the outcome of Board Meeting held on August 19, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/EMAIN_19082026200632_Outcome_BM.pdf"
-    },
-    {
-      "id": "fa921df05315d",
-      "ticker": "SHIPROCKET",
-      "company": "Shiprocket Limited",
-      "exchange": "NSE",
-      "date": "2026-08-19T20:04:59.000Z",
-      "category": "Disclosure",
-      "title": "Shiprocket Limited has informed the Exchange regarding 'Intimation under Regulation 7(1) of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements Regulations), 2015'.",
-      "url": "https://nsearchives.nseindia.com/corporate/SHIPROCKET2011_19082026200351_RTA_Appointment_Regulation_7__1_.pdf"
-    },
-    {
-      "id": "f70638391228c",
-      "ticker": "EMAPARTNER",
-      "company": "EMA Partners India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-19T20:01:15.000Z",
-      "category": "Board Meeting",
-      "title": "EMA Partners India Limited has informed the Exchange regarding the Re- Appointment of Statutory Auditor and Appointment of Internal Auditor in Outcome of Board Meeting held on August 19, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/EMAIN_19082026200020_Outcome_BM.pdf"
-    },
-    {
-      "id": "f69447c0a1b38",
-      "ticker": "PVRINOX",
-      "company": "PVR INOX Limited",
-      "exchange": "NSE",
-      "date": "2026-08-19T19:59:55.000Z",
-      "category": "Disclosure",
-      "title": "PVR INOX Limited has submitted to Stock Exchange Business Responsibility and Sustainability Reporting (BRSR) for the Financial Year ended on 31st March, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/PVRINOXLTD_19082026195937_PVRINOXBRSRFY20252619082026.pdf"
-    },
-    {
-      "id": "f69652c1f2800",
-      "ticker": "SHIPROCKET",
-      "company": "Shiprocket Limited",
-      "exchange": "NSE",
-      "date": "2026-08-19T19:33:21.000Z",
-      "category": "Trading Window",
-      "title": "Shiprocket Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/SHIPROCKET2011_19082026190928_Intimation_for_closure_of_trading_window.pdf"
-    },
-    {
-      "id": "f699c391de8eb",
-      "ticker": "PVRINOX",
-      "company": "PVR INOX Limited",
-      "exchange": "NSE",
-      "date": "2026-08-19T19:26:27.000Z",
-      "category": "Disclosure",
-      "title": "PVR INOX Limited has submitted to Stock Exchange a copy of letter, sent to shareholders whose email Ids are not registered, providing the web-link, QR Code and exact path on the Company's website where complete details of the Annual Report for Financial Year 2025-26 is available.",
-      "url": "https://nsearchives.nseindia.com/corporate/PVRINOXLTD_19082026192615_PVRINOXWeblinkletter19082026.pdf"
-    },
-    {
-      "id": "f84d670216e8a",
-      "ticker": "PVRINOX",
-      "company": "PVR INOX Limited",
-      "exchange": "NSE",
-      "date": "2026-08-19T19:15:41.000Z",
-      "category": "Shareholders meeting",
-      "title": "PVR INOX Limited has submitted to the Stock Exchange Notice of 31st AGM of the Company scheduled to be held on Friday, 11th September, 2026 at 11:00 A.M. (IST) through VC/OAVM along with the Annual Report for the financial year 2025-26.",
-      "url": "https://nsearchives.nseindia.com/corporate/PVRINOXLTD_19082026191147_PVRINOXAGMNOTICEANNUALREPORT2026.pdf"
-    },
-    {
-      "id": "fe74c803ef37d",
-      "ticker": "GULFOILLUB",
-      "company": "Gulf Oil Lubricants India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-19T18:47:21.000Z",
-      "category": "Disclosure",
-      "title": "Please find enclosed Business Responsibility & Sustainability Report FY 2025-26.",
-      "url": "https://nsearchives.nseindia.com/corporate/GULFOILLUB_19082026184550_BRSR2026.pdf"
-    },
-    {
-      "id": "f9a3aee5c6b2b",
-      "ticker": "GULFOILLUB",
-      "company": "Gulf Oil Lubricants India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-19T18:29:35.000Z",
-      "category": "Disclosure",
-      "title": "Please find enclosed the Annual Report 2025-26 of the Company.",
-      "url": "https://nsearchives.nseindia.com/corporate/GULFOILLUB_19082026182852_AnnualReportFY2026.pdf"
-    },
-    {
-      "id": "f09674ed853fd",
-      "ticker": "GULFOILLUB",
-      "company": "Gulf Oil Lubricants India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-19T18:15:16.000Z",
-      "category": "Shareholders meeting",
-      "title": "Please find enclosed the Notice of 18th Annual General Meeting, scheduled to be held on Friday, September 11, 2026 at 3 p.m. (IST) through VC/OAVM.",
-      "url": "https://nsearchives.nseindia.com/corporate/GULFOILLUB_19082026181341_NoticeAGM2026.pdf"
-    },
-    {
-      "id": "fb55eca632fb3",
-      "ticker": "STLTECH",
-      "company": "Sterlite Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-08-19T17:43:49.000Z",
-      "category": "Shareholders meeting",
-      "title": "STLTECH: Sterlite Technologies Limited has informed the Exchange regarding Proceedings of 27th Annual General Meeting held on August 19, 2026. Further, the company has submitted the Exchange a copy of Scrutinizer's Report along with voting results.",
-      "url": "https://nsearchives.nseindia.com/corporate/STLTECH_19082026174320_SEintimation_AGMProceedings_signed.pdf"
-    },
-    {
-      "id": "f3c3d809fb392",
-      "ticker": "JUBLCPL",
-      "company": "Jubilant Agri and Consumer Products Limited",
-      "exchange": "NSE",
-      "date": "2026-08-19T17:36:59.000Z",
-      "category": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
-      "title": "Jubilant Agri and Consumer Products Limited has informed the Exchange about Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
-      "url": "https://nsearchives.nseindia.com/corporate/JACPL_19082026173531_JACPL_GST_SCN_19082026Signed.pdf"
-    },
-    {
-      "id": "f9cd3b1dc9ea5",
-      "ticker": "CANFINHOME",
-      "company": "Can Fin Homes Limited",
-      "exchange": "NSE",
-      "date": "2026-08-19T16:20:21.000Z",
-      "category": "Investor Presentation",
-      "title": "Can Fin Homes Limited has informed the Exchange that Analyst / Investor Meet through Video Conference (VC) is scheduled with the Top Management Team of the Company on Monday, August 24, 2026. For details please refer to the attachment.",
-      "url": "https://nsearchives.nseindia.com/corporate/CANFINHOME_19082026160850_PreAnalystMeet.pdf"
-    },
-    {
-      "id": "f29ec90281362",
-      "ticker": "INDOMIM",
-      "company": "INDO-MIM Limited",
-      "exchange": "NSE",
-      "date": "2026-08-19T15:49:04.000Z",
-      "category": "Newspaper Publication",
-      "title": "INDO-MIM Limited has informed the Exchange about Copy of Newspaper Publication",
-      "url": "https://nsearchives.nseindia.com/corporate/INDOMIM_19082026154801_NewspaperAdv.pdf"
-    },
-    {
-      "id": "fc6c8f8300067",
-      "ticker": "MOBIKWIK",
-      "company": "One Mobikwik Systems Limited",
-      "exchange": "NSE",
-      "date": "2026-08-19T14:51:31.000Z",
-      "category": "Newspaper Publication",
-      "title": "One Mobikwik Systems Limited has informed the Exchange about Copy of Newspaper Publication",
-      "url": "https://nsearchives.nseindia.com/corporate/MOBIKWIK_19082026145053_Intimation_pre-dispatch_of_AGM_notice.pdf"
-    },
-    {
-      "id": "fbf923912458c",
-      "ticker": "URBANCO",
-      "company": "Urban Company Limited",
-      "exchange": "NSE",
-      "date": "2026-08-19T14:44:28.000Z",
-      "category": "Investor Presentation",
-      "title": "Urban Company Limited has informed the Exchange about Schedule of Analyst/ Investor Meeting to be held on August 21, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_19082026144311_Investor_Meeting_SE_Intimation_19082026.pdf"
-    },
-    {
-      "id": "f70df2e5a0996",
-      "ticker": "LAXMIDENTL",
-      "company": "Laxmi Dental Limited",
-      "exchange": "NSE",
-      "date": "2026-08-19T14:17:38.000Z",
-      "category": "Investor Presentation",
-      "title": "Laxmi Dental Limited has informed the Exchange about Transcript",
-      "url": "https://nsearchives.nseindia.com/corporate/LAXMI_19082026141712_Signed_Transcript_Q1_2027.pdf"
-    },
-    {
-      "id": "fe03703a19908",
-      "ticker": "RUBICON",
-      "company": "Rubicon Research Limited",
-      "exchange": "NSE",
-      "date": "2026-08-19T11:57:03.000Z",
-      "category": "Disclosure",
-      "title": "Rubicon Research Limited has informed the Exchange regarding 'Transcript of Earnings Call Q1 FY 2026-27'.",
-      "url": "https://nsearchives.nseindia.com/corporate/9823522970_19082026115613_RRLSEIntimationAudioTranscript14Aug2026.pdf"
     }
   ]
 }
