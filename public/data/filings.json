@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T20:41:45.753Z",
+  "generated_at": "2026-11-07T09:23:41.923Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,106 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "fc083aaa562ce",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "exchange": "NSE",
+      "date": "2026-11-07T14:46:47.000Z",
+      "category": "Investor Presentation",
+      "title": "Surya Roshni Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/SURYAROSNI_07112026144635_Investor_Presentation_November_2026_Signed.pdf"
+    },
+    {
+      "id": "f4ebacf8ee5db",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "exchange": "NSE",
+      "date": "2026-11-07T14:40:20.000Z",
+      "category": "Press Release",
+      "title": "Surya Roshni Limited has informed the Exchange regarding a press release dated November 07, 2026, titled \"SURYA ROSHNI LIMITED ANNOUNCES Q2 & H1 FY27 RESULTS\".",
+      "url": "https://nsearchives.nseindia.com/corporate/SURYAROSNI_07112026144006_Q2FY27_Press_Release_07112026_Signed.pdf"
+    },
+    {
+      "id": "f812a8d1bc0e6",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "exchange": "NSE",
+      "date": "2026-11-07T14:35:54.000Z",
+      "category": "Board Meeting",
+      "title": "Surya Roshni Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/SURYAROSNI_07112026143538_Q2FY27_Unaudited_Results_07112026_Signed.pdf"
+    },
+    {
+      "id": "f9bb785be84d9",
+      "ticker": "DAMCAPITAL",
+      "company": "Dam Capital Advisors Limited",
+      "exchange": "NSE",
+      "date": "2026-11-07T14:16:32.000Z",
+      "category": "Newspaper Publication",
+      "title": "Dam Capital Advisors Limited has informed the Exchange about Copy of Newspaper Publication",
+      "url": "https://nsearchives.nseindia.com/corporate/DAMCAPITAL_07112026141623_Intimation_of_Newspaper_Publication_Signed.pdf"
+    },
+    {
+      "id": "f519ff8512e91",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "exchange": "NSE",
+      "date": "2026-11-07T13:20:51.000Z",
+      "category": "Record Date",
+      "title": "Goldiam International Limited has informed the Exchange that Record date for the purpose of Dividend is 13-Nov-2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/GOLDIAM_07112026132013_Intimation_of_Record_Date-7-11-2026.pdf"
+    },
+    {
+      "id": "ffaa6e1e2a244",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "exchange": "NSE",
+      "date": "2026-11-07T13:18:03.000Z",
+      "category": "Disclosure",
+      "title": "Goldiam International Limited has informed the Exchange about Declaration of 1st Interim Dividend for the FY 2026-27",
+      "url": "https://nsearchives.nseindia.com/corporate/GOLDIAM_07112026131755_Intimation_of_Interim_Dividend-7-11-26.pdf"
+    },
+    {
+      "id": "f777523bcbe6e",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "exchange": "NSE",
+      "date": "2026-11-07T13:11:10.000Z",
+      "category": "Disclosure",
+      "title": "Investor Presentation on financial results of the Company for the quarter and half year ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/GOLDIAM_07112026131102_Intimation_of_Investor_Presentation-7-11-2026.pdf"
+    },
+    {
+      "id": "f5853da341345",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "exchange": "NSE",
+      "date": "2026-11-07T12:59:51.000Z",
+      "category": "Press Release",
+      "title": "Goldiam International Limited has informed the Exchange regarding a press release dated November 07, 2026, titled \"Press Release in respect of Unaudited Financial Results for the quarter and half year ended September 30, 2026\".",
+      "url": "https://nsearchives.nseindia.com/corporate/GOLDIAM_07112026125931_Intimation_of_Press_Release-7-11-2026.pdf"
+    },
+    {
+      "id": "fb84f36129aec",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "exchange": "NSE",
+      "date": "2026-11-07T12:56:17.000Z",
+      "category": "Board Meeting",
+      "title": "Goldiam International Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/GOLDIAM_07112026125359_Outcome_of_BM-7-11-26.pdf"
+    },
+    {
+      "id": "f4bf79e1e4edb",
+      "ticker": "ACUTAAS",
+      "company": "Acutaas Chemicals Limited",
+      "exchange": "NSE",
+      "date": "2026-11-07T10:51:03.000Z",
+      "category": "Disclosure",
+      "title": "Acutaas Chemicals Limited has informed the Exchange regarding 'Annual Sustainability Report for FY 2025-26'.",
+      "url": "https://nsearchives.nseindia.com/corporate/AMIORG_07112026105038_ASRMergedSigned.pdf"
+    },
     {
       "id": "fec24dac88231",
       "ticker": "GANESHBE",
@@ -268,6 +368,16 @@
       "url": "https://nsearchives.nseindia.com/corporate/MOBIKWIK_06112026141941_Intimation_about_granting_of_NBFC_License.pdf"
     },
     {
+      "id": "f4262c7d66c83",
+      "ticker": "VOEPL",
+      "company": "Virtuoso Optoelectronics Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T13:52:46.000Z",
+      "category": "Investor Presentation",
+      "title": "Virtuoso Optoelectronics Limited has informed the Exchange about Link of Recording",
+      "url": "https://nsearchives.nseindia.com/corporate/VIRTUOSO_06112026135240_Recording_cover.pdf"
+    },
+    {
       "id": "ff7449e1fc087",
       "ticker": "ANAWIL",
       "company": "Anawil Wire and Engineering Limited",
@@ -338,6 +448,16 @@
       "url": "https://nsearchives.nseindia.com/corporate/TENNECO_06112026130219_FR_Newspaper_Intimation_Signed.pdf"
     },
     {
+      "id": "fef32a0dac1d5",
+      "ticker": "SHAILY",
+      "company": "Shaily Engineering Plastics Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T12:53:05.000Z",
+      "category": "Investor Presentation",
+      "title": "Shaily Engineering Plastics Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/Shailyengineering_06112026125240_Q2H1FY27_transcipt_CL_SIGNED.pdf"
+    },
+    {
       "id": "f5d59698a8b10",
       "ticker": "VOEPL",
       "company": "Virtuoso Optoelectronics Limited",
@@ -406,6 +526,16 @@
       "category": "Disclosure",
       "title": "DEE Development Engineers Limited has informed the Exchange regarding Outcome of Committee Meeting held on July 08, 2026.",
       "url": "https://nsearchives.nseindia.com/corporate/DDEL_06112026120429_NSEBSE_Outcome.pdf"
+    },
+    {
+      "id": "f7c7e5af98f77",
+      "ticker": "VOEPL",
+      "company": "Virtuoso Optoelectronics Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T12:00:42.000Z",
+      "category": "Investor Presentation",
+      "title": "Virtuoso Optoelectronics Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/VIRTUOSO_06112026115959_Investor_Meet_Presentation.pdf"
     },
     {
       "id": "fd40d5a555dca",
@@ -2878,6 +3008,16 @@
       "url": "https://nsearchives.nseindia.com/corporate/VIVID_03112026125220_Intimation_of_Transcript_of_Earnings_Call_of_H1_FY_27.pdf"
     },
     {
+      "id": "f20f1a7de72f2",
+      "ticker": "TRIVENI",
+      "company": "Triveni Engineering & Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-11-03T12:50:17.000Z",
+      "category": "Newspaper Publication",
+      "title": "Triveni Engineering & Industries Limited has informed the Exchange about Copy of Newspaper Publication",
+      "url": "https://nsearchives.nseindia.com/corporate/TRIVENI_03112026125006_TEIL_NEWSPAPER_SEP26.pdf"
+    },
+    {
       "id": "fd4c488e66bb8",
       "ticker": "ESDS",
       "company": "ESDS Software Solution Limited",
@@ -4788,6 +4928,16 @@
       "url": "https://nsearchives.nseindia.com/corporate/MENONBE_29102026124653_Filing_outcome_signed.pdf"
     },
     {
+      "id": "f67ed78908e97",
+      "ticker": "AVANTEL",
+      "company": "Avantel Limited",
+      "exchange": "NSE",
+      "date": "2026-10-29T12:18:41.000Z",
+      "category": "Disclosure",
+      "title": "Avantel Limited has informed the Exchange about General Updates",
+      "url": "https://nsearchives.nseindia.com/corporate/AVANTEL_29102026121825_PostalBallotNonEmailHoldersIntimationLetter29102026.pdf"
+    },
+    {
       "id": "f817a0fbaa3fb",
       "ticker": "GULFOILLUB",
       "company": "Gulf Oil Lubricants India Limited",
@@ -6466,6 +6616,16 @@
       "category": "Investor Presentation",
       "title": "Sapphire Foods India Limited has informed the Exchange about Link of Recording",
       "url": "https://nsearchives.nseindia.com/corporate/SAPPHIRE_22102026203751_Sapphire_Foods_Audio_Recording_Q2_FY27_Conference_Call.pdf"
+    },
+    {
+      "id": "f0461d51e35f1",
+      "ticker": "SHAILY",
+      "company": "Shaily Engineering Plastics Limited",
+      "exchange": "NSE",
+      "date": "2026-10-22T16:39:14.000Z",
+      "category": "Investor Presentation",
+      "title": "Shaily Engineering Plastics Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/Shailyengineering_22102026163843_CL-Earnings_call_30102026_signed.pdf"
     },
     {
       "id": "f30dbfdb41916",
@@ -11396,6 +11556,16 @@
       "category": "Board Meeting",
       "title": "Bharat Coking Coal Limited has informed the Exchange regarding Outcome of Board Meeting held on September 26, 2026.",
       "url": "https://nsearchives.nseindia.com/corporate/BCCL_26092026154732_disclosure_bm.pdf"
+    },
+    {
+      "id": "f96707a4a83db",
+      "ticker": "DHOOTTRANS",
+      "company": "Dhoot Transmission Limited",
+      "exchange": "NSE",
+      "date": "2026-09-26T12:58:58.000Z",
+      "category": "Trading Window",
+      "title": "Dhoot Transmission Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/DTL_26092026125623_SE_intimation_Window_closure.pdf"
     },
     {
       "id": "f62a2a6f77498",
@@ -19836,176 +20006,6 @@
       "category": "Disclosure",
       "title": "Rubicon Research Limited has informed the Exchange regarding 'Transcript of Earnings Call Q1 FY 2026-27'.",
       "url": "https://nsearchives.nseindia.com/corporate/9823522970_19082026115613_RRLSEIntimationAudioTranscript14Aug2026.pdf"
-    },
-    {
-      "id": "fc1e79e4dc9e7",
-      "ticker": "SURYAROSNI",
-      "company": "Surya Roshni Limited",
-      "exchange": "NSE",
-      "date": "2026-08-19T11:22:23.000Z",
-      "category": "Shareholders meeting",
-      "title": "Surya Roshni Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 15, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/SURYAROSNI_19082026112202_Covering_Notice_AR_202526.pdf"
-    },
-    {
-      "id": "f7e0155b76089",
-      "ticker": "NORTHARC",
-      "company": "Northern Arc Capital Limited",
-      "exchange": "NSE",
-      "date": "2026-08-18T22:53:51.000Z",
-      "category": "Shareholders meeting",
-      "title": "Northern Arc Capital Limited has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on August 18, 2026. Further, the company has informed the Exchange regarding voting results.",
-      "url": "https://nsearchives.nseindia.com/corporate/NACL2020_18082026224918_SE_Scrutinizer_Report_sd.pdf"
-    },
-    {
-      "id": "f644745109121",
-      "ticker": "SHAILY",
-      "company": "Shaily Engineering Plastics Limited",
-      "exchange": "NSE",
-      "date": "2026-08-18T18:50:37.000Z",
-      "category": "Newspaper Publication",
-      "title": "Shaily Engineering Plastics Limited has informed the Exchange about Copy of Newspaper Publication",
-      "url": "https://nsearchives.nseindia.com/corporate/Shailyengineering_18082026184957_Intimation_-_Advance_Notice_for_46th_AGM_SIGNED.pdf"
-    },
-    {
-      "id": "fe168357aadb7",
-      "ticker": "EPIGRAL",
-      "company": "Epigral Limited",
-      "exchange": "NSE",
-      "date": "2026-08-18T18:39:02.000Z",
-      "category": "Investor Presentation",
-      "title": "Epigral Limited has informed the Exchange about One-on-One Meeting with Investor / Analyst on thursday, 20.08.2026",
-      "url": "https://nsearchives.nseindia.com/corporate/MFL_18082026183805_InvestorMeet.pdf"
-    },
-    {
-      "id": "fa9f93485f302",
-      "ticker": "MOBIKWIK",
-      "company": "One Mobikwik Systems Limited",
-      "exchange": "NSE",
-      "date": "2026-08-18T17:29:49.000Z",
-      "category": "Press Release",
-      "title": "One Mobikwik Systems Limited has informed the Exchange regarding a press release dated August 18, 2026, titled \"MobiKwik completes transfer of digital lending business to wholly-owned subsidiary; appoints CBO to lead the vertical\".",
-      "url": "https://nsearchives.nseindia.com/corporate/MOBIKWIK_18082026172926_Press_Release_18082026.pdf"
-    },
-    {
-      "id": "f9b1ee9c2a644",
-      "ticker": "MOBIKWIK",
-      "company": "One Mobikwik Systems Limited",
-      "exchange": "NSE",
-      "date": "2026-08-18T17:19:55.000Z",
-      "category": "Sale or disposal",
-      "title": "One Mobikwik Systems Limited has informed the Exchange about update on Slump Sale",
-      "url": "https://nsearchives.nseindia.com/corporate/MOBIKWIK_18082026171931_Intimation_of_Slump_Sale_completion.pdf"
-    },
-    {
-      "id": "fe961d74bdcb8",
-      "ticker": "HILINFRA",
-      "company": "Highway Infrastructure Limited",
-      "exchange": "NSE",
-      "date": "2026-08-18T15:53:07.000Z",
-      "category": "Press Release",
-      "title": "Highway Infrastructure Limited has informed the Exchange regarding a press release dated August 18, 2026, titled \"Highway Infrastructure Limited Expands Southern Presence with Rs. 80.17 Crore Toll Operations Contract from NHAI\".",
-      "url": "https://nsearchives.nseindia.com/corporate/HIGHWAY123_18082026155234_Hil_Pressrelease_palayam_18082026.pdf"
-    },
-    {
-      "id": "fea56adab66fc",
-      "ticker": "MTARTECH",
-      "company": "Mtar Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-08-18T15:31:49.000Z",
-      "category": "Investor Presentation",
-      "title": "Mtar Technologies Limited has informed the Exchange about Schedule of meet",
-      "url": "https://nsearchives.nseindia.com/corporate/MTARTECH_18082026153103_Intimation.pdf"
-    },
-    {
-      "id": "ffbfc4068aa7d",
-      "ticker": "HILINFRA",
-      "company": "Highway Infrastructure Limited",
-      "exchange": "NSE",
-      "date": "2026-08-18T15:17:58.000Z",
-      "category": "Investor Presentation",
-      "title": "Highway Infrastructure Limited has informed the Exchange about Link of Recording",
-      "url": "https://nsearchives.nseindia.com/corporate/HIGHWAY123_18082026151621_HIL_Coverletter_18082026.pdf"
-    },
-    {
-      "id": "fd52eb74fcf41",
-      "ticker": "PVRINOX",
-      "company": "PVR INOX Limited",
-      "exchange": "NSE",
-      "date": "2026-08-18T15:09:05.000Z",
-      "category": "Newspaper Publication",
-      "title": "PVR INOX has submitted to the stock exchange a copy of newspaper advertisement in respect of information about Notice of 31st Annual General Meeting of the Company.",
-      "url": "https://nsearchives.nseindia.com/corporate/PVRINOXLTD_18082026150847_PVRINOXPredispatchNewspaperAd18082026.pdf"
-    },
-    {
-      "id": "f1762cde5fea2",
-      "ticker": "MANINDS",
-      "company": "Man Industries (India) Limited",
-      "exchange": "NSE",
-      "date": "2026-08-18T15:03:42.000Z",
-      "category": "Investor Presentation",
-      "title": "Man Industries (India) Limited has informed the Exchange about Transcript",
-      "url": "https://nsearchives.nseindia.com/corporate/MANINDS_18082026150332_MIIL_Concall_Transcript_18082026.pdf"
-    },
-    {
-      "id": "fcea6694d8fbd",
-      "ticker": "LGEINDIA",
-      "company": "LG Electronics India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-18T14:28:38.000Z",
-      "category": "Press Release",
-      "title": "LG Electronics India Limited has informed the Exchange regarding a press release dated August 18, 2026, titled \"LG Electronics wins big at DIGIT India's Top Appliance Awards 2026\".",
-      "url": "https://nsearchives.nseindia.com/corporate/LGEINDIA_18082026142646_Press_Release_dated_August_18_2026.pdf"
-    },
-    {
-      "id": "f1bbba1e4a7dd",
-      "ticker": "SURYAROSNI",
-      "company": "Surya Roshni Limited",
-      "exchange": "NSE",
-      "date": "2026-08-18T13:56:50.000Z",
-      "category": "Investor Presentation",
-      "title": "Surya Roshni Limited has informed the Exchange about Transcript",
-      "url": "https://nsearchives.nseindia.com/corporate/SURYAROSNI_18082026135624_Earningcall_Q1FY27_Transcript_18082026.pdf"
-    },
-    {
-      "id": "f8824d342d62f",
-      "ticker": "NORTHARC",
-      "company": "Northern Arc Capital Limited",
-      "exchange": "NSE",
-      "date": "2026-08-18T13:24:33.000Z",
-      "category": "Shareholders meeting",
-      "title": "Proceedings of 18th AGM",
-      "url": "https://nsearchives.nseindia.com/corporate/NACL2020_18082026132329_Stock_exchange_intimation_-_18th_AGM_Proceedings_Sd_1.pdf"
-    },
-    {
-      "id": "ff7d9d9a08e63",
-      "ticker": "NORTHARC",
-      "company": "Northern Arc Capital Limited",
-      "exchange": "NSE",
-      "date": "2026-08-18T13:21:10.000Z",
-      "category": "Shareholders meeting",
-      "title": "Outcome of 18th AGM of the Company",
-      "url": "https://nsearchives.nseindia.com/corporate/NACL2020_18082026132049_Stock_exchange_intimation_-_18th_AGM_Outcme_Sd.pdf"
-    },
-    {
-      "id": "f1d658b408eb9",
-      "ticker": "ONESOURCE",
-      "company": "Onesource Specialty Pharma Limited",
-      "exchange": "NSE",
-      "date": "2026-08-18T13:17:19.000Z",
-      "category": "Credit Rating",
-      "title": "Onesource Specialty Pharma Limited has informed the Exchange about Credit Rating",
-      "url": "https://nsearchives.nseindia.com/corporate/ONESOURCECDMO_18082026131707_OS_Intimation_Credit_Rating_18Aug2026_s.pdf"
-    },
-    {
-      "id": "fdbd83069798a",
-      "ticker": "GOLDIAM",
-      "company": "Goldiam International Limited",
-      "exchange": "NSE",
-      "date": "2026-08-18T11:34:47.000Z",
-      "category": "Receipt of Order",
-      "title": "Goldiam International Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
-      "url": "https://nsearchives.nseindia.com/corporate/GOLDIAM_18082026113440_Intimation_of_export_order_18-8-26.pdf"
     }
   ]
 }
