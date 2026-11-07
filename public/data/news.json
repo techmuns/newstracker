@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-06T20:40:31.299Z",
+  "generated_at": "2026-11-07T09:12:53.515Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 143,
-    "watchlist": 599,
+    "portfolio": 142,
+    "watchlist": 600,
     "universe": 50,
-    "total": 649
+    "total": 650
   },
   "items": [
     {
@@ -104,7 +104,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Shaily Engineering Plastics discussed Q2 FY27 results in earnings call.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -672,7 +672,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Medi Assist Healthcare announced a Rs 49.27 crore buyback.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -832,6 +832,26 @@
       "enriched": true
     },
     {
+      "id": "n0c1c17d6697a",
+      "ticker": "CMLL",
+      "company": "Caliber Mining and Logistics Limited",
+      "sector": "Oil Gas & Consumable Fuels",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Caliber Mining and Logistics announces resignation of Company Secretary",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcFJ3bUxOY2NkVzdGM2h5eXEzelNydVpibTV4b1MxeFVaeGpLUmhBdEtVSC1VVVZIZmFobEg2LTl3QU1fakltNzloUkVBTHd6SThpSDJCakx0M0VESWdvT0FsYVd6N3cxZXZiZE85TlpwbWcyZ1g5NGZQNmpnZGVqRGJ2b1Nmano1YnZSRzNGLV8zd1JrSjJhUTh3?oc=5",
+      "source": "InvestyWise",
+      "date": "2026-11-02T13:30:37.000Z",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Caliber Mining's Company Secretary has resigned.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
       "id": "naf4ce9a47f6b",
       "ticker": "THEME",
       "company": "Specialty Chemicals",
@@ -965,7 +985,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "CCI approves Devyani-Sapphire merger and Adani's Rs 3,050 crore IntelliSmart acquisition.",
-      "sources_count": 5,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -1123,6 +1143,25 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Jio Platforms reports 14% profit rise in first earnings after blockbuster debut.",
+      "enriched": true
+    },
+    {
+      "id": "nbaeee8a60c04",
+      "ticker": "MEDIASSIST",
+      "company": "Medi Assist Healthcare Services Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Medi Assist Healthcare MEDIASSIST Buyback Tender Offer 2026",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRlkwM2dOem1TZk92SnJBOTMzeFNwd0RJSFQzLXNETzdaand2Sm1KcTBieEFhUWxVdUxhQWJ0c3ctWldKeXJMa0prSlhhLXlNdXIwa19mRk01bTNzX2ZVcldzNU8tT0tBdmlZTFU1cGliZjZCWXladmNEUnFObExWMEQ2U3dHWHpvb1p5UWRnLS1tQW1qQ05JX0tsdXdlMEdpX2ZUWUhOVnlCakQ1TC1lTHdBUEltcy05Sk9TcDNDckEwMDRJck84aTFrNjY3UHA0NE9r?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-10-30T13:06:00.000Z",
+      "topic": "Money",
+      "keyword": "Buyback",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Medi Assist Healthcare announced a buyback tender offer for 2026.",
       "enriched": true
     },
     {
@@ -2016,7 +2055,7 @@
       "importance": "medium",
       "mood": "negative",
       "takeaway": "Fire at Zen Technologies' subsidiary Unistring Tech Solutions' Hyderabad unit; minimal impact expected.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -6342,7 +6381,7 @@
       "mood": "neutral",
       "takeaway": "Sonata Software held Q1 2027 earnings call discussing quarterly results.",
       "enriched": true,
-      "sources_count": 2
+      "sources_count": 3
     },
     {
       "id": "nf28ab2c40080",
@@ -9220,122 +9259,6 @@
       "enriched": true
     },
     {
-      "id": "nfbb04506257b",
-      "ticker": "MTARTECH",
-      "company": "Mtar Technologies Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Earnings call transcript: MTAR Technologies posts record Q1 FY 2027 growth",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdnhTWGtuUFo4emZaMUZ4MHJwNnRDV1VTcC1aazJHeW5GcWcwODh3VHFjcUhuS2UyVThac3dDMEpRaEpIRDZBbVI3Qk41QlM5aW5lWXVtZk9ydE1LR19xd1V4bzVoNFJhS01Kb1NyV1VjblVLRFU0OHduMEJUemFXQ1FNbUtieExFM1dqa1cwbkZfZ2k0V2x1XzVlTS1NWGdxem0zVEJsWDdpNzhzenRtWXllSUpPdHJ1QlRkVk9lTFJhdExXQlNv?oc=5",
-      "source": "Investing.com India",
-      "date": "2026-07-30T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "MTAR Technologies reported record growth in Q1 FY27 results.",
-      "enriched": true
-    },
-    {
-      "id": "nb34aecb54ea5",
-      "ticker": "MTARTECH",
-      "company": "Mtar Technologies Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "MTAR Tech Q1 Net Profit Rises to ₹50.5 Crore; Order Value Reaches ₹3,100.09 Crore",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTVdKeFBieF90dWVYdktKZnp1b1N1a3M0ZEpZZUk4MXczbTA4bFVHZkhqY21YT0VwNzBScWdDZ2tJRC1wTWRGQnprUmxKZGZGM3c3QU9hZTkzd3BGTk04VmN1RXRNNmlUbDN4TmJqRGRibEllNzZnMDk2ZndJeFV2V0RZd0lSZFNraF9vUFh5bDBPdjJFOXhwUW80N0hkS2NJZ016cnJmTk5MMGJDdmpEWjQ5SUFHRVdL?oc=5",
-      "source": "Sahi",
-      "date": "2026-07-30T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "MTAR Tech's order book reached ₹3,100 crore with Q1 profit rising to ₹50.5 crore.",
-      "enriched": true
-    },
-    {
-      "id": "nca2925673d8f",
-      "ticker": "SENORES",
-      "company": "Senores Pharmaceuticals Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Results: Senores Pharmaceuticals Limited Beat Earnings Expectations And Analysts Now Have New Forecasts",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORld2b0gzNUFENi1qS0RhTzREWWRoLTV6WEg5UWhYR25VbjhQRXZDQmg1Y0N2ZjJSX3d1NVdQRE1rUnNCeG53NmY4NzhSeWxkSU9sYUNUaGw5TEpZckRYVkJnX3RLcGM2SHVoelFFQkRBbEtuc29HWVZNd1dzMFNFY3JzdzRoRTM2Qk9meHRJVC1wQ3Q1SkNmWXVBMmhTWnJlZm96azdyajZ0NWZFNkxDUGhIcmZYZGRXZWpqU2drUW9YZ0RLUGhSTkFWVTlBN2dVamRRUDJuNmdvd1hlSUxBN0kyXzFQNzQ0d1JOMW0xeE45NklyTGRV0gH8AUFVX3lxTE9XMUJKdmxCZy0yRjQtWkZjY3phYng1QkdTNHVnVmdFZ1hzVkFJZHh4bzdseGVkXzRsZ2dTdVh6Wk1yUEc0aFVHNkVQTllOU0RqU09lWGhmbGwzbE03QzJsb3J6ZjVEWWRyOU03MjBRdS1CNmM4cGg5dGEwQUc4NWktVGt6TktwLXppWVJvLXpMZlN2YXZWV1gxNWVBd1I4amdTV3hHc0VydXZTVjVYUG9WRHdqZWc5V2lMOEZjMFVHUUNoMERVc3VSb2NwWlY5SC1fSkVzMTltczFwdUlmZ3l6em52UF8wbVFjVVNQT3BGcEhYTkJtVmVjOEliMQ?oc=5",
-      "source": "Simply Wall Street",
-      "date": "2026-07-30T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Senores Pharmaceuticals reported earnings that exceeded analyst expectations.",
-      "enriched": true
-    },
-    {
-      "id": "neac501c4f27e",
-      "ticker": "VAML",
-      "company": "Vedanta Aluminium Metal Limited",
-      "sector": "Metals & Mining",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Vedanta Iron & Steel hosts Q1FY27 earnings call on July 30",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZm5zb09NdV90TzlXRVVxQ2NDdjQzTkhBbHJsSG45U2MyM2F5b1lpVWM3UDNONzV2cDg0ZElFbTJ3QS05T2JxeTNNV0VxdnNFRWdsSS1vcGdQMzE1eG16b0dveVVkLWg5TV9WXzVoUVA2UzJyOXZWMWRVXzBEaHQwc0ZGV0hwOTR1T1p4ZHY5V3d6NGN6Y1ZOX3oycjNiZTdXdTczZ09kODBPYnEyZjk0Qw?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-07-30T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Vedanta Iron & Steel schedules Q1FY27 earnings call for July 30.",
-      "enriched": true,
-      "sources_count": 2
-    },
-    {
-      "id": "ne819434ed261",
-      "ticker": "VAML",
-      "company": "Vedanta Aluminium Metal Limited",
-      "sector": "Metals & Mining",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Earnings call transcript: Vedanta posts record Q1 2027 profit after demerger",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORVN2RDZsaVh1ekQ4TUFkcWIzUHNVcW1PVjRkM0JuSnJma05XMm92MEJjT0hVQ3hOSEdfYTFoUDVjNFliRDZqb3NseXNZcXROeUpJVnpQZDlfUUJlUzVfWjk0TmFkWkNBQURpMTNET2JvWFduWHpBTHZRVmNuaGZaVHhHSkNuRG05WEtKWDRKUjlXd29acDAybTdhRzJZRnZubWs5Q1R1cXhNdktBd1FXaXloZGlBN0FJdl9iTGZvci1FUVNQanF1dTExVQ?oc=5",
-      "source": "Investing.com",
-      "date": "2026-07-30T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Vedanta posts record Q1 profit after demerger completion.",
-      "enriched": true
-    },
-    {
-      "id": "n5e0c7ac45fd3",
-      "ticker": "TENNIND",
-      "company": "Tenneco Clean Air India Limited",
-      "sector": "Automobile and Auto Components",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Tenneco Clean Air India Q1 Results: Earnings call scheduled for Aug 6",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVWtKaS02YU54emFkU1pDdzIyQzh5LWQxdXUtWnhkeWtlaEhkRHA4VDBhaFlyVTVPWjlsOGlGT1VuWmFnUERPblBGaENwMlU2ZjlIYnp1cUNzWjlZdk9SS1N4NnRtMk1nSmFEWHVUNFF5ZlJZSGlvMU82czBvMjVLeFBCRnhfZVVMcERQTHlvQnFid1NYbndhYWhEVFZid1BvS2NZdVBJeTFFOFpDc3VFdVVzaEo0cFRXZF9XRFo3alZvRzA?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-07-30T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Tenneco Clean Air India schedules Q1 earnings call for August 6.",
-      "enriched": true
-    },
-    {
       "id": "n0ee15e728469",
       "ticker": "SOLARINDS",
       "company": "Solar Industries India Limited",
@@ -9391,6 +9314,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Solar Industries sees strong growth driven by defence orders and exports.",
+      "enriched": true
+    },
+    {
+      "id": "n44322b9921bf",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries India Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Defence Stock’s Revenue Doubles With a ₹20,178 Crore Order Book; What Are Its Major Growth Drivers?",
+      "url": "https://tradebrains.in/indian-markets/defence-stocks-revenue-doubles-with-a-20178-crore-order-book-what-are-its-major-growth-drivers-12779852",
+      "source": "tradebrains.in",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Solar Industries has a ₹20,178 crore order book with revenue doubling.",
       "enriched": true
     },
     {
@@ -9663,6 +9605,25 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Shivalik Bimetal Controls scheduled Q1 earnings call for August 7.",
+      "enriched": true
+    },
+    {
+      "id": "nfde458d6cbf0",
+      "ticker": "SBCL",
+      "company": "Shivalik Bimetal Controls Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Shivalik Bimetal Controls Ltd Reports Mixed Quarterly Results Amid Strong Long-Term Returns",
+      "url": "https://www.marketsmojo.com/news/stocks-in-action/shivalik-bimetal-controls-ltd-reports-mixed-quarterly-results-amid-strong-long-term-returns-4252535",
+      "source": "marketsmojo.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Shivalik Bimetal Controls reports mixed quarterly results.",
       "enriched": true
     },
     {
@@ -10224,6 +10185,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Vedanta's metals and oil divisions delivered strong Q2 performance while steel and power segments lagged.",
+      "enriched": true
+    },
+    {
+      "id": "n583f30e9c89d",
+      "ticker": "VAML",
+      "company": "Vedanta Aluminium Metal Limited",
+      "sector": "Metals & Mining",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Vedanta vs Vedanta Aluminium Q2 results 2026 compared: Profit, revenue, EBITDA and debt explained of Anil Agarwal firms | Stock Market News",
+      "url": "https://www.livemint.com/market/stock-market-news/vedanta-vs-vedanta-aluminium-q2-results-2026-compared-profit-revenue-ebitda-and-debt-explained-of-anil-agarwal-firms-11793198556956.html",
+      "source": "livemint.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Vedanta and Vedanta Aluminium Q2 results compared on profit, revenue, EBITDA and debt.",
       "enriched": true
     },
     {
@@ -10870,6 +10850,25 @@
       "enriched": true
     },
     {
+      "id": "n85783e01ef28",
+      "ticker": "KSHINTL",
+      "company": "KSH International Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "KSH International Ltd Reports Strong Quarterly Gains Amid Margin Expansion",
+      "url": "https://www.marketsmojo.com/news/stocks-in-action/ksh-international-ltd-reports-strong-quarterly-gains-amid-margin-expansion-4254165",
+      "source": "marketsmojo.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Downgrade",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "KSH International reports strong quarterly gains with margin expansion.",
+      "enriched": true
+    },
+    {
       "id": "ndb9caecb629a",
       "ticker": "SHIPROCKET",
       "company": "Shiprocket Limited",
@@ -10924,6 +10923,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Permanent Magnets reports strong Q2 driven by EV demand, awaits approvals for new businesses.",
+      "enriched": true
+    },
+    {
+      "id": "nc8a30dcef39d",
+      "ticker": "PERMAGN",
+      "company": "Permanent Magnets Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Q2 results: IDFC First Bank, Castrol India, JK Cement, 30 more on Oct 24 | Company Results - Business Standard",
+      "url": "https://www.business-standard.com/companies/quarterly-results/q2-results-idfc-first-bank-castrol-india-jk-cement-30-more-on-oct-24-126102400225_1.html",
+      "source": "business-standard.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Permanent Magnets to announce Q2 results on Oct 24 along with 30+ other companies.",
       "enriched": true
     },
     {
@@ -11698,6 +11716,26 @@
       "enriched": true
     },
     {
+      "id": "nfa2014ab6be7",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "KFC, Pizza Hut Franchise Operations To Come Under One Roof As Sapphire-Devyani Merger Gets CCI Nod",
+      "url": "https://www.ndtvprofit.com/business/kfc-pizza-hut-franchise-operations-to-come-under-one-roof-as-sapphire-devyani-merger-gets-cci-nod-12259660",
+      "source": "ndtvprofit.com",
+      "date": "",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Sapphire-Devyani merger gets competition regulator approval, consolidating KFC and Pizza Hut franchise operations.",
+      "enriched": true,
+      "sources_count": 4
+    },
+    {
       "id": "n4794b7832cfc",
       "ticker": "TONBO",
       "company": "Tonbo Imaging India Limited",
@@ -11776,46 +11814,6 @@
       "mood": "neutral",
       "takeaway": "Tonbo Imaging India IPO opens for subscription on Day 1.",
       "enriched": true
-    },
-    {
-      "id": "n4d7176e71fac",
-      "ticker": "CMLL",
-      "company": "Caliber Mining and Logistics Limited",
-      "sector": "Oil Gas & Consumable Fuels",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Caliber Mining and Logistics announces resignation of Company Secretary | InvestyWise",
-      "url": "https://www.investywise.com/caliber-mining-and-logistics-ltd-resignation-of-company-secretary/",
-      "source": "investywise.com",
-      "date": "",
-      "topic": "Trouble",
-      "keyword": "Resignation",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Caliber Mining's Company Secretary has resigned.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "nfa2014ab6be7",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "KFC, Pizza Hut Franchise Operations To Come Under One Roof As Sapphire-Devyani Merger Gets CCI Nod",
-      "url": "https://www.ndtvprofit.com/business/kfc-pizza-hut-franchise-operations-to-come-under-one-roof-as-sapphire-devyani-merger-gets-cci-nod-12259660",
-      "source": "ndtvprofit.com",
-      "date": "",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Sapphire-Devyani merger gets competition regulator approval, consolidating KFC and Pizza Hut franchise operations.",
-      "enriched": true,
-      "sources_count": 4
     },
     {
       "id": "n6988b0afa850",
@@ -12647,6 +12645,25 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "TCAIL's order book reaches Rs 16,500 crore, surpassing its FY30 target.",
+      "enriched": true
+    },
+    {
+      "id": "n78813f96c434",
+      "ticker": "SHAILY",
+      "company": "Shaily Engineering Plastics Limited",
+      "sector": "Consumer Durables",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Thyrocare Technologies announces Chief Scientific Officer resignation | InvestyWise",
+      "url": "https://www.investywise.com/thyrocare-technologies-chief-scientific-officer-resigns/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "medium",
+      "mood": "negative",
+      "takeaway": "Thyrocare's Chief Scientific Officer has resigned from the company.",
       "enriched": true
     }
   ]
