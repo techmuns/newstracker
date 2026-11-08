@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T19:08:20.814Z",
+  "generated_at": "2026-11-08T09:40:24.848Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,26 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "fc094e21df4a1",
+      "ticker": "ANAWIL",
+      "company": "Anawil Wire and Engineering Limited",
+      "exchange": "NSE",
+      "date": "2026-11-08T13:12:40.000Z",
+      "category": "Investor Presentation",
+      "title": "Anawil Wire and Engineering Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/ANAWIL_08112026131143_INVESTOR_PRESENTATION.pdf"
+    },
+    {
+      "id": "f1c0cbeed9726",
+      "ticker": "ESDS",
+      "company": "ESDS Software Solution Limited",
+      "exchange": "NSE",
+      "date": "2026-11-08T00:00:16.000Z",
+      "category": "Disclosure",
+      "title": "ESDS Software Solution Limited has informed the Exchange about Newspaper Publication of AGM",
+      "url": "https://nsearchives.nseindia.com/corporate/ESDS_07112026235955_ESDS_Newspaper_BSE_NSE_07112026.pdf"
+    },
     {
       "id": "fcc0fbffe3996",
       "ticker": "EPIGRAL",
@@ -16,6 +36,16 @@
       "category": "Investor Presentation",
       "title": "Epigral Limited has informed the Exchange about Transcript",
       "url": "https://nsearchives.nseindia.com/corporate/MFL_07112026235522_EPLTranscriptQ2.pdf"
+    },
+    {
+      "id": "f91d0b92e1694",
+      "ticker": "LAXMIDENTL",
+      "company": "Laxmi Dental Limited",
+      "exchange": "NSE",
+      "date": "2026-11-07T22:50:38.000Z",
+      "category": "Investor Presentation",
+      "title": "Laxmi Dental Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/LAXMI_07112026224959_Transcript_Q2_2027.pdf"
     },
     {
       "id": "feab6dc1a3865",
@@ -3256,6 +3286,16 @@
       "category": "Board Meeting",
       "title": "Jyoti CNC Automation Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
       "url": "https://nsearchives.nseindia.com/corporate/JYOTICNC_NSE_03112026115810_Outcome_of_BM_03112026.pdf"
+    },
+    {
+      "id": "fb759ba036511",
+      "ticker": "MOBIKWIK",
+      "company": "One Mobikwik Systems Limited",
+      "exchange": "NSE",
+      "date": "2026-11-03T11:56:06.000Z",
+      "category": "Newspaper Publication",
+      "title": "One Mobikwik Systems Limited has informed the Exchange about Copy of Newspaper Publication",
+      "url": "https://nsearchives.nseindia.com/corporate/MOBIKWIK_03112026115545_Newspaper_Publication_03112026.pdf"
     },
     {
       "id": "f15f06364e8c7",
@@ -11026,6 +11066,16 @@
       "category": "Disclosure",
       "title": "FlySBS Aviation Limited has informed the Exchange about General Updates - Shareholders Presentation",
       "url": "https://nsearchives.nseindia.com/corporate/FLYSBS_29092026122614_InvestorPresentation.pdf"
+    },
+    {
+      "id": "fe17ff3966af1",
+      "ticker": "SHIPROCKET",
+      "company": "Shiprocket Limited",
+      "exchange": "NSE",
+      "date": "2026-09-29T12:27:28.000Z",
+      "category": "Trading Window",
+      "title": "Shiprocket Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/SHIPROCKET2011_29092026122518_SE_Intimation_for_Trading_Window_Closure.pdf"
     },
     {
       "id": "f2d685f1b2a16",
@@ -19956,56 +20006,6 @@
       "category": "Investor Presentation",
       "title": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst/ Institutional Investor Meet",
       "url": "https://nsearchives.nseindia.com/corporate/DIXON_20082026144013_InvestorMeetOutcome20082026.pdf"
-    },
-    {
-      "id": "f96f411bee91c",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "exchange": "NSE",
-      "date": "2026-08-20T14:33:33.000Z",
-      "category": "Receipt of Order",
-      "title": "DEE Development Engineers Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
-      "url": "https://nsearchives.nseindia.com/corporate/DDEL_20082026143302_BSENSESIGNED.pdf"
-    },
-    {
-      "id": "fb553f46152e6",
-      "ticker": "MIDWESTLTD",
-      "company": "Midwest Limited",
-      "exchange": "NSE",
-      "date": "2026-08-20T14:01:51.000Z",
-      "category": "Investor Presentation",
-      "title": "Midwest Limited has informed the Exchange about Transcript",
-      "url": "https://nsearchives.nseindia.com/corporate/MIDWEST_20082026140130_Transcript_of_Earnings_Conference_call.pdf"
-    },
-    {
-      "id": "f8acd2b4d8dd8",
-      "ticker": "PVRINOX",
-      "company": "PVR INOX Limited",
-      "exchange": "NSE",
-      "date": "2026-08-20T13:19:27.000Z",
-      "category": "Newspaper Publication",
-      "title": "PVR INOX Limited has submitted to the Stock Exchange a copy of Newspaper Advertisement informing about dispatch of Notice of 31st AGM along with Annual Report for FY 2025-26 and remote e-voting information.",
-      "url": "https://nsearchives.nseindia.com/corporate/PVRINOXLTD_20082026131835_PVRINOXPostdispatchNewspaperAd20082026.pdf"
-    },
-    {
-      "id": "ff694cfd1d489",
-      "ticker": "GANESHBE",
-      "company": "Ganesh Benzoplast Limited",
-      "exchange": "NSE",
-      "date": "2026-08-19T21:59:25.000Z",
-      "category": "Disclosure",
-      "title": "Ganesh Benzoplast Limited has informed the Exchange about Intimation under Regulation 30 of SEBI LODR Regulations",
-      "url": "https://nsearchives.nseindia.com/corporate/GANESHBE_19082026215846_DisclosureRegulation30INTER_SE_TRANSFER.pdf"
-    },
-    {
-      "id": "f2bbeb5006099",
-      "ticker": "LENSKART",
-      "company": "Lenskart Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-08-19T21:05:01.000Z",
-      "category": "Investor Presentation",
-      "title": "Lenskart Solutions Limited has informed the Exchange about Transcript of Earnings Call with respect to Financial Results for the quarter ended June 30, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/LENSKART_19082026210345_Reg30_-_Transcript_-_SE_Intimation.pdf"
     }
   ]
 }
