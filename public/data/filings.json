@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T09:40:24.848Z",
+  "generated_at": "2026-11-08T19:15:10.710Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7806,6 +7806,16 @@
       "category": "Newspaper Publication",
       "title": "Billionbrains Garage Ventures Limited has informed the Exchange about Copy of Newspaper Publication for the unaudited financials results for the quarter and half year ended September 30, 2026 attached herewith.",
       "url": "https://nsearchives.nseindia.com/corporate/BILLIONBRAINS_15102026150829_NP_Intimation.pdf"
+    },
+    {
+      "id": "f2077afcbd2bc",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "exchange": "NSE",
+      "date": "2026-10-15T12:02:37.000Z",
+      "category": "Receipt of Order",
+      "title": "DEE Development Engineers Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
+      "url": "https://nsearchives.nseindia.com/corporate/DDEL_15102026120216_NSEBSE_DEE_Dev_order.pdf"
     },
     {
       "id": "ff4b3e15ca38c",
@@ -19996,16 +20006,6 @@
       "category": "Disclosure",
       "title": "Surya Roshni Limited has informed the Exchange regarding 'Physical Letter to Shareholders' providing the weblink and exact pathway of Annual Report 2025-26 and Notice of 53rd AGM",
       "url": "https://nsearchives.nseindia.com/corporate/SURYAROSNI_20082026144637_phsicalletter_Final.pdf"
-    },
-    {
-      "id": "f8f3d5a553809",
-      "ticker": "DIXON",
-      "company": "Dixon Technologies (India) Limited",
-      "exchange": "NSE",
-      "date": "2026-08-20T14:40:58.000Z",
-      "category": "Investor Presentation",
-      "title": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst/ Institutional Investor Meet",
-      "url": "https://nsearchives.nseindia.com/corporate/DIXON_20082026144013_InvestorMeetOutcome20082026.pdf"
     }
   ]
 }
