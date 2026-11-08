@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-08T09:35:50.965Z",
+  "generated_at": "2026-11-08T19:10:14.030Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 141,
+    "portfolio": 140,
     "watchlist": 614,
     "universe": 50,
     "total": 664
@@ -45,7 +45,8 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Laxmi Dental reported Q2 FY27 revenue and EBITDA results.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n86592b55deb7",
@@ -83,7 +84,8 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Surya Roshni posted record revenue in Q2 FY27.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "nb0cba5e81054",
@@ -787,7 +789,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Medi Assist Healthcare announced a Rs 49.27 crore buyback.",
-      "sources_count": 3,
+      "sources_count": 5,
       "enriched": true
     },
     {
@@ -1060,7 +1062,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Shaily Engineering Plastics exceeded revenue expectations in Q2 2026.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -1176,7 +1178,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "MTAR Technologies secures Rs 504 crore order for Kaiga nuclear project.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -1238,25 +1240,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Jio Platforms reports 14% profit rise in first earnings after blockbuster debut.",
-      "enriched": true
-    },
-    {
-      "id": "nbaeee8a60c04",
-      "ticker": "MEDIASSIST",
-      "company": "Medi Assist Healthcare Services Limited",
-      "sector": "Financial Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Medi Assist Healthcare MEDIASSIST Buyback Tender Offer 2026",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRlkwM2dOem1TZk92SnJBOTMzeFNwd0RJSFQzLXNETzdaand2Sm1KcTBieEFhUWxVdUxhQWJ0c3ctWldKeXJMa0prSlhhLXlNdXIwa19mRk01bTNzX2ZVcldzNU8tT0tBdmlZTFU1cGliZjZCWXladmNEUnFObExWMEQ2U3dHWHpvb1p5UWRnLS1tQW1qQ05JX0tsdXdlMEdpX2ZUWUhOVnlCakQ1TC1lTHdBUEltcy05Sk9TcDNDckEwMDRJck84aTFrNjY3UHA0NE9r?oc=5",
-      "source": "Kalkine India",
-      "date": "2026-10-30T13:06:00.000Z",
-      "topic": "Money",
-      "keyword": "Buyback",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Medi Assist Healthcare announced a buyback tender offer for 2026.",
       "enriched": true
     },
     {
@@ -1496,6 +1479,27 @@
       "enriched": true
     },
     {
+      "id": "n1cc5c60ccd0a",
+      "ticker": "SENORES",
+      "company": "Senores Pharmaceuticals Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Senores Pharmaceuticals (NSE:SENORES) Announces Rs 43 Crore Capacity Expansion Plans Across Subsidiaries",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQjVhVGF3OUlIRU1JOWJPdXJ1ZnVMdGlmTEluV2NZTTMyWG1BMXN4WUl3azRGQ0JLeXFoS2E0RHA1NkFHQTQ4dTFlTXkwamszV3dGWkdSM3VUYkpGM0RoX3duYUNfekZkRHFhNUJBZ24yMTZVRDVPemlxUHk2N0tucE5qbjBjd01KWXpCU29mWUhHV3N6RmY5bVJPbHpldnZmV1hybjZZVXZ6X0c5enpTX2dBV1F6VWpHTHpBYzJFU09lbEdZQ1lEMDE2S1NTQUg1M2dXeXBpVGJDRG5mQmxqVmpn?oc=5",
+      "source": "Kalkine Media",
+      "date": "2026-10-29T08:27:00.000Z",
+      "topic": "Growth",
+      "keyword": "Capacity Expansion",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Senores Pharmaceuticals announced ₹43 crore capacity expansion across its subsidiaries.",
+      "sources_count": 5,
+      "enriched": true
+    },
+    {
       "id": "n36dfe70992e3",
       "ticker": "SENORES",
       "company": "Senores Pharmaceuticals Limited",
@@ -1515,27 +1519,6 @@
       "takeaway": "Senores Pharmaceuticals' subsidiary is expanding capacity, expected completion by 2027.",
       "enriched": true,
       "sources_count": 2
-    },
-    {
-      "id": "n1cc5c60ccd0a",
-      "ticker": "SENORES",
-      "company": "Senores Pharmaceuticals Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Senores Pharmaceuticals (NSE:SENORES) Announces Rs 43 Crore Capacity Expansion Plans Across Subsidiaries",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQjVhVGF3OUlIRU1JOWJPdXJ1ZnVMdGlmTEluV2NZTTMyWG1BMXN4WUl3azRGQ0JLeXFoS2E0RHA1NkFHQTQ4dTFlTXkwamszV3dGWkdSM3VUYkpGM0RoX3duYUNfekZkRHFhNUJBZ24yMTZVRDVPemlxUHk2N0tucE5qbjBjd01KWXpCU29mWUhHV3N6RmY5bVJPbHpldnZmV1hybjZZVXZ6X0c5enpTX2dBV1F6VWpHTHpBYzJFU09lbEdZQ1lEMDE2S1NTQUg1M2dXeXBpVGJDRG5mQmxqVmpn?oc=5",
-      "source": "Kalkine Media",
-      "date": "2026-10-29T08:27:00.000Z",
-      "topic": "Growth",
-      "keyword": "Capacity Expansion",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Senores Pharmaceuticals announced ₹43 crore capacity expansion across its subsidiaries.",
-      "sources_count": 4,
-      "enriched": true
     },
     {
       "id": "ndb234a1dc67f",
@@ -9310,7 +9293,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Meesho completed majority stake acquisition in Kirana Club and Retail Pulse Labs.",
-      "sources_count": 3,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -9368,6 +9351,44 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Meesho to acquire Kirana Club for Rs 202 crore, expanding its business reach.",
+      "enriched": true
+    },
+    {
+      "id": "n537a679eb9a7",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Rishi Laser Limited Announces Q2 & H1 FY27 Results; Q2 Revenue Grows 26.58% Y-o-Y to ₹54.23 Crore | EquityBulls",
+      "url": "https://www.equitybulls.com/news/378725/rishi-laser-limited-announces-q2-h1-fy27-results-q2-revenue-grows-26-58-y-o-y-to",
+      "source": "equitybulls.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Rishi Laser's Q2 revenue grew 27% year-on-year to ₹54 crore.",
+      "enriched": true
+    },
+    {
+      "id": "n7c8f658dd7fe",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Australian Premium Solar (India) Limited Delivers 45% Growth in Total Income in H1 FY27 | EquityBulls",
+      "url": "https://www.equitybulls.com/news/378735/australian-premium-solar-india-limited-delivers-45-growth-in-total-income-in-h1",
+      "source": "equitybulls.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Australian Premium Solar India reported 45% growth in total income for first half of fiscal year.",
       "enriched": true
     },
     {
@@ -10393,26 +10414,6 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "QIP funds deployed in investments while retail expansion faces delays",
-      "enriched": true
-    },
-    {
-      "id": "n76dcc7a7725d",
-      "ticker": "SENORES",
-      "company": "Senores Pharmaceuticals Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Senores Pharmaceuticals approves ₹43 crore subsidiary expansion plan",
-      "url": "https://scanx.trade/stock-market-news/companies/senores-pharmaceuticals-plans-43-cr-capacity-expansion-across/54809414",
-      "source": "scanx.trade",
-      "date": "",
-      "topic": "Growth",
-      "keyword": "Approval",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Senores Pharma approved ₹43 crore expansion plan for its subsidiary to grow capacity.",
       "enriched": true
     },
     {
