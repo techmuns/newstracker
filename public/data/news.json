@@ -1,13 +1,33 @@
 {
-  "generated_at": "2026-11-07T19:11:15.340Z",
+  "generated_at": "2026-11-08T09:35:50.965Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 142,
-    "watchlist": 609,
-    "universe": 51,
-    "total": 660
+    "portfolio": 141,
+    "watchlist": 614,
+    "universe": 50,
+    "total": 664
   },
   "items": [
+    {
+      "id": "n08abbd9b04a0",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Apsis Aerocom H1 cash falls Rs 21.49 crore after capex spend",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQnB4eEtOTUVncnpkTEFYZnVHZlVGX0hZamZCSGs3STFWbkl0dm5jYWNGTTJSOUp1cF94ZWlGYjNBMlJXMFZtdEU4bmNQWlVUemVBeVhhem9jT3E3Uzd3Z0otdEtaNXktYmNVMEY1cDRmMllfWWZUeTlEb1M0M29vcmQwMXlla25ycmRFb1NaME05VWNwX3NTRlliN05UOUdDLVE0ZUFNbng5dW5wTm1WRmNYMA?oc=5",
+      "source": "Multibagg AI",
+      "date": "2026-11-07T22:38:11.000Z",
+      "topic": "Growth",
+      "keyword": "Capex",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Apsis Aerocom spent Rs 21.49 crore on capex in H1, reducing cash reserves.",
+      "sources_count": 2,
+      "enriched": true
+    },
     {
       "id": "ndf1edd7efdf6",
       "ticker": "LAXMIDENTL",
@@ -25,6 +45,25 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Laxmi Dental reported Q2 FY27 revenue and EBITDA results.",
+      "enriched": true
+    },
+    {
+      "id": "n86592b55deb7",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho Completes 92.74% Acquisition Of Kirana Club For ₹186.71 Crore",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU0FUdk9VMGlHSmQ1U3F2dkVsZW43aWQ2NkpfUm1vMWZhMVFqb19ydVo0V1MzNHJwaWw5WTc1Q0hha2F5Zy0zd2pLbUV5eDJleEFKSjNaNUd6V1RtdDVUU0xoYXJZdjhZRVlNb1FJcGNDZWxFaExaWmVyZ3FHejNQTDRuM2htUWQzLW1uLWczeWZrR0RKQ25r?oc=5",
+      "source": "Sahi",
+      "date": "2026-11-07T12:35:58.000Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Meesho acquired 92.74% of Kirana Club for Rs 186.71 crore.",
       "enriched": true
     },
     {
@@ -287,26 +326,6 @@
       "enriched": true
     },
     {
-      "id": "n89a49ac75bb3",
-      "ticker": "GMMPFAUDLR",
-      "company": "GMM Pfaudler Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "GMM Pfaudler Q2 FY27 Earnings Call Audio Now Available",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeG1EMW12YTZianN4eWJZWWJ2Z2c2R3U4aE5YZndYYmFqWEw3UUpWU2RRNkdxYmNOV1JDc1FSUnk2UVMyTXltaUx3R2VEZ1JFUGV1SDFNQldRc1lQLTJvd0UxWGFiU3lTczFKVGZrbjc3Q0pfSlpfWXo1YmcwWnhsbkhlQnYxbWFGTTBnTW9zVDZTcjZjcG1nRDlFZlZZQ1E2WW4xV0ExUmVkYXByRS1Pcnc5RlhHUQ?oc=5",
-      "source": "Kalkine India",
-      "date": "2026-11-05T11:35:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "GMM Pfaudler released Q2 FY27 earnings call audio.",
-      "sources_count": 3,
-      "enriched": true
-    },
-    {
       "id": "na77a4c830b20",
       "ticker": "ZENTEC",
       "company": "Zen Technologies Limited",
@@ -323,6 +342,26 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Zen Technologies discussed Q2 FY2027 results in earnings call.",
+      "enriched": true
+    },
+    {
+      "id": "n89a49ac75bb3",
+      "ticker": "GMMPFAUDLR",
+      "company": "GMM Pfaudler Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "GMM Pfaudler Q2 FY27 Earnings Call Audio Now Available",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeG1EMW12YTZianN4eWJZWWJ2Z2c2R3U4aE5YZndYYmFqWEw3UUpWU2RRNkdxYmNOV1JDc1FSUnk2UVMyTXltaUx3R2VEZ1JFUGV1SDFNQldRc1lQLTJvd0UxWGFiU3lTczFKVGZrbjc3Q0pfSlpfWXo1YmcwWnhsbkhlQnYxbWFGTTBnTW9zVDZTcjZjcG1nRDlFZlZZQ1E2WW4xV0ExUmVkYXByRS1Pcnc5RlhHUQ?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-11-05T11:35:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "GMM Pfaudler released Q2 FY27 earnings call audio.",
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -1736,27 +1775,6 @@
       "takeaway": "Acutaas Chemicals Q2 2026 revenue exceeds expectations, driving 13% stock gain.",
       "enriched": true,
       "sources_count": 2
-    },
-    {
-      "id": "ne1b53078f0ca",
-      "ticker": "APTUS",
-      "company": "Aptus Value Housing Finance India Limited",
-      "sector": "Financial Services",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Aptus Value Housing Finance reschedules Q2FY27 earnings call to Nov 4",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdGlnLURQUEhCaWlQRjB4X3hzOHVQbGhjOG9wcklRTHh0YnlBUTJKRW9LSmZpWVZndTNhaWpsWlN2YlJGcTFCXzNrVlV4cXVGSnUxekJVU0lyMktmQUtLeDJpNkUtZXVyU2Y4ZmYtWjhjLTBWRUFiR184eGdXem5vU2otLXkwSzFKcTBCQkVWQk1VdzNBLUFMaHllTEhmeUgwblhTaGNEV3hNaG45ME8tRWRrcWN1NndjVUFNbFVGaVk?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-10-27T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Aptus Value Housing rescheduled its quarterly earnings call to November 4.",
-      "sources_count": 2,
-      "enriched": true
     },
     {
       "id": "nfd1f6bc2257a",
@@ -9257,65 +9275,6 @@
       "enriched": true
     },
     {
-      "id": "nc80528387664",
-      "ticker": "MTARTECH",
-      "company": "Mtar Technologies Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "MTAR Technologies Secures Major Order Upsize: Total Value Reaches ~₹3,100 Crore ($324.62 Million)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb0dOMzBMTER6YUpZbk9QWkFRV1BJNFhKdmJpNWRBd25ac2FKRmN3NFdpVUwxbkpsMnZQQ0hlRFFza2tOd191Ny1nREVKWTh6STJMSklyN2h5cTVIM2h5MlhoSUtxZm1DeDB5Zmt6Sm1tYWNld00zWU4yaHRubW02ZXJUeV9vbk0zSkszcEJLQjJPT1ByZ1hYMlJPMnNJam1mODVJeXpNcnBVTzhHbFV6Y3FFVm1Jc2FvbmVBbQ?oc=5",
-      "source": "EquityBulls",
-      "date": "2026-07-31T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "MTAR Technologies secured major order upsize bringing total value to ₹3,100 crore.",
-      "enriched": true
-    },
-    {
-      "id": "na2295d35fee7",
-      "ticker": "THEME",
-      "company": "Pharma Approvals",
-      "sector": "Healthcare",
-      "scope": [
-        "universe"
-      ],
-      "title": "Lupin Announces U.S. FDA Approval and Launch of Sugammadex Injection - Lupin | Press Release",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSFBhNjE2Mk5ITE5VV3V6cngzNi1pdENoeFlGRGtjcUNsbE1HY1RHLXQyZy16YXlVM3RRWkdLdkdPa05aeFVFaDBvWWNieWVWVzBydXVjQVVZeE9ONmxHeXhyLWR1Q2o3RkZzNU5ON0R2QWtXV0NjM1UySXF2bkxNWW1DUmpaUmJVYVRvYWRDOV9yWFZYb2NrWHJuRmdOR2d2ODVfbDllSllNZ2lhakEw?oc=5",
-      "source": "lupin.com",
-      "date": "2026-07-31T07:00:00.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Lupin receives U.S. FDA approval and launches Sugammadex Injection.",
-      "sources_count": 4,
-      "enriched": true
-    },
-    {
-      "id": "n49550dc0dfe3",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Aurionpro bags ₹50 cr MMRDA order",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNnR2UjIwSXI0bmkxalc3T3ppTy0yV2duYWJpWG5CU1k4cXBjZkZWTkF4ZUpjY0pXdHZqaGxTdzR2d3hYaV80aWdNYWZuU3RZN0xRX3Y0NUIta21vYVg3alRldkhRODN4V2o1WVBfV2xWeHJTcE5DMzVab1RSTHZlR2l4YTcyaVRYSEgxZEwxOUVXZw?oc=5",
-      "source": "Construction Week India",
-      "date": "2026-07-31T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Aurionpro wins ₹50 crore order from MMRDA for Mumbai Metro project.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "nf7de43564d5f",
       "ticker": "LAXMIDENTL",
       "company": "Laxmi Dental Limited",
@@ -9332,6 +9291,83 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Laxmi Dental's quarterly profit rose to Rs 10.04 crore, showing steady growth.",
+      "enriched": true
+    },
+    {
+      "id": "nde999f0c0fef",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho completes majority stake acquisition in Kirana Club and Retail Pulse Labs - CNBC TV18",
+      "url": "https://www.cnbctv18.com/market/meesho-completes-majority-stake-acquisition-in-kirana-club-and-retail-pulse-labs-20029616.htm",
+      "source": "cnbctv18.com",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Meesho completed majority stake acquisition in Kirana Club and Retail Pulse Labs.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "n8f0ee78c5421",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho approves up to ₹50 crore investment in Kirana Club arm - Storyboard18",
+      "url": "https://www.storyboard18.com/brand-marketing/meesho-approves-up-to-rs-50-crore-investment-in-retail-pulse-labs-ws-l-112091.htm",
+      "source": "storyboard18.com",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Meesho approves up to ₹50 crore investment in its Kirana Club arm.",
+      "enriched": true
+    },
+    {
+      "id": "ne40d9d6028ea",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho Limited acquires 92.74% stake in Kirana Club and subsidiary",
+      "url": "https://www.investywise.com/meesho-limited-completes-acquisition-of-kirana-club-pte-itd/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Meesho acquired 92.74% stake in Kirana Club and its subsidiary.",
+      "enriched": true
+    },
+    {
+      "id": "n527c9e1c0a8d",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho Limited to Buy Kirana Club for Rs 202.08 Crore | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/meesho-kirana-club-acquisition-cmw6cppme001k2xo8on8e3lu7",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Meesho to acquire Kirana Club for Rs 202 crore, expanding its business reach.",
       "enriched": true
     },
     {
@@ -10828,6 +10864,25 @@
       "enriched": true
     },
     {
+      "id": "n3b39422a196c",
+      "ticker": "EPIGRAL",
+      "company": "Epigral Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Epigral says existing capex can support Rs 5,100 crore FY31 revenue | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/epigral-existing-capex-fy31-revenue-concall-cmw6qcyvj001i2fph0t0b6fkh",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Capex",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Epigral's current capacity can support revenue growth to Rs 5,100 crore by FY31.",
+      "enriched": true
+    },
+    {
       "id": "n8da0990653e5",
       "ticker": "KANOHAR",
       "company": "Kanohar Electricals Limited",
@@ -11308,64 +11363,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Solar Industries expects to exceed FY27 targets after 69% Q2 growth.",
-      "enriched": true
-    },
-    {
-      "id": "nde999f0c0fef",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Meesho completes majority stake acquisition in Kirana Club and Retail Pulse Labs - CNBC TV18",
-      "url": "https://www.cnbctv18.com/market/meesho-completes-majority-stake-acquisition-in-kirana-club-and-retail-pulse-labs-20029616.htm",
-      "source": "cnbctv18.com",
-      "date": "",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Meesho completed majority stake acquisition in Kirana Club and Retail Pulse Labs.",
-      "sources_count": 4,
-      "enriched": true
-    },
-    {
-      "id": "n8f0ee78c5421",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Meesho approves up to ₹50 crore investment in Kirana Club arm - Storyboard18",
-      "url": "https://www.storyboard18.com/brand-marketing/meesho-approves-up-to-rs-50-crore-investment-in-retail-pulse-labs-ws-l-112091.htm",
-      "source": "storyboard18.com",
-      "date": "",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Meesho approves up to ₹50 crore investment in its Kirana Club arm.",
-      "enriched": true
-    },
-    {
-      "id": "ne40d9d6028ea",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Meesho Limited acquires 92.74% stake in Kirana Club and subsidiary",
-      "url": "https://www.investywise.com/meesho-limited-completes-acquisition-of-kirana-club-pte-itd/",
-      "source": "investywise.com",
-      "date": "",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Meesho acquired 92.74% stake in Kirana Club and its subsidiary.",
       "enriched": true
     },
     {
@@ -11869,23 +11866,41 @@
       "enriched": true
     },
     {
-      "id": "n4d7176e71fac",
-      "ticker": "CMLL",
-      "company": "Caliber Mining and Logistics Limited",
-      "sector": "Oil Gas & Consumable Fuels",
+      "id": "nd7f7e764af37",
+      "ticker": "EPIGRAL",
+      "company": "Epigral Limited",
+      "sector": "Chemicals",
       "scope": [
         "watchlist"
       ],
-      "title": "Caliber Mining and Logistics announces resignation of Company Secretary | InvestyWise",
-      "url": "https://www.investywise.com/caliber-mining-and-logistics-ltd-resignation-of-company-secretary/",
+      "title": "Epigral details Q2 FY27 results and future growth strategy | InvestyWise",
+      "url": "https://www.investywise.com/epigral-limited-q2-fy27-earnings-conference-call-transcript/",
       "source": "investywise.com",
       "date": "",
-      "topic": "Trouble",
-      "keyword": "Resignation",
-      "importance": "low",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
       "mood": "neutral",
-      "takeaway": "Caliber Mining announced resignation of Company Secretary.",
-      "sources_count": 2,
+      "takeaway": "Epigral disclosed Q2 FY27 results and outlined future growth plans.",
+      "enriched": true
+    },
+    {
+      "id": "n41a857c4585e",
+      "ticker": "EPIGRAL",
+      "company": "Epigral Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Sahajanand Medical Technologies reports record Q2 FY27 earnings | InvestyWise",
+      "url": "https://www.investywise.com/sahajanand-medical-technologies-q2-fy27-earnings-call-transcript/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Sahajanand Medical Technologies posted record earnings in Q2 FY27.",
       "enriched": true
     },
     {
@@ -11906,7 +11921,65 @@
       "mood": "positive",
       "takeaway": "Sapphire-Devyani merger gets competition regulator approval, consolidating KFC and Pizza Hut franchise operations.",
       "enriched": true,
-      "sources_count": 4
+      "sources_count": 5
+    },
+    {
+      "id": "nf7a3dfa99869",
+      "ticker": "EPIGRAL",
+      "company": "Epigral Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Neogen Chemicals receives GPCB's revocation of direction order and provisional consent | InvestyWise",
+      "url": "https://www.investywise.com/neogen-chemicals-receives-revocation-of-direction-and-cca-amendment/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Approvals&IP",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Neogen Chemicals got pollution board's revocation of direction order and provisional consent.",
+      "enriched": true
+    },
+    {
+      "id": "na135b054ef5d",
+      "ticker": "EPIGRAL",
+      "company": "Epigral Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Neogen Chemicals receives approval for plant operations at Dahej SEZ | InvestyWise",
+      "url": "https://www.investywise.com/neogen-chemicals-fire-incident-update-and-operational-resumption/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Approvals&IP",
+      "keyword": "Earnings",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Neogen Chemicals received approval to operate its plant at Dahej SEZ.",
+      "enriched": true
+    },
+    {
+      "id": "n4d7176e71fac",
+      "ticker": "CMLL",
+      "company": "Caliber Mining and Logistics Limited",
+      "sector": "Oil Gas & Consumable Fuels",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Caliber Mining and Logistics announces resignation of Company Secretary | InvestyWise",
+      "url": "https://www.investywise.com/caliber-mining-and-logistics-ltd-resignation-of-company-secretary/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Caliber Mining announced resignation of Company Secretary.",
+      "sources_count": 2,
+      "enriched": true
     },
     {
       "id": "n4794b7832cfc",
