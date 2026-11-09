@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T19:15:10.710Z",
+  "generated_at": "2026-11-09T10:31:28.192Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,26 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "fafdee442bbe9",
+      "ticker": "ANAWIL",
+      "company": "Anawil Wire and Engineering Limited",
+      "exchange": "NSE",
+      "date": "2026-11-09T15:12:37.000Z",
+      "category": "Investor Presentation",
+      "title": "Anawil Wire and Engineering Limited has informed the Exchange about Link of Recording",
+      "url": "https://nsearchives.nseindia.com/corporate/ANAWIL_09112026151155_Recording_Cover_Letter_.pdf"
+    },
+    {
+      "id": "f098b101cee9a",
+      "ticker": "NORTHARC",
+      "company": "Northern Arc Capital Limited",
+      "exchange": "NSE",
+      "date": "2026-11-09T14:59:50.000Z",
+      "category": "Investor Presentation",
+      "title": "Northern Arc Capital Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/NACL2020_09112026145941_NACL_Transcript_sd.pdf"
+    },
     {
       "id": "fc094e21df4a1",
       "ticker": "ANAWIL",
@@ -8786,6 +8806,16 @@
       "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
       "title": "Qualiance International Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
       "url": "https://nsearchives.nseindia.com/corporate/QUALIANCE_10102026155839_QIL-Reg_74_5_-Q2-FY2026-27.pdf"
+    },
+    {
+      "id": "f17e47c420fef",
+      "ticker": "DIXON",
+      "company": "Dixon Technologies (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-10-10T13:41:35.000Z",
+      "category": "Investor Presentation",
+      "title": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst/ Institutional Investor Meet",
+      "url": "https://nsearchives.nseindia.com/corporate/DIXON_10102026134116_InvestorMeetOutcome10102026.pdf"
     },
     {
       "id": "f5aa87235e12d",
@@ -19976,36 +20006,6 @@
       "category": "Shareholders meeting",
       "title": "Venus Remedies Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on August 20, 2026",
       "url": "https://nsearchives.nseindia.com/corporate/VENUSREM_20082026161409_AGM_Proceedings_2026_1_.pdf"
-    },
-    {
-      "id": "fe3a190fea772",
-      "ticker": "XPROINDIA",
-      "company": "Xpro India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-20T15:16:37.000Z",
-      "category": "Newspaper Publication",
-      "title": "Xpro India Limited has informed the Exchange about Copy of Newspaper Publication on Special Window for Fresh Lodgement / Re-Lodgement of Share Transfer Requests.",
-      "url": "https://nsearchives.nseindia.com/corporate/XPROINDIASKD_20082026151248_Special_window_signed.pdf"
-    },
-    {
-      "id": "f7c4b677e4a1e",
-      "ticker": "SKYGOLD",
-      "company": "SKY GOLD AND DIAMONDS LIMITED",
-      "exchange": "NSE",
-      "date": "2026-08-20T15:16:26.000Z",
-      "category": "Investor Presentation",
-      "title": "Pursuant to the provision of Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations 2015, we would like to inform you that the Management of the Company will be interacting with Investors on Tuesday, 25th August, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/SKYGOLD_20082026151616_Intimation25082026.pdf"
-    },
-    {
-      "id": "fe3a46be7e0eb",
-      "ticker": "SURYAROSNI",
-      "company": "Surya Roshni Limited",
-      "exchange": "NSE",
-      "date": "2026-08-20T14:48:23.000Z",
-      "category": "Disclosure",
-      "title": "Surya Roshni Limited has informed the Exchange regarding 'Physical Letter to Shareholders' providing the weblink and exact pathway of Annual Report 2025-26 and Notice of 53rd AGM",
-      "url": "https://nsearchives.nseindia.com/corporate/SURYAROSNI_20082026144637_phsicalletter_Final.pdf"
     }
   ]
 }
