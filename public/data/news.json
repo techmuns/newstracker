@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-09T10:16:24.604Z",
+  "generated_at": "2026-11-09T23:44:26.929Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 141,
-    "watchlist": 617,
+    "portfolio": 143,
+    "watchlist": 619,
     "universe": 50,
-    "total": 667
+    "total": 669
   },
   "items": [
     {
@@ -66,25 +66,6 @@
       "takeaway": "Laxmi Dental reported Q2 FY27 revenue and EBITDA results.",
       "enriched": true,
       "sources_count": 2
-    },
-    {
-      "id": "n86592b55deb7",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Meesho Completes 92.74% Acquisition Of Kirana Club For ₹186.71 Crore",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU0FUdk9VMGlHSmQ1U3F2dkVsZW43aWQ2NkpfUm1vMWZhMVFqb19ydVo0V1MzNHJwaWw5WTc1Q0hha2F5Zy0zd2pLbUV5eDJleEFKSjNaNUd6V1RtdDVUU0xoYXJZdjhZRVlNb1FJcGNDZWxFaExaWmVyZ3FHejNQTDRuM2htUWQzLW1uLWczeWZrR0RKQ25r?oc=5",
-      "source": "Sahi",
-      "date": "2026-11-07T12:35:58.000Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Meesho acquired 92.74% of Kirana Club for Rs 186.71 crore.",
-      "enriched": true
     },
     {
       "id": "n0c9d21844b87",
@@ -1082,7 +1063,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Shaily Engineering Plastics exceeded revenue expectations in Q2 2026.",
-      "sources_count": 3,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -1780,27 +1761,6 @@
       "sources_count": 2
     },
     {
-      "id": "ne1b53078f0ca",
-      "ticker": "APTUS",
-      "company": "Aptus Value Housing Finance India Limited",
-      "sector": "Financial Services",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Aptus Value Housing Finance reschedules Q2FY27 earnings call to Nov 4",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdGlnLURQUEhCaWlQRjB4X3hzOHVQbGhjOG9wcklRTHh0YnlBUTJKRW9LSmZpWVZndTNhaWpsWlN2YlJGcTFCXzNrVlV4cXVGSnUxekJVU0lyMktmQUtLeDJpNkUtZXVyU2Y4ZmYtWjhjLTBWRUFiR184eGdXem5vU2otLXkwSzFKcTBCQkVWQk1VdzNBLUFMaHllTEhmeUgwblhTaGNEV3hNaG45ME8tRWRrcWN1NndjVUFNbFVGaVk?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-10-27T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Aptus Value Housing rescheduled its Q2 earnings call to November 4.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "nfd1f6bc2257a",
       "ticker": "E2E",
       "company": "E2E Networks Limited",
@@ -2352,7 +2312,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Aurionpro won a ₹150 crore order for a Navi Mumbai data centre project.",
-      "sources_count": 4,
+      "sources_count": 5,
       "enriched": true
     },
     {
@@ -4655,26 +4615,6 @@
       "takeaway": "Solar Group to acquire South Africa's Omnia Holdings for ₹12,951 crores in major overseas expansion.",
       "sources_count": 3,
       "enriched": true
-    },
-    {
-      "id": "n6a12ef8dccbb",
-      "ticker": "NORTHARC",
-      "company": "Northern Arc Capital Limited",
-      "sector": "Financial Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Q1 2027 Northern ARC Capital Ltd Earnings Call Transcript",
-      "url": "https://www.gurufocus.com/news/8981045/q1-2027-northern-arc-capital-ltd-earnings-call-transcript?mobile=true",
-      "source": "gurufocus.com",
-      "date": "2026-09-13T17:38:46.430Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Northern Arc Capital held Q1 FY27 earnings call to discuss quarterly financial results.",
-      "enriched": true,
-      "sources_count": 2
     },
     {
       "id": "nbefb5b912d74",
@@ -9313,7 +9253,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Meesho completed majority stake acquisition in Kirana Club and Retail Pulse Labs.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -11290,6 +11230,26 @@
       "enriched": true
     },
     {
+      "id": "n4de3b72a5f6f",
+      "ticker": "VIVIDEL",
+      "company": "Vivid Electromech Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "BHEL Bags Synchronous Condenser Order From Power Grid Worth Up to ₹900 Crore",
+      "url": "https://tradebrains.in/indian-markets/bhel-bags-synchronous-condenser-order-from-power-grid-worth-up-to-900-crore-12795204",
+      "source": "tradebrains.in",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "BHEL wins synchronous condenser order from Power Grid worth up to Rs 900 crore",
+      "enriched": true
+    },
+    {
       "id": "n8e121c393a8c",
       "ticker": "VAML",
       "company": "Vedanta Aluminium Metal Limited",
@@ -11365,6 +11325,26 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Yash Highvoltage Q1 profit jumped 157% to ₹36 crore.",
+      "enriched": true
+    },
+    {
+      "id": "n5924530879b2",
+      "ticker": "YASHHV",
+      "company": "Yash Highvoltage Ltd",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Yash Highvoltage makes earnings call recording available on website",
+      "url": "https://scanx.trade/stock-market-news/companies/yash-highvoltage-makes-earnings-call-recording-available-website/54151664",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Yash Highvoltage posted earnings call recording on its website.",
       "enriched": true
     },
     {
@@ -12932,7 +12912,8 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "TCAIL's order book reaches Rs 16,500 crore, surpassing its FY30 target.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n78813f96c434",
@@ -12989,6 +12970,64 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Company expects better growth in second half driven by AI services gaining traction.",
+      "enriched": true
+    },
+    {
+      "id": "n3dcc0ab0eaba",
+      "ticker": "APTUS",
+      "company": "Aptus Value Housing Finance India Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Veritas Finance receives SEBI approval for ₹900 crore IPO - CNBC TV18",
+      "url": "https://www.cnbctv18.com/market/veritas-finance-receives-sebi-approval-for-rs900-crore-ipo-20030613.htm",
+      "source": "cnbctv18.com",
+      "date": "",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Veritas Finance got SEBI approval for ₹900 crore IPO, enabling it to raise funds from public markets.",
+      "enriched": true
+    },
+    {
+      "id": "nbf99cc1b52a7",
+      "ticker": "KANOHAR",
+      "company": "Kanohar Electricals Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Kanohar Electricals Posts 112% Q2 Revenue Growth in FY27 | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/kanohar-q2-revenue-growth-fy27-cmw8w1st4003t2mphshb3vwzh",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Kanohar Electricals reported 112% revenue growth in Q2 FY27, showing strong business expansion.",
+      "enriched": true
+    },
+    {
+      "id": "n4c8175e39460",
+      "ticker": "SONATSOFTW",
+      "company": "Sonata Software Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Sonata Software sees 2026 growth with AI orders at 25%",
+      "url": "https://newsbytesapp.com/news/business/sonata-software-sees-2026-growth-with-ai-orders-at-25/tldr",
+      "source": "newsbytesapp.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Sonata Software expects 2026 growth driven by AI orders comprising 25% of business.",
       "enriched": true
     }
   ]
