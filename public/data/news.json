@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-11-08T19:10:14.030Z",
+  "generated_at": "2026-11-09T10:16:24.604Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 140,
-    "watchlist": 614,
+    "portfolio": 141,
+    "watchlist": 617,
     "universe": 50,
-    "total": 664
+    "total": 667
   },
   "items": [
+    {
+      "id": "n09bed6b3539c",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Sapphire Foods Secures 98% Tax Relief as Income Tax Department Appeals ITAT Order",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZENOVnJKcUN3b2NnX2VCQlJjcWNPS1Jnd3B3eVQyVi1YVE5jVkpIeXRKWk12RHFnVUt4TWJmelJnWTZoN3lNd2hTVXpNRW04Q0FOTlNkQWFYQWotdnJGZ2c0a2FsNE5QZHo3SjkzVktnR1lEWnhQVlFUWW5nbXpjY3M3d1Fad0plS1YweGl4dHd1ZUgxamY4UmtXNUgtR3djY2Y3TFJ4YVpoZXV5TUpHcC1WWkgya09EaERFZFU2RTNPVjN2QzI5QXZPdmU2cXg3YXZfRmItczlUNWVfTkY2ZVh2ZE84REVmakdCWVNwOA?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-11-08T05:02:01.000Z",
+      "topic": "Trouble",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Sapphire Foods wins 98% tax relief as Income Tax Department appeals tribunal order",
+      "enriched": true
+    },
     {
       "id": "n08abbd9b04a0",
       "ticker": "APSISAERO",
@@ -712,7 +731,8 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Solar Industries India posted strong growth in Q2 2027 results.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n53e4b5ec0079",
@@ -1082,7 +1102,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "CCI approves Devyani-Sapphire merger and Adani's Rs 3,050 crore IntelliSmart acquisition.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -1496,7 +1516,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Senores Pharmaceuticals announced ₹43 crore capacity expansion across its subsidiaries.",
-      "sources_count": 5,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -1758,6 +1778,27 @@
       "takeaway": "Acutaas Chemicals Q2 2026 revenue exceeds expectations, driving 13% stock gain.",
       "enriched": true,
       "sources_count": 2
+    },
+    {
+      "id": "ne1b53078f0ca",
+      "ticker": "APTUS",
+      "company": "Aptus Value Housing Finance India Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Aptus Value Housing Finance reschedules Q2FY27 earnings call to Nov 4",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdGlnLURQUEhCaWlQRjB4X3hzOHVQbGhjOG9wcklRTHh0YnlBUTJKRW9LSmZpWVZndTNhaWpsWlN2YlJGcTFCXzNrVlV4cXVGSnUxekJVU0lyMktmQUtLeDJpNkUtZXVyU2Y4ZmYtWjhjLTBWRUFiR184eGdXem5vU2otLXkwSzFKcTBCQkVWQk1VdzNBLUFMaHllTEhmeUgwblhTaGNEV3hNaG45ME8tRWRrcWN1NndjVUFNbFVGaVk?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-10-27T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Aptus Value Housing rescheduled its Q2 earnings call to November 4.",
+      "sources_count": 2,
+      "enriched": true
     },
     {
       "id": "nfd1f6bc2257a",
@@ -2311,7 +2352,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Aurionpro won a ₹150 crore order for a Navi Mumbai data centre project.",
-      "sources_count": 3,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -2466,7 +2507,7 @@
       "mood": "positive",
       "takeaway": "DEE Development Engineers' order book expanded to ₹2,531 crore as of September 2026.",
       "enriched": true,
-      "sources_count": 4
+      "sources_count": 3
     },
     {
       "id": "n55787a26b571",
@@ -9237,27 +9278,6 @@
       "enriched": true
     },
     {
-      "id": "n39d22c238d28",
-      "ticker": "STLTECH",
-      "company": "Sterlite Technologies Limited",
-      "sector": "Telecommunication",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Sterlite Technologies Wins ₹960 Crore Order",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUXMweWdhQy1ROUVZZzZyM2xCa042SE9tQTNlRjlodlpjWnpVT3I5U3RNSFlaWlQxRng5eUNhY0hVcFMwak5Bd0FDb3hGc0pfMGh4UnBaal80UWJBbHhrOUQzbXhRSlBud2xGeW9XMlBCb25oN2Ixdm5YZ0N6T0JfdnBhNTZXNzljS1pndmlac2dvR0U3Ynp6UEJtcDZUVlVFRW50RWpXZFhBOXFKUUE?oc=5",
-      "source": "InvestyWise",
-      "date": "2026-08-01T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Sterlite Technologies wins ₹960 crore order, boosting orderbook significantly.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "nf7de43564d5f",
       "ticker": "LAXMIDENTL",
       "company": "Laxmi Dental Limited",
@@ -9293,7 +9313,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Meesho completed majority stake acquisition in Kirana Club and Retail Pulse Labs.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -11173,6 +11193,25 @@
       "enriched": true
     },
     {
+      "id": "nd5705fd2c259",
+      "ticker": "BALUFORGE",
+      "company": "Balu Forge Industries Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Balu Forge Industries confirms book closure for 37th AGM and dividend",
+      "url": "https://scanx.trade/stock-market-news/companies/balu-forge-industries-recommend-final-dividend-fy26/49878206",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Other",
+      "keyword": "Approval",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Balu Forge set book closure dates for its 37th AGM and dividend distribution.",
+      "enriched": true
+    },
+    {
       "id": "n7f10c13cbf88",
       "ticker": "GMMPFAUDLR",
       "company": "GMM Pfaudler Limited",
@@ -11228,6 +11267,26 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Vivid Electromech has Rs 307 crore order book covering two quarters of work.",
+      "enriched": true
+    },
+    {
+      "id": "n9d1b66db79a0",
+      "ticker": "VIVIDEL",
+      "company": "Vivid Electromech Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Vivid Electromech Secures ₹24.25 Crore Order for Noida Data Centre Project",
+      "url": "https://tradebrains.in/indian-markets/vivid-electromech-secures-2425-crore-order-for-noida-data-centre-project-12795130",
+      "source": "tradebrains.in",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Vivid Electromech won a ₹24.25 crore order for a Noida data centre project.",
       "enriched": true
     },
     {
@@ -11922,7 +11981,7 @@
       "mood": "positive",
       "takeaway": "Sapphire-Devyani merger gets competition regulator approval, consolidating KFC and Pizza Hut franchise operations.",
       "enriched": true,
-      "sources_count": 5
+      "sources_count": 4
     },
     {
       "id": "nf7a3dfa99869",
@@ -12196,25 +12255,6 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "GMM Pfaudler updates list of key managerial personnel for materiality checks.",
-      "enriched": true
-    },
-    {
-      "id": "n1039aede9f8b",
-      "ticker": "KANOHAR",
-      "company": "Kanohar Electricals Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Kanohar Electricals reports 112% revenue growth for Q2 FY27 | InvestyWise",
-      "url": "https://www.investywise.com/kanohar-electricals-limited-intimation-of-investor-earnings-presentation/",
-      "source": "investywise.com",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Kanohar Electricals reports strong 112% revenue growth in second quarter of fiscal year.",
       "enriched": true
     },
     {
@@ -12930,6 +12970,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Laxmi Dental reallocating Rs 48.1 crore to expand its own manufacturing facilities.",
+      "enriched": true
+    },
+    {
+      "id": "ne8a6f2c28fc3",
+      "ticker": "SONATSOFTW",
+      "company": "Sonata Software Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Sonata Software expects growth to improve in second half as AI services gain traction - CNBC TV18",
+      "url": "https://www.cnbctv18.com/market/earnings/sonata-software-strong-h2-growth-fy27-artificial-intelligence-order-book-rises-25-percent-q2-earnings-results-boardroom-alpha-article-20030178.htm",
+      "source": "cnbctv18.com",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Company expects better growth in second half driven by AI services gaining traction.",
       "enriched": true
     }
   ]
