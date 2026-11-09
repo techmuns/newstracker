@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T10:31:28.192Z",
+  "generated_at": "2026-11-09T23:40:52.580Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,76 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f46f4f69e5ed9",
+      "ticker": "SPECTRAA",
+      "company": "SpectraA Technology Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-11-09T22:23:23.000Z",
+      "category": "Disclosure",
+      "title": "SpectraA Technology Solutions Limited has informed regarding Disclosure of material issue",
+      "url": "https://nsearchives.nseindia.com/corporate/SPECTRAA_09112026222308_SpectraA_PO_signed.pdf"
+    },
+    {
+      "id": "f9a9e24ed53d1",
+      "ticker": "APTUS",
+      "company": "Aptus Value Housing Finance India Limited",
+      "exchange": "NSE",
+      "date": "2026-11-09T18:02:23.000Z",
+      "category": "Shareholders meeting",
+      "title": "Aptus Value Housing Finance India Limited has informed the Exchange regarding Notice of Postal Ballot",
+      "url": "https://nsearchives.nseindia.com/corporate/APTUS_09112026180203_Aptus_Postal_Ballot_2026_sd.pdf"
+    },
+    {
+      "id": "fc3d0f98e4d84",
+      "ticker": "WOCKPHARMA",
+      "company": "Wockhardt Limited",
+      "exchange": "NSE",
+      "date": "2026-11-09T17:58:09.000Z",
+      "category": "Change in Directors",
+      "title": "Wockhardt Limited has informed the Exchange regarding Cessation of Vinesh Kumar Jairath as Non- Executive Independent Director of the company w.e.f. November 09, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/WOCKPHARMA_09112026175423_VKJTenurecompletionsd.pdf"
+    },
+    {
+      "id": "f55856cfa6678",
+      "ticker": "NORTHARC",
+      "company": "Northern Arc Capital Limited",
+      "exchange": "NSE",
+      "date": "2026-11-09T17:29:15.000Z",
+      "category": "Monitoring Agency Report",
+      "title": "Monitoring agency report for the quarter ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/NACL2020_09112026172908_Monitoring_Agency_SE_Filing_sd.pdf"
+    },
+    {
+      "id": "f63fe7973beb7",
+      "ticker": "KSHINTL",
+      "company": "KSH International Limited",
+      "exchange": "NSE",
+      "date": "2026-11-09T17:00:21.000Z",
+      "category": "Investor Presentation",
+      "title": "KSH International Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/INTERNATIONAL_09112026170006_KSHIntimationofQ2EarningsCallTranscriptsigned.pdf"
+    },
+    {
+      "id": "f24666e6c8153",
+      "ticker": "XPROINDIA",
+      "company": "Xpro India Limited",
+      "exchange": "NSE",
+      "date": "2026-11-09T16:52:25.000Z",
+      "category": "Investor Presentation",
+      "title": "Xpro India Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/XPROINDIA_09112026165209_earning_call_transcript_19112026.pdf"
+    },
+    {
+      "id": "f660ddf308a07",
+      "ticker": "KSHINTL",
+      "company": "KSH International Limited",
+      "exchange": "NSE",
+      "date": "2026-11-09T16:49:46.000Z",
+      "category": "Investor Presentation",
+      "title": "KSH International Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/INTERNATIONAL_09112026164838_KSHIntimationofInvestorMeet09112026signed.pdf"
+    },
     {
       "id": "fafdee442bbe9",
       "ticker": "ANAWIL",
@@ -19936,76 +20006,6 @@
       "category": "Change in Directors",
       "title": "Venus Remedies Limited has informed the Exchange regarding Appointment of Mr. Saransh Chaudhary as Executive Director of the company w.e.f. May 26, 2026.",
       "url": "https://nsearchives.nseindia.com/corporate/VENUSREM_20082026173235_Reg30_appointment_AGM2026.pdf"
-    },
-    {
-      "id": "f3618c147d08c",
-      "ticker": "VENUSREM",
-      "company": "Venus Remedies Limited",
-      "exchange": "NSE",
-      "date": "2026-08-20T17:44:27.000Z",
-      "category": "Change in Directors",
-      "title": "Venus Remedies Limited has informed the Exchange regarding Appointment of Dr. (Mrs.) Savita Gupta as Non- Executive Independent Director of the company w.e.f. December 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/VENUSREM_20082026174250_Reg30_appointment_AGM2026.pdf"
-    },
-    {
-      "id": "f5a002c87e620",
-      "ticker": "VENUSREM",
-      "company": "Venus Remedies Limited",
-      "exchange": "NSE",
-      "date": "2026-08-20T17:44:27.000Z",
-      "category": "Change in Directors",
-      "title": "Venus Remedies Limited has informed the Exchange regarding Appointment of Dr. (Mrs.) Manu Chaudhary as Joint Managing Director of the company w.e.f. October 01, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/VENUSREM_20082026173941_Reg30_appointment_AGM2026.pdf"
-    },
-    {
-      "id": "f77105758b141",
-      "ticker": "VENUSREM",
-      "company": "Venus Remedies Limited",
-      "exchange": "NSE",
-      "date": "2026-08-20T17:44:27.000Z",
-      "category": "Change in Directors",
-      "title": "Venus Remedies Limited has informed the Exchange regarding Appointment of Dr. Gurminder Singh Bedi as Non- Executive Independent Director of the company w.e.f. May 26, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/VENUSREM_20082026173539_Reg30_appointment_AGM2026.pdf"
-    },
-    {
-      "id": "f324e32b8914c",
-      "ticker": "VAML",
-      "company": "Vedanta Aluminium Metal Limited",
-      "exchange": "NSE",
-      "date": "2026-08-20T17:03:15.000Z",
-      "category": "Press Release",
-      "title": "Vedanta Aluminium Metal Limited has informed the Exchange regarding a press release dated August 20, 2026, titled \"Vedanta Aluminium Launches Advanced Metals for Automotive Industry at AutoEdge 2026\".",
-      "url": "https://nsearchives.nseindia.com/corporate/VAML_20082026170303_SEIntimationPressReleaseAdvancedMetalsforAutomotiveIndustrysigned.pdf"
-    },
-    {
-      "id": "ffd8f993cf7b8",
-      "ticker": "GANESHBE",
-      "company": "Ganesh Benzoplast Limited",
-      "exchange": "NSE",
-      "date": "2026-08-20T16:37:23.000Z",
-      "category": "Disclosure",
-      "title": "Ganesh Benzoplast Limited has informed the Exchange about disclosure under Regulation 30 of SEBI listing Regulations, 2015-updates",
-      "url": "https://nsearchives.nseindia.com/corporate/GANESHBE_20082026163709_DisclosureProgfinSupremecourtorder.pdf"
-    },
-    {
-      "id": "f562c7d88395f",
-      "ticker": "GULFOILLUB",
-      "company": "Gulf Oil Lubricants India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-20T16:25:03.000Z",
-      "category": "Newspaper Publication",
-      "title": "We enclose herewith the Newspaper cuttings of Business Standard (English) and Sakal (Marathi) wherein, inter-alia, the Notice of 18th Annual General Meeting of the shareholders is published.",
-      "url": "https://nsearchives.nseindia.com/corporate/GULFOILLUB_20082026162435_NewspaperAGMNOtice20082026.pdf"
-    },
-    {
-      "id": "f9094a2473452",
-      "ticker": "VENUSREM",
-      "company": "Venus Remedies Limited",
-      "exchange": "NSE",
-      "date": "2026-08-20T16:15:45.000Z",
-      "category": "Shareholders meeting",
-      "title": "Venus Remedies Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on August 20, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/VENUSREM_20082026161409_AGM_Proceedings_2026_1_.pdf"
     }
   ]
 }
