@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T10:28:45.420Z",
-  "source": "google-news+munshot+valuepickr+claude",
+  "generated_at": "2026-11-10T21:00:42.245Z",
+  "source": "google-news+valuepickr+claude",
   "counts": {
     "portfolio": 144,
     "watchlist": 625,
@@ -124,7 +124,7 @@
       "mood": "positive",
       "takeaway": "Surya Roshni posted record revenue in Q2 FY27.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "nb0cba5e81054",
@@ -1084,7 +1084,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Shaily Engineering Plastics exceeded revenue expectations in Q2 2026.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -1518,7 +1518,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Senores Pharmaceuticals announced ₹43 crore capacity expansion across its subsidiaries.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -2333,7 +2333,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Aurionpro won a ₹150 crore order for a Navi Mumbai data centre project.",
-      "sources_count": 5,
+      "sources_count": 4,
       "enriched": true
     },
     {
