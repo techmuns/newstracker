@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T23:40:52.580Z",
+  "generated_at": "2026-11-10T10:33:07.245Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,46 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "fb35ca7bc42d2",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "exchange": "NSE",
+      "date": "2026-11-10T15:05:59.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Surya Roshni Limited has informed the Exchange about Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/SURYAROSNI_10112026150534_74_5_OCTOBER_2026.pdf"
+    },
+    {
+      "id": "f955cd2b68f26",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "exchange": "NSE",
+      "date": "2026-11-10T13:07:47.000Z",
+      "category": "Disclosure",
+      "title": "Intimation - Completion of Tenure of Independent Director of the Company",
+      "url": "https://nsearchives.nseindia.com/corporate/GOLDIAM_10112026130733_Intimation_of_Completion_of_Tenure-10-11-2026.pdf"
+    },
+    {
+      "id": "f8475e5b27056",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "exchange": "NSE",
+      "date": "2026-11-10T13:04:42.000Z",
+      "category": "Change in Directors",
+      "title": "Goldiam International Limited has informed the Exchange about Resignation of Director/KMP/SMP",
+      "url": "https://nsearchives.nseindia.com/corporate/GOLDIAM_ROID_104469_KMP_Doc.zip"
+    },
+    {
+      "id": "f1d4bc8463a0a",
+      "ticker": "TRIVENI",
+      "company": "Triveni Engineering & Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-11-10T12:47:31.000Z",
+      "category": "Investor Presentation",
+      "title": "Triveni Engineering & Industries Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/TRIVENI_10112026124723_TEIL_TRANSCRIPT_SEP26.pdf"
+    },
     {
       "id": "f46f4f69e5ed9",
       "ticker": "SPECTRAA",
@@ -19966,46 +20006,6 @@
       "category": "Disclosure",
       "title": "Advait Energy Transitions Limited has informed the Exchange about General Updates",
       "url": "https://nsearchives.nseindia.com/corporate/ADVAITENERGY_20082026185610_AETLSEintimation_AGMdate_s.pdf"
-    },
-    {
-      "id": "faf5e2583b566",
-      "ticker": "LGEINDIA",
-      "company": "LG Electronics India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-20T18:56:20.000Z",
-      "category": "Investor Presentation",
-      "title": "LG Electronics India Limited has informed the Exchange about Transcript",
-      "url": "https://nsearchives.nseindia.com/corporate/LGEINDIA_20082026185348_Transcript_of_Earning_Call.pdf"
-    },
-    {
-      "id": "f426aba058cd2",
-      "ticker": "KSHINTL",
-      "company": "KSH International Limited",
-      "exchange": "NSE",
-      "date": "2026-08-20T18:43:01.000Z",
-      "category": "Shareholders meeting",
-      "title": "KSH International Limited has informed the Exchange, regarding Notice of Annual General Meeting to be held on September 15, 2026, and Annual Report for FY 2025-26.",
-      "url": "https://nsearchives.nseindia.com/corporate/INTERNATIONAL_20082026184200_KSHINTL_Intimation_of_AGM_Notice__AR_signed.pdf"
-    },
-    {
-      "id": "fd4a94c7083ea",
-      "ticker": "FLYSBS",
-      "company": "FlySBS Aviation Limited",
-      "exchange": "NSE",
-      "date": "2026-08-20T17:57:07.000Z",
-      "category": "Price movement",
-      "title": "Significant movement in price has been observed in FlySBS Aviation Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the market place so that the interest of the investors is safeguarded, has written to the company. The response from the company is awaited.",
-      "url": "https://nsearchives.nseindia.com/corporate/-"
-    },
-    {
-      "id": "f368eed1cf03f",
-      "ticker": "VENUSREM",
-      "company": "Venus Remedies Limited",
-      "exchange": "NSE",
-      "date": "2026-08-20T17:44:27.000Z",
-      "category": "Change in Directors",
-      "title": "Venus Remedies Limited has informed the Exchange regarding Appointment of Mr. Saransh Chaudhary as Executive Director of the company w.e.f. May 26, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/VENUSREM_20082026173235_Reg30_appointment_AGM2026.pdf"
     }
   ]
 }
