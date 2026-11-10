@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T10:33:07.245Z",
+  "generated_at": "2026-11-10T21:06:15.881Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,116 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f70a111102fe5",
+      "ticker": "MIDWESTLTD",
+      "company": "Midwest Limited",
+      "exchange": "NSE",
+      "date": "2026-11-10T20:10:38.000Z",
+      "category": "Statement of deviation(s) or variation(s) under Reg. 32",
+      "title": "Midwest Limited has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32",
+      "url": "https://nsearchives.nseindia.com/corporate/MIDWEST_10112026201029_Statement_of_Deviation_Midwest_Ltd_Q2_September_2026.pdf"
+    },
+    {
+      "id": "fa581e1d23385",
+      "ticker": "LENSKART",
+      "company": "Lenskart Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-11-10T20:02:21.000Z",
+      "category": "Investor Presentation",
+      "title": "Lenskart Solutions Limited has informed the Exchange about Transcript of Earnings Call with respect to Financial Results for the quarter and half-year ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/LENSKART_10112026200204_Reg30_-_Transcript_-_SE_Intimation_signed.pdf"
+    },
+    {
+      "id": "f76b6a957638e",
+      "ticker": "MIDWESTLTD",
+      "company": "Midwest Limited",
+      "exchange": "NSE",
+      "date": "2026-11-10T19:35:07.000Z",
+      "category": "Board Meeting",
+      "title": "Midwest Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/MIDWEST_10112026193356_Outcome_BoardMeeting_10112026.pdf"
+    },
+    {
+      "id": "fd3e51d6a7536",
+      "ticker": "SETL",
+      "company": "Standard Engineering Technology Limited",
+      "exchange": "NSE",
+      "date": "2026-11-10T18:48:28.000Z",
+      "category": "Investor Presentation",
+      "title": "Standard Engineering Technology Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/SGLTPL_10112026184816_Earnings_Call_Transcript_10112026_F.pdf"
+    },
+    {
+      "id": "f49c67bd3132e",
+      "ticker": "TENNIND",
+      "company": "Tenneco Clean Air India Limited",
+      "exchange": "NSE",
+      "date": "2026-11-10T18:45:25.000Z",
+      "category": "Investor Presentation",
+      "title": "Tenneco Clean Air India Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/TENNECO_10112026184209_Earnings_Call_Transcript_Intimation_Signed.pdf"
+    },
+    {
+      "id": "f9cab900b04a7",
+      "ticker": "MONOLITH",
+      "company": "Monolithisch India Limited",
+      "exchange": "NSE",
+      "date": "2026-11-10T18:32:27.000Z",
+      "category": "Change in Directors",
+      "title": "Monolithisch India Limited has informed the Exchange about change in Management",
+      "url": "https://nsearchives.nseindia.com/corporate/MONOLITHISCH_10112026183212_10112026_APPOINTMENT_OF_INTERNAL_AUDITOR_V2.pdf"
+    },
+    {
+      "id": "f21d61caca187",
+      "ticker": "CMLL",
+      "company": "Caliber Mining and Logistics Limited",
+      "exchange": "NSE",
+      "date": "2026-11-10T17:47:44.000Z",
+      "category": "Investor Presentation",
+      "title": "Caliber Mining and Logistics Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/CMLL_10112026173950_Intimation_to_investor_call.pdf"
+    },
+    {
+      "id": "f9168a806b6f2",
+      "ticker": "TENNIND",
+      "company": "Tenneco Clean Air India Limited",
+      "exchange": "NSE",
+      "date": "2026-11-10T16:58:07.000Z",
+      "category": "Disclosure",
+      "title": "Tenneco Clean Air India Limited has informed the Exchange about ESG rating",
+      "url": "https://nsearchives.nseindia.com/corporate/TENNECO_10112026165547_ESG_Intimation_Signed.pdf"
+    },
+    {
+      "id": "f06f085c807d0",
+      "ticker": "STYLAMIND",
+      "company": "Stylam Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-11-10T16:51:15.000Z",
+      "category": "Investor Presentation",
+      "title": "Stylam Industries Limited has informed the Exchange about Transcript of Investor and Analyst Meet.",
+      "url": "https://nsearchives.nseindia.com/corporate/STYLAMIND_10112026165100_Investor_Meet_Transcript.pdf"
+    },
+    {
+      "id": "fb70ae20498dc",
+      "ticker": "IKS",
+      "company": "Inventurus Knowledge Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-11-10T16:29:20.000Z",
+      "category": "Acquisition",
+      "title": "Inventurus Knowledge Solutions Limited has informed the Exchange about Acquisition of Turbo Health Holdings, LLC.",
+      "url": "https://nsearchives.nseindia.com/corporate/IKS2006_10112026162853_FINALProjectTurboAcquistionSEDisclosure_10Nov2026.pdf"
+    },
+    {
+      "id": "f59de1dbfaee1",
+      "ticker": "DENTALKART",
+      "company": "Vasa Denticity Limited",
+      "exchange": "NSE",
+      "date": "2026-11-10T16:23:33.000Z",
+      "category": "Investor Presentation",
+      "title": "Vasa Denticity Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/VASADENTICITY_10112026162146_Presentation_Investor_Meet.pdf"
+    },
     {
       "id": "fb35ca7bc42d2",
       "ticker": "SURYAROSNI",
@@ -19896,116 +20006,6 @@
       "category": "Disclosure",
       "title": "DEE Development Engineers Limited has informed the Exchange regarding 'Corporate Action - Book closure from September 17, 2026 to September 23, 2026 (Both days inclusive)'.",
       "url": "https://nsearchives.nseindia.com/corporate/DDEL_21082026112528_NSEBSE_Book_Closure.pdf"
-    },
-    {
-      "id": "ff61957584e44",
-      "ticker": "VOEPL",
-      "company": "Virtuoso Optoelectronics Limited",
-      "exchange": "NSE",
-      "date": "2026-08-21T11:20:38.000Z",
-      "category": "Investor Presentation",
-      "title": "Virtuoso Optoelectronics Limited has informed the Exchange about Transcript",
-      "url": "https://nsearchives.nseindia.com/corporate/VIRTUOSO_21082026112027_Transcript_Q1_FY_27_Final.pdf"
-    },
-    {
-      "id": "f989048c467da",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "exchange": "NSE",
-      "date": "2026-08-21T10:59:20.000Z",
-      "category": "Record Date",
-      "title": "DEE Development Engineers Limited has informed the Exchange that Record date for the purpose of Dividend is 16-Sep-2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/DDEL_21082026105338_NSEBSE_Recorddate.pdf"
-    },
-    {
-      "id": "fc405008a8480",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "exchange": "NSE",
-      "date": "2026-08-21T10:40:56.000Z",
-      "category": "Dividend",
-      "title": "DEE Development Engineers Limited has informed the Exchange that Board of Directors at its meeting held on August 21, 2026, recommended Final Dividend of Re. 1 per equity share & AGM matters.",
-      "url": "https://nsearchives.nseindia.com/corporate/DDEL_21082026104005_NSEBSESIGNED.pdf"
-    },
-    {
-      "id": "fd77a00d48ffe",
-      "ticker": "CONCORDBIO",
-      "company": "Concord Biotech Limited",
-      "exchange": "NSE",
-      "date": "2026-08-21T10:19:19.000Z",
-      "category": "Investor Presentation",
-      "title": "Concord Biotech Limited has informed the Exchange about Schedule of meet",
-      "url": "https://nsearchives.nseindia.com/corporate/CONCORD_21082026101908_Intimation_to_Stock_Exchanges.pdf"
-    },
-    {
-      "id": "f648c0d877c12",
-      "ticker": "LENSKART",
-      "company": "Lenskart Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-08-20T22:50:52.000Z",
-      "category": "Disclosure",
-      "title": "Lenskart Solutions Limited has informed the Exchange about General Updates",
-      "url": "https://nsearchives.nseindia.com/corporate/LENSKART_20082026225038_Intimation_-_LODR_-_Security_Incident_signed.pdf"
-    },
-    {
-      "id": "f2ba0048af3ad",
-      "ticker": "LENSKART",
-      "company": "Lenskart Solutions Limited",
-      "exchange": "NSE",
-      "date": "2026-08-20T22:32:08.000Z",
-      "category": "Shareholders meeting",
-      "title": "Lenskart Solutions Limited has submitted the Exchange a copy Srutinizers report of 18th Annual General Meeting held on August 19, 2026. Further, the Company has informed the Exchange regarding voting results.",
-      "url": "https://nsearchives.nseindia.com/corporate/LENSKART_20082026223140_Reg30_-_AGM_Results_signed.pdf"
-    },
-    {
-      "id": "f80d5ac072674",
-      "ticker": "DYNAMATECH",
-      "company": "Dynamatic Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-08-20T22:16:25.000Z",
-      "category": "Shareholders meeting",
-      "title": "Dynamatic Technologies Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 15, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/DYNAMATICH_20082026212315_ANNUAL_REPORT_2025_2026_SSD.pdf"
-    },
-    {
-      "id": "f9b720e75abf0",
-      "ticker": "PDSL",
-      "company": "PDS Limited",
-      "exchange": "NSE",
-      "date": "2026-08-20T21:43:49.000Z",
-      "category": "Diversification/Disinvestment",
-      "title": "PDS Limited has informed the Exchange about Diversification/Disinvestment",
-      "url": "https://nsearchives.nseindia.com/corporate/PDSL_20082026214320_Ltr_SPASign_DivestDBS_20Aug2026_Signed.pdf"
-    },
-    {
-      "id": "fbe226552a0eb",
-      "ticker": "SBIFUNDS",
-      "company": "SBI Funds Management Limited",
-      "exchange": "NSE",
-      "date": "2026-08-20T19:50:00.000Z",
-      "category": "Change in Directors",
-      "title": "SBI Funds Management Limited has informed the Exchange about change in Management",
-      "url": "https://nsearchives.nseindia.com/corporate/SBIMF2026_20082026194821_SBIFMLBMOUTCOME200826.pdf"
-    },
-    {
-      "id": "f33f01dbbfb70",
-      "ticker": "ADVAIT",
-      "company": "Advait Energy Transitions Limited",
-      "exchange": "NSE",
-      "date": "2026-08-20T18:59:15.000Z",
-      "category": "Record Date",
-      "title": "Advait Energy Transitions Limited has informed the Exchange that Record date for the purpose of Dividend is 14-Sep-2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/ADVAITENERGY_20082026185851_AETLSEintimation_AGMdate_s.pdf"
-    },
-    {
-      "id": "f28bd38395df7",
-      "ticker": "ADVAIT",
-      "company": "Advait Energy Transitions Limited",
-      "exchange": "NSE",
-      "date": "2026-08-20T18:56:49.000Z",
-      "category": "Disclosure",
-      "title": "Advait Energy Transitions Limited has informed the Exchange about General Updates",
-      "url": "https://nsearchives.nseindia.com/corporate/ADVAITENERGY_20082026185610_AETLSEintimation_AGMdate_s.pdf"
     }
   ]
 }
