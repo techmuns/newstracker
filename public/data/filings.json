@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T10:01:48.753Z",
+  "generated_at": "2026-11-11T21:39:08.774Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,166 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "fc392232da2e0",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "exchange": "NSE",
+      "date": "2026-11-11T21:44:09.000Z",
+      "category": "Investor Presentation",
+      "title": "Apsis Aerocom Limited has informed the Exchange about Schedule of meet for H1 FY 2027 Earnings Call",
+      "url": "https://nsearchives.nseindia.com/corporate/APSIS2025_11112026213956_NSEintimation_Earningscall_30092026.pdf"
+    },
+    {
+      "id": "fa2ab9935b1c1",
+      "ticker": "PDSL",
+      "company": "PDS Limited",
+      "exchange": "NSE",
+      "date": "2026-11-11T20:25:53.000Z",
+      "category": "Investor Presentation",
+      "title": "PDS Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/PDSL_11112026202537_Ltr_IntimationofConCallTranscript_11112026.pdf"
+    },
+    {
+      "id": "fdd79b1751476",
+      "ticker": "FLYSBS",
+      "company": "FlySBS Aviation Limited",
+      "exchange": "NSE",
+      "date": "2026-11-11T19:11:12.000Z",
+      "category": "Monitoring Agency Report",
+      "title": "Monitoring Agency Report for the period ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/FLYSBS_11112026191045_MARLetter.pdf"
+    },
+    {
+      "id": "fb520032de0a5",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "exchange": "NSE",
+      "date": "2026-11-11T18:54:57.000Z",
+      "category": "Investor Presentation",
+      "title": "DEE Development Engineers Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/DDEL_11112026185344_NSEBSE_Earning_Call_Q2H1.pdf"
+    },
+    {
+      "id": "f7c4971e08a27",
+      "ticker": "MIDWESTLTD",
+      "company": "Midwest Limited",
+      "exchange": "NSE",
+      "date": "2026-11-11T18:46:57.000Z",
+      "category": "Investor Presentation",
+      "title": "Midwest Limited has informed the Exchange about Link of Recording",
+      "url": "https://nsearchives.nseindia.com/corporate/MIDWEST_11112026184650_Earnings_Call_Audio_Recording.pdf"
+    },
+    {
+      "id": "fb6b518c662f4",
+      "ticker": "LENSKART",
+      "company": "Lenskart Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-11-11T18:20:26.000Z",
+      "category": "Monitoring Agency Report",
+      "title": "Lenskart Solutions Limited has informed the Exchange about the Monitoring Agency Report for the quarter and half-year ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/LENSKART_11112026181959_Reg30_SE_Intimation_MA_Report.pdf"
+    },
+    {
+      "id": "f1d2dfddcf31e",
+      "ticker": "SCODATUBES",
+      "company": "Scoda Tubes Limited",
+      "exchange": "NSE",
+      "date": "2026-11-11T18:00:29.000Z",
+      "category": "Monitoring Agency Report",
+      "title": "Monitoring Agency Report under Regulation 32(6) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/SCODA_11112026180007_Covering_-_MA_report.pdf"
+    },
+    {
+      "id": "f1da1ae4a67f6",
+      "ticker": "FLYSBS",
+      "company": "FlySBS Aviation Limited",
+      "exchange": "NSE",
+      "date": "2026-11-11T17:30:00.000Z",
+      "category": "Board Meeting",
+      "title": "FlySBS Aviation Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/FLYSBS_11112026172613_Outcome.pdf"
+    },
+    {
+      "id": "f6d4344c002f0",
+      "ticker": "PVRINOX",
+      "company": "PVR INOX Limited",
+      "exchange": "NSE",
+      "date": "2026-11-11T17:16:10.000Z",
+      "category": "Investor Presentation",
+      "title": "PVR INOX Limited has informed the Exchange that Company representatives will participate in the 29th CITIC CLSA India Forum 2026, organized by CLSA Securities, on November 17, 2026 at 11:00 AM (IST) in Mumbai, India.",
+      "url": "https://nsearchives.nseindia.com/corporate/PVRINOXLTD_11112026171557_PVRINOXInvestororAnalystMeet11112026.pdf"
+    },
+    {
+      "id": "f1825d20e8e47",
+      "ticker": "DENTALKART",
+      "company": "Vasa Denticity Limited",
+      "exchange": "NSE",
+      "date": "2026-11-11T17:05:37.000Z",
+      "category": "Investor Presentation",
+      "title": "Vasa Denticity Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/VASADENTICITY_11112026170514_Transcript_Intimation_11_11_2026.pdf"
+    },
+    {
+      "id": "fbef2117abfd0",
+      "ticker": "DENTALKART",
+      "company": "Vasa Denticity Limited",
+      "exchange": "NSE",
+      "date": "2026-11-11T17:03:19.000Z",
+      "category": "Investor Presentation",
+      "title": "Vasa Denticity Limited has informed the Exchange about Link of Recording",
+      "url": "https://nsearchives.nseindia.com/corporate/VASADENTICITY_11112026170257_Intimation_of_Audio_Recording_Earnings_Call_11Nov2026.pdf"
+    },
+    {
+      "id": "f1b9895af9e1d",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "exchange": "NSE",
+      "date": "2026-11-11T16:35:32.000Z",
+      "category": "Disclosure",
+      "title": "Goldiam International Limited has informed the Exchange regarding 'Re-constitution of committees'.",
+      "url": "https://nsearchives.nseindia.com/corporate/GOLDIAM_11112026163513_-Intimation_of__Re-constitution_of_the_Committees_-11-11-2026.pdf"
+    },
+    {
+      "id": "f777a38f85e82",
+      "ticker": "GOLDIAM",
+      "company": "Goldiam International Limited",
+      "exchange": "NSE",
+      "date": "2026-11-11T16:19:32.000Z",
+      "category": "Change in Directors",
+      "title": "Goldiam International Limited has informed the Exchange regarding Appointment of Mr. Sacchin Pannkaj Ghadialli(DIN 01851405) as Non- Executive Independent Director of the company w.e.f. November 11, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/GOLDIAM_11112026161909_Regulation_30-11-11-2026.pdf"
+    },
+    {
+      "id": "f53c697a13304",
+      "ticker": "SONATSOFTW",
+      "company": "Sonata Software Limited",
+      "exchange": "NSE",
+      "date": "2026-11-11T16:08:32.000Z",
+      "category": "Investor Presentation",
+      "title": "Sonata Software Limited has informed the Exchange about Transcript of the Analyst Call/Investor Meet held on 6th November, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/SONATSOFTW_11112026160747_earningscalltranscriptq2fy27.pdf"
+    },
+    {
+      "id": "f2d09503a1ba5",
+      "ticker": "LUMINO",
+      "company": "Lumino Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-11-11T15:41:53.000Z",
+      "category": "Investor Presentation",
+      "title": "Lumino Industries Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/LUMINO123_11112026153409_Intimation.pdf"
+    },
+    {
+      "id": "f14acd4a1cf65",
+      "ticker": "INDOMIM",
+      "company": "INDO-MIM Limited",
+      "exchange": "NSE",
+      "date": "2026-11-11T15:29:19.000Z",
+      "category": "Investor Presentation",
+      "title": "Intimation of an earnings conference call for the quarter and half year ended 30th September 2026 under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.",
+      "url": "https://nsearchives.nseindia.com/corporate/INDOMIM_11112026152816_INDO-MIM_-_Intimation_of_Investor_Call_-_11-11-2026.pdf"
+    },
     {
       "id": "f5e1854f89797",
       "ticker": "MIDWESTLTD",
@@ -19846,166 +20006,6 @@
       "category": "Disclosure",
       "title": "One Mobikwik Systems Limited has informed the Exchange about Dispatch of letter to shareholders whose e-mail addresses are not registered with Company/ Registrar & Share Transfer Agent/ Depository Participant(s)",
       "url": "https://nsearchives.nseindia.com/corporate/MOBIKWIK_22082026181124_Intimation.pdf"
-    },
-    {
-      "id": "f339ec63e9738",
-      "ticker": "MOBIKWIK",
-      "company": "One Mobikwik Systems Limited",
-      "exchange": "NSE",
-      "date": "2026-08-22T16:31:54.000Z",
-      "category": "Newspaper Publication",
-      "title": "One Mobikwik Systems Limited has informed the Exchange about Newspaper Publications for 18th Annual General Meeting of Members of the Company",
-      "url": "https://nsearchives.nseindia.com/corporate/MOBIKWIK_22082026163131_Intimation.pdf"
-    },
-    {
-      "id": "f54b9d3292f56",
-      "ticker": "CANFINHOME",
-      "company": "Can Fin Homes Limited",
-      "exchange": "NSE",
-      "date": "2026-08-22T15:34:02.000Z",
-      "category": "Disclosure",
-      "title": "Can Fin Homes Limited has informed the Exchange about the ESG Rating for FY 2025-26 provided by CRISIL ESG Ratings & Analytics Limited. For more details please refer the attachment.",
-      "url": "https://nsearchives.nseindia.com/corporate/CANFINHOME_22082026152531_CRISIL_ESG_Ratings_and_Analytics_Limited.pdf"
-    },
-    {
-      "id": "ffd378baab22f",
-      "ticker": "SHRIAHIMSA",
-      "company": "Shri Ahimsa Naturals Limited",
-      "exchange": "NSE",
-      "date": "2026-08-22T11:55:52.000Z",
-      "category": "Shareholders meeting",
-      "title": "Shri Ahimsa Naturals Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 14, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/AHIMSANATURALS_22082026115431_Covering_letter.pdf"
-    },
-    {
-      "id": "f6fe19f8fffa8",
-      "ticker": "LGEINDIA",
-      "company": "LG Electronics India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-21T20:59:30.000Z",
-      "category": "Shareholders meeting",
-      "title": "LG Electronics India Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on August 21, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/LGEINDIA_21082026205122_Proceedings_of_AGM_2026.pdf"
-    },
-    {
-      "id": "f751111b3789e",
-      "ticker": "HILINFRA",
-      "company": "Highway Infrastructure Limited",
-      "exchange": "NSE",
-      "date": "2026-08-21T20:19:14.000Z",
-      "category": "Receipt of Order",
-      "title": "Highway Infrastructure Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
-      "url": "https://nsearchives.nseindia.com/corporate/HIGHWAY123_21082026201856_Hil_Reg_30_WorkOrder_Palayam.pdf"
-    },
-    {
-      "id": "f99d262d3b196",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "exchange": "NSE",
-      "date": "2026-08-21T20:13:16.000Z",
-      "category": "Newspaper Publication",
-      "title": "Meesho Limited has informed the Exchange about Newspaper Publication of public notice before dispatch of the Notice of 11th Annual General Meeting (''AGM'') of the Company.",
-      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_21082026201305_ML_Pre_dispatch_advertisment__1_.pdf"
-    },
-    {
-      "id": "fcf9b0ec0b980",
-      "ticker": "TENNIND",
-      "company": "Tenneco Clean Air India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-21T19:18:04.000Z",
-      "category": "Disclosure",
-      "title": "Tenneco Clean Air India Limited has informed the Exchange about Grant of Employee Stock Options to employees",
-      "url": "https://nsearchives.nseindia.com/corporate/TENNECO_21082026191320_NRC_outcome_ESOP_FinalSigned.pdf"
-    },
-    {
-      "id": "f2b83351afcfc",
-      "ticker": "HILINFRA",
-      "company": "Highway Infrastructure Limited",
-      "exchange": "NSE",
-      "date": "2026-08-21T18:51:41.000Z",
-      "category": "Investor Presentation",
-      "title": "Highway Infrastructure Limited has informed the Exchange about Transcript",
-      "url": "https://nsearchives.nseindia.com/corporate/HIGHWAY123_21082026185105_HIL_EC_Transcript_21082026.pdf"
-    },
-    {
-      "id": "f0ba7f2fa3191",
-      "ticker": "URBANCO",
-      "company": "Urban Company Limited",
-      "exchange": "NSE",
-      "date": "2026-08-21T18:31:51.000Z",
-      "category": "Disclosure",
-      "title": "Urban Company Limited has informed the Exchange regarding 'Disclosure under Regulation 3(3) of the SEBI (Share Based Employee Benefits and Sweat Equity) Regulations, 2021 Submission of Amended and Restated Urban Company ESOP Trust Deed'.",
-      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_21082026183142_UC_ESOP_Trust_Deed_amendment_21082026_Signed.pdf"
-    },
-    {
-      "id": "f37a9f88c7099",
-      "ticker": "URBANCO",
-      "company": "Urban Company Limited",
-      "exchange": "NSE",
-      "date": "2026-08-21T18:13:06.000Z",
-      "category": "Investor Presentation",
-      "title": "Urban Company Limited has informed the Exchange about Schedule of Analyst/ Investor Meeting to be held on August 24, 2026 and August 26, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_21082026181252_Investor_Meeting_SE_Intimation_21082026.pdf"
-    },
-    {
-      "id": "fb89100d81d25",
-      "ticker": "FAZE3Q",
-      "company": "Faze Three Limited",
-      "exchange": "NSE",
-      "date": "2026-08-21T18:06:08.000Z",
-      "category": "Investor Presentation",
-      "title": "Faze Three Limited has informed the Exchange about Schedule of Analyst / Institutional Investor Meetings",
-      "url": "https://nsearchives.nseindia.com/corporate/FAZETHREE_21082026180540_Intimation.pdf"
-    },
-    {
-      "id": "fb526e28a5f11",
-      "ticker": "KPITTECH",
-      "company": "KPIT Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-08-21T17:48:57.000Z",
-      "category": "Disclosure",
-      "title": "KPIT Technologies Limited 9th AGM to be held on August 31, 2026 - Response to Institutional Investor Advisory Services India (IiAS) Voting Recommendation",
-      "url": "https://nsearchives.nseindia.com/corporate/KPITTECH_21082026174836_KPIT_iias_clarification_Final.pdf"
-    },
-    {
-      "id": "f543a093b18d4",
-      "ticker": "SBCL",
-      "company": "Shivalik Bimetal Controls Limited",
-      "exchange": "NSE",
-      "date": "2026-08-21T17:32:55.000Z",
-      "category": "Agreements",
-      "title": "Shivalik Bimetal Controls Limited has informed the Exchange about Agreements for granting of loan to its Wholly Owned Subsidiary.",
-      "url": "https://nsearchives.nseindia.com/corporate/SBCL_21082026173223_Intimation_to_BSE.pdf"
-    },
-    {
-      "id": "f1c12c09a01e5",
-      "ticker": "DYNAMATECH",
-      "company": "Dynamatic Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-08-21T16:57:00.000Z",
-      "category": "Disclosure",
-      "title": "Dynamatic Technologies Limited has informed the Exchange regarding 'Intimation under Regulation 30 of SEBI LODR'. Pursuant to Regulation 30 of the SEBI Listing Regulations, we wish to inform you that in compliance with Regulation 36(1)(b) of the SEBI Listing Regulations, Dynamatic Technologies Limited ('the Company') has dispatched letters to those Shareholders whose e-mail addresses are not registered with Company/Registrar & Transfer Agent/Depository Participants, providing the weblink of Company s website from where the Integrated Annual Report for FY 2025-26 can be accessed. A copy of the letter is enclosed herewith for your record.",
-      "url": "https://nsearchives.nseindia.com/corporate/DYNAMATICH_21082026164611_SEIntimation_AGM_LettersenttoShareholders.pdf"
-    },
-    {
-      "id": "f2878bfa8c1cb",
-      "ticker": "MOBIKWIK",
-      "company": "One Mobikwik Systems Limited",
-      "exchange": "NSE",
-      "date": "2026-08-21T14:16:58.000Z",
-      "category": "Disclosure",
-      "title": "One Mobikwik Systems Limited has informed the Exchange about Business Responsibility and Sustainability Report for FY 2025-26",
-      "url": "https://nsearchives.nseindia.com/corporate/MOBIKWIK_21082026141634_Intimation_about_BRSR.pdf"
-    },
-    {
-      "id": "f1fe3252fc7eb",
-      "ticker": "ANAWIL",
-      "company": "Anawil Wire and Engineering Limited",
-      "exchange": "NSE",
-      "date": "2026-08-21T13:57:49.000Z",
-      "category": "Credit Rating",
-      "title": "Anawil Wire and Engineering Limited has informed the Exchange about Credit Rating",
-      "url": "https://nsearchives.nseindia.com/corporate/ANAWIL_21082026125904_Final_RR__Anawil_Wire_and_Engineering_Ltd.pdf"
     }
   ]
 }
