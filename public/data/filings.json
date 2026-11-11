@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T21:06:15.881Z",
+  "generated_at": "2026-11-11T10:01:48.753Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,36 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f5e1854f89797",
+      "ticker": "MIDWESTLTD",
+      "company": "Midwest Limited",
+      "exchange": "NSE",
+      "date": "2026-11-11T14:37:38.000Z",
+      "category": "Investor Presentation",
+      "title": "Midwest Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/MIDWEST_11112026143731_Investor_Presentations.pdf"
+    },
+    {
+      "id": "fe6eda728c283",
+      "ticker": "HARIOMPIPE",
+      "company": "Hariom Pipe Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-11-11T12:20:48.000Z",
+      "category": "Investor Presentation",
+      "title": "Hariom Pipe Industries Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/hariompipes_11112026121753_Transcript_Conference_Call_05112026.pdf"
+    },
+    {
+      "id": "faed5740ae479",
+      "ticker": "MIDWESTLTD",
+      "company": "Midwest Limited",
+      "exchange": "NSE",
+      "date": "2026-11-11T11:31:23.000Z",
+      "category": "Monitoring Agency Report",
+      "title": "Monitoring Agency Report from CRISIL Ratings Limited for the quarter ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/MIDWEST_11112026113113_Covering_Letter.pdf"
+    },
     {
       "id": "f70a111102fe5",
       "ticker": "MIDWESTLTD",
@@ -226,6 +256,16 @@
       "category": "Investor Presentation",
       "title": "KSH International Limited has informed the Exchange about Schedule of meet",
       "url": "https://nsearchives.nseindia.com/corporate/INTERNATIONAL_09112026164838_KSHIntimationofInvestorMeet09112026signed.pdf"
+    },
+    {
+      "id": "f0371708e45c3",
+      "ticker": "VOEPL",
+      "company": "Virtuoso Optoelectronics Limited",
+      "exchange": "NSE",
+      "date": "2026-11-09T16:40:20.000Z",
+      "category": "Investor Presentation",
+      "title": "Virtuoso Optoelectronics Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/VIRTUOSO_09112026164009_FinalTranscript_cover_letter.pdf"
     },
     {
       "id": "fafdee442bbe9",
@@ -5888,6 +5928,16 @@
       "url": "https://nsearchives.nseindia.com/corporate/VAML_28102026151818_2VAMLSEIntimationOutcomeofBMOctober282026Financial_Results.pdf"
     },
     {
+      "id": "f0ce5438fc98b",
+      "ticker": "CONCORDBIO",
+      "company": "Concord Biotech Limited",
+      "exchange": "NSE",
+      "date": "2026-10-28T15:10:22.000Z",
+      "category": "Investor Presentation",
+      "title": "Concord Biotech Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/CONCORD_28102026150953_Intimation_to_Stock_Exchanges.pdf"
+    },
+    {
       "id": "faeb2f6f18b05",
       "ticker": "CONCORDBIO",
       "company": "Concord Biotech Limited",
@@ -9176,6 +9226,16 @@
       "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
       "title": "Dixon Technologies (India) Limited has informed the Exchange about Certificate under 74(5) SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended on 30th September, 2026.",
       "url": "https://nsearchives.nseindia.com/corporate/DIXON_09102026182235_Reg74_5_Disclosure09102026.pdf"
+    },
+    {
+      "id": "f03271204f950",
+      "ticker": "PDSL",
+      "company": "PDS Limited",
+      "exchange": "NSE",
+      "date": "2026-10-09T17:58:02.000Z",
+      "category": "Diversification/Disinvestment",
+      "title": "PDS Limited has informed the Exchange about Diversification/Disinvestment",
+      "url": "https://nsearchives.nseindia.com/corporate/PDSL_09102026175734_Ltr_NorthernBrands_Divest_09102026.pdf"
     },
     {
       "id": "f9f913495e582",
@@ -13756,6 +13816,16 @@
       "category": "Shareholders meeting",
       "title": "SG Mart Limited has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on September 19, 2026. Further, the company has informed the Exchange regarding voting results.",
       "url": "https://nsearchives.nseindia.com/corporate/SGMART_19092026180229_SGML_Scrutinizer_Report_and_Voting_Results_19_09_2026.pdf"
+    },
+    {
+      "id": "f7c6161a2387f",
+      "ticker": "ADVAIT",
+      "company": "Advait Energy Transitions Limited",
+      "exchange": "NSE",
+      "date": "2026-09-19T17:52:59.000Z",
+      "category": "Disclosure",
+      "title": "Advait Energy Transitions Limited has informed the Exchange about General Updates",
+      "url": "https://nsearchives.nseindia.com/corporate/ADVAITENERGY_19092026175230_SEintimation_AETL_Agsinging_s.pdf"
     },
     {
       "id": "fdc144fe5bcfe",
@@ -19936,76 +20006,6 @@
       "category": "Credit Rating",
       "title": "Anawil Wire and Engineering Limited has informed the Exchange about Credit Rating",
       "url": "https://nsearchives.nseindia.com/corporate/ANAWIL_21082026125904_Final_RR__Anawil_Wire_and_Engineering_Ltd.pdf"
-    },
-    {
-      "id": "f45dca86748ff",
-      "ticker": "MOBIKWIK",
-      "company": "One Mobikwik Systems Limited",
-      "exchange": "NSE",
-      "date": "2026-08-21T13:40:26.000Z",
-      "category": "Shareholders meeting",
-      "title": "One Mobikwik Systems Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 22, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/MOBIKWIK_21082026133950_Notice_and_Annual_Report.pdf"
-    },
-    {
-      "id": "f7c06c81ea211",
-      "ticker": "VENUSREM",
-      "company": "Venus Remedies Limited",
-      "exchange": "NSE",
-      "date": "2026-08-21T13:38:59.000Z",
-      "category": "Shareholders meeting",
-      "title": "Voting Results and Scrutinizer's report. Earlier submitted file was not machine readable.",
-      "url": "https://nsearchives.nseindia.com/corporate/VENUSREM_21082026133728_voting_resultsVRL_2026readable.pdf"
-    },
-    {
-      "id": "f39623a09c754",
-      "ticker": "VENUSREM",
-      "company": "Venus Remedies Limited",
-      "exchange": "NSE",
-      "date": "2026-08-21T13:30:06.000Z",
-      "category": "Shareholders meeting",
-      "title": "Venus Remedies Limited has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on August 20, 2026. Further, the company has informed the Exchange regarding voting results.",
-      "url": "https://nsearchives.nseindia.com/corporate/VENUSREM_21082026132905_voting_resultsVRL_2026.pdf"
-    },
-    {
-      "id": "f4652e1e2951f",
-      "ticker": "VENUSREM",
-      "company": "Venus Remedies Limited",
-      "exchange": "NSE",
-      "date": "2026-08-21T13:01:17.000Z",
-      "category": "Amendment to AOA/MOA",
-      "title": "Venus Remedies Limited has informed the Exchange regarding the Amendment to AOA/MOA of the company.",
-      "url": "https://nsearchives.nseindia.com/corporate/VENUSREM_21082026130038_MOA_Reg30_2026.pdf"
-    },
-    {
-      "id": "fb345fa9aa5c8",
-      "ticker": "STLTECH",
-      "company": "Sterlite Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-08-21T11:58:23.000Z",
-      "category": "Disclosure",
-      "title": "STLTECH: Sterlite Technologies Limited has informed the Exchange about General Updates",
-      "url": "https://nsearchives.nseindia.com/corporate/STLTECH_21082026115805_SE_Intimation_Writ_petition_update-Kakinada_-_GSB_signed.pdf"
-    },
-    {
-      "id": "f338daa99c1c5",
-      "ticker": "KSHINTL",
-      "company": "KSH International Limited",
-      "exchange": "NSE",
-      "date": "2026-08-21T11:44:32.000Z",
-      "category": "Newspaper Publication",
-      "title": "KSHINTL: KSH International Limited submitted to the Exchange, Newspaper Advertisement for Notice of 47th Annual General Meeting of the Company.",
-      "url": "https://nsearchives.nseindia.com/corporate/INTERNATIONAL_21082026114213_KSHINTL_Intimation_of_AGM_Notice_NP_signed.pdf"
-    },
-    {
-      "id": "fdca658508d1e",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "exchange": "NSE",
-      "date": "2026-08-21T11:25:39.000Z",
-      "category": "Disclosure",
-      "title": "DEE Development Engineers Limited has informed the Exchange regarding 'Corporate Action - Book closure from September 17, 2026 to September 23, 2026 (Both days inclusive)'.",
-      "url": "https://nsearchives.nseindia.com/corporate/DDEL_21082026112528_NSEBSE_Book_Closure.pdf"
     }
   ]
 }
