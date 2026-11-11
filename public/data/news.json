@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-10T21:00:42.245Z",
-  "source": "google-news+valuepickr+claude",
+  "generated_at": "2026-11-11T09:57:25.235Z",
+  "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 144,
+    "portfolio": 145,
     "watchlist": 625,
     "universe": 50,
     "total": 675
@@ -716,24 +716,24 @@
       "enriched": true
     },
     {
-      "id": "neb13fcfe3fc1",
+      "id": "n1e195d8d3f39",
       "ticker": "SOLARINDS",
       "company": "Solar Industries India Limited",
       "sector": "Chemicals",
       "scope": [
         "watchlist"
       ],
-      "title": "Earnings call transcript: Solar Industries India posts strong Q2 2027 growth By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYjFNbkRYal9LTTdIMlAyS2lENGJ2M0ZsNkp2ZFVZNEZsaXNXaVpCdEdWVkRBdEZscHRUOW5Ia3BTdEF5ODh5cTJ4Ynl4bTNHajFSd0c2R0RUNXZPVm9rZTVJWk55Q1NwV0xMSzRZTDRoRGhoVnhJcVJINFlPS1o2dGlkZ3pkQUNyTF9WZEJJaGxfbTBNYmJXT2RxeXJ3QThVWUJ4ZDlrQllNQ2ktb1FfVnpzWDY2RUVObVJZWjYyNXdQMmZCcXVqWkVHNEhNcXowcmc?oc=5",
-      "source": "Investing.com India",
-      "date": "2026-11-04T06:23:53.000Z",
+      "title": "Earnings call transcript: Solar Industries India posts strong Q2 2027 growth",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMjR5c24xY0hGTmRZU2hwTjhpQUdUenFkZFFxTGg0WFh1WGRvSDFEbm83VkZ5WE13MUlzSUhHWEdtU1h6TW9nQlROUG1OR0dTZVFQWGpFTmpVV0NlV0REekxxZWNUaTg2dFR1TnpXc2MyYm5lOGJVeWRQbUd3UFgzTGpmSTFNRkhWS2NhOEdZSlpELUN6MEZPNmF2RmlleUM4ejRIYXM3YWp3bW5hLVBUbEhBOFVMMWJuWnBGTnM2LWV0eFQtd0xDWENqaw?oc=5",
+      "source": "Investing.com",
+      "date": "2026-11-04T06:27:02.000Z",
       "topic": "Money",
       "keyword": "Earnings",
       "importance": "medium",
       "mood": "positive",
-      "takeaway": "Solar Industries India posted strong growth in Q2 2027 results.",
-      "enriched": true,
-      "sources_count": 2
+      "takeaway": "Solar Industries India reported strong growth in Q2 2027 earnings.",
+      "sources_count": 3,
+      "enriched": true
     },
     {
       "id": "n53e4b5ec0079",
@@ -811,7 +811,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Medi Assist Healthcare announced a Rs 49.27 crore buyback.",
-      "sources_count": 5,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -1104,7 +1104,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "CCI approves Devyani-Sapphire merger and Adani's Rs 3,050 crore IntelliSmart acquisition.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -1518,7 +1518,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Senores Pharmaceuticals announced ₹43 crore capacity expansion across its subsidiaries.",
-      "sources_count": 3,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -1780,6 +1780,27 @@
       "takeaway": "Acutaas Chemicals Q2 2026 revenue exceeds expectations, driving 13% stock gain.",
       "enriched": true,
       "sources_count": 2
+    },
+    {
+      "id": "ne1b53078f0ca",
+      "ticker": "APTUS",
+      "company": "Aptus Value Housing Finance India Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Aptus Value Housing Finance reschedules Q2FY27 earnings call to Nov 4",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdGlnLURQUEhCaWlQRjB4X3hzOHVQbGhjOG9wcklRTHh0YnlBUTJKRW9LSmZpWVZndTNhaWpsWlN2YlJGcTFCXzNrVlV4cXVGSnUxekJVU0lyMktmQUtLeDJpNkUtZXVyU2Y4ZmYtWjhjLTBWRUFiR184eGdXem5vU2otLXkwSzFKcTBCQkVWQk1VdzNBLUFMaHllTEhmeUgwblhTaGNEV3hNaG45ME8tRWRrcWN1NndjVUFNbFVGaVk?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-10-27T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Aptus Value Housing rescheduled its quarterly earnings call to November 4.",
+      "sources_count": 2,
+      "enriched": true
     },
     {
       "id": "nfd1f6bc2257a",
@@ -2215,7 +2236,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Acutaas Chemicals completed 100% acquisition of Enchem Ami Organics.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -6461,7 +6482,7 @@
       "mood": "neutral",
       "takeaway": "Sonata Software held Q1 2027 earnings call discussing quarterly results.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "nf28ab2c40080",
@@ -9216,26 +9237,6 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Standard Engineering Technology clarifies funding details for GScale acquisition in EGM corrigendum.",
-      "enriched": true
-    },
-    {
-      "id": "n4395d75c2024",
-      "ticker": "MTARTECH",
-      "company": "Mtar Technologies Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "MTAR Technologies Receives Amended Purchase Order",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcGJTa0tZSTB1dlB3Vm5wYWg1dzhSTkZXcUtXMHg0RnFSR1p3QzExTHBXMElSTFZLck04R2pVa2I0eWpheXduTVlFS2UxbGhaUUJERmRrVS1tWXBVQlVQMndUdzY3ZWNzd1FKV0tKR0p5cXZFM0RkTmVRbGtBR1VydkpBMENSZHEzUTR6VGkyRDdOZWFCaHU1Y08xQ2tMcWZUUkhwS0cyeERjeG9IUmVnUVZtZWxKSi1nYVRWRVpB?oc=5",
-      "source": "constructionworld.in",
-      "date": "2026-08-03T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "MTAR Technologies received an amended purchase order.",
-      "sources_count": 2,
       "enriched": true
     },
     {
