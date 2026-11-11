@@ -1,30 +1,49 @@
 {
-  "generated_at": "2026-11-11T09:57:25.235Z",
+  "generated_at": "2026-11-11T21:41:53.439Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 145,
-    "watchlist": 625,
+    "watchlist": 627,
     "universe": 50,
-    "total": 675
+    "total": 677
   },
   "items": [
     {
-      "id": "n76cb904f9486",
+      "id": "ncd2dd2fac7ea",
+      "ticker": "SONATSOFTW",
+      "company": "Sonata Software Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Sonata Software Q2FY27: PAT up 7.7%; AI order book hits 25%",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTzNzZmVUa1lMODFaM2I2NW5TdnRIU0pURWQxSkttUno5VFprZlVPSm43SUVYWjMtdDFsUmoydlNkTlZxQ0dqbEk5OUU5N0ZLcmdTZS0wdkhyN3k4aWdhcklsei02QzJJV2ZfbkM2b0Y0ZUNCeS1MdU1vRDRYNTRUcUI0OVlqYm8zTWFYQ1ppZTN5ZmNVVDlmRTNkd3VOUEpKanZrenkxQ093YkJjRnQtUHgwUEhod1Z5ZkVnYTl6bmN1N1k?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-11-11T13:35:29.000Z",
+      "topic": "Money",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Sonata Software's profit rose 7.7% in Q2; AI-related orders now make up 25% of total order book.",
+      "enriched": true
+    },
+    {
+      "id": "n49e3443546c9",
       "ticker": "THEME",
       "company": "Pharma Approvals",
       "sector": "Healthcare",
       "scope": [
         "universe"
       ],
-      "title": "Alembic Pharmaceuticals Receives USFDA Final Approval for Olopatadine Ophthalmic Solution",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ29VYUdmWUFGZFBacHMtU0NyLXNEMXRSOTg0dnRhZVp6WmRXQXFoSVdwR0c2ckZHclNlSFFQelB1U2JRdkZSYkZVMl9fT3QwRUxjbGs4a1h0SEJKYlRsOGpYTm1nTkhZM1ZFWVJCc2w5eEx0OEZseWQ4RVdpMDlPNVlGSGZJaHczQW9wR1RiWkJjRUVoRF9yZGZWN2wxWENLeTZrQ0RVWHY0SWhDd0d3emtnRjVBSzJtZnVHNGRfVlU?oc=5",
+      "title": "Alembic Pharmaceuticals Receives USFDA Final Approval for Valganciclovir Oral Solution",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd1U4MU5KUnVTRHBiUFNvSlFwQlpHLWk0QjZWZ3dpcmRmaDFpX1JNSS1Ec1VSU0RQSHF6aGFmOU1WdzFHaldHLUo2MmxxdFVZbHVmdGJMRldqOUxLczA4TGhUTVdkNjlITFdzWkhocEExcnU3V2dLT3VmOUhwWktDa1Y4ZTNUalVxQXRnLUhzRjFmSFNoUGZpYURpTEo0WVlZZ0RYZGFiU1lwTFF0aEFBWkxIemk1Qjh3VmNOTA?oc=5",
       "source": "Machine Maker",
-      "date": "2026-11-10T07:11:57.000Z",
+      "date": "2026-11-11T12:27:51.000Z",
       "topic": "Approvals&IP",
       "keyword": "Approval",
       "importance": "medium",
       "mood": "positive",
-      "takeaway": "Alembic Pharma gets US FDA final approval for eye drop solution, expanding its product portfolio in America.",
+      "takeaway": "Alembic Pharmaceuticals got final US FDA approval for Valganciclovir oral solution.",
       "sources_count": 2,
       "enriched": true
     },
@@ -124,7 +143,7 @@
       "mood": "positive",
       "takeaway": "Surya Roshni posted record revenue in Q2 FY27.",
       "enriched": true,
-      "sources_count": 2
+      "sources_count": 4
     },
     {
       "id": "nb0cba5e81054",
@@ -562,22 +581,22 @@
       "enriched": true
     },
     {
-      "id": "n24cbb98f2da1",
+      "id": "n9bc570c68c35",
       "ticker": "SBCL",
       "company": "Shivalik Bimetal Controls Limited",
       "sector": "Capital Goods",
       "scope": [
         "watchlist"
       ],
-      "title": "Earnings call transcript: Shivalik Bimetal posts strong Q2 2026 growth By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQm1nOVZkbGhYTXY3aGc5SGwtMTNrX3dpREZQU25HMjZpZll3aTYzQ1Z5ZkdxN3hnejN6R29vSDBxcFJIRWF5YkNXOVdKZEVRejFldlZ1dDhTQjNqdFNvZHJ5c2tSR055WlMxN0d2dks2Yl9IY1ZVQXowUHpkY0QxUTNWMTV1Y1E4X01mbXVzVHFsU21lRm84MWNCNFFvVjdUck5FU2ZUdHNwU2RteTRwOTEwOTFpWTF5NVNKUjFDQ3lYZUhtVE1YbXdn?oc=5",
-      "source": "Investing.com India",
-      "date": "2026-11-04T11:52:49.000Z",
+      "title": "Earnings call transcript: Shivalik Bimetal posts strong Q2 2026 growth",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMDlMNjFVT3VQUklxLVBpeTNUZUpRdkh5ZUpYMVBOendaNzBQdzNFUUdRSGRtMjQ3cUZ5QlBMUlFENnQzdlFRY0FCQlBwektoZG1UZFgyTDM2VDNrZ01rZUlUdW40T05ZdGtIUXBxcnRHcC1PZm85UlFmUF9WOUQ4Sm1lSXJwRGd2cndMeWdaallRWlB5b2VqemRCeC0xUWVVU3JjcDZZbEFjUFFwVFVWYUxRdVhFeHdsZHMybm1qVThuVjA?oc=5",
+      "source": "Investing.com",
+      "date": "2026-11-04T11:54:00.000Z",
       "topic": "Money",
       "keyword": "Earnings",
       "importance": "medium",
       "mood": "positive",
-      "takeaway": "Shivalik Bimetal reports strong Q2 FY26 growth in earnings call.",
+      "takeaway": "Shivalik Bimetal reported strong growth in Q2 FY2026 earnings.",
       "sources_count": 2,
       "enriched": true
     },
@@ -1084,7 +1103,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Shaily Engineering Plastics exceeded revenue expectations in Q2 2026.",
-      "sources_count": 3,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -9240,6 +9259,25 @@
       "enriched": true
     },
     {
+      "id": "n66559a9ca23d",
+      "ticker": "SONATSOFTW",
+      "company": "Sonata Software Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Sonata Software declares interim dividend and approves Q2 2026 unaudited results | InvestyWise",
+      "url": "https://www.investywise.com/sonata-software-interim-dividend-declared-financial-results/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Approval",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Sonata Software declared interim dividend and approved Q2 FY26 results.",
+      "enriched": true
+    },
+    {
       "id": "n47da37245b6d",
       "ticker": "NORTHARC",
       "company": "Northern Arc Capital Limited",
@@ -10965,25 +11003,6 @@
       "enriched": true
     },
     {
-      "id": "n66559a9ca23d",
-      "ticker": "SONATSOFTW",
-      "company": "Sonata Software Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Sonata Software declares interim dividend and approves Q2 2026 unaudited results | InvestyWise",
-      "url": "https://www.investywise.com/sonata-software-interim-dividend-declared-financial-results/",
-      "source": "investywise.com",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Approval",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Sonata Software declared interim dividend and approved Q2 FY26 results.",
-      "enriched": true
-    },
-    {
       "id": "nf6d5f7df804a",
       "ticker": "VOEPL",
       "company": "Virtuoso Optoelectronics Limited",
@@ -12044,6 +12063,25 @@
       "enriched": true
     },
     {
+      "id": "n4c8175e39460",
+      "ticker": "SONATSOFTW",
+      "company": "Sonata Software Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Sonata Software sees 2026 growth with AI orders at 25%",
+      "url": "https://newsbytesapp.com/news/business/sonata-software-sees-2026-growth-with-ai-orders-at-25/tldr",
+      "source": "newsbytesapp.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Sonata Software expects 2026 growth driven by AI orders comprising 25% of business.",
+      "enriched": true
+    },
+    {
       "id": "nfa2014ab6be7",
       "ticker": "SAPPHIRE",
       "company": "Sapphire Foods India Limited",
@@ -12449,6 +12487,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "L&T Tech Services won a five-year contract from Nokia to support R&D operations in India.",
+      "enriched": true
+    },
+    {
+      "id": "n07df77aa0781",
+      "ticker": "SETL",
+      "company": "Standard Engineering Technology Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Standard Engineering Says Core Order Book Reaches Rs 1,000 Crore | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/standard-engineering-order-book-fy27-concall-cmwaq1hcl003l2qo6712vljof",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Standard Engineering's core order book reaches Rs 1,000 crore.",
       "enriched": true
     },
     {
@@ -13034,24 +13091,24 @@
       "enriched": true
     },
     {
-      "id": "nbc72f0fe116f",
+      "id": "n78c8c1fb940b",
       "ticker": "TENNIND",
       "company": "Tenneco Clean Air India Limited",
       "sector": "Automobile and Auto Components",
       "scope": [
         "watchlist"
       ],
-      "title": "TCAIL order book of Rs 16,500 crore exceeds FY30 target | Market News & Analysis",
-      "url": "https://www.multibagg.ai/market-pulse/articles/tcail-order-book-fy30-target-ppt-cmw3jdivx005qjk2rod1og54g",
-      "source": "multibagg.ai",
+      "title": "Tenneco Clean Air targets double-digit growth, backed by ₹16,500 crore order book - CNBC TV18",
+      "url": "https://www.cnbctv18.com/business/companies/tenneco-clean-air-q2-results-sees-double-digit-growth-visibility-16500-crore-order-book-20031495.htm",
+      "source": "cnbctv18.com",
       "date": "",
       "topic": "Orders",
       "keyword": "Order",
-      "importance": "high",
+      "importance": "medium",
       "mood": "positive",
-      "takeaway": "TCAIL's order book reaches Rs 16,500 crore, surpassing its FY30 target.",
-      "enriched": true,
-      "sources_count": 2
+      "takeaway": "Tenneco Clean Air has Rs 16,500 crore order book and targets double-digit growth.",
+      "sources_count": 3,
+      "enriched": true
     },
     {
       "id": "n78813f96c434",
@@ -13128,25 +13185,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Veritas Finance got SEBI approval for ₹900 crore IPO, enabling it to raise funds from public markets.",
-      "enriched": true
-    },
-    {
-      "id": "n4c8175e39460",
-      "ticker": "SONATSOFTW",
-      "company": "Sonata Software Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Sonata Software sees 2026 growth with AI orders at 25%",
-      "url": "https://newsbytesapp.com/news/business/sonata-software-sees-2026-growth-with-ai-orders-at-25/tldr",
-      "source": "newsbytesapp.com",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Sonata Software expects 2026 growth driven by AI orders comprising 25% of business.",
       "enriched": true
     }
   ]
