@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T21:39:08.774Z",
+  "generated_at": "2026-11-12T10:29:31.511Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,126 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f77991783ac3c",
+      "ticker": "IKS",
+      "company": "Inventurus Knowledge Solutions Limited",
+      "exchange": "NSE",
+      "date": "2026-11-12T14:44:05.000Z",
+      "category": "Investor Presentation",
+      "title": "Inventurus Knowledge Solutions Limited has informed the Exchange about Transcript of the Q2 FY 2026-27 Earnings Conference Call.",
+      "url": "https://nsearchives.nseindia.com/corporate/IKS2006_12112026144354_12112026_TranscriptEarningsCallSEUpload.pdf"
+    },
+    {
+      "id": "f9ad6b23c5205",
+      "ticker": "MANINDS",
+      "company": "Man Industries (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-11-12T14:23:36.000Z",
+      "category": "Press Release",
+      "title": "Man Industries (India) Limited has informed the Exchange regarding a press release dated November 12, 2026, titled \"Press Release / Media Release for the Unaudited Financial Results (Standalone and Consolidated) for the quarter and half year ended September 30, 2026.\".",
+      "url": "https://nsearchives.nseindia.com/corporate/MANINDS_12112026142327_MIIL_Press_Release_12112026.pdf"
+    },
+    {
+      "id": "faff3c0dc0c72",
+      "ticker": "TONBO",
+      "company": "Tonbo Imaging India Limited",
+      "exchange": "NSE",
+      "date": "2026-11-12T14:05:52.000Z",
+      "category": "Investor Presentation",
+      "title": "Transcript of the Earnings Conference Call held on November 6, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/TONBO_12112026140541_Earnings_Call_Transcript_Exe.pdf"
+    },
+    {
+      "id": "f6fb132c7136b",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "exchange": "NSE",
+      "date": "2026-11-12T14:05:39.000Z",
+      "category": "Disclosure",
+      "title": "E2E Networks Limited has informed the Exchange about securing approximately 12.8 MW of additional data centre capacity over and above the Company's existing data centre capacity of approximately 14.6 MW",
+      "url": "https://nsearchives.nseindia.com/corporate/E2E_12112026140237_General_Update_Data_Center.pdf"
+    },
+    {
+      "id": "f264d385d322d",
+      "ticker": "MANINDS",
+      "company": "Man Industries (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-11-12T13:59:37.000Z",
+      "category": "Board Meeting",
+      "title": "Man Industries (India) Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/MANINDS_12112026135740_MIIL_Outcome_of_the_Board_Meeting_12112026.pdf"
+    },
+    {
+      "id": "ff82441699bfd",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "exchange": "NSE",
+      "date": "2026-11-12T13:17:51.000Z",
+      "category": "Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+      "title": "Sapphire Foods India Limited has informed the Exchange about Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company",
+      "url": "https://nsearchives.nseindia.com/corporate/SAPPHIRE_12112026131744_NSE.pdf"
+    },
+    {
+      "id": "fe7ebbabd37f5",
+      "ticker": "EMAPARTNER",
+      "company": "EMA Partners India Limited",
+      "exchange": "NSE",
+      "date": "2026-11-12T12:52:12.000Z",
+      "category": "Investor Presentation",
+      "title": "EMA Partners India Limited has informed the Exchange about Transcript of earnings call held on November 05, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/EMAIN_12112026125049_Transcript_of_earnings_call.pdf"
+    },
+    {
+      "id": "f946c32e902fc",
+      "ticker": "OMNI",
+      "company": "Omnitech Engineering Limited",
+      "exchange": "NSE",
+      "date": "2026-11-12T12:16:31.000Z",
+      "category": "Investor Presentation",
+      "title": "Submission of Transcript of the Earnings conference call held with Analysts/Investors in respect of the Unaudited Financial Results (Standalone and Consolidated) of the Company for the quarter and half year ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/OMNITECHENG_12112026121600_Transcript_of_Earning_Call_for_investors_held_5-11-2026.pdf"
+    },
+    {
+      "id": "f52e135fd4cfe",
+      "ticker": "SBCL",
+      "company": "Shivalik Bimetal Controls Limited",
+      "exchange": "NSE",
+      "date": "2026-11-12T11:20:33.000Z",
+      "category": "Investor Presentation",
+      "title": "Shivalik Bimetal Controls Limited has informed the Exchange about Transcript of earnings call -Q2 FY 2026-27",
+      "url": "https://nsearchives.nseindia.com/corporate/SBCL_12112026111945_Covering__Earning_Call_Transcript.pdf"
+    },
+    {
+      "id": "f482ed489e2a6",
+      "ticker": "SAILIFE",
+      "company": "Sai Life Sciences Limited",
+      "exchange": "NSE",
+      "date": "2026-11-12T11:13:33.000Z",
+      "category": "Investor Presentation",
+      "title": "Sai Life Sciences Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/SAILIFE_12112026111218_Stx_Intimation_ECT_06112026_Signed.pdf"
+    },
+    {
+      "id": "f43e1f0341d3f",
+      "ticker": "SAILIFE",
+      "company": "Sai Life Sciences Limited",
+      "exchange": "NSE",
+      "date": "2026-11-12T11:08:29.000Z",
+      "category": "Monitoring Agency Report",
+      "title": "Sai Life Sciences Limited has informed the Exchange about General Updates",
+      "url": "https://nsearchives.nseindia.com/corporate/SAILIFE_12112026110819_Stx_Monitoring_Agency_061120_Signed.pdf"
+    },
+    {
+      "id": "f245a82d170f6",
+      "ticker": "AVANTEL",
+      "company": "Avantel Limited",
+      "exchange": "NSE",
+      "date": "2026-11-12T10:51:03.000Z",
+      "category": "Spurt in Volume",
+      "title": "Significant increase in volume has been observed in Avantel Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the market place so that the interest of the investors is safeguarded, had written to the company. Avantel Limited has submitted their response.",
+      "url": "https://nsearchives.nseindia.com/corporate/AVANTEL_12112026105049_Clarification_Reply_Letter.pdf"
+    },
     {
       "id": "fc392232da2e0",
       "ticker": "APSISAERO",
@@ -3146,6 +3266,16 @@
       "category": "Press Release",
       "title": "Laxmi Dental Limited has informed the stock exchange regarding a press release dated 03rd November, 2026 titled Intimation of Press Release",
       "url": "https://nsearchives.nseindia.com/corporate/LAXMI_03112026203024_Presss_Release_Q2.pdf"
+    },
+    {
+      "id": "fac12df7730f5",
+      "ticker": "HILINFRA",
+      "company": "Highway Infrastructure Limited",
+      "exchange": "NSE",
+      "date": "2026-11-03T20:30:47.000Z",
+      "category": "Receipt of Order",
+      "title": "Highway Infrastructure Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
+      "url": "https://nsearchives.nseindia.com/corporate/HIGHWAY123_03112026202950_HIL_Reg30_Cover_CPWD.pdf"
     },
     {
       "id": "f2614fa4ad132",
@@ -19876,136 +20006,6 @@
       "category": "Granting/withdrawal/surrender/cancellation/suspension of key licenses/ regulatory approvals",
       "title": "Shivalik Bimetal Controls Limited has informed the Exchange about Update on Pune Facility (Phase-II)",
       "url": "https://nsearchives.nseindia.com/corporate/SBCL_24082026174239_Reg_30_-_Update_on_Pune_plant__1_.pdf"
-    },
-    {
-      "id": "f15df9f9cdfd9",
-      "ticker": "LGEINDIA",
-      "company": "LG Electronics India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-24T17:00:10.000Z",
-      "category": "Shareholders meeting",
-      "title": "LG Electronics India Limited has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on August 21, 2026. Further, the company has informed the Exchange regarding voting results.",
-      "url": "https://nsearchives.nseindia.com/corporate/LGEINDIA_24082026165906_Votingresults.pdf"
-    },
-    {
-      "id": "f0baa1db78406",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "exchange": "NSE",
-      "date": "2026-08-24T16:32:11.000Z",
-      "category": "Disclosure",
-      "title": "Meesho Limited has informed the Exchange regarding 'Business Responsibility and Sustainability Report for the financial year 2025-26'.",
-      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_24082026163159_ML_BRSR_Intimation.pdf"
-    },
-    {
-      "id": "f660560acd597",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "exchange": "NSE",
-      "date": "2026-08-24T16:31:07.000Z",
-      "category": "Disclosure",
-      "title": "Meesho Limited has informed the Exchange regarding 'Notice of Annual General Meeting and Annual Report for the Financial Year 2025-26. '.",
-      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_24082026163055_ML_AGM_notice_intimation.pdf"
-    },
-    {
-      "id": "f121d4fa58217",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "exchange": "NSE",
-      "date": "2026-08-24T16:29:25.000Z",
-      "category": "Shareholders meeting",
-      "title": "Meesho Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on Friday, September 18, 2026 through Video Conferencing (VC)/ Other Audio-Visual Means (OAVM).",
-      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_24082026162722_ML_AGM_notice_intimation.pdf"
-    },
-    {
-      "id": "fc16949b88893",
-      "ticker": "HILINFRA",
-      "company": "Highway Infrastructure Limited",
-      "exchange": "NSE",
-      "date": "2026-08-24T15:05:23.000Z",
-      "category": "Shareholders meeting",
-      "title": "Highway Infrastructure Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 24, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/HIGHWAY123_24082026150456_HIL_Annual_Report_24082026.pdf"
-    },
-    {
-      "id": "f33cec7778e4c",
-      "ticker": "SAREGAMA",
-      "company": "Saregama India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-24T13:29:17.000Z",
-      "category": "Disclosure",
-      "title": "Saregama India Limited has informed the Exchange regarding Business Responsibility and Sustainability Report of the Company for the financial year 2025-26, which also forms part of the Integrated Annual Report for the financial year 2025-26.",
-      "url": "https://nsearchives.nseindia.com/corporate/SAREGAMA_24082026132905_Intimation_BRSR_SIGNED.pdf"
-    },
-    {
-      "id": "fd7e330daef91",
-      "ticker": "SAREGAMA",
-      "company": "Saregama India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-24T13:27:05.000Z",
-      "category": "Disclosure",
-      "title": "Pursuant to the provisions of Regulation 36(1)(b) of the SEBI (Listing Obligations & Disclosure Requirements) Regulations, 2015, we hereby inform you that the Company has sent a letter providing weblink for accessing the Notice of the 79th Annual General Meeting and the Integrated Annual Report for FY 2025-26 to those Members who have not registered their e-mail address with the Company/Registrar and Share Transfer Agent/Depositories.",
-      "url": "https://nsearchives.nseindia.com/corporate/SAREGAMA_24082026132640_Inland_letter_intimation_SIGNED.pdf"
-    },
-    {
-      "id": "f5c9cdec88ac6",
-      "ticker": "SAREGAMA",
-      "company": "Saregama India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-24T13:19:57.000Z",
-      "category": "Shareholders meeting",
-      "title": "Saregama India Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 15, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/SAREGAMA_24082026131947_Intimation_Annual_Report_SIGNED.pdf"
-    },
-    {
-      "id": "fee19c741f22c",
-      "ticker": "SAILIFE",
-      "company": "Sai Life Sciences Limited",
-      "exchange": "NSE",
-      "date": "2026-08-24T13:16:34.000Z",
-      "category": "Disclosure",
-      "title": "Sai Life Sciences Limited has informed the Exchange regarding 'Information relating to 27th Annual General Meeting (AGM) and Cut-off date for e-voting.'.",
-      "url": "https://nsearchives.nseindia.com/corporate/SAILIFE_24082026131610_Stx_Initial_AGM_Intimation_Signed.pdf"
-    },
-    {
-      "id": "f5df3667080b8",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "exchange": "NSE",
-      "date": "2026-08-23T20:21:17.000Z",
-      "category": "ESOP/ESOS/ESPS",
-      "title": "Meesho Limited has informed the Exchange regarding Allotment of 1298744 Shares.",
-      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_23082026202059_ML_Intimation_Allotment_of_ESOPs_23082026.pdf"
-    },
-    {
-      "id": "ff2a35221048f",
-      "ticker": "URBANCO",
-      "company": "Urban Company Limited",
-      "exchange": "NSE",
-      "date": "2026-08-23T14:08:10.000Z",
-      "category": "Disclosure",
-      "title": "Urban Company Limited has informed the Exchange about Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/URBANCO_23082026140755_UC_HC_Order_23082026.pdf"
-    },
-    {
-      "id": "fe896e987c9c3",
-      "ticker": "SHRIAHIMSA",
-      "company": "Shri Ahimsa Naturals Limited",
-      "exchange": "NSE",
-      "date": "2026-08-23T11:14:23.000Z",
-      "category": "Newspaper Publication",
-      "title": "Shri Ahimsa Naturals Limited has informed the Exchange about Copy of Newspaper Publication",
-      "url": "https://nsearchives.nseindia.com/corporate/AHIMSANATURALS_23082026111413_Cover_Letter.pdf"
-    },
-    {
-      "id": "faa32c48d1456",
-      "ticker": "MOBIKWIK",
-      "company": "One Mobikwik Systems Limited",
-      "exchange": "NSE",
-      "date": "2026-08-22T18:12:20.000Z",
-      "category": "Disclosure",
-      "title": "One Mobikwik Systems Limited has informed the Exchange about Dispatch of letter to shareholders whose e-mail addresses are not registered with Company/ Registrar & Share Transfer Agent/ Depository Participant(s)",
-      "url": "https://nsearchives.nseindia.com/corporate/MOBIKWIK_22082026181124_Intimation.pdf"
     }
   ]
 }
