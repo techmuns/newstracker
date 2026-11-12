@@ -1,13 +1,33 @@
 {
-  "generated_at": "2026-11-12T10:28:02.543Z",
+  "generated_at": "2026-11-12T21:45:18.371Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 149,
-    "watchlist": 636,
+    "portfolio": 153,
+    "watchlist": 645,
     "universe": 51,
-    "total": 687
+    "total": 696
   },
   "items": [
+    {
+      "id": "n8ff2343334d8",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Sapphire Foods India Faces Rs 4.39 Crore GST Demand After Karnataka Tax Authorities Issue Rectification Order",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYy1QLWUydHpieEpJcEJYY1JDSC1peXBMM21jREVqX0c0N21rb2w1WFNZN0pyRXYxWnljUmlsVVQ5QkJyNkpUUlg3eUFwY01NakVIUkpacF9qZGRuU0tBZGFTOG4xX0ZfWXNkWUNXWXdiTGNKbU9mM01XU3JYcWw3VTNWejB5U3c3WkhqY0NTSmlNc09NZ0J2MjBHcWpvQnRxNlQ1V002RldmRUlGTUFCS2NFSjBuUkY5b1RJNnRTOFl2MTV6Q1ZtaUFYYjBwZDlaMzNLWlEyVF9sdw?oc=5",
+      "source": "StudyCafe",
+      "date": "2026-11-12T12:38:32.000Z",
+      "topic": "Trouble",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "negative",
+      "takeaway": "Sapphire Foods receives Rs 4.39 crore GST demand from Karnataka tax authorities.",
+      "enriched": true,
+      "sources_count": 2
+    },
     {
       "id": "nbd9bbe02a108",
       "ticker": "TONBO",
@@ -27,25 +47,6 @@
       "mood": "neutral",
       "takeaway": "Tonbo Imaging released Q2 and H1 FY27 earnings call transcript.",
       "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n53ef54a74faa",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Sapphire Foods confirms ₹4.4 crore tax demand via rectified order",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVUllbTFCNmxSeGo2Rl9fdFd4dnB2Mjd1V2JEM3JjQ2RYcU1ubmo2emd0TGJtMXJxRS1CemVwTnRhaFhrNXlDNFRlVHlBOFBVdmdiWEtseTYzSkV1cEkzS1A3cjVPRXMyMThYaGQzOW9jb0t0UzhUZ25zdFJEb0FaLTQ5NGJQNlhHOUtqT2lEc0pOWTNWYVdHckQ4T0xiX185bUhyQmdkRkpVVFEzNkY5ejRmNHJiMUx4ZzZDQW1R?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-11-12T07:56:29.000Z",
-      "topic": "Trouble",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "negative",
-      "takeaway": "Sapphire Foods faces ₹4.4 crore tax demand from rectified order.",
       "enriched": true
     },
     {
@@ -87,6 +88,25 @@
       "enriched": true
     },
     {
+      "id": "n7840fae55540",
+      "ticker": "DENTALKART",
+      "company": "Vasa Denticity Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Dentalkart says larger baskets lifted Q2 order value 20.5%",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVXJhUDFGbEI3bnNIcHUtQnpEMFp4WHhucEdKZ00wdDZvckU4ejVTQ1BxSUZZT0xLZzFoVk9TZmh4eE5YV19QM205eUlyYzRXeUI3NUwyTDJlaXBrbmZ4UUl5S0ZORGVJX0Vnd0otd3RDSmM5dFlKWDQ2aVRjRGlnQnQ0dFJBdlUybXVnbF9vc2s3dDNHT0dLZkxZZW81YnBtbk9fTXkxdnF0VktfOWt1ZnBJOEVvbFdfVEw0?oc=5",
+      "source": "Multibagg AI",
+      "date": "2026-11-11T12:29:35.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Dentalkart reports 20.5% increase in Q2 order value driven by larger customer baskets.",
+      "enriched": true
+    },
+    {
       "id": "n49e3443546c9",
       "ticker": "THEME",
       "company": "Pharma Approvals",
@@ -123,6 +143,26 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Standard Engineering Technology released Q2 FY27 earnings call takeaways.",
+      "enriched": true
+    },
+    {
+      "id": "n137db2e89907",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Kirana Club Now Part Of Meesho: Inside The ₹186.71 Crore Acquisition",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaFBaTW9jUW14X3BoMlQ4aVhOcXNudUFCem5lU2oweFgzZHl1QmpnTktsb0E0WFJfdFVaM0hscU5ZdC1TNm9WYkpBUzZ1ZV9UMHBxMGlkS0tUSzNhWnFsamdvQTFNZUFaV2EyN1RQR29NSTlBSGxQUTh3Tzg3cXFxYWdEVW9RMDhNT053TUFia3VtRThCVmVic055dHN6ZWtvclc0c3VYeFo?oc=5",
+      "source": "Sahyadri Startups",
+      "date": "2026-11-09T12:32:57.000Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Meesho acquires Kirana Club for Rs 186.71 crore to expand its business reach.",
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -299,7 +339,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "MTAR Technologies discussed Q2 FY27 results in earnings call.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -519,7 +559,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "GMM Pfaudler released Q2 FY27 earnings call audio.",
-      "sources_count": 4,
+      "sources_count": 5,
       "enriched": true
     },
     {
@@ -1317,7 +1357,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "MTAR Technologies secures Rs 504 crore order for Kaiga nuclear project.",
-      "sources_count": 3,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -2293,7 +2333,7 @@
       "importance": "medium",
       "mood": "negative",
       "takeaway": "Fire at Zen Technologies' subsidiary Unistring Tech Solutions' Hyderabad unit; minimal impact expected.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -9459,63 +9499,6 @@
       "enriched": true
     },
     {
-      "id": "n47da37245b6d",
-      "ticker": "NORTHARC",
-      "company": "Northern Arc Capital Limited",
-      "sector": "Financial Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Northern Arc Capital AGM on Aug 18, 2026: ₹5,000 Crore NCD Issue and Key Resolutions on Agenda",
-      "url": "https://scanx.trade/stock-market-news/companies/northern-arc-capital-seeks-approval-for-5-000-crore-ncd-issuance-at-agm/46532451",
-      "source": "scanx.trade",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Approval",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Northern Arc to raise ₹5,000 crore via NCD issue, approved at AGM scheduled for Aug 18, 2026.",
-      "enriched": true
-    },
-    {
-      "id": "n896b3f8ba40b",
-      "ticker": "NORTHARC",
-      "company": "Northern Arc Capital Limited",
-      "sector": "Financial Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Northern Arc Capital Board Meets To Review Q2 FY27 Results",
-      "url": "https://www.sahi.com/news/northern-arc-capital-board-meets-to-review-q2-fy27-results",
-      "source": "sahi.com",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Northern Arc Capital board meeting scheduled to review second quarter financial results.",
-      "enriched": true
-    },
-    {
-      "id": "nf7de43564d5f",
-      "ticker": "LAXMIDENTL",
-      "company": "Laxmi Dental Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Laxmi Dental Q2 Profit Rises to Rs 10.04 Crore on Steady Growth | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/English/healthcarebiotech/Laxmi-Dental-Q2-Profit-Rises-to-Rs-1004-Crore-on-Steady-Growth/6ae9e8bdc6c6dccbb9113084",
-      "source": "whalesbook.com",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Merger",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Laxmi Dental's quarterly profit rose to Rs 10.04 crore, showing steady growth.",
-      "enriched": true
-    },
-    {
       "id": "n8f0ee78c5421",
       "ticker": "MEESHO",
       "company": "Meesho Limited",
@@ -9570,6 +9553,82 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Meesho to acquire Kirana Club for Rs 202 crore, expanding its business reach.",
+      "enriched": true
+    },
+    {
+      "id": "n15140cfc5d39",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho block deal: SoftBank-backed entity likely to sell 1% stake worth Rs 1,174 crore - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/meesho-block-deal-softbank-backed-entity-likely-to-sell-1-stake-worth-rs-1174-crore/articleshow/135774127.cms",
+      "source": "economictimes.indiatimes.com",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "SoftBank-backed entity likely to sell 1% stake in Meesho worth Rs 1,174 crore in block deal.",
+      "enriched": true
+    },
+    {
+      "id": "n47da37245b6d",
+      "ticker": "NORTHARC",
+      "company": "Northern Arc Capital Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Northern Arc Capital AGM on Aug 18, 2026: ₹5,000 Crore NCD Issue and Key Resolutions on Agenda",
+      "url": "https://scanx.trade/stock-market-news/companies/northern-arc-capital-seeks-approval-for-5-000-crore-ncd-issuance-at-agm/46532451",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Approval",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Northern Arc to raise ₹5,000 crore via NCD issue, approved at AGM scheduled for Aug 18, 2026.",
+      "enriched": true
+    },
+    {
+      "id": "n896b3f8ba40b",
+      "ticker": "NORTHARC",
+      "company": "Northern Arc Capital Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Northern Arc Capital Board Meets To Review Q2 FY27 Results",
+      "url": "https://www.sahi.com/news/northern-arc-capital-board-meets-to-review-q2-fy27-results",
+      "source": "sahi.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Northern Arc Capital board meeting scheduled to review second quarter financial results.",
+      "enriched": true
+    },
+    {
+      "id": "nf7de43564d5f",
+      "ticker": "LAXMIDENTL",
+      "company": "Laxmi Dental Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Laxmi Dental Q2 Profit Rises to Rs 10.04 Crore on Steady Growth | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/healthcarebiotech/Laxmi-Dental-Q2-Profit-Rises-to-Rs-1004-Crore-on-Steady-Growth/6ae9e8bdc6c6dccbb9113084",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Merger",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Laxmi Dental's quarterly profit rose to Rs 10.04 crore, showing steady growth.",
       "enriched": true
     },
     {
@@ -10150,6 +10209,26 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Solar Industries approved Q2 FY27 results and appointed new auditors.",
+      "enriched": true
+    },
+    {
+      "id": "n600b749bade2",
+      "ticker": "XPROINDIA",
+      "company": "Xpro India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Q2 2027 Xpro India Ltd Earnings Call Transcript",
+      "url": "https://gurufocus.com/news/9193734/q2-2027-xpro-india-ltd-earnings-call-transcript",
+      "source": "gurufocus.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Xpro India held its Q2 2027 earnings call to discuss quarterly financial results.",
       "enriched": true
     },
     {
@@ -11201,6 +11280,66 @@
       "enriched": true
     },
     {
+      "id": "n3484189e4c34",
+      "ticker": "CARTRADE",
+      "company": "Cartrade Tech Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "KAMA Realty acquires 0.05% stake in SRF Limited | InvestyWise",
+      "url": "https://www.investywise.com/kama-realty-delhi-limited-disclosure-of-share-acquisition/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "KAMA Realty acquired a tiny 0.05% stake in SRF Limited.",
+      "enriched": true
+    },
+    {
+      "id": "n0196c29b3cfa",
+      "ticker": "CARTRADE",
+      "company": "Cartrade Tech Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Suchir Chemicals acquires 22,774 shares in Vinati Organics, stake now 74.346%",
+      "url": "https://www.investywise.com/suchir-chemicals-private-limited-disclosure-of-share-acquisition-2/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Suchir Chemicals bought 22,774 Vinati Organics shares, raising its stake to 74.346%.",
+      "enriched": true
+    },
+    {
+      "id": "n0ead8029091d",
+      "ticker": "CARTRADE",
+      "company": "Cartrade Tech Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Motilal Oswal Mutual Fund disposes of V2 Retail Ltd shares | InvestyWise",
+      "url": "https://www.investywise.com/motilal-oswal-asset-management-company-ltd-share-disposal-disclosure/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Motilal Oswal Mutual Fund sold its shares in V2 Retail.",
+      "enriched": true
+    },
+    {
       "id": "nbe72ed039feb",
       "ticker": "VAML",
       "company": "Vedanta Aluminium Metal Limited",
@@ -12087,6 +12226,44 @@
       "enriched": true
     },
     {
+      "id": "n7514d853caab",
+      "ticker": "MANINDS",
+      "company": "Man Industries (India) Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "MAN Industries Q2 EBITDA reaches Rs 190 crore after NPC | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/man-industries-q2-ebitda-record-announcement-cmwdl6bf800i72dqp7ghlg949",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Man Industries Q2 EBITDA reached Rs 190 crore, showing strong operational performance.",
+      "enriched": true
+    },
+    {
+      "id": "ndf48e42d181e",
+      "ticker": "MANINDS",
+      "company": "Man Industries (India) Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Man Industries' consol profit more than doubles to Rs 82 crore in Jul-Sep - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/man-industries-consol-profit-more-than-doubles-to-rs-82-crore-in-jul-sep/articleshow/135776042.cms",
+      "source": "economictimes.indiatimes.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Man Industries' consolidated profit more than doubled to Rs 82 crore in Jul-Sep quarter.",
+      "enriched": true
+    },
+    {
       "id": "ncc4b557b4f51",
       "ticker": "HARIOMPIPE",
       "company": "Hariom Pipe Industries Limited",
@@ -12300,26 +12477,6 @@
       "enriched": true
     },
     {
-      "id": "ncb5c2ef1a561",
-      "ticker": "TONBO",
-      "company": "Tonbo Imaging India Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Alkem Laboratories appoints Gopal Kothari as Chief Financial Officer | InvestyWise",
-      "url": "https://www.investywise.com/alkem-laboratories-ltd-appointment-of-chief-financial-officer/",
-      "source": "investywise.com",
-      "date": "",
-      "topic": "Trouble",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Alkem Laboratories appoints Gopal Kothari as Chief Financial Officer.",
-      "enriched": true
-    },
-    {
       "id": "nfa2014ab6be7",
       "ticker": "SAPPHIRE",
       "company": "Sapphire Foods India Limited",
@@ -12338,6 +12495,26 @@
       "takeaway": "Sapphire-Devyani merger gets competition regulator approval, consolidating KFC and Pizza Hut franchise operations.",
       "enriched": true,
       "sources_count": 4
+    },
+    {
+      "id": "ncb5c2ef1a561",
+      "ticker": "TONBO",
+      "company": "Tonbo Imaging India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Alkem Laboratories appoints Gopal Kothari as Chief Financial Officer | InvestyWise",
+      "url": "https://www.investywise.com/alkem-laboratories-ltd-appointment-of-chief-financial-officer/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Trouble",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Alkem Laboratories appoints Gopal Kothari as Chief Financial Officer.",
+      "enriched": true
     },
     {
       "id": "n4c8175e39460",
