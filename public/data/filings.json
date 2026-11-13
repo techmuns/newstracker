@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T21:40:46.686Z",
+  "generated_at": "2026-11-13T10:14:32.245Z",
   "source": "nse",
   "counts": {
     "NSE": 2000,
@@ -7,6 +7,96 @@
     "total": 2000
   },
   "items": [
+    {
+      "id": "f2b7d84cb5a1b",
+      "ticker": "CMLL",
+      "company": "Caliber Mining and Logistics Limited",
+      "exchange": "NSE",
+      "date": "2026-11-13T15:29:59.000Z",
+      "category": "Board Meeting",
+      "title": "Caliber Mining and Logistics Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026 and other matters",
+      "url": "https://nsearchives.nseindia.com/corporate/CMLL_13112026152858_Outcome_Board_Meeting_13112026_final.pdf"
+    },
+    {
+      "id": "f818228996aca",
+      "ticker": "MVELECTRO",
+      "company": "MV Electrosystems Limited",
+      "exchange": "NSE",
+      "date": "2026-11-13T15:22:26.000Z",
+      "category": "Monitoring Agency Report",
+      "title": "Monitoring Agency Report",
+      "url": "https://nsearchives.nseindia.com/corporate/MVELECTROSYSTEMS_13112026152211_Covering_with_report.pdf"
+    },
+    {
+      "id": "f081620a6e9aa",
+      "ticker": "MVELECTRO",
+      "company": "MV Electrosystems Limited",
+      "exchange": "NSE",
+      "date": "2026-11-13T15:21:04.000Z",
+      "category": "Statement of deviation(s) or variation(s) under Reg. 32",
+      "title": "MV Electrosystems Limited has informed the Exchange about statement of deviation(s) or variation(s) under Reg. 32",
+      "url": "https://nsearchives.nseindia.com/corporate/MVELECTROSYSTEMS_13112026152050_Covering_with_statement.pdf"
+    },
+    {
+      "id": "fa8485ae97005",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "exchange": "NSE",
+      "date": "2026-11-13T14:55:24.000Z",
+      "category": "Disclosure",
+      "title": "DEE Development Engineers Limited has informed the Exchange regarding Monthly Business Updates for the month of October 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/DDEL_13112026145244_NSEBSESIGNED_order_Book.pdf"
+    },
+    {
+      "id": "fedc4087fe2db",
+      "ticker": "ORIENTCABL",
+      "company": "Orient Cables (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-11-13T14:51:18.000Z",
+      "category": "Newspaper Publication",
+      "title": "Orient Cables (India) Limited has informed the Exchange about Copy of Newspaper Publication of un-audited Financial Results for Quarter II and Half Year ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/ORIENTCABLES_13112026144449_Stx_Ltr_Newspaper_publication_Signed.pdf"
+    },
+    {
+      "id": "f1d0d3f6a198f",
+      "ticker": "APTUS",
+      "company": "Aptus Value Housing Finance India Limited",
+      "exchange": "NSE",
+      "date": "2026-11-13T11:55:10.000Z",
+      "category": "Disclosure",
+      "title": "Aptus Value Housing Finance India Limited has informed the Exchange about General Updates",
+      "url": "https://nsearchives.nseindia.com/corporate/APTUS_13112026115502_Aptus_Value_Dividend_Payout_Intimation_sd_final.pdf"
+    },
+    {
+      "id": "fab13af65db76",
+      "ticker": "MVELECTRO",
+      "company": "MV Electrosystems Limited",
+      "exchange": "NSE",
+      "date": "2026-11-13T10:18:03.000Z",
+      "category": "Disclosure",
+      "title": "MV Electrosystems Limited has informed the Exchange about Clarification",
+      "url": "https://nsearchives.nseindia.com/corporate/MVELECTROSYSTEMS_13112026101714_Clarification_letter.pdf"
+    },
+    {
+      "id": "fe8eca37780bf",
+      "ticker": "ORIENTCABL",
+      "company": "Orient Cables (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-11-13T09:28:31.000Z",
+      "category": "Press Release",
+      "title": "Orient Cables (India) Limited has informed the Exchange regarding a press release dated November 13, 2026, titled \"Orient Cables Reports Highest-Ever Quarterly & Half-Yeary Results in Q2 & H1 FY27;Revenue Doubles to &#8377;1,018.0 Crore and EBITDA Grows 155% YoY\".",
+      "url": "https://nsearchives.nseindia.com/corporate/ORIENTCABLES_13112026092819_Stx_Ltr_Press_release_Signed.pdf"
+    },
+    {
+      "id": "fe5504d22c4e3",
+      "ticker": "ORIENTCABL",
+      "company": "Orient Cables (India) Limited",
+      "exchange": "NSE",
+      "date": "2026-11-13T09:25:59.000Z",
+      "category": "Investor Presentation",
+      "title": "Orient Cables (India) Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/ORIENTCABLES_13112026092548_Stx_Ltr_Investor_Presentation_Signed.pdf"
+    },
     {
       "id": "f565ab5546c05",
       "ticker": "SUNSHINE",
@@ -4918,6 +5008,16 @@
       "url": "https://nsearchives.nseindia.com/corporate/MENONBE_31102026151924_FILING_SHP3110.pdf"
     },
     {
+      "id": "f0eb471613fab",
+      "ticker": "HILINFRA",
+      "company": "Highway Infrastructure Limited",
+      "exchange": "NSE",
+      "date": "2026-10-31T15:17:11.000Z",
+      "category": "Newspaper Publication",
+      "title": "Highway Infrastructure Limited has informed the Exchange about Copy of Newspaper Publication",
+      "url": "https://nsearchives.nseindia.com/corporate/HIGHWAY123_31102026151650_HIL_Reg30_NP_31102026.pdf"
+    },
+    {
       "id": "f127f02835b81",
       "ticker": "ANAWIL",
       "company": "Anawil Wire and Engineering Limited",
@@ -5736,6 +5836,16 @@
       "category": "Investor Presentation",
       "title": "Adroit Industries (India) Limited has informed the Exchange about Link of Audio Recording",
       "url": "https://nsearchives.nseindia.com/corporate/ADROIT_29102026173622_Intimation.pdf"
+    },
+    {
+      "id": "fcc3aa2572af1",
+      "ticker": "NORTHARC",
+      "company": "Northern Arc Capital Limited",
+      "exchange": "NSE",
+      "date": "2026-10-29T17:24:02.000Z",
+      "category": "Investor Presentation",
+      "title": "Northern Arc Capital Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/NACL2020_29102026172303_NACL_Investor_conference_call_intimation_Q2_FY27_Sd.pdf"
     },
     {
       "id": "fae5b4693a8b0",
@@ -7418,6 +7528,16 @@
       "url": "https://nsearchives.nseindia.com/corporate/MONOLITHISCH_24102026185610_PRESS_RELEASE_HALF_YEARLY24102026.pdf"
     },
     {
+      "id": "fbc8e585e6cbb",
+      "ticker": "MONOLITH",
+      "company": "Monolithisch India Limited",
+      "exchange": "NSE",
+      "date": "2026-10-24T18:52:14.000Z",
+      "category": "Disclosure",
+      "title": "Monolithisch India Limited has informed the Exchange about General Updates",
+      "url": "https://nsearchives.nseindia.com/corporate/MONOLITHISCH_24102026185205_Final_Outcome_of_Board_Meeting_30092026MIL.pdf"
+    },
+    {
       "id": "fce4779c66e80",
       "ticker": "MONOLITH",
       "company": "Monolithisch India Limited",
@@ -8256,6 +8376,16 @@
       "category": "Disclosure",
       "title": "SBI Funds Management Limited has informed the Exchange about Intimation of request received for Re-classification of entity classified as Promoter Group under Regulation 31A of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
       "url": "https://nsearchives.nseindia.com/corporate/SBIMF2026_16102026174103_SE_ReclassificationOfPromoter_signed.pdf"
+    },
+    {
+      "id": "f3e3e7f2d8f3c",
+      "ticker": "HILINFRA",
+      "company": "Highway Infrastructure Limited",
+      "exchange": "NSE",
+      "date": "2026-10-16T17:37:03.000Z",
+      "category": "Disclosure",
+      "title": "Highway Infrastructure Limited has informed the Exchange about General Updates",
+      "url": "https://nsearchives.nseindia.com/corporate/HIGHWAY123_16102026173634_HIL_Reg30_16102026.pdf"
     },
     {
       "id": "f05e8d71b7b30",
@@ -12208,6 +12338,16 @@
       "url": "https://nsearchives.nseindia.com/corporate/IKS2006_28092026171049_20260928ClosureofTradingWindowSept2026.pdf"
     },
     {
+      "id": "f9e24b9818f3c",
+      "ticker": "PVRINOX",
+      "company": "PVR INOX Limited",
+      "exchange": "NSE",
+      "date": "2026-09-28T17:05:53.000Z",
+      "category": "Trading Window",
+      "title": "PVR INOX Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/PVRINOXLTD_28092026170535_PVRINOXClosureofTradingWindow30092026.pdf"
+    },
+    {
       "id": "fc733c8aa67b0",
       "ticker": "SHAILY",
       "company": "Shaily Engineering Plastics Limited",
@@ -12806,6 +12946,16 @@
       "category": "Press Release",
       "title": "Bharat Coking Coal Limited has informed the Exchange regarding a press release dated September 25, 2026, titled \"SAIL and BCCL Sign MoU to Increase Domestic Coking Coal Production\".",
       "url": "https://nsearchives.nseindia.com/corporate/BCCL_25092026191304_press_release_signed.pdf"
+    },
+    {
+      "id": "ff4f14c94906b",
+      "ticker": "MVELECTRO",
+      "company": "MV Electrosystems Limited",
+      "exchange": "NSE",
+      "date": "2026-09-25T18:47:03.000Z",
+      "category": "Investor Presentation",
+      "title": "MV Electrosystems Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/MVELECTROSYSTEMS_25092026184640_Intimation_of_investor_meet.pdf"
     },
     {
       "id": "fdccd1f8f959a",
@@ -19856,156 +20006,6 @@
       "category": "Disclosure",
       "title": "Standard Engineering Technology Limited has informed the Exchange about General Updates",
       "url": "https://nsearchives.nseindia.com/corporate/SGLTPL_25082026212854_Regulation_30_NSE.pdf"
-    },
-    {
-      "id": "f132b6809af2f",
-      "ticker": "WOCKPHARMA",
-      "company": "Wockhardt Limited",
-      "exchange": "NSE",
-      "date": "2026-08-25T19:28:01.000Z",
-      "category": "Action(s) taken or orders passed",
-      "title": "In terms of provisions of Regulation 30 (read with Part A of Schedule III) and other applicable provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, ( Listing Regulations ), we wish to inform you that the Company is in receipt of an Adjudication Order passed by the Commissioner of Customs, Nhava Sheva-II, JNCH.",
-      "url": "https://nsearchives.nseindia.com/corporate/WOCKPHARMA_25082026192621_Reg30COC25082026signed.pdf"
-    },
-    {
-      "id": "ff3c17b664795",
-      "ticker": "SAILIFE",
-      "company": "Sai Life Sciences Limited",
-      "exchange": "NSE",
-      "date": "2026-08-25T19:24:30.000Z",
-      "category": "Disclosure",
-      "title": "Sai Life Sciences Limited has informed the Exchange regarding 'Web Link Letters to Shareholders'.",
-      "url": "https://nsearchives.nseindia.com/corporate/SAILIFE_25082026192415_Stx_Intimation_Weblink_Letter_Signed.pdf"
-    },
-    {
-      "id": "f3e72b7107968",
-      "ticker": "SKYGOLD",
-      "company": "SKY GOLD AND DIAMONDS LIMITED",
-      "exchange": "NSE",
-      "date": "2026-08-25T19:13:40.000Z",
-      "category": "Investor Presentation",
-      "title": "Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we would like to inform you that the officials of the Company have interacted in the Investor Meeting held today i.e. on Tuesday, 25th August 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/SKYGOLD_25082026191330_Outcome25082026.pdf"
-    },
-    {
-      "id": "f6a1d0eb40f6b",
-      "ticker": "SAILIFE",
-      "company": "Sai Life Sciences Limited",
-      "exchange": "NSE",
-      "date": "2026-08-25T19:01:29.000Z",
-      "category": "Shareholders meeting",
-      "title": "Sai Life Sciences Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 17, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/SAILIFE_25082026190118_Stx_Intimation_AGM_Notice_Signed.pdf"
-    },
-    {
-      "id": "fd0f93ea9826c",
-      "ticker": "BLACKBUCK",
-      "company": "BLACKBUCK LIMITED",
-      "exchange": "NSE",
-      "date": "2026-08-25T18:54:27.000Z",
-      "category": "ESOP/ESOS/ESPS",
-      "title": "BLACKBUCK LIMITED has informed the Exchange regarding Allotment of 17143 Shares.",
-      "url": "https://nsearchives.nseindia.com/corporate/ZINKA2015_25082026185415_Intimation_ESOP_Allotment.pdf"
-    },
-    {
-      "id": "f059012017fe1",
-      "ticker": "SGMART",
-      "company": "SG Mart Limited",
-      "exchange": "NSE",
-      "date": "2026-08-25T18:53:40.000Z",
-      "category": "Shareholders meeting",
-      "title": "SG Mart Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 19, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/SGMART_25082026185333_SGML_41ST_AGM_NOTICE_FY26.pdf"
-    },
-    {
-      "id": "f8f4b5e45590b",
-      "ticker": "ADVAIT",
-      "company": "Advait Energy Transitions Limited",
-      "exchange": "NSE",
-      "date": "2026-08-25T18:22:44.000Z",
-      "category": "Receipt of Order",
-      "title": "Advait Energy Transitions Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
-      "url": "https://nsearchives.nseindia.com/corporate/ADVAITENERGY_25082026182225_AETLSEintimaitonMPPTCLorder_S.pdf"
-    },
-    {
-      "id": "ff4bedb59c633",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "exchange": "NSE",
-      "date": "2026-08-25T18:03:40.000Z",
-      "category": "Newspaper Publication",
-      "title": "Meesho Limited has informed the Exchange about Newspaper publication w.r.t Dispatch of Notice of the 11th Annual General Meeting of the Company.",
-      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_25082026180331_ML_Post_dispatch_advertisment.pdf"
-    },
-    {
-      "id": "f2eef4aeeddb6",
-      "ticker": "ZENTEC",
-      "company": "Zen Technologies Limited",
-      "exchange": "NSE",
-      "date": "2026-08-25T17:55:01.000Z",
-      "category": "ESOP/ESOS/ESPS",
-      "title": "Zen Technologies Limited has informed the Exchange regarding Exercise of 1900 Options.",
-      "url": "https://nsearchives.nseindia.com/corporate/ZENTEC_25082026175315_SEIntimationEsop_1900_Shares_Signed.pdf"
-    },
-    {
-      "id": "f6b7e3dfb7f01",
-      "ticker": "SUNSHINE",
-      "company": "Sunshine Pictures Limited",
-      "exchange": "NSE",
-      "date": "2026-08-25T17:50:20.000Z",
-      "category": "Trading Window",
-      "title": "Sunshine Pictures Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/SUNSHINE_25082026175006_closureoftradingwindow.pdf"
-    },
-    {
-      "id": "f7ab0b3ca8460",
-      "ticker": "VIVIDEL",
-      "company": "Vivid Electromech Limited",
-      "exchange": "NSE",
-      "date": "2026-08-25T17:23:26.000Z",
-      "category": "Shareholders meeting",
-      "title": "Vivid Electromech Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on August 25, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/VIVID_25082026172229_Intimation_of_Proceedings_of_AGM.pdf"
-    },
-    {
-      "id": "f57402a28ed89",
-      "ticker": "MOBIKWIK",
-      "company": "One Mobikwik Systems Limited",
-      "exchange": "NSE",
-      "date": "2026-08-25T17:14:15.000Z",
-      "category": "Investor Presentation",
-      "title": "One Mobikwik Systems Limited has informed the Exchange about Schedule of meet",
-      "url": "https://nsearchives.nseindia.com/corporate/MOBIKWIK_25082026171312_Intimation_of_Schedule_of_Meet.pdf"
-    },
-    {
-      "id": "f68a17a73492a",
-      "ticker": "SAREGAMA",
-      "company": "Saregama India Limited",
-      "exchange": "NSE",
-      "date": "2026-08-25T17:10:26.000Z",
-      "category": "Newspaper Publication",
-      "title": "Saregama India Limited has informed the Exchange about Copy of Newspaper Publication regarding dispatch of electronic copies of Integrated Annual Report along with the Notice of the 79th AGM of the Company.",
-      "url": "https://nsearchives.nseindia.com/corporate/SAREGAMA_25082026170852_Signed_SE_Intimation_Newspaper.pdf"
-    },
-    {
-      "id": "f4cb27f7113bf",
-      "ticker": "ANAWIL",
-      "company": "Anawil Wire and Engineering Limited",
-      "exchange": "NSE",
-      "date": "2026-08-25T16:59:59.000Z",
-      "category": "Disclosure",
-      "title": "Anawil Wire and Engineering Limited has informed the Exchange about Registrar & Share Transfer Agent Update",
-      "url": "https://nsearchives.nseindia.com/corporate/ANAWIL_25082026165626_NSE_Intimation_Letter.pdf"
-    },
-    {
-      "id": "fed4c84bbc7f1",
-      "ticker": "VIVIDEL",
-      "company": "Vivid Electromech Limited",
-      "exchange": "NSE",
-      "date": "2026-08-25T16:58:29.000Z",
-      "category": "Receipt of Order",
-      "title": "Vivid Electromech Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
-      "url": "https://nsearchives.nseindia.com/corporate/VIVID_25082026165528_Intimation_of_Order.pdf"
     }
   ]
 }
