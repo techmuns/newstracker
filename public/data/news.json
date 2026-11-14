@@ -1,13 +1,51 @@
 {
-  "generated_at": "2026-11-13T21:01:09.871Z",
-  "source": "google-news+munshot+valuepickr+claude",
+  "generated_at": "2026-11-14T09:25:51.309Z",
+  "source": "google-news+valuepickr+claude",
   "counts": {
-    "portfolio": 154,
-    "watchlist": 658,
-    "universe": 51,
-    "total": 709
+    "portfolio": 152,
+    "watchlist": 654,
+    "universe": 52,
+    "total": 706
   },
   "items": [
+    {
+      "id": "n074ab53768dd",
+      "ticker": "MACRO",
+      "company": "India Defence Exports",
+      "sector": "Capital Goods",
+      "scope": [
+        "universe"
+      ],
+      "title": "BDL Explores Joint Torpedo Production With Italy’s WASS, Pushes Astra and Pralay Exports Amid ₹15,000 Cr FY27 Order Target",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNenlEOWZTQXVIYXlrT1loZVBZNmF2cC1VSkVKQ1hGNm9jcGRsTndncXVKRG4wUVlDcDdlcGl5QzBYMDdTcXdqbDB6eFhCYmtwWFBPM1BzWXk3bjd5Yko5dVBmUEVyR0tCcGQ3YVFLdXVyY1o2RlN1MElORlQ5VUtHX0xzUDRZNF93cEpMRWdIYk9BNTJ0anAtTVBWWWJUMTBLOTA1YmN2c3RzVmtGTVRwcEJ1TXFpdjNBOU96VF9YaHQwZ1RmVnFzeEFCN0tlSVBqZDNGVm1icWd5UUNORDNEWnlTektTUkRNeGZZ?oc=5",
+      "source": "Defence.in",
+      "date": "2026-11-14T06:38:33.000Z",
+      "topic": "Deals",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "BDL exploring joint torpedo production with Italy's WASS, targeting ₹15,000 crore orders by FY27.",
+      "enriched": true
+    },
+    {
+      "id": "nbff24c682efd",
+      "ticker": "CMLL",
+      "company": "Caliber Mining and Logistics Limited",
+      "sector": "Oil Gas & Consumable Fuels",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Caliber Mining and Logistics Limited order book reaches ₹8,634 crore",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNFgtNklFZHhJZll0X3NLamtlWmFKeFdMT0RqeEZEYjF3QklQeEZQeDM3TnlNT0RUX3JvcFlyc2l6dmd0amZFM200clBqSDdrTkpLU1dZSXpsLXVBVll4UGFZLWttN3E5bWIxbHJPSGw3bEhWWjg4eUswb1NqYzhiMUJ5MUNyeDJvRXpIaHl0R3p2ODg4ZjhMZVJ0NWR4MnJUb3NyS293Yw?oc=5",
+      "source": "Multibagg AI",
+      "date": "2026-11-14T04:16:25.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Caliber Mining's order book reaches ₹8,634 crore.",
+      "enriched": true
+    },
     {
       "id": "n3e710def8105",
       "ticker": "VOEPL",
@@ -301,7 +339,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Meesho acquires Kirana Club for Rs 186.71 crore to expand its business reach.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -439,7 +477,7 @@
       "mood": "positive",
       "takeaway": "Surya Roshni posted record revenue in Q2 FY27.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "nb0cba5e81054",
@@ -497,7 +535,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "MTAR Technologies discussed Q2 FY27 results in earnings call.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -914,7 +952,7 @@
       "mood": "positive",
       "takeaway": "GMM Pfaudler posted 17% revenue growth in H1 FY27 with record order backlog.",
       "enriched": true,
-      "sources_count": 4
+      "sources_count": 2
     },
     {
       "id": "necf2fbc75537",
@@ -1400,7 +1438,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Shaily Engineering Plastics exceeded revenue expectations in Q2 2026.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -1814,7 +1852,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Senores Pharmaceuticals announced ₹43 crore capacity expansion across its subsidiaries.",
-      "sources_count": 3,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -2076,27 +2114,6 @@
       "takeaway": "Acutaas Chemicals Q2 2026 revenue exceeds expectations, driving 13% stock gain.",
       "enriched": true,
       "sources_count": 2
-    },
-    {
-      "id": "ne1b53078f0ca",
-      "ticker": "APTUS",
-      "company": "Aptus Value Housing Finance India Limited",
-      "sector": "Financial Services",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Aptus Value Housing Finance reschedules Q2FY27 earnings call to Nov 4",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdGlnLURQUEhCaWlQRjB4X3hzOHVQbGhjOG9wcklRTHh0YnlBUTJKRW9LSmZpWVZndTNhaWpsWlN2YlJGcTFCXzNrVlV4cXVGSnUxekJVU0lyMktmQUtLeDJpNkUtZXVyU2Y4ZmYtWjhjLTBWRUFiR184eGdXem5vU2otLXkwSzFKcTBCQkVWQk1VdzNBLUFMaHllTEhmeUgwblhTaGNEV3hNaG45ME8tRWRrcWN1NndjVUFNbFVGaVk?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-10-27T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Aptus Value Housing rescheduled its quarterly earnings call to November 4.",
-      "sources_count": 2,
-      "enriched": true
     },
     {
       "id": "nd7614de91c88",
@@ -2432,7 +2449,7 @@
       "importance": "medium",
       "mood": "negative",
       "takeaway": "Fire at Zen Technologies' subsidiary Unistring Tech Solutions' Hyderabad unit; minimal impact expected.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -2631,26 +2648,6 @@
       "mood": "positive",
       "takeaway": "Transformers & Rectifiers order book grew 32% year-on-year to ₹7,237 crore.",
       "enriched": true
-    },
-    {
-      "id": "n7ed327ca9d0e",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Aurionpro strengthens data centre growth momentum with Rs 1.5 billion follow-on order from global hyperscaler",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQXByQVR2Y0k3Vk03a09rdHZBX05lTWVRaHNwRjVxZU1uU3owTmFtNUxVSnZFUjVuVks4aF9wbjZWdnBZbnBfeERpeGVjQzVpYVhnejZvb0ZkbzVrdWh1VlBRRDVCZS1XdUNaa2lMOF9zOXZuYUNKODNkYVVYNkdsdVlOSGdKUXp2OGRGSGRodkZYRVpTTUZPR1QzcDJzbWlHQWpXUFBKN21qbmcxS25ZVnNrb1VVbWRERTdpeXJOQW9RUnFuUlRvYlIxdHdLLW1lMGZBWk4yVl94dkhlQ2FsVUZlakM1QQ?oc=5",
-      "source": "tele.net.in",
-      "date": "2026-10-13T13:28:19.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Aurionpro wins Rs 150 crore follow-on data centre order from global hyperscaler.",
-      "enriched": true,
-      "sources_count": 2
     },
     {
       "id": "n70098fd326f6",
@@ -9322,64 +9319,6 @@
       "enriched": true
     },
     {
-      "id": "n3d68cb3ce1b0",
-      "ticker": "SETL",
-      "company": "Standard Engineering Technology Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Standard Engineering Technology makes Q1FY27 earnings call recording available",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQmpjRVN4UkFXcU55dmFmNWhxWEdzbHhKMFZadFBiSXZ3SDVoZ3VHX0pxejRJM3RlVVUyRm0zRWJhR1ZpV2ZoU25OZWlVVElnN3YtQ0lfMWM2OUlwNVh5Ynh3cDJxMUZrMVc4TDVhRW5QMWZocENZTzludFk2RThCRHBNTHNXQ2N1Z1p5dXFMbzVmVlQ0T1VoYUVvYXlYTHVKMlk5cUJIQkZzV0gtTnNjX2psODJnaVQ3YWRuS3UzRWEyQUhQQTdVekd2MjJSQQ?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-08-06T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Standard Engineering Technology made its earnings call recording available.",
-      "enriched": true
-    },
-    {
-      "id": "n316089096314",
-      "ticker": "ZENTEC",
-      "company": "Zen Technologies",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Zen Technologies FY26 Results: Revenue falls, order book rises",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaWxDNkJYMWl5RkFLZ3ZpVFRaY0RmWGpkWnRTLUZDZENJVkNkOVRsSWxkNGxDRDQ1Smk1TmxmcElhdVpKVlVmXzg2TEtJSGFxR3VvdUFVeTRGbnRxV0cwU0dVMGIzN0U1LUpaLUx4aFJnLWdJVTVXV2FhLXZvaUg2MlVNTXVpVkp1bkpOM3h3QnlnaDl0RzkzaGdPR2tfZEk1dUpqM3Vaa1NBY0loTmMyNE9Ic094ZzA1?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-08-06T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Zen Technologies FY26 revenue declined but order book increased.",
-      "enriched": true
-    },
-    {
-      "id": "ndc06e0ccdfc1",
-      "ticker": "SUDEEPPHRM",
-      "company": "Sudeep Pharma",
-      "sector": "Chemicals",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Sudeep Pharma Outlines Strategic Growth Guidance and Battery Materials Capacity Expansion",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUjMwdFpqSHl6Qzg5Q1dmTjUxMVFLbEw5RFlQYlRZY1NwajBmMkJDT2FiSlUxWXpOTnllLW11bkJselVhUHlPYzh5dHhzZlNTY2YwNnBPaWdGc1dFMzhIclpCTTltUTBNUDVzaHJJQzIwNE5WYmx4c3JSQ0Jlbk1MNFR0TDlYdEVTNWJkUzFsb1NWTWtQUDFLY3A3aVo5SlJsUFhjVm5FV0VZbl9TbXB3b2p4ZFZIU3l4Q0RwSnhVcHlkYkF3c0dJ?oc=5",
-      "source": "Sahi",
-      "date": "2026-08-06T07:00:00.000Z",
-      "topic": "Growth",
-      "keyword": "Capacity Expansion",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Sudeep Pharma announced capacity expansion plans for battery materials.",
-      "enriched": true
-    },
-    {
       "id": "nf6d5f7df804a",
       "ticker": "VOEPL",
       "company": "Virtuoso Optoelectronics Limited",
@@ -11373,26 +11312,6 @@
       "enriched": true
     },
     {
-      "id": "nf97a888b5402",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Aurionpro bags ₹150-crore data centre order - The HinduBusinessLine",
-      "url": "https://www.thehindubusinessline.com/info-tech/aurionpro-bags-150-crore-data-centre-order/article71546954.ece",
-      "source": "thehindubusinessline.com",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Aurionpro secured a ₹150 crore data centre order.",
-      "sources_count": 4,
-      "enriched": true
-    },
-    {
       "id": "ncde0e5c3323e",
       "ticker": "RPSGVENT",
       "company": "RPSG VENTURES LIMITED",
@@ -11817,6 +11736,26 @@
       "importance": "low",
       "mood": "positive",
       "takeaway": "Yash Highvoltage subsidiary signs US representation agreement to expand market presence.",
+      "enriched": true
+    },
+    {
+      "id": "nf97a888b5402",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Aurionpro bags ₹150-crore data centre order - The HinduBusinessLine",
+      "url": "https://www.thehindubusinessline.com/info-tech/aurionpro-bags-150-crore-data-centre-order/article71546954.ece",
+      "source": "thehindubusinessline.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Aurionpro secured a ₹150 crore data centre order.",
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -12613,6 +12552,46 @@
       "enriched": true
     },
     {
+      "id": "nce98253a46be",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "E2E Networks stock swings from 5% lower circuit to upper circuit on Nvidia GPU capacity expansion plan- Moneycontrol.com",
+      "url": "https://www.moneycontrol.com/news/business/markets/e2e-networks-stock-swings-from-5-lower-circuit-to-upper-circuit-on-nvidia-gpu-capacity-expansion-plan-14060246.html",
+      "source": "moneycontrol.com",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Capacity Expansion",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "E2E Networks announces expansion of Nvidia GPU capacity for AI cloud services.",
+      "enriched": true,
+      "sources_count": 3
+    },
+    {
+      "id": "nfa2014ab6be7",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "KFC, Pizza Hut Franchise Operations To Come Under One Roof As Sapphire-Devyani Merger Gets CCI Nod",
+      "url": "https://www.ndtvprofit.com/business/kfc-pizza-hut-franchise-operations-to-come-under-one-roof-as-sapphire-devyani-merger-gets-cci-nod-12259660",
+      "source": "ndtvprofit.com",
+      "date": "",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Sapphire-Devyani merger gets competition regulator approval, consolidating KFC and Pizza Hut franchise operations.",
+      "enriched": true,
+      "sources_count": 3
+    },
+    {
       "id": "na98a2b522621",
       "ticker": "CMLL",
       "company": "Caliber Mining and Logistics Limited",
@@ -12651,26 +12630,6 @@
       "enriched": true
     },
     {
-      "id": "nce98253a46be",
-      "ticker": "E2E",
-      "company": "E2E Networks Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "E2E Networks stock swings from 5% lower circuit to upper circuit on Nvidia GPU capacity expansion plan- Moneycontrol.com",
-      "url": "https://www.moneycontrol.com/news/business/markets/e2e-networks-stock-swings-from-5-lower-circuit-to-upper-circuit-on-nvidia-gpu-capacity-expansion-plan-14060246.html",
-      "source": "moneycontrol.com",
-      "date": "",
-      "topic": "Growth",
-      "keyword": "Capacity Expansion",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "E2E Networks announces expansion of Nvidia GPU capacity for AI cloud services.",
-      "enriched": true,
-      "sources_count": 5
-    },
-    {
       "id": "nce8bc126fb41",
       "ticker": "GMMPFAUDLR",
       "company": "GMM Pfaudler Limited",
@@ -12707,26 +12666,6 @@
       "mood": "neutral",
       "takeaway": "GMM Pfaudler updates list of key managerial personnel for materiality checks.",
       "enriched": true
-    },
-    {
-      "id": "nfa2014ab6be7",
-      "ticker": "SAPPHIRE",
-      "company": "Sapphire Foods India Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "KFC, Pizza Hut Franchise Operations To Come Under One Roof As Sapphire-Devyani Merger Gets CCI Nod",
-      "url": "https://www.ndtvprofit.com/business/kfc-pizza-hut-franchise-operations-to-come-under-one-roof-as-sapphire-devyani-merger-gets-cci-nod-12259660",
-      "source": "ndtvprofit.com",
-      "date": "",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Sapphire-Devyani merger gets competition regulator approval, consolidating KFC and Pizza Hut franchise operations.",
-      "enriched": true,
-      "sources_count": 3
     },
     {
       "id": "ncb5c2ef1a561",
