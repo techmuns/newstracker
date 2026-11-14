@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-11-14T09:25:51.309Z",
-  "source": "google-news+valuepickr+claude",
+  "generated_at": "2026-11-14T19:37:20.836Z",
+  "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 152,
-    "watchlist": 654,
+    "watchlist": 658,
     "universe": 52,
-    "total": 706
+    "total": 710
   },
   "items": [
+    {
+      "id": "n7f75b46bf3e7",
+      "ticker": "MTARTECH",
+      "company": "Mtar Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "MTAR Technologies H1 FY27: Sales Up 163%, Nuclear Order Book ₹820 Crore, Nuclear Revenue ₹8.7 Crore",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5zSFBhV214TnN2YVhRS2VXelVkOHR3NW9yUU9EWHQzc0JZNTJIcl9lOEJZTHZ0WktSd093?oc=5",
+      "source": "Howl.Link",
+      "date": "2026-11-14T11:32:06.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Nuclear order book stands at ₹820 crore; H1 sales jumped 163% with nuclear revenue at ₹8.7 crore.",
+      "enriched": true
+    },
     {
       "id": "n074ab53768dd",
       "ticker": "MACRO",
@@ -44,7 +63,8 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Caliber Mining's order book reaches ₹8,634 crore.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n3e710def8105",
@@ -67,6 +87,26 @@
       "enriched": true
     },
     {
+      "id": "n906bf3382eaf",
+      "ticker": "GMMPFAUDLR",
+      "company": "GMM Pfaudler Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "GMM Pfaudler Limited Reports Record Rs 1,198 Crore Q2 Order Inflow",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNS1XWmx4cjVGNE9uMEtXUDU1SWFZbllEbDc3LUpiUjZiUW1VeFJLZUlwNG1NcHlUN1NPUmg4UkRiSkVkeGIwaWJOUEJFcW45VFdBd1MwZHBPLWpyanBJVGs2ZGp6YUxRdFZqYzBXTmJLWk1JdFZsd1lCSTh0a3M4N2hKUUNvV21mTzhveV9lbk44VmtfODkzVFlKdEwtZGVmTkFIUUM0SG0?oc=5",
+      "source": "Multibagg AI",
+      "date": "2026-11-13T14:02:38.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Record Q2 order inflow of ₹1,198 crore received.",
+      "sources_count": 5,
+      "enriched": true
+    },
+    {
       "id": "nabc564d82511",
       "ticker": "XPROINDIA",
       "company": "Xpro India Limited",
@@ -84,26 +124,6 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Xpro India seeks approval for Rs. 370 crore subsidiary transactions.",
-      "enriched": true
-    },
-    {
-      "id": "n57e535683520",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Apsis Aerocom Receives ₹93.99 Lakh Supply Order from Aerospace Customer",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV05lV1V2Mk9BeDFudnU0X3VMdWtwRzZqeGpKZ2xYNENvNDZ2bGhhdVVNdXR3VjdOdHQzMzI2LVdTdnUwVFZkeTJBc0N0YlQ0eGdnSHNidUs1N2tvRzA2elBxWFB2Qlk0SjAyNG51SHRpTXJEXzFIWktCM2g0MTE4U1Z3VGVwdWgwc2d3X2xEWUJMMHdQSThjbUlhU1BvVEo4djZjaWh3TGVqOWtDaWlF?oc=5",
-      "source": "EquityBulls",
-      "date": "2026-11-13T11:55:40.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Apsis Aerocom received Rs. 94 lakh supply order from aerospace customer.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -339,7 +359,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Meesho acquires Kirana Club for Rs 186.71 crore to expand its business reach.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -477,7 +497,7 @@
       "mood": "positive",
       "takeaway": "Surya Roshni posted record revenue in Q2 FY27.",
       "enriched": true,
-      "sources_count": 2
+      "sources_count": 3
     },
     {
       "id": "nb0cba5e81054",
@@ -755,7 +775,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "GMM Pfaudler released Q2 FY27 earnings call audio.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -933,26 +953,6 @@
       "mood": "positive",
       "takeaway": "Gland Pharma gets US FDA approval for methylprednisolone injection targeting $214M market.",
       "enriched": true
-    },
-    {
-      "id": "n408382d327b1",
-      "ticker": "GMMPFAUDLR",
-      "company": "GMM Pfaudler Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "GMM Pfaudler (NSE:GMMPFAUDLR) Reports Strong H1 FY27 Performance with 17% Revenue Growth and Record Order Backlog",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNa1BkM2dMS3pfd0pDWk44WTBWaXhGb0h3Z3FFckd6a05aN21pMkhWZ1k5OUZUVkp4MC1oVUVrME43ZlJvMkU0OTRZbzc5LVdoTE9VbnctbkZ1bVF0bTl5bWk2NGE2SXlualU1UU1uRGs0SklaSVFpOUpvTVRGNDBPTmJqd0pISHZ0LVp6V2NGcVkyblFKU1JjUFJZd0RnMmROZndLUU5GV0IzRFg3ZTZKel9QVWUxdHkxNTE4X0xOMTFKX2lLUEVieTVLRUxFUE1FTENxeFo5bDNhckZ0aVh3ODBBX3FndUdjRnNzbQ?oc=5",
-      "source": "Kalkine Media",
-      "date": "2026-11-04T11:39:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "GMM Pfaudler posted 17% revenue growth in H1 FY27 with record order backlog.",
-      "enriched": true,
-      "sources_count": 2
     },
     {
       "id": "necf2fbc75537",
@@ -1438,7 +1438,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Shaily Engineering Plastics exceeded revenue expectations in Q2 2026.",
-      "sources_count": 2,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -9319,6 +9319,25 @@
       "enriched": true
     },
     {
+      "id": "n3147f8e5e895",
+      "ticker": "MTARTECH",
+      "company": "Mtar Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "MTAR Technologies shares snap five session losing streak, climb 5% after Q1 results, order update - BusinessToday",
+      "url": "https://www.businesstoday.in/markets/stocks/story/mtar-technologies-shares-snap-five-session-losing-streak-climb-5-after-q1-results-order-update-546219-2026-07-30",
+      "source": "businesstoday.in",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "MTAR Technologies received new orders and reported Q1 results, shares rose 5% after five-day decline.",
+      "enriched": true
+    },
+    {
       "id": "nf6d5f7df804a",
       "ticker": "VOEPL",
       "company": "Virtuoso Optoelectronics Limited",
@@ -9377,41 +9396,22 @@
       "sources_count": 2
     },
     {
-      "id": "nfa3dbf87dff2",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
+      "id": "n0795731e08f0",
+      "ticker": "GMMPFAUDLR",
+      "company": "GMM Pfaudler Limited",
       "sector": "Capital Goods",
       "scope": [
         "watchlist"
       ],
-      "title": "Abha Power and Steel Secures ₹1.20 Crore Order from Railway OEM | EquityBulls",
-      "url": "https://www.equitybulls.com/news/378861/abha-power-and-steel-secures-1-20-crore-order-from-railway-oem",
-      "source": "equitybulls.com",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Abha Power and Steel won a small ₹1.20 crore order from a railway equipment maker.",
-      "enriched": true
-    },
-    {
-      "id": "ncef322c6ad56",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "JSW Infrastructure’s Subsidiary Receives Letter of Allotment for ₹60 Crore Gati Shakti Cargo Terminal in Punjab | EquityBulls",
-      "url": "https://www.equitybulls.com/news/378860/jsw-infrastructure-s-subsidiary-receives-letter-of-allotment-for-60-crore-gati-s",
-      "source": "equitybulls.com",
+      "title": "GMM Pfaudler sees HET and PPT lift bookings as PST falls | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/gmm-pfaudler-divisional-order-mix-ppt-cmw3c8rel001y2mphvh4qha9v",
+      "source": "multibagg.ai",
       "date": "",
       "topic": "Orders",
       "keyword": "Order",
       "importance": "medium",
       "mood": "positive",
-      "takeaway": "JSW Infrastructure subsidiary got approval for ₹60 crore cargo terminal project in Punjab.",
+      "takeaway": "GMM Pfaudler sees higher bookings in HET and PPT segments while PST segment declines.",
       "enriched": true
     },
     {
@@ -9959,25 +9959,6 @@
       "enriched": true
     },
     {
-      "id": "n488bfb57dca8",
-      "ticker": "SURYAROSNI",
-      "company": "Surya Roshni Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Surya Roshni may announce buyback before next board meeting | Market News & Analysis",
-      "url": "https://www.multibagg.ai/market-pulse/articles/surya-roshni-buyback-board-meeting-concall-cmwez55mp00bw2cqxqwwebgnv",
-      "source": "multibagg.ai",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Surya Roshni may announce buyback before next board meeting.",
-      "enriched": true
-    },
-    {
       "id": "n838aee6918fc",
       "ticker": "SURYAROSNI",
       "company": "Surya Roshni Limited",
@@ -10071,25 +10052,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Solar Industries has a ₹20,178 crore order book with revenue doubling.",
-      "enriched": true
-    },
-    {
-      "id": "n3147f8e5e895",
-      "ticker": "MTARTECH",
-      "company": "Mtar Technologies Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "MTAR Technologies shares snap five session losing streak, climb 5% after Q1 results, order update - BusinessToday",
-      "url": "https://www.businesstoday.in/markets/stocks/story/mtar-technologies-shares-snap-five-session-losing-streak-climb-5-after-q1-results-order-update-546219-2026-07-30",
-      "source": "businesstoday.in",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "MTAR Technologies received new orders and reported Q1 results, shares rose 5% after five-day decline.",
       "enriched": true
     },
     {
@@ -10399,25 +10361,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Shivalik Bimetal Controls proposes bonus issue to triple outstanding shares.",
-      "enriched": true
-    },
-    {
-      "id": "n0795731e08f0",
-      "ticker": "GMMPFAUDLR",
-      "company": "GMM Pfaudler Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "GMM Pfaudler sees HET and PPT lift bookings as PST falls | Market News & Analysis",
-      "url": "https://www.multibagg.ai/market-pulse/articles/gmm-pfaudler-divisional-order-mix-ppt-cmw3c8rel001y2mphvh4qha9v",
-      "source": "multibagg.ai",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "GMM Pfaudler sees higher bookings in HET and PPT segments while PST segment declines.",
       "enriched": true
     },
     {
@@ -11605,6 +11548,25 @@
       "enriched": true
     },
     {
+      "id": "nc888254a300e",
+      "ticker": "KSHINTL",
+      "company": "KSH International Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "KSH International Q2 FY27: Revenue Surge Masks Margin Concerns",
+      "url": "https://www.marketsmojo.com/news/result-analysis/ksh-international-q2-fy27-revenue-surge-masks-margin-concerns-4252716",
+      "source": "marketsmojo.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "KSH International Q2 revenue grew but profit margins declined.",
+      "enriched": true
+    },
+    {
       "id": "ndb9caecb629a",
       "ticker": "SHIPROCKET",
       "company": "Shiprocket Limited",
@@ -11736,6 +11698,83 @@
       "importance": "low",
       "mood": "positive",
       "takeaway": "Yash Highvoltage subsidiary signs US representation agreement to expand market presence.",
+      "enriched": true
+    },
+    {
+      "id": "n8293e0d3b142",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Apsis Aerocom Receives ₹93.99 Lakh Supply Order from Aerospace Customer | EquityBulls",
+      "url": "https://www.equitybulls.com/news/378854/apsis-aerocom-receives-93-99-lakh-supply-order-from-aerospace-customer",
+      "source": "equitybulls.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Apsis Aerocom received a small supply order worth ₹94 lakh from an aerospace customer.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nfa3dbf87dff2",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Abha Power and Steel Secures ₹1.20 Crore Order from Railway OEM | EquityBulls",
+      "url": "https://www.equitybulls.com/news/378861/abha-power-and-steel-secures-1-20-crore-order-from-railway-oem",
+      "source": "equitybulls.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Abha Power and Steel won a small ₹1.20 crore order from a railway equipment maker.",
+      "enriched": true
+    },
+    {
+      "id": "ncef322c6ad56",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "JSW Infrastructure’s Subsidiary Receives Letter of Allotment for ₹60 Crore Gati Shakti Cargo Terminal in Punjab | EquityBulls",
+      "url": "https://www.equitybulls.com/news/378860/jsw-infrastructure-s-subsidiary-receives-letter-of-allotment-for-60-crore-gati-s",
+      "source": "equitybulls.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "JSW Infrastructure subsidiary got approval for ₹60 crore cargo terminal project in Punjab.",
+      "enriched": true
+    },
+    {
+      "id": "ncfb74fe6695b",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Apsis Aerocom Limited’s Rs 31.8 crore book covers H2 FY27 needs | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/apsis-aerocom-order-book-cover-ppt-cmwfjf1aq003r2rl90wmd4qaq",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Apsis Aerocom's order book of ₹32 crore covers its revenue needs for the second half of FY27.",
       "enriched": true
     },
     {
@@ -12492,6 +12531,25 @@
       "enriched": true
     },
     {
+      "id": "n7a62eef78907",
+      "ticker": "BALUFORGE",
+      "company": "Balu Forge Industries Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Balu Forge Industries Plans ₹162 Crore Promoter Warrants | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/balu-forge-promoter-warrant-issue-cmwgof2wq00j12rpbgpi6pmgr",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Preferential Issue",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Balu Forge plans to raise ₹162 crore through promoter warrants.",
+      "enriched": true
+    },
+    {
       "id": "n2b042f714980",
       "ticker": "STLTECH",
       "company": "Sterlite Technologies Limited",
@@ -12569,7 +12627,7 @@
       "mood": "positive",
       "takeaway": "E2E Networks announces expansion of Nvidia GPU capacity for AI cloud services.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 5
     },
     {
       "id": "nfa2014ab6be7",
@@ -13751,6 +13809,25 @@
       "takeaway": "Vasa Therapeutics reports positive results from Phase 1c trial of heart failure drug VS-041.",
       "enriched": true,
       "sources_count": 2
+    },
+    {
+      "id": "n0ace33b9c8cb",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Kasturi Metal Composite Limited discloses promoter group share acquisition | InvestyWise",
+      "url": "https://www.investywise.com/kasturi-metal-composite-limited-voluntary-disclosure-of-promoter-trading/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Kasturi Metal Composite promoter group acquired additional shares in the company.",
+      "enriched": true
     }
   ]
 }
