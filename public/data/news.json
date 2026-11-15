@@ -1,13 +1,52 @@
 {
-  "generated_at": "2026-11-15T09:57:11.282Z",
-  "source": "google-news+valuepickr+claude",
+  "generated_at": "2026-11-15T19:58:39.522Z",
+  "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 151,
-    "watchlist": 654,
+    "portfolio": 152,
+    "watchlist": 657,
     "universe": 52,
-    "total": 706
+    "total": 709
   },
   "items": [
+    {
+      "id": "nb221d315e9ba",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "DEE Development Engineers reports PAT of ₹23.5 crore in Q2 FY27, order book grows significantly",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbWI2b3FkUWJoaUg4elBzQ0tUc3g1bW92X1VrSUhYSHdVSktYdXFXRk1FYlh6LUcwUklEbFpXSkwxdGR1WXpwQzdBNkRlN1dsNzFjMnhqMnN5Uk9HRXF3TkNlZmNCQzkxUEFwclBfM05SUXBRdkNQZC1nZ092VDlYekEwOE1Cd1IwN1VGRnpZa0lHWXZPcU42RDlacXd6V3JJaEVzbzluRXRfSy1fQjBaVVJFbC1mSE8yS1BBODlpeXlDZ1VtMG9YcHk3YjE?oc=5",
+      "source": "Business Upturn",
+      "date": "2026-11-15T16:48:54.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "DEE Development Engineers posted profit of ₹23.5 crore in Q2 and saw significant order book growth.",
+      "enriched": true
+    },
+    {
+      "id": "ne6849445548b",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
+      "scope": [
+        "universe"
+      ],
+      "title": "Alembic Pharma receives USFDA approval for lung cancer drug Binimetinib",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSVFKclN4N3pxbWxTZS1Ma2NVcnFlSm1BZUJxUHhPVC1WbGNDOGRJaXcwcHpqclRDYmwxN0NUOGZHRlJ2dzRqcU9xTHF0WElBV1A4YkJTOFBSWnlFSlk2Y2JRdXhzZy1IQUVXdW1kMGE3ZEh3M29IWFVHTUQzaXFqSDNvS3dTTkFMY2g2Tnc4eHliMk13dUNiZWVraHZLWE9EYlh2V0lYZHhNblF0WWxZMzdiTF9mT2thZ3FkcEk5a3plYXYycVp2VTBzYVV4cXFtTG80c2s3c9IB3AFBVV95cUxOZDRSRjF1bWw4VkgtZXhtYlNkc1N4bmZZU0ZxNHotemd4MU9jN2E0TTRmOElHeE5BWjRiQkpfVWlucXhZeDk0NUtaV09hLVNFU3ZlRnhuNVRNSXptSVRBQlJBdVVZYndOakY1c2wwZmR5SEd0a0ZVZUU2X1E1SHJIOUpBZlpGYmFoVkpnWXBBWEZnR1R1V1c2dEFmTEI4SFZ4TTlNX0I4RkdkazgtY2UzRWc1TDlTNnJ5SjdrRXZkcFFnVEIwc1VYZlZwT2p0enpOVVFyTkxmQ2hlZElX?oc=5",
+      "source": "Business Standard",
+      "date": "2026-11-15T10:25:55.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Alembic Pharma got US FDA approval for lung cancer drug Binimetinib.",
+      "sources_count": 2,
+      "enriched": true
+    },
     {
       "id": "n7f75b46bf3e7",
       "ticker": "MTARTECH",
@@ -103,7 +142,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Record Q2 order inflow of ₹1,198 crore received.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -127,26 +166,6 @@
       "enriched": true
     },
     {
-      "id": "n57e535683520",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Apsis Aerocom Receives ₹93.99 Lakh Supply Order from Aerospace Customer",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV05lV1V2Mk9BeDFudnU0X3VMdWtwRzZqeGpKZ2xYNENvNDZ2bGhhdVVNdXR3VjdOdHQzMzI2LVdTdnUwVFZkeTJBc0N0YlQ0eGdnSHNidUs1N2tvRzA2elBxWFB2Qlk0SjAyNG51SHRpTXJEXzFIWktCM2g0MTE4U1Z3VGVwdWgwc2d3X2xEWUJMMHdQSThjbUlhU1BvVEo4djZjaWh3TGVqOWtDaWlF?oc=5",
-      "source": "EquityBulls",
-      "date": "2026-11-13T11:55:40.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Apsis Aerocom received a ₹94 lakh supply order from an aerospace customer.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "n409f9a21e54b",
       "ticker": "CMLL",
       "company": "Caliber Mining and Logistics Limited",
@@ -163,25 +182,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Caliber Mining Q2 loss narrowed to Rs. 7.5 crore; order book grew 52%.",
-      "enriched": true
-    },
-    {
-      "id": "n8b46e7424d02",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "DEE Development Engineers order book rises to ₹2,586 crore in October",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUDRfYmp4Q3plQi05Y3E0aGphTXU2NEoxUVlDS2M2VFU1Nnlna2VmeXJpUzh1eDNOci16T1J4QTI5bVJoM0g2UlltZkdYX3VHaG5nc0pLM3dlZ1lGOWVidDdRZjdldi1GWWk4SklnVXZRV3l1aEpWMjJQek1ndG1yeVV5dWdLTlBra1pSVWdBY0c0NVBLMmxSU0VqZlZheWRWZ1V2Y19PM242RTUtZFRLNEE1dHVmWENYSUdZ?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-11-13T09:53:40.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "DEE Development Engineers order book reached Rs. 2,586 crore in October.",
       "enriched": true
     },
     {
@@ -379,7 +379,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Meesho acquires Kirana Club for Rs 186.71 crore to expand its business reach.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -517,7 +517,7 @@
       "mood": "positive",
       "takeaway": "Surya Roshni posted record revenue in Q2 FY27.",
       "enriched": true,
-      "sources_count": 2
+      "sources_count": 3
     },
     {
       "id": "nb0cba5e81054",
@@ -1458,7 +1458,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Shaily Engineering Plastics exceeded revenue expectations in Q2 2026.",
-      "sources_count": 3,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -1872,7 +1872,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Senores Pharmaceuticals announced ₹43 crore capacity expansion across its subsidiaries.",
-      "sources_count": 3,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -2433,26 +2433,6 @@
       "enriched": true
     },
     {
-      "id": "n42c33559443a",
-      "ticker": "THEME",
-      "company": "Pharma Approvals",
-      "sector": "Healthcare",
-      "scope": [
-        "universe"
-      ],
-      "title": "Alembic Pharma receives USFDA approval for generic ear infection drug",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOajlpRXNnRlE0QXl1dURjZWdrdGd3U3NKLTJhb2wwWlcwVklDU3kzU3Iwc1hFTm44aDhCUVViZmVBUDctcjB0R0w4TUk1UmJKcU0wYW1VbkZXY2wyYXNWdmNEWDdzYmN3aWswWThTajZNeG1zNHViM21ZUUd3Y3o5SnVFNWYtcU5xRGpJVmpXZkJVMXQ5S2JIeFc2M0hXb182SHBNa1lXQjU5UGIxNXIwNW9kc0VIQkpZel9BR0piZUVfRkVBeHphN2RLVVVMVkt3V2FITFVpVnl4Z9IB2gFBVV95cUxOajlpRXNnRlE0QXl1dURjZWdrdGd3U3NKLTJhb2wwWlcwVklDU3kzU3Iwc1hFTm44aDhCUVViZmVBUDctcjB0R0w4TUk1UmJKcU0wYW1VbkZXY2wyYXNWdmNEWDdzYmN3aWswWThTajZNeG1zNHViM21ZUUd3Y3o5SnVFNWYtcU5xRGpJVmpXZkJVMXQ5S2JIeFc2M0hXb182SHBNa1lXQjU5UGIxNXIwNW9kc0VIQkpZel9BR0piZUVfRkVBeHphN2RLVVVMVkt3V2FITFVpVnl4Zw?oc=5",
-      "source": "Business Standard",
-      "date": "2026-10-19T10:13:46.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Alembic Pharma got US FDA approval for generic ear infection drug.",
-      "sources_count": 4,
-      "enriched": true
-    },
-    {
       "id": "n2260d897edee",
       "ticker": "ZENTEC",
       "company": "Zen Technologies Limited",
@@ -2782,7 +2762,7 @@
       "mood": "positive",
       "takeaway": "DEE Development Engineers' order book expanded to ₹2,531 crore as of September 2026.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "n55787a26b571",
@@ -9262,6 +9242,46 @@
       "enriched": true
     },
     {
+      "id": "n044867b6c16e",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "DEE order book hits Rs 2,586 crore, 92% process piping | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/dee-process-piping-order-book-ppt-cmwi2isx200o32rpbqem7vn31",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "DEE's order book stands at Rs 2,586 crore with 92% from process piping projects.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n317e43cfe330",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "DEE Development Engineers bags ₹46 crore contract from US-based EPC firm, ETManufacturing",
+      "url": "https://manufacturing.economictimes.indiatimes.com/amp/news/industry/dee-development-engineers-bags-46-crore-contract-from-us-based-epc-firm/134969903",
+      "source": "manufacturing.economictimes.indiatimes.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "DEE Development Engineers wins ₹46 crore contract from US-based engineering firm.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
       "id": "n3147f8e5e895",
       "ticker": "MTARTECH",
       "company": "Mtar Technologies Limited",
@@ -9358,63 +9378,6 @@
       "enriched": true
     },
     {
-      "id": "nfa3dbf87dff2",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Abha Power and Steel Secures ₹1.20 Crore Order from Railway OEM | EquityBulls",
-      "url": "https://www.equitybulls.com/news/378861/abha-power-and-steel-secures-1-20-crore-order-from-railway-oem",
-      "source": "equitybulls.com",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Abha Power and Steel won a small ₹1.20 crore order from a railway equipment maker.",
-      "enriched": true
-    },
-    {
-      "id": "ncef322c6ad56",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "JSW Infrastructure’s Subsidiary Receives Letter of Allotment for ₹60 Crore Gati Shakti Cargo Terminal in Punjab | EquityBulls",
-      "url": "https://www.equitybulls.com/news/378860/jsw-infrastructure-s-subsidiary-receives-letter-of-allotment-for-60-crore-gati-s",
-      "source": "equitybulls.com",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "JSW Infrastructure subsidiary got approval for ₹60 crore cargo terminal project in Punjab.",
-      "enriched": true
-    },
-    {
-      "id": "ncfb74fe6695b",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Apsis Aerocom Limited’s Rs 31.8 crore book covers H2 FY27 needs | Market News & Analysis",
-      "url": "https://www.multibagg.ai/market-pulse/articles/apsis-aerocom-order-book-cover-ppt-cmwfjf1aq003r2rl90wmd4qaq",
-      "source": "multibagg.ai",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Apsis Aerocom's order book of ₹32 crore covers its revenue needs for the second half of FY27.",
-      "enriched": true
-    },
-    {
       "id": "nfebd6e112c2d",
       "ticker": "CMLL",
       "company": "Caliber Mining and Logistics Limited",
@@ -9433,26 +9396,6 @@
       "takeaway": "Caliber Mining released Q1 FY27 earnings call summary.",
       "enriched": true,
       "sources_count": 2
-    },
-    {
-      "id": "n317e43cfe330",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "DEE Development Engineers bags ₹46 crore contract from US-based EPC firm, ETManufacturing",
-      "url": "https://manufacturing.economictimes.indiatimes.com/amp/news/industry/dee-development-engineers-bags-46-crore-contract-from-us-based-epc-firm/134969903",
-      "source": "manufacturing.economictimes.indiatimes.com",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "DEE Development Engineers wins ₹46 crore contract from US-based engineering firm.",
-      "sources_count": 2,
-      "enriched": true
     },
     {
       "id": "n850bffe3e363",
@@ -9783,6 +9726,25 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Northern Arc Capital board meeting scheduled to review second quarter financial results.",
+      "enriched": true
+    },
+    {
+      "id": "n1f0b6b6058a5",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Apsis Aerocom Limited H1 capex reduces cash, retains net cash | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/apsis-aerocom-h1-capex-cash-ppt-cmwfjeuet003q2rl9qx4qhj0m",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Capex",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Apsis Aerocom's H1 capex spending reduced cash reserves while maintaining net cash position.",
       "enriched": true
     },
     {
@@ -10945,6 +10907,26 @@
       "enriched": true
     },
     {
+      "id": "n76dcc7a7725d",
+      "ticker": "SENORES",
+      "company": "Senores Pharmaceuticals Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Senores Pharmaceuticals approves ₹43 crore subsidiary expansion plan",
+      "url": "https://scanx.trade/stock-market-news/companies/senores-pharmaceuticals-plans-43-cr-capacity-expansion-across/54809414",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Senores Pharma approves ₹43 crore expansion plan for its subsidiary.",
+      "enriched": true
+    },
+    {
       "id": "n89a15afb03f2",
       "ticker": "CARTRADE",
       "company": "Cartrade Tech Limited",
@@ -11698,6 +11680,83 @@
       "importance": "low",
       "mood": "positive",
       "takeaway": "Yash Highvoltage subsidiary signs US representation agreement to expand market presence.",
+      "enriched": true
+    },
+    {
+      "id": "n8293e0d3b142",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Apsis Aerocom Receives ₹93.99 Lakh Supply Order from Aerospace Customer | EquityBulls",
+      "url": "https://www.equitybulls.com/news/378854/apsis-aerocom-receives-93-99-lakh-supply-order-from-aerospace-customer",
+      "source": "equitybulls.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Apsis Aerocom received a Rs 93.99 lakh supply order from an aerospace customer.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nfa3dbf87dff2",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Abha Power and Steel Secures ₹1.20 Crore Order from Railway OEM | EquityBulls",
+      "url": "https://www.equitybulls.com/news/378861/abha-power-and-steel-secures-1-20-crore-order-from-railway-oem",
+      "source": "equitybulls.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Abha Power and Steel won a small ₹1.20 crore order from a railway equipment maker.",
+      "enriched": true
+    },
+    {
+      "id": "ncef322c6ad56",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "JSW Infrastructure’s Subsidiary Receives Letter of Allotment for ₹60 Crore Gati Shakti Cargo Terminal in Punjab | EquityBulls",
+      "url": "https://www.equitybulls.com/news/378860/jsw-infrastructure-s-subsidiary-receives-letter-of-allotment-for-60-crore-gati-s",
+      "source": "equitybulls.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "JSW Infrastructure subsidiary got approval for ₹60 crore cargo terminal project in Punjab.",
+      "enriched": true
+    },
+    {
+      "id": "ncfb74fe6695b",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Apsis Aerocom Limited’s Rs 31.8 crore book covers H2 FY27 needs | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/apsis-aerocom-order-book-cover-ppt-cmwfjf1aq003r2rl90wmd4qaq",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Apsis Aerocom's order book of ₹32 crore covers its revenue needs for the second half of FY27.",
       "enriched": true
     },
     {
@@ -12550,7 +12609,7 @@
       "mood": "positive",
       "takeaway": "E2E Networks announces expansion of Nvidia GPU capacity for AI cloud services.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 6
     },
     {
       "id": "nfa2014ab6be7",
@@ -12570,7 +12629,7 @@
       "mood": "positive",
       "takeaway": "Sapphire-Devyani merger gets competition regulator approval, consolidating KFC and Pizza Hut franchise operations.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 4
     },
     {
       "id": "na98a2b522621",
