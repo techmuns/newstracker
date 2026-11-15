@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-14T19:37:20.836Z",
-  "source": "google-news+munshot+valuepickr+claude",
+  "generated_at": "2026-11-15T09:57:11.282Z",
+  "source": "google-news+valuepickr+claude",
   "counts": {
-    "portfolio": 152,
-    "watchlist": 658,
+    "portfolio": 151,
+    "watchlist": 654,
     "universe": 52,
-    "total": 710
+    "total": 706
   },
   "items": [
     {
@@ -103,7 +103,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Record Q2 order inflow of ₹1,198 crore received.",
-      "sources_count": 5,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -124,6 +124,26 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Xpro India seeks approval for Rs. 370 crore subsidiary transactions.",
+      "enriched": true
+    },
+    {
+      "id": "n57e535683520",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Apsis Aerocom Receives ₹93.99 Lakh Supply Order from Aerospace Customer",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV05lV1V2Mk9BeDFudnU0X3VMdWtwRzZqeGpKZ2xYNENvNDZ2bGhhdVVNdXR3VjdOdHQzMzI2LVdTdnUwVFZkeTJBc0N0YlQ0eGdnSHNidUs1N2tvRzA2elBxWFB2Qlk0SjAyNG51SHRpTXJEXzFIWktCM2g0MTE4U1Z3VGVwdWgwc2d3X2xEWUJMMHdQSThjbUlhU1BvVEo4djZjaWh3TGVqOWtDaWlF?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-11-13T11:55:40.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Apsis Aerocom received a ₹94 lakh supply order from an aerospace customer.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -359,7 +379,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Meesho acquires Kirana Club for Rs 186.71 crore to expand its business reach.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -497,7 +517,7 @@
       "mood": "positive",
       "takeaway": "Surya Roshni posted record revenue in Q2 FY27.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "nb0cba5e81054",
@@ -1438,7 +1458,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Shaily Engineering Plastics exceeded revenue expectations in Q2 2026.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -1852,7 +1872,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Senores Pharmaceuticals announced ₹43 crore capacity expansion across its subsidiaries.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -2449,7 +2469,7 @@
       "importance": "medium",
       "mood": "negative",
       "takeaway": "Fire at Zen Technologies' subsidiary Unistring Tech Solutions' Hyderabad unit; minimal impact expected.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -2509,7 +2529,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Acutaas Chemicals completed acquisition of Enchem Ami Organics, making it a direct subsidiary.",
-      "sources_count": 3,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -9242,83 +9262,6 @@
       "enriched": true
     },
     {
-      "id": "n2fd2246d2559",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "DEE Development Engineers Q1 Results: Earnings call audio released",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcFpxcE1UVVRfaU1oTDcxa01pU0F0UWMyM3YxMU9CQnZ3OXlweW9zMm9nNDBzemxMeHFEcWpwb3JEaUZXenVqeEdUMl9HMzREYl9HdE9NQnNLWG5oREU2LVk5NVNkb0hWNzBvLXVmam8tcDBWSmhNV2I1SHZlT2hCN2NKOHNiRDc1cFNJeTJtYjh3S255LU1VdXZudTZ6TlVqY0Jid3lCUFFXVzVEdmgtU0xxZDZLcmgyMTJHeFR5aw?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-08-07T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "DEE Development Engineers released its Q1 earnings call audio.",
-      "enriched": true
-    },
-    {
-      "id": "n166bd8374619",
-      "ticker": "OMNI",
-      "company": "Omnitech Engineering Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Omnitech Engineering releases Q1 FY27 earnings call audio recording",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNblktRFV5M1RSTWJ2bnY4clNBZWMyN29jS0xaUjNxOWJ1N1JjYmp6UmQzSWFxV3NPdDFzd0RGemo1R3RyT2R5akYxRlBrNk52dDhYRDBlWTh1WE9lbldrX2FQM0dfS1I4YzRhUmNiUDhabUFKY3RjRnEzeXF1bTN2MC1jRHIxak5JeFMwVnVZbENQVFQtOUtRdjZaUFlzQm9kcTdGY0xLN291eDNFN2R2VmlVTEN2cE1ZR0swTVRLa3lwMVV1aHc?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-08-07T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Omnitech Engineering released Q1 FY27 earnings call audio recording.",
-      "enriched": true
-    },
-    {
-      "id": "n149991937386",
-      "ticker": "JYOTICNC",
-      "company": "Jyoti CNC",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Jyoti CNC Automation: Q1 FY27 Earnings & Growth Strategies",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ2ZqSUJUUmpGX1dqb0VBTXd2dmJNNDcwYWdVRGVZTzRkX1lMUjQ4OW0zZXJobk1BdFFpWFU4bG5vM3NGZEdIMEdTcFZXMldiZVh0OUhjZE9wQmtzalV6WkdCTnhmQUNvZEZrcWMyOFVEMkNmUlNXTDgzS2JOWjVVXzFBOWg2VFRjWTV4SUIwVmpqaVFrQnBKa1M2TE0?oc=5",
-      "source": "InvestyWise",
-      "date": "2026-08-07T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Jyoti CNC reported Q1 FY27 earnings and discussed growth strategies.",
-      "enriched": true
-    },
-    {
-      "id": "n1207fa5a206c",
-      "ticker": "SONATSOFTW",
-      "company": "Sonata Software",
-      "sector": "IT",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Earnings call transcript: Sonata Software Q1 2026 revenue beats as profit misses",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMVhrSzJZc0FYM2MtTWZFc2UxLXFGMUJITXpHRFpWLVRNTDZKREplWkI2UFVCMHViWG9USTBWckRUOVBfdkhDeWxRRVJHTmxfLXNqaVVXRkFFQkZ5NEloZ0FDeUVCYndEZ2ozQ1g1NXd5QkdySy1jTE5RN3FkR1V2VUdZbDJsODFCQ2lTLTNCd0oyOFVOYnZkZkpMVkh5MEduOUR0Unl2VC1sYzZGTWxtcjVxa3lQSXAwSExIZDhkWVJQU0YySzJ0a1VMOU05eDB1?oc=5",
-      "source": "Investing.com",
-      "date": "2026-08-07T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Sonata Software Q1 2026 revenue exceeded expectations but profit fell short.",
-      "enriched": true
-    },
-    {
       "id": "n3147f8e5e895",
       "ticker": "MTARTECH",
       "company": "Mtar Technologies Limited",
@@ -9412,6 +9355,63 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "GMM Pfaudler sees higher bookings in HET and PPT segments while PST segment declines.",
+      "enriched": true
+    },
+    {
+      "id": "nfa3dbf87dff2",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Abha Power and Steel Secures ₹1.20 Crore Order from Railway OEM | EquityBulls",
+      "url": "https://www.equitybulls.com/news/378861/abha-power-and-steel-secures-1-20-crore-order-from-railway-oem",
+      "source": "equitybulls.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Abha Power and Steel won a small ₹1.20 crore order from a railway equipment maker.",
+      "enriched": true
+    },
+    {
+      "id": "ncef322c6ad56",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "JSW Infrastructure’s Subsidiary Receives Letter of Allotment for ₹60 Crore Gati Shakti Cargo Terminal in Punjab | EquityBulls",
+      "url": "https://www.equitybulls.com/news/378860/jsw-infrastructure-s-subsidiary-receives-letter-of-allotment-for-60-crore-gati-s",
+      "source": "equitybulls.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "JSW Infrastructure subsidiary got approval for ₹60 crore cargo terminal project in Punjab.",
+      "enriched": true
+    },
+    {
+      "id": "ncfb74fe6695b",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Apsis Aerocom Limited’s Rs 31.8 crore book covers H2 FY27 needs | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/apsis-aerocom-order-book-cover-ppt-cmwfjf1aq003r2rl90wmd4qaq",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Apsis Aerocom's order book of ₹32 crore covers its revenue needs for the second half of FY27.",
       "enriched": true
     },
     {
@@ -11701,83 +11701,6 @@
       "enriched": true
     },
     {
-      "id": "n8293e0d3b142",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Apsis Aerocom Receives ₹93.99 Lakh Supply Order from Aerospace Customer | EquityBulls",
-      "url": "https://www.equitybulls.com/news/378854/apsis-aerocom-receives-93-99-lakh-supply-order-from-aerospace-customer",
-      "source": "equitybulls.com",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Apsis Aerocom received a small supply order worth ₹94 lakh from an aerospace customer.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "nfa3dbf87dff2",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Abha Power and Steel Secures ₹1.20 Crore Order from Railway OEM | EquityBulls",
-      "url": "https://www.equitybulls.com/news/378861/abha-power-and-steel-secures-1-20-crore-order-from-railway-oem",
-      "source": "equitybulls.com",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Abha Power and Steel won a small ₹1.20 crore order from a railway equipment maker.",
-      "enriched": true
-    },
-    {
-      "id": "ncef322c6ad56",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "JSW Infrastructure’s Subsidiary Receives Letter of Allotment for ₹60 Crore Gati Shakti Cargo Terminal in Punjab | EquityBulls",
-      "url": "https://www.equitybulls.com/news/378860/jsw-infrastructure-s-subsidiary-receives-letter-of-allotment-for-60-crore-gati-s",
-      "source": "equitybulls.com",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "JSW Infrastructure subsidiary got approval for ₹60 crore cargo terminal project in Punjab.",
-      "enriched": true
-    },
-    {
-      "id": "ncfb74fe6695b",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Apsis Aerocom Limited’s Rs 31.8 crore book covers H2 FY27 needs | Market News & Analysis",
-      "url": "https://www.multibagg.ai/market-pulse/articles/apsis-aerocom-order-book-cover-ppt-cmwfjf1aq003r2rl90wmd4qaq",
-      "source": "multibagg.ai",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Apsis Aerocom's order book of ₹32 crore covers its revenue needs for the second half of FY27.",
-      "enriched": true
-    },
-    {
       "id": "nf97a888b5402",
       "ticker": "AURIONPRO",
       "company": "Aurionpro Solutions Limited",
@@ -12627,7 +12550,7 @@
       "mood": "positive",
       "takeaway": "E2E Networks announces expansion of Nvidia GPU capacity for AI cloud services.",
       "enriched": true,
-      "sources_count": 5
+      "sources_count": 3
     },
     {
       "id": "nfa2014ab6be7",
