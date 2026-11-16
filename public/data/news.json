@@ -1,13 +1,51 @@
 {
-  "generated_at": "2026-11-15T19:58:39.522Z",
+  "generated_at": "2026-11-16T10:19:00.668Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 152,
-    "watchlist": 657,
-    "universe": 52,
-    "total": 709
+    "watchlist": 661,
+    "universe": 54,
+    "total": 715
   },
   "items": [
+    {
+      "id": "n9f1ddd058836",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
+      "scope": [
+        "universe"
+      ],
+      "title": "Biocon receives US FDA approval for Pebrilzo injection",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLTVFT0VYZ0xxZS1NV01aeFZseS1QN2xBaV9PWW4yckJZWHFOUXNNcDZjdllGenJ2QTlHYlRLRXZneU9ONWNINU1ROE1EdlhpYU1kWTBGdFNzNlN3WmxYRlZBaTI4NmhFczJJSmNhZUNyR1ppay1xRkpuUWJvZEJGckNoMTU0dU9LM1BLdmhrRXcyUQ?oc=5",
+      "source": "Express Pharma",
+      "date": "2026-11-16T06:57:21.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Biocon gets US FDA approval for Pebrilzo injection, allowing it to sell the product in America.",
+      "enriched": true
+    },
+    {
+      "id": "n833b16934085",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
+      "scope": [
+        "universe"
+      ],
+      "title": "Alembic Pharmaceuticals shines on receiving USFDA final approval for Binimetinib tablets",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVVd4Y2d1bHA0Ym8yLW1KcldjSDRObWtrdGlUbmEtQUEtcWkyVlIzQXFQUUtaUTVnNXd1TWpqWU1EREhCTVdqLWJ5UlZKVzhNXzJKbTdUZG5zNkFSTTdsZ293UW90NHVJNlA0Tk13ZFlCM1phSGw0OUNsNjdkdEFQbUZOVEF1bjEtWGktQXdOd1pBSWt4TXFEZ1Z0NWJPUkFnblNQVFNycXBjQmxQTVlLekxqczE?oc=5",
+      "source": "Udaipur Kiran",
+      "date": "2026-11-16T05:07:47.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Alembic Pharmaceuticals receives final US FDA approval for Binimetinib tablets.",
+      "enriched": true
+    },
     {
       "id": "nb221d315e9ba",
       "ticker": "DEEDEV",
@@ -163,6 +201,26 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Xpro India seeks approval for Rs. 370 crore subsidiary transactions.",
+      "enriched": true
+    },
+    {
+      "id": "n57e535683520",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Apsis Aerocom Receives ₹93.99 Lakh Supply Order from Aerospace Customer",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV05lV1V2Mk9BeDFudnU0X3VMdWtwRzZqeGpKZ2xYNENvNDZ2bGhhdVVNdXR3VjdOdHQzMzI2LVdTdnUwVFZkeTJBc0N0YlQ0eGdnSHNidUs1N2tvRzA2elBxWFB2Qlk0SjAyNG51SHRpTXJEXzFIWktCM2g0MTE4U1Z3VGVwdWgwc2d3X2xEWUJMMHdQSThjbUlhU1BvVEo4djZjaWh3TGVqOWtDaWlF?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-11-13T11:55:40.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Apsis Aerocom receives ₹94 lakh supply order from aerospace customer.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -379,7 +437,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Meesho acquires Kirana Club for Rs 186.71 crore to expand its business reach.",
-      "sources_count": 2,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -517,7 +575,7 @@
       "mood": "positive",
       "takeaway": "Surya Roshni posted record revenue in Q2 FY27.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "nb0cba5e81054",
@@ -634,7 +692,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Shaily Engineering Plastics discussed Q2 FY27 results in earnings call.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -1478,7 +1536,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "CCI approves Devyani-Sapphire merger and Adani's Rs 3,050 crore IntelliSmart acquisition.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -5341,6 +5399,25 @@
       "takeaway": "Aurionpro Solutions reported revenue growth in Q1 FY27 earnings call.",
       "enriched": true,
       "sources_count": 2
+    },
+    {
+      "id": "na3f8fe65c071",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Dee Development Engineers (NSE:DEEDEV): What Does Its August 2026 Order Book Update Reveal?",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMzFTTGFMYk1kSW43bmpacXl1QjVFV3N5SXVGMHhZWG9ublFYTkczZ29pSDJXakZRd1pPQ0t0UVduNGVvQWQxb0pzTnBJazhTcEJZQTFTUnpBc0NucGh6M1ZxUGpPYS1oeEZNUHhtel9aU0JBZ3diUmNsQ2o0MGQ1VHlyaFUtSWJOVnBiSjE3Wk1IeXAxQTVpOGRUMUxlYWctZ1lydjdLYkNVdGx3UWFWSjF3NkxjSklYYTVGcHhwUks2Z19uYlRHZE1HUG5nNDQ?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-09-09T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Dee Development Engineers provides an update on its order book position as of August 2026.",
+      "enriched": true
     },
     {
       "id": "n2fdb63a5437a",
@@ -9223,25 +9300,6 @@
       "sources_count": 2
     },
     {
-      "id": "n88323ea56af9",
-      "ticker": "SBCL",
-      "company": "Shivalik Bimetal Controls Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Results: Shivalik Bimetal Controls Limited Beat Earnings Expectations And Analysts Now Have New Forecasts",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzQm9KTWhBWHZDc01HdVcxXzNtM3c5REhXbTBzTkx4RUh0LXV6c3VqLTRPUzVJbXZWZF9OaGM2VzM1QjRmeDhpNlZPWlkzNlJLVEl6ZFBkTWg?oc=5",
-      "source": "webull.com",
-      "date": "2026-08-08T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Shivalik Bimetal Controls beat earnings expectations, analysts updated forecasts.",
-      "enriched": true
-    },
-    {
       "id": "n044867b6c16e",
       "ticker": "DEEDEV",
       "company": "DEE Development Engineers Limited",
@@ -9375,6 +9433,82 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "GMM Pfaudler sees higher bookings in HET and PPT segments while PST segment declines.",
+      "enriched": true
+    },
+    {
+      "id": "nfa3dbf87dff2",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Abha Power and Steel Secures ₹1.20 Crore Order from Railway OEM | EquityBulls",
+      "url": "https://www.equitybulls.com/news/378861/abha-power-and-steel-secures-1-20-crore-order-from-railway-oem",
+      "source": "equitybulls.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Abha Power and Steel won a small ₹1.20 crore order from a railway equipment maker.",
+      "enriched": true
+    },
+    {
+      "id": "ncef322c6ad56",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "JSW Infrastructure’s Subsidiary Receives Letter of Allotment for ₹60 Crore Gati Shakti Cargo Terminal in Punjab | EquityBulls",
+      "url": "https://www.equitybulls.com/news/378860/jsw-infrastructure-s-subsidiary-receives-letter-of-allotment-for-60-crore-gati-s",
+      "source": "equitybulls.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "JSW Infrastructure subsidiary got approval for ₹60 crore cargo terminal project in Punjab.",
+      "enriched": true
+    },
+    {
+      "id": "ncfb74fe6695b",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Apsis Aerocom Limited’s Rs 31.8 crore book covers H2 FY27 needs | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/apsis-aerocom-order-book-cover-ppt-cmwfjf1aq003r2rl90wmd4qaq",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Apsis Aerocom's order book of ₹32 crore covers its revenue needs for the second half of FY27.",
+      "enriched": true
+    },
+    {
+      "id": "n39337896323c",
+      "ticker": "CMLL",
+      "company": "Caliber Mining and Logistics Limited",
+      "sector": "Oil Gas & Consumable Fuels",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Caliber Mining and Logistics reports strong Q2 FY27 results and future outlook | InvestyWise",
+      "url": "https://www.investywise.com/caliber-mining-and-logistics-q2-h1-fy27-earnings-transcript-released/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Caliber Mining reports strong Q2 FY27 results with positive future outlook.",
       "enriched": true
     },
     {
@@ -10344,6 +10478,25 @@
       "takeaway": "Unimech Aerospace has Rs 855 crore order book reshaping its revenue mix.",
       "enriched": true,
       "sources_count": 2
+    },
+    {
+      "id": "nc80c42ee12bc",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries India Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Vikram Solar Reports Q2 & H1 FY27 results; EBITDA per watt improves by 37% QoQ; Strengthens Business Mix and Order Inflow; 9 GW Cell Facility on Track to Produce First Cell in December 2026 - The Wire",
+      "url": "https://m.thewire.in/article/ptiprnews/vikram-solar-reports-q2-h1-fy27-results-ebitda-per-watt-improves-by-37-qoq-strengthens-business-mix-and-order-inflow-9-gw-cell-facility-on-track-to-produce-first-cell-in-december-2026",
+      "source": "m.thewire.in",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Vikram Solar reports strong Q2 results with 37% QoQ EBITDA improvement; 9 GW cell facility on track for December 2026.",
+      "enriched": true
     },
     {
       "id": "n8b3bff8769c0",
@@ -11683,83 +11836,6 @@
       "enriched": true
     },
     {
-      "id": "n8293e0d3b142",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Apsis Aerocom Receives ₹93.99 Lakh Supply Order from Aerospace Customer | EquityBulls",
-      "url": "https://www.equitybulls.com/news/378854/apsis-aerocom-receives-93-99-lakh-supply-order-from-aerospace-customer",
-      "source": "equitybulls.com",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Apsis Aerocom received a Rs 93.99 lakh supply order from an aerospace customer.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "nfa3dbf87dff2",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Abha Power and Steel Secures ₹1.20 Crore Order from Railway OEM | EquityBulls",
-      "url": "https://www.equitybulls.com/news/378861/abha-power-and-steel-secures-1-20-crore-order-from-railway-oem",
-      "source": "equitybulls.com",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Abha Power and Steel won a small ₹1.20 crore order from a railway equipment maker.",
-      "enriched": true
-    },
-    {
-      "id": "ncef322c6ad56",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "JSW Infrastructure’s Subsidiary Receives Letter of Allotment for ₹60 Crore Gati Shakti Cargo Terminal in Punjab | EquityBulls",
-      "url": "https://www.equitybulls.com/news/378860/jsw-infrastructure-s-subsidiary-receives-letter-of-allotment-for-60-crore-gati-s",
-      "source": "equitybulls.com",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "JSW Infrastructure subsidiary got approval for ₹60 crore cargo terminal project in Punjab.",
-      "enriched": true
-    },
-    {
-      "id": "ncfb74fe6695b",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Apsis Aerocom Limited’s Rs 31.8 crore book covers H2 FY27 needs | Market News & Analysis",
-      "url": "https://www.multibagg.ai/market-pulse/articles/apsis-aerocom-order-book-cover-ppt-cmwfjf1aq003r2rl90wmd4qaq",
-      "source": "multibagg.ai",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Apsis Aerocom's order book of ₹32 crore covers its revenue needs for the second half of FY27.",
-      "enriched": true
-    },
-    {
       "id": "nf97a888b5402",
       "ticker": "AURIONPRO",
       "company": "Aurionpro Solutions Limited",
@@ -12532,6 +12608,25 @@
       "enriched": true
     },
     {
+      "id": "n82c9d14e6636",
+      "ticker": "BALUFORGE",
+      "company": "Balu Forge Industries Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Balu Forge Industries approves share capital increase and ₹1,620 crore warrant issue | InvestyWise",
+      "url": "https://www.investywise.com/balu-forge-industries-ltd-board-meeting-outcomes-capital-increase/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Preferential Issue",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Balu Forge approved share capital increase and ₹1,620 crore warrant issue to raise funds.",
+      "enriched": true
+    },
+    {
       "id": "n2b042f714980",
       "ticker": "STLTECH",
       "company": "Sterlite Technologies Limited",
@@ -12612,6 +12707,25 @@
       "sources_count": 6
     },
     {
+      "id": "na382402feed2",
+      "ticker": "LAXMIDENTL",
+      "company": "Laxmi Dental Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Laxmi Dental links scanner subscriptions to monthly business | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/laxmi-dental-scanner-subscriptions-model-concall-cmw6nxo3y00182fphb7tx99vu",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Other",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Laxmi Dental introduces subscription model linking scanner usage to monthly business.",
+      "enriched": true
+    },
+    {
       "id": "nfa2014ab6be7",
       "ticker": "SAPPHIRE",
       "company": "Sapphire Foods India Limited",
@@ -12629,7 +12743,7 @@
       "mood": "positive",
       "takeaway": "Sapphire-Devyani merger gets competition regulator approval, consolidating KFC and Pizza Hut franchise operations.",
       "enriched": true,
-      "sources_count": 4
+      "sources_count": 5
     },
     {
       "id": "na98a2b522621",
