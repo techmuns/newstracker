@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-16T10:19:00.668Z",
+  "generated_at": "2026-11-16T23:40:29.279Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 152,
-    "watchlist": 661,
+    "portfolio": 154,
+    "watchlist": 668,
     "universe": 54,
-    "total": 715
+    "total": 722
   },
   "items": [
     {
@@ -201,26 +201,6 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Xpro India seeks approval for Rs. 370 crore subsidiary transactions.",
-      "enriched": true
-    },
-    {
-      "id": "n57e535683520",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Apsis Aerocom Receives ₹93.99 Lakh Supply Order from Aerospace Customer",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV05lV1V2Mk9BeDFudnU0X3VMdWtwRzZqeGpKZ2xYNENvNDZ2bGhhdVVNdXR3VjdOdHQzMzI2LVdTdnUwVFZkeTJBc0N0YlQ0eGdnSHNidUs1N2tvRzA2elBxWFB2Qlk0SjAyNG51SHRpTXJEXzFIWktCM2g0MTE4U1Z3VGVwdWgwc2d3X2xEWUJMMHdQSThjbUlhU1BvVEo4djZjaWh3TGVqOWtDaWlF?oc=5",
-      "source": "EquityBulls",
-      "date": "2026-11-13T11:55:40.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Apsis Aerocom receives ₹94 lakh supply order from aerospace customer.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -853,7 +833,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "GMM Pfaudler released Q2 FY27 earnings call audio.",
-      "sources_count": 3,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -1536,7 +1516,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "CCI approves Devyani-Sapphire merger and Adani's Rs 3,050 crore IntelliSmart acquisition.",
-      "sources_count": 2,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -2686,6 +2666,26 @@
       "mood": "neutral",
       "takeaway": "Meesho's non-executive independent director has resigned from the board.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nafec2e4b24e0",
+      "ticker": "APTUS",
+      "company": "Aptus Value Housing Finance India Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Aptus Value Housing Finance sets Nov 5 date for Q2FY27 earnings call",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZmgxN0RnN2oydUQ2X2RZSVZUX0tDUTFUYWJPc2tqUE1ndkZyLWthWXE3QzU3eF9GSEtVdDlfSU1WRTYyN29mTHR2QVotVGJxOUZyM2ctd0Y2czQ2REdjNm9FMVhUYjdvWUFiS216ZUpHdWRVSkNRbjJmZmlaOWVGTzlzdHZ1WWhQUXJ4V01zUG9WcFFrc2NGb1YtYUFpRng2YzMwQkxEajJ5TzZsVEhYbWM2cTA1YjNKVEN0WUJB?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-10-14T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Aptus Value Housing Finance scheduled earnings call for Q2FY27 on November 5.",
       "enriched": true
     },
     {
@@ -7195,7 +7195,8 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Man Industries reported record EBITDA in Q1 FY27.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 3
     },
     {
       "id": "nd17110e40027",
@@ -9300,26 +9301,6 @@
       "sources_count": 2
     },
     {
-      "id": "n044867b6c16e",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "DEE order book hits Rs 2,586 crore, 92% process piping | Market News & Analysis",
-      "url": "https://www.multibagg.ai/market-pulse/articles/dee-process-piping-order-book-ppt-cmwi2isx200o32rpbqem7vn31",
-      "source": "multibagg.ai",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "DEE's order book stands at Rs 2,586 crore with 92% from process piping projects.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "n317e43cfe330",
       "ticker": "DEEDEV",
       "company": "DEE Development Engineers Limited",
@@ -9336,6 +9317,26 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "DEE Development Engineers wins ₹46 crore contract from US-based engineering firm.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n044867b6c16e",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "DEE order book hits Rs 2,586 crore, 92% process piping | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/dee-process-piping-order-book-ppt-cmwi2isx200o32rpbqem7vn31",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "DEE's order book stands at Rs 2,586 crore with 92% from process piping projects.",
       "sources_count": 2,
       "enriched": true
     },
@@ -9433,63 +9434,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "GMM Pfaudler sees higher bookings in HET and PPT segments while PST segment declines.",
-      "enriched": true
-    },
-    {
-      "id": "nfa3dbf87dff2",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Abha Power and Steel Secures ₹1.20 Crore Order from Railway OEM | EquityBulls",
-      "url": "https://www.equitybulls.com/news/378861/abha-power-and-steel-secures-1-20-crore-order-from-railway-oem",
-      "source": "equitybulls.com",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Abha Power and Steel won a small ₹1.20 crore order from a railway equipment maker.",
-      "enriched": true
-    },
-    {
-      "id": "ncef322c6ad56",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "JSW Infrastructure’s Subsidiary Receives Letter of Allotment for ₹60 Crore Gati Shakti Cargo Terminal in Punjab | EquityBulls",
-      "url": "https://www.equitybulls.com/news/378860/jsw-infrastructure-s-subsidiary-receives-letter-of-allotment-for-60-crore-gati-s",
-      "source": "equitybulls.com",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "JSW Infrastructure subsidiary got approval for ₹60 crore cargo terminal project in Punjab.",
-      "enriched": true
-    },
-    {
-      "id": "ncfb74fe6695b",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Apsis Aerocom Limited’s Rs 31.8 crore book covers H2 FY27 needs | Market News & Analysis",
-      "url": "https://www.multibagg.ai/market-pulse/articles/apsis-aerocom-order-book-cover-ppt-cmwfjf1aq003r2rl90wmd4qaq",
-      "source": "multibagg.ai",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Apsis Aerocom's order book of ₹32 crore covers its revenue needs for the second half of FY27.",
       "enriched": true
     },
     {
@@ -9863,6 +9807,25 @@
       "enriched": true
     },
     {
+      "id": "nbbde18a0210e",
+      "ticker": "NORTHARC",
+      "company": "Northern Arc Capital Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Northern Arc Capital Q2FY27 Earnings Call Scheduled | Kalkine India",
+      "url": "https://www.kalkine.co.in/article/announcements/northern-arc-capital-nsenortharc-what-is-the-q2fy27-earnings-call-about",
+      "source": "kalkine.co.in",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Northern Arc Capital scheduled Q2FY27 earnings call.",
+      "enriched": true
+    },
+    {
       "id": "n1f0b6b6058a5",
       "ticker": "APSISAERO",
       "company": "Apsis Aerocom Limited",
@@ -10169,6 +10132,25 @@
       "takeaway": "Net profit jumped 167% to ₹216 crore in Q2FY27; board approved a buyback program.",
       "enriched": true,
       "sources_count": 2
+    },
+    {
+      "id": "n57faa4b8d0f7",
+      "ticker": "MEDIASSIST",
+      "company": "Medi Assist Healthcare Services Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Medi Assist Healthcare Services Limited 2026 Buyback — Record Date, Price & Acceptance Ratio | InvestorZone",
+      "url": "https://investorzone.in/buyback/medi-assist-healthcare-services-limited-2026",
+      "source": "investorzone.in",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Buyback",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Medi Assist Healthcare Services announced 2026 buyback with record date and acceptance ratio set.",
+      "enriched": true
     },
     {
       "id": "nace3c08bb1e7",
@@ -10824,6 +10806,44 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "CCI approved AB Renewables' acquisition of Solenergi Power for Rs 17,200 crore.",
+      "enriched": true
+    },
+    {
+      "id": "n2efcccdf33b9",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "CCI clears five major deals across food, energy, fintech and telecom sectors - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/news/india/cci-clears-five-major-deals-across-food-energy-fintech-and-telecom-sectors/articleshow/135405122.cms",
+      "source": "economictimes.indiatimes.com",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Competition Commission cleared a deal involving Sapphire Foods along with four other transactions.",
+      "enriched": true
+    },
+    {
+      "id": "n5dec6dfbe57e",
+      "ticker": "SAPPHIRE",
+      "company": "Sapphire Foods India Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Current Affairs 4 November 2026",
+      "url": "https://affairscloud.com/current-affairs-4-november-2026/",
+      "source": "affairscloud.com",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Competition Commission approved a transaction involving Sapphire Foods.",
       "enriched": true
     },
     {
@@ -11836,6 +11856,83 @@
       "enriched": true
     },
     {
+      "id": "n8293e0d3b142",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Apsis Aerocom Receives ₹93.99 Lakh Supply Order from Aerospace Customer | EquityBulls",
+      "url": "https://www.equitybulls.com/news/378854/apsis-aerocom-receives-93-99-lakh-supply-order-from-aerospace-customer",
+      "source": "equitybulls.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Apsis Aerocom received ₹94 lakh supply order from aerospace customer.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nfa3dbf87dff2",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Abha Power and Steel Secures ₹1.20 Crore Order from Railway OEM | EquityBulls",
+      "url": "https://www.equitybulls.com/news/378861/abha-power-and-steel-secures-1-20-crore-order-from-railway-oem",
+      "source": "equitybulls.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Abha Power and Steel won a small ₹1.20 crore order from a railway equipment maker.",
+      "enriched": true
+    },
+    {
+      "id": "ncef322c6ad56",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "JSW Infrastructure’s Subsidiary Receives Letter of Allotment for ₹60 Crore Gati Shakti Cargo Terminal in Punjab | EquityBulls",
+      "url": "https://www.equitybulls.com/news/378860/jsw-infrastructure-s-subsidiary-receives-letter-of-allotment-for-60-crore-gati-s",
+      "source": "equitybulls.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "JSW Infrastructure subsidiary got approval for ₹60 crore cargo terminal project in Punjab.",
+      "enriched": true
+    },
+    {
+      "id": "ncfb74fe6695b",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Apsis Aerocom Limited’s Rs 31.8 crore book covers H2 FY27 needs | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/apsis-aerocom-order-book-cover-ppt-cmwfjf1aq003r2rl90wmd4qaq",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Apsis Aerocom's order book of ₹32 crore covers its revenue needs for the second half of FY27.",
+      "enriched": true
+    },
+    {
       "id": "nf97a888b5402",
       "ticker": "AURIONPRO",
       "company": "Aurionpro Solutions Limited",
@@ -12111,6 +12208,26 @@
       "enriched": true
     },
     {
+      "id": "n9e19ec87044f",
+      "ticker": "SHADOWFAX",
+      "company": "Shadowfax Technologies Limited",
+      "sector": "Services",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Shadowfax Technologies launches channel partner program targeting 1,000 partners",
+      "url": "https://scanx.trade/stock-market-news/companies/shadowfax-technologies-targets-1-000-channel-partners-shadowfax-360/49955099",
+      "source": "scanx.trade",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Shadowfax launches partner program aiming to onboard 1,000 channel partners to expand distribution network.",
+      "enriched": true
+    },
+    {
       "id": "n984c28c6a60a",
       "ticker": "SBCL",
       "company": "Shivalik Bimetal Controls Limited",
@@ -12222,6 +12339,25 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Sterlite Technologies announces ₹3,000 crore capex plan focused on AI growth opportunities.",
+      "enriched": true
+    },
+    {
+      "id": "n9ee2b9d6a6a8",
+      "ticker": "STLTECH",
+      "company": "Sterlite Technologies Limited",
+      "sector": "Telecommunication",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "STL Announces Annual Capex of INR 1,000 Crore Through FY29 for Capacity Expansion - Wire & Cable India",
+      "url": "https://www.wirecable.in/stl-announces-annual-capex/",
+      "source": "wirecable.in",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Capacity Expansion",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "STL plans to spend Rs 1,000 crore on expanding capacity over the next five years through FY29.",
       "enriched": true
     },
     {
@@ -12704,7 +12840,7 @@
       "mood": "positive",
       "takeaway": "E2E Networks announces expansion of Nvidia GPU capacity for AI cloud services.",
       "enriched": true,
-      "sources_count": 6
+      "sources_count": 5
     },
     {
       "id": "na382402feed2",
@@ -12743,7 +12879,7 @@
       "mood": "positive",
       "takeaway": "Sapphire-Devyani merger gets competition regulator approval, consolidating KFC and Pizza Hut franchise operations.",
       "enriched": true,
-      "sources_count": 5
+      "sources_count": 2
     },
     {
       "id": "na98a2b522621",
@@ -13887,22 +14023,22 @@
       "enriched": true
     },
     {
-      "id": "n9552bfe7b0e1",
+      "id": "nf2c0eef7d4c4",
       "ticker": "DENTALKART",
       "company": "Vasa Denticity Limited",
       "sector": "Healthcare",
       "scope": [
         "watchlist"
       ],
-      "title": "Vasa Therapeutics Announces Positive Topline Results from Randomized, Placebo-Controlled Phase 1c Trial of VS-041 for Treatment of Heart Failure with Preserved Ejection Fraction (HFpEF)",
-      "url": "https://www.prnewswire.com/news-releases/vasa-therapeutics-announces-positive-topline-results-from-randomized-placebo-controlled-phase-1c-trial-of-vs-041-for-treatment-of-heart-failure-with-preserved-ejection-fraction-hfpef-302936860.html",
-      "source": "prnewswire.com",
+      "title": "Vasa’s VS-041 shows positive Phase Ic results in HFpEF trial",
+      "url": "https://www.yahoo.com/news/science/articles/vasa-vs-041-shows-positive-101445834.html",
+      "source": "yahoo.com",
       "date": "",
       "topic": "Approvals&IP",
       "keyword": "Trial",
-      "importance": "medium",
+      "importance": "high",
       "mood": "positive",
-      "takeaway": "Vasa Therapeutics reports positive results from Phase 1c trial of heart failure drug VS-041.",
+      "takeaway": "Vasa's VS-041 drug shows positive Phase Ic trial results for heart failure treatment.",
       "enriched": true,
       "sources_count": 2
     },
