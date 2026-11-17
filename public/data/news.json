@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-16T23:40:29.279Z",
+  "generated_at": "2026-11-17T11:14:30.609Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 154,
-    "watchlist": 668,
+    "portfolio": 156,
+    "watchlist": 671,
     "universe": 54,
-    "total": 722
+    "total": 725
   },
   "items": [
     {
@@ -1516,7 +1516,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "CCI approves Devyani-Sapphire merger and Adani's Rs 3,050 crore IntelliSmart acquisition.",
-      "sources_count": 4,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -2666,26 +2666,6 @@
       "mood": "neutral",
       "takeaway": "Meesho's non-executive independent director has resigned from the board.",
       "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "nafec2e4b24e0",
-      "ticker": "APTUS",
-      "company": "Aptus Value Housing Finance India Limited",
-      "sector": "Financial Services",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Aptus Value Housing Finance sets Nov 5 date for Q2FY27 earnings call",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZmgxN0RnN2oydUQ2X2RZSVZUX0tDUTFUYWJPc2tqUE1ndkZyLWthWXE3QzU3eF9GSEtVdDlfSU1WRTYyN29mTHR2QVotVGJxOUZyM2ctd0Y2czQ2REdjNm9FMVhUYjdvWUFiS216ZUpHdWRVSkNRbjJmZmlaOWVGTzlzdHZ1WWhQUXJ4V01zUG9WcFFrc2NGb1YtYUFpRng2YzMwQkxEajJ5TzZsVEhYbWM2cTA1YjNKVEN0WUJB?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-10-14T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Aptus Value Housing Finance scheduled earnings call for Q2FY27 on November 5.",
       "enriched": true
     },
     {
@@ -9807,25 +9787,6 @@
       "enriched": true
     },
     {
-      "id": "nbbde18a0210e",
-      "ticker": "NORTHARC",
-      "company": "Northern Arc Capital Limited",
-      "sector": "Financial Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Northern Arc Capital Q2FY27 Earnings Call Scheduled | Kalkine India",
-      "url": "https://www.kalkine.co.in/article/announcements/northern-arc-capital-nsenortharc-what-is-the-q2fy27-earnings-call-about",
-      "source": "kalkine.co.in",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Northern Arc Capital scheduled Q2FY27 earnings call.",
-      "enriched": true
-    },
-    {
       "id": "n1f0b6b6058a5",
       "ticker": "APSISAERO",
       "company": "Apsis Aerocom Limited",
@@ -10111,6 +10072,25 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Solar Industries has a ₹20,178 crore order book with revenue doubling.",
+      "enriched": true
+    },
+    {
+      "id": "ne858b9f63400",
+      "ticker": "SOLARINDS",
+      "company": "Solar Industries India Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Vikram Solar Reports Q2 & H1 FY27 results; EBITDA per watt improves by 37% QoQ; Strengthens Business Mix and Order Inflow; 9 GW Cell Facility on Track to Produce First Cell in December 2026",
+      "url": "https://www.prnewswire.com/in/news-releases/vikram-solar-reports-q2--h1-fy27-results-ebitda-per-watt-improves-by-37-qoq-strengthens-business-mix-and-order-inflow-9-gw-cell-facility-on-track-to-produce-first-cell-in-december-2026-302940059.html",
+      "source": "prnewswire.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Vikram Solar reports improved margins and strong order inflow; 9 GW cell facility to start production in December 2026.",
       "enriched": true
     },
     {
@@ -10710,6 +10690,25 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Jyoti Structures secured a ₹690 crore order for transmission line work in Gujarat.",
+      "enriched": true
+    },
+    {
+      "id": "ndb2dac401cd2",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Zen Technologies Q2 FY27: Strong execution, order pipeline drive revenue visibility- Moneycontrol.com",
+      "url": "https://www.moneycontrol.com/news/business/moneycontrol-research/zen-technologies-q2-fy27-strong-execution-order-pipeline-drive-revenue-visibility-14066971.html",
+      "source": "moneycontrol.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Zen Technologies reports strong Q2 execution with healthy order pipeline driving future revenue visibility.",
       "enriched": true
     },
     {
@@ -12803,6 +12802,26 @@
       "enriched": true
     },
     {
+      "id": "n8ce9c9128099",
+      "ticker": "VIVIDEL",
+      "company": "Vivid Electromech Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "V.L. Infraprojects Reports H1 FY27 Total Income of ₹71.79 Crore, up 14.14% YoY | EquityBulls",
+      "url": "https://www.equitybulls.com/news/379079/v-l-infraprojects-reports-h1-fy27-total-income",
+      "source": "equitybulls.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Acquisition",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "V.L. Infraprojects reported H1 FY27 revenue of ₹71.79 crore, up 14% year-on-year.",
+      "enriched": true
+    },
+    {
       "id": "na97546bc0b37",
       "ticker": "MONOLITH",
       "company": "Monolithisch India Limited",
@@ -12843,25 +12862,6 @@
       "sources_count": 5
     },
     {
-      "id": "na382402feed2",
-      "ticker": "LAXMIDENTL",
-      "company": "Laxmi Dental Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Laxmi Dental links scanner subscriptions to monthly business | Market News & Analysis",
-      "url": "https://www.multibagg.ai/market-pulse/articles/laxmi-dental-scanner-subscriptions-model-concall-cmw6nxo3y00182fphb7tx99vu",
-      "source": "multibagg.ai",
-      "date": "",
-      "topic": "Other",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Laxmi Dental introduces subscription model linking scanner usage to monthly business.",
-      "enriched": true
-    },
-    {
       "id": "nfa2014ab6be7",
       "ticker": "SAPPHIRE",
       "company": "Sapphire Foods India Limited",
@@ -12879,7 +12879,26 @@
       "mood": "positive",
       "takeaway": "Sapphire-Devyani merger gets competition regulator approval, consolidating KFC and Pizza Hut franchise operations.",
       "enriched": true,
-      "sources_count": 2
+      "sources_count": 5
+    },
+    {
+      "id": "na382402feed2",
+      "ticker": "LAXMIDENTL",
+      "company": "Laxmi Dental Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Laxmi Dental links scanner subscriptions to monthly business | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/laxmi-dental-scanner-subscriptions-model-concall-cmw6nxo3y00182fphb7tx99vu",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Other",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Laxmi Dental introduces subscription model linking scanner usage to monthly business.",
+      "enriched": true
     },
     {
       "id": "na98a2b522621",
@@ -14059,6 +14078,46 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Kasturi Metal Composite promoter group acquired additional shares in the company.",
+      "enriched": true
+    },
+    {
+      "id": "n0eaae73d76f6",
+      "ticker": "SHADOWFAX",
+      "company": "Shadowfax Technologies Limited",
+      "sector": "Services",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Shadowfax Technologies Looks To Reward Employees With 1.47 Crore More Stock Options - Sahyadri Startups",
+      "url": "https://sahyadristartups.com/news/shadowfax-technologies-looks-to-reward-employees-with-1-47-crore-more-stock-options/",
+      "source": "sahyadristartups.com",
+      "date": "",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Shadowfax plans to grant 1.47 crore additional stock options to employees.",
+      "enriched": true
+    },
+    {
+      "id": "n4f12dfa8d6b3",
+      "ticker": "TONBO",
+      "company": "Tonbo Imaging India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "AZB & Partners Advised Amansa Investments On INR 170 Crore Pre-IPO Acquisition In Tonbo Imaging",
+      "url": "https://www.legaleraonline.com/deal-street/azb-partners-advised-amansa-investments-tonbo-imaging-pre-ipo-acquisition-991646",
+      "source": "legaleraonline.com",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Amansa Investments acquired ₹170 crore stake in Tonbo Imaging in pre-IPO deal.",
       "enriched": true
     }
   ]
