@@ -1,13 +1,52 @@
 {
-  "generated_at": "2026-11-18T10:40:44.594Z",
+  "generated_at": "2026-11-18T22:18:05.072Z",
   "source": "google-news+valuepickr+claude",
   "counts": {
-    "portfolio": 156,
+    "portfolio": 157,
     "watchlist": 675,
     "universe": 53,
     "total": 728
   },
   "items": [
+    {
+      "id": "n8b46e7424d02",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "DEE Dev Engineers releases Q2FY27 earnings call recording; PAT up 31.8%",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUDRfYmp4Q3plQi05Y3E0aGphTXU2NEoxUVlDS2M2VFU1Nnlna2VmeXJpUzh1eDNOci16T1J4QTI5bVJoM0g2UlltZkdYX3VHaG5nc0pLM3dlZ1lGOWVidDdRZjdldi1GWWk4SklnVXZRV3l1aEpWMjJQek1ndG1yeVV5dWdLTlBra1pSVWdBY0c0NVBLMmxSU0VqZlZheWRWZ1V2Y19PM242RTUtZFRLNEE1dHVmWENYSUdZ?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-11-18T16:09:25.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "DEE Development Engineers' profit after tax grew 31.8% in Q2FY27.",
+      "enriched": true
+    },
+    {
+      "id": "nff1ab2a2ef61",
+      "ticker": "TONBO",
+      "company": "Tonbo Imaging India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Tonbo Imaging Secures ₹35.62 Crore Order From Ministry Of Defence",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVDEtRkxWSHlpd2RLYXY4Y1pRVzFYT1Iwcy12dDBNa3ZMUzdoa3U1R2VRMnkxOHktd3l4enRMRFh0akYtZmNEV0h6cmRPVVpieVU3WXNPUkpXeHRMLWxlRG5kOVM5enlucWJBeWtteDNELWpEYkRsbWEyZjM5ekhBRmxLeHQ0WnRaQzNwalRWQ21Ebmtt?oc=5",
+      "source": "Sahi",
+      "date": "2026-11-18T14:45:51.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Tonbo Imaging won ₹35.62 crore order from Ministry of Defence.",
+      "enriched": true
+    },
     {
       "id": "n1930a2e5db9d",
       "ticker": "GOLDIAM",
@@ -1383,25 +1422,6 @@
       "sources_count": 2
     },
     {
-      "id": "n22cfaf90fe19",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Meesho invests ₹399.99 crore in payments subsidiary via rights issue",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQelJWN1U0UFBjaTRUMERxZW1ob0NRUDNrTGJCLWNlS3Q3OUMxZ2lWU1VjSEx5OEhxNDI1d0RndUFnX1RaVU1ZRkFFcGRsSWg5d25iYkxhUzJDcWRhQ1NHS0VlWlFjdkVzSmtSRXpaWVJraW1lNDhBMk1PYUJlUzhFRmpQT3hYc2NQakZqby0xckhOcWQ4NFZKSFFRcW5GRW15WWNCbFpOdnV4QWxPbF9oeFkwVQ?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-11-02T08:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Rights Issue",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Meesho invests ₹399.99 crore in payments subsidiary via rights issue.",
-      "enriched": true
-    },
-    {
       "id": "ne160007f1f14",
       "ticker": "BALUFORGE",
       "company": "Balu Forge Industries Limited",
@@ -1909,7 +1929,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Senores Pharmaceuticals announced ₹43 crore capacity expansion across its subsidiaries.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -2490,22 +2510,22 @@
       "enriched": true
     },
     {
-      "id": "n517bbb69f7ed",
+      "id": "n5d600a946784",
       "ticker": "ZENTEC",
       "company": "Zen Technologies Limited",
       "sector": "Capital Goods",
       "scope": [
         "watchlist"
       ],
-      "title": "Zen Technologies reports fire at Hyderabad subsidiary's production facility; estimates Rs 4 crore loss, confirms insurance coverage",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNY19DOUx6d3dBTExTTWhCQ3hZQWh5VldYM0FSVHZtTEQ1a1lzOTJJRW54MHVZUlpmMWpTaE5xWE9jaWdVaS1yRHdtU0RSbkNIRVl4elBGT1hrYVVvbThUR0hVb3FJRTgwczVicjBYMERmTG1RX1doLWMzY3N3a1doems4dHpmU0dpTktMUkI1dXF4YWY0eUlvX0FrVkZGT2pNTzN5di1IQ0dOV2pBb1ZmdE9NVFpWaG1nMmxxZ0N0UzNjOTdGZS1zWlMtXzRIUTlodkVmX2FrZzk0R2JDU1BaeHdTVXpTNkljWTEtWHNyUUJBbEUwc3V6TkdTVTDSAYICQVVfeXFMT3VEc0laT2UtZW1GWGR4NmRPaE40NlpUR2J6b2VOR3JZUjlSRUdOOHlPRWdtWWpJUGpfdDdOU3dTaG5LaTM4ZDhtdTJYT0l1Sm1CeklhSENJNm9adEx0RF9DTmdLaUNlaDlxQ2wtZXZFbjcxMjRPT2sxSWlIRHBHNG5FdW9vN0JHSlFYdm1ORlJ5QzNDc2pZQ24zSWVQY1NGR1hDejgxMEllZGJyRlJPSXUwR3lsWlBYanc0MWMyc2xGNDdZRlFRMEtIbk1FYXNLZ0ZESWVsbWFHclJwVXRVaUQ2ejduZW9PbFlhSFN5THpENGhkaXEtTHl6SHRIeWlpNHBB?oc=5",
-      "source": "ET Now",
-      "date": "2026-10-19T03:53:08.000Z",
+      "title": "Zen Technologies Reports Fire Incident at Subsidiary UTS Production Facility",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMWRNQjNLeHhkd1QtTllteVJmeWNzTE5DNXQ2WHFweVN3TVdfOFFYSXZUYlpmd2wzZ2FyV3FyQjhNOHJIUXBqdC1GM3d4UUhHSklZWlFWVlZuUlVCeXNpcUF3WE8xUDFXOHNTMTgzWHlMUE9pY1h0dlV0dVBWS2JGUllWdlJva0pzbTk0dVBMaFllckR3WFlEOGNSUGc1NWxmcU1jZXRBSS1EX3ZqVlh1Y29US1IxWjJMT3BZODFieDI?oc=5",
+      "source": "Kalkine Media",
+      "date": "2026-10-19T07:00:00.000Z",
       "topic": "Trouble",
       "keyword": "Fire",
       "importance": "medium",
       "mood": "negative",
-      "takeaway": "Fire at Zen Technologies' Hyderabad facility causes Rs 4 crore loss, insured.",
+      "takeaway": "Fire incident occurred at subsidiary UTS production facility, potentially disrupting operations.",
       "sources_count": 2,
       "enriched": true
     },
@@ -9203,6 +9223,26 @@
       "enriched": true
     },
     {
+      "id": "nace3c08bb1e7",
+      "ticker": "TONBO",
+      "company": "Tonbo Imaging India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Tonbo Imaging ko mila bada European contract: Potential order value **€13 Million**! | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/aerospace-defense/Tonbo-Imaging-Secures-Strategic-European-Export-Order-With-13-Million-Euro-Potential/6ae386a8c6c6dccbb90bd334",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Tonbo Imaging wins European contract worth €13 million.",
+      "enriched": true
+    },
+    {
       "id": "n3035e0c478e8",
       "ticker": "GOLDIAM",
       "company": "Goldiam International Limited",
@@ -9767,25 +9807,6 @@
       "enriched": true
     },
     {
-      "id": "n1f0b6b6058a5",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Apsis Aerocom Limited H1 capex reduces cash, retains net cash | Market News & Analysis",
-      "url": "https://www.multibagg.ai/market-pulse/articles/apsis-aerocom-h1-capex-cash-ppt-cmwfjeuet003q2rl9qx4qhj0m",
-      "source": "multibagg.ai",
-      "date": "",
-      "topic": "Growth",
-      "keyword": "Capex",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Apsis Aerocom's H1 capex spending reduced cash reserves while maintaining net cash position.",
-      "enriched": true
-    },
-    {
       "id": "nf7de43564d5f",
       "ticker": "LAXMIDENTL",
       "company": "Laxmi Dental Limited",
@@ -10033,26 +10054,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Medi Assist Healthcare Services announced 2026 buyback with record date and acceptance ratio set.",
-      "enriched": true
-    },
-    {
-      "id": "nace3c08bb1e7",
-      "ticker": "TONBO",
-      "company": "Tonbo Imaging India Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Tonbo Imaging ko mila bada European contract: Potential order value **€13 Million**! | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/Hinglish/aerospace-defense/Tonbo-Imaging-Secures-Strategic-European-Export-Order-With-13-Million-Euro-Potential/6ae386a8c6c6dccbb90bd334",
-      "source": "whalesbook.com",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Tonbo Imaging wins European contract worth €13 million.",
       "enriched": true
     },
     {
@@ -10615,83 +10616,6 @@
       "enriched": true
     },
     {
-      "id": "n6843898783c0",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Meesho pumps Rs 400 crore into loss-making payments arm as financial services push gathers pace",
-      "url": "https://www.moneycontrol.com/news/business/meesho-pumps-rs-400-crore-into-loss-making-payments-arm-as-financial-services-push-gathers-pace-14067419.html/amp",
-      "source": "moneycontrol.com",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Rights Issue",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Meesho invests Rs 400 crore into its loss-making payments arm to expand financial services.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n002827641072",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Meesho Q1 FY27: Revenue Up 48%, Net Loss Narrows to Rs 133 Crore | Kalkine India",
-      "url": "https://www.kalkine.co.in/article/growth/meesho-nse-meesho-revenue-jumps-48-and-losses-halve-as-the-marketplace-heads-into-its-biggest-festive-sale",
-      "source": "kalkine.co.in",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Meesho Q1 revenue grew 48% while losses narrowed to Rs 133 crore, showing improved financial performance.",
-      "enriched": true
-    },
-    {
-      "id": "n90b93d291992",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Meesho flags higher festive and tech costs in Q2 as margins improve | Company Business News",
-      "url": "https://www.livemint.com/companies/company-results/meesho-flags-higher-festive-and-tech-costs-in-q2-as-margins-improve-11793199216905.html",
-      "source": "livemint.com",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Acquisition",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Meesho reported higher festive and tech costs in Q2 while margins improved.",
-      "enriched": true
-    },
-    {
-      "id": "nd96ceac50ff2",
-      "ticker": "MEESHO",
-      "company": "Meesho Limited",
-      "sector": "Consumer Services",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Meesho Q2 FY27: Growth momentum continues as operating losses narrow- Moneycontrol.com",
-      "url": "https://www.moneycontrol.com/news/business/moneycontrol-research/meesho-q2-fy27-growth-momentum-continues-as-operating-losses-narrow-14064103.html",
-      "source": "moneycontrol.com",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Meesho's Q2 FY27 shows continued growth with narrowing operating losses.",
-      "enriched": true
-    },
-    {
       "id": "n8f5d66195230",
       "ticker": "SAPPHIRE",
       "company": "Sapphire Foods India Limited",
@@ -10980,6 +10904,83 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Senores Pharma approves ₹43 crore expansion plan for its subsidiary.",
+      "enriched": true
+    },
+    {
+      "id": "n6843898783c0",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho pumps Rs 400 crore into loss-making payments arm as financial services push gathers pace",
+      "url": "https://www.moneycontrol.com/news/business/meesho-pumps-rs-400-crore-into-loss-making-payments-arm-as-financial-services-push-gathers-pace-14067419.html/amp",
+      "source": "moneycontrol.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Rights Issue",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Meesho invests Rs 400 crore into its loss-making payments arm to expand financial services.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "n002827641072",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho Q1 FY27: Revenue Up 48%, Net Loss Narrows to Rs 133 Crore | Kalkine India",
+      "url": "https://www.kalkine.co.in/article/growth/meesho-nse-meesho-revenue-jumps-48-and-losses-halve-as-the-marketplace-heads-into-its-biggest-festive-sale",
+      "source": "kalkine.co.in",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Meesho Q1 revenue grew 48% while losses narrowed to Rs 133 crore, showing improved financial performance.",
+      "enriched": true
+    },
+    {
+      "id": "n90b93d291992",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho flags higher festive and tech costs in Q2 as margins improve | Company Business News",
+      "url": "https://www.livemint.com/companies/company-results/meesho-flags-higher-festive-and-tech-costs-in-q2-as-margins-improve-11793199216905.html",
+      "source": "livemint.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Acquisition",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Meesho reported higher festive and tech costs in Q2 while margins improved.",
+      "enriched": true
+    },
+    {
+      "id": "nd96ceac50ff2",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho Q2 FY27: Growth momentum continues as operating losses narrow- Moneycontrol.com",
+      "url": "https://www.moneycontrol.com/news/business/moneycontrol-research/meesho-q2-fy27-growth-momentum-continues-as-operating-losses-narrow-14064103.html",
+      "source": "moneycontrol.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Meesho's Q2 FY27 shows continued growth with narrowing operating losses.",
       "enriched": true
     },
     {
