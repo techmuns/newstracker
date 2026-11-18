@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-17T22:47:12.556Z",
-  "source": "google-news+munshot+valuepickr+claude",
+  "generated_at": "2026-11-18T10:40:44.594Z",
+  "source": "google-news+valuepickr+claude",
   "counts": {
     "portfolio": 156,
-    "watchlist": 678,
-    "universe": 54,
-    "total": 732
+    "watchlist": 675,
+    "universe": 53,
+    "total": 728
   },
   "items": [
     {
@@ -25,7 +25,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Goldiam International held Q2 FY27 earnings call discussing quarterly results.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -853,7 +853,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "GMM Pfaudler released Q2 FY27 earnings call audio.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -1203,7 +1203,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Medi Assist Healthcare announced a Rs 49.27 crore buyback.",
-      "sources_count": 4,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -1476,7 +1476,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Shaily Engineering Plastics exceeded revenue expectations in Q2 2026.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -1909,7 +1909,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Senores Pharmaceuticals announced ₹43 crore capacity expansion across its subsidiaries.",
-      "sources_count": 4,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -2190,7 +2190,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Sudeep Pharma received FDA approval to start operations at its new manufacturing facility in Gujarat.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -2546,7 +2546,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Acutaas Chemicals completed acquisition of Enchem Ami Organics, making it a direct subsidiary.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -2799,7 +2799,7 @@
       "mood": "positive",
       "takeaway": "DEE Development Engineers' order book expanded to ₹2,531 crore as of September 2026.",
       "enriched": true,
-      "sources_count": 2
+      "sources_count": 4
     },
     {
       "id": "n55787a26b571",
@@ -5378,25 +5378,6 @@
       "takeaway": "Aurionpro Solutions reported revenue growth in Q1 FY27 earnings call.",
       "enriched": true,
       "sources_count": 2
-    },
-    {
-      "id": "na3f8fe65c071",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Dee Development Engineers (NSE:DEEDEV): What Does Its August 2026 Order Book Update Reveal?",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMzFTTGFMYk1kSW43bmpacXl1QjVFV3N5SXVGMHhZWG9ublFYTkczZ29pSDJXakZRd1pPQ0t0UVduNGVvQWQxb0pzTnBJazhTcEJZQTFTUnpBc0NucGh6M1ZxUGpPYS1oeEZNUHhtel9aU0JBZ3diUmNsQ2o0MGQ1VHlyaFUtSWJOVnBiSjE3Wk1IeXAxQTVpOGRUMUxlYWctZ1lydjdLYkNVdGx3UWFWSjF3NkxjSklYYTVGcHhwUks2Z19uYlRHZE1HUG5nNDQ?oc=5",
-      "source": "Kalkine India",
-      "date": "2026-09-09T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Dee Development Engineers provides an update on its order book position as of August 2026.",
-      "enriched": true
     },
     {
       "id": "n2fdb63a5437a",
@@ -9220,64 +9201,6 @@
       "mood": "positive",
       "takeaway": "Jyoti CNC plans capacity expansion targeting revenue growth by FY27.",
       "enriched": true
-    },
-    {
-      "id": "n6898da141fb4",
-      "ticker": "MACRO",
-      "company": "India Defence Exports",
-      "sector": "Capital Goods",
-      "scope": [
-        "universe"
-      ],
-      "title": "Strong defence order books must translate into faster execution: Parl panel | India News",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTjA3UjA5TmRXU01neU0yOHVja0VCMHhDTldSWlV5TmphTlMxbXF3bnVNTHFZQ2NmbHJVYnNQc0ZDRUVjaEMtdUQtbnM2VkZFNU1faGRzdEVOTDJURFI2bmZMbjRPbTdDdnM1UndKZkdIUk9MQ01PQVFVejY3XzQySEd1bTB5Um9GZkJSTTVmSDRFQ3MxcG5paUlxOU02bW5EcXlROFl0YmFac19jeHRiakRIUEl4WGRXNlhIa0R4NkJ6VlIxY1N5STROU3B4NWFKQl800gHYAUFVX3lxTE9yblJsTXdOTkFrVWd5dk5LbWNqQ0RHSkpNVTdlUmd6OU81OWFKQTRsNjJVeGRZNlhhY1BaVGhqeXBCazQ2TExfUEVHZ1hTVTZYckhJWHBmLWM2YTVLaXFwNmhrTmsxTm1Kbkpmd3N4OVAxOE9zd2p1YkxRWjdaZVBmVGVKNHl5eHpPZldVUndaOTM2QTdZcTRlUGdSVVpQTDd5eFZ3Vmp0c3k1UktNNVBnS2pzR1JSVVA0VlRFaDQyaGl5RG5kVExjbEpkWWMwekd5bTdueEdteg?oc=5",
-      "source": "Hindustan Times",
-      "date": "2026-08-10T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Parliamentary panel urges faster execution of strong defence order books.",
-      "enriched": true
-    },
-    {
-      "id": "nebab0eeb730c",
-      "ticker": "TENNIND",
-      "company": "Tenneco Clean Air India Limited",
-      "sector": "Automobile and Auto Components",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Tenneco Clean Air India Limited (NSE:TENNIND) Just Reported First-Quarter Earnings: Have Analysts Changed Their Mind On The Stock?",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeVdqc1MtX3FiMjBTS0pLOGJ1MGNHakM1dW13ME1VV3FaTjd3Vm1oTFNpOHFSMlFEYVN1OUJRS2E5MjN3UjltbmpFYUhPYVF2aEhhUHoyOVRKTkZ0NVh6RENObTZiSmhnY1RnaFVwWDhobmlkQW94Q3lscG04UDRNSk1aNkdTcmNkRVJ5TVBxV3Y0dThvRkZCVUlmQ25aUkhMSVdrSDJwWVlENHNkSmQtcm5Fb2ZyYkIwT1d1emd5VnZ4RVhFUzhVZTBlWmZxZ0tsTktCVlBKeS1mTF9FT2NDYlRvUDRPMTDSAewBQVVfeXFMUF9vMFQ3WjdOa0hFeW1HNWhySHN3LTNUYTZkY3NDSl9YQ3I3M3NUOFpsMzNIZFNmazJFLUJaeGpJSXl6SURDSkY0aF8xazVJaGdqVnBEMUJPLUVxTXN0Mk5zbmtJclZDMDM5cGRadTJubEM1SjNQZktyVXlPWXI4dDFIUmdsVFJJdU1qYnJ0UWZ5MHVjWlJtdDZhNk9LRzJKb2NhdVpBYkxYVG50elBsVDYtTzA0ZXpQOXlPc2V1ZmdJQXpaenB0VG9NOHUwMXBBaHBYLWRPdnBJWWVUQmUwT2Z4cG5GWHBsV3pPSnQ?oc=5",
-      "source": "Simply Wall Street",
-      "date": "2026-08-10T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Tenneco Clean Air India reported Q1 earnings, analysts reviewing their outlook.",
-      "enriched": true
-    },
-    {
-      "id": "nd88af8d8a3f2",
-      "ticker": "ZENTEC",
-      "company": "Zen Technologies",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Zen Technologies bags ₹295 crore order from Defence Ministry for simulators",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcjU0Z1RVTE9UX25RYjAxdHVJTTBoaXRyTGh0bVRkaHE3T0ttbzdhMmQ4aFc2VFhpYkQwajNKdnNFT1lKRm54SWVBZVlQeW5yZ3dVTG1DLTFaXzlBN1dORDFiY0J3eEZ0akwxM2kwRnJwNmo2ZkRuVGcycHFBVmduT3JGT1Zmbk1XallhamFDLUd4dW9BSHV1ZUNzYXdoTFdqVnc5ekpaNVJodmhZMnRKN1hPMzhlRk5JODVWS0l2aTZZYjROMVppbEpMQzE5Z3VnZUxucU1WdUvSAd4BQVVfeXFMTlA5NE1UOE9mOVduelFFVWtWd2pfZjNMOVk2WTBzUGh1YWVUaVd0eXZkMnFKdXZLeHQ1QnVtRVRRN1U0ZVdTNHpmS2ZESnRMTm1GNGpBVWk2bVo4cDdqUFpQaXBrbFVJeWVMWmR1T2pmNEM1WjM0Y1o5dEtCTUc3aEJZelEtTTBIanlVNmtHSEdYTWo3amQtUExzTmxRUjVVeUxmUG9TM1UyZXdvdEx3N3h6R3NubzBoVlNfNUpkT19KSHhNXzA5TzhmLWF5dkMteDFtcE9aaFRQNHpwUHhB?oc=5",
-      "source": "CNBC TV18",
-      "date": "2026-08-10T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Zen Technologies bags Rs 295 crore order from Defence Ministry for simulators.",
-      "enriched": true,
-      "sources_count": 2
     },
     {
       "id": "n3035e0c478e8",
