@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-19T10:54:09.294Z",
+  "generated_at": "2026-11-19T22:26:41.881Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 159,
-    "watchlist": 677,
+    "portfolio": 160,
+    "watchlist": 680,
     "universe": 54,
-    "total": 731
+    "total": 734
   },
   "items": [
     {
@@ -258,7 +258,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Record Q2 order inflow of ₹1,198 crore received.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -279,6 +279,26 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Xpro India seeks approval for Rs. 370 crore subsidiary transactions.",
+      "enriched": true
+    },
+    {
+      "id": "n57e535683520",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Apsis Aerocom Receives ₹93.99 Lakh Supply Order from Aerospace Customer",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV05lV1V2Mk9BeDFudnU0X3VMdWtwRzZqeGpKZ2xYNENvNDZ2bGhhdVVNdXR3VjdOdHQzMzI2LVdTdnUwVFZkeTJBc0N0YlQ0eGdnSHNidUs1N2tvRzA2elBxWFB2Qlk0SjAyNG51SHRpTXJEXzFIWktCM2g0MTE4U1Z3VGVwdWgwc2d3X2xEWUJMMHdQSThjbUlhU1BvVEo4djZjaWh3TGVqOWtDaWlF?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-11-13T11:55:40.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Apsis Aerocom received a ₹93.99 lakh supply order from an aerospace customer.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -1242,7 +1262,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Medi Assist Healthcare announced a Rs 49.27 crore buyback.",
-      "sources_count": 3,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -2506,7 +2526,7 @@
       "importance": "medium",
       "mood": "negative",
       "takeaway": "Fire at Zen Technologies' subsidiary Unistring Tech Solutions' Hyderabad unit; minimal impact expected.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -2665,6 +2685,26 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Senores Pharmaceuticals seeks shareholder approval for director reappointments via postal ballot.",
+      "enriched": true
+    },
+    {
+      "id": "n87978341d8a6",
+      "ticker": "JPL",
+      "company": "Jio Platforms Limited",
+      "sector": "Telecommunication",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Fastly expands Jio Platforms partnership for JioCDN in India",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVXgxQ1NQN3JwUG5pMTYxRXc1NlVkQk5QbnVWTU5UZzNLZHNpLU5MZG8tcVNnQ0JKOHBvcVQyYjZDTlc1MlpCUDZzNG05WFhzb0I0ZnhQRktGTGhHRTAzZmVZQ09wRDlkc2JPQkdjY3ZvWVdPaG9UWExpNmU0aHdnUGNKalU0QWJsX05xYVluWjd4U19KRnVTZmZMNjkwMmVBWGxRSjZJbUJYQUUzM01LZkgzVWt3cTZPb3ZjYTI1M010RGJfckJRbNIBzgFBVV95cUxPNXlZekV2SnI3NlJzOUJ5cXI5d1JRWXd5Y1NrSXFoMXNTLUUyWFFNMFdsM1otQW5sb3VLX3RLOE50YmZRRGcxNk1oeFN2YWtqbnpXYXFUelhwd0ZabVMwTmlTdUVPR1hXbktXQS1XTUNVUXJMbFF1Nl9UTm9SVXMtQndIR3k3MHByMEQ1RG45UWlIV1VnN1dxdC1razBlT0JJSGx4T0t4a3o1WnlTNWNDRWpLSGZPbE1OMC1YSGJ2UEdHWVFuVlZaSm1SdklFQQ?oc=5",
+      "source": "ET Telecom",
+      "date": "2026-10-16T07:00:00.000Z",
+      "topic": "Deals",
+      "keyword": "Partnership",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Fastly expands partnership with Jio Platforms to enhance JioCDN services in India.",
       "enriched": true
     },
     {
@@ -7156,7 +7196,7 @@
       "mood": "positive",
       "takeaway": "Man Industries reported record EBITDA in Q1 FY27.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "nd17110e40027",
@@ -7524,25 +7564,6 @@
       "enriched": true
     },
     {
-      "id": "n71e888649cae",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Aurionpro Solutions releases unaudited financial results for quarter ended June 30, 2026",
-      "url": "https://tele.net.in/press-release/aurionpro-solutions-releases-unaudited-financial-results-for-quarter-ended-june-30-2026-12214367",
-      "source": "tele.net.in",
-      "date": "2026-09-03T20:34:02.502Z",
-      "topic": "Money",
-      "keyword": "Partnership",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Aurionpro Solutions released unaudited financial results for quarter ended June 30, 2026.",
-      "enriched": true
-    },
-    {
       "id": "n558d19bfaaab",
       "ticker": "AURIONPRO",
       "company": "Aurionpro Solutions Limited",
@@ -7560,6 +7581,25 @@
       "mood": "positive",
       "takeaway": "Aurionpro secured another contract from global hyperscale data centre operator.",
       "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "n71e888649cae",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Aurionpro Solutions releases unaudited financial results for quarter ended June 30, 2026",
+      "url": "https://tele.net.in/press-release/aurionpro-solutions-releases-unaudited-financial-results-for-quarter-ended-june-30-2026-12214367",
+      "source": "tele.net.in",
+      "date": "2026-09-03T20:34:02.502Z",
+      "topic": "Money",
+      "keyword": "Partnership",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Aurionpro Solutions released unaudited financial results for quarter ended June 30, 2026.",
       "enriched": true
     },
     {
@@ -9144,6 +9184,26 @@
       "enriched": true
     },
     {
+      "id": "ne15ebd972c9d",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Aurionpro wins ₹100 crore data centre order, crosses ₹400 crore mark with Hyperscaler - The HinduBusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/stock-markets/aurionpro-wins-100-crore-data-centre-order-crosses-400-crore-mark-with-hyperscaler/article71719333.ece",
+      "source": "thehindubusinessline.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Aurionpro secured a Rs 100 crore data centre order, pushing total Hyperscaler orders past Rs 400 crore.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
       "id": "n3035e0c478e8",
       "ticker": "GOLDIAM",
       "company": "Goldiam International Limited",
@@ -9335,6 +9395,63 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "GMM Pfaudler sees higher bookings in HET and PPT segments while PST segment declines.",
+      "enriched": true
+    },
+    {
+      "id": "nfa3dbf87dff2",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Abha Power and Steel Secures ₹1.20 Crore Order from Railway OEM | EquityBulls",
+      "url": "https://www.equitybulls.com/news/378861/abha-power-and-steel-secures-1-20-crore-order-from-railway-oem",
+      "source": "equitybulls.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Abha Power and Steel won a small ₹1.20 crore order from a railway equipment maker.",
+      "enriched": true
+    },
+    {
+      "id": "ncef322c6ad56",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "JSW Infrastructure’s Subsidiary Receives Letter of Allotment for ₹60 Crore Gati Shakti Cargo Terminal in Punjab | EquityBulls",
+      "url": "https://www.equitybulls.com/news/378860/jsw-infrastructure-s-subsidiary-receives-letter-of-allotment-for-60-crore-gati-s",
+      "source": "equitybulls.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "JSW Infrastructure subsidiary got approval for ₹60 crore cargo terminal project in Punjab.",
+      "enriched": true
+    },
+    {
+      "id": "ncfb74fe6695b",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Apsis Aerocom Limited’s Rs 31.8 crore book covers H2 FY27 needs | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/apsis-aerocom-order-book-cover-ppt-cmwfjf1aq003r2rl90wmd4qaq",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Apsis Aerocom's order book of ₹32 crore covers its revenue needs for the second half of FY27.",
       "enriched": true
     },
     {
@@ -11778,83 +11895,6 @@
       "enriched": true
     },
     {
-      "id": "n8293e0d3b142",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Apsis Aerocom Receives ₹93.99 Lakh Supply Order from Aerospace Customer | EquityBulls",
-      "url": "https://www.equitybulls.com/news/378854/apsis-aerocom-receives-93-99-lakh-supply-order-from-aerospace-customer",
-      "source": "equitybulls.com",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Apsis Aerocom received ₹94 lakh supply order from aerospace customer.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "nfa3dbf87dff2",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Abha Power and Steel Secures ₹1.20 Crore Order from Railway OEM | EquityBulls",
-      "url": "https://www.equitybulls.com/news/378861/abha-power-and-steel-secures-1-20-crore-order-from-railway-oem",
-      "source": "equitybulls.com",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Abha Power and Steel won a small ₹1.20 crore order from a railway equipment maker.",
-      "enriched": true
-    },
-    {
-      "id": "ncef322c6ad56",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "JSW Infrastructure’s Subsidiary Receives Letter of Allotment for ₹60 Crore Gati Shakti Cargo Terminal in Punjab | EquityBulls",
-      "url": "https://www.equitybulls.com/news/378860/jsw-infrastructure-s-subsidiary-receives-letter-of-allotment-for-60-crore-gati-s",
-      "source": "equitybulls.com",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "JSW Infrastructure subsidiary got approval for ₹60 crore cargo terminal project in Punjab.",
-      "enriched": true
-    },
-    {
-      "id": "ncfb74fe6695b",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Apsis Aerocom Limited’s Rs 31.8 crore book covers H2 FY27 needs | Market News & Analysis",
-      "url": "https://www.multibagg.ai/market-pulse/articles/apsis-aerocom-order-book-cover-ppt-cmwfjf1aq003r2rl90wmd4qaq",
-      "source": "multibagg.ai",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Apsis Aerocom's order book of ₹32 crore covers its revenue needs for the second half of FY27.",
-      "enriched": true
-    },
-    {
       "id": "nd5705fd2c259",
       "ticker": "BALUFORGE",
       "company": "Balu Forge Industries Limited",
@@ -12682,26 +12722,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Balu Forge approved share capital increase and ₹1,620 crore warrant issue to raise funds.",
-      "enriched": true
-    },
-    {
-      "id": "ne15ebd972c9d",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Aurionpro wins ₹100 crore data centre order, crosses ₹400 crore mark with Hyperscaler - The HinduBusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/stock-markets/aurionpro-wins-100-crore-data-centre-order-crosses-400-crore-mark-with-hyperscaler/article71719333.ece",
-      "source": "thehindubusinessline.com",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Aurionpro secured a Rs 100 crore data centre order, pushing total Hyperscaler orders past Rs 400 crore.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -14235,6 +14255,43 @@
       "mood": "positive",
       "takeaway": "INDO SMC received an order worth Rs. 18.25 crore.",
       "enriched": true
+    },
+    {
+      "id": "n074234414fc1",
+      "ticker": "SBCL",
+      "company": "Shivalik Bimetal Controls Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "SEBI Approves Transfer of PMS Business from ICICI Securities to ICICI Prudential AMC (NSE:ICICIAMC)",
+      "url": "https://kalkinemedia.com/in/news/announcements/sebi-approves-transfer-of-pms-business-from-icici-securities-to-icici-prudential-amc-nseiciciamc",
+      "source": "kalkinemedia.com",
+      "date": "",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "SEBI approved transfer of PMS business from ICICI Securities to ICICI Prudential AMC.",
+      "enriched": true
+    },
+    {
+      "id": "n45fe4ae0c2a7",
+      "ticker": "AUSTERE",
+      "company": "Austere Systems Ltd",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Austere Systems schedules Q2 FY27 earnings call for November 17 | InvestyWise",
+      "url": "https://www.investywise.com/austere-systems-limited-earnings-conference-call-scheduled/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Austere Systems Ltd invites stakeholders to its Earnings Conference Call on Tuesday, November 17, 2026, at 2:00 PM IST to discuss unaudited financial results for the quarter and h…"
     }
   ]
 }
