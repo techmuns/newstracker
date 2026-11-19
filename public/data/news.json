@@ -1,13 +1,33 @@
 {
-  "generated_at": "2026-11-18T22:18:05.072Z",
-  "source": "google-news+valuepickr+claude",
+  "generated_at": "2026-11-19T10:54:09.294Z",
+  "source": "google-news+munshot+valuepickr+claude",
   "counts": {
-    "portfolio": 157,
-    "watchlist": 675,
-    "universe": 53,
-    "total": 728
+    "portfolio": 159,
+    "watchlist": 677,
+    "universe": 54,
+    "total": 731
   },
   "items": [
+    {
+      "id": "n24f89a6f7b85",
+      "ticker": "THEME",
+      "company": "Power Equipment",
+      "sector": "Capital Goods",
+      "scope": [
+        "universe"
+      ],
+      "title": "Waaree Transpower Secures INR 100 Crore-Plus Transformer Order from NTPC",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRjBJbkJiNGdPcFhvNUF4ckMzUWpsd0UwcWp2eDdlWGhNYUI5b29LQlZ6eC0yOFRXcnZvaUFPVXl5VHRKQk9XSGFuWGljRGRYNUlMQnRRaHk4RElTQWlaWXJLRWtIamJ1ZlluSFp6bWZhRUVzcVpjd2tvNUZCRkNPQzVoV0xrZVUzaC1CWldrdncyc01WVmhoZ2g1OU5lOXQ5bklwc0ZRTWQ?oc=5",
+      "source": "Energetica India Magazine",
+      "date": "2026-11-19T07:40:12.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Waaree Transpower wins transformer order worth over Rs 100 crore from NTPC.",
+      "sources_count": 2,
+      "enriched": true
+    },
     {
       "id": "n8b46e7424d02",
       "ticker": "DEEDEV",
@@ -28,26 +48,6 @@
       "enriched": true
     },
     {
-      "id": "nff1ab2a2ef61",
-      "ticker": "TONBO",
-      "company": "Tonbo Imaging India Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Tonbo Imaging Secures ₹35.62 Crore Order From Ministry Of Defence",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVDEtRkxWSHlpd2RLYXY4Y1pRVzFYT1Iwcy12dDBNa3ZMUzdoa3U1R2VRMnkxOHktd3l4enRMRFh0akYtZmNEV0h6cmRPVVpieVU3WXNPUkpXeHRMLWxlRG5kOVM5enlucWJBeWtteDNELWpEYkRsbWEyZjM5ekhBRmxLeHQ0WnRaQzNwalRWQ21Ebmtt?oc=5",
-      "source": "Sahi",
-      "date": "2026-11-18T14:45:51.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Tonbo Imaging won ₹35.62 crore order from Ministry of Defence.",
-      "enriched": true
-    },
-    {
       "id": "n1930a2e5db9d",
       "ticker": "GOLDIAM",
       "company": "Goldiam International Limited",
@@ -64,7 +64,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Goldiam International held Q2 FY27 earnings call discussing quarterly results.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -258,7 +258,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Record Q2 order inflow of ₹1,198 crore received.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -495,7 +495,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Meesho acquires Kirana Club for Rs 186.71 crore to expand its business reach.",
-      "sources_count": 4,
+      "sources_count": 5,
       "enriched": true
     },
     {
@@ -731,7 +731,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Shaily Engineering Plastics discussed Q2 FY27 results in earnings call.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -892,7 +892,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "GMM Pfaudler released Q2 FY27 earnings call audio.",
-      "sources_count": 3,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -1242,7 +1242,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Medi Assist Healthcare announced a Rs 49.27 crore buyback.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -1283,7 +1283,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Menon Bearings held Q2 FY27 earnings call to discuss quarterly results.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -1496,7 +1496,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Shaily Engineering Plastics exceeded revenue expectations in Q2 2026.",
-      "sources_count": 3,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -1929,7 +1929,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Senores Pharmaceuticals announced ₹43 crore capacity expansion across its subsidiaries.",
-      "sources_count": 3,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -4611,26 +4611,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "DEE Development to announce nuclear piping joint venture by December 2023.",
-      "enriched": true
-    },
-    {
-      "id": "n1bfddeb20396",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Aurionpro Secures Additional Order From MMRDA",
-      "url": "https://www.constructionworld.in/policy-updates-and-economic-news/aurionpro-secures-additional-order-from-mmrda/95393",
-      "source": "constructionworld.in",
-      "date": "2026-09-16T18:23:44.276Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Aurionpro secures additional order from MMRDA.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -7583,26 +7563,6 @@
       "enriched": true
     },
     {
-      "id": "n8afa09dd26b0",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Aurionpro secures ₹100 Crore AI data centre order - Express Computer",
-      "url": "https://www.expresscomputer.in/news/aurionpro-secures-%e2%82%b9100-crore-ai-data-centre-order/137733/",
-      "source": "expresscomputer.in",
-      "date": "2026-09-03T20:34:02.502Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Aurionpro won ₹100 crore order to build AI data centre infrastructure.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "nfb51c3104271",
       "ticker": "YASHHV",
       "company": "Yash Highvoltage Ltd",
@@ -9184,65 +9144,6 @@
       "enriched": true
     },
     {
-      "id": "n2bef15940eeb",
-      "ticker": "SOLARINDS",
-      "company": "Solar Industries India Limited",
-      "sector": "Chemicals",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Chemical Stock Hits 5% Upper Circuit After Bagging ₹39 Cr Order From Solar Industries By Trade Brains",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNkE2b2NpRlhQNE53S0h0Wk9sblQ1eUw4b2g5TjB4VTdJMHVVU2w5eGJEZTgxTHhkVTlOVXI4RG5abjQ5ZHNUTGRHazhVTlBqM1diVGpNQWx6bVFwZ3luUFpVWHV6dVc5THd4T2hlSUpBc0R6RnpId2FUSFNnQkdVMlEybGtVaVVReWlBTmRuZGVYOXZ4NTlvV2l1ckJabjBUZHdZc2dPMHZSWGtfTlhFUXFEcUxxTlMzaF9tOUJtcFZBdXNqT3lYdUYya1dVSnYxVzhLRENB?oc=5",
-      "source": "Investing.com India",
-      "date": "2026-08-11T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Chemical company bagged Rs. 39 crore order from Solar Industries.",
-      "enriched": true,
-      "sources_count": 2
-    },
-    {
-      "id": "n3d0f5c3c8418",
-      "ticker": "JYOTICNC",
-      "company": "Jyoti CNC Automation Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Jyoti CNC Automation (NSE: JYOTICNC) Targets FY27 Revenue Growth With Capacity Expansion Plan",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUEZWUm5xMjl1anFGcVMzb1daVXNJbXk1WERuSGN6M3pvOU0wWlhuUV83WUdvTE9yYVo0c0JXVF8zbGp5b2dBci1QcVFWZzhIdzI2RGR6SmpVYWN4ZXQ2MmxJLWFlekEwbUdvSlpjT0dCT0dIZVBJbUZNN1ZrVktWRGtMNWFfVFBhMUszXzdEODM3VUxyVlFzTUYtMUllSzd4bVdxNFFDM21Ea3plWUtDQWlDTnhZUjZNRDJHRVgzN3l2WUxPTjJhNllKdEluR3QxRXZiT0dEMW1vVzhyWGpxazY3M1VjZFRadlVr?oc=5",
-      "source": "Kalkine India",
-      "date": "2026-08-11T07:00:00.000Z",
-      "topic": "Growth",
-      "keyword": "Capacity Expansion",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Jyoti CNC plans capacity expansion targeting revenue growth by FY27.",
-      "enriched": true
-    },
-    {
-      "id": "nace3c08bb1e7",
-      "ticker": "TONBO",
-      "company": "Tonbo Imaging India Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Tonbo Imaging ko mila bada European contract: Potential order value **€13 Million**! | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/Hinglish/aerospace-defense/Tonbo-Imaging-Secures-Strategic-European-Export-Order-With-13-Million-Euro-Potential/6ae386a8c6c6dccbb90bd334",
-      "source": "whalesbook.com",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Tonbo Imaging wins European contract worth €13 million.",
-      "enriched": true
-    },
-    {
       "id": "n3035e0c478e8",
       "ticker": "GOLDIAM",
       "company": "Goldiam International Limited",
@@ -9454,6 +9355,25 @@
       "mood": "neutral",
       "takeaway": "Caliber Mining released Q2 results",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nfde5d2b09c7d",
+      "ticker": "CMLL",
+      "company": "Caliber Mining and Logistics Limited",
+      "sector": "Oil Gas & Consumable Fuels",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "CMLL retains FY27 revenue growth guidance after Q2 loss | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/cmll-fy27-guidance-q2-loss-ppt-cmwfl140g00812rl9od7q85th",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Caliber Mining retained FY27 revenue growth guidance despite Q2 loss.",
       "enriched": true
     },
     {
@@ -9769,6 +9689,25 @@
       "enriched": true
     },
     {
+      "id": "ndc73030bda2d",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho partners with YouTube Shopping to expand creator affiliate opportunities",
+      "url": "https://www.socialsamosa.com/industry-updates/meesho-partners-with-youtube-shopping-expand-creator-affiliate-opportunities-12816243",
+      "source": "socialsamosa.com",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Partnership",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Meesho partners with YouTube Shopping to expand creator affiliate opportunities.",
+      "enriched": true
+    },
+    {
       "id": "n47da37245b6d",
       "ticker": "NORTHARC",
       "company": "Northern Arc Capital Limited",
@@ -10054,6 +9993,67 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Medi Assist Healthcare Services announced 2026 buyback with record date and acceptance ratio set.",
+      "enriched": true
+    },
+    {
+      "id": "n29cd0b6df29c",
+      "ticker": "TONBO",
+      "company": "Tonbo Imaging India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Tonbo wins a Rs 35.62 crore Defence thermal-sight order | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/tonbo-defence-thermal-sight-order-announcement-cmwm6k4f4003d2mr9c4c5kkxg",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Tonbo won a Rs 35.62 crore Defence order for thermal-sight equipment.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "nace3c08bb1e7",
+      "ticker": "TONBO",
+      "company": "Tonbo Imaging India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Tonbo Imaging ko mila bada European contract: Potential order value **€13 Million**! | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/aerospace-defense/Tonbo-Imaging-Secures-Strategic-European-Export-Order-With-13-Million-Euro-Potential/6ae386a8c6c6dccbb90bd334",
+      "source": "whalesbook.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Tonbo Imaging wins European contract worth €13 million.",
+      "enriched": true
+    },
+    {
+      "id": "n34aef18a6eda",
+      "ticker": "TONBO",
+      "company": "Tonbo Imaging India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Tonbo Imaging wins order from the Ministry of Defence for its clip-on thermal weapon sights | EquityBulls",
+      "url": "https://www.equitybulls.com/news/379267/tonbo-imaging-wins-order-ministry-defence-clip-thermal",
+      "source": "equitybulls.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Tonbo secured Ministry of Defence order for clip-on thermal weapon sights.",
       "enriched": true
     },
     {
@@ -10692,6 +10692,25 @@
       "enriched": true
     },
     {
+      "id": "n96b040fde0f3",
+      "ticker": "ZENTEC",
+      "company": "Zen Technologies Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Zen Technologies Approves Non-Profit SPV Under PM-Setu With Central And Telangana Governments",
+      "url": "https://www.sahi.com/news/zen-technologies-approves-non-profit-spv-under-pm-setu-with-central-and-telangana-governments",
+      "source": "sahi.com",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Partnership",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Zen Technologies approves non-profit SPV under PM-Setu with Central and Telangana governments.",
+      "enriched": true
+    },
+    {
       "id": "n52c7c95aecbe",
       "ticker": "JPL",
       "company": "Jio Platforms Limited",
@@ -10884,26 +10903,6 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Vedanta and Vedanta Aluminium Q2 results compared on profit, revenue, EBITDA and debt.",
-      "enriched": true
-    },
-    {
-      "id": "n76dcc7a7725d",
-      "ticker": "SENORES",
-      "company": "Senores Pharmaceuticals Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "portfolio",
-        "watchlist"
-      ],
-      "title": "Senores Pharmaceuticals approves ₹43 crore subsidiary expansion plan",
-      "url": "https://scanx.trade/stock-market-news/companies/senores-pharmaceuticals-plans-43-cr-capacity-expansion-across/54809414",
-      "source": "scanx.trade",
-      "date": "",
-      "topic": "Growth",
-      "keyword": "Approval",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Senores Pharma approves ₹43 crore expansion plan for its subsidiary.",
       "enriched": true
     },
     {
@@ -11291,6 +11290,26 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "E2E Networks published audio of its Q2FY27 earnings call.",
+      "enriched": true
+    },
+    {
+      "id": "nd12aab35aa6b",
+      "ticker": "SENORES",
+      "company": "Senores Pharmaceuticals Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Senores Pharma Unit Ratnatris Pharmaceuticals Receives Ukraine PIC/S GMP Certification",
+      "url": "https://www.sahi.com/news/senores-pharma-unit-ratnatris-pharmaceuticals-receives-ukraine-pic-s-gmp-certification",
+      "source": "sahi.com",
+      "date": "",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Senores Pharma's unit Ratnatris gets Ukraine PIC/S GMP certification, enabling exports to that market.",
       "enriched": true
     },
     {
@@ -11833,26 +11852,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Apsis Aerocom's order book of ₹32 crore covers its revenue needs for the second half of FY27.",
-      "enriched": true
-    },
-    {
-      "id": "nf97a888b5402",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Aurionpro bags ₹150-crore data centre order - The HinduBusinessLine",
-      "url": "https://www.thehindubusinessline.com/info-tech/aurionpro-bags-150-crore-data-centre-order/article71546954.ece",
-      "source": "thehindubusinessline.com",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Aurionpro secured a ₹150 crore data centre order.",
-      "sources_count": 4,
       "enriched": true
     },
     {
@@ -12686,6 +12685,26 @@
       "enriched": true
     },
     {
+      "id": "ne15ebd972c9d",
+      "ticker": "AURIONPRO",
+      "company": "Aurionpro Solutions Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Aurionpro wins ₹100 crore data centre order, crosses ₹400 crore mark with Hyperscaler - The HinduBusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/stock-markets/aurionpro-wins-100-crore-data-centre-order-crosses-400-crore-mark-with-hyperscaler/article71719333.ece",
+      "source": "thehindubusinessline.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Aurionpro secured a Rs 100 crore data centre order, pushing total Hyperscaler orders past Rs 400 crore.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
       "id": "n2b042f714980",
       "ticker": "STLTECH",
       "company": "Sterlite Technologies Limited",
@@ -12898,7 +12917,7 @@
       "mood": "positive",
       "takeaway": "E2E Networks announces expansion of Nvidia GPU capacity for AI cloud services.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 4
     },
     {
       "id": "nfa2014ab6be7",
@@ -14176,6 +14195,45 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Amansa Investments acquired ₹170 crore stake in Tonbo Imaging in pre-IPO deal.",
+      "enriched": true
+    },
+    {
+      "id": "n534644b3b3b3",
+      "ticker": "SUDEEPPHRM",
+      "company": "Sudeep Pharma Limited",
+      "sector": "Chemicals",
+      "scope": [
+        "portfolio",
+        "watchlist"
+      ],
+      "title": "Sudeep Pharma Unit Issued Closure Directions By Gujarat Pollution Control Board",
+      "url": "https://www.sahi.com/news/sudeep-pharma-unit-issued-closure-directions-by-gujarat-pollution-control-board",
+      "source": "sahi.com",
+      "date": "",
+      "topic": "Trouble",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "negative",
+      "takeaway": "Gujarat Pollution Control Board issued closure directions to Sudeep Pharma's manufacturing unit.",
+      "enriched": true
+    },
+    {
+      "id": "nc696a519b507",
+      "ticker": "INDOFARM",
+      "company": "Indo Farm Equipment Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "INDO SMC Ltd receives order worth Rs. 18.25 crore | EquityBulls",
+      "url": "https://www.equitybulls.com/news/379221/indo-smc-ltd-receives-order-worth-rs-18",
+      "source": "equitybulls.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "INDO SMC received an order worth Rs. 18.25 crore.",
       "enriched": true
     }
   ]
