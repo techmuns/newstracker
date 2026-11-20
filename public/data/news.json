@@ -1,30 +1,50 @@
 {
-  "generated_at": "2026-11-19T22:26:41.881Z",
+  "generated_at": "2026-11-20T10:34:31.442Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 160,
-    "watchlist": 680,
+    "watchlist": 681,
     "universe": 54,
-    "total": 734
+    "total": 735
   },
   "items": [
     {
-      "id": "n24f89a6f7b85",
+      "id": "n4b7b862f7b0f",
       "ticker": "THEME",
       "company": "Power Equipment",
       "sector": "Capital Goods",
       "scope": [
         "universe"
       ],
-      "title": "Waaree Transpower Secures INR 100 Crore-Plus Transformer Order from NTPC",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRjBJbkJiNGdPcFhvNUF4ckMzUWpsd0UwcWp2eDdlWGhNYUI5b29LQlZ6eC0yOFRXcnZvaUFPVXl5VHRKQk9XSGFuWGljRGRYNUlMQnRRaHk4RElTQWlaWXJLRWtIamJ1ZlluSFp6bWZhRUVzcVpjd2tvNUZCRkNPQzVoV0xrZVUzaC1CWldrdncyc01WVmhoZ2g1OU5lOXQ5bklwc0ZRTWQ?oc=5",
-      "source": "Energetica India Magazine",
-      "date": "2026-11-19T07:40:12.000Z",
+      "title": "Waaree Transpower secures over Rs 1 billion transformer order from NTPC",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNVRkbGVFZnlKSDhkSmc2aDlVcWl3MWlTb2pYVHhmWkM4djBGZGtSblJXdmhFZHZNSGVvSlk0RHViVnJTMkM1dzdTcU0zUVlucXI2UXQxTGt6NFM0X25ZemVnY19aZENMV0ZvVjdabmZXM0IwUFFuUzdHZ0xJc2NCZ3JLcVdkT0g0SUFGbkpJdjk5Sl9UcndueHJoUTNfbEtvV3dYbExJdXFEV250TjRR?oc=5",
+      "source": "Powerline Magazine",
+      "date": "2026-11-20T05:56:30.000Z",
       "topic": "Orders",
       "keyword": "Order",
       "importance": "medium",
       "mood": "positive",
-      "takeaway": "Waaree Transpower wins transformer order worth over Rs 100 crore from NTPC.",
+      "takeaway": "Waaree Transpower won a transformer order worth over Rs 100 crore from NTPC.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "n4229e03d8bb6",
+      "ticker": "THEME",
+      "company": "Pharma Approvals",
+      "sector": "Healthcare",
+      "scope": [
+        "universe"
+      ],
+      "title": "Biocon stock in focus after Pebrilzo FDA approval",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYkpNc2J5Q1FYaU1WVFJPT2E0c21Uck50ZldMYV9wRlQ3cWh6ZlVTNkROMlV4Tm1aQ093Sm1uV1VBUzY0YW5VeHBZV2RnY05BQ3FDNm9IVXhkR1lyUlFHczlmWXg5X2FLM2pGMF9XNTBUdTRSb05RTHJaOXlIRzZ3Y0loWWd4V0d2amY3UlBBTVY2QXd4YzdBOTRZSkFrOWF6WkFIT3AwcnRpNVBE?oc=5",
+      "source": "ad-hoc-news.de",
+      "date": "2026-11-20T00:19:51.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Biocon received FDA approval for Pebrilzo, a new drug product.",
       "sources_count": 2,
       "enriched": true
     },
@@ -84,25 +104,6 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Standard Engineering Technology released Q1 FY27 earnings call recording.",
-      "enriched": true
-    },
-    {
-      "id": "n9f1ddd058836",
-      "ticker": "THEME",
-      "company": "Pharma Approvals",
-      "sector": "Healthcare",
-      "scope": [
-        "universe"
-      ],
-      "title": "Biocon receives US FDA approval for Pebrilzo injection",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLTVFT0VYZ0xxZS1NV01aeFZseS1QN2xBaV9PWW4yckJZWHFOUXNNcDZjdllGenJ2QTlHYlRLRXZneU9ONWNINU1ROE1EdlhpYU1kWTBGdFNzNlN3WmxYRlZBaTI4NmhFczJJSmNhZUNyR1ppay1xRkpuUWJvZEJGckNoMTU0dU9LM1BLdmhrRXcyUQ?oc=5",
-      "source": "Express Pharma",
-      "date": "2026-11-16T06:57:21.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Biocon gets US FDA approval for Pebrilzo injection, allowing it to sell the product in America.",
       "enriched": true
     },
     {
@@ -279,26 +280,6 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Xpro India seeks approval for Rs. 370 crore subsidiary transactions.",
-      "enriched": true
-    },
-    {
-      "id": "n57e535683520",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Apsis Aerocom Receives ₹93.99 Lakh Supply Order from Aerospace Customer",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV05lV1V2Mk9BeDFudnU0X3VMdWtwRzZqeGpKZ2xYNENvNDZ2bGhhdVVNdXR3VjdOdHQzMzI2LVdTdnUwVFZkeTJBc0N0YlQ0eGdnSHNidUs1N2tvRzA2elBxWFB2Qlk0SjAyNG51SHRpTXJEXzFIWktCM2g0MTE4U1Z3VGVwdWgwc2d3X2xEWUJMMHdQSThjbUlhU1BvVEo4djZjaWh3TGVqOWtDaWlF?oc=5",
-      "source": "EquityBulls",
-      "date": "2026-11-13T11:55:40.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Apsis Aerocom received a ₹93.99 lakh supply order from an aerospace customer.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -912,7 +893,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "GMM Pfaudler released Q2 FY27 earnings call audio.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -1262,7 +1243,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Medi Assist Healthcare announced a Rs 49.27 crore buyback.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -9146,44 +9127,6 @@
       "enriched": true
     },
     {
-      "id": "n113e935164a1",
-      "ticker": "SHAILY",
-      "company": "Shaily Engineering Plastics Limited",
-      "sector": "Consumer Durables",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Earnings Miss: Shaily Engineering Plastics Limited Missed EPS By 6.6% And Analysts Are Revising Their Forecasts",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTWktb1lRRU1GbXNyWUZnMldaNXBiQ1F5M3lVUlRadlo2TWo4ZnRkVGw2QTk1VTRhM0h5OWNScDAwYWxvRGc5bHRKQklIdEhyLTlfWmVWUXlvOHBRS2Q5TUd4ejhGRFQ0TmZBOFBPLVp1UUZBUHZpbERsRzA0M3l5cUp1Y0dSdzhGbHFxNlNQNGpCdkNGV2pXNGo1dmp6YWZUQThfOVBOUHR6UzhzNHFxM0ZRdEplUEFfYktJczdZVExfczRyaTNtbFNtbk1hOHZIY0d6azZfVTcxbUdrcW9Nbzg4cjNNdnotOE5hUjl30gHzAUFVX3lxTFAxMjk3MTJwWjl2bVVYZnFCcjl5Sy1Ya1RGcVNhd19CcjdLcWNjcDl2Q1lNQVk0YWJ0c0ZJMzZwSlZuM3c4ZXZaTFpaUVBIcGNqbkZ0NWpVcWtRcElyVTZnX1pWOURWZHVFVGVlTmd6T19IVFR6V3B6YXBhRWZMeVoyWnRLSGR4UnpGZ25KV3FXME53cExISjNZNzBpMTdvTkw5UEZ5YTFyWUxkM3c5QUxRcFdmMVFkRjN5WHBmVEUxWTlKSjIzTm15ZWtUeEdhQk5TeWZGaHdHTWd4ekx3WUtuYm9NcDRVVXdPN2lRUHkwTHJBYw?oc=5",
-      "source": "Simply Wall Street",
-      "date": "2026-08-12T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "negative",
-      "takeaway": "Shaily Engineering Plastics missed earnings by 6.6%, prompting analysts to revise forecasts downward.",
-      "enriched": true
-    },
-    {
-      "id": "n799cf8dd2527",
-      "ticker": "MANINDS",
-      "company": "Man Industries (India) Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Man Industries MANINDS Preferential Issue Fund Utilisation Q1 FY27",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOamQxbmZzMnVhTzg1NTVadVdZbDlUQk83M1BNazdMb1g5OGw2anl5STE4aGF2aTNWS3BDODJwUFM4Q2NsVVkxUmkxaXh0ZWt6VHpMWUpRSEhQdHJBaUdDM0VwZl9qaVdVcHhKclFLcTQ2WUNTdmJsSkktdkZ3R0dmWlNuZ2JKLUVuSTVsaGQyT0pJZlVDeHh5OUZxQ2VNaldaUjVLNUZpY0xNQ29iVnBpeklvZjNhY0xOOFp1M3M5c3N5RHRuaWtwSmZobFo?oc=5",
-      "source": "Kalkine India",
-      "date": "2026-08-12T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Preferential Issue",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Man Industries reports fund utilization from preferential issue in Q1 FY27.",
-      "enriched": true
-    },
-    {
       "id": "ne15ebd972c9d",
       "ticker": "AURIONPRO",
       "company": "Aurionpro Solutions Limited",
@@ -9395,63 +9338,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "GMM Pfaudler sees higher bookings in HET and PPT segments while PST segment declines.",
-      "enriched": true
-    },
-    {
-      "id": "nfa3dbf87dff2",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Abha Power and Steel Secures ₹1.20 Crore Order from Railway OEM | EquityBulls",
-      "url": "https://www.equitybulls.com/news/378861/abha-power-and-steel-secures-1-20-crore-order-from-railway-oem",
-      "source": "equitybulls.com",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Abha Power and Steel won a small ₹1.20 crore order from a railway equipment maker.",
-      "enriched": true
-    },
-    {
-      "id": "ncef322c6ad56",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "JSW Infrastructure’s Subsidiary Receives Letter of Allotment for ₹60 Crore Gati Shakti Cargo Terminal in Punjab | EquityBulls",
-      "url": "https://www.equitybulls.com/news/378860/jsw-infrastructure-s-subsidiary-receives-letter-of-allotment-for-60-crore-gati-s",
-      "source": "equitybulls.com",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "JSW Infrastructure subsidiary got approval for ₹60 crore cargo terminal project in Punjab.",
-      "enriched": true
-    },
-    {
-      "id": "ncfb74fe6695b",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Apsis Aerocom Limited’s Rs 31.8 crore book covers H2 FY27 needs | Market News & Analysis",
-      "url": "https://www.multibagg.ai/market-pulse/articles/apsis-aerocom-order-book-cover-ppt-cmwfjf1aq003r2rl90wmd4qaq",
-      "source": "multibagg.ai",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Apsis Aerocom's order book of ₹32 crore covers its revenue needs for the second half of FY27.",
       "enriched": true
     },
     {
@@ -9825,6 +9711,25 @@
       "enriched": true
     },
     {
+      "id": "nac644495c049",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho targets 2 lakh creators on YouTube Shopping; opens 30 million products for affiliate commerce",
+      "url": "https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/meesho-targets-2-lakh-creators-on-youtube-shopping-opens-30-million-products-for-affiliate-commerce/135913348",
+      "source": "retail.economictimes.indiatimes.com",
+      "date": "",
+      "topic": "Deals",
+      "keyword": "Partnership",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Meesho partnered with YouTube Shopping, opening 30 million products for affiliate commerce via 2 lakh creators.",
+      "enriched": true
+    },
+    {
       "id": "n47da37245b6d",
       "ticker": "NORTHARC",
       "company": "Northern Arc Capital Limited",
@@ -10113,6 +10018,25 @@
       "enriched": true
     },
     {
+      "id": "nf63a132b7c97",
+      "ticker": "MEDIASSIST",
+      "company": "Medi Assist Healthcare Services Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Medi Assist Healthcare Services: Buyback, 20 Nov 2026 | GreyOak",
+      "url": "https://greyoakcapital.com/events/8e9c76080392b6f20bb55d35ad02d9a5",
+      "source": "greyoakcapital.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Buyback",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Medi Assist announces buyback with completion date of November 20, 2026.",
+      "enriched": true
+    },
+    {
       "id": "n29cd0b6df29c",
       "ticker": "TONBO",
       "company": "Tonbo Imaging India Limited",
@@ -10130,7 +10054,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Tonbo won a Rs 35.62 crore Defence order for thermal-sight equipment.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -11837,6 +11761,25 @@
       "enriched": true
     },
     {
+      "id": "n1cae941f3fb9",
+      "ticker": "SHIPROCKET",
+      "company": "Shiprocket Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Shiprocket bets on quick commerce, AI to drive growth",
+      "url": "https://www.medianama.com/2026/09/223-shiprocket-quick-commerce-ai-drive-growth/",
+      "source": "medianama.com",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Shiprocket expanding into quick commerce and AI to boost growth.",
+      "enriched": true
+    },
+    {
       "id": "n7c5795799dcb",
       "ticker": "SHIPROCKET",
       "company": "Shiprocket Limited",
@@ -11893,6 +11836,84 @@
       "mood": "positive",
       "takeaway": "Yash Highvoltage subsidiary signs US representation agreement to expand market presence.",
       "enriched": true
+    },
+    {
+      "id": "n8293e0d3b142",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Apsis Aerocom Receives ₹93.99 Lakh Supply Order from Aerospace Customer | EquityBulls",
+      "url": "https://www.equitybulls.com/news/378854/apsis-aerocom-receives-93-99-lakh-supply-order-from-aerospace-customer",
+      "source": "equitybulls.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Apsis Aerocom received a supply order worth Rs 94 lakh from an aerospace customer.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nfa3dbf87dff2",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Abha Power and Steel Secures ₹1.20 Crore Order from Railway OEM | EquityBulls",
+      "url": "https://www.equitybulls.com/news/378861/abha-power-and-steel-secures-1-20-crore-order-from-railway-oem",
+      "source": "equitybulls.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Abha Power and Steel won a small ₹1.20 crore order from a railway equipment maker.",
+      "enriched": true
+    },
+    {
+      "id": "ncef322c6ad56",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "JSW Infrastructure’s Subsidiary Receives Letter of Allotment for ₹60 Crore Gati Shakti Cargo Terminal in Punjab | EquityBulls",
+      "url": "https://www.equitybulls.com/news/378860/jsw-infrastructure-s-subsidiary-receives-letter-of-allotment-for-60-crore-gati-s",
+      "source": "equitybulls.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "JSW Infrastructure subsidiary got approval for ₹60 crore cargo terminal project in Punjab.",
+      "enriched": true
+    },
+    {
+      "id": "ncfb74fe6695b",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Apsis Aerocom Limited’s Rs 31.8 crore book covers H2 FY27 needs | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/apsis-aerocom-order-book-cover-ppt-cmwfjf1aq003r2rl90wmd4qaq",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Apsis Aerocom's order book of ₹32 crore covers its revenue needs for the second half of FY27.",
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "nd5705fd2c259",
@@ -14276,22 +14297,24 @@
       "enriched": true
     },
     {
-      "id": "n45fe4ae0c2a7",
-      "ticker": "AUSTERE",
-      "company": "Austere Systems Ltd",
-      "sector": "Information Technology",
+      "id": "ne9162a243612",
+      "ticker": "SHANTIINOR",
+      "company": "Shanti Inorganics Limited",
+      "sector": "Chemicals",
       "scope": [
         "watchlist"
       ],
-      "title": "Austere Systems schedules Q2 FY27 earnings call for November 17 | InvestyWise",
-      "url": "https://www.investywise.com/austere-systems-limited-earnings-conference-call-scheduled/",
-      "source": "investywise.com",
+      "title": "Shanti Educational Initiatives Wins BSE Clearance for Merger With Solar Powerhouse GREW Energy",
+      "url": "https://theprint.in/ani-press-releases/shanti-educational-initiatives-wins-bse-clearance-for-merger-with-solar-powerhouse-grew-energy/3103865/",
+      "source": "theprint.in",
       "date": "",
-      "topic": "Money",
-      "keyword": "Earnings",
+      "topic": "Deals",
+      "keyword": "Merger",
       "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Austere Systems Ltd invites stakeholders to its Earnings Conference Call on Tuesday, November 17, 2026, at 2:00 PM IST to discuss unaudited financial results for the quarter and h…"
+      "mood": "positive",
+      "takeaway": "Shanti Educational Initiatives gets BSE approval to merge with GREW Energy.",
+      "sources_count": 2,
+      "enriched": true
     }
   ]
 }
