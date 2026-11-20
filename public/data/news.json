@@ -1,13 +1,70 @@
 {
-  "generated_at": "2026-11-20T10:34:31.442Z",
+  "generated_at": "2026-11-20T22:07:29.949Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 160,
-    "watchlist": 681,
-    "universe": 54,
-    "total": 735
+    "watchlist": 686,
+    "universe": 58,
+    "total": 744
   },
   "items": [
+    {
+      "id": "n8fae7cf78874",
+      "ticker": "THEME",
+      "company": "Power Equipment",
+      "sector": "Capital Goods",
+      "scope": [
+        "universe"
+      ],
+      "title": "Waaree wins $10.7 M transformer order",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWm5hR2E3aHJaYnpEV19lUm5ZajhDb3phMnkyby1vajJvbGZ6a0Zqc3lHQVZ1aTl4MEJ6Q1UwQjNKUFlVZS11MHRkM1pac1ZFMndPcUtlU0ZtLXMxMXRjX3lnQmFlbzVnWkFHYjB2QVlkVHNpUUtsY3I3SndtSUNmV0pn?oc=5",
+      "source": "https://megaproject.com/",
+      "date": "2026-11-20T15:20:37.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Waaree secured a $10.7 million transformer order.",
+      "enriched": true
+    },
+    {
+      "id": "nc9f388573a32",
+      "ticker": "THEME",
+      "company": "Specialty Chemicals",
+      "sector": "Chemicals",
+      "scope": [
+        "universe"
+      ],
+      "title": "Indian Emulsifiers Limited Reports 79% Revenue Growth In H1 FY27 As Capacity Expansion And Diversification",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNajVweXhpU1pWVW1jNVlaWmtUU252LU9hYlpJXzgyRmlOWnAyMUhTcHBJM2QwYy1fb2Z4dHNZRFVMc2s0X3dPRk1DT1hiVmM3Q2I1VzRxZHczcTFNMExPQUlvSmsyX2VZaG1PUUpFaWVNTDBuZHBUbGR0bDJkWHc0QS16U3BtMnJmM2tBYkhEbUk3b3RUdldHQ19sb19LdjV5bHFBcWdIcHBhOU51RFZHb0RxdVFGclI5YjBVVXcxSHJwY3laTGxFT1dYNi1MSzRvaDJVbGVMLXJjLVo3THpsME1ueHNoME1ucUZJSm15V3hrMXR00gH6AUFVX3lxTE1UQWVtbGVhLXc2aVN0ak9WNFdCN1JScnVsYkxYbnFTWHBzZVU2MDlZUFRnbHdQZDR2MlZIbTRGeTNLOUFfNUtZQXQ3eXVQM2VxT3RDSzkyNExzLS1lNjl5Qm1jRDhGTHJJTWF5Vy1JSVpIeEZkVUF1Nl9aOHlycEZzOUplUlRQOHY4blVlUUZQN2l1RklybWIwMVFBRDJjeWc2V0hwc00wNnQ1OV9mY044S3B6UzdtdHo1UmE0eXl6MENOSjZFTXB1WG1nbWtHaXhfQnczeG1KMXIxUGtnVFNDTWRRV3ZfNzJzdmNRZlhuUFYxSDNWd2NWZWc?oc=5",
+      "source": "Free Press Journal",
+      "date": "2026-11-20T14:28:35.000Z",
+      "topic": "Growth",
+      "keyword": "Capacity Expansion",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Indian Emulsifiers reported 79% revenue growth in H1 FY27 driven by capacity expansion and diversification.",
+      "enriched": true
+    },
+    {
+      "id": "n9998a64b0278",
+      "ticker": "THEME",
+      "company": "Specialty Chemicals",
+      "sector": "Chemicals",
+      "scope": [
+        "universe"
+      ],
+      "title": "Vishnu Chemicals sets up chromium metal joint venture",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPaTZEakJPN3duSmxSRlR2dFlyT0FUNFlPZk9rUlljUFFZeXdTeFhuODVIcmFna0MydUh4bDhBV0VMMGd0bmFIZGRZdkVXNnhmanE0SHJHQWktWnVlMkV6MElQaDJ4S0pwejJNbW85SHRRQ3p2UzdiYlI3b002Vjl5UjlWNGdPNUNZblZhZ1JLaDRBNndvUFVfQy1oQjVlSV9OeV9SMTV5Tk84RWRBOUZtMVdGYUtPSW9vNGFpaEpNVlRXWDVZX2ppT1E3eGpMN0pXTE85SEJPbTVwSklkZVZHX2dOb1FxQ1gtN1hyUDB0WEk5NDkzRFNCcjlVMWpBeFVQQnE4anV30gHUAUFVX3lxTE5ZbE1HdzJRcWVoWFRfeV9BNDc0YUtIazRfRTBGWE5LOGlDUGo4aUhsUUx2ZU5rQnBocHY5czZ5YnlGUWZlMUpZUkhXREo5N1RUZDA1VmVGR0o4X2xYZVpiZUtOczcyR0RDLVZXaXdUY0F5YkxwV2FScFZWU3Nzb1hnVm12M3JFUktqT2JadFVwdFBUcnBCb0NHLTI2TWpobzJ2VmdFRlZmZjJDeWNINWNIb3B1ZGktWERfbWh6WHRIUEY4aTVnMWpVU2YtR25lVlhwNWxx?oc=5",
+      "source": "Indiatimes",
+      "date": "2026-11-20T11:26:28.000Z",
+      "topic": "Deals",
+      "keyword": "Joint Venture",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Vishnu Chemicals established a joint venture for chromium metal production.",
+      "enriched": true
+    },
     {
       "id": "n4b7b862f7b0f",
       "ticker": "THEME",
@@ -184,6 +241,25 @@
       "enriched": true
     },
     {
+      "id": "ne678d6145195",
+      "ticker": "THEME",
+      "company": "Electronics / PLI",
+      "sector": "Consumer Durables",
+      "scope": [
+        "universe"
+      ],
+      "title": "Andhra govt allots 6,000 acres to BPCL for ₹1 lakh cr-refinery, to give back 75% capex as sops",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPejQzeFJWVTRjXzRwUUxEZFdjT09udXV3d0QtQTFvRHdtMWVSTDNvaE9oZ0RMRy1PM2xYZ2ppRE0ya0xHZ0xPSUcxdlZWak96X0pYYjJWQkpSOVVKbmVQOVJwc08yMDNMdVZocDUxV1Bld3JOZkREOEN6bXNRYVhjZWhaMmFpdDBCckU4T2wxbnVzaGtVZ0dKMHBKSXM0OFF1czJJRVpFa1hEbzJCWll1WEZya1RSTEFyTWF5U19FeG94bFJySnZkbVExdVp0X1BTcDlZbXExcVZyRHJkZFBNUE5qeWVwVXVkeHptZG9kUWlPU1hYdGFHQ29iTlZEQXfSAfoBQVVfeXFMT1ZtbVBlYmtJR2hRQlFvUW05b0UxUzBXN3Zkd29wQmZ0SFBiSzVHcmFnNFVycWo1RHFQZmltYnd0dVJnRm82YlplSnZBRGFHMV9acjRWdDZ2Z0NfRl9UWUZIZUdaT2c4amNSNXZNZFNkSV9MMkJtZUxLMVpQbUJnV1dYSk1BQURKSElyWGQzUmRGdWlDbDRNVk54UjlqR1pPMFVrMERqN3M4M01iRDhIN2ljbGc5MTlmZkZzckwtdUhZX3E1WFgxX2FwYVFIRDlVNmdXRjhYeEFRdTBDNVJwbHhablk2RF83NzZraDh5eUI1UnhMM1VURUVpQQ?oc=5",
+      "source": "ET Manufacturing",
+      "date": "2026-11-14T08:00:00.000Z",
+      "topic": "Growth",
+      "keyword": "Capex",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Andhra govt allotted 6,000 acres to BPCL for ₹1 lakh crore refinery with 75% capex subsidy.",
+      "enriched": true
+    },
+    {
       "id": "n074ab53768dd",
       "ticker": "MACRO",
       "company": "India Defence Exports",
@@ -280,6 +356,45 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Xpro India seeks approval for Rs. 370 crore subsidiary transactions.",
+      "enriched": true
+    },
+    {
+      "id": "nf7fdd8435068",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Surya Roshni may announce buyback before next board meeting",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVHpEYXdIYUlOTmxpdTdPZGZGdU44aDlzOEMzUlJWVHNMR1RhM29NSEJwSU9sWkhoWE0zNzN6VnVLdDZaTENwcm0xYjQyanFEMDNoQ24wOEFteXhLcmN2c1BXM2xMc0lWOVdsdUVhazd1RS1DZlg3SDBkS3FULWNwekhOV0V5eFhLTC1wVHdVR0JrMUVnTWFvNnhYMUFLQTZwZjJsM3ljMGF5VG45Rk1oaU92bXk2dw?oc=5",
+      "source": "Multibagg AI",
+      "date": "2026-11-13T12:49:58.000Z",
+      "topic": "Money",
+      "keyword": "Buyback",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Surya Roshni may announce a buyback before its next board meeting.",
+      "enriched": true
+    },
+    {
+      "id": "n57e535683520",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Apsis Aerocom Receives ₹93.99 Lakh Supply Order from Aerospace Customer",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV05lV1V2Mk9BeDFudnU0X3VMdWtwRzZqeGpKZ2xYNENvNDZ2bGhhdVVNdXR3VjdOdHQzMzI2LVdTdnUwVFZkeTJBc0N0YlQ0eGdnSHNidUs1N2tvRzA2elBxWFB2Qlk0SjAyNG51SHRpTXJEXzFIWktCM2g0MTE4U1Z3VGVwdWgwc2d3X2xEWUJMMHdQSThjbUlhU1BvVEo4djZjaWh3TGVqOWtDaWlF?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-11-13T11:55:40.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Apsis Aerocom received a ₹94 lakh supply order from an aerospace customer.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -497,6 +612,25 @@
       "mood": "positive",
       "takeaway": "Meesho acquires Kirana Club for Rs 186.71 crore to expand its business reach.",
       "sources_count": 5,
+      "enriched": true
+    },
+    {
+      "id": "nfdd5e5c8b772",
+      "ticker": "MEESHO",
+      "company": "Meesho Limited",
+      "sector": "Consumer Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Meesho (NSE:MEESHO) Completes First Two Tranches of Kirana Platform Acquisition",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYUJrb3BlSjJzcURsTVFacXNBbno0RWcwcE9LWk5fUmw0ZFBqOE0tUkZlODZfXzB5VW54RDZ0YjdrM1h0YzBzSmx5NEFmVXA5RjVuMGs2VURxdGxDNXBMZXIyWk1yZV9hRmVzQ1JRVTBSZXZieEU4WnhEby1odkpnd0VMT3RPeEF2bzRpcXpKN0dab2VES3p0RVc2ejNHTGtsZ1NTS1prM3gycWtwM0RFei1GZzFRTmVsbFBCZmlXcmR6Sk5LTGpySXVpU092MFU?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-11-09T09:31:00.000Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Meesho completed first two tranches of acquiring Kirana platform.",
       "enriched": true
     },
     {
@@ -732,7 +866,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Shaily Engineering Plastics discussed Q2 FY27 results in earnings call.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -914,7 +1048,8 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Senores Pharmaceuticals released Q2 FY27 earnings results.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n658f2a03b5ea",
@@ -2211,7 +2346,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Sudeep Pharma received FDA approval to start operations at its new manufacturing facility in Gujarat.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -2251,6 +2386,25 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Sudeep Pharma received FDA approval for its new 51,200 MT capacity plant in Gujarat.",
+      "enriched": true
+    },
+    {
+      "id": "nfd1f6bc2257a",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "E2E Networks (NSE:E2E) Proposes About 5.4 MW GPU Capacity Expansion",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZml0aVZ5bXdxS2ZKMUFLZWNlNlZRQm83cHFYN1RiUkN3THVtc2FDQkxOZG9EbnIxWWI5V05Gc2ZEZmwxVEk4amtKMUZjMlZxQmhoZTFneUkyQ2FGX1dTeDlBSTJISWZRNXhhYzJuUVlVNUFNcmgwR2VJcnppTndUMzRTT2ZmY3JOOGl5MmF5Q3ZrUmVmQ1ViLXdkWDZRNFJIWkI4RW0xc0xBUjR4bXpGZVpWZVIwU3JOLWNRWA?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-10-26T07:00:00.000Z",
+      "topic": "Growth",
+      "keyword": "Capacity Expansion",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "E2E Networks plans to expand GPU capacity by about 5.4 MW.",
       "enriched": true
     },
     {
@@ -8859,25 +9013,6 @@
       "enriched": true
     },
     {
-      "id": "nb6216ef42806",
-      "ticker": "SURYAROSNI",
-      "company": "Surya Roshni Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Surya Roshni: Q1 FY27 Earnings Call Transcript Released",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV3M3c0tJZGdGQ3gzYUtjQkhEaWNYOGxSZTdaQTM2cjFPZ2xWdnhKdGhWY1haTnZrUXl0TndUeDhGRFlucmtXWlpxQkNlYUNDa1RXNHhMN1Rld0pjNEZyOVNEeFB0WGh5a3B5OThlNHdJRjhFYmFwX3VacElfaXZMcU1RM1ctdHFXOVE?oc=5",
-      "source": "investywise.com",
-      "date": "2026-08-18T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Surya Roshni released Q1 FY27 earnings call transcript.",
-      "enriched": true
-    },
-    {
       "id": "n547462ede3a7",
       "ticker": "THEME",
       "company": "Electronics / PLI",
@@ -8894,6 +9029,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Dixon Tech plans annual capex of ₹800-1,000 crore with improving margins.",
+      "enriched": true
+    },
+    {
+      "id": "nb6216ef42806",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Surya Roshni: Q1 FY27 Earnings Call Transcript Released",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV3M3c0tJZGdGQ3gzYUtjQkhEaWNYOGxSZTdaQTM2cjFPZ2xWdnhKdGhWY1haTnZrUXl0TndUeDhGRFlucmtXWlpxQkNlYUNDa1RXNHhMN1Rld0pjNEZyOVNEeFB0WGh5a3B5OThlNHdJRjhFYmFwX3VacElfaXZMcU1RM1ctdHFXOVE?oc=5",
+      "source": "investywise.com",
+      "date": "2026-08-18T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Surya Roshni released Q1 FY27 earnings call transcript.",
       "enriched": true
     },
     {
@@ -9341,6 +9495,160 @@
       "enriched": true
     },
     {
+      "id": "n01059177f95d",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Remsons Industries Report Q2 & H1 FY27 | EquityBulls",
+      "url": "https://www.equitybulls.com/news/378722/remsons-industries-report-q2-h1-fy27",
+      "source": "equitybulls.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Remsons Industries released Q2 and H1 FY27 financial results.",
+      "enriched": true,
+      "sources_count": 2
+    },
+    {
+      "id": "n7c8f658dd7fe",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Australian Premium Solar (India) Limited Delivers 45% Growth in Total Income in H1 FY27 | EquityBulls",
+      "url": "https://www.equitybulls.com/news/378735/australian-premium-solar-india-limited-delivers-45-growth-in-total-income-in-h1",
+      "source": "equitybulls.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Australian Premium Solar India reported 45% growth in total income for first half of fiscal year.",
+      "enriched": true
+    },
+    {
+      "id": "ne6f7646a3718",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Kirloskar-backed Arka Fincap secures investment from TPG to accelerate growth and retail transformation | EquityBulls",
+      "url": "https://www.equitybulls.com/news/378719/kirloskar-backed-arka-fincap-secures-investment-from-tpg-to-accelerate-growth-an",
+      "source": "equitybulls.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Arka Fincap secured investment from TPG to fund growth and retail expansion.",
+      "enriched": true
+    },
+    {
+      "id": "na982ad664aba",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Surya Roshni sees steel EBITDA per tonne above Rs 5,000 | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/surya-roshni-steel-ebitda-q4-concall-cmwez5ebn00by2cqxfubna6ag",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Surya Roshni's steel division EBITDA per tonne exceeds Rs 5,000.",
+      "enriched": true
+    },
+    {
+      "id": "n838aee6918fc",
+      "ticker": "SURYAROSNI",
+      "company": "Surya Roshni Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Jhandewalas Foods confirms no deviation in preferential issue fund utilization for Q3 2026 | InvestyWise",
+      "url": "https://www.investywise.com/jhandewalas-foods-limited-statement-of-deviation-on-preferential-issue-funds/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Preferential Issue",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Jhandewalas Foods confirms no deviation in preferential issue fund use for Q3 2026.",
+      "enriched": true
+    },
+    {
+      "id": "nfa3dbf87dff2",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Abha Power and Steel Secures ₹1.20 Crore Order from Railway OEM | EquityBulls",
+      "url": "https://www.equitybulls.com/news/378861/abha-power-and-steel-secures-1-20-crore-order-from-railway-oem",
+      "source": "equitybulls.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Abha Power and Steel won a small ₹1.20 crore order from a railway equipment maker.",
+      "enriched": true
+    },
+    {
+      "id": "ncef322c6ad56",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "JSW Infrastructure’s Subsidiary Receives Letter of Allotment for ₹60 Crore Gati Shakti Cargo Terminal in Punjab | EquityBulls",
+      "url": "https://www.equitybulls.com/news/378860/jsw-infrastructure-s-subsidiary-receives-letter-of-allotment-for-60-crore-gati-s",
+      "source": "equitybulls.com",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "JSW Infrastructure subsidiary got approval for ₹60 crore cargo terminal project in Punjab.",
+      "enriched": true
+    },
+    {
+      "id": "ncfb74fe6695b",
+      "ticker": "APSISAERO",
+      "company": "Apsis Aerocom Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Apsis Aerocom Limited’s Rs 31.8 crore book covers H2 FY27 needs | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/apsis-aerocom-order-book-cover-ppt-cmwfjf1aq003r2rl90wmd4qaq",
+      "source": "multibagg.ai",
+      "date": "",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Apsis Aerocom's order book of ₹32 crore covers its revenue needs for the second half of FY27.",
+      "enriched": true,
+      "sources_count": 2
+    },
+    {
       "id": "n192cfd487f84",
       "ticker": "CMLL",
       "company": "Caliber Mining and Logistics Limited",
@@ -9784,102 +10092,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Laxmi Dental's quarterly profit rose to Rs 10.04 crore, showing steady growth.",
-      "enriched": true
-    },
-    {
-      "id": "n01059177f95d",
-      "ticker": "SURYAROSNI",
-      "company": "Surya Roshni Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Remsons Industries Report Q2 & H1 FY27 | EquityBulls",
-      "url": "https://www.equitybulls.com/news/378722/remsons-industries-report-q2-h1-fy27",
-      "source": "equitybulls.com",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Remsons Industries released Q2 and H1 FY27 financial results.",
-      "enriched": true,
-      "sources_count": 2
-    },
-    {
-      "id": "n7c8f658dd7fe",
-      "ticker": "SURYAROSNI",
-      "company": "Surya Roshni Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Australian Premium Solar (India) Limited Delivers 45% Growth in Total Income in H1 FY27 | EquityBulls",
-      "url": "https://www.equitybulls.com/news/378735/australian-premium-solar-india-limited-delivers-45-growth-in-total-income-in-h1",
-      "source": "equitybulls.com",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Australian Premium Solar India reported 45% growth in total income for first half of fiscal year.",
-      "enriched": true
-    },
-    {
-      "id": "ne6f7646a3718",
-      "ticker": "SURYAROSNI",
-      "company": "Surya Roshni Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Kirloskar-backed Arka Fincap secures investment from TPG to accelerate growth and retail transformation | EquityBulls",
-      "url": "https://www.equitybulls.com/news/378719/kirloskar-backed-arka-fincap-secures-investment-from-tpg-to-accelerate-growth-an",
-      "source": "equitybulls.com",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Arka Fincap secured investment from TPG to fund growth and retail expansion.",
-      "enriched": true
-    },
-    {
-      "id": "na982ad664aba",
-      "ticker": "SURYAROSNI",
-      "company": "Surya Roshni Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Surya Roshni sees steel EBITDA per tonne above Rs 5,000 | Market News & Analysis",
-      "url": "https://www.multibagg.ai/market-pulse/articles/surya-roshni-steel-ebitda-q4-concall-cmwez5ebn00by2cqxfubna6ag",
-      "source": "multibagg.ai",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Surya Roshni's steel division EBITDA per tonne exceeds Rs 5,000.",
-      "enriched": true
-    },
-    {
-      "id": "n838aee6918fc",
-      "ticker": "SURYAROSNI",
-      "company": "Surya Roshni Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Jhandewalas Foods confirms no deviation in preferential issue fund utilization for Q3 2026 | InvestyWise",
-      "url": "https://www.investywise.com/jhandewalas-foods-limited-statement-of-deviation-on-preferential-issue-funds/",
-      "source": "investywise.com",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Preferential Issue",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Jhandewalas Foods confirms no deviation in preferential issue fund use for Q3 2026.",
       "enriched": true
     },
     {
@@ -11162,6 +11374,26 @@
       "enriched": true
     },
     {
+      "id": "nce98253a46be",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "E2E Networks stock swings from 5% lower circuit to upper circuit on Nvidia GPU capacity expansion plan- Moneycontrol.com",
+      "url": "https://www.moneycontrol.com/news/business/markets/e2e-networks-stock-swings-from-5-lower-circuit-to-upper-circuit-on-nvidia-gpu-capacity-expansion-plan-14060246.html",
+      "source": "moneycontrol.com",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Capacity Expansion",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "E2E Networks announces expansion of Nvidia GPU capacity for AI cloud services.",
+      "enriched": true,
+      "sources_count": 2
+    },
+    {
       "id": "nf9bbbe4296f5",
       "ticker": "STLTECH",
       "company": "Sterlite Technologies Limited",
@@ -11836,84 +12068,6 @@
       "mood": "positive",
       "takeaway": "Yash Highvoltage subsidiary signs US representation agreement to expand market presence.",
       "enriched": true
-    },
-    {
-      "id": "n8293e0d3b142",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Apsis Aerocom Receives ₹93.99 Lakh Supply Order from Aerospace Customer | EquityBulls",
-      "url": "https://www.equitybulls.com/news/378854/apsis-aerocom-receives-93-99-lakh-supply-order-from-aerospace-customer",
-      "source": "equitybulls.com",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Apsis Aerocom received a supply order worth Rs 94 lakh from an aerospace customer.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "nfa3dbf87dff2",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Abha Power and Steel Secures ₹1.20 Crore Order from Railway OEM | EquityBulls",
-      "url": "https://www.equitybulls.com/news/378861/abha-power-and-steel-secures-1-20-crore-order-from-railway-oem",
-      "source": "equitybulls.com",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Abha Power and Steel won a small ₹1.20 crore order from a railway equipment maker.",
-      "enriched": true
-    },
-    {
-      "id": "ncef322c6ad56",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "JSW Infrastructure’s Subsidiary Receives Letter of Allotment for ₹60 Crore Gati Shakti Cargo Terminal in Punjab | EquityBulls",
-      "url": "https://www.equitybulls.com/news/378860/jsw-infrastructure-s-subsidiary-receives-letter-of-allotment-for-60-crore-gati-s",
-      "source": "equitybulls.com",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "JSW Infrastructure subsidiary got approval for ₹60 crore cargo terminal project in Punjab.",
-      "enriched": true
-    },
-    {
-      "id": "ncfb74fe6695b",
-      "ticker": "APSISAERO",
-      "company": "Apsis Aerocom Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Apsis Aerocom Limited’s Rs 31.8 crore book covers H2 FY27 needs | Market News & Analysis",
-      "url": "https://www.multibagg.ai/market-pulse/articles/apsis-aerocom-order-book-cover-ppt-cmwfjf1aq003r2rl90wmd4qaq",
-      "source": "multibagg.ai",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Apsis Aerocom's order book of ₹32 crore covers its revenue needs for the second half of FY27.",
-      "enriched": true,
-      "sources_count": 2
     },
     {
       "id": "nd5705fd2c259",
@@ -12939,26 +13093,6 @@
       "mood": "neutral",
       "takeaway": "Solar Industries approved Q2 FY27 results and appointed new auditors.",
       "enriched": true
-    },
-    {
-      "id": "nce98253a46be",
-      "ticker": "E2E",
-      "company": "E2E Networks Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "E2E Networks stock swings from 5% lower circuit to upper circuit on Nvidia GPU capacity expansion plan- Moneycontrol.com",
-      "url": "https://www.moneycontrol.com/news/business/markets/e2e-networks-stock-swings-from-5-lower-circuit-to-upper-circuit-on-nvidia-gpu-capacity-expansion-plan-14060246.html",
-      "source": "moneycontrol.com",
-      "date": "",
-      "topic": "Growth",
-      "keyword": "Capacity Expansion",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "E2E Networks announces expansion of Nvidia GPU capacity for AI cloud services.",
-      "enriched": true,
-      "sources_count": 4
     },
     {
       "id": "nfa2014ab6be7",
@@ -14297,24 +14431,61 @@
       "enriched": true
     },
     {
-      "id": "ne9162a243612",
+      "id": "n65a0a2698c93",
       "ticker": "SHANTIINOR",
       "company": "Shanti Inorganics Limited",
       "sector": "Chemicals",
       "scope": [
         "watchlist"
       ],
-      "title": "Shanti Educational Initiatives Wins BSE Clearance for Merger With Solar Powerhouse GREW Energy",
-      "url": "https://theprint.in/ani-press-releases/shanti-educational-initiatives-wins-bse-clearance-for-merger-with-solar-powerhouse-grew-energy/3103865/",
-      "source": "theprint.in",
+      "title": "Shanti Educational Initiatives secures BSE’s ‘no adverse observations’ for GREW Energy merger scheme",
+      "url": "https://www.zeebiz.com/companies/news-shanti-educational-initiatives-secures-bse-s-no-adverse-observations-for-grew-energy-merger-scheme-405816",
+      "source": "zeebiz.com",
       "date": "",
       "topic": "Deals",
       "keyword": "Merger",
       "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Shanti Educational Initiatives gets BSE approval to merge with GREW Energy.",
-      "sources_count": 2,
+      "mood": "neutral",
+      "takeaway": "BSE approves merger scheme between Shanti Educational Initiatives and GREW Energy without objections.",
+      "sources_count": 3,
       "enriched": true
+    },
+    {
+      "id": "ncbf3aba611df",
+      "ticker": "PERMAGN",
+      "company": "Permanent Magnets Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Govt clears Coal India & three others for rare earth magnet production - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/govt-clears-coal-india-three-others-for-rare-earth-magnet-production/articleshow/136009583.cms",
+      "source": "economictimes.indiatimes.com",
+      "date": "",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Government approves Coal India and three others for rare earth magnet production.",
+      "enriched": true
+    },
+    {
+      "id": "n45fe4ae0c2a7",
+      "ticker": "AUSTERE",
+      "company": "Austere Systems Ltd",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Austere Systems schedules Q2 FY27 earnings call for November 17 | InvestyWise",
+      "url": "https://www.investywise.com/austere-systems-limited-earnings-conference-call-scheduled/",
+      "source": "investywise.com",
+      "date": "",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Austere Systems Ltd invites stakeholders to its Earnings Conference Call on Tuesday, November 17, 2026, at 2:00 PM IST to discuss unaudited financial results for the quarter and h…"
     }
   ]
 }
