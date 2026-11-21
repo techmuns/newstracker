@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-20T22:07:29.949Z",
-  "source": "google-news+munshot+valuepickr+claude",
+  "generated_at": "2026-11-21T10:14:22.839Z",
+  "source": "google-news+valuepickr+claude",
   "counts": {
     "portfolio": 160,
-    "watchlist": 686,
+    "watchlist": 682,
     "universe": 58,
-    "total": 744
+    "total": 740
   },
   "items": [
     {
@@ -141,7 +141,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Goldiam International held Q2 FY27 earnings call discussing quarterly results.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -199,6 +199,26 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "DEE Development Engineers posted profit of ₹23.5 crore in Q2 and saw significant order book growth.",
+      "enriched": true
+    },
+    {
+      "id": "ne6f98b9de363",
+      "ticker": "DEEDEV",
+      "company": "DEE Development Engineers Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "DEE order book hits Rs 2,586 crore, 92% process piping",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRVJGSThvaE1aRVZCUGdKbzQtckZJRk9qTnBhWFpGSUNkMms1bndkcHd1dHlaWkJPOGxBaHZERmFYbFdwOGlFaVMzWS02SDh4Z21saXZwNGpPZER1a0Q1d2FTb1FmUjZMTW5uZGZ2Tlo4Z002bWt5UkMtVlB0cXVRWV9MRDFqaWRuSTNnaXNZWDhCMEp1NEJvUDdKQzZoMThLX3dHRzZSbXdJUQ?oc=5",
+      "source": "Multibagg AI",
+      "date": "2026-11-15T16:47:52.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "DEE Development's order book stands at Rs 2,586 crore, with 92% from process piping.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -611,7 +631,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Meesho acquires Kirana Club for Rs 186.71 crore to expand its business reach.",
-      "sources_count": 5,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -1027,7 +1047,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "GMM Pfaudler released Q2 FY27 earnings call audio.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -1632,7 +1652,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Shaily Engineering Plastics exceeded revenue expectations in Q2 2026.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -2389,25 +2409,6 @@
       "enriched": true
     },
     {
-      "id": "nfd1f6bc2257a",
-      "ticker": "E2E",
-      "company": "E2E Networks Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "E2E Networks (NSE:E2E) Proposes About 5.4 MW GPU Capacity Expansion",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZml0aVZ5bXdxS2ZKMUFLZWNlNlZRQm83cHFYN1RiUkN3THVtc2FDQkxOZG9EbnIxWWI5V05Gc2ZEZmwxVEk4amtKMUZjMlZxQmhoZTFneUkyQ2FGX1dTeDlBSTJISWZRNXhhYzJuUVlVNUFNcmgwR2VJcnppTndUMzRTT2ZmY3JOOGl5MmF5Q3ZrUmVmQ1ViLXdkWDZRNFJIWkI4RW0xc0xBUjR4bXpGZVpWZVIwU3JOLWNRWA?oc=5",
-      "source": "Kalkine India",
-      "date": "2026-10-26T07:00:00.000Z",
-      "topic": "Growth",
-      "keyword": "Capacity Expansion",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "E2E Networks plans to expand GPU capacity by about 5.4 MW.",
-      "enriched": true
-    },
-    {
       "id": "n6a8eb19bddf1",
       "ticker": "GLOBAL",
       "company": "Optical Fibre",
@@ -2879,6 +2880,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Transformers & Rectifiers order book grew 32% year-on-year to ₹7,237 crore.",
+      "enriched": true
+    },
+    {
+      "id": "n330d6983da16",
+      "ticker": "MEDIASSIST",
+      "company": "Medi Assist Healthcare Services Limited",
+      "sector": "Financial Services",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Medi Assist Healthcare Services Limited",
+      "url": "https://forum.valuepickr.com/t/medi-assist-healthcare-services-limited/62360",
+      "source": "Valuepickr",
+      "date": "2026-10-13T19:41:18.578Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Medi Assist involved in acquisition activity.",
       "enriched": true
     },
     {
@@ -9223,64 +9243,6 @@
       "enriched": true
     },
     {
-      "id": "n4f90dbc23511",
-      "ticker": "SOLARINDS",
-      "company": "Solar Industries India Limited",
-      "sector": "Chemicals",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "A-1 Limited Secures Rs 387 mn Supply Order From Solar Industries",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSlB1VEQ5STZOcEJRU2NVLUFhcVkzS1k0R0c5MjBIVms5Y1RXTHRMZkJxZnBOenVFb1B6bkdkOWZBZml6WWpadDVLTXdSTlJSMzBmLXhsV2JfMm0zdEZTdU9rakFPVkVTcDVxc3htNU1UNEhfTDREemNyYVRob0dkR3Bsam9zVzgzcWlHTDdJSjFWM25wYnZmRVktSk8tS2JXOV8zb25QRmtyU3lDMElpdTdJRnJwUUNTY3lRQUFOWnBxajlQSVVvYmxWdzhkckw5U2pCMEdrOWNfLU9mcUZzN1liT2lZX2c?oc=5",
-      "source": "Construction World",
-      "date": "2026-08-13T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "A-1 Limited wins Rs 387 million supply order from Solar Industries.",
-      "enriched": true
-    },
-    {
-      "id": "nda59b11a43cf",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions",
-      "sector": "IT",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Aurionpro bags data centre order worth nearly ₹100 crore from global hyperscaler in Navi Mumbai",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPR0t5WHN3d0phTFg2RVM0Z0Q3MjdmUXVZbEdtSW12d3pkU2hLRkFUQ2ZjcWpITUQzeS1ubm9KRTl4QS1PSkNiQjZ2cmlxdWEwNG1kNHl3dS0zYjJRY3A5dmhlVml1WlYtOW9zNkQ3M3dxQ3lWZm5VRWZJT0V4TVpJUmk3UVZrazZia1BvQVVSVENsZEhDemtBZW8ycEp3emdmUGJRaFU2UkF0cENQRVRlRE51LVlrUXpDalQwejVESDhiZHNLdGR6TUpadDVuNy0xZko2RWJSeXEwblpUcWFCUHFEQ0toVHpVNU1XTXYyUDNjSUnSAfoBQVVfeXFMTWZuSVhOd3ZPUkEyN1Zvc1RmMWxQRXRJWTI4QmRDZ3RlejJxOU5COHJfNG8tMVZaUnFjQUNEVUMxamdHTWFQWDNtQUg3SmxLRm13QXJ5YjFScDdmZVVXOEdtcktNRU5rLWxxcXNDb0U2bWNpNkNESGNEUnZsSjJ0cHhBdVNBZFBIXzB2YjliRl9LdE5hdDl0YjlIRk52bHIyN2xWdGVaYlFTbGdHVktoY3hCZTBlRjdZaXBXZmpTbVdSUmd0SU5mZ2t2N2JIZTdmM0RGdU9ZR0hjSEJwOWtoVkRjMGFXLUFqcXg3dFhDdU9tckg1dXJtYzhGZw?oc=5",
-      "source": "BusinessLine",
-      "date": "2026-08-13T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Aurionpro secures nearly ₹100 crore data centre order in Navi Mumbai.",
-      "enriched": true,
-      "sources_count": 3
-    },
-    {
-      "id": "n0abeacdf83ba",
-      "ticker": "AURIONPRO",
-      "company": "Aurionpro Solutions",
-      "sector": "IT",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Aurionpro Solutions secures significant order from global hyperscale data centre operator",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRk1HTk9JSzlPUGZKMTUzN3FrSnIzbDdaN21kTFZWVmg5UU1wb2M4U2VyOWxfMU1zZWdVWDZpR0JBTXE1cDJtVlV6am9ESEdwVW1kV0Z3aDBaZEQ1cXN5Mll5eWZfVy1uaFlUekhWT2lhVDhyVHZQMEhzNXZtdmNTdzItRmJ1MDhTTDFmZ2tkVHBGaDVSQ2kxVFRxdHdoMnJreXIzUzdZMmdiOEhqSkw2cnJKczZZZ25aeDFOSjMzUFN2NXp6?oc=5",
-      "source": "Business Upturn",
-      "date": "2026-08-13T04:21:17.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Aurionpro secures order from global hyperscale data centre operator.",
-      "enriched": true
-    },
-    {
       "id": "ne15ebd972c9d",
       "ticker": "AURIONPRO",
       "company": "Aurionpro Solutions Limited",
@@ -9356,26 +9318,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "DEE Development Engineers wins ₹46 crore contract from US-based engineering firm.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n044867b6c16e",
-      "ticker": "DEEDEV",
-      "company": "DEE Development Engineers Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "DEE order book hits Rs 2,586 crore, 92% process piping | Market News & Analysis",
-      "url": "https://www.multibagg.ai/market-pulse/articles/dee-process-piping-order-book-ppt-cmwi2isx200o32rpbqem7vn31",
-      "source": "multibagg.ai",
-      "date": "",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "DEE's order book stands at Rs 2,586 crore with 92% from process piping projects.",
       "sources_count": 2,
       "enriched": true
     },
@@ -11374,26 +11316,6 @@
       "enriched": true
     },
     {
-      "id": "nce98253a46be",
-      "ticker": "E2E",
-      "company": "E2E Networks Limited",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "E2E Networks stock swings from 5% lower circuit to upper circuit on Nvidia GPU capacity expansion plan- Moneycontrol.com",
-      "url": "https://www.moneycontrol.com/news/business/markets/e2e-networks-stock-swings-from-5-lower-circuit-to-upper-circuit-on-nvidia-gpu-capacity-expansion-plan-14060246.html",
-      "source": "moneycontrol.com",
-      "date": "",
-      "topic": "Growth",
-      "keyword": "Capacity Expansion",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "E2E Networks announces expansion of Nvidia GPU capacity for AI cloud services.",
-      "enriched": true,
-      "sources_count": 2
-    },
-    {
       "id": "nf9bbbe4296f5",
       "ticker": "STLTECH",
       "company": "Sterlite Technologies Limited",
@@ -13095,6 +13017,26 @@
       "enriched": true
     },
     {
+      "id": "nce98253a46be",
+      "ticker": "E2E",
+      "company": "E2E Networks Limited",
+      "sector": "Information Technology",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "E2E Networks stock swings from 5% lower circuit to upper circuit on Nvidia GPU capacity expansion plan- Moneycontrol.com",
+      "url": "https://www.moneycontrol.com/news/business/markets/e2e-networks-stock-swings-from-5-lower-circuit-to-upper-circuit-on-nvidia-gpu-capacity-expansion-plan-14060246.html",
+      "source": "moneycontrol.com",
+      "date": "",
+      "topic": "Growth",
+      "keyword": "Capacity Expansion",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "E2E Networks announces expansion of Nvidia GPU capacity for AI cloud services.",
+      "enriched": true,
+      "sources_count": 3
+    },
+    {
       "id": "nfa2014ab6be7",
       "ticker": "SAPPHIRE",
       "company": "Sapphire Foods India Limited",
@@ -14468,24 +14410,6 @@
       "mood": "positive",
       "takeaway": "Government approves Coal India and three others for rare earth magnet production.",
       "enriched": true
-    },
-    {
-      "id": "n45fe4ae0c2a7",
-      "ticker": "AUSTERE",
-      "company": "Austere Systems Ltd",
-      "sector": "Information Technology",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Austere Systems schedules Q2 FY27 earnings call for November 17 | InvestyWise",
-      "url": "https://www.investywise.com/austere-systems-limited-earnings-conference-call-scheduled/",
-      "source": "investywise.com",
-      "date": "",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Austere Systems Ltd invites stakeholders to its Earnings Conference Call on Tuesday, November 17, 2026, at 2:00 PM IST to discuss unaudited financial results for the quarter and h…"
     }
   ]
 }
